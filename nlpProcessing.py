@@ -4,6 +4,7 @@ import pickle
 from collections import defaultdict
 import webbrowser
 from textblob import TextBlob as tb
+from nltk.stem import WordNetLemmatizer
 
 # tokenize a document on sentence and word level
 def tokenize(doc):
@@ -71,7 +72,8 @@ def wordFreqInColl(word, docList):
 
 # filter words based on Frequency
 def filterDict(docs, words, minDocFreq=2, minCollFreq=2, minWordLength=1):
-    return [word for word in words if wordFreqInColl(word, docs)>minCollFreq and len(word)>minWordLength]
+	lemmatizer = WordNetLemmatizer()
+	return [lemmatizer.lemmatize(word) for word in words if wordFreqInColl(word, docs)>minCollFreq and len(word)>minWordLength]
 
 # create html overview file for a document
 def htmlOutput(doc, ind, namedEntities):	
