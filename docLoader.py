@@ -8,7 +8,7 @@ def loadCouchdb(path):
     rows = dat['rows']
     docs = list(map((lambda doc: doc['value']['Text']),rows))
     titles = list(map((lambda doc: doc['value']['Title']),rows))
-    return zip(titles, docs)
+    return (titles, docs)
 
 # store data as txt file
 def storeAsTxt(dat, path):
