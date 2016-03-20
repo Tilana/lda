@@ -6,8 +6,9 @@ from documentCollection import documentCollection
 
 class testDocumentCollection(unittest.TestCase):
    
-    documentCollection.titles = ['doc1','doc2','doc3']
-    documentCollection.docs = 
+    collection = documentCollection(' ')
+    collection.titles = ['doc1','doc2','doc3']
+    collection.docs = ['Simulated document collection to recognize named entities','African Commission is a named entity','Also names like Peter, ']
     
     def test(self):
         self.assertTrue(True)

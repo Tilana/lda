@@ -1,9 +1,15 @@
+import urllib2
 import docLoader
 import nlpProcessing as nlp
 
 class documentCollection:
     def __init__(self, path):
-        (titles, docs) = docLoader.loadCouchdb(path)
+        try:
+            urllib2.urlopen(urllib2.Request(path)) 
+            (titles, docs) = docLoader.loadCouchdb(path)
+        except:
+            titles = []
+            docs = []
         self.titles = titles
         self.docs = docs
     
