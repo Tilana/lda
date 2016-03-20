@@ -6,18 +6,18 @@ class documentCollection:
     def __init__(self, path):
         try:
             urllib2.urlopen(urllib2.Request(path)) 
-            (titles, docs) = docLoader.loadCouchdb(path)
+            (titles, documents) = docLoader.loadCouchdb(path)
         except:
             titles = []
-            docs = []
+            documents = []
         self.titles = titles
-        self.docs = docs
+        self.documents = documents
     
-    def createDict(self, rmStopwords=True):
-        self.dict = nlp.tokenizeColl(self.docs)
+    def createDictionary(self, rmStopwords=True):
+        self.dictionary = nlp.tokenizeColl(self.documents)
         if rmStopwords:
-            self.dict = nlp.removeStopwords(self.dict)
+            self.dictionary = nlp.removeStopwords(self.dictionary)
 		
     def getNamedEntities(self):
-        self.namedEntities = nlp.getNamedEntities(self.docs)
+        self.namedEntities = nlp.getNamedEntities(self.documents)
 
