@@ -1,7 +1,7 @@
 import unittest
 import os, sys
 
-t = sys.path.append(os.path.dirname(os.path.abspath('LDA')))
+sys.path.append(os.path.dirname(os.path.abspath('LDA')))
 from documentCollection import documentCollection
 
 class testDocumentCollection(unittest.TestCase):

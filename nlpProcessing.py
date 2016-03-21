@@ -8,7 +8,7 @@ from nltk.stem import WordNetLemmatizer
 import utils
 
 # tokenize collection of document to word level
-def tokenizeColl(coll):
+def tokenizeCollection(coll):
     dictionary = utils.flattenList([nltk.word_tokenize(doc) for doc in coll])
     return set([words.lower() for words in dictionary])
 

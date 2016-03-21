@@ -14,7 +14,7 @@ class documentCollection:
         self.documents = documents
     
     def createDictionary(self, rmStopwords=True):
-        self.dictionary = nlp.tokenizeColl(self.documents)
+        self.dictionary = nlp.tokenizeCollection(self.documents)
         if rmStopwords:
             self.dictionary = nlp.removeStopwords(self.dictionary)
 		
