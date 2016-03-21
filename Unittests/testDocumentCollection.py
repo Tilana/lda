@@ -9,7 +9,7 @@ class testDocumentCollection(unittest.TestCase):
     def setUp(self):
         self.collection = documentCollection(' ')
         self.collection.titles = ['doc1','doc2','doc3']
-                
+    
     def test(self):
         self.assertTrue(True)
     

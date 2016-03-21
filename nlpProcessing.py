@@ -12,6 +12,8 @@ def tokenizeCollection(coll):
     dictionary = utils.flattenList([nltk.word_tokenize(doc) for doc in coll])
     return set([words.lower() for words in dictionary])
 
+# 
+
 # tokenize a document on sentence and word level
 def tokenize(doc):
     sentences = nltk.sent_tokenize(doc)
@@ -23,7 +25,7 @@ def posTag(doc):
     return [nltk.ne_chunk(tag, binary=True) for tag in pos]
 
 # traverse through syntax tree
-def traverse(tree):
+def traverseTree(tree):
     namedEntities = []
     if hasattr(tree, 'label') and tree.label:
         if tree.label() == 'NE':
@@ -37,7 +39,7 @@ def traverse(tree):
 def namedEntityRecognizer(pos):
     namedEntities = []
     for tag in pos:
-        namedEntities.extend(traverse(tag))
+        namedEntities.extend(traverseTree(tag))
     return set(namedEntities)
 
 # get named Enities
