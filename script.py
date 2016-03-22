@@ -7,15 +7,19 @@ from lda import namedEntityRecognition
 path = 'http://localhost:5984/uwazi/_design/documents/_view/fulltext'
 collection = documentCollection(path)
 
-collection.createDictionary()
-collection.getNamedEntities()
+#collection.createDictionary()
+#collection.getNamedEntities()
 
 testDoc = collection.documents[0]
+namedEntities = namedEntityRecognition.getNamedEntities(testDoc)
+
 
 ner = namedEntityRecognition(testDoc)
 ner.tagNamedEntities()
-bioTags = ner.bioTagger()
-ner.bio2Tree(bioTags)
+ner.listNameEntities()
+
+tagIndices = ner.getTagIndices('LOCATION')
+
 
 namedEntities = collection.namedEntities
 

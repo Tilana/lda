@@ -1,6 +1,6 @@
 import docLoader
 from documentCollection import documentCollection
 import nlpProcessing as nlp
-from namedEntityRecognition import namedEntityRecognition
+import namedEntityRecognition
 from htmlCreator import htmlCreator
 import utils
