@@ -1,6 +1,4 @@
 import unittest
-import os, sys
-
 from lda import documentCollection
 
 class testDocumentCollection(unittest.TestCase):
@@ -21,7 +19,7 @@ class testDocumentCollection(unittest.TestCase):
        
     def test_getNamedEntities(self):
         self.collection.documents = ['Test named entity recognition of a Collection of documents.',' African Commission is a named entity, also countries like Senegal and Lybia and names like Peter and Anna.','Also organizations like the United Nations or UNICEF should be recognized.']
-        testEntities = [set([]), set([('African Commission','ORGANIZATION'),('Senegal','LOCATION'),('Lybia','LOCATION'),('Peter','PERSON'),('Anna', 'PERSON')]), set([('United Nations','ORGANIZATION'), ('UNICEF','ORGANIZATION')])]
+        testEntities = [[('ORGANIZATION', []), ('LOCATION', []), ('PERSON', [])], [('ORGANIZATION', [u'African Commission']), ('LOCATION', [u'Senegal',u'Lybia']), ('PERSON', [u'Anna', u'Peter'])], [('ORGANIZATION', [u'UNICEF', u'United Nations']),('LOCATION', []), ('PERSON', [])]]
         self.collection.getNamedEntities()
         self.assertEqual(testEntities, self.collection.namedEntities)
     

@@ -22,3 +22,7 @@ class documentCollection:
     def getNamedEntities(self):
         self.namedEntities = [ner.getNamedEntities(document) for document in self.documents]
 
+    def addEntitiesToDict(self):
+        print "Not yet implemented"
+
+

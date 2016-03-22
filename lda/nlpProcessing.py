@@ -12,42 +12,10 @@ def tokenizeCollection(coll):
     dictionary = utils.flattenList([nltk.word_tokenize(doc) for doc in coll])
     return set([words.lower() for words in dictionary])
 
-# 
-
 # tokenize a document on sentence and word level
 def tokenize(doc):
     sentences = nltk.sent_tokenize(doc)
     return [nltk.word_tokenize(sent) for sent in sentences]
-
-# tag parts of speech and chunk named entities 
-def posTag(doc):
-    pos = [nltk.pos_tag(words) for words in doc]
-    return [nltk.ne_chunk(tag, binary=True) for tag in pos]
-
-# traverse through syntax tree
-def traverseTree(tree):
-    namedEntities = []
-    if hasattr(tree, 'label') and tree.label:
-        if tree.label() == 'NE':
-            namedEntities.append(' '.join([child[0] for child in tree]))
-        else:
-            for child in tree:
-                namedEntities.extend(traverseTree(child))
-    return namedEntities
-
-# Named-entity recognition
-def namedEntityRecognizer(pos):
-    namedEntities = []
-    for tag in pos:
-        namedEntities.extend(traverseTree(tag))
-    return set(namedEntities)
-
-# get named Enities
-def getNamedEntities(coll):
-    wordTokens = [tokenize(doc) for doc in coll]
-    pos = [posTag(tokens) for tokens in wordTokens]
-    return [namedEntityRecognizer(p) for p in pos]
-
 
 # remove stopwords from dictionary
 def removeStopwords(doc):

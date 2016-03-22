@@ -28,7 +28,13 @@ def listEntities(taggedEntities):
 def chunkEntities(listEntities):
     return [(u" ".join([token[0] for token in entity]), entity[0][1]) for entity in listEntities]
 
+def getTokensWithTag(entitySet, tag):
+    return (tag, [entity[0] for entity in entitySet if entity[1]==tag])
+
+def orderNamedEntities(entitySet):
+    return [getTokensWithTag(entitySet, 'ORGANIZATION'), getTokensWithTag(entitySet, 'LOCATION'), getTokensWithTag(entitySet, 'PERSON')]
+
 def getNamedEntities(text):
-    return set(chunkEntities(listEntities(tagEntities(text))))
+    return orderNamedEntities(set(chunkEntities(listEntities(tagEntities(text)))))
 
 

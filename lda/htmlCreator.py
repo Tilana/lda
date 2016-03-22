@@ -4,16 +4,40 @@ class htmlCreator:
     def __init__(self):
         pass
     
+    def listToHtmlTable(self, f, title, unicodeList):
+        f.write("""<h3>%s</h3><table>""" % title.encode('utf8'))
+        for items in unicodeList:
+            f.write("""<tr><td>%s</td></tr>""" % items.encode('utf8'))
+        f.write("""</table>""")
+        
     # create html overview file for a document
-    def namedEntitiesOfDocument(self, collection, ind):
+    def htmlDocumentEntities2(self, collection, ind):
+        name = 'html/docEntities%02d.html' % ind
+        f = open(name, 'w')
+        f.write("<html><head><h1>Document %02d - %s </h1></head>" % (ind, collection.titles[ind].encode('utf8')))
+        f.write("""<body><div style="width:100%;"><div style="float:right; width:40%;">""")
+        f.write("""<h3>Named Entities: \n</h3>""")
+        for entities in collection.namedEntities[ind]:
+            self.listToHtmlTable(f,entities[0],entities[1])
+        f.write("""</div>""")
+        f.write("""<div style="float:left; width:55%%;"><p>%s</p></div></div></body></html>""" % collection.documents[ind].encode('utf8'))
+        f.close()
+        webbrowser.open_new_tab('html/docEntities%02d.html' % ind)
+        
+    # create html overview file for a document
+    def htmlDocumentEntities(collection, ind):
         name = 'html/nlpDoc%02d.html' % ind
         f = open(name, 'w')
         f.write("<html><head><h1>Document %02d - %s </h1></head>" % (ind, collection.titles[ind].encode('utf8')))
         f.write("""<body><div style="width:100%;"><div style="float:right; width:40%;">""")
         f.write("""<h3>Named Entities: \n</h3><table>""")
+        f.write("""<p>Locations: </p>""")
         f.write("""<col style="width:40%"> <col style="width:50%">""")
-        for ent in collection.namedEntities[ind]:
-        	f.write("""<tr><td>%s</td> </tr>""" % ent.encode('utf8'))
+        locations = [entity[0] for entity in collection.namedEntities[ind] if entity=='LOCATION']
+        persons = [entity[0] for entity in collection.namedEntities[ind] if entity=='PERSON']
+        organisations = [entity[0] for entity in collection.namedEntities[ind] if entity=='ORGANIZATION']
+        for ent in locations:
+            f.write("""<tr><td>%s</td> </tr>""" % ent[0].encode('utf8'))
         f.write("""</table></div>""")
         f.write("""<div style="float:left; width:55%%;"><p>%s</p></div></div></body></html>""" % collection.documents[ind].encode('utf8'))
         f.close()
