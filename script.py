@@ -1,8 +1,8 @@
-from documentCollection import documentCollection
-import nlpProcessing as nlp
+from lda import documentCollection
+from lda import nlp
 from gensim import corpora
-from htmlCreator import htmlCreator
-from namedEntityRecognition import namedEntityRecognition 
+from lda import htmlCreator
+from lda import namedEntityRecognition 
 
 path = 'http://localhost:5984/uwazi/_design/documents/_view/fulltext'
 collection = documentCollection(path)

@@ -15,9 +15,7 @@ class namedEntityRecognition:
         return [(ind, item) for ind, item in enumerate(ner.taggedNameEntities) if item[1]==name]
 
     def combineConsecutiveTags(self, tags):
-        
-
-
+        print "Test"
     
     def bioTagger(self):
         bioTagged = []
@@ -44,10 +42,6 @@ class namedEntityRecognition:
         allTags = [(token, pos, entity) for token, pos, entity in zip(tokens, posTags, tags)]
         entityTree = conlltags2tree(allTags)
         return entityTree
-
-    def order
-        
-
 
 
 

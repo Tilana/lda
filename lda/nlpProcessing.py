@@ -32,7 +32,7 @@ def traverseTree(tree):
             namedEntities.append(' '.join([child[0] for child in tree]))
         else:
             for child in tree:
-                namedEntities.extend(traverse(child))
+                namedEntities.extend(traverseTree(child))
     return namedEntities
 
 # Named-entity recognition

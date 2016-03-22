@@ -1,9 +1,6 @@
 import unittest
-import os,sys
-
-sys.path.append(os.path.dirname(os.path.abspath('LDA')))
-import nlpProcessing as nlp
-from documentCollection import documentCollection
+from lda import nlp
+from lda import documentCollection
 
 class testNlpProcessing(unittest.TestCase):
     
@@ -14,7 +11,7 @@ class testNlpProcessing(unittest.TestCase):
         self.assertTrue(True)
     
     def test_tokenizeCollection(self):
-        self.assertEqual(nlp.tokenizeCollection(self.documents), set(['ignore','.','split','!','?','mr.',"''", '``','jone`s','words','in','quotes','lower','case']))
+        self.assertEqual(nlp.tokenizeCollection(self.documents), set(['ignore','.','split','!','?','mr.',"''",'and','do','n\'t','108/82','7','article', '``','jone`s','words','in','quotes']))
 
 
 if __name__ == '__main__':

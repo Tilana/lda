@@ -1,8 +1,6 @@
 import unittest
 import os, sys
-
-sys.path.append(os.path.dirname(os.path.abspath('LDA')))
-import utils
+from lda import utils
 
 class testUtils(unittest.TestCase):
     
