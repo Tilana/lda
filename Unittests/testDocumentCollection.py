@@ -20,8 +20,8 @@ class testDocumentCollection(unittest.TestCase):
         self.assertEqual(self.collection.dictionary, set(['test','like','-tokenization-','common','words','deleted','.','stopwords',',','?','special\\','characters','article','78','(','5',')','constitution','references','103/93','78','dates','23.01.1998','12th','march','2003']))
        
     def test_getNamedEntities(self):
-        self.collection.documents = ['document collection to test named entity recognition.',' African Commission is a named entity, also countries like Senegal and Lybia and names like Peter and Anna.','Also organizations like the United Nations or UNICEF should be recognized.']
-        testEntities = [set([]), set(['African Commission', 'Senegal', 'Lybia', 'Peter', 'Anna']), set(['United Nations', 'UNICEF'])]
+        self.collection.documents = ['Test named entity recognition of a Collection of documents.',' African Commission is a named entity, also countries like Senegal and Lybia and names like Peter and Anna.','Also organizations like the United Nations or UNICEF should be recognized.']
+        testEntities = [set([]), set([('African Commission','ORGANIZATION'),('Senegal','LOCATION'),('Lybia','LOCATION'),('Peter','PERSON'),('Anna', 'PERSON')]), set([('United Nations','ORGANIZATION'), ('UNICEF','ORGANIZATION')])]
         self.collection.getNamedEntities()
         self.assertEqual(testEntities, self.collection.namedEntities)
     

@@ -1,6 +1,7 @@
 import urllib2
 import docLoader
 import nlpProcessing as nlp
+import namedEntityRecognition as ner
 
 class documentCollection:
     def __init__(self, path):
@@ -19,5 +20,5 @@ class documentCollection:
             self.dictionary = nlp.removeStopwords(self.dictionary)
 		
     def getNamedEntities(self):
-        self.namedEntities = nlp.getNamedEntities(self.documents)
+        self.namedEntities = [ner.getNamedEntities(document) for document in self.documents]
 
