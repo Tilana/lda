@@ -1,4 +1,5 @@
 from entities import entities
+import nltk
 
 class document:
     def __init__(self, title=None, text=None):
@@ -11,3 +12,7 @@ class document:
         
     def getNamedEntities(self):
         self.entities = entities(self.text)
+
+    def getWords(self):
+        self.words = set([word.lower() for word in nltk.word_tokenize(self.text)])
+
