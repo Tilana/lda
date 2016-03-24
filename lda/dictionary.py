@@ -1,17 +1,15 @@
-from entities import entities
-
 class dictionary:
         
     def __init__(self):
-        self.words = []
-        self.stopwords = []
-
+        self.words = set([])
+        self.stopwords = set([])
+    
     def addDocument(self, document):
         if not document.hasWordsAttribute():
             document.createWords()
-        self.words = self.words.union(document.word)
-
+        self.words = self.words.union(document.words)
+    
     def addCollection(self, collection):
-        for document in collection:
-            adDocument(self, document)
+        for document in collection.documents:
+            self.addDocument(document)
 
