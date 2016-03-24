@@ -4,6 +4,7 @@ from document import document
 import nlpProcessing as nlp
 import namedEntityRecognition as ner
 from entities import entities
+from dictionary import dictionary
 
 class documentCollection:
     def __init__(self, path):
@@ -15,10 +16,11 @@ class documentCollection:
             texts = ['']
         self.documents = [document(title, text) for title, text in zip(titles, texts)]
             
-    def createDictionary(self, rmStopwords=True):
-        self.dictionary = nlp.tokenizeCollection(self.documents)
-        if rmStopwords:
-            self.dictionary = nlp.removeStopwords(self.dictionary)
+    def createDictionary(self):
+        print self.documents[0]
+        self.dictionary = dictionary()
+        #if rmStopwords:
+        #    self.dictionary = nlp.removeStopwords(self.dictionary)
     
     def getNamedEntities(self):
         for document in self.documents:

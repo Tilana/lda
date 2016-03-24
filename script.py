@@ -5,7 +5,7 @@ path = 'http://localhost:5984/uwazi/_design/documents/_view/fulltext'
 collection = documentCollection(path)
 
 collection.documents[1].getNamedEntities()
-collection.documents[1].getWords()
+collection.documents[1].createWords()
 
 collection.documents = collection.documents[0:2]
 collection.getNamedEntities()

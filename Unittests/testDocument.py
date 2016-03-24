@@ -8,9 +8,9 @@ class testDocument(unittest.TestCase):
         self.emptyDocument = document('','')
         self.emptyDocument.getNamedEntities()
     
-    def test_getWords(self):
+    def test_createWords(self):
         testDocument = document('Test Doc', 'Test of tokenization\n dates like 12.03.1998, 103/78 and later also Article 7 should be kept together.?')
-        testDocument.getWords()
+        testDocument.createWords()
         self.emptyDocument.words = set([u'test',u'of',u'tokenization',u'dates',u'like',u'12.03.1998',u',',u'103/78', u'and', u'later', u'also',u'article',u'7',u'should', u'be', u'kept', u'together', u'.', u'?'])
         self.assertEqual(testDocument.words, self.emptyDocument.words)
 
