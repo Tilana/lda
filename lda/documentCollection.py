@@ -14,22 +14,26 @@ class documentCollection:
         except:
             titles = ['']
             texts = ['']
-        self.documents = [document(title, text) for title, text in zip(titles, texts)]
-            
+        self.documents = self._createDocumentList(titles, texts)
+
     def createDictionary(self):
         print self.documents[0]
         self.dictionary = dictionary()
-        #if rmStopwords:
-        #    self.dictionary = nlp.removeStopwords(self.dictionary)
+        self.dictionary.addCollection(self)
     
     def getNamedEntities(self):
         for document in self.documents:
-            document.getNamedEntities()
+            document.createEntities()
         self.entities = entities('')
-        for tag in self.documents[0].entities.__dict__.keys():
-            self.entities.addEntities(tag, set().union(*[getattr(document.entities, tag) for document in self.documents]))
-    
+        self._addDocumentEntities()
+            
     def addEntitiesToDict(self):
         print "Not yet implemented"
 
+    def _createDocumentList(self, titles, texts):
+        return [document(title, text) for title, text in zip(titles, texts)]
+
+    def _addDocumentEntities(self):
+        for tag in self.documents[0].entities.__dict__.keys():
+            self.entities.addEntities(tag, set().union(*[getattr(document.entities, tag) for document in self.documents]))
 

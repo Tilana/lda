@@ -6,7 +6,7 @@ class testDocument(unittest.TestCase):
     
     def setUp(self):
         self.emptyDocument = document('','')
-        self.emptyDocument.getNamedEntities()
+        self.emptyDocument.createEntities()
     
     def test_createWords(self):
         testDocument = document('Test Doc', 'Test of tokenization\n dates like 12.03.1998, 103/78 and later also Article 7 should be kept together.?')
@@ -17,7 +17,7 @@ class testDocument(unittest.TestCase):
     
     def test_getNamedEntities(self):
         testDocument = document('Test Document','Name entities like World Health Organization, person names like Sir James and Ms Rosa Wallis but also locations like Lebanon, United States of America or cities like New York have to be recognized')
-        testDocument.getNamedEntities()
+        testDocument.createEntities()
         
         self.emptyDocument.entities.LOCATION = [u'United States of America', u'Lebanon', u'New York']
         self.emptyDocument.entities.PERSON = [u'Sir James', u'Ms Rosa Wallis']

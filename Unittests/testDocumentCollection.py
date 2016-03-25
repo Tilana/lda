@@ -16,7 +16,9 @@ class testDocumentCollection(unittest.TestCase):
         targetDictionary = dictionary()
         targetDictionary.words = set(['test', '-tokenization-', 'and', 'if','common', 'words','are','deleted','.','stopwords','like','of',',','but','?','special\\','characters','article','78','(','5',')','constitution','references','103/93','dates','23.01.1998','or', '12th','march','2003'])
         targetDictionary.stopwords = set([])
-        self.assertEqual(self.collection.dictionary.__dict__, targetDictionary.__dict__)
+
+        for attribute in targetDictionary.__dict__.keys():
+            self.assertEqual(getattr(self.collection.dictionary, attribute), getattr(targetDictionary, attribute))
         
         # self.collection.createDictionary()
         # self.assertEqual(self.collection.dictionary, set(['test','like','-tokenization-','common','words','deleted','.','stopwords',',','?','special\\','characters','article','78','(','5',')','constitution','references','103/93','78','dates','23.01.1998','12th','march','2003']))

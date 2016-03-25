@@ -11,7 +11,7 @@ class testDictionary(unittest.TestCase):
         self.targetDictionary = dictionary()
 
     def test_addDocument(self):
-        self.testDictionary.words = self.testDictionary.words.union(['words', 'already', 'added', 'to', 'dictionary'])
+        self.testDictionary.update(['words', 'already', 'added', 'to', 'dictionary'])
         self.testDictionary.addDocument(self.doc)
         
         self.targetDictionary.words = set(['test', 'words', 'already', 'dictionary', 'to', 'see', 'if', 'this', 'text', 'is', 'added', 'to', 'dictionary.words'])
@@ -30,10 +30,23 @@ class testDictionary(unittest.TestCase):
 
         self.targetDictionary.words = set(['test', '1', '.', '2', '?', '3', '!'])
         self.compareDictionaries()
+
+    def test_addStopwordsEmptyList(self):
+        self.testDictionary.addStopwords(['add', 'WORDS', 'to', 'stoplist'])
+        self.targetDictionary.stopwords = set(['add', 'words','to', 'stoplist'])
+        self.compareDictionaries()
+
+    def test_addStopwordsSet(self):
+        self.testDictionary.stopwords = set(['already', 'in', 'stoplist'])
+        self.testDictionary.addStopwords(set(['add', 'WORDS', 'to', 'stoplist']))
+        self.targetDictionary.stopwords = set(['already', 'in','add', 'words','to', 'stoplist'])
+        self.compareDictionaries()
+
     
     def compareDictionaries(self):
         for attribute in self.targetDictionary.__dict__.keys():
             self.assertEqual(getattr(self.targetDictionary, attribute), getattr(self.testDictionary, attribute))
-            
+
+
 if __name__ =='__main__':
     unittest.main()
