@@ -24,7 +24,22 @@ class htmlCreator:
         f.write("""<div style="float:left; width:55%%;"><p>%s</p></div></div></body></html>""" % document.text.encode('utf8'))
         f.close()
         webbrowser.open_new_tab('html/docEntities%02d.html' % ind)
-        
+    
+    # create html file of dictionary
+    def htmlDictionary(self, collection):
+        name = 'html/dictionaryCollection.html'
+        f = open(name, 'w')
+        dictionary = collection.dictionary
+        f.write("<html><head><h1>Dictionary of Document Collection</h1></head>") 
+        f.write("""<body><div style="width:100%;"><div style="float:right; width:40%;">""")
+        self.listToHtmlTable(f, 'Stopwords', dictionary.stopwords)
+        f.write("""</div>""")
+        f.write("""<div style="float:left; width:55%%;">""")
+        self.listToHtmlTable(f, 'Words in Dictionary', dictionary.words)
+        f.write("""</div></div></body></html>""")
+        f.close()
+        webbrowser.open_new_tab('html/dictionaryCollection.html')
+       
     # print unprocessed and processed dictionary
     def compareDictionaries(self, collection):
         name = 'html/dictionary.html'

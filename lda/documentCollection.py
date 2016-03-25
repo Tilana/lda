@@ -17,7 +17,6 @@ class documentCollection:
         self.documents = self._createDocumentList(titles, texts)
 
     def createDictionary(self):
-        print self.documents[0]
         self.dictionary = dictionary()
         self.dictionary.addCollection(self)
     

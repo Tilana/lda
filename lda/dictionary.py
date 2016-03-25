@@ -15,6 +15,11 @@ class dictionary:
 
     def addStopwords(self, listStopwords):
         self.stopwords.update(self._lowerList(listStopwords))
+        self.removeStopwords()
+
+    def removeStopwords(self):
+        [self.words.discard(stopword) for stopword in self.stopwords]
+
 
     def _lowerList(self, wordList):
         return [word.lower() for word in wordList]
