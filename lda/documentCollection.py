@@ -1,4 +1,4 @@
-import urllib2
+import urllib3
 import docLoader
 from document import document
 import nlpProcessing as nlp
@@ -15,9 +15,9 @@ class documentCollection:
             titles = ['']
             texts = ['']
         self.documents = self._createDocumentList(titles, texts)
+        self.dictionary = dictionary()
 
     def createDictionary(self):
-        self.dictionary = dictionary()
         self.dictionary.addCollection(self)
     
     def getNamedEntities(self):
