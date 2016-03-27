@@ -11,3 +11,9 @@ class TopicModel:
 
     def createDictionary(self):
         self.dictionary.add_documents([self.collection.dictionary.words]) 
+
+    def createCorpus(self):
+        self.corpus = [self.dictionary.doc2bow(document.words) for document in self.collection.documents]
+
+
+
