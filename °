@@ -16,9 +16,7 @@ class document:
     
     def createTokens(self, stoplist=[]):
         self.tokens= self._tokenizeDocument()
-        print self.tokens
         self.removeStopwords(stoplist)
-        self.includeEntities()
 
     def hasWordsAttribute(self):
         return hasattr(self, 'words')
@@ -29,7 +27,7 @@ class document:
     def removeStopwords(self, stoplist):
         self.tokens = [word for word in self.tokens if word not in stoplist]
 
-    def includeEntities(self):
+    def combineEntityTokens(self):
         entityList = self.entities.getEntities()
         print entityList
         for entity in entityList:
@@ -50,9 +48,10 @@ class document:
                         count+=1
                         if count==lengthEntity:
                             print "Same entity length"
-                            print ' '.join(self.tokens[elem[1]+2-lengthEntity:elem[1]+2])
-                            self.tokens[elem[1]+1] = ' '.join(self.tokens[elem[1]+2-lengthEntity:elem[1]+2])
-                            del self.tokens[elem[1]+2-count:elem[1]+1]
+                            print ' '.join(self.tokens[elem[1+2]-lengthEntity:elem[1+2]])
+                            self.tokens[elem[1]] = ' '.join(self.tokesn[elem[1+2]-lengthEntity:elem[1+2]])
+                            for ind in range(count):
+                                del self.tokens[lengthEntity-ind]
         print self.tokens
 
         

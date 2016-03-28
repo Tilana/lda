@@ -24,7 +24,7 @@ class testDictionary(unittest.TestCase):
         self.compareDictionaries()
     
     def test_addCollection(self):
-        collection = documentCollection(' ')
+        collection = documentCollection()
         collection.documents = [document('doc1', 'Test 1.'), document('doc2', 'Test 2?'), document('doc3', 'Test 3!')]
         self.testDictionary.addCollection(collection)
 

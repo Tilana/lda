@@ -1,4 +1,6 @@
 import namedEntityRecognition as ner
+import utils
+
 # stores named entities of a document sorted by its different tags, like location, person and organization
 class entities:
     
@@ -9,5 +11,8 @@ class entities:
     
     def addEntities(self, tag, entityList):
         setattr(self, tag, entityList)
+
+    def getEntities(self):
+        return utils.flattenList([list(self.LOCATION), list(self.ORGANIZATION), list(self.PERSON)])
 
 

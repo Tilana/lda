@@ -1,4 +1,4 @@
-import urllib3
+import urllib2
 import docLoader
 from document import document
 import nlpProcessing as nlp
@@ -7,11 +7,11 @@ from entities import entities
 from dictionary import dictionary
 
 class documentCollection:
-    def __init__(self, path):
-        try:
+    def __init__(self, path=None):
+        if path is not None:
             urllib2.urlopen(urllib2.Request(path)) 
             (titles, texts) = docLoader.loadCouchdb(path)
-        except:
+        else:
             titles = ['']
             texts = ['']
         self.documents = self._createDocumentList(titles, texts)

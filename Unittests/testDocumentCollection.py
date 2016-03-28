@@ -7,7 +7,7 @@ from lda import entities
 class testDocumentCollection(unittest.TestCase):
     
     def setUp(self):
-        self.collection = documentCollection(' ')
+        self.collection = documentCollection()
     
     def test_createDictionary(self):
         self.collection.documents = [document('doc1', 'Test -tokenization- and if common words are deleted.'), document('doc2', 'stopwords like of, and, but?'), document('doc3', 'special\ characters?\n, Article\n\n78(5), constitution references 103/93 and dates 23.01.1998 or 12th of March 2003')]
