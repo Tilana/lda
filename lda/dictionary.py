@@ -6,8 +6,8 @@ class dictionary:
     
     def addDocument(self, document):
         if not document.hasWordsAttribute():
-            document.createWords()
-        self.words.update(self._lowerList(document.words))
+            document.createTokens()
+        self.words.update(self._lowerList(document.tokens))
     
     def addCollection(self, collection):
         for document in collection.documents:

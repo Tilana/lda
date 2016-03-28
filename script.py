@@ -15,7 +15,7 @@ model.collection.documents = model.collection.documents[0:3]
 #TODO: change words from set to a tokenized representation of the documents
 
 #TODO: make sure that every document in the collection has the attribute words before calling createCorpus()
-[document.createWords() for document in model.collection.documents]
+[document.createTokens() for document in model.collection.documents]
 
 model.collection.createDictionary()
 model.collection.dictionary.addStopwords(STOPWORDS)

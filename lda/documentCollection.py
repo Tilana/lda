@@ -26,9 +26,6 @@ class documentCollection:
         self.entities = entities('')
         self._addDocumentEntities()
             
-    def addEntitiesToDict(self):
-        print "Not yet implemented"
-
     def _createDocumentList(self, titles, texts):
         return [document(title, text) for title, text in zip(titles, texts)]
 
