@@ -29,11 +29,13 @@ def script():
     model.tfidfModel()
     model.getFrequentWordsInDoc(docNr=0)
 
-    model.lsiModel(self, numTopics=10)
+    model.lsiModel(10)
+    for topic in model.lsi.print_topics(num_topics=10):
     
     html = htmlCreator()
     html.htmlDocumentEntities(model.collection, 0)
     html.htmlDictionary(model.collection)
+    html.printTopics(model)
     
 if __name__ == "__main__":
     script()

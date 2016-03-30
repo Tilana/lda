@@ -23,7 +23,7 @@ class TopicModel:
         return sorted(docRepresentation, key=lambda frequency: frequency[1], reverse=True)[0:N]
     
     def lsiModel(self, numTopics=3):
-        self.lsi = models.LsiModel(corpus=self.corpus, id2word=self.dictionary, num_topic = numTopics)
+        self.lsi = models.LsiModel(corpus=self.corpus, id2word=self.dictionary, num_topics = numTopics)
 
 
 
