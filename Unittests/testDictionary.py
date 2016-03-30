@@ -55,6 +55,16 @@ class testDictionary(unittest.TestCase):
 
         self.compareDictionaries()
 
+    def test_addWords(self):
+        self.testDictionary.words = set(['words', 'in', 'dictionary'])
+        self.testDictionary.stopwords = set(['to', 'also'])
+
+        self.testDictionary.addWords(['words', 'to', 'add', 'also', 'separated entities'])
+        self.targetDictionary.words = set(['words', 'in', 'dictionary', 'add', 'separated entities'])
+        self.targetDictionary.stopwords = set(['to','also'])
+        
+        self.compareDictionaries()
+
     
     def compareDictionaries(self):
         for attribute in self.targetDictionary.__dict__.keys():

@@ -20,8 +20,12 @@ class dictionary:
     def removeStopwords(self):
         [self.words.discard(stopword) for stopword in self.stopwords]
 
+    def addWords(self, wordList):
+        [self.words.add(word) for word in self._lowerList(wordList) if word not in self.stopwords]
+
 
     def _lowerList(self, wordList):
         return [word.lower() for word in wordList]
+
 
 

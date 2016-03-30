@@ -20,7 +20,7 @@ class documentCollection:
     def createDictionary(self):
         self.dictionary.addCollection(self)
     
-    def getNamedEntities(self):
+    def createEntities(self):
         for document in self.documents:
             document.createEntities()
         self.entities = entities('')
