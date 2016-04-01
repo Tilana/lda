@@ -27,31 +27,27 @@ def script():
     model.createCorpus()
     
     model.tfidfModel()
-    model.setFrequentWordsInDoc(docNr=0, N=10)
-    model.createFrequentWords(N=12)
-    print "Frequent Words"
-    for doc in model.collection.documents:
-        print doc.freqWords
+    model.applyToAllDocuments(model.computeVectorRepresentation)
+    model.applyToAllDocuments(model.computeFrequentWords)
 
     model.lsiModel(10)
-    for topic in model.lsi.print_topics(num_topics=10):
-        print topic
+    topics = model.lsi.print_topics(num_topics=3)
+    print "TEST"
+    print topics
+    print len(topics)
+    print topics[0]
 
-    model.createVectorSpace()
+    model.applyToAllDocuments(model.computeTopicCoverage)
 
-    model.createTopicCoverage()
-    print "LSI Coverage"
-    for doc in model.collection.documents:
-        print doc.lsiCoverage
-
-    model.createSimilarityMatrix()
-    model.createSimilarity()
+    model.computeSimilarityMatrix()
+    model.applyToAllDocuments(model.computeSimilarity)
     
     html = htmlCreator()
     html.htmlDocumentEntities(model.collection, 0)
     html.htmlDictionary(model.collection)
     html.printTopics(model)
     html.printDocuments(model)
+    html.printDocsRelatedTopics(model, 3)
     
 if __name__ == "__main__":
     script()
