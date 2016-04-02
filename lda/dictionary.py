@@ -5,7 +5,7 @@ class dictionary:
         self.stopwords = set([])
     
     def addDocument(self, document):
-        if not document.hasWordsAttribute():
+        if not document.hasTokenAttribute():
             document.createTokens()
         self.words.update(self._lowerList(document.tokens))
     

@@ -9,8 +9,8 @@ class testTopicModel(unittest.TestCase):
         self.testModel = TopicModel()
         self.testModel.collection.dictionary.words = set(['test', 'if', 'this', 'test', 'set', 'is', 'converted', 'to', 'a', 'dictionary', 'representation', 'with', 'a', 'corpus'])
         self.testModel.collection.documents = [document('doc1', 'test corpus representation'), document('doc2', 'a corpus and a test')]
-        self.testModel.collection.documents[0].words = [u'test', u'corpus', u'representation']
-        self.testModel.collection.documents[1].words = [u'a', u'corpus', u'and', u'a', u'test']
+        self.testModel.collection.documents[0].tokens= [u'test', u'corpus', u'representation']
+        self.testModel.collection.documents[1].tokens= [u'a', u'corpus', u'and', u'a', u'test']
 
         self.targetModel = copy.deepcopy(self.testModel)
 

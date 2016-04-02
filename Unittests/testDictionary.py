@@ -14,7 +14,7 @@ class testDictionary(unittest.TestCase):
         self.testDictionary.words.update(['words', 'already', 'added', 'to', 'dictionary'])
         self.testDictionary.addDocument(self.doc)
         
-        self.targetDictionary.words = set(['test', 'words', 'already', 'dictionary', 'to', 'see', 'if', 'this', 'text', 'is', 'added', 'to', 'dictionary.words'])
+        self.targetDictionary.words= set(['test', 'words', 'already', 'dictionary', 'to', 'see', 'if', 'this', 'text', 'is', 'added', 'to', 'dictionary.words'])
         self.compareDictionaries()
     
     def test_addDocumentEmptyDict(self):
