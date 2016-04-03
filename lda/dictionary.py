@@ -1,8 +1,12 @@
+import re
+from nltk.stem import WordNetLemmatizer
+
 class dictionary:
         
     def __init__(self):
         self.words = set([])
         self.stopwords = set([])
+        self.specialCharacters = set([])
     
     def addDocument(self, document):
         if not document.hasTokenAttribute():
@@ -26,6 +30,15 @@ class dictionary:
 
     def _lowerList(self, wordList):
         return [word.lower() for word in wordList]
-
+    
+    def deleteSpecialCharacterTokens(self):
+        self.specialCharacters =  set([word for word in self.words if re.match(r'.*[~!\^@#%&\".,-?\/\_\(\)\{\}\[\]:;\*\"].*', word)])
+        for specialChar in self.specialCharacters:
+            self.words.remove(specialChar)
+    
+    def lemmatize(self):
+        wordnet = WordNetLemmatizer()
+        lemmatizedTokens = set([wordnet.lemmatize(wordnet.lemmatize(word, 'v')) for word in self.words])
+        self.lemmaDict = lemmatizedTokens 
 
 

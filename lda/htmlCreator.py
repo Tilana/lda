@@ -29,13 +29,21 @@ class htmlCreator:
         name = 'html/dictionaryCollection.html'
         f = open(name, 'w')
         dictionary = collection.dictionary
-        f.write("<html><head><h1>Dictionary of Document Collection</h1></head>") 
-        f.write("""<body><div style="width:100%;"><div style="float:right; width:40%;">""")
-        self.listToHtmlTable(f, 'Stopwords', dictionary.stopwords)
-        f.write("""</div>""")
-        f.write("""<div style="float:left; width:55%%;">""")
+        f.write("""<html><head><h1>Dictionary of Document Collection</h1><style type="text/css"> body>div {width: 23%; float: left; border: 1px solid} </style></head>""") 
+        f.write("""<body><div>""")
         self.listToHtmlTable(f, 'Words in Dictionary', dictionary.words)
-        f.write("""</div></div></body></html>""")
+        f.write("""</div>""")
+        f.write("""<div>""")
+        self.listToHtmlTable(f, 'Lemmatized Dictionary', dictionary.lemmaDict)
+        f.write("""</div>""")
+
+        f.write("""<div>""")
+        self.listToHtmlTable(f, 'Removed Special Characters', dictionary.specialCharacters)
+        f.write("""</div>""")
+        f.write("""<div>""")
+        self.listToHtmlTable(f, 'Stopwords', dictionary.stopwords)
+
+        f.write("""</div></body></html>""")
         f.close()
         webbrowser.open_new_tab('html/dictionaryCollection.html')
        
@@ -83,7 +91,7 @@ class htmlCreator:
         for ind,doc in enumerate(model.collection.documents):
             pagename = 'html/doc%02d.html' % ind
             f = open(pagename, 'w')
-            f.write("<html><head><h1>Document %02d</h1></head>" % ind)
+            f.write("<html><head><h1>Document %02d - %s</h1></head>" % (ind, doc.title.encode('utf-8')))
             f.write("""<body><div style="width:100%;"><div style="float:right; width:40%;">""")
             f.write("""<h3>Topic coverage: \n</h3><table>""")
             f.write("""<col style="width:40%"> <col style="width:50%">""")
@@ -124,12 +132,12 @@ class htmlCreator:
             f.write("</table>")
     	    f.write("<h4>Topics and related words - LSI Model</h4>")
             f.write("<table>") 
-    	    f.write("""<col style="width:40%"> <col style="width:50%">""")
+    	    f.write("""<col style="width:10%"> <col style="width:40%"> <col style="width:25%">""")
     	    # get index and relevance for each document regarding a topic
     	    # TODO: check meaning of negative numbers -> take absolute value if necessary
     	    relDocs = sorted(enumerate([doc[num][1] for doc in model.corpus]), reverse=True, key=lambda x:abs(x[1]))
     	    for doc in relDocs[0:15]:
-    	    	f.write("<tr><td><a href='doc%02d.html'>Document %d</a></td><td>Relevance: %.2f</td></tr>" % (doc[0], doc[0], doc[1]))
+    	    	f.write("<tr><td><a href='doc%02d.html'>Document %d</a></td><td>%s</td><td>Relevance: %.2f</td></tr>" % (doc[0], doc[0], model.collection.documents[doc[0]].title.encode('utf8'), doc[1]))
     
     	    f.write("</table></body></html>")
     	    f.close()

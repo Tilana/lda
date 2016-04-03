@@ -18,10 +18,15 @@ def script():
     #TODO: change words from set to a tokenized representation of the documents
     
     #TODO: make sure that every document in the collection has the attribute words before calling createCorpus()
-    execute = [document.createTokens() for document in model.collection.documents]
-    
+    for document in model.collection.documents:
+        document.createTokens()
+#        document.lemmatizeTokens()
+#        document.deleteSpecialCharacterTokens()
+
     model.collection.createDictionary()
     model.collection.dictionary.addStopwords(STOPWORDS)
+    model.collection.dictionary.deleteSpecialCharacterTokens()
+    model.collection.dictionary.lemmatize()
     
     model.createDictionary()
     model.createCorpus()
@@ -32,10 +37,6 @@ def script():
 
     model.lsiModel(10)
     topics = model.lsi.print_topics(num_topics=3)
-    print "TEST"
-    print topics
-    print len(topics)
-    print topics[0]
 
     model.applyToAllDocuments(model.computeTopicCoverage)
 
@@ -43,7 +44,6 @@ def script():
     model.applyToAllDocuments(model.computeSimilarity)
     
     html = htmlCreator()
-    html.htmlDocumentEntities(model.collection, 0)
     html.htmlDictionary(model.collection)
     html.printTopics(model)
     html.printDocuments(model)

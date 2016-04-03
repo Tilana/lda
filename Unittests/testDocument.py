@@ -22,7 +22,7 @@ class testDocument(unittest.TestCase):
         testDocument.tokens = set(['child`s', '23.09.1998', 'test entity', 'normal', '$200 000', '809/87', 'http://asfd.org', 'talib@n?'])
         testDocument.deleteSpecialCharacterTokens()
 
-        self.targetDocument.tokens = set(['child`s', '23.09.1998', '809/87', '$200 000', 'test entity', 'normal'])
+        self.targetDocument.tokens = set(['child`s', 'test entity', 'normal'])
         self.assertEqual(testDocument.tokens, self.targetDocument.tokens)
     
 

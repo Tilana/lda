@@ -18,8 +18,6 @@ class document:
         self.tokens= self._tokenizeDocument()
         self.removeStopwords(stoplist)
         self.includeEntities()
-        self.lemmatizeTokens()
-        self.deleteSpecialCharacterTokens()
 
     def lemmatizeTokens(self):
         wordnet = WordNetLemmatizer()
@@ -33,7 +31,7 @@ class document:
 
     def hasTokenAttribute(self):
         return hasattr(self, 'tokens')
-
+    
     def _tokenizeDocument(self):
         return [word.lower() for word in nltk.word_tokenize(self.text)]
 
