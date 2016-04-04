@@ -34,13 +34,13 @@ class htmlCreator:
         f.close()
         webbrowser.open_new_tab('html/dictionaryCollection.html')
 
-    def printTopics(self, model, numTopic=10):
+    def printTopics(self, model):
         f = open('html/topics.html', 'w')
         f.write("<html><head><h1>Topics</h1></head>")
         f.write("<body><p>Topics and related words - LSI Model</p><table>")
         f.write("""<col style="width:7%"> <col style="width:80%">""")
-        for topic in model.lsi.print_topics(num_topics=numTopic):
-            f.write("<tr><td><a href='topic%d.html'>Topic %d</a></td><td>%s</td></tr>" % (topic[0], topic[0], topic[1].encode('utf-8')))
+        for topic in model.topics:
+            f.write("<tr><td><a href='topic%d.html'>Topic %d</a></td><td>%s</td></tr>" % (topic.number, topic.number, str(topic.wordDistribution)[1:-1]))
         f.write("</table>")
         f.write("</body></html>")
         f.close()
@@ -49,9 +49,8 @@ class htmlCreator:
         webbrowser.open_new_tab(filename)
     
     
-    def printDocuments(self, model, numTopic=10):
-    # Create a html page for each document
-        for ind,doc in enumerate(model.collection.documents):
+    def printDocuments(self, model, openHtml=False):
+        for ind, doc in enumerate(model.collection.documents):
             pagename = 'html/doc%02d.html' % ind
             f = open(pagename, 'w')
             f.write("<html><head><h1>Document %02d - %s</h1></head>" % (ind, doc.title.encode('utf-8')))
@@ -79,32 +78,33 @@ class htmlCreator:
             f.write("""</div>""")
             f.write("""<div style="float:left; width:55%%;"><p>%s</p></div></div></body></html>""" % doc.text.encode('utf8'))
             f.close()
-            filename = '//home/natalie/Documents/Huridocs/LDA/html/'+ 'doc%02d.html' % ind
-            webbrowser.open_new_tab(filename)
+            if openHtml:
+                filename = '//home/natalie/Documents/Huridocs/LDA/html/'+ 'doc%02d.html' % ind
+                webbrowser.open_new_tab(filename)
                
 # Create a html page for each topic
-    def printDocsRelatedTopics(self, model, numTopic):
-        for num in range(0, numTopic): 
+    def printDocsRelatedTopics(self, model, openHtml=False):
+        for num in range(0, model.numberTopics): 
     	    pagename = 'html/topic%d.html' % num
     	    f = open(pagename, 'w')
     	    f.write("<html><head><h1>Document Relevance for Topic %d</h1></head>" % num)
             f.write("<body><h4>Topics and related words - LSI Model</h4><table>")
             f.write("""<col style="width:7%"> <col style="width:80%">""")
-            topic = model.lsi.print_topics(num_topics=numTopic)[num]
-            f.write("<tr><td><a href='topic%d.html'>Topic %d</a></td><td>%s</td></tr>" % (topic[0], topic[0], topic[1].encode('utf-8')))
+            topic = model.topics[num]
+            f.write("<tr><td><a href='topic%d.html'>Topic %d</a></td><td>%s</td></tr>" % (topic.number, topic.number, str(topic.wordDistribution)[1:-1].encode('utf-8')))
             f.write("</table>")
-    	    f.write("<h4>Topics and related words - LSI Model</h4>")
+    	    f.write("<h4>Related Documents</h4>")
             f.write("<table>") 
     	    f.write("""<col style="width:10%"> <col style="width:40%"> <col style="width:25%">""")
     	    # get index and relevance for each document regarding a topic
     	    # TODO: check meaning of negative numbers -> take absolute value if necessary
-    	    relDocs = sorted(enumerate([doc[num][1] for doc in model.corpus]), reverse=True, key=lambda x:abs(x[1]))
-    	    for doc in relDocs[0:15]:
+    	    for doc in model.topics[num].relatedDocuments[0:15]:
     	    	f.write("<tr><td><a href='doc%02d.html'>Document %d</a></td><td>%s</td><td>Relevance: %.2f</td></tr>" % (doc[0], doc[0], model.collection.documents[doc[0]].title.encode('utf8'), doc[1]))
     
     	    f.write("</table></body></html>")
     	    f.close()
-            filename = '//home/natalie/Documents/Huridocs/LDA/html/'+ 'topic%d.html' % num 
-            webbrowser.open_new_tab(filename)
+            if openHtml:
+                filename = '//home/natalie/Documents/Huridocs/LDA/html/'+ 'topic%d.html' % num
+                webbrowser.open_new_tab(filename)
    
        

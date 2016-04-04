@@ -39,24 +39,25 @@ def script():
     model.applyToAllDocuments(model.computeVectorRepresentation)
     model.applyToAllDocuments(model.computeFrequentWords)
 
-    model.lsiModel(10)
-    topics = model.lsi.print_topics(num_topics=3)
-    print "TOPICS"
-    print type(topics)
-    print topics
-    print type(topics[0])
-    print topics[0]
+    model.numberTopics = 3
+
+    model.lsiModel()
+    topics = model.lsi.show_topics(formatted=False)
+
+    model.createTopics()
 
     model.applyToAllDocuments(model.computeTopicCoverage)
 
     model.computeSimilarityMatrix()
     model.applyToAllDocuments(model.computeSimilarity)
+
+    model.computeTopicRelatedDocuments()
     
     html = htmlCreator()
     html.htmlDictionary(model.collection)
     html.printTopics(model)
     html.printDocuments(model)
-    html.printDocsRelatedTopics(model, 3)
+    html.printDocsRelatedTopics(model, openHtml=False)
     
 if __name__ == "__main__":
     script()
