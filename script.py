@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 from lda import documentCollection
 from lda import htmlCreator
 from lda import TopicModel
@@ -18,14 +20,16 @@ def script():
     #TODO: change words from set to a tokenized representation of the documents
     
     #TODO: make sure that every document in the collection has the attribute words before calling createCorpus()
+    specialChars = r'.*[©°\"~!\^@#%&.",-?\/\_\(\)\{\}\[\]:;\*].*'
     for document in model.collection.documents:
         document.createTokens()
-#        document.lemmatizeTokens()
-#        document.deleteSpecialCharacterTokens()
+        document.lemmatizeTokens()
+        document.deleteSpecialCharacterTokens(specialChars)
 
     model.collection.createDictionary()
     model.collection.dictionary.addStopwords(STOPWORDS)
-    model.collection.dictionary.deleteSpecialCharacterTokens()
+    model.collection.dictionary.findSpecialCharTokens(specialChars, model.collection)
+    model.collection.dictionary.removeSpecialChars()
     model.collection.dictionary.lemmatize()
     
     model.createDictionary()
@@ -37,6 +41,11 @@ def script():
 
     model.lsiModel(10)
     topics = model.lsi.print_topics(num_topics=3)
+    print "TOPICS"
+    print type(topics)
+    print topics
+    print type(topics[0])
+    print topics[0]
 
     model.applyToAllDocuments(model.computeTopicCoverage)
 

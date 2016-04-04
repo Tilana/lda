@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 import unittest
 from lda import document
 from lda import entities
@@ -20,7 +22,9 @@ class testDocument(unittest.TestCase):
     def test_deleteSpecialCharacterTokens(self):
         testDocument = document('', '')
         testDocument.tokens = set(['child`s', '23.09.1998', 'test entity', 'normal', '$200 000', '809/87', 'http://asfd.org', 'talib@n?'])
-        testDocument.deleteSpecialCharacterTokens()
+        specialChars = r'.*[@./,:$©].*'
+        testDocument.deleteSpecialCharacterTokens(specialChars)
+
 
         self.targetDocument.tokens = set(['child`s', 'test entity', 'normal'])
         self.assertEqual(testDocument.tokens, self.targetDocument.tokens)

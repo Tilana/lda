@@ -31,10 +31,12 @@ class dictionary:
     def _lowerList(self, wordList):
         return [word.lower() for word in wordList]
     
-    def deleteSpecialCharacterTokens(self):
-        self.specialCharacters =  set([word for word in self.words if re.match(r'.*[~!\^@#%&\".,-?\/\_\(\)\{\}\[\]:;\*\"].*', word)])
+    def findSpecialCharTokens(self, specialCharacters, collection):
+        self.specialCharacters =  set([word for word in self.words if re.match(specialCharacters, word)])
+        [self.specialCharacters.update(document.specialCharacters) for document in collection.documents if document.hasSpecialCharAttribute]
+    def removeSpecialChars(self):
         for specialChar in self.specialCharacters:
-            self.words.remove(specialChar)
+            self.words.discard(specialChar)
     
     def lemmatize(self):
         wordnet = WordNetLemmatizer()

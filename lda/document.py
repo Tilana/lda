@@ -24,14 +24,17 @@ class document:
         lemmatizedTokens = set([wordnet.lemmatize(wordnet.lemmatize(word, 'v')) for word in self.tokens])
         self.tokens = lemmatizedTokens 
 
-    def deleteSpecialCharacterTokens(self):
-        self.specialCharacters =  [word for word in self.tokens if re.match(r'.*[~!\^@#%&\".,-?\/\_\(\)\{\}\[\]:;\*\"].*', word)]
+    def deleteSpecialCharacterTokens(self, specialCharacters):
+        self.specialCharacters =  [word for word in self.tokens if re.match(specialCharacters, word)]
         for specialChar in self.specialCharacters:
             self.tokens.remove(specialChar)
 
     def hasTokenAttribute(self):
         return hasattr(self, 'tokens')
     
+    def hasSpecialCharAttribute(self):
+        return hasattr(self, 'specialCharacters')
+   
     def _tokenizeDocument(self):
         return [word.lower() for word in nltk.word_tokenize(self.text)]
 
