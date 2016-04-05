@@ -24,12 +24,12 @@ class testDictionary(unittest.TestCase):
         self.compareDictionaries()
     
     def test_addCollection(self):
-        collection = documentCollection()
-        collection.documents = [document('doc1', 'Test 1.'), document('doc2', 'Test 2?'), document('doc3', 'Test 3!')]
+        collection = [document('doc1', 'Test 1.'), document('doc2', 'Test 2?'), document('doc3', 'Test 3!')]
         self.testDictionary.addCollection(collection)
 
         self.targetDictionary.words = set(['test', '1', '.', '2', '?', '3', '!'])
         self.compareDictionaries()
+
 
     def test_addStopwordsEmptyList(self):
         self.testDictionary.words = set(['add', 'words', 'to','dictionary'])

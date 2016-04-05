@@ -14,7 +14,7 @@ class dictionary:
         self.words.update(self._lowerList(document.tokens))
     
     def addCollection(self, collection):
-        for document in collection.documents:
+        for document in collection:
             self.addDocument(document)
 
     def addStopwords(self, listStopwords):
@@ -34,6 +34,8 @@ class dictionary:
     def findSpecialCharTokens(self, specialCharacters, collection):
         self.specialCharacters =  set([word for word in self.words if re.match(specialCharacters, word)])
         [self.specialCharacters.update(document.specialCharacters) for document in collection.documents if document.hasSpecialCharAttribute]
+    
+    
     def removeSpecialChars(self):
         for specialChar in self.specialCharacters:
             self.words.discard(specialChar)
