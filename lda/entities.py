@@ -20,4 +20,7 @@ class entities:
     def getEntities(self):
         return utils.flattenList([list(self.LOCATION), list(self.ORGANIZATION), list(self.PERSON)])
 
+    def isEmpty(self):
+        return self.LOCATION == [] and self.PERSON == [] and self.ORGANIZATION == []
+
 

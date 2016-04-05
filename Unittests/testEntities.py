@@ -10,5 +10,11 @@ class testEntities(unittest.TestCase):
         targetEntities = [u'World Health Organisation', u'UN', u'Lebanon', u'Beirut', u'United States of America', u'Charles Isaac Leopold']
         self.assertEqual(set(self.testEntities.getEntities()), set(targetEntities))
 
+    def test_isEmpty(self):
+        emptyEntity = entities()
+        self.assertTrue(emptyEntity.isEmpty())
+
+        self.assertFalse(self.testEntities.isEmpty())
+
 if __name__ == '__main__':
     unittest.main()

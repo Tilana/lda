@@ -14,18 +14,33 @@ class document:
     def createEntities(self):
         self.entities = entities(self.text)
 
-    def createTokens(self, stoplist=[]):
+    def createTokens(self):
         self.tokens= self._tokenizeDocument()
-        self.removeStopwords(stoplist)
-        self.includeEntities()
+
+    def prepareDocument(self, lemmatize=True, includeEntities=True, removeStopwords=True, stopwords=None, removeSpecialChars=True, specialChars=None):
+        self.tokens = self._tokenizeDocument()
+        if lemmatize:
+            self.lemmatizeTokens()
+        if includeEntities:
+            if self.entities.isEmpty():
+                self.createEntities()
+            self.includeEntities()
+        if removeStopwords:
+            self.removeStopwords(stopwords)
+        if removeSpecialChars:
+            if not self.hasSpecialCharAttribute():
+                self.findSpecialCharacterTokens(specialChars)
+            self.removeSpecialCharacters()
 
     def lemmatizeTokens(self):
         wordnet = WordNetLemmatizer()
-        lemmatizedTokens = set([wordnet.lemmatize(wordnet.lemmatize(word, 'v')) for word in self.tokens])
+        lemmatizedTokens = [wordnet.lemmatize(wordnet.lemmatize(word, 'v')) for word in self.tokens]
         self.tokens = lemmatizedTokens 
 
-    def deleteSpecialCharacterTokens(self, specialCharacters):
-        self.specialCharacters =  [word for word in self.tokens if re.match(specialCharacters, word)]
+    def findSpecialCharacterTokens(self, specialCharacters):
+        self.specialCharacters =  set([word for word in self.tokens if re.match(specialCharacters, word)])
+
+    def removeSpecialCharacters(self):
         for specialChar in self.specialCharacters:
             self.tokens.remove(specialChar)
 
@@ -59,6 +74,9 @@ class document:
                         if count==lengthEntity:
                             self.tokens[elem[1]+1] = ' '.join(self.tokens[elem[1]+2-lengthEntity:elem[1]+2])
                             del self.tokens[elem[1]+2-count:elem[1]+1]
+
+    def __eq__(self, other):
+        return self.__dict__ == other.__dict__
 
 
 
