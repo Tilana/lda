@@ -12,10 +12,9 @@ class htmlCreator:
         
     
     # create html file of dictionary
-    def htmlDictionary(self, collection):
+    def htmlDictionary(self, dictionary):
         name = 'html/dictionaryCollection.html'
         f = open(name, 'w')
-        dictionary = collection.dictionary
         f.write("""<html><head><h1>Dictionary of Document Collection</h1><style type="text/css"> body>div {width: 23%; float: left; border: 1px solid} </style></head>""") 
         f.write("""<body><div>""")
         self.listToHtmlTable(f, 'Words in Dictionary', dictionary.words)
@@ -50,7 +49,7 @@ class htmlCreator:
     
     
     def printDocuments(self, model, openHtml=False):
-        for ind, doc in enumerate(model.collection.documents):
+        for ind, doc in enumerate(model.collection):
             pagename = 'html/doc%02d.html' % ind
             f = open(pagename, 'w')
             f.write("<html><head><h1>Document %02d - %s</h1></head>" % (ind, doc.title.encode('utf-8')))
@@ -99,7 +98,7 @@ class htmlCreator:
     	    # get index and relevance for each document regarding a topic
     	    # TODO: check meaning of negative numbers -> take absolute value if necessary
     	    for doc in model.topics[num].relatedDocuments[0:15]:
-    	    	f.write("<tr><td><a href='doc%02d.html'>Document %d</a></td><td>%s</td><td>Relevance: %.2f</td></tr>" % (doc[0], doc[0], model.collection.documents[doc[0]].title.encode('utf8'), doc[1]))
+    	    	f.write("<tr><td><a href='doc%02d.html'>Document %d</a></td><td>%s</td><td>Relevance: %.2f</td></tr>" % (doc[0], doc[0], model.collection[doc[0]].title.encode('utf8'), doc[1]))
     
     	    f.write("</table></body></html>")
     	    f.close()

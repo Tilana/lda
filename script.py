@@ -14,35 +14,45 @@ def script():
     numberTopics = 3
 
     #### MODEL ####
-    model = TopicModel()
-    model.collection = documentCollection(path)
+    model = TopicModel(numberTopics)
+    model.loadCollection(path)
     
-    model.collection.documents = model.collection.documents[0:3]
+    model.collection =  model.collection[0:3]
     
-    model.collection.prepareDocumentCollection(lemmatize=True, includeEntities=True, removeStopwords=True, stopwords=STOPWORDS, removeSpecialChars=True, specialChars=specialChars)
+    model.prepareDocumentCollection(lemmatize=True, includeEntities=True, removeStopwords=True, stopwords=STOPWORDS, removeSpecialChars=True, specialChars=specialChars)
 
-    print model.collection.entities.LOCATION
-    print model.collection.entities.PERSON
+    print model.entities.LOCATION
+    print model.entities.PERSON
 
-    model.collection.createDictionary()
-    model.collection.dictionary.addStopwords(STOPWORDS)
-    model.collection.dictionary.findSpecialCharTokens(specialChars, model.collection)
-    model.collection.dictionary.removeSpecialChars()
-    model.collection.dictionary.lemmatize()
+    model.createDictionary()
+    model.dictionary.addStopwords(STOPWORDS)
+    model.dictionary.findSpecialCharTokens(specialChars, model.collection)
+    model.dictionary.removeSpecialChars()
+    model.dictionary.lemmatize()
+
+    print model.dictionary.words
     
+    model.createvectorDictionary()
+
     model.createDictionary()
     model.createCorpus()
+
+        
+    print model.corpus
+    print model.vectorDictionary.items()
     
     model.tfidfModel()
     model.applyToAllDocuments(model.computeVectorRepresentation)
     model.applyToAllDocuments(model.computeFrequentWords)
 
-    model.numberTopics = 3
+    print model.tfidf    
 
     model.lsiModel()
     topics = model.lsi.show_topics(formatted=False)
 
     model.createTopics()
+    print model.topics
+    print model.lsi
 
     model.applyToAllDocuments(model.computeTopicCoverage)
 
@@ -52,7 +62,7 @@ def script():
     model.computeTopicRelatedDocuments()
     
     html = htmlCreator()
-    html.htmlDictionary(model.collection)
+    html.htmlDictionary(model.dictionary)
     html.printTopics(model)
     html.printDocuments(model)
     html.printDocsRelatedTopics(model, openHtml=False)

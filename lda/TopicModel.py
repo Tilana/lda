@@ -1,18 +1,30 @@
 from Topic import Topic
+import urllib2
+import docLoader
 from entities import entities
 from dictionary import dictionary
-from documentCollection import documentCollection
+from document import document
 from gensim import corpora, models, similarities
 
 class TopicModel:
     
-    def __init__(self, path=None, numberTopics=None):
-        self.collection = documentCollection(path)
+    def __init__(self, numberTopics=None):
+        self.collection = [] 
         self.corpus = []
         self.topics = [] 
         self.dictionary = dictionary()
         self.vectorDictionary = corpora.Dictionary()
         self.numberTopics = numberTopics
+
+    def loadCollection(self, path=None):
+        if path is not None:
+            urllib2.urlopen(urllib2.Request(path)) 
+            (titles, texts) = docLoader.loadCouchdb(path)
+        else:
+            titles = ['']
+            texts = ['']
+        self.collection = self.createDocumentList(titles, texts)
+
     
     def createvectorDictionary(self):
         self.vectorDictionary.add_documents([self.dictionary.words])
@@ -20,8 +32,8 @@ class TopicModel:
     def createCorpus(self):
         self.corpus = [self.vectorDictionary.doc2bow(document.tokens) for document in self.collection]
         
-    def createDictionary(self, collection):
-        self.dictionary.addCollection(collection)
+    def createDictionary(self):
+        self.dictionary.addCollection(self.collection)
 
     def tfidfModel(self):
         self.tfidf = models.TfidfModel(self.corpus, normalize=True)
@@ -41,7 +53,7 @@ class TopicModel:
 
 
     def createFrequentWords(self, N=10):
-        for index, docs in enumerate(self.collection.documents):
+        for index, docs in enumerate(self.collection):
             self.setFrequentWordsInDoc(docs, N=N)
 
     def computeTopicCoverage(self, document):
@@ -49,7 +61,7 @@ class TopicModel:
         setattr(document, 'lsiCoverage', lsiCoverage)
 
     def applyToAllDocuments(self, f):
-        for document in self.collection.documents:
+        for document in self.collection:
             f(document)
 
     def computeVectorRepresentation(self, document):
@@ -74,7 +86,7 @@ class TopicModel:
     
     
     def prepareDocumentCollection(self, lemmatize=True, createEntities=True, includeEntities=True, removeStopwords=True, stopwords=None, removeSpecialChars=True, specialChars = None):
-        for document in self.documents:
+        for document in self.collection:
             document.prepareDocument(lemmatize, includeEntities, removeStopwords, stopwords, removeSpecialChars, specialChars)
         self.createEntities()
 
@@ -88,4 +100,8 @@ class TopicModel:
     def _addDocumentEntities(self):
         for tag in self.collection[0].entities.__dict__.keys():
             self.entities.addEntities(tag, set().union(*[getattr(document.entities, tag) for document in self.collection]))
+            
+    
+    def createDocumentList(self, titles, texts):
+        return [document(title, text) for title, text in zip(titles, texts)]
 

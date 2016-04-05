@@ -33,7 +33,7 @@ class dictionary:
     
     def findSpecialCharTokens(self, specialCharacters, collection):
         self.specialCharacters =  set([word for word in self.words if re.match(specialCharacters, word)])
-        [self.specialCharacters.update(document.specialCharacters) for document in collection.documents if document.hasSpecialCharAttribute]
+        [self.specialCharacters.update(document.specialCharacters) for document in collection if document.hasSpecialCharAttribute]
     
     
     def removeSpecialChars(self):
