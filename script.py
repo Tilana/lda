@@ -8,23 +8,21 @@ from gensim.parsing.preprocessing import STOPWORDS
 
 def script():
 
-    model = TopicModel()
-    
+    #### PARAMETERS ####
     path = 'http://localhost:5984/uwazi/_design/documents/_view/fulltext'
+    specialChars = r'.*[©°\"~!\^@#%&.",-?\/\_\(\)\{\}\[\]:;\*].*'
+    numberTopics = 3
+
+    #### MODEL ####
+    model = TopicModel()
     model.collection = documentCollection(path)
     
     model.collection.documents = model.collection.documents[0:3]
-    #TODO: incooporate named entities in words
-    model.collection.createEntities()
     
-    #TODO: change words from set to a tokenized representation of the documents
-    
-    #TODO: make sure that every document in the collection has the attribute words before calling createCorpus()
-    specialChars = r'.*[©°\"~!\^@#%&.",-?\/\_\(\)\{\}\[\]:;\*].*'
-    for document in model.collection.documents:
-        document.createTokens()
-        document.lemmatizeTokens()
-        document.deleteSpecialCharacterTokens(specialChars)
+    model.collection.prepareDocumentCollection(lemmatize=True, includeEntities=True, removeStopwords=True, stopwords=STOPWORDS, removeSpecialChars=True, specialChars=specialChars)
+
+    print model.collection.entities.LOCATION
+    print model.collection.entities.PERSON
 
     model.collection.createDictionary()
     model.collection.dictionary.addStopwords(STOPWORDS)

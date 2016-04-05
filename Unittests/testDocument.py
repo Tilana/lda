@@ -8,6 +8,9 @@ class testDocument(unittest.TestCase):
     
     def setUp(self):
         self.targetDocument = document('','')
+        self.testDocument = document('Test Doc', 'Test of tokenization\n dates like 12.03.1998, 103/78 and World Health Organisation should be kept together. Words appear more more often!?')
+        self.stoplist = ['and', 'of']
+        self.specialChars = r'.*[\.,/?!].*'
 
     def test_lemmatizeTokens(self):
         testDocument = document('','')
@@ -49,19 +52,19 @@ class testDocument(unittest.TestCase):
         self.assertEqual(testDocument.tokens, self.targetDocument.tokens)
 
 
+    def test_prepareDocument_lemmatize(self):
+        self.testDocument.prepareDocument(lemmatize=True, includeEntities=False, removeStopwords=False, stopwords = self.stoplist, removeSpecialChars=False, specialChars = self.specialChars)
+
+        self.targetDocument.tokens = ['test','of','tokenization','date','like', '12.03.1998', ',', '103/78', 'and', 'world','health', 'organisation', 'should', 'be', 'keep', 'together', '.', 'word', 'appear', 'more', 'more', 'often', '!', '?']
+        self.assertEqual(self.testDocument.tokens, self.targetDocument.tokens)
+
+
     def test_prepareDocument(self):
-        testDocument = document('Test Doc', 'Test of tokenization\n dates like 12.03.1998, 103/78 and World Health Organisation should be kept together. Words appear more more often.?')
-        stoplist = [u'and', 'of']
-        specialChars = r'.*[,.\/?].*'
+        self.testDocument.prepareDocument(lemmatize=True, includeEntities=True, removeStopwords=True, stopwords = self.stoplist, removeSpecialChars=True, specialChars = self.specialChars)
 
-        testDocument.prepareDocument(lemmatize=True, includeEntities=False, removeStopwords=False, stopwords = stoplist, removeSpecialChars=False, specialChars = specialChars)
+        self.targetDocument.tokens = ['test', 'tokenization','date','like', 'world health organisation', 'should', 'be', 'keep', 'together', 'word', 'appear', 'more', 'more', 'often']
+        self.assertEqual(self.testDocument.tokens, self.targetDocument.tokens)
 
-        self.targetDocument.tokens = ['test','of','tokenization','date','like', '12.03.1998', ',', '103/78', 'and', 'world','health', 'organisation', 'should', 'be', 'keep', 'together', '.', 'word', 'appear', 'more', 'more', 'often', '.', '?']
-
-        print testDocument.tokens
-        print self.targetDocument.tokens
-
-        self.assertEqual(testDocument.tokens, self.targetDocument.tokens)
 
     def test_includeEntities(self):
         testDocument = document('Test Document','Name entities like World Health Organization, person names like Sir James and Ms Rosa Wallis but also world locations or states like Lebanon, United States of America or new cities like New York have to be recognized')

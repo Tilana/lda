@@ -1,8 +1,6 @@
 import urllib2
 import docLoader
 from document import document
-import nlpProcessing as nlp
-import namedEntityRecognition as ner
 from entities import entities
 from dictionary import dictionary
 
@@ -19,10 +17,15 @@ class documentCollection:
 
     def createDictionary(self):
         self.dictionary.addCollection(self)
+
+    def prepareDocumentCollection(self, lemmatize=True, createEntities=True, includeEntities=True, removeStopwords=True, stopwords=None, removeSpecialChars=True, specialChars = None):
+        for document in self.documents:
+            document.prepareDocument(lemmatize, includeEntities, removeStopwords, stopwords, removeSpecialChars, specialChars)
+        self.createEntities()
+
     
     def createEntities(self):
-        for document in self.documents:
-            document.createEntities()
+        [document.createEntities for document in self.documents if document.entities.isEmpty()]
         self.entities = entities('')
         self._addDocumentEntities()
             
