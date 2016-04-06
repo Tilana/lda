@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-from lda import documentCollection
 from lda import htmlCreator
 from lda import TopicModel
 from gensim.parsing.preprocessing import STOPWORDS
@@ -14,50 +13,41 @@ def script():
     numberTopics = 3
 
     #### MODEL ####
-    model = TopicModel(numberTopics)
+    model = TopicModel(numberTopics, specialChars)
     model.loadCollection(path)
     
-    model.collection =  model.collection[0:3]
+    model.collection =  model.collection[0:10]
     
     model.prepareDocumentCollection(lemmatize=True, includeEntities=True, removeStopwords=True, stopwords=STOPWORDS, removeSpecialChars=True, specialChars=specialChars)
 
-    print model.entities.LOCATION
-    print model.entities.PERSON
+#    print model.entities.LOCATION
+#    print model.entities.PERSON
 
-    model.createDictionary()
-    model.dictionary.addStopwords(STOPWORDS)
-    model.dictionary.findSpecialCharTokens(specialChars, model.collection)
-    model.dictionary.removeSpecialChars()
-    model.dictionary.lemmatize()
-
-    print model.dictionary.words
+    model.createDictionary(lemmatize=True, addStopwords=True, stoplist=STOPWORDS, removeSpecialChars=True, specialChars= model.specialChars)
     
-    model.createvectorDictionary()
-
-    model.createDictionary()
+#    print model.dictionary.words
+#    print model.dictionary.ids.items()
+   
     model.createCorpus()
-
         
     print model.corpus
-    print model.vectorDictionary.items()
     
     model.tfidfModel()
-    model.applyToAllDocuments(model.computeVectorRepresentation)
-    model.applyToAllDocuments(model.computeFrequentWords)
-
-    print model.tfidf    
+    print model.tfidf
+    for document in model.collection:
+        model.computeVectorRepresentation(document)
+        model.computeFrequentWords(document)
 
     model.lsiModel()
-    topics = model.lsi.show_topics(formatted=False)
-
     model.createTopics()
-    print model.topics
-    print model.lsi
-
-    model.applyToAllDocuments(model.computeTopicCoverage)
-
     model.computeSimilarityMatrix()
-    model.applyToAllDocuments(model.computeSimilarity)
+ 
+    print model.topics
+    #print model.lsi
+
+    for document in model.collection:
+        model.computeTopicCoverage(document)
+        model.computeSimilarity(document)
 
     model.computeTopicRelatedDocuments()
     

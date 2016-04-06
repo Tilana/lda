@@ -1,7 +1,6 @@
 import unittest
 from lda import dictionary
 from lda import document
-from lda import documentCollection
 
 class testDictionary(unittest.TestCase):
 
@@ -17,6 +16,12 @@ class testDictionary(unittest.TestCase):
         self.targetDictionary.words= set(['test', 'words', 'already', 'dictionary', 'to', 'see', 'if', 'this', 'text', 'is', 'added', 'to', 'dictionary.words'])
         self.compareDictionaries()
     
+    def test_createDictionaryIds(self):
+        self.testDictionary.words = set(['test', 'if', 'this', 'test', 'set', 'is', 'converted', 'to', 'a', 'dictionary', 'representation', 'with', 'a', 'corpus'])
+        self.testDictionary.createDictionaryIds()
+        self.targetDictionary.ids = {7:u'test', 11:u'if', 3:u'this', 1:u'set', 4:u'is', 6:u'converted', 5:u'to', 0:u'a', 2:u'dictionary', 8:u'representation', 9:u'corpus', 10:u'with'}
+        self.assertEqual(self.testDictionary.ids.items(), self.targetDictionary.ids.items())
+   
     def test_addDocumentEmptyDict(self):
         self.testDictionary.addDocument(self.doc)
         self.targetDictionary.words= set(['test', 'to', 'see', 'if', 'this', 'text', 'is', 'added', 'to', 'dictionary.words'])

@@ -8,13 +8,13 @@ from gensim import corpora, models, similarities
 
 class TopicModel:
     
-    def __init__(self, numberTopics=None):
+    def __init__(self, numberTopics=None, specialChars=None):
         self.collection = [] 
         self.corpus = []
         self.topics = [] 
         self.dictionary = dictionary()
-        self.vectorDictionary = corpora.Dictionary()
         self.numberTopics = numberTopics
+        self.specialChars = specialChars
 
     def loadCollection(self, path=None):
         if path is not None:
@@ -24,16 +24,23 @@ class TopicModel:
             titles = ['']
             texts = ['']
         self.collection = self.createDocumentList(titles, texts)
-
-    
-    def createvectorDictionary(self):
-        self.vectorDictionary.add_documents([self.dictionary.words])
     
     def createCorpus(self):
-        self.corpus = [self.vectorDictionary.doc2bow(document.tokens) for document in self.collection]
+        self.corpus = [self.dictionary.ids.doc2bow(document.tokens) for document in self.collection]
         
-    def createDictionary(self):
+    def createDictionary(self, lemmatize=True, addStopwords=True, stoplist=None, removeSpecialChars=True, specialChars=None):
         self.dictionary.addCollection(self.collection)
+        self.dictionary.createDictionaryIds()
+        if lemmatize:
+            self.dictionary.lemmatize()
+        if addStopwords:
+            if stoplist is None:
+                stoplist=[]
+            self.dictionary.addStopwords(stoplist)
+        if removeSpecialChars:
+            self.dictionary.findSpecialCharTokens(specialChars, self.collection)
+            self.dictionary.removeSpecialChars()
+
 
     def tfidfModel(self):
         self.tfidf = models.TfidfModel(self.corpus, normalize=True)
@@ -41,15 +48,15 @@ class TopicModel:
     def computeFrequentWords(self, document, N=10):
         docRepresentation = self.tfidf[document.vectorRepresentation]
         freqWords = sorted(docRepresentation, key=lambda frequency: frequency[1], reverse=True)[0:N]
-        setattr(document, 'freqWords', self._decodevectorDictionaryList(freqWords))
+        setattr(document, 'freqWords', self._decodeDictionaryIds(freqWords))
 
     def computeTopicRelatedDocuments(self):
         for num in range(0, self.numberTopics):
             relatedDocs = sorted(enumerate([doc[num][1] for doc in self.corpus]), reverse=True, key=lambda relevance:abs(relevance[1]))
             setattr(self.topics[num], 'relatedDocuments', relatedDocs)
 
-    def _decodevectorDictionaryList(self, l):
-        return [(self.vectorDictionary.get(tup[0]).encode('utf8'), tup[1]) for tup in l]
+    def _decodeDictionaryIds(self, l):
+        return [(self.dictionary.ids.get(tup[0]).encode('utf8'), tup[1]) for tup in l]
 
 
     def createFrequentWords(self, N=10):
@@ -65,13 +72,13 @@ class TopicModel:
             f(document)
 
     def computeVectorRepresentation(self, document):
-        setattr(document, 'vectorRepresentation', self.vectorDictionary.doc2bow(document.tokens))
+        setattr(document, 'vectorRepresentation', self.dictionary.ids.doc2bow(document.tokens))
 
     def computeSimilarity(self, document):
         setattr(document, 'lsiSimilarity', self.similarityMatrix[self.lsi[document.vectorRepresentation]])
 
     def lsiModel(self):
-        self.lsi = models.LsiModel(corpus=self.corpus, id2word=self.vectorDictionary, num_topics = self.numberTopics)
+        self.lsi = models.LsiModel(corpus=self.corpus, id2word=self.dictionary.ids, num_topics = self.numberTopics)
 
     def createTopics(self):
         topicList = []

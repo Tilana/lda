@@ -4,6 +4,7 @@ from lda import TopicModel
 from lda import document
 from lda import dictionary
 from lda import entities
+from gensim import corpora
 
 class testTopicModel(unittest.TestCase):
 
@@ -16,13 +17,11 @@ class testTopicModel(unittest.TestCase):
 
         self.targetModel = copy.deepcopy(self.testModel)
 
-    def test_createvectorDictionary(self):
-        self.testModel.createvectorDictionary()
-        self.targetModel.vectorDictionary = {7:u'test', 11:u'if', 3:u'this', 1:u'set', 4:u'is', 6:u'converted', 5:u'to', 0:u'a', 2:u'dictionary', 8:u'representation', 9:u'corpus', 10:u'with'}
-        self.assertEqual(self.testModel.vectorDictionary.items(), self.targetModel.vectorDictionary.items())
 
     def test_createCorpus(self):
-        self.testModel.createvectorDictionary()
+
+        self.testModel.dictionary.words = set(['test', 'if', 'this', 'test', 'set', 'is', 'converted', 'to', 'a', 'dictionary', 'representation', 'with', 'a', 'corpus'])
+        self.testModel.dictionary.createDictionaryIds()
         self.testModel.createCorpus()
         self.targetModel.corpus = [[(7,1), (8,1), (9,1)], [(0,2),(7,1),(9,1)]]
 
@@ -31,14 +30,17 @@ class testTopicModel(unittest.TestCase):
     def test_createDictionary(self):
         testModel = TopicModel()
         testModel.collection = [document('doc1', 'Test -tokenization- and if common words are deleted.'), document('doc2', 'stopwords like of, and, but?'), document('doc3', 'special\ characters?\n, Article\n\n78(5), constitution references 103/93 and dates 23.01.1998 or 12th of March 2003')]
-        testModel.createDictionary()
+        testModel.createDictionary(lemmatize=False,addStopwords=False, removeSpecialChars=False)
 
         targetDictionary = dictionary()
         targetDictionary.words = set(['test', '-tokenization-', 'and', 'if','common', 'words','are','deleted','.','stopwords','like','of',',','but','?','special\\','characters','article','78','(','5',')','constitution','references','103/93','dates','23.01.1998','or', '12th','march','2003'])
         targetDictionary.stopwords = set([])
 
         for attribute in targetDictionary.__dict__.keys():
-            self.assertEqual(getattr(testModel.dictionary, attribute), getattr(targetDictionary, attribute))
+            if attribute != 'ids':
+                self.assertEqual(getattr(testModel.dictionary, attribute), getattr(targetDictionary, attribute))
+
+#        self.assertEqual(testModel.dictionary.ids.items(), targetDictionary.ids.items())
     
     def test_createEntities(self):
         testModel = TopicModel()

@@ -1,5 +1,6 @@
 import re
 from nltk.stem import WordNetLemmatizer
+from gensim import corpora
 
 class dictionary:
         
@@ -7,7 +8,13 @@ class dictionary:
         self.words = set([])
         self.stopwords = set([])
         self.specialCharacters = set([])
+        self.ids = corpora.Dictionary()
+
     
+    def createDictionaryIds(self):
+        self.ids.add_documents([self.words])
+
+
     def addDocument(self, document):
         if not document.hasTokenAttribute():
             document.createTokens()
