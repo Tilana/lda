@@ -38,7 +38,7 @@ class document:
         self.tokens = lemmatizedTokens 
 
     def findSpecialCharacterTokens(self, specialCharacters):
-        self.specialCharacters =  set([word for word in self.tokens if re.match(specialCharacters, word)])
+        self.specialCharacters =  set([word for word in self.tokens if self.contains(word, specialCharacters)])
 
     def removeSpecialCharacters(self):
         for specialChar in self.specialCharacters:
@@ -52,6 +52,12 @@ class document:
    
     def _tokenizeDocument(self):
         return [word.lower() for word in nltk.word_tokenize(self.text)]
+
+    def contains(self, word, specialChars):
+        for char in specialChars:
+            if char in word:
+                return 1;
+        return 0;
 
     def removeStopwords(self, stoplist):
         self.tokens = [word for word in self.tokens if word not in stoplist]

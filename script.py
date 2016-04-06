@@ -9,14 +9,15 @@ def script():
 
     #### PARAMETERS ####
     path = 'http://localhost:5984/uwazi/_design/documents/_view/fulltext'
-    specialChars = r'.*[©°\"~!\^@#%&.",-?\/\_\(\)\{\}\[\]:;\*].*'
+    specialChars = r'.*[,:;\-!`\'©°"~!\^@#%\$&\.\/_\(\)\{\}\[\]\*].*'
+    specialChars = r'.*[,\(\.\)].*'
     numberTopics = 3
 
     #### MODEL ####
     model = TopicModel(numberTopics, specialChars)
     model.loadCollection(path)
     
-    model.collection =  model.collection[0:10]
+    model.collection =  model.collection[0:3]
     
     model.prepareDocumentCollection(lemmatize=True, includeEntities=True, removeStopwords=True, stopwords=STOPWORDS, removeSpecialChars=True, specialChars=specialChars)
 
@@ -52,7 +53,7 @@ def script():
     model.computeTopicRelatedDocuments()
     
     html = htmlCreator()
-    html.htmlDictionary(model.dictionary)
+#    html.htmlDictionary(model.dictionary)
     html.printTopics(model)
     html.printDocuments(model)
     html.printDocsRelatedTopics(model, openHtml=False)
