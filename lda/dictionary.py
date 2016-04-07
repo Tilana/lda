@@ -1,4 +1,5 @@
 import re
+import utils
 from nltk.stem import WordNetLemmatizer
 from gensim import corpora
 
@@ -39,8 +40,8 @@ class dictionary:
         return [word.lower() for word in wordList]
     
     def findSpecialCharTokens(self, specialCharacters, collection):
-        self.specialCharacters =  set([word for word in self.words if re.match(specialCharacters, word)])
-        [self.specialCharacters.update(document.specialCharacters) for document in collection if document.hasSpecialCharAttribute]
+        self.specialCharacters =  set([word for word in self.words if utils.containsAny(word, specialCharacters)])
+#        [self.specialCharacters.update(document.specialCharacters) for document in collection if document.hasSpecialCharAttribute]
     
     
     def removeSpecialChars(self):
@@ -49,7 +50,8 @@ class dictionary:
     
     def lemmatize(self):
         wordnet = WordNetLemmatizer()
+        self.original = self.words
         lemmatizedTokens = set([wordnet.lemmatize(wordnet.lemmatize(word, 'v')) for word in self.words])
-        self.lemmaDict = lemmatizedTokens 
+        self.words = lemmatizedTokens 
 
 

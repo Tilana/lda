@@ -20,7 +20,7 @@ class htmlCreator:
         self.listToHtmlTable(f, 'Words in Dictionary', dictionary.words)
         f.write("""</div>""")
         f.write("""<div>""")
-        self.listToHtmlTable(f, 'Lemmatized Dictionary', dictionary.lemmaDict)
+        self.listToHtmlTable(f, 'Original (Unlemmatized) Dictionary', dictionary.original)
         f.write("""</div>""")
 
         f.write("""<div>""")

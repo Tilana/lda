@@ -17,8 +17,9 @@ class document:
     def createTokens(self):
         self.tokens= self._tokenizeDocument()
 
-    def prepareDocument(self, lemmatize=True, includeEntities=True, removeStopwords=True, stopwords=None, removeSpecialChars=True, specialChars=None):
+    def prepareDocument(self, lemmatize=True, includeEntities=True, removeStopwords=True, stopwords=None, removeSpecialChars=True, specialChars=None, removeShortTokens=True, threshold=1):
         self.tokens = self._tokenizeDocument()
+        self.original = self.tokens
         if lemmatize:
             self.lemmatizeTokens()
         if includeEntities:
@@ -31,6 +32,8 @@ class document:
             if not self.hasSpecialCharAttribute():
                 self.findSpecialCharacterTokens(specialChars)
             self.removeSpecialCharacters()
+        if removeShortTokens:
+            self.removeShortTokens(threshold)
 
     def lemmatizeTokens(self):
         wordnet = WordNetLemmatizer()
@@ -38,7 +41,7 @@ class document:
         self.tokens = lemmatizedTokens 
 
     def findSpecialCharacterTokens(self, specialCharacters):
-        self.specialCharacters =  set([word for word in self.tokens if self.contains(word, specialCharacters)])
+        self.specialCharacters =  set([word for word in self.tokens if utils.containsAny(word, specialCharacters)])
 
     def removeSpecialCharacters(self):
         for specialChar in self.specialCharacters:
@@ -53,11 +56,9 @@ class document:
     def _tokenizeDocument(self):
         return [word.lower() for word in nltk.word_tokenize(self.text)]
 
-    def contains(self, word, specialChars):
-        for char in specialChars:
-            if char in word:
-                return 1;
-        return 0;
+    def removeShortTokens(self, threshold=1):
+        [self.tokens.remove(word) for word in self.tokens if len(word)<=threshold]
+
 
     def removeStopwords(self, stoplist):
         self.tokens = [word for word in self.tokens if word not in stoplist]

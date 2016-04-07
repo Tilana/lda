@@ -23,24 +23,24 @@ class testDocument(unittest.TestCase):
 
     def test_findSpecialCharacterTokens(self):
         testDocument = document('', '')
-        testDocument.tokens = set(['child`s', '23.09.1998', 'test entity', 'normal', '$200 000', '809/87', 'http://asfd.org', 'talib@n?'])
+        testDocument.tokens = set(['child`s', '23.09.1998', 'test entity', 'normal', '$200 000', '809/87', 'http://asfd.org', 'talib@n?', 'end of line.\n', '.'])
         specialChars = r'.*[@./,:$©].*'
         testDocument.findSpecialCharacterTokens(specialChars)
 
         targetDocument = document('','')
         targetDocument.tokens = set(['child`s', '23.09.1998', 'test entity', 'normal', '$200 000', '809/87', 'http://asfd.org', 'talib@n?'])
-        targetDocument.specialCharacters = set(['23.09.1998', '$200 000', '809/87', 'http://asfd.org', 'talib@n?'])
+        targetDocument.specialCharacters = set(['23.09.1998', '$200 000', '809/87', 'http://asfd.org', 'talib@n?', 'end of line.\n', '.'])
         self.assertEqual(targetDocument.specialCharacters, testDocument.specialCharacters)
     
     def test_removeSpecialCharacters(self):
         testDocument = document('', '')
-        testDocument.tokens = set(['child`s', '23.09.1998', 'test entity', 'normal', '$200 000', '809/87', 'http://asfd.org', 'talib@n?'])
+        testDocument.tokens = set(['child`s', '23.09.1998', 'test entity', 'normal', '$200 000', '809/87', 'http://asfd.org', 'talib@n?', '.', 'end of line.\n'])
 
-        testDocument.specialCharacters = set(['23.09.1998', '$200 000', '809/87', 'http://asfd.org', 'talib@n?'])
+        testDocument.specialCharacters = set(['23.09.1998', '$200 000', '809/87', 'http://asfd.org', 'talib@n?', '.'])
 
         targetDocument = document('','')
         targetDocument.specialCharacters = ['23.09.1998', '$200 000', '809/87', 'http://asfd.org', 'talib@n?']
-        targetDocument.tokens = set(['child`s', 'test entity', 'normal'])
+        targetDocument.tokens = set(['child`s', 'test entity', 'normal', 'end of line.\n'])
 
         testDocument.removeSpecialCharacters()
         self.assertEqual(targetDocument.tokens, testDocument.tokens)
@@ -53,7 +53,7 @@ class testDocument(unittest.TestCase):
 
 
     def test_prepareDocument_lemmatize(self):
-        self.testDocument.prepareDocument(lemmatize=True, includeEntities=False, removeStopwords=False, stopwords = self.stoplist, removeSpecialChars=False, specialChars = self.specialChars)
+        self.testDocument.prepareDocument(lemmatize=True, includeEntities=False, removeStopwords=False, stopwords = self.stoplist, removeSpecialChars=False, specialChars = self.specialChars, removeShortTokens=False, threshold=1)
 
         self.targetDocument.tokens = ['test','of','tokenization','date','like', '12.03.1998', ',', '103/78', 'and', 'world','health', 'organisation', 'should', 'be', 'keep', 'together', '.', 'word', 'appear', 'more', 'more', 'often', '!', '?']
         self.assertEqual(self.testDocument.tokens, self.targetDocument.tokens)
@@ -86,6 +86,8 @@ class testDocument(unittest.TestCase):
         self.targetDocument.entities.ORGANIZATION = [u'World Health Organization']
         
         self.assertTrue(testDocument.entities.__dict__, self.targetDocument.entities.__dict__)
+
+
         
 
 if __name__ == '__main__':

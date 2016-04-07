@@ -92,9 +92,9 @@ class TopicModel:
         self.similarityMatrix = similarities.MatrixSimilarity(self.lsi[self.corpus], num_best=7)
     
     
-    def prepareDocumentCollection(self, lemmatize=True, createEntities=True, includeEntities=True, removeStopwords=True, stopwords=None, removeSpecialChars=True, specialChars = None):
+    def prepareDocumentCollection(self, lemmatize=True, createEntities=True, includeEntities=True, removeStopwords=True, stopwords=None, removeSpecialChars=True, specialChars = None, removeShortTokens=True, threshold=1):
         for document in self.collection:
-            document.prepareDocument(lemmatize, includeEntities, removeStopwords, stopwords, removeSpecialChars, specialChars)
+            document.prepareDocument(lemmatize, includeEntities, removeStopwords, stopwords, removeSpecialChars, specialChars, removeShortTokens=True, threshold=threshold)
         self.createEntities()
 
 
