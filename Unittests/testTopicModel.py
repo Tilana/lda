@@ -30,7 +30,7 @@ class testTopicModel(unittest.TestCase):
     def test_createDictionary(self):
         testModel = TopicModel()
         testModel.collection = [document('doc1', 'Test -tokenization- and if common words are deleted.'), document('doc2', 'stopwords like of, and, but?'), document('doc3', 'special\ characters?\n, Article\n\n78(5), constitution references 103/93 and dates 23.01.1998 or 12th of March 2003')]
-        testModel.createDictionary(lemmatize=False, wordList= None, stoplist=None, specialChars=None)
+        testModel.createDictionary(lemmatize=False, wordList= None, stoplist=None, specialChars=None, removeShortWords=False)
 
         targetDictionary = dictionary()
         targetDictionary.words = set(['test', '-tokenization-', 'and', 'if','common', 'words','are','deleted','.','stopwords','like','of',',','but','?','special\\','characters','article','78','(','5',')','constitution','references','103/93','dates','23.01.1998','or', '12th','march','2003'])

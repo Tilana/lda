@@ -28,7 +28,7 @@ class TopicModel:
     def createCorpus(self):
         self.corpus = [self.dictionary.ids.doc2bow(document.tokens) for document in self.collection]
         
-    def createDictionary(self, wordList=None, lemmatize=True, stoplist=None, specialChars=None):
+    def createDictionary(self, wordList=None, lemmatize=True, stoplist=None, specialChars=None, removeShortWords=True, threshold=1):
         if wordList is None:
             self.dictionary.addCollection(self.collection)
         else:
@@ -41,6 +41,8 @@ class TopicModel:
         if specialChars is not None:
             self.dictionary.findSpecialCharTokens(specialChars, self.collection)
             self.dictionary.removeSpecialChars()
+        if removeShortWords:
+            self.dictionary.removeShortWords(threshold)
 
 
     def tfidfModel(self):

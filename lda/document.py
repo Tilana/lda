@@ -37,8 +37,8 @@ class document:
 
     def lemmatizeTokens(self):
         wordnet = WordNetLemmatizer()
-        lemmatizedTokens = [wordnet.lemmatize(wordnet.lemmatize(word, 'v')) for word in self.tokens]
-        self.tokens = lemmatizedTokens 
+        self.original = self.tokens
+        self.tokens = [wordnet.lemmatize(wordnet.lemmatize(word, 'v')) for word in self.tokens]
 
     def findSpecialCharacterTokens(self, specialCharacters):
         self.specialCharacters =  set([word for word in self.tokens if utils.containsAny(word, specialCharacters)])
@@ -49,6 +49,9 @@ class document:
 
     def hasTokenAttribute(self):
         return hasattr(self, 'tokens')
+
+    def hasOriginalAttribute(self):
+        return hasattr(self, 'original')
     
     def hasSpecialCharAttribute(self):
         return hasattr(self, 'specialCharacters')
@@ -57,7 +60,8 @@ class document:
         return [word.lower() for word in nltk.word_tokenize(self.text)]
 
     def removeShortTokens(self, threshold=1):
-        [self.tokens.remove(word) for word in self.tokens if len(word)<=threshold]
+        shortWords = [word for word in self.tokens if len(word)<=threshold]
+        self.tokens = [word for word in self.tokens if word not in shortWords]
 
 
     def removeStopwords(self, stoplist):

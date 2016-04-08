@@ -9,6 +9,14 @@ class testDictionary(unittest.TestCase):
         self.testDictionary = dictionary()
         self.targetDictionary = dictionary()
 
+    def test_removeShortWords(self):
+        self.testDictionary.words = set(['remove', 'too', '.', 'short', 'ab', 'words'])
+        self.testDictionary.removeShortWords(threshold=2)
+        self.targetDictionary.words = set(['remove', 'too', 'short',  'words'])
+
+        self.assertEqual(self.targetDictionary.words, self.testDictionary.words)
+
+
     def test_addDocument(self):
         self.testDictionary.words.update(['words', 'already', 'added', 'to', 'dictionary'])
         self.testDictionary.addDocument(self.doc)

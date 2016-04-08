@@ -13,6 +13,7 @@ def script():
     specialChars = set(u'[,:;\-!`\'©°"~?!\^@#%\$&\.\/_\(\)\{\}\[\]\*]')
     numberTopics = 2
     dictionaryWords = set(['united nations', 'property', 'torture','applicant', 'child', 'help'])
+    dictionaryWords = None
 
     #### MODEL ####
     model = TopicModel(numberTopics, specialChars)
@@ -29,10 +30,14 @@ def script():
 #        print utils.containsAny(item, specialChars)
 #
 
-    model.createDictionary(wordList = dictionaryWords, lemmatize=True, stoplist=STOPWORDS, specialChars= model.specialChars)
+    model.createDictionary(wordList = dictionaryWords, lemmatize=True, stoplist=STOPWORDS, specialChars= model.specialChars, removeShortWords=True, threshold=1)
     
     print model.dictionary.words
     print model.dictionary.ids.items()
+
+    model.dictionary.getOriginalWords(model.collection)
+
+    print model.dictionary.original
    
     model.createCorpus()
         

@@ -43,6 +43,9 @@ class dictionary:
     def findSpecialCharTokens(self, specialCharacters, collection):
         self.specialCharacters =  set([word for word in self.words if utils.containsAny(word, specialCharacters)])
 #        [self.specialCharacters.update(document.specialCharacters) for document in collection if document.hasSpecialCharAttribute]
+
+    def getOriginalWords(self, collection):
+        [self.original.update(document.original) for document in collection if document.hasOriginalAttribute]
     
     
     def removeSpecialChars(self):
@@ -52,7 +55,9 @@ class dictionary:
     def lemmatize(self):
         wordnet = WordNetLemmatizer()
         self.original = self.words
-        lemmatizedTokens = set([wordnet.lemmatize(wordnet.lemmatize(word, 'v')) for word in self.words])
-        self.words = lemmatizedTokens 
-
+        self.words = set([wordnet.lemmatize(wordnet.lemmatize(word, 'v')) for word in self.words])
+    
+    def removeShortWords(self, threshold=1):
+        shortWords = [word for word in self.words if len(word)<=threshold]
+        self.words = self.words.difference(shortWords)
 
