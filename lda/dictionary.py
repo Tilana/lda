@@ -10,11 +10,12 @@ class dictionary:
         self.stopwords = set([])
         self.specialCharacters = set([])
         self.ids = corpora.Dictionary()
-
     
     def createDictionaryIds(self):
         self.ids.add_documents([self.words])
 
+    def setDictionary(self, wordList=None):
+        self.words = set(self._lowerList(wordList))
 
     def addDocument(self, document):
         if not document.hasTokenAttribute():

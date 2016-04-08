@@ -17,7 +17,7 @@ class document:
     def createTokens(self):
         self.tokens= self._tokenizeDocument()
 
-    def prepareDocument(self, lemmatize=True, includeEntities=True, removeStopwords=True, stopwords=None, removeSpecialChars=True, specialChars=None, removeShortTokens=True, threshold=1):
+    def prepareDocument(self, lemmatize=True, includeEntities=True, stopwords=None, specialChars=None, removeShortTokens=True, threshold=1):
         self.tokens = self._tokenizeDocument()
         self.original = self.tokens
         if lemmatize:
@@ -26,9 +26,9 @@ class document:
             if self.entities.isEmpty():
                 self.createEntities()
             self.includeEntities()
-        if removeStopwords:
+        if stopwords is not None:
             self.removeStopwords(stopwords)
-        if removeSpecialChars:
+        if specialChars is not None:
             if not self.hasSpecialCharAttribute():
                 self.findSpecialCharacterTokens(specialChars)
             self.removeSpecialCharacters()

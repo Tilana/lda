@@ -53,14 +53,14 @@ class testDocument(unittest.TestCase):
 
 
     def test_prepareDocument_lemmatize(self):
-        self.testDocument.prepareDocument(lemmatize=True, includeEntities=False, removeStopwords=False, stopwords = self.stoplist, removeSpecialChars=False, specialChars = self.specialChars, removeShortTokens=False, threshold=1)
+        self.testDocument.prepareDocument(lemmatize=True, includeEntities=False, stopwords = None, specialChars = None, removeShortTokens=False, threshold=1)
 
         self.targetDocument.tokens = ['test','of','tokenization','date','like', '12.03.1998', ',', '103/78', 'and', 'world','health', 'organisation', 'should', 'be', 'keep', 'together', '.', 'word', 'appear', 'more', 'more', 'often', '!', '?']
         self.assertEqual(self.testDocument.tokens, self.targetDocument.tokens)
 
 
     def test_prepareDocument(self):
-        self.testDocument.prepareDocument(lemmatize=True, includeEntities=True, removeStopwords=True, stopwords = self.stoplist, removeSpecialChars=True, specialChars = self.specialChars)
+        self.testDocument.prepareDocument(lemmatize=True, includeEntities=True, stopwords=self.stoplist, specialChars = self.specialChars)
 
         self.targetDocument.tokens = ['test', 'tokenization','date','like', 'world health organisation', 'should', 'be', 'keep', 'together', 'word', 'appear', 'more', 'more', 'often']
         self.assertEqual(self.testDocument.tokens, self.targetDocument.tokens)

@@ -28,17 +28,14 @@ class TopicModel:
     def createCorpus(self):
         self.corpus = [self.dictionary.ids.doc2bow(document.tokens) for document in self.collection]
         
-    def createDictionary(self, wordList=None, lemmatize=True, stoplist=None, specialChars=None):
-        if wordList is None:
-            self.dictionary.addCollection(self.collection)
-        else:
-            self.dictionary.setDictionary(wordList)
+    def createDictionary(self, wordList=None lemmatize=True, stoplist=None, specialChars=None):
+        self.dictionary.addCollection(self.collection)
         self.dictionary.createDictionaryIds()
         if lemmatize:
             self.dictionary.lemmatize()
         if stoplist is not None:
             self.dictionary.addStopwords(stoplist)
-        if specialChars is not None:
+        if spcialChars is not None:
             self.dictionary.findSpecialCharTokens(specialChars, self.collection)
             self.dictionary.removeSpecialChars()
 
@@ -93,9 +90,9 @@ class TopicModel:
         self.similarityMatrix = similarities.MatrixSimilarity(self.lsi[self.corpus], num_best=7)
     
     
-    def prepareDocumentCollection(self, lemmatize=True, createEntities=True, includeEntities=True, stopwords=None, specialChars = None, removeShortTokens=True, threshold=1):
+    def prepareDocumentCollection(self, lemmatize=True, createEntities=True, includeEntities=True, removeStopwords=True, stopwords=None, removeSpecialChars=True, specialChars = None, removeShortTokens=True, threshold=1):
         for document in self.collection:
-            document.prepareDocument(lemmatize, includeEntities, stopwords, specialChars, removeShortTokens=True, threshold=threshold)
+            document.prepareDocument(lemmatize, includeEntities, removeStopwords, stopwords, removeSpecialChars, specialChars, removeShortTokens=True, threshold=threshold)
         self.createEntities()
 
 

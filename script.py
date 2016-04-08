@@ -11,37 +11,36 @@ def script():
     #### PARAMETERS ####
     path = 'http://localhost:5984/uwazi/_design/documents/_view/fulltext'
     specialChars = set(u'[,:;\-!`\'©°"~?!\^@#%\$&\.\/_\(\)\{\}\[\]\*]')
-    #specialChars = u'''.,:;!?[]()/\$&_@*^©-`'"|°'''
-    print specialChars
     numberTopics = 2
+    dictionaryWords = set(['united nations', 'property', 'torture','applicant', 'child', 'help'])
 
     #### MODEL ####
     model = TopicModel(numberTopics, specialChars)
     model.loadCollection(path)
     
-    model.collection =  model.collection[0:]
+    model.collection =  model.collection[0:3]
     
-    model.prepareDocumentCollection(lemmatize=True, includeEntities=True, removeStopwords=True, stopwords=STOPWORDS, removeSpecialChars=True, specialChars=specialChars, removeShortTokens=True, threshold=1)
+    model.prepareDocumentCollection(lemmatize=True, includeEntities=True, stopwords=STOPWORDS, specialChars=specialChars, removeShortTokens=True, threshold=1)
 
 #    print model.entities.LOCATION
 #    print model.entities.PERSON
-    for item in model.collection[0].tokens:
-        print item
-        print utils.containsAny(item, specialChars)
+#    for item in model.collection[0].tokens:
+#        print item
+#        print utils.containsAny(item, specialChars)
+#
 
-
-    model.createDictionary(lemmatize=True, addStopwords=True, stoplist=STOPWORDS, removeSpecialChars=True, specialChars= model.specialChars)
+    model.createDictionary(wordList = dictionaryWords, lemmatize=True, stoplist=STOPWORDS, specialChars= model.specialChars)
     
-#    print model.dictionary.words
-#    print model.dictionary.ids.items()
+    print model.dictionary.words
+    print model.dictionary.ids.items()
    
     model.createCorpus()
         
     print model.corpus
-#    for item in model.corpus[0]:
-#        word = model.dictionary.ids.get(item[0])
-#        print word
-#        print utils.containsAny(word, specialChars)
+    for item in model.corpus[0]:
+        word = model.dictionary.ids.get(item[0])
+        print word
+        print utils.containsAny(word, specialChars)
 
     print model.collection[0].specialCharacters
     

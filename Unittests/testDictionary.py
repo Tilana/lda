@@ -15,6 +15,12 @@ class testDictionary(unittest.TestCase):
         
         self.targetDictionary.words= set(['test', 'words', 'already', 'dictionary', 'to', 'see', 'if', 'this', 'text', 'is', 'added', 'to', 'dictionary.words'])
         self.compareDictionaries()
+
+    def test_setDictionary(self):
+        wordList = ['Create', 'dictionary entries', 'manually']
+        self.testDictionary.setDictionary(wordList)
+        self.targetDictionary.words = set(['create', 'dictionary entries', 'manually'])
+        self.assertEqual(self.targetDictionary.words, self.testDictionary.words)
     
     def test_createDictionaryIds(self):
         self.testDictionary.words = set(['test', 'if', 'this', 'test', 'set', 'is', 'converted', 'to', 'a', 'dictionary', 'representation', 'with', 'a', 'corpus'])
