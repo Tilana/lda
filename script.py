@@ -4,6 +4,7 @@ from lda import htmlCreator
 from lda import TopicModel
 from lda import utils
 from gensim.parsing.preprocessing import STOPWORDS
+from gensim import similarities
 
 
 def script():
@@ -32,8 +33,8 @@ def script():
 
     model.createDictionary(wordList = dictionaryWords, lemmatize=True, stoplist=STOPWORDS, specialChars= model.specialChars, removeShortWords=True, threshold=1)
     
-    print model.dictionary.words
-    print model.dictionary.ids.items()
+#    print model.dictionary.words
+#    print model.dictionary.ids.items()
 
     model.dictionary.getOriginalWords(model.collection)
 
@@ -42,16 +43,16 @@ def script():
     model.createCorpus()
         
     print model.corpus
-    for item in model.corpus[0]:
-        word = model.dictionary.ids.get(item[0])
-        print word
-        print utils.containsAny(word, specialChars)
+#    for item in model.corpus[0]:
+#        word = model.dictionary.ids.get(item[0])
+#        print word
+#        print utils.containsAny(word, specialChars)
 
-    print model.collection[0].specialCharacters
+#    print model.collection[0].specialCharacters
     
     model.tfidfModel()
-#    print model.tfidf
-    for document in model.collection:
+
+    for ind, document in enumerate(model.collection):
         model.computeVectorRepresentation(document)
         model.computeFrequentWords(document)
 

@@ -77,6 +77,9 @@ class TopicModel:
     def computeVectorRepresentation(self, document):
         setattr(document, 'vectorRepresentation', self.dictionary.ids.doc2bow(document.tokens))
 
+    def computeTFIDF(self, document, ind):
+        setattr(document, 'tfidf', self.tfidf[self.corpus[ind]])
+
     def computeSimilarity(self, document):
         setattr(document, 'lsiSimilarity', self.similarityMatrix[self.lsi[document.vectorRepresentation]])
 
