@@ -5,6 +5,7 @@ from entities import entities
 from dictionary import dictionary
 from document import document
 from gensim import corpora, models, similarities
+import cPickle
 
 class TopicModel:
     
@@ -84,7 +85,7 @@ class TopicModel:
         setattr(document, 'lsiSimilarity', self.similarityMatrix[self.lsi[document.vectorRepresentation]])
 
     def lsiModel(self):
-        self.lsi = models.LsiModel(corpus=self.corpus, id2word=self.dictionary.ids, num_topics = self.numberTopics)
+        self.lsi = models.LsiModel(corpus=self.tfidf[self.corpus], id2word=self.dictionary.ids, num_topics = self.numberTopics)
 
     def createTopics(self):
         topicList = []
@@ -117,4 +118,15 @@ class TopicModel:
     
     def createDocumentList(self, titles, texts):
         return [document(title, text) for title, text in zip(titles, texts)]
+
+    def save(self, path):
+        f = file(path, 'wb')
+        f.write(cPickle.dumps(self.__dict__))
+        f.close()
+
+    def load(self, path):
+        f= open(path, 'rb')
+        data = f.read()
+        f.close()
+        self.__dict__ = cPickle.loads(data)
 
