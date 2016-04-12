@@ -71,9 +71,9 @@ def script():
     
     html = htmlCreator()
     html.htmlDictionary(model.dictionary)
-    html.printTopics(model)
+    html.printTopics(model, 'LDA')
     html.printDocuments(model)
-    html.printDocsRelatedTopics(model, openHtml=False)
+    html.printDocsRelatedTopics(model, 'LSI', openHtml=False)
     
 if __name__ == "__main__":
     script()

@@ -57,7 +57,7 @@ class TopicModel:
     def computeTopicRelatedDocuments(self):
         for num in range(0, self.numberTopics):
             relatedDocs = sorted(enumerate([doc[num][1] for doc in self.corpus]), reverse=True, key=lambda relevance:abs(relevance[1]))
-            setattr(self.topics[num], 'relatedDocuments', relatedDocs)
+            setattr(self.lsiTopics[num], 'relatedDocuments', relatedDocs)
 
     def _decodeDictionaryIds(self, l):
         return [(self.dictionary.ids.get(tup[0]).encode('utf8'), tup[1]) for tup in l]
@@ -87,13 +87,22 @@ class TopicModel:
     def lsiModel(self):
         self.lsi = models.LsiModel(corpus=self.tfidf[self.corpus], id2word=self.dictionary.ids, num_topics = self.numberTopics)
 
+    def ldaModel(self):
+        self.lda = models.LdaModel(corpus=self.tfidf[self.corpus], id2word=self.dictionary.ids, num_topics = self.numberTopics)
+
     def createTopics(self):
         topicList = []
         for topicTuple in self.lsi.show_topics(formatted=False):
             topic = Topic()
             topic.addTopic(topicTuple)
             topicList.append(topic)
-            self.topics = topicList
+            self.lsiTopics = topicList
+        ldaTopics = [] 
+        for topicTuple in self.lda.show_topics(formatted=False):
+            topic = Topic()
+            topic.addTopic(topicTuple)
+            ldaTopics.append(topic)
+            self.ldaTopics = ldaTopics 
 
     def computeSimilarityMatrix(self):
         self.similarityMatrix = similarities.MatrixSimilarity(self.lsi[self.corpus], num_best=7)

@@ -58,10 +58,12 @@ def scriptLDA():
         model.computeFrequentWords(document)
 
     model.lsiModel()
+    model.ldaModel()
     model.createTopics()
     model.computeSimilarityMatrix()
  
-    print model.topics
+    print model.lsiTopics
+    print model.ldaTopics
     #print model.lsi
 
     for document in model.collection:
@@ -73,9 +75,11 @@ def scriptLDA():
     html = htmlCreator()
     html.htmlDictionary(model.dictionary)
     html.printTopics(model)
+    html.printTopics(model, topicType='LSI')
     html.printDocuments(model)
-    html.printDocsRelatedTopics(model, openHtml=False)
-    
+    html.printDocsRelatedTopics(model, topicType='LSI', openHtml=False)
+    html.printDocsRelatedTopics(model, topicType='LDA', openHtml=False)
+   
 if __name__ == "__main__":
     scriptLDA()
 

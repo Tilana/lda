@@ -33,19 +33,26 @@ class htmlCreator:
         f.close()
         webbrowser.open_new_tab('html/dictionaryCollection.html')
 
-    def printTopics(self, model):
-        f = open('html/topics.html', 'w')
-        f.write("<html><head><h1>Topics</h1></head>")
-        f.write("<body><p>Topics and related words - LSI Model</p><table>")
+    def printTopics(self, model, topicType='LDA'):
+        if topicType=='LSI':
+            print "LSI Topic TYPE"
+            topicList = model.lsiTopics
+        else:
+            topicList = model.ldaTopics
+        print  len(model.ldaTopics)
+        filename = 'html/%stopics.html' % topicType
+        f = open(filename, 'w')
+        f.write("<html><head><h1> %s Topics</h1></head>" % topicType)
+        f.write("<body><p>Topics and related words - %s Model</p><table>" % topicType )
         f.write("""<col style="width:7%"> <col style="width:80%">""")
-        for topic in model.topics:
-            f.write("<tr><td><a href='topic%d.html'>Topic %d</a></td><td>%s</td></tr>" % (topic.number, topic.number, str(topic.wordDistribution)[1:-1]))
+        for topic in topicList:
+            f.write("<tr><td><a href='%stopic%d.html'> Topic %d</a></td><td>%s</td></tr>" % (topicType, topic.number, topic.number, str(topic.wordDistribution)[1:-1]))
         f.write("</table>")
         f.write("</body></html>")
         f.close()
         
-        filename = '//home/natalie/Documents/Huridocs/LDA/html/'+'topics.html'
-        webbrowser.open_new_tab(filename)
+        path = '//home/natalie/Documents/Huridocs/LDA/'+filename
+        webbrowser.open_new_tab(path)
     
     
     def printDocuments(self, model, openHtml=False):
@@ -82,28 +89,32 @@ class htmlCreator:
                 webbrowser.open_new_tab(filename)
                
 # Create a html page for each topic
-    def printDocsRelatedTopics(self, model, openHtml=False):
+    def printDocsRelatedTopics(self, model, topicType='LDA', openHtml=False):
+        if topicType=='LSI':
+            topicList = model.lsiTopics
+        else:
+            topicList = model.ldaTopics
         for num in range(0, model.numberTopics): 
-    	    pagename = 'html/topic%d.html' % num
+    	    pagename = 'html/%stopic%d.html' % (topicType, num)
     	    f = open(pagename, 'w')
-    	    f.write("<html><head><h1>Document Relevance for Topic %d</h1></head>" % num)
-            f.write("<body><h4>Topics and related words - LSI Model</h4><table>")
+    	    f.write("<html><head><h1>Document Relevance for %s Topic %d</h1></head>" %  (topicType, num))
+            f.write("<body><h4>Topics and related words - %s Model</h4><table>" % topicType)
             f.write("""<col style="width:7%"> <col style="width:80%">""")
-            topic = model.topics[num]
-            f.write("<tr><td><a href='topic%d.html'>Topic %d</a></td><td>%s</td></tr>" % (topic.number, topic.number, str(topic.wordDistribution)[1:-1].encode('utf-8')))
+            topic = topicList[num]
+            f.write("<tr><td><a href='%stopic%d.html'>Topic %d</a></td><td>%s</td></tr>" % (topicType, topic.number, topic.number, str(topic.wordDistribution)[1:-1].encode('utf-8')))
             f.write("</table>")
     	    f.write("<h4>Related Documents</h4>")
             f.write("<table>") 
     	    f.write("""<col style="width:10%"> <col style="width:40%"> <col style="width:25%">""")
     	    # get index and relevance for each document regarding a topic
     	    # TODO: check meaning of negative numbers -> take absolute value if necessary
-    	    for doc in model.topics[num].relatedDocuments[0:15]:
+    	    for doc in topicList[num].relatedDocuments[0:15]:
     	    	f.write("<tr><td><a href='doc%02d.html'>Document %d</a></td><td>%s</td><td>Relevance: %.2f</td></tr>" % (doc[0], doc[0], model.collection[doc[0]].title.encode('utf8'), doc[1]))
     
     	    f.write("</table></body></html>")
     	    f.close()
             if openHtml:
-                filename = '//home/natalie/Documents/Huridocs/LDA/html/'+ 'topic%d.html' % num
-                webbrowser.open_new_tab(filename)
+                path = '//home/natalie/Documents/Huridocs/LDA/'+ pagename
+                webbrowser.open_new_tab(path)
    
        
