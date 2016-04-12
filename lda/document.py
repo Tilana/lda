@@ -89,5 +89,8 @@ class document:
     def __eq__(self, other):
         return self.__dict__ == other.__dict__
 
+    def setAttribute(self, name, value):
+        setattr(self, name, value)
+
 
 

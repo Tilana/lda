@@ -33,20 +33,14 @@ class htmlCreator:
         f.close()
         webbrowser.open_new_tab('html/dictionaryCollection.html')
 
-    def printTopics(self, model, topicType='LDA'):
-        if topicType=='LSI':
-            print "LSI Topic TYPE"
-            topicList = model.lsiTopics
-        else:
-            topicList = model.ldaTopics
-        print  len(model.ldaTopics)
-        filename = 'html/%stopics.html' % topicType
+    def printTopics(self, model):
+        filename = 'html/%stopics.html' % model.name
         f = open(filename, 'w')
-        f.write("<html><head><h1> %s Topics</h1></head>" % topicType)
-        f.write("<body><p>Topics and related words - %s Model</p><table>" % topicType )
+        f.write("<html><head><h1> %s Topics</h1></head>" % model.name)
+        f.write("<body><p>Topics and related words - %s Model</p><table>" % model.name )
         f.write("""<col style="width:7%"> <col style="width:80%">""")
-        for topic in topicList:
-            f.write("<tr><td><a href='%stopic%d.html'> Topic %d</a></td><td>%s</td></tr>" % (topicType, topic.number, topic.number, str(topic.wordDistribution)[1:-1]))
+        for topic in model.topics:
+            f.write("<tr><td><a href='%stopic%d.html'> Topic %d</a></td><td>%s</td></tr>" % (model.name, topic.number, topic.number, str(topic.wordDistribution)[1:-1]))
         f.write("</table>")
         f.write("</body></html>")
         f.close()
@@ -63,7 +57,7 @@ class htmlCreator:
             f.write("""<body><div style="width:100%;"><div style="float:right; width:40%;">""")
             f.write("""<h3>Topic coverage: \n</h3><table>""")
             f.write("""<col style="width:40%"> <col style="width:50%">""")
-            for topicNr, coverage in enumerate(doc.lsiCoverage):
+            for topicNr, coverage in enumerate(doc.LSICoverage):
                 f.write("""<tr><td><a href='topic%d.html'>Topic %d</a</td><td> Coverage %.2f</td></tr>""" % (topicNr, topicNr, coverage[1]))
             f.write("</table>")
             f.write("""<h3>Relevant Words in Document: \n</h3><table>""")
@@ -74,7 +68,7 @@ class htmlCreator:
             
             f.write("""<h3>Similar documents: \n</h3><table>""")
             f.write("""<col style="width:40%"> <col style="width:50%">""")
-            for similarDoc in doc.lsiSimilarity:
+            for similarDoc in doc.LSISimilarity:
                 f.write("""<tr><td><a href='doc%02d.html'>Document %d</a></td>""" % (similarDoc[0], similarDoc[0]))
                 f.write("""<td> Similarity: %.4f</td></tr>""" % similarDoc[1])
             f.write("""</table>""")
@@ -91,9 +85,9 @@ class htmlCreator:
 # Create a html page for each topic
     def printDocsRelatedTopics(self, model, topicType='LDA', openHtml=False):
         if topicType=='LSI':
-            topicList = model.lsiTopics
+            topicList = model.LSI.topics
         else:
-            topicList = model.ldaTopics
+            topicList = model.LDA.topics
         for num in range(0, model.numberTopics): 
     	    pagename = 'html/%stopic%d.html' % (topicType, num)
     	    f = open(pagename, 'w')

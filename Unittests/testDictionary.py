@@ -1,13 +1,14 @@
 import unittest
-from lda import dictionary
+from lda import Dictionary
+from lda import entities
 from lda import document
 
 class testDictionary(unittest.TestCase):
 
     def setUp(self):
         self.doc = document('TestDoc','Test to see if this text is added to dictionary.words')
-        self.testDictionary = dictionary()
-        self.targetDictionary = dictionary()
+        self.testDictionary = Dictionary()
+        self.targetDictionary = Dictionary()
 
     def test_removeShortWords(self):
         self.testDictionary.words = set(['remove', 'too', '.', 'short', 'ab', 'words'])
@@ -88,6 +89,16 @@ class testDictionary(unittest.TestCase):
     def compareDictionaries(self):
         for attribute in self.targetDictionary.__dict__.keys():
             self.assertEqual(getattr(self.targetDictionary, attribute), getattr(self.testDictionary, attribute))
+    
+    def test_createEntities(self):
+        testDictionary = Dictionary()
+        collection = [document('doc1','Test named entity recognition of a Collection of documents.'),document('doc2',' African Commission is a named entity, also countries like Senegal and Lybia and names like Peter and Anna.'),document('doc3', 'Also organizations like the United Nations or UNICEF should be recognized.')]
+        testEntities = entities('')
+        testEntities.addEntities('ORGANIZATION', set([u'African Commission', u'UNICEF', u'United Nations']))
+        testEntities.addEntities('PERSON', set([u'Anna', u'Peter']))
+        testEntities.addEntities('LOCATION', set([u'Senegal', u'Lybia']))
+        testDictionary.createEntities(collection)
+        self.assertEqual(testEntities.__dict__, testDictionary.entities.__dict__)
 
 
 if __name__ =='__main__':
