@@ -28,7 +28,8 @@ class Model:
 
 
     def computeTopicCoverage(self, document):
-        lsiCoverage = self.model[document.vectorRepresentation]
+        topicCoverage = self.model[document.vectorRepresentation]
+        document.setAttribute(('%sCoverage' % self.name), topicCoverage)
         
     
     def computeSimilarity(self, document):
@@ -42,4 +43,5 @@ class Model:
         for num in range(0, self.numberTopics):
             relatedDocs = sorted(enumerate([doc[num][1] for doc in corpus]), reverse=True, key=lambda relevance:abs(relevance[1]))
             self.topics[num].setAttribute('relatedDocuments', relatedDocs)
+            print relatedDocs
 

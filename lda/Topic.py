@@ -13,5 +13,5 @@ class Topic:
         return self.__dict__ == other.__dict__
 
     def setAttribute(self, name, value):
-        self.name = value
+        setattr(self, name, value)
 

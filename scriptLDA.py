@@ -17,7 +17,7 @@ def scriptLDA():
     dictionaryWords = None
 
     filename = 'dataObjects/TM3docs.txt'
-    preprocess = 1
+    preprocess = 0
 
     #### MODEL ####
     model = TopicModel(numberTopics, specialChars)
@@ -75,11 +75,15 @@ def scriptLDA():
 
     for document in model.collection:
         model.LSI.computeTopicCoverage(document)
+        print type(document.LSICoverage)
+        print document.LSICoverage
         model.LSI.computeSimilarity(document)
         model.LDA.computeTopicCoverage(document)
         model.LDA.computeSimilarity(document)
 
     model.LSI.computeTopicRelatedDocuments(model.corpus)
+    print 'Related Dcouments'
+    print model.LSI.topics[0].relatedDocuments
     model.LDA.computeTopicRelatedDocuments(model.corpus)
    
     html = htmlCreator()
