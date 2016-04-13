@@ -7,7 +7,7 @@ from Model import Model
 from gensim import models 
 import cPickle
 
-class TopicModel:
+class Controller:
     
     def __init__(self, numberTopics=None, specialChars=None):
         self.collection = [] 
@@ -29,7 +29,7 @@ class TopicModel:
     def createCorpus(self):
         self.corpus = [self.dictionary.ids.doc2bow(document.tokens) for document in self.collection]
         
-    def createDictionary(self, wordList=None, lemmatize=True, stoplist=None, specialChars=None, removeShortWords=True, threshold=1, addEntities=True):
+    def createDictionary(self, wordList=None, lemmatize=True, stoplist=None, specialChars=None, removeShortWords=True, threshold=1, addEntities=True, getOriginalWords=True):
         if wordList is None:
             self.dictionary.addCollection(self.collection)
         else:
@@ -46,6 +46,8 @@ class TopicModel:
             self.dictionary.removeShortWords(threshold)
         if addEntities:
             self.dictionary.createEntities(self.collection)
+        if getOriginalWords:
+            self.dictionary.getOriginalWords(self.collection)
 
 
     def tfidfModel(self):
@@ -66,10 +68,24 @@ class TopicModel:
             self.setFrequentWordsInDoc(docs, N=N)
     
     
-    def createModel(self, name='LDA', numTopics=3):
+    def topicModel(self, name='LDA', numTopics=3, corpus=None, topicCoverage=True, relatedDocuments=True):
         model = Model(name, numTopics)
-        model.createModel(self.corpus, self.dictionary.ids)
+        model.createModel(corpus, self.dictionary.ids)
         setattr(self, name, model) 
+        modelType = getattr(self, name)
+        modelType.createTopics()
+        if topicCoverage:
+            for document in self.collection:
+                modelType.computeTopicCoverage(document)
+        if relatedDocuments:
+            modelType.computeTopicRelatedDocuments(corpus)
+
+
+    def similarityAnalysis(self, name='LDA', corpus=None):
+        modelType = getattr(self, name)
+        modelType.computeSimilarityMatrix(corpus)
+        for document in self.collection:
+            modelType.computeSimilarity(document)
 
 
     def applyToAllDocuments(self, f):

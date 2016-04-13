@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 from lda import htmlCreator
-from lda import TopicModel
+from lda import Controller
 from lda import utils
 from gensim.parsing.preprocessing import STOPWORDS
 from gensim import similarities
@@ -13,86 +13,65 @@ def scriptLDA():
     path = 'http://localhost:5984/uwazi/_design/documents/_view/fulltext'
     specialChars = set(u'[,:;\-!`\'©°"~?!\^@#%\$&\.\/_\(\)\{\}\[\]\*]')
     numberTopics = 3
+    docNumber = None
     dictionaryWords = set(['united nations', 'property', 'torture','applicant', 'child', 'help'])
     dictionaryWords = None
 
-    filename = 'dataObjects/TM3docs.txt'
+    filename = 'dataObjects/TM38docs.txt'
     preprocess = 0
 
     #### MODEL ####
-    model = TopicModel(numberTopics, specialChars)
+    ctrl = Controller(numberTopics, specialChars)
 
     if os.path.exists(filename) and not preprocess:
-        print "LOAD existing Topic Model"
-        model.load(filename)
-        model.numberTopics = numberTopics
+        print 'Load preprocessed document collection'
+        ctrl.load(filename)
+        ctrl.numberTopics = numberTopics
 
     else:
-        model.loadCollection(path)
+        print 'Load unprocessed document collection'
+        ctrl.loadCollection(path)
         
-        model.collection =  model.collection[0:3]
+        ctrl.collection =  ctrl.collection[0:docNumber]
+
+        print 'Prepare document collection'
+        ctrl.prepareDocumentCollection(lemmatize=True, includeEntities=True, stopwords=STOPWORDS, specialChars=specialChars, removeShortTokens=True, threshold=1)
+
+        print 'Prepare Dictionary'
+        ctrl.createDictionary(wordList = dictionaryWords, lemmatize=True, stoplist=STOPWORDS, specialChars= ctrl.specialChars, removeShortWords=True, threshold=1, addEntities=True, getOriginalWords=True)
         
-        model.prepareDocumentCollection(lemmatize=True, includeEntities=True, stopwords=STOPWORDS, specialChars=specialChars, removeShortTokens=True, threshold=1)
+        ctrl.createCorpus()
+        ctrl.save(filename)
+
+    print 'TF-IDF Model'
+    ctrl.tfidfModel()
+
+    for ind, document in enumerate(ctrl.collection):
+        ctrl.computeVectorRepresentation(document)
+        ctrl.computeFrequentWords(document)
     
-        model.createDictionary(wordList = dictionaryWords, lemmatize=True, stoplist=STOPWORDS, specialChars= model.specialChars, removeShortWords=True, threshold=1, addEntities=True)
-        
-        model.dictionary.getOriginalWords(model.collection)
-    
-        model.createCorpus()
-            
-        print model.corpus
-    #    for item in model.corpus[0]:
-    #        word = model.dictionary.ids.get(item[0])
-    #        print word
-    #        print utils.containsAny(word, specialChars)
-    
-    #    print model.collection[0].specialCharacters
-        
-        model.save(filename)
+    print 'Topic Modeling'
+    ctrl.topicModel('LSI', numberTopics, ctrl.corpus, topicCoverage=True, relatedDocuments=True)
+    ctrl.topicModel('LDA', numberTopics, ctrl.corpus, topicCoverage=True, relatedDocuments=True)
 
-    print "LSI Model"
-        
-    model.tfidfModel()
+    print ctrl.collection[0].LDACoverage
+    print ctrl.collection[0].LSICoverage
 
-    for ind, document in enumerate(model.collection):
-        model.computeVectorRepresentation(document)
-        print dir(document) 
-        model.computeFrequentWords(document)
-    model.createModel('LSI', 3)
-    model.createModel('LDA', 3)
+    print ctrl.LDA.topics[0].relatedDocuments
+    print ctrl.LSI.topics[0].relatedDocuments
 
-#    model.lsiModel()
-#    model.ldaModel()
-    model.LSI.createTopics()
-    model.LDA.createTopics()
+    print 'Similarity Analysis'
+    ctrl.similarityAnalysis('LSI', ctrl.corpus)
+    ctrl.similarityAnalysis('LDA', ctrl.corpus)
 
-    model.LSI.computeSimilarityMatrix(model.corpus)
-    model.LDA.computeSimilarityMatrix(model.corpus)
-
-    print model.LSI.topics
-    print model.LDA.topics
-   #print model.lsi
-
-    for document in model.collection:
-        model.LSI.computeTopicCoverage(document)
-        print type(document.LSICoverage)
-        print document.LSICoverage
-        model.LSI.computeSimilarity(document)
-        model.LDA.computeTopicCoverage(document)
-        model.LDA.computeSimilarity(document)
-
-    model.LSI.computeTopicRelatedDocuments(model.corpus)
-    print 'Related Dcouments'
-    print model.LSI.topics[0].relatedDocuments
-    model.LDA.computeTopicRelatedDocuments(model.corpus)
-   
+    print 'Create HTML Files'
     html = htmlCreator()
-    html.htmlDictionary(model.dictionary)
-    html.printTopics(model.LSI)
-    html.printTopics(model.LDA)
-    html.printDocuments(model)
-    html.printDocsRelatedTopics(model, topicType='LSI', openHtml=False)
-    html.printDocsRelatedTopics(model, topicType='LDA', openHtml=False)
+    html.htmlDictionary(ctrl.dictionary)
+    html.printTopics(ctrl.LSI)
+    html.printTopics(ctrl.LDA)
+    html.printDocuments(ctrl)
+    html.printDocsRelatedTopics(ctrl, topicType='LSI', openHtml=False)
+    html.printDocsRelatedTopics(ctrl, topicType='LDA', openHtml=False)
    
 if __name__ == "__main__":
     scriptLDA()
