@@ -57,6 +57,7 @@ class document:
         return hasattr(self, 'specialCharacters')
    
     def _tokenizeDocument(self):
+        self.text = u'self.text'
         return [word.lower() for word in nltk.word_tokenize(self.text)]
 
     def removeShortTokens(self, threshold=1):

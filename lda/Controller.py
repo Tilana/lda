@@ -17,10 +17,12 @@ class Controller:
         self.numberTopics = numberTopics
         self.specialChars = specialChars
 
-    def loadCollection(self, path=None):
-        if path is not None:
+    def loadCollection(self, path=None, couchdb=1):
+        if path is not None and couchdb:
             urllib2.urlopen(urllib2.Request(path)) 
             (titles, texts) = docLoader.loadCouchdb(path)
+        elif path is not None:
+            (titles, texts) = docLoader.loadTxtFiles(path)
         else:
             titles = ['']
             texts = ['']
@@ -106,7 +108,8 @@ class Controller:
 
     
     def prepareDocumentCollection(self, lemmatize=True, createEntities=True, includeEntities=True, stopwords=None, specialChars = None, removeShortTokens=True, threshold=1):
-        for document in self.collection:
+        for index, document in enumerate(self.collection):
+            print index, document.title
             document.prepareDocument(lemmatize, includeEntities, stopwords, specialChars, removeShortTokens=True, threshold=threshold)
 
     

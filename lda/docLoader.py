@@ -1,6 +1,7 @@
 import json
 import urllib
 import pickle
+import os
 
 # load couchdb data from URL
 def loadCouchdb(path):
@@ -9,6 +10,12 @@ def loadCouchdb(path):
     docs = list(map((lambda doc: doc['value']['Text']),rows))
     titles = list(map((lambda doc: doc['value']['Title']),rows))
     return (titles, docs)
+
+def loadTxtFiles(path):
+    titles = [txtfile for txtfile in os.listdir(path)]
+    docs = [open(path+'/'+txtfile).read() for txtfile in os.listdir(path)]
+    return (titles, docs)
+
 
 # store data as txt file
 def storeAsTxt(dat, path):

@@ -11,13 +11,15 @@ def scriptLDA():
 
     #### PARAMETERS ####
     path = 'http://localhost:5984/uwazi/_design/documents/_view/fulltext'
+    path = "//home/natalie/Documents/Huridocs/LDA/Documents/scyfibookspdf"
+    couchdb = 0
     specialChars = set(u'[,:;\-!`\'©°"~?!\^@#%\$&\.\/_\(\)\{\}\[\]\*]')
     numberTopics = 7 
     docNumber = None
     dictionaryWords = set(['united nations', 'property', 'torture','applicant', 'child', 'help'])
     dictionaryWords = None
 
-    filename = 'dataObjects/TM38docs.txt'
+    filename = 'dataObjects/scifyBooks.txt'
     preprocess = 0
 
     #### MODEL ####
@@ -30,8 +32,7 @@ def scriptLDA():
 
     else:
         print 'Load unprocessed document collection'
-        ctrl.loadCollection(path)
-        
+        ctrl.loadCollection(path, couchdb)
         ctrl.collection =  ctrl.collection[0:docNumber]
 
         print 'Prepare document collection'
