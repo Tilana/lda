@@ -16,5 +16,14 @@ class testUtils(unittest.TestCase):
         self.assertTrue(utils.containsAny('w@rd','.@/!$'))
         self.assertFalse(utils.containsAny('word', ['.','p', '-']))
         self.assertTrue(utils.containsAny('(3)', '(.\\'))
+
+
+    def test_absoluteList(self):
+        l = [(54.09, 2), (-200, 11), (-2, 3), (23.29, 19)]
+        targetList = [(54.09, 2), (200, 11), (2, 3), (23.29, 19)]
+
+        self.assertEqual(targetList, utils.absoluteTupleList(l))
+
+
 if __name__ =='__main__':
     unittest.main()

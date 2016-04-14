@@ -16,3 +16,8 @@ def containsAny(str, specialChars):
             return 1;
     return 0;
 
+def absoluteTupleList(tupleList):
+    return [(abs(elem[0]), abs(elem[1])) for elem in tupleList]
+
+
+

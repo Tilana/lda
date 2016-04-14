@@ -55,10 +55,15 @@ class htmlCreator:
             f = open(pagename, 'w')
             f.write("<html><head><h1>Document %02d - %s</h1></head>" % (ind, doc.title.encode('utf-8')))
             f.write("""<body><div style="width:100%;"><div style="float:right; width:40%;">""")
-            f.write("""<h3>Topic coverage: \n</h3><table>""")
+            f.write("""<h3> LSI Topic coverage: \n</h3><table>""")
             f.write("""<col style="width:40%"> <col style="width:50%">""")
             for topicNr, coverage in enumerate(doc.LSICoverage):
-                f.write("""<tr><td><a href='topic%d.html'>Topic %d</a</td><td> Coverage %.2f</td></tr>""" % (topicNr, topicNr, coverage[1]))
+                f.write("""<tr><td><a href='LSItopic%d.html'>Topic %d</a</td><td> Coverage %.2f</td></tr>""" % (topicNr, topicNr, coverage[1]))
+            f.write("</table>")
+            f.write("""<h3> LDA Topic coverage: \n</h3><table>""")
+            f.write("""<col style="width:40%"> <col style="width:50%">""")
+            for topicNr, coverage in enumerate(doc.LDACoverage):
+                f.write("""<tr><td><a href='LDAtopic%d.html'>Topic %d</a</td><td> Coverage %.2f</td></tr>""" % (topicNr, topicNr, coverage[1]))
             f.write("</table>")
             f.write("""<h3>Relevant Words in Document: \n</h3><table>""")
             f.write("""<col style="width:40%"> <col style="width:50%">""")
@@ -83,27 +88,21 @@ class htmlCreator:
                 webbrowser.open_new_tab(filename)
                
 # Create a html page for each topic
-    def printDocsRelatedTopics(self, model, topicType='LDA', openHtml=False):
-        if topicType=='LSI':
-            topicList = model.LSI.topics
-        else:
-            topicList = model.LDA.topics
+    def printDocsRelatedTopics(self, model, collection, openHtml=False):
         for num in range(0, model.numberTopics): 
-    	    pagename = 'html/%stopic%d.html' % (topicType, num)
+    	    pagename = 'html/%stopic%d.html' % (model.name, num)
     	    f = open(pagename, 'w')
-    	    f.write("<html><head><h1>Document Relevance for %s Topic %d</h1></head>" %  (topicType, num))
-            f.write("<body><h4>Topics and related words - %s Model</h4><table>" % topicType)
+    	    f.write("<html><head><h1> %s Document Relevance for Topic %d</h1></head>" %  (model.name, num))
+            f.write("<body><h4>Topics and related words - %s Model</h4><table>" % model.name)
             f.write("""<col style="width:7%"> <col style="width:80%">""")
-            topic = topicList[num]
-            f.write("<tr><td><a href='%stopic%d.html'>Topic %d</a></td><td>%s</td></tr>" % (topicType, topic.number, topic.number, str(topic.wordDistribution)[1:-1].encode('utf-8')))
+            topic = model.topics[num]
+            f.write("<tr><td><a href='%stopic%d.html'>Topic %d</a></td><td>%s</td></tr>" % (model.name, topic.number, topic.number, str(topic.wordDistribution)[1:-1].encode('utf-8')))
             f.write("</table>")
     	    f.write("<h4>Related Documents</h4>")
             f.write("<table>") 
     	    f.write("""<col style="width:10%"> <col style="width:40%"> <col style="width:25%">""")
-    	    # get index and relevance for each document regarding a topic
-    	    # TODO: check meaning of negative numbers -> take absolute value if necessary
-    	    for doc in topicList[num].relatedDocuments[0:15]:
-    	    	f.write("<tr><td><a href='doc%02d.html'>Document %d</a></td><td>%s</td><td>Relevance: %.2f</td></tr>" % (doc[0], doc[0], model.collection[doc[0]].title.encode('utf8'), doc[1]))
+    	    for doc in model.topics[num].relatedDocuments[0:15]:
+    	    	f.write("<tr><td><a href='doc%02d.html'>Document %d</a></td><td>%s</td><td>Relevance: %.2f</td></tr>" % (doc[1], doc[1], collection[doc[1]].title.encode('utf8'), doc[0]))
     
     	    f.write("</table></body></html>")
     	    f.close()

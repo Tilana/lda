@@ -1,9 +1,10 @@
 from Topic import Topic
 from gensim import corpora, models, similarities
+import utils
 
 class Model:
 
-    def __init__(self, name='LDA', numberTopics=3):
+    def __init__(self, name, numberTopics):
         self.name = name
         self.numberTopics = numberTopics
 
@@ -11,8 +12,10 @@ class Model:
     def createModel(self, corpus, dictionary):
         if self.name=='LDA':
             self.model = models.LdaModel(corpus, self.numberTopics, dictionary)
+            self.info = str(self.model)
         elif self.name=='LSI':
             self.model = models.LsiModel(corpus, self.numberTopics, dictionary)
+            self.info = str(self.model)
         else:
             print 'Unkown Model type'
 
@@ -43,20 +46,20 @@ class Model:
         self.similarityMatrix = similarities.MatrixSimilarity(self.model[corpus], num_best)
 
 
-    def getTopicRelatedDocuments(self, collection):
-        topicCoverage = self.getTopicCoverageInCollection(collection)
+    def getTopicRelatedDocuments(self, corpus):
+        topicCoverage = self.model[corpus]
         for ind, topic in enumerate(self.topics):
-            topicCoveragePerTopic = self.zipTopicCoverageList(topicCoverage, ind)
+            topicCoveragePerTopic = utils.absoluteTupleList(self.zipTopicCoverageList(topicCoverage, ind))
             setattr(topic, 'relatedDocuments', sorted(topicCoveragePerTopic, reverse=True))
 
 
-    def getTopicCoverageInCollection(self, collection):
-        coverageList = []
-        for document in collection:
-            topicCoverage = getattr(document, ('%sCoverage' % self.name))
-            coverageList.append(topicCoverage)
-        return coverageList
-
+#    def getTopicCoverageInCollection(self, collection):
+#        coverageList = []
+#        for document in collection:
+#            topicCoverage = getattr(document, ('%sCoverage' % self.name))
+#            coverageList.append(topicCoverage)
+#        return coverageList
+#
 
     def zipTopicCoverageList(self, coverageList, value):
         valueList = []

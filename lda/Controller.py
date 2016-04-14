@@ -66,23 +66,27 @@ class Controller:
     def createFrequentWords(self, N=10):
         for index, docs in enumerate(self.collection):
             self.setFrequentWordsInDoc(docs, N=N)
+
+
+    def getModelType(self, name):
+        return getattr(self, name)
     
     
-    def topicModel(self, name='LDA', numTopics=3, corpus=None, topicCoverage=True, relatedDocuments=True):
+    def topicModel(self, name, numTopics, corpus, topicCoverage=True, relatedDocuments=True):
         model = Model(name, numTopics)
         model.createModel(corpus, self.dictionary.ids)
         setattr(self, name, model) 
-        modelType = getattr(self, name)
+        modelType = self.getModelType(name)
         modelType.createTopics()
         if topicCoverage:
             for document in self.collection:
                 modelType.computeTopicCoverage(document)
         if relatedDocuments:
-            modelType.getTopicRelatedDocuments(self.collection)
+            modelType.getTopicRelatedDocuments(self.corpus)
 
 
     def similarityAnalysis(self, name='LDA', corpus=None):
-        modelType = getattr(self, name)
+        modelType = self.getModelType(name)
         modelType.computeSimilarityMatrix(corpus)
         for document in self.collection:
             modelType.computeSimilarity(document)

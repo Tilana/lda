@@ -12,7 +12,7 @@ def scriptLDA():
     #### PARAMETERS ####
     path = 'http://localhost:5984/uwazi/_design/documents/_view/fulltext'
     specialChars = set(u'[,:;\-!`\'©°"~?!\^@#%\$&\.\/_\(\)\{\}\[\]\*]')
-    numberTopics = 3
+    numberTopics = 7 
     docNumber = None
     dictionaryWords = set(['united nations', 'property', 'torture','applicant', 'child', 'help'])
     dictionaryWords = None
@@ -53,15 +53,10 @@ def scriptLDA():
     print 'Topic Modeling'
     ctrl.topicModel('LSI', numberTopics, ctrl.corpus, topicCoverage=True, relatedDocuments=True)
     ctrl.topicModel('LDA', numberTopics, ctrl.corpus, topicCoverage=True, relatedDocuments=True)
-
-    print ctrl.collection[0].LDACoverage
-    print ctrl.collection[0].LSICoverage
-
-    print ctrl.LDA.topics[0].relatedDocuments
-    print ctrl.LSI.topics[0].relatedDocuments
+    ctrl.topicModel('LSI', numberTopics, ctrl.tfidf[ctrl.corpus], topicCoverage=True, relatedDocuments=True) 
 
     print 'Similarity Analysis'
-    ctrl.similarityAnalysis('LSI', ctrl.corpus)
+    ctrl.similarityAnalysis('LSI', ctrl.tfidf[ctrl.corpus])
     ctrl.similarityAnalysis('LDA', ctrl.corpus)
 
     print 'Create HTML Files'
@@ -70,8 +65,8 @@ def scriptLDA():
     html.printTopics(ctrl.LSI)
     html.printTopics(ctrl.LDA)
     html.printDocuments(ctrl)
-    html.printDocsRelatedTopics(ctrl, topicType='LSI', openHtml=False)
-    html.printDocsRelatedTopics(ctrl, topicType='LDA', openHtml=False)
+    html.printDocsRelatedTopics(ctrl.LSI, ctrl.collection, openHtml=False)
+    html.printDocsRelatedTopics(ctrl.LDA, ctrl.collection, openHtml=False)
    
 if __name__ == "__main__":
     scriptLDA()
