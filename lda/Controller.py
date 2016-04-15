@@ -17,7 +17,7 @@ class Controller:
         self.numberTopics = numberTopics
         self.specialChars = specialChars
 
-    def loadCollection(self, path=None, couchdb=1):
+    def loadCollection(self, path=None, couchdb=1, numberDocs=None):
         if path is not None and couchdb:
             urllib2.urlopen(urllib2.Request(path)) 
             (titles, texts) = docLoader.loadCouchdb(path)
@@ -26,35 +26,43 @@ class Controller:
         else:
             titles = ['']
             texts = ['']
-        self.collection = self.createDocumentList(titles, texts)
+        self.collection = self.createDocumentList(titles[0:numberDocs], texts[0:numberDocs])
     
     def createCorpus(self):
         self.corpus = [self.dictionary.ids.doc2bow(document.tokens) for document in self.collection]
         
     def createDictionary(self, wordList=None, lemmatize=True, stoplist=None, specialChars=None, removeShortWords=True, threshold=1, addEntities=True, getOriginalWords=True):
         if wordList is None:
+            print '   - Add tokens to Wordlist'
             self.dictionary.addCollection(self.collection)
         else:
             self.dictionary.setDictionary(wordList)
-        self.dictionary.createDictionaryIds()
         if lemmatize:
+            print '   - Lemmatize Dictionary'
             self.dictionary.lemmatize()
         if stoplist is not None:
+            print '   - Remove Stopwords'
             self.dictionary.addStopwords(stoplist)
         if specialChars is not None:
+            print '   - Remove special Characters'
             self.dictionary.findSpecialCharTokens(specialChars, self.collection)
             self.dictionary.removeSpecialChars()
         if removeShortWords:
+            print '   - Remove short tokens'
             self.dictionary.removeShortWords(threshold)
         if addEntities:
+            print '   - Find Named Entities'
             self.dictionary.createEntities(self.collection)
         if getOriginalWords:
+            print '   - Store original Dictionary'
             self.dictionary.getOriginalWords(self.collection)
+        self.dictionary.createDictionaryIds()
 
 
     def tfidfModel(self):
         self.tfidf = models.TfidfModel(self.corpus, normalize=True)
-    
+
+
     def computeFrequentWords(self, document, N=10):
         docRepresentation = self.tfidf[document.vectorRepresentation]
         freqWords = sorted(docRepresentation, key=lambda frequency: frequency[1], reverse=True)[0:N]

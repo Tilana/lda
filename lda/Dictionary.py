@@ -36,6 +36,9 @@ class Dictionary:
     def addWords(self, wordList):
         [self.words.add(word) for word in self._lowerList(wordList) if word not in self.stopwords]
 
+    def getDictionaryId(self, word):
+        return self.ids.keys()[self.ids.values().index(word)]
+
 
     def _lowerList(self, wordList):
         return [word.lower() for word in wordList]
@@ -67,6 +70,10 @@ class Dictionary:
         [document.createEntities() for document in collection if document.entities.isEmpty()]
         self.entities = entities('')
         self._addDocumentEntities(collection)
+
+    
+    def encodeWord(self, word):
+        return self.ids.get(word)
     
     
     def _addDocumentEntities(self, collection):

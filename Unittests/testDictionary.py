@@ -36,6 +36,12 @@ class testDictionary(unittest.TestCase):
         self.testDictionary.createDictionaryIds()
         self.targetDictionary.ids = {7:u'test', 11:u'if', 3:u'this', 1:u'set', 4:u'is', 6:u'converted', 5:u'to', 0:u'a', 2:u'dictionary', 8:u'representation', 9:u'corpus', 10:u'with'}
         self.assertEqual(self.testDictionary.ids.items(), self.targetDictionary.ids.items())
+
+    def test_getDictionaryId(self):
+        self.targetDictionary.ids = {7:u'test', 11:u'if', 3:u'this', 1:u'set', 4:u'is', 6:u'converted', 5:u'to', 0:u'a', 2:u'dictionary', 8:u'representation', 9:u'corpus', 10:u'with'}
+        self.assertEqual(9, self.targetDictionary.getDictionaryId('corpus'))
+        self.assertEqual(7, self.targetDictionary.getDictionaryId('test'))
+
    
     def test_addDocumentEmptyDict(self):
         self.testDictionary.addDocument(self.doc)
@@ -99,6 +105,8 @@ class testDictionary(unittest.TestCase):
         testEntities.addEntities('LOCATION', set([u'Senegal', u'Lybia']))
         testDictionary.createEntities(collection)
         self.assertEqual(testEntities.__dict__, testDictionary.entities.__dict__)
+
+
 
 
 if __name__ =='__main__':

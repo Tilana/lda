@@ -13,13 +13,13 @@ def scriptLDA():
     path = 'http://localhost:5984/uwazi/_design/documents/_view/fulltext'
     path = "//home/natalie/Documents/Huridocs/LDA/Documents/scyfibookspdf"
     couchdb = 0
-    specialChars = set(u'[,:;\-!`\'©°"~?!\^@#%\$&\.\/_\(\)\{\}\[\]\*]')
-    numberTopics = 7 
+    specialChars = set(u'''[,:;€\-!'"`\`\'©°\"~?!\^@#%\$&\.\/_\(\)\{\}\[\]\*]''')
+    numberTopics = 20
     docNumber = None
     dictionaryWords = set(['united nations', 'property', 'torture','applicant', 'child', 'help'])
     dictionaryWords = None
 
-    filename = 'dataObjects/scifyBooks.txt'
+    filename = 'dataObjects/scifyBooksAll.txt'
     preprocess = 0
 
     #### MODEL ####
@@ -32,18 +32,21 @@ def scriptLDA():
 
     else:
         print 'Load unprocessed document collection'
-        ctrl.loadCollection(path, couchdb)
-        ctrl.collection =  ctrl.collection[0:docNumber]
+        ctrl.loadCollection(path, couchdb, docNumber)
 
         print 'Prepare document collection'
         ctrl.prepareDocumentCollection(lemmatize=True, includeEntities=True, stopwords=STOPWORDS, specialChars=specialChars, removeShortTokens=True, threshold=1)
 
+        ctrl.save(filename)
+
         print 'Prepare Dictionary'
         ctrl.createDictionary(wordList = dictionaryWords, lemmatize=True, stoplist=STOPWORDS, specialChars= ctrl.specialChars, removeShortWords=True, threshold=1, addEntities=True, getOriginalWords=True)
-        
+
+        print 'Create Corpus'
         ctrl.createCorpus()
         ctrl.save(filename)
 
+    
     print 'TF-IDF Model'
     ctrl.tfidfModel()
 
@@ -52,7 +55,7 @@ def scriptLDA():
         ctrl.computeFrequentWords(document)
     
     print 'Topic Modeling'
-    ctrl.topicModel('LSI', numberTopics, ctrl.corpus, topicCoverage=True, relatedDocuments=True)
+#    ctrl.topicModel('LSI', numberTopics, ctrl.corpus, topicCoverage=True, relatedDocuments=True)
     ctrl.topicModel('LDA', numberTopics, ctrl.corpus, topicCoverage=True, relatedDocuments=True)
     ctrl.topicModel('LSI', numberTopics, ctrl.tfidf[ctrl.corpus], topicCoverage=True, relatedDocuments=True) 
 

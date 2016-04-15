@@ -17,6 +17,12 @@ class entities:
     def addEntities(self, tag, entityList):
         setattr(self, tag, entityList)
 
+
+    def countOccurence(self, text, field):
+        entities = getattr(self, field)
+        return [(entity, text.count(entity)) for entity in entities]
+    
+
     def getEntities(self):
         return utils.flattenList([list(self.LOCATION), list(self.ORGANIZATION), list(self.PERSON)])
 

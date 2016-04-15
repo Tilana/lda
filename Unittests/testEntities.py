@@ -16,5 +16,18 @@ class testEntities(unittest.TestCase):
 
         self.assertFalse(self.testEntities.isEmpty())
 
+
+    def test_countOccurence(self):
+        entityList = entities()
+        entityList.addEntities('ORGANIZATION', set([u'African Commission', u'United Nations', u'Human Rights Council']))
+        entityList.addEntities('LOCATION', set([u'Gambia', 'United States of America']))
+        text = 'The Human Rights Council and the United Nations and the Human Rights Council appear in this test'
+
+        target = set([(u'African Commission', 0), (u'United Nations', 1), (u'Human Rights Council', 2)])
+
+        self.assertEqual(set(entityList.countOccurence(text, 'ORGANIZATION')), target)
+
+
+        
 if __name__ == '__main__':
     unittest.main()
