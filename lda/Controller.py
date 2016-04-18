@@ -31,9 +31,14 @@ class Controller:
     def createCorpus(self):
         self.corpus = [self.dictionary.ids.doc2bow(document.tokens) for document in self.collection]
 
-    def createEntityCorpus(self, entityTag=None):
-        corpus = [self.dictionary.entities.countOccurence(document.text, entityTag) for document in self.collection]
-        self.entityCorpus = [sorted([(self.dictionary.getDictionaryId(entry[0]), entry[1]) for entry in document]) for document in corpus]
+
+    def getEntityCorpus(self):
+        return [sorted([(self.dictionary.getDictionaryId(entry[0]), entry[1]) for entry in document]) for document in self.entityOccurence]
+
+
+    def createEntityOccurence(self, entityTag=None):
+        self.entityOccurence = [self.dictionary.entities.countOccurence(document.text, entityTag) for document in self.collection]
+
         
     def createDictionary(self, wordList=None, lemmatize=True, stoplist=None, specialChars=None, removeShortWords=True, threshold=1, addEntities=True, getOriginalWords=True):
         if wordList is None:

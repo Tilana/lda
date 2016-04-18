@@ -53,18 +53,10 @@ def scriptLDA():
 
         print 'Create Corpus'
         ctrl.createCorpus()
-        ctrl.createEntityCorpus()
-        ctrl.corpus = utils.joinSublists(ctrl.corpus, ctrl.entityCorpus)
+        ctrl.createEntityOccurence()
+        ctrl.corpus = utils.joinSublists(ctrl.corpus, ctrl.getEntityCorpus())
         print 'LOCATION'
         print ctrl.dictionary.entities.LOCATION
-
-        corp = ctrl.entityCorpus[0][500:2100]
-        print 'ENTITITY CORPUS'
-        print ctrl.entityCorpus
-        for elem in corp:
-            print ctrl.dictionary.ids.get(elem[0]), elem[1]
-#        print ctrl.dictionary.getDictionaryId('human rights watch')
-#        print ctrl.corpus
 
         ctrl.save(filename)
 
