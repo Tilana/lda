@@ -37,6 +37,17 @@ class testDictionary(unittest.TestCase):
         self.targetDictionary.ids = {7:u'test', 11:u'if', 3:u'this', 1:u'set', 4:u'is', 6:u'converted', 5:u'to', 0:u'a', 2:u'dictionary', 8:u'representation', 9:u'corpus', 10:u'with'}
         self.assertEqual(self.testDictionary.ids.items(), self.targetDictionary.ids.items())
 
+    def test_createEntityDictionary(self):
+        self.testDictionary.entities = entities()
+        self.testDictionary.entities.addEntities('LOCATION', ['New York', 'Sevilla', 'United States of America'])
+        self.testDictionary.entities.addEntities('PERSON', ['Stephen Hawking', 'Peter Pan'])
+
+        self.testDictionary.createEntityDictionary('LOCATION')
+
+        self.targetDictionary.LOCATIONdictionary = {2:u'New York', 0:u'Sevilla', 1:u'United States of America'}
+
+        self.assertEqual(self.testDictionary.LOCATIONdictionary.items(), self.targetDictionary.LOCATIONdictionary.items())
+
     def test_getDictionaryId(self):
         self.targetDictionary.ids = {7:u'test', 11:u'if', 3:u'this', 1:u'set', 4:u'is', 6:u'converted', 5:u'to', 0:u'a', 2:u'dictionary', 8:u'representation', 9:u'corpus', 10:u'with'}
         self.assertEqual(9, self.targetDictionary.getDictionaryId('corpus'))

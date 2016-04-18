@@ -13,18 +13,24 @@ class entities:
             entityTuples = ner.getNamedEntities(document)
             for entities in entityTuples:
                 setattr(self, entities[0], set(entities[1]))
-    
+
     def addEntities(self, tag, entityList):
         setattr(self, tag, entityList)
 
+    def countOccurence(self, text, field=None):
+        entityList = self.getEntities(field)
+        text = text.lower()
+        occurence = []
+        for entity in entityList:
+            entity = entity.lower()
+            if text.count(entity)>0:
+                occurence.append((entity, text.count(entity)))
+        return occurence 
 
-    def countOccurence(self, text, field):
-        entities = getattr(self, field)
-        return [(entity, text.count(entity)) for entity in entities]
-    
-
-    def getEntities(self):
-        return utils.flattenList([list(self.LOCATION), list(self.ORGANIZATION), list(self.PERSON)])
+    def getEntities(self, field=None):
+        if field is None:
+            return utils.flattenList([list(self.LOCATION), list(self.ORGANIZATION), list(self.PERSON)])
+        return getattr(self, field)
 
     def isEmpty(self):
         return self.LOCATION == [] and self.PERSON == [] and self.ORGANIZATION == []

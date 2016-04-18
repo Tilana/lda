@@ -14,6 +14,12 @@ class Dictionary:
     def createDictionaryIds(self):
         self.ids.add_documents([self.words])
 
+    def createEntityDictionary(self, tag):
+        dictionary = corpora.Dictionary()
+        dictionary.add_documents([getattr(self.entities, tag)])
+        setattr(self, '%sdictionary' % tag, dictionary)
+
+
     def setDictionary(self, wordList=None):
         self.words = set(self._lowerList(wordList))
 
@@ -70,13 +76,14 @@ class Dictionary:
         [document.createEntities() for document in collection if document.entities.isEmpty()]
         self.entities = entities('')
         self._addDocumentEntities(collection)
-
     
     def encodeWord(self, word):
         return self.ids.get(word)
     
     
     def _addDocumentEntities(self, collection):
-        for tag in collection[0].entities.__dict__.keys():
+        for tag in collection[1].entities.__dict__.keys():
             self.entities.addEntities(tag, set().union(*[getattr(document.entities, tag) for document in collection]))
+        for entity in self.entities.getEntities():
+            self.words.add(entity.lower())
  

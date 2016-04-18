@@ -21,13 +21,15 @@ class testEntities(unittest.TestCase):
         entityList = entities()
         entityList.addEntities('ORGANIZATION', set([u'African Commission', u'United Nations', u'Human Rights Council']))
         entityList.addEntities('LOCATION', set([u'Gambia', 'United States of America']))
-        text = 'The Human Rights Council and the United Nations and the Human Rights Council appear in this test'
+        text = 'The Human Rights Council in Gambia and the United Nations in the United States of America and the Human Rights Council and Gambiar should appear in the counter'
 
-        target = set([(u'African Commission', 0), (u'United Nations', 1), (u'Human Rights Council', 2)])
+        targetOrganization = set([(u'united nations', 1), (u'human rights council', 2)])
+        targetAllEntities = set([(u'united nations', 1), (u'human rights council', 2), (u'gambia', 2), (u'united states of america',1)])
 
-        self.assertEqual(set(entityList.countOccurence(text, 'ORGANIZATION')), target)
+        self.assertEqual(set(entityList.countOccurence(text, 'ORGANIZATION')), targetOrganization)
 
-
+        self.assertEqual(set(entityList.countOccurence(text)), targetAllEntities)
+        print entityList.countOccurence(text)
         
 if __name__ == '__main__':
     unittest.main()

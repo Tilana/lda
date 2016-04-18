@@ -12,14 +12,17 @@ def scriptLDA():
     #### PARAMETERS ####
     path = 'http://localhost:5984/uwazi/_design/documents/_view/fulltext'
     path = "//home/natalie/Documents/Huridocs/LDA/Documents/scyfibookspdf"
-    couchdb = 0
+    couchdb = 1
     specialChars = set(u'''[,:;€\-!'"`\`\'©°\"~?!\^@#%\$&\.\/_\(\)\{\}\[\]\*]''')
-    numberTopics = 20
-    docNumber = None
+    numberTopics = 10
+    startDoc = 100
+    numberDoc= 49 
     dictionaryWords = set(['united nations', 'property', 'torture','applicant', 'child', 'help'])
     dictionaryWords = None
 
-    filename = 'dataObjects/scifyBooksAll.txt'
+    filename = 'dataObjects/scifyBooks50_3.txt'
+    filename = 'dataObjects/TM38docs.txt'
+
     preprocess = 0
 
     #### MODEL ####
@@ -32,7 +35,7 @@ def scriptLDA():
 
     else:
         print 'Load unprocessed document collection'
-        ctrl.loadCollection(path, couchdb, docNumber)
+        ctrl.loadCollection(path, couchdb, startDoc, numberDoc)
 
         print 'Prepare document collection'
         ctrl.prepareDocumentCollection(lemmatize=True, includeEntities=True, stopwords=STOPWORDS, specialChars=specialChars, removeShortTokens=True, threshold=1)
@@ -44,6 +47,9 @@ def scriptLDA():
 
         print 'Create Corpus'
         ctrl.createCorpus()
+        ctrl.createEntitiyCorpus()
+        ctrl.corpus = utils.joinSublists(ctrl.corpus, ctrl.entityCorpus)
+
         ctrl.save(filename)
 
     

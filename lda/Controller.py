@@ -17,7 +17,7 @@ class Controller:
         self.numberTopics = numberTopics
         self.specialChars = specialChars
 
-    def loadCollection(self, path=None, couchdb=1, numberDocs=None):
+    def loadCollection(self, path=None, couchdb=1, startDoc=0, numberDocs=None):
         if path is not None and couchdb:
             urllib2.urlopen(urllib2.Request(path)) 
             (titles, texts) = docLoader.loadCouchdb(path)
@@ -26,10 +26,14 @@ class Controller:
         else:
             titles = ['']
             texts = ['']
-        self.collection = self.createDocumentList(titles[0:numberDocs], texts[0:numberDocs])
+        self.collection = self.createDocumentList(titles[startDoc:startDoc + numberDocs], texts[startDoc:startDoc + numberDocs])
     
     def createCorpus(self):
         self.corpus = [self.dictionary.ids.doc2bow(document.tokens) for document in self.collection]
+
+    def createEntityCorpus(self, entityTag=None):
+        corpus = [self.dictionary.entities.countOccurence(document.text, entityTag) for document in self.collection]
+        self.entityCorpus = [sorted([(self.dictionary.getDictionaryId(entry[0]), entry[1]) for entry in document]) for document in corpus]
         
     def createDictionary(self, wordList=None, lemmatize=True, stoplist=None, specialChars=None, removeShortWords=True, threshold=1, addEntities=True, getOriginalWords=True):
         if wordList is None:
@@ -57,7 +61,6 @@ class Controller:
             print '   - Store original Dictionary'
             self.dictionary.getOriginalWords(self.collection)
         self.dictionary.createDictionaryIds()
-
 
     def tfidfModel(self):
         self.tfidf = models.TfidfModel(self.corpus, normalize=True)

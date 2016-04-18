@@ -15,12 +15,13 @@ def scriptLDA():
     couchdb = 0
     specialChars = set(u'''[,:;€\-!'"`\`\'©°\"~?!\^@#%\$&\.\/_\(\)\{\}\[\]\*]''')
     numberTopics = 3
-    docNumber = None
+    startDoc = 0
+    docNumber = 5 
     dictionaryWords = set(['united nations', 'property', 'torture','applicant', 'child', 'help'])
     dictionaryWords = None
 
     filename = 'dataObjects/rightsDoc.txt'
-    preprocess = 0
+    preprocess = 1
 
     #### MODEL ####
     ctrl = Controller(numberTopics, specialChars)
@@ -32,38 +33,40 @@ def scriptLDA():
 
     else:
         print 'Load unprocessed document collection'
-        ctrl.loadCollection(path, couchdb, docNumber)
+        ctrl.loadCollection(path, couchdb, startDoc, docNumber)
 
         print 'Prepare document collection'
-        ctrl.prepareDocumentCollection(lemmatize=True, includeEntities=True, stopwords=STOPWORDS, specialChars=specialChars, removeShortTokens=True, threshold=1)
+        ctrl.prepareDocumentCollection(lemmatize=True, includeEntities=False, stopwords=STOPWORDS, specialChars=specialChars, removeShortTokens=True, threshold=1)
 
         ctrl.save(filename)
 
         print 'Prepare Dictionary'
         ctrl.createDictionary(wordList = dictionaryWords, lemmatize=True, stoplist=STOPWORDS, specialChars= ctrl.specialChars, removeShortWords=True, threshold=1, addEntities=True, getOriginalWords=True)
 
+#        print ctrl.dictionary.words
+#
+#        print ctrl.dictionary.entities.LOCATION
+
+#        print ctrl.collection[0].text.lower()
+#        print 'HUMAN RIGHTS WATCH ID'
+
+
         print 'Create Corpus'
         ctrl.createCorpus()
+        ctrl.createEntityCorpus()
+        ctrl.corpus = utils.joinSublists(ctrl.corpus, ctrl.entityCorpus)
+        print 'LOCATION'
+        print ctrl.dictionary.entities.LOCATION
+
+        corp = ctrl.entityCorpus[0][500:2100]
+        print 'ENTITITY CORPUS'
+        print ctrl.entityCorpus
+        for elem in corp:
+            print ctrl.dictionary.ids.get(elem[0]), elem[1]
+#        print ctrl.dictionary.getDictionaryId('human rights watch')
+#        print ctrl.corpus
+
         ctrl.save(filename)
-
-
-    print ctrl.dictionary.ids.token2id
-    print 'Tokens'
-    print ctrl.collection[0].tokens[1200:1350]
-    print 'Bigrams'
-    bigrams = nltk.bigrams([word for word in ctrl.collection[0].text.split()])
-    print bigrams
-    test = ctrl.corpus[0][35:40]
-    print test
-    for elem in test:
-        print ctrl.dictionary.ids.get(elem[0]), elem[1]
-
-    print 'Counter'
-
-    print ctrl.collection[0].text.count('Syrian Arab Republic')
-    print 'Find Dict keys'
-    print ctrl.dictionary.ids.keys()[ctrl.dictionary.ids.values().index(u'original')]
-
 
     
     print 'TF-IDF Model'
