@@ -85,5 +85,5 @@ class Dictionary:
         for tag in collection[1].entities.__dict__.keys():
             self.entities.addEntities(tag, set().union(*[getattr(document.entities, tag) for document in collection]))
         for entity in self.entities.getEntities():
-            self.words.add(entity.lower())
+            self.words.add(entity[0].lower())
  

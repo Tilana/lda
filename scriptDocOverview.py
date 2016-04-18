@@ -36,7 +36,10 @@ def scriptLDA():
         ctrl.loadCollection(path, couchdb, startDoc, docNumber)
 
         print 'Prepare document collection'
-        ctrl.prepareDocumentCollection(lemmatize=True, includeEntities=False, stopwords=STOPWORDS, specialChars=specialChars, removeShortTokens=True, threshold=1)
+        ctrl.prepareDocumentCollection(lemmatize=True, includeEntities=True, stopwords=STOPWORDS, specialChars=specialChars, removeShortTokens=True, threshold=1)
+
+        print ctrl.collection[0].entities.LOCATION
+        print ctrl.collection[0].entities.ORGANIZATION
 
         ctrl.save(filename)
 
@@ -53,8 +56,8 @@ def scriptLDA():
 
         print 'Create Corpus'
         ctrl.createCorpus()
-        ctrl.createEntityOccurence()
-        ctrl.corpus = utils.joinSublists(ctrl.corpus, ctrl.getEntityCorpus())
+        ctrl.createEntityCorpus()
+        ctrl.corpus = utils.joinSublists(ctrl.corpus, ctrl.entityCorpus)
         print 'LOCATION'
         print ctrl.dictionary.entities.LOCATION
 

@@ -111,9 +111,9 @@ class testDictionary(unittest.TestCase):
         testDictionary = Dictionary()
         collection = [document('doc1','Test named entity recognition of a Collection of documents.'),document('doc2',' African Commission is a named entity, also countries like Senegal and Lybia and names like Peter and Anna.'),document('doc3', 'Also organizations like the United Nations or UNICEF should be recognized.')]
         testEntities = entities('')
-        testEntities.addEntities('ORGANIZATION', set([u'African Commission', u'UNICEF', u'United Nations']))
-        testEntities.addEntities('PERSON', set([u'Anna', u'Peter']))
-        testEntities.addEntities('LOCATION', set([u'Senegal', u'Lybia']))
+        testEntities.addEntities('ORGANIZATION', set([(u'african commission',1), (u'unicef', 1), (u'united nations', 1)]))
+        testEntities.addEntities('PERSON', set([(u'anna',1), (u'peter',1)]))
+        testEntities.addEntities('LOCATION', set([(u'senegal',1), (u'lybia',1)]))
         testDictionary.createEntities(collection)
         self.assertEqual(testEntities.__dict__, testDictionary.entities.__dict__)
 

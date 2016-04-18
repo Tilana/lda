@@ -7,7 +7,7 @@ class testEntities(unittest.TestCase):
         self.testEntities = entities('This is a Text to see if locations like Beirut in Lebanon, but also locations and organisations are recognized. Charles Isaac Leopold is working for the World Health Organisation and the UN in the United States of America.')
         
     def test_getEntities(self):
-        targetEntities = [u'World Health Organisation', u'UN', u'Lebanon', u'Beirut', u'United States of America', u'Charles Isaac Leopold']
+        targetEntities = [(u'world health organisation', 1), (u'un', 2), (u'lebanon', 1), (u'beirut', 1), (u'united states of america', 1), (u'charles isaac leopold', 1)]
         self.assertEqual(set(self.testEntities.getEntities()), set(targetEntities))
 
     def test_isEmpty(self):

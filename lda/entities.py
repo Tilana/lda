@@ -4,7 +4,7 @@ import utils
 # stores named entities of a document sorted by its different tags, like location, person and organization
 class entities:
     
-    def __init__(self, document=None):
+    def __init__(self, document=None, frequency=1):
         if document is None:
             self.LOCATION = []
             self.PERSON =  []
@@ -13,6 +13,11 @@ class entities:
             entityTuples = ner.getNamedEntities(document)
             for entities in entityTuples:
                 setattr(self, entities[0], set(entities[1]))
+                if frequency is not None:
+                    print 'Frequency == True'
+                    entityFrequency = [(entity.lower(), document.lower().count(entity.lower())) for entity in entities[1]]
+                    setattr(self, entities[0], entityFrequency)
+                       
 
     def addEntities(self, tag, entityList):
         setattr(self, tag, entityList)

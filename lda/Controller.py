@@ -32,8 +32,9 @@ class Controller:
         self.corpus = [self.dictionary.ids.doc2bow(document.tokens) for document in self.collection]
 
 
-    def getEntityCorpus(self):
-        return [sorted([(self.dictionary.getDictionaryId(entry[0]), entry[1]) for entry in document]) for document in self.entityOccurence]
+    def createEntityCorpus(self):
+        self.entityCorpus = [sorted([(self.dictionary.getDictionaryId(entry[0]), entry[1]) for entry in document.entities.getEntities()]) for document in self.collection]
+        print self.entityCorpus
 
 
     def createEntityOccurence(self, entityTag=None):

@@ -62,30 +62,32 @@ class testDocument(unittest.TestCase):
     def test_prepareDocument(self):
         self.testDocument.prepareDocument(lemmatize=True, includeEntities=True, stopwords=self.stoplist, specialChars = self.specialChars)
 
-        self.targetDocument.tokens = ['test', 'tokenization','date','like', 'world health organisation', 'should', 'be', 'keep', 'together', 'word', 'appear', 'more', 'more', 'often']
+        self.targetDocument.tokens = ['test', 'tokenization','date','like', 'world', 'health', 'organisation', 'should', 'be', 'keep', 'together', 'word', 'appear', 'more', 'more', 'often', 'world health organisation']
         self.assertEqual(self.testDocument.tokens, self.targetDocument.tokens)
 
 
-    def test_includeEntities(self):
-        testDocument = document('Test Document','Name entities like World Health Organization, person names like Sir James and Ms Rosa Wallis but also world locations or states like Lebanon, United States of America or new cities like New York have to be recognized')
+    def test_appendEntities(self):
+        testDocument = document('Test Document','Name entities like World Health Organization, person names like Sir James and Ms Rosa Wallis but also world locations or states like Lebanon, United States of America, Lebanon or new cities like New York have to be recognized')
         testDocument.createEntities()
         testDocument.createTokens()
-        testDocument.includeEntities()
+        testDocument.appendEntities()
 
-        self.targetDocument.tokens = ['name', 'entities', 'like', 'world health organization', ',', 'person', 'names', 'like', 'sir', 'james', 'and', 'ms', 'rosa wallis', 'but', 'also', 'world', 'locations', 'or', 'states', 'like', 'lebanon', ',', 'united states of america', 'or', 'new', 'cities', 'like', 'new york', 'have', 'to', 'be', 'recognized']
+        self.targetDocument.tokens = ['name', 'entities', 'like', 'world', 'health', 'organization', ',', 'person', 'names', 'like', 'sir', 'james', 'and', 'ms', 'rosa', 'wallis', 'but', 'also', 'world', 'locations', 'or', 'states', 'like', 'lebanon', ',', 'united', 'states', 'of', 'america', ',', 'lebanon', 'or', 'new', 'cities', 'like', 'new', 'york', 'have', 'to', 'be', 'recognized', 'lebanon', 'lebanon', 'united states of america', 'new york', 'world health organization', 'james', 'rosa wallis']
         self.assertEqual(self.targetDocument.tokens, testDocument.tokens)
 
     
     def test_createEntities(self):
         self.targetDocument.createEntities()
-        testDocument = document('Test Document','Name entities like World Health Organization, person names like Sir James and Ms Rosa Wallis but also locations like Lebanon, United States of America or cities like New York have to be recognized')
+        testDocument = document('Test Document','Name entities like World Health Organization, person names like Sir James and Ms Rosa Wallis but also locations like Lebanon, United States of America, Lebanon or cities like New York have to be recognized')
         testDocument.createEntities()
-        
-        self.targetDocument.entities.LOCATION = [u'United States of America', u'Lebanon', u'New York']
-        self.targetDocument.entities.PERSON = [u'Sir James', u'Ms Rosa Wallis']
-        self.targetDocument.entities.ORGANIZATION = [u'World Health Organization']
-        
-        self.assertTrue(testDocument.entities.__dict__, self.targetDocument.entities.__dict__)
+       
+        self.targetDocument.entities.LOCATION = [(u'lebanon', 2), (u'united states of america', 1), (u'new york', 1)]
+        self.targetDocument.entities.PERSON = [(u'james', 1), (u'rosa wallis', 1)]
+        self.targetDocument.entities.ORGANIZATION = [(u'world health organization',1)]
+
+        self.assertEqual(testDocument.entities.PERSON, self.targetDocument.entities.PERSON)
+        self.assertEqual(testDocument.entities.LOCATION, self.targetDocument.entities.LOCATION)
+        self.assertEqual(testDocument.entities.ORGANIZATION, self.targetDocument.entities.ORGANIZATION)
 
 
         

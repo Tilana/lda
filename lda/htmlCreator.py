@@ -78,14 +78,14 @@ class htmlCreator:
                 f.write("""<td> Similarity: %.4f</td></tr>""" % similarDoc[1])
             f.write("""</table>""")
 
-            f.write("""<h3>Entity Frequency: \n</h3><table>""")
-            f.write("""<col style="width:40%"> <col style="width:50%">""")
-            print sorted(model.entityOccurence[ind])
-            sortEntityOccurence = sorted(model.entityOccurence[ind], reverse=True, key=lambda elem: elem[1])
-            print sortEntityOccurence
-            for entity in sortEntityOccurence:
-                f.write("""<tr><td>%s </td><td> %d</td></tr>""" % (entity[0], entity[1])) 
-            f.write("</table>")
+#            f.write("""<h3>Entity Frequency: \n</h3><table>""")
+#            f.write("""<col style="width:40%"> <col style="width:50%">""")
+#            print sorted(model.entityOccurence[ind])
+#            sortEntityOccurence = sorted(model.entityOccurence[ind], reverse=True, key=lambda elem: elem[1])
+#            print sortEntityOccurence
+#            for entity in sortEntityOccurence:
+#                f.write("""<tr><td>%s </td><td> %d</td></tr>""" % (entity[0], entity[1])) 
+#            f.write("</table>")
 
             f.write("""<h3> Named Entities: \n</h3>""")
             for tag in doc.entities.__dict__.keys():
