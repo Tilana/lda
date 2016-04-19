@@ -33,6 +33,10 @@ class Controller:
 
 
     def createEntityCorpus(self):
+        for document in self.collection:
+            print document.entities.getEntities()
+            for entry in document.entities.getEntities():
+                print entry[0], self.dictionary.getDictionaryId(entry[0])
         self.entityCorpus = [sorted([(self.dictionary.getDictionaryId(entry[0]), entry[1]) for entry in document.entities.getEntities()]) for document in self.collection]
         print self.entityCorpus
 

@@ -10,6 +10,15 @@ class testEntities(unittest.TestCase):
         targetEntities = [(u'world health organisation', 1), (u'un', 2), (u'lebanon', 1), (u'beirut', 1), (u'united states of america', 1), (u'charles isaac leopold', 1)]
         self.assertEqual(set(self.testEntities.getEntities()), set(targetEntities))
 
+
+    def test_getEntitiesAddedEntities(self):
+        testEntity = entities()
+        testEntity.addEntities('LOCATION', [('london', 1), ('new york', 2), ('San Diego', 1)])
+
+        targetEntities = [('london', 1), ('new york', 2), ('San Diego', 1)]
+        self.assertEqual(testEntity.getEntities(), targetEntities)
+
+
     def test_isEmpty(self):
         emptyEntity = entities()
         self.assertTrue(emptyEntity.isEmpty())

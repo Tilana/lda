@@ -12,11 +12,8 @@ class entities:
         else:
             entityTuples = ner.getNamedEntities(document)
             for entities in entityTuples:
-                setattr(self, entities[0], set(entities[1]))
-                if frequency is not None:
-                    print 'Frequency == True'
-                    entityFrequency = [(entity.lower(), document.lower().count(entity.lower())) for entity in entities[1]]
-                    setattr(self, entities[0], entityFrequency)
+                entityFrequency = [(entity.lower(), document.lower().count(entity.lower())) for entity in entities[1]]
+                setattr(self, entities[0], entityFrequency)
                        
 
     def addEntities(self, tag, entityList):
