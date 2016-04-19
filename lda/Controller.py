@@ -26,6 +26,8 @@ class Controller:
         else:
             titles = ['']
             texts = ['']
+        if numberDocs is None:
+            numberDocs = len(titles)
         self.collection = self.createDocumentList(titles[startDoc:startDoc + numberDocs], texts[startDoc:startDoc + numberDocs])
     
     def createCorpus(self):

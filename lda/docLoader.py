@@ -18,12 +18,11 @@ def loadTxtFiles(path):
     return (titles, docs)
 
 
-# store data as txt file
 def storeAsTxt(dat, path):
     with open(path, 'wb') as f:
         pickle.dump(dat, f)
 
-# Load documents from path to list
+
 def loadTxt(path):
     with open(path, 'rb') as f:
         return pickle.load(f)

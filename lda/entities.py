@@ -34,6 +34,7 @@ class entities:
             return utils.flattenList([list(self.LOCATION), list(self.ORGANIZATION), list(self.PERSON)])
         return getattr(self, field)
 
+
     def isEmpty(self):
         return self.LOCATION == [] and self.PERSON == [] and self.ORGANIZATION == []
 
