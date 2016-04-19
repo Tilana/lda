@@ -46,13 +46,6 @@ def scriptLDA():
         print 'Prepare Dictionary'
         ctrl.createDictionary(wordList = dictionaryWords, lemmatize=True, stoplist=STOPWORDS, specialChars= ctrl.specialChars, removeShortWords=True, threshold=1, addEntities=True, getOriginalWords=True)
 
-#        print ctrl.dictionary.words
-#
-#        print ctrl.dictionary.entities.LOCATION
-
-#        print ctrl.collection[0].text.lower()
-#        print 'HUMAN RIGHTS WATCH ID'
-
 
         print 'Create Corpus'
         ctrl.createCorpus()
@@ -61,30 +54,10 @@ def scriptLDA():
         ctrl.save(filename)
 
     
-    print 'TF-IDF Model'
-    ctrl.tfidfModel()
-
-    for ind, document in enumerate(ctrl.collection):
-        ctrl.computeVectorRepresentation(document)
-        ctrl.computeFrequentWords(document)
-    
-    print 'Topic Modeling'
-#    ctrl.topicModel('LSI', numberTopics, ctrl.corpus, topicCoverage=True, relatedDocuments=True)
-    ctrl.topicModel('LDA', numberTopics, ctrl.corpus, topicCoverage=True, relatedDocuments=True)
-    ctrl.topicModel('LSI', numberTopics, ctrl.tfidf[ctrl.corpus], topicCoverage=True, relatedDocuments=True) 
-
-    print 'Similarity Analysis'
-    ctrl.similarityAnalysis('LSI', ctrl.tfidf[ctrl.corpus])
-    ctrl.similarityAnalysis('LDA', ctrl.corpus)
-
     print 'Create HTML Files'
     html = htmlCreator()
     html.htmlDictionary(ctrl.dictionary)
-    html.printTopics(ctrl.LSI)
-    html.printTopics(ctrl.LDA)
-    html.printDocuments(ctrl)
-    html.printDocsRelatedTopics(ctrl.LSI, ctrl.collection, openHtml=False)
-    html.printDocsRelatedTopics(ctrl.LDA, ctrl.collection, openHtml=False)
+    html.printDocuments(ctrl, topics=0, openHtml=True)
    
 if __name__ == "__main__":
     scriptLDA()

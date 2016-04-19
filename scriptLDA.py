@@ -13,7 +13,7 @@ def scriptLDA():
     path = 'http://localhost:5984/uwazi/_design/documents/_view/fulltext'
 #    path = "//home/natalie/Documents/Huridocs/LDA/Documents/scyfibookspdf"
     couchdb = 1
-    specialChars = set(u'''[,:;€\-!'"`\`\'©°\"~?!\^@#%\$&\.\/_\(\)\{\}\[\]\*]''')
+    specialChars = set(u'''[,:;€\!'"`\`\'©°\"~?!\^@#%\$&\.\/_\(\)\{\}\[\]\*]''')
     numberTopics = 1
     startDoc = 0
     numberDoc= 3 

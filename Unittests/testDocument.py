@@ -62,7 +62,7 @@ class testDocument(unittest.TestCase):
     def test_prepareDocument(self):
         self.testDocument.prepareDocument(lemmatize=True, includeEntities=True, stopwords=self.stoplist, specialChars = self.specialChars)
 
-        self.targetDocument.tokens = ['test', 'tokenization','date','like', 'world', 'health', 'organisation', 'should', 'be', 'keep', 'together', 'word', 'appear', 'more', 'more', 'often', 'world health organisation']
+        self.targetDocument.tokens = ['test', 'tokenization','date','like', 'should', 'be', 'keep', 'together', 'word', 'appear', 'more', 'more', 'often', 'world health organisation']
         self.assertEqual(self.testDocument.tokens, self.targetDocument.tokens)
 
 
@@ -72,7 +72,9 @@ class testDocument(unittest.TestCase):
         testDocument.createTokens()
         testDocument.appendEntities()
 
-        self.targetDocument.tokens = ['name', 'entities', 'like', 'world', 'health', 'organization', ',', 'person', 'names', 'like', 'sir', 'james', 'and', 'ms', 'rosa', 'wallis', 'but', 'also', 'world', 'locations', 'or', 'states', 'like', 'lebanon', ',', 'united', 'states', 'of', 'america', ',', 'lebanon', 'or', 'new', 'cities', 'like', 'new', 'york', 'have', 'to', 'be', 'recognized', 'lebanon', 'lebanon', 'united states of america', 'new york', 'world health organization', 'james', 'rosa wallis']
+        self.targetDocument.tokens = ['name', 'entities', 'like', ',', 'person', 'names', 'like', 'sir', 'and', 'ms', 'but', 'also', 'world', 'locations', 'or', 'like', ',', 'states', ',', 'or', 'cities', 'like', 'new', 'have', 'to', 'be', 'recognized', 'lebanon', 'lebanon', 'united states of america', 'new york', 'world health organization', 'james', 'rosa wallis']
+        print self.targetDocument.tokens
+        print testDocument.tokens
         self.assertEqual(self.targetDocument.tokens, testDocument.tokens)
 
     
@@ -90,7 +92,16 @@ class testDocument(unittest.TestCase):
         self.assertEqual(testDocument.entities.ORGANIZATION, self.targetDocument.entities.ORGANIZATION)
 
 
-        
+    def test_correctTokenOccurance(self):
+        testDocument = document('Test Document', 'In the world many organizations like the World Health Organization or the Union of the World exist')
+        testDocument.tokens = ['world', 'many', 'organizations', 'like', 'world', 'health', 'organization', 'union', 'world', 'exist', 'world health organization', 'union of the world']
+        entity = ('union of the world', 1)
+
+        targetTokens = ['many', 'organizations', 'like', 'world', 'health', 'organization', 'world', 'exist', 'world health organization', 'union of the world']
+
+        testDocument.correctTokenOccurance(entity[0])
+        self.assertEqual(targetTokens, testDocument.tokens)
+
 
 if __name__ == '__main__':
     unittest.main()

@@ -11,7 +11,7 @@ class htmlCreator:
         f.write("""</table>""")
         
     
-    def printTupleList(self, f, title, colName1, colName2, tupleList):
+    def printTupleList(self, f, title, tupleList, colName1='', colName2=''):
         f.write("""<h5>%s</h5><table>""" % title.encode('utf8'))
         f.write("""<col style="width:40%"> <col style="width:50%">""")
         f.write("""<tr><td>%s</td> <td> %s </td></tr>""" % (colName1.encode('utf8'), colName2.encode('utf8')))
@@ -59,47 +59,39 @@ class htmlCreator:
         webbrowser.open_new_tab(path)
     
     
-    def printDocuments(self, model, openHtml=False):
+    def printDocuments(self, model, topics=1, openHtml=False):
         for ind, doc in enumerate(model.collection):
             pagename = 'html/doc%02d.html' % ind
             f = open(pagename, 'w')
             f.write("<html><head><h1>Document %02d - %s</h1></head>" % (ind, doc.title.encode('utf-8')))
             f.write("""<body><div style="width:100%;"><div style="float:right; width:40%;">""")
-            f.write("""<h3> LSI Topic coverage: \n</h3><table>""")
-            f.write("""<col style="width:40%"> <col style="width:50%">""")
-            for topicNr, coverage in enumerate(doc.LSICoverage):
-                f.write("""<tr><td><a href='LSItopic%d.html'>Topic %d</a</td><td> Coverage %.2f</td></tr>""" % (topicNr, topicNr, coverage[1]))
-            f.write("</table>")
-            f.write("""<h3> LDA Topic coverage: \n</h3><table>""")
-            f.write("""<col style="width:40%"> <col style="width:50%">""")
-            for topicNr, coverage in enumerate(doc.LDACoverage):
-                f.write("""<tr><td><a href='LDAtopic%d.html'>Topic %d</a</td><td> Coverage %.2f</td></tr>""" % (topicNr, topicNr, coverage[1]))
-            f.write("</table>")
-            f.write("""<h3>Relevant Words in Document: \n</h3><table>""")
-            f.write("""<col style="width:40%"> <col style="width:50%">""")
-            for freqWord in doc.freqWords:
-                f.write("""<tr><td>%s </td><td> %.2f</td></tr>""" % (freqWord[0], freqWord[1])) 
-            f.write("</table>")
-            
-            f.write("""<h3>Similar documents: \n</h3><table>""")
-            f.write("""<col style="width:40%"> <col style="width:50%">""")
-            for similarDoc in doc.LSISimilarity:
-                f.write("""<tr><td><a href='doc%02d.html'>Document %d</a></td>""" % (similarDoc[0], similarDoc[0]))
-                f.write("""<td> Similarity: %.4f</td></tr>""" % similarDoc[1])
-            f.write("""</table>""")
-
-#            f.write("""<h3>Entity Frequency: \n</h3><table>""")
-#            f.write("""<col style="width:40%"> <col style="width:50%">""")
-#            print sorted(model.entityOccurence[ind])
-#            sortEntityOccurence = sorted(model.entityOccurence[ind], reverse=True, key=lambda elem: elem[1])
-#            print sortEntityOccurence
-#            for entity in sortEntityOccurence:
-#                f.write("""<tr><td>%s </td><td> %d</td></tr>""" % (entity[0], entity[1])) 
-#            f.write("</table>")
+            if topics:
+                f.write("""<h3> LSI Topic coverage: \n</h3><table>""")
+                f.write("""<col style="width:40%"> <col style="width:50%">""")
+                for topicNr, coverage in enumerate(doc.LSICoverage):
+                    f.write("""<tr><td><a href='LSItopic%d.html'>Topic %d</a</td><td> Coverage %.2f</td></tr>""" % (topicNr, topicNr, coverage[1]))
+                f.write("</table>")
+                f.write("""<h3> LDA Topic coverage: \n</h3><table>""")
+                f.write("""<col style="width:40%"> <col style="width:50%">""")
+                for topicNr, coverage in enumerate(doc.LDACoverage):
+                    f.write("""<tr><td><a href='LDAtopic%d.html'>Topic %d</a</td><td> Coverage %.2f</td></tr>""" % (topicNr, topicNr, coverage[1]))
+                f.write("</table>")
+                f.write("""<h3>Relevant Words in Document: \n</h3><table>""")
+                f.write("""<col style="width:40%"> <col style="width:50%">""")
+                for freqWord in doc.freqWords:
+                    f.write("""<tr><td>%s </td><td> %.2f</td></tr>""" % (freqWord[0], freqWord[1])) 
+                f.write("</table>")
+                
+                f.write("""<h3>Similar documents: \n</h3><table>""")
+                f.write("""<col style="width:40%"> <col style="width:50%">""")
+                for similarDoc in doc.LSISimilarity:
+                    f.write("""<tr><td><a href='doc%02d.html'>Document %d</a></td>""" % (similarDoc[0], similarDoc[0]))
+                    f.write("""<td> Similarity: %.4f</td></tr>""" % similarDoc[1])
+                f.write("""</table>""")
 
             f.write("""<h3> Named Entities: \n</h3>""")
             for tag in doc.entities.__dict__.keys():
-                self.printTupleList(f, tag, 'entities', 'frequency', getattr(doc.entities, tag))
+                self.printTupleList(f, tag, getattr(doc.entities, tag))
             f.write("""</div>""")
             f.write("""<div style="float:left; width:55%%;"><p>%s</p></div></div></body></html>""" % doc.text.encode('utf8'))
             f.close()

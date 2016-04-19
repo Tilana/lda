@@ -72,6 +72,10 @@ class document:
         for entity in entityList:
             for frequency in range(0, entity[1]):
                 self.tokens.append(entity[0].encode('utf8'))
+                self.correctTokenOccurance(entity[0])
+
+    def correctTokenOccurance(self, entity):
+        [self.tokens.remove(word) for word in entity.split() if word in self.tokens]
 
     def __eq__(self, other):
         return self.__dict__ == other.__dict__
