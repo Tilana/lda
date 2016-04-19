@@ -13,7 +13,7 @@ def scriptLDA():
     #### PARAMETERS ####
     path = "//home/natalie/Documents/Huridocs/LDA/Documents/RightsDoc"
     couchdb = 0
-    specialChars = set(u'''[,:;€\-!'"`\`\'©°\"~?!\^@#%\$&\.\/_\(\)\{\}\[\]\*]''')
+    specialChars = set(u'''[,:;€\!'"*`\`\'©°\"~?!\^@#%\$&\.\/_\(\)\{\}\[\]\*]''')
     numberTopics = 3
     startDoc = 0
     docNumber = 5 

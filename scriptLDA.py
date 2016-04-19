@@ -11,19 +11,19 @@ def scriptLDA():
 
     #### PARAMETERS ####
     path = 'http://localhost:5984/uwazi/_design/documents/_view/fulltext'
-    path = "//home/natalie/Documents/Huridocs/LDA/Documents/scyfibookspdf"
+#    path = "//home/natalie/Documents/Huridocs/LDA/Documents/scyfibookspdf"
     couchdb = 1
     specialChars = set(u'''[,:;€\-!'"`\`\'©°\"~?!\^@#%\$&\.\/_\(\)\{\}\[\]\*]''')
-    numberTopics = 10
-    startDoc = 100
-    numberDoc= 49 
+    numberTopics = 1
+    startDoc = 0
+    numberDoc= 3 
     dictionaryWords = set(['united nations', 'property', 'torture','applicant', 'child', 'help'])
     dictionaryWords = None
 
     filename = 'dataObjects/scifyBooks50_3.txt'
-    filename = 'dataObjects/TM38docs.txt'
+    filename = 'dataObjects/.txt'
 
-    preprocess = 0
+    preprocess = 1
 
     #### MODEL ####
     ctrl = Controller(numberTopics, specialChars)
@@ -47,7 +47,7 @@ def scriptLDA():
 
         print 'Create Corpus'
         ctrl.createCorpus()
-        ctrl.createEntitiyCorpus()
+        ctrl.createEntityCorpus()
         ctrl.corpus = utils.joinSublists(ctrl.corpus, ctrl.entityCorpus)
 
         ctrl.save(filename)

@@ -11,6 +11,16 @@ class htmlCreator:
         f.write("""</table>""")
         
     
+    def printTupleList(self, f, title, colName1, colName2, tupleList):
+        f.write("""<h5>%s</h5><table>""" % title.encode('utf8'))
+        f.write("""<col style="width:40%"> <col style="width:50%">""")
+        f.write("""<tr><td>%s</td> <td> %s </td></tr>""" % (colName1.encode('utf8'), colName2.encode('utf8')))
+
+        for items in tupleList:
+            f.write("""<tr><td>%s </td> <td> %d </td></tr>""" % (items[0].encode('utf8'), items[1]))
+        f.write("""</table>""")
+    
+    
     def htmlDictionary(self, dictionary):
         name = 'html/dictionaryCollection.html'
         f = open(name, 'w')
@@ -89,7 +99,7 @@ class htmlCreator:
 
             f.write("""<h3> Named Entities: \n</h3>""")
             for tag in doc.entities.__dict__.keys():
-                self.listToHtmlTable(f, tag, getattr(doc.entities, tag))
+                self.printTupleList(f, tag, 'entities', 'frequency', getattr(doc.entities, tag))
             f.write("""</div>""")
             f.write("""<div style="float:left; width:55%%;"><p>%s</p></div></div></body></html>""" % doc.text.encode('utf8'))
             f.close()

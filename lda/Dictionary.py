@@ -82,7 +82,7 @@ class Dictionary:
     
     
     def _addDocumentEntities(self, collection):
-        for tag in collection[1].entities.__dict__.keys():
+        for tag in collection[0].entities.__dict__.keys():
             self.entities.addEntities(tag, set().union(*[getattr(document.entities, tag) for document in collection]))
         for entity in self.entities.getEntities():
             self.words.add(entity[0].lower())

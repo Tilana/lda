@@ -13,7 +13,7 @@ class entities:
             entityTuples = ner.getNamedEntities(document)
             for entities in entityTuples:
                 entityFrequency = [(entity.lower(), document.lower().count(entity.lower())) for entity in entities[1]]
-                setattr(self, entities[0], entityFrequency)
+                setattr(self, entities[0], utils.sortTupleList(entityFrequency))
                        
 
     def addEntities(self, tag, entityList):

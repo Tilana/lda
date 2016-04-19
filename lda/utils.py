@@ -26,7 +26,8 @@ def joinSublists(l1, l2):
 def sortSublist(l):
     return [sorted(sublist) for sublist in l]
 
-
+def sortTupleList(tupleList):
+    return sorted(tupleList, reverse=True, key=lambda x: x[1])
 
 
 
