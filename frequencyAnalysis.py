@@ -18,9 +18,9 @@ def scriptLDA():
     startDoc = 2
     docNumber = None 
     
-    topics = ['armed conflict', 'environment', 'justice', 'freedom', 'family', 'migrants', 'health', 'child', 'racism', 'corruption', 'culture', 'climate', 'discrimination', 'economy', 'internet', 'journalists', 'peace', 'poverty', 'privacy', 'religion', 'slavery', 'self determination', 'sexual violence', 'women', 'torture', 'violence', 'water', 'trafficking', 'terrorism', 'education', 'indigenous people']
+        topics = ['armed conflict', 'environment', 'military', 'attack', 'justice', 'freedom', 'family', 'migrant', 'health', 'child', 'racism', 'corruption', 'culture', 'climate', 'discrimination', 'economy', 'internet', 'journalist', 'peace', 'poverty', 'privacy', 'religion', 'slavery', 'self determination', 'sexual violence', 'women', 'torture', 'violence', 'water', 'trafficking', 'terrorism', 'education', 'indigenous people']
 
-    filename = 'dataObjects/rightsDoc.txt'
+            filename = 'dataObjects/rightsDoc.txt'
 
     #### MODEL ####
     ctrl = Controller(specialChars=specialChars)
@@ -36,6 +36,7 @@ def scriptLDA():
     for document in ctrl.collection:
         topicFrequency = ctrl.topics.countOccurence(document.text, 'predefined')
         document.entities.addEntities('TOPICS', utils.sortTupleList(topicFrequency))
+#        mostFrequent = document.entities.getMostFrequentEntities()
 
     ctrl.save(filename)
 

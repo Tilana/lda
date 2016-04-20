@@ -12,8 +12,8 @@ class testUtils(unittest.TestCase):
         self.assertEqual(utils.listDifference(l), [(3,3),(3,6),(1,9),(1,10),(11,11),(1, 22),(7,23)])
 
     def test_sortTupleList(self):
-        l = [('low frequency', 2), ('high frequency', 10), ('negative frequency', -1)]
-        target = [('high frequency', 10), ('low frequency', 2), ('negative frequency', -1)]
+        l = [('low frequency', 2), ('high frequency', 10), ('middle frequency', 6), ('super high frequency', 299), ('negative frequency', -1)]
+        target = [('super high frequency', 299), ('high frequency', 10), ('middle frequency', 6), ('low frequency', 2), ('negative frequency', -1)]
         self.assertEqual(target, utils.sortTupleList(l))
 
     def test_sortSublist(self):

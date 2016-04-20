@@ -72,9 +72,7 @@ class testDocument(unittest.TestCase):
         testDocument.createTokens()
         testDocument.appendEntities()
 
-        self.targetDocument.tokens = ['name', 'entities', 'like', ',', 'person', 'names', 'like', 'sir', 'and', 'ms', 'but', 'also', 'world', 'locations', 'or', 'like', ',', 'states', ',', 'or', 'cities', 'like', 'new', 'have', 'to', 'be', 'recognized', 'lebanon', 'lebanon', 'united states of america', 'new york', 'world health organization', 'james', 'rosa wallis']
-        print self.targetDocument.tokens
-        print testDocument.tokens
+        self.targetDocument.tokens = ['name', 'entities', 'like', ',', 'person', 'names', 'like', 'sir', 'and', 'ms', 'but', 'also', 'world', 'locations', 'or', 'like', ',', 'states', ',', 'or', 'cities', 'like', 'new', 'have', 'to', 'be', 'recognized', 'world health organization', 'lebanon', 'lebanon', 'united states of america', 'new york', 'james', 'rosa wallis']
         self.assertEqual(self.targetDocument.tokens, testDocument.tokens)
 
     

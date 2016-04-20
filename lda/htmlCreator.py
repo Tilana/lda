@@ -89,6 +89,8 @@ class htmlCreator:
                     f.write("""<td> Similarity: %.4f</td></tr>""" % similarDoc[1])
                 f.write("""</table>""")
 
+            self.printTupleList(f, 'Most Frequent Entities', doc.entities.getMostFrequentEntities())
+
             f.write("""<h3> Named Entities: \n</h3>""")
             for tag in doc.entities.__dict__.keys():
                 self.printTupleList(f, tag, getattr(doc.entities, tag))

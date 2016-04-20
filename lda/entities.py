@@ -29,9 +29,15 @@ class entities:
                 occurence.append((entity, text.count(entity)))
         return occurence 
 
+
+    def getMostFrequentEntities(self, number=7):
+        return utils.sortTupleList(self.getEntities())[0:number]
+        
+
     def getEntities(self, field=None):
         if field is None:
-            return utils.flattenList([list(self.LOCATION), list(self.ORGANIZATION), list(self.PERSON)])
+            result = utils.flattenList([getattr(self, tag) for tag in self.__dict__.keys()])
+            return result
         return getattr(self, field)
 
 

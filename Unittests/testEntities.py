@@ -39,6 +39,20 @@ class testEntities(unittest.TestCase):
 
         self.assertEqual(set(entityList.countOccurence(text)), targetAllEntities)
         print entityList.countOccurence(text)
+
+
+    def test_mostFrequent(self):
+        testEntity = entities()
+        testEntity.addEntities('LOCATION', [('london', 1), ('new york', 2), ('San Diego', 1)])
+        testEntity.addEntities('PERSON', [('Barack Obama', 6), ('Peter Pan', 2)])
+        testEntity.addEntities('TOPICS', [('random shit', 25)])
+        
+        targetList = [('random shit', 25), ('Barack Obama', 6), ('Peter Pan', 2), ('new york', 2), ( 'london', 1), ('San Diego', 1)] 
+        self.assertEqual(targetList, testEntity.getMostFrequentEntities())
+        targetListNum = [('random shit', 25), ('Barack Obama', 6), ('Peter Pan', 2)]
+        self.assertEqual(targetListNum, testEntity.getMostFrequentEntities(3))
+
+
         
 if __name__ == '__main__':
     unittest.main()
