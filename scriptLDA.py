@@ -10,18 +10,18 @@ import os.path
 def scriptLDA():
 
     #### PARAMETERS ####
-    path = 'http://localhost:5984/uwazi/_design/documents/_view/fulltext'
+#    path = 'http://localhost:5984/uwazi/_design/documents/_view/fulltext'
 #    path = "//home/natalie/Documents/Huridocs/LDA/Documents/scyfibookspdf"
-    couchdb = 1
-    specialChars = set(u'''[,:;€\!'"`\`\'©°\"~?!\^@#%\$&\.\/_\(\)\{\}\[\]\*]''')
-    numberTopics = 1
-    startDoc = 0
-    numberDoc= 3 
-    dictionaryWords = set(['united nations', 'property', 'torture','applicant', 'child', 'help'])
+    path = "//home/natalie/Documents/Huridocs/LDA/Documents/NIPS/Papers.csv"
+    fileType = 2
+    specialChars = set(u'''=+|[,:;€\!'"`\`\'©°\"~?!\^@#%\$&\.\/_\(\)\{\}\[\]\*]''')
+    numberTopics = 20
+    startDoc =0 
+    numberDoc= None 
+#    dictionaryWords = set(['united nations', 'property', 'torture','applicant', 'child', 'help'])
     dictionaryWords = None
 
-    filename = 'dataObjects/scifyBooks50_3.txt'
-    filename = 'dataObjects/.txt'
+    filename = 'dataObjects/NIPSAbstracts_all.txt'
 
     preprocess = 1
 
@@ -35,7 +35,7 @@ def scriptLDA():
 
     else:
         print 'Load unprocessed document collection'
-        ctrl.loadCollection(path, couchdb, startDoc, numberDoc)
+        ctrl.loadCollection(path, fileType, startDoc, numberDoc)
 
         print 'Prepare document collection'
         ctrl.prepareDocumentCollection(lemmatize=True, includeEntities=True, stopwords=STOPWORDS, specialChars=specialChars, removeShortTokens=True, threshold=1)
@@ -47,8 +47,9 @@ def scriptLDA():
 
         print 'Create Corpus'
         ctrl.createCorpus()
-        ctrl.createEntityCorpus()
-        ctrl.corpus = utils.joinSublists(ctrl.corpus, ctrl.entityCorpus)
+        print 'Create Entity Corpus'
+#        ctrl.createEntityCorpus()
+#        ctrl.corpus = utils.joinSublists(ctrl.corpus, ctrl.entityCorpus)
 
         ctrl.save(filename)
 
@@ -62,7 +63,8 @@ def scriptLDA():
     
     print 'Topic Modeling'
 #    ctrl.topicModel('LSI', numberTopics, ctrl.corpus, topicCoverage=True, relatedDocuments=True)
-    ctrl.topicModel('LDA', numberTopics, ctrl.corpus, topicCoverage=True, relatedDocuments=True)
+#    ctrl.topicModel('LDA', numberTopics, ctrl.corpus, topicCoverage=True, relatedDocuments=True)
+    ctrl.topicModel('LDA', numberTopics, ctrl.tfidf[corpus], topicCoverage=True, relatedDocuments=True)
     ctrl.topicModel('LSI', numberTopics, ctrl.tfidf[ctrl.corpus], topicCoverage=True, relatedDocuments=True) 
 
     print 'Similarity Analysis'

@@ -64,7 +64,7 @@ class Dictionary:
     def lemmatize(self):
         wordnet = WordNetLemmatizer()
         self.original = self.words
-        self.words = set([wordnet.lemmatize(wordnet.lemmatize(word, 'v')) for word in self.words])
+        self.words = set([wordnet.lemmatize(wordnet.lemmatize(word.decode('utf8'), 'v')) for word in self.words])
     
 
     def removeShortWords(self, threshold=1):

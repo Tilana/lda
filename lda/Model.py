@@ -11,7 +11,7 @@ class Model:
 
     def createModel(self, corpus, dictionary):
         if self.name=='LDA':
-            self.model = models.LdaModel(corpus, self.numberTopics, dictionary)
+            self.model = models.LdaModel(corpus, self.numberTopics, dictionary, iterations=100)
             self.info = str(self.model)
         elif self.name=='LSI':
             self.model = models.LsiModel(corpus, self.numberTopics, dictionary)
