@@ -14,12 +14,6 @@ class Dictionary:
     def createDictionaryIds(self):
         self.ids.add_documents([self.words])
 
-    def createEntityDictionary(self, tag):
-        dictionary = corpora.Dictionary()
-        dictionary.add_documents([getattr(self.entities, tag)])
-        setattr(self, '%sdictionary' % tag, dictionary)
-
-
     def setDictionary(self, wordList=None):
         self.words = set(self._lowerList(wordList))
 

@@ -17,13 +17,13 @@ def topicModeling():
     specialChars = set(u'''=+|[,:;€\!'"`\`\'©°\"~?!\^@#%\$&\.\/_\(\)\{\}\[\]\*]''')
     numberTopics = 20
     startDoc =0 
-    numberDoc= None 
+    numberDoc= 4 
 #    dictionaryWords = set(['united nations', 'property', 'torture','applicant', 'child', 'help'])
     dictionaryWords = None
 
     filename = 'dataObjects/NIPSAbstracts_all.txt'
 
-    preprocess = 0
+    preprocess = 1
 
     #### MODEL ####
     ctrl = Controller(numberTopics, specialChars)
