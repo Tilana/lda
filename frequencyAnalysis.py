@@ -13,14 +13,14 @@ def scriptLDA():
 
     #### PARAMETERS ####
     path = "//home/natalie/Documents/Huridocs/LDA/Documents/RightsDoc"
-    couchdb = 0
+    couchdb = 1
     specialChars = set(u'''[,:;€\!'"*`\`\'©°\"~?!\^@#%\$&\.\/_\(\)\{\}\[\]\*]''')
     startDoc = 2
     docNumber = None 
     
-        topics = ['armed conflict', 'environment', 'military', 'attack', 'justice', 'freedom', 'family', 'migrant', 'health', 'child', 'racism', 'corruption', 'culture', 'climate', 'discrimination', 'economy', 'internet', 'journalist', 'peace', 'poverty', 'privacy', 'religion', 'slavery', 'self determination', 'sexual violence', 'women', 'torture', 'violence', 'water', 'trafficking', 'terrorism', 'education', 'indigenous people']
+    topics = ['armed conflict', 'environment', 'military', 'attack', 'justice', 'freedom', 'family', 'migrant', 'health', 'child', 'racism', 'corruption', 'culture', 'climate', 'discrimination', 'economy', 'internet', 'journalist', 'peace', 'poverty', 'privacy', 'religion', 'slavery', 'self determination', 'sexual violence', 'women', 'torture', 'violence', 'water', 'trafficking', 'terrorism', 'education', 'indigenous people']
 
-            filename = 'dataObjects/rightsDoc.txt'
+    filename = 'dataObjects/rightsDoc.txt'
 
     #### MODEL ####
     ctrl = Controller(specialChars=specialChars)

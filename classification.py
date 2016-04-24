@@ -5,9 +5,9 @@ import random
 from sklearn import metrics
 from sklearn.tree import DecisionTreeClassifier
 
-def scriptClassification():
+def classification():
 
-    path = 'PACI.csv'
+    path = 'Documents/PACI.csv'
     data = pandas.read_csv(path)
 
     predictColumn = 'Domestic.Violence.Manual'
@@ -54,10 +54,8 @@ def scriptClassification():
 
     print sorted(zip(map(lambda relevance: round(relevance,4), model.feature_importances_), data.columns), reverse=True)
 
-    
-
 
    
 if __name__ == "__main__":
-    scriptClassification()
+    classification()
 

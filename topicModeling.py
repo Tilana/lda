@@ -7,7 +7,7 @@ from gensim.parsing.preprocessing import STOPWORDS
 from gensim import similarities
 import os.path
 
-def scriptLDA():
+def topicModeling():
 
     #### PARAMETERS ####
 #    path = 'http://localhost:5984/uwazi/_design/documents/_view/fulltext'
@@ -23,7 +23,7 @@ def scriptLDA():
 
     filename = 'dataObjects/NIPSAbstracts_all.txt'
 
-    preprocess = 1
+    preprocess = 0
 
     #### MODEL ####
     ctrl = Controller(numberTopics, specialChars)
@@ -64,7 +64,7 @@ def scriptLDA():
     print 'Topic Modeling'
 #    ctrl.topicModel('LSI', numberTopics, ctrl.corpus, topicCoverage=True, relatedDocuments=True)
 #    ctrl.topicModel('LDA', numberTopics, ctrl.corpus, topicCoverage=True, relatedDocuments=True)
-    ctrl.topicModel('LDA', numberTopics, ctrl.tfidf[corpus], topicCoverage=True, relatedDocuments=True)
+    ctrl.topicModel('LDA', numberTopics, ctrl.tfidf[ctrl.corpus], topicCoverage=True, relatedDocuments=True)
     ctrl.topicModel('LSI', numberTopics, ctrl.tfidf[ctrl.corpus], topicCoverage=True, relatedDocuments=True) 
 
     print 'Similarity Analysis'
@@ -81,5 +81,5 @@ def scriptLDA():
     html.printDocsRelatedTopics(ctrl.LDA, ctrl.collection, openHtml=False)
    
 if __name__ == "__main__":
-    scriptLDA()
+    topicModeling()
 
