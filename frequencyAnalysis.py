@@ -1,18 +1,15 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-from lda import htmlCreator
-import nltk
+from lda import Viewer 
 from lda import Controller
-from lda import entities
+from lda import Entities
 from lda import utils
 from gensim.parsing.preprocessing import STOPWORDS
-from gensim import similarities
-import os.path
 
 def scriptLDA():
 
     #### PARAMETERS ####
-    path = "//home/natalie/Documents/Huridocs/LDA/Documents/RightsDoc"
+    path = "Documents/RightsDoc"
     couchdb = 1
     specialChars = set(u'''[,:;€\!'"*`\`\'©°\"~?!\^@#%\$&\.\/_\(\)\{\}\[\]\*]''')
     startDoc = 2
@@ -31,7 +28,7 @@ def scriptLDA():
     print 'Prepare document collection'
     ctrl.prepareDocumentCollection(lemmatize=True, includeEntities=True, stopwords=STOPWORDS, specialChars=specialChars, removeShortTokens=True, threshold=1)
 
-    ctrl.topics = entities()
+    ctrl.topics = Entities()
     ctrl.topics.addEntities('predefined', topics)
     for document in ctrl.collection:
         topicFrequency = ctrl.topics.countOccurence(document.text, 'predefined')
@@ -40,7 +37,7 @@ def scriptLDA():
 
     ctrl.save(filename)
 
-    html = htmlCreator()
+    html = Viewer()
     html.printDocuments(ctrl, topics=0, openHtml=True)
 
       

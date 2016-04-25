@@ -1,18 +1,17 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-from lda import htmlCreator
+from lda import Viewer 
 from lda import Controller
-from lda import utils
 from gensim.parsing.preprocessing import STOPWORDS
-from gensim import similarities
 import os.path
 
 def topicModeling():
 
     #### PARAMETERS ####
 #    path = 'http://localhost:5984/uwazi/_design/documents/_view/fulltext'
-#    path = "//home/natalie/Documents/Huridocs/LDA/Documents/scyfibookspdf"
-    path = "//home/natalie/Documents/Huridocs/LDA/Documents/NIPS/Papers.csv"
+#    path = "Documents/scyfibookspdf"
+    path = "Documents/NIPS/Papers.csv"
+
     fileType = 2
     specialChars = set(u'''=+|[,:;€\!'"`\`\'©°\"~?!\^@#%\$&\.\/_\(\)\{\}\[\]\*]''')
     numberTopics = 20
@@ -72,7 +71,7 @@ def topicModeling():
     ctrl.similarityAnalysis('LDA', ctrl.corpus)
 
     print 'Create HTML Files'
-    html = htmlCreator()
+    html = Viewer()
     html.htmlDictionary(ctrl.dictionary)
     html.printTopics(ctrl.LSI)
     html.printTopics(ctrl.LDA)

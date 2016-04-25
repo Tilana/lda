@@ -23,7 +23,6 @@ def classification():
     negativeCases = list(set(orgIndices) - set(trueCases))
     selectedNegativeCases = random.sample(negativeCases, len(trueCases))
 
-    indices = list(set(trueCases + selectedNegativeCases))
     data = data.iloc[trueCases+selectedNegativeCases]
 
     target = data[predictColumn]

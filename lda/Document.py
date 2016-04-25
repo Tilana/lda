@@ -1,18 +1,18 @@
-from entities import entities
+from Entities import Entities
 import utils
 import re
 import nltk
 from nltk.stem import WordNetLemmatizer
 
-class document:
+class Document:
     
     def __init__(self, title=None, text=None):
         self.title = title
         self.text = text 
-        self.entities = entities()
+        self.entities = Entities()
        
     def createEntities(self, frequency=1):
-        self.entities = entities(self.text)
+        self.entities = Entities(self.text)
 
     def createTokens(self):
         self.tokens= self._tokenizeDocument()

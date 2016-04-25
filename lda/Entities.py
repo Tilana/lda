@@ -2,7 +2,7 @@ import namedEntityRecognition as ner
 import utils
 
 # stores named entities of a document sorted by its different tags, like location, person and organization
-class entities:
+class Entities:
     
     def __init__(self, document=None, frequency=1):
         if document is None:

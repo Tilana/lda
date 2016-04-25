@@ -1,8 +1,7 @@
 import urllib2
 import docLoader
-from entities import entities
 from Dictionary import Dictionary
-from document import document
+from Document import Document
 from Model import Model
 from gensim import models 
 import cPickle
@@ -130,7 +129,7 @@ class Controller:
 
     
     def createDocumentList(self, titles, texts):
-        return [document(title, text) for title, text in zip(titles, texts)]
+        return [Document(title, text) for title, text in zip(titles, texts)]
 
     def save(self, path):
         f = file(path, 'wb')

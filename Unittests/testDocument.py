@@ -1,19 +1,19 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import unittest
-from lda import document
-from lda import entities
+from lda import Document
+from lda import Entities
 
 class testDocument(unittest.TestCase):
     
     def setUp(self):
-        self.targetDocument = document('','')
-        self.testDocument = document('Test Doc', 'Test of tokenization\n dates like 12.03.1998, 103/78 and World Health Organisation should be kept together. Words appear more more often!?')
+        self.targetDocument = Document('','')
+        self.testDocument = Document('Test Doc', 'Test of tokenization\n dates like 12.03.1998, 103/78 and World Health Organisation should be kept together. Words appear more more often!?')
         self.stoplist = ['and', 'of']
         self.specialChars = r'.*[\.,/?!].*'
 
     def test_lemmatizeTokens(self):
-        testDocument = document('','')
+        testDocument = Document('','')
         testDocument.tokens = set(['children', 'forced', 'trafficking', 'prisons', 'arrested',  'United Nations', '12.03.1992', 'are', 'violations', 'bags of words'])
         testDocument.lemmatizeTokens()
 
@@ -22,23 +22,23 @@ class testDocument(unittest.TestCase):
         self.assertEqual(set(testDocument.tokens), set(self.targetDocument.tokens))
 
     def test_findSpecialCharacterTokens(self):
-        testDocument = document('', '')
+        testDocument = Document('', '')
         testDocument.tokens = set(['child`s', '23.09.1998', 'test entity', 'normal', '$200 000', '809/87', 'http://asfd.org', 'talib@n?', 'end of line.\n', '.'])
         specialChars = r'.*[@./,:$©].*'
         testDocument.findSpecialCharacterTokens(specialChars)
 
-        targetDocument = document('','')
+        targetDocument = Document('','')
         targetDocument.tokens = set(['child`s', '23.09.1998', 'test entity', 'normal', '$200 000', '809/87', 'http://asfd.org', 'talib@n?'])
         targetDocument.specialCharacters = set(['23.09.1998', '$200 000', '809/87', 'http://asfd.org', 'talib@n?', 'end of line.\n', '.'])
         self.assertEqual(targetDocument.specialCharacters, testDocument.specialCharacters)
     
     def test_removeSpecialCharacters(self):
-        testDocument = document('', '')
+        testDocument = Document('', '')
         testDocument.tokens = set(['child`s', '23.09.1998', 'test entity', 'normal', '$200 000', '809/87', 'http://asfd.org', 'talib@n?', '.', 'end of line.\n'])
 
         testDocument.specialCharacters = set(['23.09.1998', '$200 000', '809/87', 'http://asfd.org', 'talib@n?', '.'])
 
-        targetDocument = document('','')
+        targetDocument = Document('','')
         targetDocument.specialCharacters = ['23.09.1998', '$200 000', '809/87', 'http://asfd.org', 'talib@n?']
         targetDocument.tokens = set(['child`s', 'test entity', 'normal', 'end of line.\n'])
 
@@ -46,7 +46,7 @@ class testDocument(unittest.TestCase):
         self.assertEqual(targetDocument.tokens, testDocument.tokens)
 
     def test_createTokens(self):
-        testDocument = document('Test Doc', 'Test of tokenization\n dates like 12.03.1998, 103/78 and Words should be lowered and appear more more often.?')
+        testDocument = Document('Test Doc', 'Test of tokenization\n dates like 12.03.1998, 103/78 and Words should be lowered and appear more more often.?')
         testDocument.createTokens()
         self.targetDocument.tokens = ['test','of','tokenization','dates','like','12.03.1998',',','103/78', 'and', 'words', 'should', 'be', 'lowered', 'and', 'appear', 'more', 'more', 'often', '.', '?']
         self.assertEqual(testDocument.tokens, self.targetDocument.tokens)
@@ -67,7 +67,7 @@ class testDocument(unittest.TestCase):
 
 
     def test_appendEntities(self):
-        testDocument = document('Test Document','Name entities like World Health Organization, person names like Sir James and Ms Rosa Wallis but also world locations or states like Lebanon, United States of America, Lebanon or new cities like New York have to be recognized')
+        testDocument = Document('Test Document','Name entities like World Health Organization, person names like Sir James and Ms Rosa Wallis but also world locations or states like Lebanon, United States of America, Lebanon or new cities like New York have to be recognized')
         testDocument.createEntities()
         testDocument.createTokens()
         testDocument.appendEntities()
@@ -78,7 +78,7 @@ class testDocument(unittest.TestCase):
     
     def test_createEntities(self):
         self.targetDocument.createEntities()
-        testDocument = document('Test Document','Name entities like World Health Organization, person names like Sir James and Ms Rosa Wallis but also locations like Lebanon, United States of America, Lebanon or cities like New York have to be recognized')
+        testDocument = Document('Test Document','Name entities like World Health Organization, person names like Sir James and Ms Rosa Wallis but also locations like Lebanon, United States of America, Lebanon or cities like New York have to be recognized')
         testDocument.createEntities()
        
         self.targetDocument.entities.LOCATION = [(u'lebanon', 2), (u'united states of america', 1), (u'new york', 1)]
@@ -91,7 +91,7 @@ class testDocument(unittest.TestCase):
 
 
     def test_correctTokenOccurance(self):
-        testDocument = document('Test Document', 'In the world many organizations like the World Health Organization or the Union of the World exist')
+        testDocument = Document('Test Document', 'In the world many organizations like the World Health Organization or the Union of the World exist')
         testDocument.tokens = ['world', 'many', 'organizations', 'like', 'world', 'health', 'organization', 'union', 'world', 'exist', 'world health organization', 'union of the world']
         entity = ('union of the world', 1)
 

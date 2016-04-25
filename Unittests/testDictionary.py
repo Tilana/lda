@@ -1,12 +1,12 @@
 import unittest
 from lda import Dictionary
-from lda import entities
-from lda import document
+from lda import Entities
+from lda import Document
 
 class testDictionary(unittest.TestCase):
 
     def setUp(self):
-        self.doc = document('TestDoc','Test to see if this text is added to dictionary.words')
+        self.doc = Document('TestDoc','Test to see if this text is added to dictionary.words')
         self.testDictionary = Dictionary()
         self.targetDictionary = Dictionary()
 
@@ -51,7 +51,7 @@ class testDictionary(unittest.TestCase):
         self.compareDictionaries()
     
     def test_addCollection(self):
-        collection = [document('doc1', 'Test 1.'), document('doc2', 'Test 2?'), document('doc3', 'Test 3!')]
+        collection = [Document('doc1', 'Test 1.'), Document('doc2', 'Test 2?'), Document('doc3', 'Test 3!')]
         self.testDictionary.addCollection(collection)
 
         self.targetDictionary.words = set(['test', '1', '.', '2', '?', '3', '!'])
@@ -99,8 +99,8 @@ class testDictionary(unittest.TestCase):
     
     def test_createEntities(self):
         testDictionary = Dictionary()
-        collection = [document('doc1','Test named entity recognition of a Collection of documents.'),document('doc2',' African Commission is a named entity, also countries like Senegal and Lybia and names like Peter and Anna.'),document('doc3', 'Also organizations like the United Nations or UNICEF should be recognized.')]
-        testEntities = entities('')
+        collection = [Document('doc1','Test named entity recognition of a Collection of documents.'),Document('doc2',' African Commission is a named entity, also countries like Senegal and Lybia and names like Peter and Anna.'),Document('doc3', 'Also organizations like the United Nations or UNICEF should be recognized.')]
+        testEntities = Entities('')
         testEntities.addEntities('ORGANIZATION', set([(u'african commission',1), (u'unicef', 1), (u'united nations', 1)]))
         testEntities.addEntities('PERSON', set([(u'anna',1), (u'peter',1)]))
         testEntities.addEntities('LOCATION', set([(u'senegal',1), (u'lybia',1)]))

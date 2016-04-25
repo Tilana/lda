@@ -1,9 +1,9 @@
 import unittest
 import copy
 from lda import Controller 
-from lda import document
+from lda import Document
 from lda import Dictionary
-from lda import entities
+from lda import Entities
 from gensim import corpora
 
 class testController(unittest.TestCase):
@@ -11,17 +11,17 @@ class testController(unittest.TestCase):
     def setUp(self):
         self.testModel = Controller()
         self.testModel.dictionary.words = set(['test', 'if', 'this', 'test', 'set', 'is', 'converted', 'to', 'a', 'dictionary', 'representation', 'with', 'a', 'corpus'])
-        self.testModel.collection = [document('doc1', 'test corpus representation'), document('doc2', 'a corpus and a test')]
+        self.testModel.collection = [Document('doc1', 'test corpus representation'), Document('doc2', 'a corpus and a test')]
         self.testModel.collection[0].tokens= [u'test', u'corpus', u'representation']
         self.testModel.collection[1].tokens= [u'a', u'corpus', u'and', u'a', u'test']
 
         self.targetModel = copy.deepcopy(self.testModel)
 
     def test_createEntityCorpus(self):
-        self.testModel.collection = [document('doc1', 'London is the capital of the United Kingdom'), document('doc2', 'The United Kingdom, the United Kingdom, and Donald Trump is the Mickey Mouse of the United States of America')]
-        self.testModel.collection[0].entities = entities()
+        self.testModel.collection = [Document('doc1', 'London is the capital of the United Kingdom'), Document('doc2', 'The United Kingdom, the United Kingdom, and Donald Trump is the Mickey Mouse of the United States of America')]
+        self.testModel.collection[0].entities = Entities()
         self.testModel.collection[0].entities.addEntities('LOCATION', [('london', 1), ('united kingdom', 1)])
-        self.testModel.collection[1].entities = entities()
+        self.testModel.collection[1].entities = Entities()
         self.testModel.collection[1].entities.addEntities('LOCATION', [('united kingdom', 2), ('united states of america', 1)])
         self.testModel.collection[1].entities.addEntities('PERSON', [('donald trump', 1), ('mickey mouse', 1)])
 
@@ -47,7 +47,7 @@ class testController(unittest.TestCase):
     
     def test_createDictionary(self):
         testModel = Controller()
-        testModel.collection = [document('doc1', 'Test -tokenization- and if common words are deleted.'), document('doc2', 'stopwords like of, and, but?'), document('doc3', 'special\ characters?\n, Article\n\n78(5), constitution references 103/93 and dates 23.01.1998 or 12th of March 2003')]
+        testModel.collection = [Document('doc1', 'Test -tokenization- and if common words are deleted.'), Document('doc2', 'stopwords like of, and, but?'), Document('doc3', 'special\ characters?\n, Article\n\n78(5), constitution references 103/93 and dates 23.01.1998 or 12th of March 2003')]
         testModel.createDictionary(lemmatize=False, wordList= None, stoplist=None, specialChars=None, removeShortWords=False, getOriginalWords=False)
 
         targetDictionary = Dictionary()

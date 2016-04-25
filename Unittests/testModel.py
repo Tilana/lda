@@ -1,6 +1,6 @@
 import unittest
 from lda import Model
-from lda import document
+from lda import Document
 from lda import Topic
 
 class testModel(unittest.TestCase):

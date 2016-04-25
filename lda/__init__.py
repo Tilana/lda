@@ -1,9 +1,9 @@
 import docLoader
-from document import document
+from Document import Document
 from Dictionary import Dictionary
-from entities import entities
+from Entities import Entities
 from Controller import Controller
 from Topic import Topic
 from Model import Model
-from htmlCreator import htmlCreator
+from Viewer import Viewer 
 import utils

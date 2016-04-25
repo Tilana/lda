@@ -1,4 +1,4 @@
-from entities import entities
+from Entities import Entities
 import utils
 from nltk.stem import WordNetLemmatizer
 from gensim import corpora
@@ -68,7 +68,7 @@ class Dictionary:
     
     def createEntities(self, collection):
         [document.createEntities() for document in collection if document.entities.isEmpty()]
-        self.entities = entities('')
+        self.entities = Entities('')
         self._addDocumentEntities(collection)
     
     def encodeWord(self, word):

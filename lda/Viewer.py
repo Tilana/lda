@@ -1,6 +1,6 @@
 import webbrowser
 
-class htmlCreator:
+class Viewer:
     def __init__(self):
         pass
     

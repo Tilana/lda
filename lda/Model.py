@@ -1,5 +1,5 @@
 from Topic import Topic
-from gensim import corpora, models, similarities
+from gensim import models, similarities
 import utils
 
 class Model:
