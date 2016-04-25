@@ -32,12 +32,13 @@ Stanford Named Entity Recognizer labels sequences of words in a text which repre
 
 
 ## Scripts
-Use the following command to run the scripts.
+Use the following command to run the scripts:
 ```
 python topicModeling.py
 python frequencyAnalysis.py
 python classification.py
 ```
+Parameters and the document collection used for the analysis can be changed withing the corresponding script file.
 
 ##Testing
 The folder *Unittests* contains the tests corresponding to each module. [*nose*](http://nose.readthedocs.org/) provides an easy way to run all tests together. <br  />
