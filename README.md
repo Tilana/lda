@@ -7,22 +7,26 @@ lda provides a framework to analyse different collections of documents:
  
 #Dependencies
 
-[gensim - Topic Modeling for Humans](https://radimrehurek.com/gensim/install.html)
+[gensim - Topic Modeling for Humans](https://radimrehurek.com/gensim/install.html) <br />
+Gensim is a free Python library designed to automatically extract semantic topics from documents by implementing Latent Semantic Analysis, Latent Dirichlet Allocation and Term-Frequency Inverse-Document Frequency models.
 ```
 pip install --upgrade gensim
 ```
-[Scikit-learn - Machine Learning for Python](http://scikit-learn.org/stable/install.html)
+[Scikit-learn - Machine Learning for Python](http://scikit-learn.org/stable/install.html) <br />
+Scikit-learn is an open source machine learning library which includes various classification, regression and clustering algorithms like support vector machines, random forests, naive bayes and k-means.
 ```
 pip install -U scikit-learn
 ```
-[NLTK](http://www.nltk.org/install.html)
+[NLTK](http://www.nltk.org/install.html) <br />
+NLTK provides various tools to work with texts written in natural language. For this project tokenization, stemming and tagging are used.
 ```
 sudo pip install -U nltk
 ``` 
-[pandas](http://pandas.pydata.org/pandas-docs/stable/install.html)
+[pandas](http://pandas.pydata.org/pandas-docs/stable/install.html) <br />
+pandas is a Python package providing fast, flexible, and expressive data structures designed to make working with structured (tabular, multidimensional, potentially heterogeneous) and time series data both easy and intuitive.
 ```
 pip install pandas
 ```
-[Stanford Name Entity Recognizer (NER)](http://nlp.stanford.edu/software/CRF-NER.shtml)
-
-included in folder
+[Stanford Named Entity Recognizer (NER)](http://nlp.stanford.edu/software/CRF-NER.shtml) <br />
+Stanford Named Entity Recognizer labels sequences of words in a text which represent proper names for persons, locations and organizations.
+It is included in this repository
