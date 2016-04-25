@@ -7,22 +7,22 @@ lda provides a framework to analyse different collections of documents:
  
 #Dependencies
 
-* [gensim - Topic Modeling for Humans](https://radimrehurek.com/gensim/install.html)
+[gensim - Topic Modeling for Humans](https://radimrehurek.com/gensim/install.html)
 ```
 pip install --upgrade gensim
 ```
-* [Scikit-learn - Machine Learning for Python](http://scikit-learn.org/stable/install.html)
+[Scikit-learn - Machine Learning for Python](http://scikit-learn.org/stable/install.html)
 ```
 pip install -U scikit-learn
 ```
-* [NLTK](http://www.nltk.org/install.html)
+[NLTK](http://www.nltk.org/install.html)
 ```
 sudo pip install -U nltk
 ``` 
-* [pandas](http://pandas.pydata.org/pandas-docs/stable/install.html)
+[pandas](http://pandas.pydata.org/pandas-docs/stable/install.html)
 ```
 pip install pandas
 ```
-* [Stanford Name Entity Recognizer (NER)](http://nlp.stanford.edu/software/CRF-NER.shtml)
+[Stanford Name Entity Recognizer (NER)](http://nlp.stanford.edu/software/CRF-NER.shtml)
 
 included in folder
