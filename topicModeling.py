@@ -12,7 +12,7 @@ def topicModeling():
 #    path = "Documents/scyfibookspdf"
     path = "Documents/NIPS/Papers.csv"
 
-    fileType = 2
+    fileType = "csv" # "couchdb" "folder" "csv" 
     specialChars = set(u'''=+|[,:;€\!'"`\`\'©°\"~?!\^@#%\$&\.\/_\(\)\{\}\[\]\*]''')
     numberTopics = 20
     startDoc =0 

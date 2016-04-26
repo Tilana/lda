@@ -16,13 +16,13 @@ class Controller:
         self.numberTopics = numberTopics
         self.specialChars = specialChars
 
-    def loadCollection(self, path=None, fileType=0, startDoc=0, numberDocs=None):
-        if path is not None and fileType==0:
+    def loadCollection(self, path=None, fileType=0, startDoc="couchdb", numberDocs=None):
+        if path is not None and fileType=="couchdb":
             urllib2.urlopen(urllib2.Request(path)) 
             (titles, texts) = docLoader.loadCouchdb(path)
-        elif path is not None and fileType == 1:
+        elif path is not None and fileType == "folder":
             (titles, texts) = docLoader.loadTxtFiles(path)
-        elif path is not None and fileType ==2:
+        elif path is not None and fileType == "csv":
             (titles, texts) = docLoader.loadCsvFile(path)
         else:
             titles = ['']
