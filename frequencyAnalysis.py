@@ -17,7 +17,7 @@ def frequencyAnalysis():
    
     filename = 'dataObjects/rightsDoc.txt'
 
-    topics = ['armed conflict', 'albinism', 'arms', 'attack',
+    keywords = ['armed conflict', 'albinism', 'arms', 'attack',
             'birth', 'child', 'corruption',
             'civil', 'culture', 'climate', 'commemoration',
             'death penalty', 'detention', 'democracy', 'drones', 
@@ -53,7 +53,7 @@ def frequencyAnalysis():
     ctrl.prepareDocumentCollection(lemmatize=True, includeEntities=True, stopwords=STOPWORDS, specialChars=specialChars, removeShortTokens=True, threshold=1)
 
     ctrl.topics = Entities()
-    ctrl.topics.addEntities('predefined', topics)
+    ctrl.topics.addEntities('predefined', keywords)
     for document in ctrl.collection:
         topicFrequency = ctrl.topics.countOccurence(document.text, 'predefined')
         document.entities.addEntities('TOPICS', utils.sortTupleList(topicFrequency))

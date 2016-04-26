@@ -38,9 +38,25 @@ python topicModeling.py
 python frequencyAnalysis.py
 python classification.py
 ```
-Parameters and the document collection used for the analysis can be changed withing the corresponding script file.
+In the **TopicModeling** and **frequencyAnalysis** files the following parameters can be adapted:
+* *path* - path to the location of the documents
+* *fileType* - specifies how the documents are stored and loaded: one of *csv*, *couchdb*, *folder* 
+* *startDoc* - index of document to start upload
+* *numberDoc* - specifies how many documents are processed - set to *None* to load all documents
+* *preprocess* - boolean operator to force preprocessing
+* *numberTopics* - specify how many topics are extracted
+* *specialChars* - remove these characters from text
+* *dictionaryWords* - set words in dictionary manually. *None* if not applicable
+* *keywords* - check frequency of manually set keywords 
+* *fileName* - save preprocessed document objects at *filename*
 
-##Testing
+The **classification** script by default loads a csv file.
+* *path* - specifies the location and name of the file
+* *predictColumn* - determines which column is selected to be classified
+* *dropList* - contains all columns that are ignored in the classification
+
+
+## Testing
 The folder *Unittests* contains the tests corresponding to each module. [*nose*](http://nose.readthedocs.org/) provides an easy way to run all tests together. <br  />
 Install *nose* with:
 ```
