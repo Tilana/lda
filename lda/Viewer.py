@@ -1,6 +1,7 @@
 import webbrowser
 
 class Viewer:
+
     def __init__(self):
         pass
     
@@ -55,8 +56,7 @@ class Viewer:
         f.write("</body></html>")
         f.close()
         
-        path = '//home/natalie/Documents/Huridocs/LDA/'+filename
-        webbrowser.open_new_tab(path)
+        webbrowser.open_new_tab(filename)
     
     
     def printDocuments(self, model, topics=1, openHtml=False):
@@ -98,11 +98,10 @@ class Viewer:
             f.write("""<div style="float:left; width:55%%;"><p>%s</p></div></div></body></html>""" % doc.text.encode('utf8'))
             f.close()
             if openHtml:
-                filename = '//home/natalie/Documents/Huridocs/LDA/html/'+ 'doc%02d.html' % ind
-                webbrowser.open_new_tab(filename)
+                webbrowser.open_new_tab(pagename)
                
-# Create a html page for each topic
-    def printDocsRelatedTopics(self, model, collection, openHtml=False):
+    
+    def printDocsRelatedTopics(self, model, collection, openHtml=True):
         for num in range(0, model.numberTopics): 
     	    pagename = 'html/%stopic%d.html' % (model.name, num)
     	    f = open(pagename, 'w')
@@ -121,7 +120,6 @@ class Viewer:
     	    f.write("</table></body></html>")
     	    f.close()
             if openHtml:
-                path = '//home/natalie/Documents/Huridocs/LDA/'+ pagename
                 webbrowser.open_new_tab(path)
    
        
