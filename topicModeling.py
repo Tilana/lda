@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 from lda import Viewer 
+from lda import utils
 from lda import Controller
 from gensim.parsing.preprocessing import STOPWORDS
 import os.path
@@ -14,13 +15,13 @@ def topicModeling():
 
     fileType = "csv" # "couchdb" "folder" "csv" 
     specialChars = set(u'''=+|[,:;€\!'"`\`\'©°\"~?!\^@#%\$&\.\/_\(\)\{\}\[\]\*]''')
-    numberTopics = 2 
+    numberTopics = 10
     startDoc =0 
     numberDoc= 4 
 #    dictionaryWords = set(['united nations', 'property', 'torture','applicant', 'child', 'help'])
     dictionaryWords = None
 
-    filename = 'dataObjects/NIPSAbstracts_all.txt'
+    filename = 'dataObjects/NIPS_entities.txt'
 
     preprocess = 1
 
@@ -47,8 +48,8 @@ def topicModeling():
         print 'Create Corpus'
         ctrl.createCorpus()
         print 'Create Entity Corpus'
-#        ctrl.createEntityCorpus()
-#        ctrl.corpus = utils.joinSublists(ctrl.corpus, ctrl.entityCorpus)
+        ctrl.createEntityCorpus()
+        ctrl.corpus = utils.joinSublists(ctrl.corpus, ctrl.entityCorpus)
 
         ctrl.save(filename)
 
@@ -68,7 +69,7 @@ def topicModeling():
 
     print 'Similarity Analysis'
     ctrl.similarityAnalysis('LSI', ctrl.tfidf[ctrl.corpus])
-    ctrl.similarityAnalysis('LDA', ctrl.corpus)
+    ctrl.similarityAnalysis('LDA', ctrl.tfidf[ctrl.corpus])
 
     print 'Create HTML Files'
     html = Viewer()

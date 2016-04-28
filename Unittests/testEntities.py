@@ -48,9 +48,9 @@ class testEntities(unittest.TestCase):
         testEntity.addEntities('TOPICS', [('random shit', 25)])
         
         targetList = [('random shit', 25), ('Barack Obama', 6), ('Peter Pan', 2), ('new york', 2), ( 'london', 1), ('San Diego', 1)] 
-        self.assertEqual(targetList, testEntity.getMostFrequentEntities())
+        self.assertEqual(targetList, testEntity.getMostFrequent())
         targetListNum = [('random shit', 25), ('Barack Obama', 6), ('Peter Pan', 2)]
-        self.assertEqual(targetListNum, testEntity.getMostFrequentEntities(3))
+        self.assertEqual(targetListNum, testEntity.getMostFrequent(3))
 
 
         

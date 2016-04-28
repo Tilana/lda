@@ -22,6 +22,12 @@ NLTK provides various tools to work with texts written in natural language. For 
 ```
 sudo pip install -U nltk
 ``` 
+
+To install NLTK Data run the Python interpreter with the commands:
+```
+import nltk
+nltk.download()
+```
 * [pandas](http://pandas.pydata.org/pandas-docs/stable/install.html) <br />
 pandas is a Python package providing fast, flexible, and expressive data structures designed to make working with structured (tabular, multidimensional, potentially heterogeneous) and time series data both easy and intuitive.
 ```

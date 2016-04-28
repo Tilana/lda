@@ -20,6 +20,19 @@ class Viewer:
         for items in tupleList:
             f.write("""<tr><td>%s </td> <td> %d </td></tr>""" % (items[0].encode('utf8'), items[1]))
         f.write("""</table>""")
+
+    def printColoredList(self, f, title, l):
+        f.write("""<h3>%s</h3><table>""" % title.encode('utf8'))
+        f.write("""<col style="width:40%"> <col style="width:50%">""")
+        for item in l:
+            if item[1]==0:
+                f.write("""<tr><td> <font color="red"> %s </font></td></tr>""" % (item[0].encode('utf8')))
+            if item[1]==1:
+                f.write("""<tr><td> <font color="green"> %s </font> </td></tr>""" % (item[0].encode('utf8')))
+
+        f.write("""</table>""")
+
+       
     
     
     def htmlDictionary(self, dictionary):
@@ -89,7 +102,7 @@ class Viewer:
                     f.write("""<td> Similarity: %.4f</td></tr>""" % similarDoc[1])
                 f.write("""</table>""")
 
-            self.printTupleList(f, 'Most Frequent Entities', doc.entities.getMostFrequentEntities())
+            self.printTupleList(f, 'Most Frequent Entities', doc.entities.getMostFrequent())
 
             f.write("""<h3> Named Entities: \n</h3>""")
             for tag in doc.entities.__dict__.keys():
@@ -101,7 +114,7 @@ class Viewer:
                 webbrowser.open_new_tab(pagename)
                
     
-    def printDocsRelatedTopics(self, model, collection, openHtml=True):
+    def printDocsRelatedTopics(self, model, collection, openHtml=False):
         for num in range(0, model.numberTopics): 
     	    pagename = 'html/%stopic%d.html' % (model.name, num)
     	    f = open(pagename, 'w')
@@ -121,5 +134,25 @@ class Viewer:
     	    f.close()
             if openHtml:
                 webbrowser.open_new_tab(path)
-   
-       
+    
+    def freqAnalysis(self, collection, openHtml=False):
+        for ind, doc in enumerate(collection):
+            pagename = 'html/doc%02d.html' % ind 
+            f = open(pagename, 'w')
+            f.write("<html><head><h1>Document %02d - %s</h1></head>" % (ind, doc.title.encode('utf-8')))
+            f.write("""<body><div style="width:100%;"><div style="float:right; width:40%;">""")
+            f.write("""<h3> Topic Suggestions <h4>""")
+          
+            self.printTupleList(f, ' ', doc.mostFrequent)
+            self.printColoredList(f, 'Manual Topic Assignment', doc.manualTopics)
+
+            f.write("""<h3> All Keywords \n</h3>""")
+            for tag in doc.entities.__dict__.keys():
+                if getattr(doc.entities, tag):
+                    self.printTupleList(f, tag, getattr(doc.entities, tag))
+            f.write("""</div>""")
+            f.write("""<div style="float:left; width:55%%;"><p>%s</p></div></div></body></html>""" % doc.text.encode('utf8'))
+            f.close()
+            if openHtml:
+                webbrowser.open_new_tab(pagename)
+      

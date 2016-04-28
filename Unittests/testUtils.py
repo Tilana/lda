@@ -11,6 +11,10 @@ class testUtils(unittest.TestCase):
         l = [3,6,9,10,11,22,23,30]
         self.assertEqual(utils.listDifference(l), [(3,3),(3,6),(1,9),(1,10),(11,11),(1, 22),(7,23)])
 
+    def test_lowerList(self):
+        l = ['Change All', 'words', 'To Lower Case', 'Letters']
+        self.assertEqual(utils.lowerList(l), ['change all', 'words', 'to lower case', 'letters'])
+
     def test_sortTupleList(self):
         l = [('low frequency', 2), ('high frequency', 10), ('middle frequency', 6), ('super high frequency', 299), ('negative frequency', -1)]
         target = [('super high frequency', 299), ('high frequency', 10), ('middle frequency', 6), ('low frequency', 2), ('negative frequency', -1)]

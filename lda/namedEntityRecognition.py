@@ -2,7 +2,7 @@ from nltk.tag import StanfordNERTagger
 from nltk.tokenize import word_tokenize
     
 def tagEntities(text):
-    nerTagger = StanfordNERTagger('/home/natalie/Documents/Huridocs/LDA/stanford-ner-2014-06-16/classifiers/english.all.3class.distsim.crf.ser.gz','/home/natalie/Documents/Huridocs/LDA/stanford-ner-2014-06-16/stanford-ner.jar', encoding='utf-8')
+    nerTagger = StanfordNERTagger('stanford-ner-2014-06-16/classifiers/english.all.3class.distsim.crf.ser.gz','stanford-ner-2014-06-16/stanford-ner.jar', encoding='utf-8')
     return nerTagger.tag(word_tokenize(text))
 
 def listEntities(taggedEntities):

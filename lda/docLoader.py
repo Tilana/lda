@@ -22,7 +22,8 @@ def loadTxtFiles(path):
 def loadCsvFile(path):
     data = pandas.read_csv(path) #, encoding='utf8')
     titles = list(data['Title'])
-    docs = list(data['Abstract'])
+#    docs = list(data['Abstract'])
+    docs = list(data['PaperText'])
     titles = [removeSpecialChars(title) for title in titles]
     docs = [removeSpecialChars(text) for text in docs]
     return (titles, docs)

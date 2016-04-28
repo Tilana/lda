@@ -30,7 +30,7 @@ class Entities:
         return occurence 
 
 
-    def getMostFrequentEntities(self, number=7):
+    def getMostFrequent(self, number=7):
         return utils.sortTupleList(self.getEntities())[0:number]
         
 

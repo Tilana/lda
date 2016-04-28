@@ -5,6 +5,11 @@ from unittest import TestCase
 def flattenList(l):
 	return [item for sublist in l for item in sublist]
 
+
+def lowerList(wordList):
+        return [word.lower() for word in wordList]
+
+
 def listDifference(l):
     return [(elem[1]-elem[0], elem[0]) for elem in zip(l[:-1],l[1:])]
 
