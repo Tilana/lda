@@ -23,7 +23,7 @@ def topicModeling():
 
     filename = 'dataObjects/NIPS_noEntities.txt'
 
-    preprocess = 0
+    preprocess = 1
 
     #### MODEL ####
     ctrl = Controller(numberTopics, specialChars)
@@ -38,12 +38,12 @@ def topicModeling():
         ctrl.loadCollection(path, fileType, startDoc, numberDoc)
 
         print 'Prepare document collection'
-        ctrl.prepareDocumentCollection(lemmatize=True, includeEntities=True, stopwords=STOPWORDS, specialChars=specialChars, removeShortTokens=True, threshold=1)
+        ctrl.prepareDocumentCollection(lemmatize=True, includeEntities=False, stopwords=STOPWORDS, specialChars=specialChars, removeShortTokens=True, threshold=1)
 
         ctrl.save(filename)
 
         print 'Prepare Dictionary'
-        ctrl.createDictionary(wordList = dictionaryWords, lemmatize=True, stoplist=STOPWORDS, specialChars= ctrl.specialChars, removeShortWords=True, threshold=1, addEntities=True, getOriginalWords=True)
+        ctrl.createDictionary(wordList = dictionaryWords, lemmatize=True, stoplist=STOPWORDS, specialChars= ctrl.specialChars, removeShortWords=True, threshold=1, addEntities=False, getOriginalWords=True)
 
         print 'Create Corpus'
         ctrl.createCorpus()
