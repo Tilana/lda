@@ -15,15 +15,15 @@ def topicModeling():
 
     fileType = "csv" # "couchdb" "folder" "csv" 
     specialChars = set(u'''=+|[,:;€\!'"`\`\'©°\"~?!\^@#%\$&\.\/_\(\)\{\}\[\]\*]''')
-    numberTopics = 10
+    numberTopics = 3 
     startDoc =0 
-    numberDoc= 4 
+    numberDoc= 10
 #    dictionaryWords = set(['united nations', 'property', 'torture','applicant', 'child', 'help'])
     dictionaryWords = None
 
-    filename = 'dataObjects/NIPS_entities.txt'
+    filename = 'dataObjects/NIPS_10docs.txt'
 
-    preprocess = 1
+    preprocess = 0
 
     #### MODEL ####
     ctrl = Controller(numberTopics, specialChars)
@@ -62,8 +62,6 @@ def topicModeling():
         ctrl.computeFrequentWords(document)
     
     print 'Topic Modeling'
-#    ctrl.topicModel('LSI', numberTopics, ctrl.corpus, topicCoverage=True, relatedDocuments=True)
-#    ctrl.topicModel('LDA', numberTopics, ctrl.corpus, topicCoverage=True, relatedDocuments=True)
     ctrl.topicModel('LDA', numberTopics, ctrl.tfidf[ctrl.corpus], topicCoverage=True, relatedDocuments=True)
     ctrl.topicModel('LSI', numberTopics, ctrl.tfidf[ctrl.corpus], topicCoverage=True, relatedDocuments=True) 
 

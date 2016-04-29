@@ -22,6 +22,7 @@ def containsAny(str, specialChars):
 def absoluteTupleList(tupleList):
     return [(abs(elem[0]), abs(elem[1])) for elem in tupleList]
 
+
 def joinSublists(l1, l2):
     resultList = l1
     for index, sublist in enumerate(l2):
@@ -30,6 +31,10 @@ def joinSublists(l1, l2):
 
 def sortSublist(l):
     return [sorted(sublist) for sublist in l]
+
+def countOccurance(text, l):
+    return [(word, text.lower().count(word)) for word in l if text.lower().count(word)>0]
+
 
 def sortTupleList(tupleList):
     return sorted(tupleList, reverse=True, key=lambda x: x[1])

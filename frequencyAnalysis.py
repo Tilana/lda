@@ -4,6 +4,7 @@ from lda import Viewer
 from lda import Controller
 from lda import Entities
 from lda import utils
+from lda import dataframeUtils as df
 import csv
 import pandas
 from gensim.parsing.preprocessing import STOPWORDS
@@ -11,53 +12,59 @@ from gensim.parsing.preprocessing import STOPWORDS
 def frequencyAnalysis():
 
     #### PARAMETERS ####
-    evaluationDoc = 'Documents/HRC_TopicAssignment.xlsx'
-    keywords = pandas.read_excel(evaluationDoc, 'Topics', header=None)
+    evaluationFile = 'Documents/HRC_TopicAssignment.xlsx'
+    
+    keywords = pandas.read_excel(evaluationFile, 'Topics', header=None)
     keywords = utils.lowerList(list(keywords[0]))
+    keywords.extend(['child', 'judicial system', 'independence'])
 
-    originalAssignment = pandas.read_excel(evaluationDoc, 'Sheet1')
+    assignedKeywords = pandas.read_excel(evaluationFile, 'Sheet1')
 
     path = "Documents/RightsDoc"
     filetype = "folder" 
-    specialChars = set(u'''[,:;€\!'"*`\`\'©°\"~?!\^@#%\$&\.\/_\(\)\{\}\[\]\*]''')
     startDoc = 0
-    docNumber = None 
+    docNumber = None
    
     filename = 'dataObjects/rightsDoc.txt'
 
     
-    #### MODEL ####
-    ctrl = Controller(specialChars=specialChars)
+    #### FREQUENCY ANALYSIS ####
+    ctrl = Controller()
     ctrl.loadCollection(path, filetype, startDoc, docNumber)
 
-    ctrl.prepareDocumentCollection(lemmatize=True, includeEntities=False, stopwords=STOPWORDS, specialChars=specialChars, removeShortTokens=True, threshold=1)
-
-    ctrl.topics = Entities()
-    ctrl.topics.addEntities('predefined', keywords)
-    for document in ctrl.collection:
-        topicFrequency = ctrl.topics.countOccurence(document.text, 'predefined')
-        document.entities.addEntities('PREDEFINED KEYWORDS', utils.sortTupleList(topicFrequency))
-
-    fileNames = [doc.title.replace('_', '/')[:-5] for doc in ctrl.collection]
+    ctrl.undetectedKeywords = [] 
+    ctrl.numberKeywords = 0
 
     for ind, doc in enumerate(ctrl.collection):
-        doc.title = fileNames[ind]
-        doc.mostFrequent = doc.entities.getMostFrequent(5)
-        manualTopics = list((originalAssignment.loc[originalAssignment['Symbol']==doc.title, ['Topic 1', 'Topic 2', 'Topic 3']]).values[0])
-        mostFrequent = zip(*doc.mostFrequent)[0]
-        doc.manualTopics = [(topic.lower(), topic.lower() in mostFrequent) for topic in manualTopics if not str(topic)=='nan']
+        
+        doc.name = doc.title.replace('_', '/')[:-5]
+        keywordFrequency = utils.countOccurance(doc.text, keywords)
+        doc.entities.addEntities('KEYWORDS', utils.sortTupleList(keywordFrequency))
 
+        doc.mostFrequent = doc.entities.getMostFrequent(5)
+        mostFrequentWords = zip(*doc.mostFrequent)[0]
+
+        targetKeywords = df.getRow(assignedKeywords, 'Symbol', doc.name, ['Topic 1', 'Topic 2', 'Topic 3'])
+        targetKeywords = [keyword for keyword in targetKeywords if not str(keyword) =='nan'] 
+        ctrl.numberKeywords += len(targetKeywords)
+
+        doc.assignedKeywords = []
+        
+        for keyword in targetKeywords:
+            isDetected = keyword.lower() in mostFrequentWords 
+            if not isDetected:
+                ctrl.undetectedKeywords.append((doc.name, keyword))
+            doc.assignedKeywords.append((keyword.lower(), isDetected))
 
     ctrl.save(filename)
 
     html = Viewer()
-    html.freqAnalysis(ctrl.collection, openHtml=True)
+    html.freqAnalysis(ctrl.collection, openHtml=False)
+    html.freqAnalysis_eval(ctrl)
 
     with open('freqAnalysisOutput.csv', 'wb') as csvfile:
         writer = csv.writer(csvfile)
-        for document in ctrl.collection:
-            writer.writerow([document.title] + document.entities.getMostFrequent())
-
+        [writer.writerow([doc.name] + doc.mostFrequent) for doc in ctrl.collection]
 
       
 if __name__ == "__main__":
