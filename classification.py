@@ -13,14 +13,23 @@ def classification():
     data = pandas.read_csv(path)
 
     predictColumn = 'Domestic.Violence.Manual'
-    predictColumn = 'Rape'
+    predictColumn = 'Sexual.Assault'
 
-    dropList = ['Strength.of.DV']
-    dropList = ['Unnamed: 0'] 
+    dropList = ['Strength.of.SA', 'Sexual.Assault.Manual', 'Unnamed: 0']
 
-    ##### CLASSIFICATION #####
+
+    ### PREPROCESSING ###
+    # TODO: Consider symmetrie in age values
+    data = df.createNumericFeature(data, 'Age')
+    
+    data = df.createNumericFeature(data, 'Court')
+    data.loc[data['Reconciliation_freq']=='False', 'Reconciliation_freq' ] = '0'
+    data = df.toNumeric(data, 'Reconciliation_freq')
+   
 
     data = df.cleanDataset(data)
+
+    ### SELECT TEST AND TRAINING DATA ###
     data = df.balanceDataset(data, predictColumn)
 
     target = data[predictColumn]
@@ -28,11 +37,14 @@ def classification():
 
     dataset = df.splitDataset(data, target, len(data)/2)
 
+
+    ### CLASSIFICATION ###
     model = DecisionTreeClassifier()
     model.fit(dataset['trainData'], dataset['trainTarget'])
 
     predicted = model.predict(dataset['testData'])
 
+    ### EVALUATION ###
     print metrics.classification_report(dataset['testTarget'], predicted)
     print metrics.confusion_matrix(dataset['testTarget'], predicted)
 

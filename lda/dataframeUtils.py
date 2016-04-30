@@ -34,9 +34,16 @@ def cleanDataset(data):
         data = data.drop(field, axis=1)
     return data
 
+def createNumericFeature(data, column):
+    category = 0
+    for value in data[column].unique():
+        data.loc[data[column]==value, column] = category
+        category += 1
+    return toNumeric(data, column)
+
+def toNumeric(data, column):
+    data[column] = data[column].astype(int)
+    return data          
 
 
-
-
-        
 
