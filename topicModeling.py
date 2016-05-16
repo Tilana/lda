@@ -15,12 +15,13 @@ def topicModeling():
 
     fileType = "csv" # "couchdb" "folder" "csv" 
     specialChars = set(u'''=+|[,:;€\!'"`\`\'©°\"~?!\^@#%\$&\.\/_\(\)\{\}\[\]\*]''')
-    numberTopics = 10 
+    numberTopics = 5 
     startDoc =0 
     numberDoc= None 
 #    dictionaryWords = set(['united nations', 'property', 'torture','applicant', 'child', 'help'])
     dictionaryWords = None
 
+#    filename = 'dataObjects/scifiBooks_noEntities.txt'
     filename = 'dataObjects/NIPS_noEntities.txt'
 
     preprocess = 1

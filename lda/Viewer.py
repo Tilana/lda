@@ -6,7 +6,7 @@ class Viewer:
         pass
     
     def listToHtmlTable(self, f, title, unicodeList):
-        f.write("""<h5>%s</h5><table>""" % title.encode('utf8'))
+        f.write("""<h4>%s</h4><table>""" % title.encode('utf8'))
         for items in unicodeList:
             f.write("""<tr><td>%s</td></tr>""" % items.encode('utf8'))
         f.write("""</table>""")
@@ -18,7 +18,15 @@ class Viewer:
         f.write("""<tr><td>%s</td> <td> %s </td></tr>""" % (colName1.encode('utf8'), colName2.encode('utf8')))
 
         for items in tupleList:
-            f.write("""<tr><td>%s </td> <td> %d </td></tr>""" % (items[0].encode('utf8'), items[1]))
+            f.write("""<tr><td>%s </td> <td> %.4f </td></tr>""" % (items[0].encode('utf8'), items[1]))
+        f.write("""</table>""")
+    
+    
+    def printConfusionMatrix(self, f, matrix):
+        f.write("""<h4> Confusion Matrix </h4><table>""" )
+        f.write("""<tr> <td>. </td> <td> Predicted  </td> <td> Label </td></tr>""")
+        f.write("""<tr> <td>True </td><td> %d </td> <td> %d </td> </tr>""" % (matrix[0][0], matrix[0][1]))
+        f.write("""<tr> <td> Label </td> <td> %d </td><td> %d </td> </tr>""" % (matrix[1][0], matrix[1][1]))
         f.write("""</table>""")
 
     def printColoredList(self, f, title, l):
@@ -170,6 +178,34 @@ class Viewer:
         f.write("""<table>""")
         for keywords in model.undetectedKeywords:
             f.write("<tr><td><a href='%s.html'>%s</a></td><td>%s</td></tr>" % (keywords[0].replace('/','_'), keywords[0], keywords[1]))
+
+        f.write("""</table></div></body></html>""")
+        f.close()
+        webbrowser.open_new_tab(pagename)
+
+
+    def classificationResults(self, model):
+        pagename = 'html/classificationResults.html'
+        f = open(pagename, 'w')
+        f.write("<html><head><h1> Classification results </h1></head>")
+        f.write("""<body><div style="width:100%;">""")
+        f.write(""" <p><b> Target Feature: </b> %s </p> """ % model.targetFeature) 
+        f.write(""" <p><b> Size of Training Data: </b> %s </p> """ % len(model.trainData))
+        f.write(""" <p><b> Size of Test Data: </b> %s </p>""" % len(model.testData))
+        self.listToHtmlTable(f, 'Ignored Features', model.droplist)
+
+        f.write(""" <h2> Evaluation: </h2>""")
+        f.write("""<table> """)
+        f.write("""<tr><td> Accuracy: </td><td> %.2f </td></tr>""" % model.accuracy)
+        f.write("""<tr><td> Precision: </td><td> %.2f </td></tr>""" % model.precision)
+        f.write("""<tr><td> Recall: </td><td> %.2f </td></tr>""" % model.recall)
+        f.write("""</table>""")
+
+        self.printConfusionMatrix(f, model.confusionMatrix)
+
+
+
+        self.printTupleList(f, 'Feature Importance', model.featureImportance)
 
         f.write("""</table></div></body></html>""")
         f.close()

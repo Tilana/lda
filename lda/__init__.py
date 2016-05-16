@@ -6,5 +6,6 @@ from Controller import Controller
 from Topic import Topic
 from Model import Model
 from Viewer import Viewer 
+from ClassificationModel import ClassificationModel
 import utils
 import dataframeUtils
