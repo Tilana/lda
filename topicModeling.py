@@ -30,6 +30,8 @@ def topicModeling():
 
     preprocess = 0
 
+    categories = ['machine', 'computer', 'neuron', 'graph', 'network', 'analysis', 'kernel', 'computation', 'bayes', 'inference', 'classification', 'text', 'information', 'gauss', 'brain',  'learning', 'algorithm', 'food', 'culture']
+
     #### MODEL ####
     ctrl = Controller(numberTopics, specialChars)
 
@@ -66,7 +68,6 @@ def topicModeling():
         ctrl.computeVectorRepresentation(document)
         ctrl.computeFrequentWords(document)
 
-    categories = ['machine', 'computer', 'neuron', 'graph', 'net', 'learning', 'algorithm', 'food', 'culture']
     
     print 'Topic Modeling'
     ctrl.topicModel('LDA', numberTopics, ctrl.tfidf[ctrl.corpus], categories, topicCoverage=True, relatedDocuments=True)
