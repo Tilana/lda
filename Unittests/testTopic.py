@@ -15,7 +15,19 @@ class testTopic(unittest.TestCase):
 
         self.assertTrue(self.targetTopic.__eq__(self.testTopic))
 
+    def test_labelTopic(self):
+        categories = ['computer', 'food', 'books', 'fruit', 'politics']
+        self.testTopic.wordDistribution = [(u'apple', 0.32), (u'pear', 0.22), (u'strawberry', -0.20), ('banana', 0.1), ('cherry', 0.11)]
+        targetCategories1 = ['fruit', 'food', 'books', 'computer', 'politics']
+        self.assertEqual(targetCategories1, self.testTopic.labelTopic(categories))
 
+        self.testTopic.wordDistribution = [(u'mouse', 0.32), (u'power', 0.22), (u'computation', -0.20), ('screen', 0.1)] 
+        targetCategories2 = ['computer', 'fruit', 'food', 'books', 'politics']
+        self.assertEqual(targetCategories2, self.testTopic.labelTopic(categories))
+
+        self.testTopic.wordDistribution = [(u'president', 0.32), (u'constitution', 0.22), (u'discussion', -0.20), ('election', 0.1)] 
+        targetCategories2 = ['politics', 'computer', 'food', 'books', 'fruit'] 
+        self.assertEqual(targetCategories2, self.testTopic.labelTopic(categories))
 
 
 if __name__ == '__main__':

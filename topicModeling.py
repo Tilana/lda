@@ -13,18 +13,21 @@ def topicModeling():
 #    path = "Documents/scyfibookspdf"
     path = "Documents/NIPS/Papers.csv"
 
-    fileType = "csv" # "couchdb" "folder" "csv" 
+    fileType = "couchdb" # "couchdb" "folder" "csv" 
     specialChars = set(u'''=+|[,:;€\!'"`\`\'©°\"~?!\^@#%\$&\.\/_\(\)\{\}\[\]\*]''')
     numberTopics = 5 
     startDoc =0 
     numberDoc= None 
-#    dictionaryWords = set(['united nations', 'property', 'torture','applicant', 'child', 'help'])
+#    dictionaryWords = set(['united nations', 'right', 'kenya', 'property', 'torture','applicant', 'child', 'help'])
     dictionaryWords = None
 
 #    filename = 'dataObjects/scifiBooks_noEntities.txt'
     filename = 'dataObjects/NIPS_noEntities.txt'
+#    filename = 'dataObjects/Uwazi_Dictionary'
 
-    preprocess = 1
+    includeEntities = 0
+
+    preprocess = 0
 
     #### MODEL ####
     ctrl = Controller(numberTopics, specialChars)
@@ -39,12 +42,12 @@ def topicModeling():
         ctrl.loadCollection(path, fileType, startDoc, numberDoc)
 
         print 'Prepare document collection'
-        ctrl.prepareDocumentCollection(lemmatize=True, includeEntities=False, stopwords=STOPWORDS, specialChars=specialChars, removeShortTokens=True, threshold=1)
+        ctrl.prepareDocumentCollection(lemmatize=True, includeEntities=includeEntities, stopwords=STOPWORDS, specialChars=specialChars, removeShortTokens=True, threshold=1)
 
         ctrl.save(filename)
 
         print 'Prepare Dictionary'
-        ctrl.createDictionary(wordList = dictionaryWords, lemmatize=True, stoplist=STOPWORDS, specialChars= ctrl.specialChars, removeShortWords=True, threshold=1, addEntities=False, getOriginalWords=True)
+        ctrl.createDictionary(wordList = dictionaryWords, lemmatize=True, stoplist=STOPWORDS, specialChars= ctrl.specialChars, removeShortWords=True, threshold=1, addEntities=includeEntities, getOriginalWords=True)
 
         print 'Create Corpus'
         ctrl.createCorpus()
