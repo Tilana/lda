@@ -89,17 +89,18 @@ class Controller:
         return getattr(self, name)
     
     
-    def topicModel(self, name, numTopics, corpus, topicCoverage=True, relatedDocuments=True):
+    def topicModel(self, name, numTopics, corpus, categories, topicCoverage=True, relatedDocuments=True):
         model = Model(name, numTopics)
         model.createModel(corpus, self.dictionary.ids)
         setattr(self, name, model) 
         modelType = self.getModelType(name)
-        modelType.createTopics()
+        modelType.createTopics(categories)
         if topicCoverage:
             for document in self.collection:
                 modelType.computeTopicCoverage(document)
         if relatedDocuments:
             modelType.getTopicRelatedDocuments(self.corpus)
+        
 
 
     def similarityAnalysis(self, name='LDA', corpus=None):

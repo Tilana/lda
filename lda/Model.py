@@ -20,8 +20,10 @@ class Model:
             print 'Unkown Model type'
 
 
-    def createTopics(self):
+    def createTopics(self, categories):
         self.topics = self._tupleToTopicList(self.model.show_topics(formatted=False))
+        [topic.labelTopic(categories) for topic in self.topics]
+
 
 
     def _tupleToTopicList(self, tupleList):

@@ -9,6 +9,7 @@ import os.path
 def topicModeling():
 
     #### PARAMETERS ####
+
 #    path = 'http://localhost:5984/uwazi/_design/documents/_view/fulltext'
 #    path = "Documents/scyfibookspdf"
     path = "Documents/NIPS/Papers.csv"
@@ -64,10 +65,12 @@ def topicModeling():
     for ind, document in enumerate(ctrl.collection):
         ctrl.computeVectorRepresentation(document)
         ctrl.computeFrequentWords(document)
+
+    categories = ['machine', 'computer', 'neuron', 'graph', 'net', 'learning', 'algorithm', 'food', 'culture']
     
     print 'Topic Modeling'
-    ctrl.topicModel('LDA', numberTopics, ctrl.tfidf[ctrl.corpus], topicCoverage=True, relatedDocuments=True)
-    ctrl.topicModel('LSI', numberTopics, ctrl.tfidf[ctrl.corpus], topicCoverage=True, relatedDocuments=True) 
+    ctrl.topicModel('LDA', numberTopics, ctrl.tfidf[ctrl.corpus], categories, topicCoverage=True, relatedDocuments=True)
+    ctrl.topicModel('LSI', numberTopics, ctrl.tfidf[ctrl.corpus], categories, topicCoverage=True, relatedDocuments=True) 
 
     print 'Similarity Analysis'
     ctrl.similarityAnalysis('LSI', ctrl.tfidf[ctrl.corpus])

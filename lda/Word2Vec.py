@@ -21,6 +21,9 @@ class Word2Vec:
     def wordSimilarity(self, w1, w2):
         return self.net.similarity(w1, w2)
 
+    def filterList(self, wordList):
+        return [word for word in wordList if word in self.net.vocab]
+
     def wordToListSimilarity(self, w1, wordList):
         return [self.wordSimilarity(w1, w2) for w2 in wordList]
 

@@ -23,7 +23,9 @@ class Topic:
 
     def labelTopic(self, categories):
         word2vec = Word2Vec()
-        similarWords = word2vec.getSimilarWords(self.getTopicWords())
+        topicWords = word2vec.filterList(self.getTopicWords()) 
+
+        similarWords = word2vec.getSimilarWords(topicWords)
         meanSimilarity = word2vec.getMeanSimilarity(categories, similarWords)
         self.keywords = word2vec.sortCategories(meanSimilarity, categories)
         
