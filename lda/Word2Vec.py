@@ -1,5 +1,6 @@
 from gensim.models import word2vec 
 import os
+import utils
 
 class Word2Vec:
 
@@ -13,5 +14,26 @@ class Word2Vec:
             self.net = word2vec.Word2Vec(sentences, size=200)
             self.net.init_sims(replace=True)
             self.net.save_word2vec_format('Word2Vec/text8Net.bin', binary=True)
+
+    def getSimilarWords(self, words, nr=5):
+        return zip(*self.net.most_similar(positive=words, topn=nr))[0]
+
+    def wordSimilarity(self, w1, w2):
+        return self.net.similarity(w1, w2)
+
+    def wordToListSimilarity(self, w1, wordList):
+        return [self.wordSimilarity(w1, w2) for w2 in wordList]
+
+    def getMeanSimilarity(self, categories, words):
+        meanSimilarities = []
+        for keyword in categories:
+            keywordSimilarities = self.wordToListSimilarity(keyword, words)
+            meanSimilarities.append(utils.getMean(keywordSimilarities))
+        return meanSimilarities
+
+    def sortCategories(self, similarity, categories):
+        sortedIndices = utils.indicesOfReverseSorting(similarity)
+        return [categories[ind] for ind in sortedIndices]
+
 
 

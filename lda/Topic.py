@@ -1,5 +1,5 @@
 from Word2Vec import Word2Vec 
-import numpy
+import utils
 
 class Topic:
 
@@ -18,31 +18,14 @@ class Topic:
     def setAttribute(self, name, value):
         setattr(self, name, value)
 
+    def getTopicWords(self):
+        return zip(*self.wordDistribution)[0]
+
     def labelTopic(self, categories):
         word2vec = Word2Vec()
-        words = zip(*self.wordDistribution)[0]
-        print words
-        print word2vec.net.doesnt_match(words)
-        meanWords = word2vec.net.most_similar(positive=words, topn=5)
-        print meanWords
-        rating = [] 
-        for category in categories:
-            categoryRating = [] 
-            print category
-            for meanWord in meanWords:
-                categoryRating.append(word2vec.net.similarity(meanWord[0], category))
-                print meanWord[0], word2vec.net.similarity(meanWord[0], category)
-            rating.append(numpy.mean(numpy.asarray(categoryRating)))
-
-        print categories
-        print rating
-        indices = numpy.argsort(numpy.asarray(rating))[::-1]
-        print indices
-        result = []
-        for ind in indices:
-            result.append(categories[ind])
-        print result
-        return result
+        similarWords = word2vec.getSimilarWords(self.getTopicWords())
+        meanSimilarity = word2vec.getMeanSimilarity(categories, similarWords)
+        self.keywords = word2vec.sortCategories(meanSimilarity, categories)
         
 
 
