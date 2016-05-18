@@ -17,7 +17,7 @@ def topicModeling():
 
     fileType = "couchdb" # "couchdb" "folder" "csv" 
     specialChars = set(u'''=+|[,:;€\!'"`\`\'©°\"~?!\^@#%\$&\.\/_\(\)\{\}\[\]\*]''')
-    numberTopics = 15 
+    numberTopics = 10 
     startDoc =0 
     numberDoc= None 
 #    dictionaryWords = set(['united nations', 'right', 'kenya', 'property', 'torture','applicant', 'child', 'help'])
