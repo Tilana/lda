@@ -4,9 +4,10 @@ import utils
 
 class Model:
 
-    def __init__(self, name, numberTopics):
+    def __init__(self, name, numberTopics, categories=None):
         self.name = name
         self.numberTopics = numberTopics
+        self.categories = categories
 
 
     def createModel(self, corpus, dictionary):
@@ -20,9 +21,9 @@ class Model:
             print 'Unkown Model type'
 
 
-    def createTopics(self, categories):
+    def createTopics(self, word2vec):
         self.topics = self._tupleToTopicList(self.model.show_topics(formatted=False))
-        [topic.labelTopic(categories) for topic in self.topics]
+        [topic.labelTopic(word2vec, self.categories) for topic in self.topics]
 
 
 

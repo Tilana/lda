@@ -16,6 +16,7 @@ class Controller:
         self.numberTopics = numberTopics
         self.specialChars = specialChars
 
+
     def loadCollection(self, path=None, fileType=0, startDoc="couchdb", numberDocs=None):
         if path is not None and fileType=="couchdb":
             urllib2.urlopen(urllib2.Request(path)) 
@@ -89,12 +90,12 @@ class Controller:
         return getattr(self, name)
     
     
-    def topicModel(self, name, numTopics, corpus, categories, topicCoverage=True, relatedDocuments=True):
-        model = Model(name, numTopics)
+    def topicModel(self, name, numTopics, corpus, topicCoverage=True, relatedDocuments=True, word2vec=None, categories=None):
+        model = Model(name, numTopics, categories)
         model.createModel(corpus, self.dictionary.ids)
         setattr(self, name, model) 
         modelType = self.getModelType(name)
-        modelType.createTopics(categories)
+        modelType.createTopics(word2vec)
         if topicCoverage:
             for document in self.collection:
                 modelType.computeTopicCoverage(document)

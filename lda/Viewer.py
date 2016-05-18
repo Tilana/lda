@@ -68,10 +68,11 @@ class Viewer:
         f = open(filename, 'w')
         f.write("<html><head><h1> %s Topics</h1></head>" % model.name)
         f.write("<body><p>Topics and related words - %s Model</p><table>" % model.name )
-        f.write("""<col style="width:7%"> <col style="width: 15%"> <col style="width:80%">""")
+        f.write("""<col style="width:7%"> <col style="width: 20%"> <col style="width:80%">""")
         for topic in model.topics:
-            f.write("<tr><td><a href='%stopic%d.html'> Topic %d</a></td><td>%s </td><td>%s</td></tr>" % (model.name, topic.number, topic.number, topic.keywords[0:2], str(topic.wordDistribution)[1:-1]))
+            f.write("<tr><td><a href='%stopic%d.html'> Topic %d</a></td><td>%s </td><td>%s</td></tr>" % (model.name, topic.number, topic.number, topic.keywords[0:3], str(topic.wordDistribution)[1:-1]))
         f.write("</table>")
+        f.write("<p> <h4> Possible Categories: </h4> %s</p>" % model.categories)
         f.write("</body></html>")
         f.close()
         

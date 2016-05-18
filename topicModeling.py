@@ -3,6 +3,7 @@
 from lda import Viewer 
 from lda import utils
 from lda import Controller
+from lda import Word2Vec
 from gensim.parsing.preprocessing import STOPWORDS
 import os.path
 
@@ -16,7 +17,7 @@ def topicModeling():
 
     fileType = "couchdb" # "couchdb" "folder" "csv" 
     specialChars = set(u'''=+|[,:;€\!'"`\`\'©°\"~?!\^@#%\$&\.\/_\(\)\{\}\[\]\*]''')
-    numberTopics = 5 
+    numberTopics = 15 
     startDoc =0 
     numberDoc= None 
 #    dictionaryWords = set(['united nations', 'right', 'kenya', 'property', 'torture','applicant', 'child', 'help'])
@@ -30,10 +31,11 @@ def topicModeling():
 
     preprocess = 0
 
-    categories = ['machine', 'computer', 'neuron', 'graph', 'network', 'analysis', 'kernel', 'computation', 'bayes', 'inference', 'classification', 'text', 'information', 'gauss', 'brain',  'learning', 'algorithm', 'food', 'culture']
+    categories = ['machine', 'neuron', 'graph', 'network', 'analysis', 'kernel', 'computation', 'bayes', 'inference', 'classification', 'text', 'information', 'gauss', 'brain',  'learning', 'algorithm', 'food', 'culture', 'image']
 
     #### MODEL ####
     ctrl = Controller(numberTopics, specialChars)
+    word2vec = Word2Vec()
 
     if os.path.exists(filename) and not preprocess:
         print 'Load preprocessed document collection'
@@ -70,8 +72,8 @@ def topicModeling():
 
     
     print 'Topic Modeling'
-    ctrl.topicModel('LDA', numberTopics, ctrl.tfidf[ctrl.corpus], categories, topicCoverage=True, relatedDocuments=True)
-    ctrl.topicModel('LSI', numberTopics, ctrl.tfidf[ctrl.corpus], categories, topicCoverage=True, relatedDocuments=True) 
+    ctrl.topicModel('LDA', numberTopics, ctrl.tfidf[ctrl.corpus], topicCoverage=True, relatedDocuments=True, word2vec=word2vec, categories=categories)
+    ctrl.topicModel('LSI', numberTopics, ctrl.tfidf[ctrl.corpus], topicCoverage=True, relatedDocuments=True, word2vec=word2vec, categories=categories) 
 
     print 'Similarity Analysis'
     ctrl.similarityAnalysis('LSI', ctrl.tfidf[ctrl.corpus])

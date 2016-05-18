@@ -21,8 +21,7 @@ class Topic:
     def getTopicWords(self):
         return zip(*self.wordDistribution)[0]
 
-    def labelTopic(self, categories):
-        word2vec = Word2Vec()
+    def labelTopic(self, word2vec, categories):
         topicWords = word2vec.filterList(self.getTopicWords()) 
 
         similarWords = word2vec.getSimilarWords(topicWords)
