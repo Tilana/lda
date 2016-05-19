@@ -20,7 +20,7 @@ class Topic:
         setattr(self, name, value)
 
     def getTopicWords(self):
-        return zip(*self.wordDistribution)[0]
+        return zip(*self.wordDistribution)[0][0:5]
 
     def labelTopic(self, word2vec, categories):
         topicWords = word2vec.filterList(self.getTopicWords()) 

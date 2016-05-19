@@ -1,4 +1,5 @@
 import webbrowser
+import utils
 
 class Viewer:
 
@@ -12,13 +13,17 @@ class Viewer:
         f.write("""</table>""")
         
     
-    def printTupleList(self, f, title, tupleList, colName1='', colName2=''):
-        f.write("""<h5>%s</h5><table>""" % title.encode('utf8'))
+    def printTupleList(self, f, title, tupleList, format='int', colName1='', colName2=''):
+        f.write("""<h4>%s</h4><table>""" % title.encode('utf8'))
         f.write("""<col style="width:40%"> <col style="width:50%">""")
         f.write("""<tr><td>%s</td> <td> %s </td></tr>""" % (colName1.encode('utf8'), colName2.encode('utf8')))
 
         for items in tupleList:
-            f.write("""<tr><td>%s </td> <td> %.4f </td></tr>""" % (items[0].encode('utf8'), items[1]))
+            if format=='int':
+                f.write("""<tr><td>%s </td> <td> %d </td></tr>""" % (items[0].encode('utf8'), items[1]))
+            else:
+                f.write("""<tr><td>%s </td> <td> %.4f </td></tr>""" % (items[0].encode('utf8'), items[1]))
+
         f.write("""</table>""")
     
     
@@ -69,8 +74,9 @@ class Viewer:
         f.write("<html><head><h1> %s Topics</h1></head>" % model.name)
         f.write("<body><p>Topics and related words - %s Model</p><table>" % model.name )
         f.write("""<col style="width:7%"> <col style="width: 20%"> <col style="width: 7%"> <col style="width:80%">""")
+
         for topic in model.topics:
-            f.write("<tr><td><a href='%stopic%d.html'> Topic %d</a></td><td>%s </td><td>%.4f</td><td>%s</td></tr>" % (model.name, topic.number, topic.number, topic.keywords[0:3], topic.meanSimilarity, str(topic.wordDistribution)[1:-1]))
+            f.write("<tr><td><a href='%stopic%d.html'> Topic %d</a></td><td>%s </td><td>%.4f</td><td>%s</td></tr>" % (model.name, topic.number, topic.number, topic.keywords[0:2], topic.meanSimilarity, str(topic.wordDistribution[0:5])[1:-1]))
         f.write("</table>")
         f.write("<p> <h4> Possible Categories: </h4> %s</p>" % model.categories)
         f.write("</body></html>")
@@ -84,33 +90,40 @@ class Viewer:
             pagename = 'html/doc%02d.html' % ind
             f = open(pagename, 'w')
             f.write("<html><head><h1>Document %02d - %s</h1></head>" % (ind, doc.title.encode('utf-8')))
-            f.write("""<body><div style="width:100%;"><div style="float:right; width:40%;">""")
-            f.write("""<h3> LSI Topic coverage: \n</h3><table>""")
-            f.write("""<col style="width:40%"> <col style="width:50%">""")
+            f.write("""<body><div style="width:100%;"><div style="float:right; width:45%;">""")
+            f.write("""<h4> LSI Topic coverage: </h4><table>""")
+            f.write("""<col style="width:20%"> <col style="width:50%"> <col style = "width:30%"> """)
             for topicNr, coverage in enumerate(doc.LSICoverage):
-                f.write("""<tr><td><a href='LSItopic%d.html'>Topic %d</a</td><td> Coverage %.2f</td></tr>""" % (topicNr, topicNr, coverage[1]))
+                f.write("""<tr><td><a href='LSItopic%d.html'>Topic %d</a</td> <td> %s </td> <td> %.2f</td> </tr>""" % (topicNr, topicNr, model.LSI.topics[topicNr].keywords[0:2], coverage[1]))
             f.write("</table>")
-            f.write("""<h3> LDA Topic coverage: \n</h3><table>""")
-            f.write("""<col style="width:40%"> <col style="width:50%">""")
-            for topicNr, coverage in enumerate(doc.LDACoverage):
-                f.write("""<tr><td><a href='LDAtopic%d.html'>Topic %d</a</td><td> Coverage %.2f</td></tr>""" % (topicNr, topicNr, coverage[1]))
-            f.write("</table>")
-            f.write("""<h3>Relevant Words in Document: \n</h3><table>""")
+
+           # f.write("""<h4> LDA Topic coverage:</h4><table>""")
+           # f.write("""<col style="width:20%"> <col style="width:50%"> <col style = "width:30%"> """)
+           # for topicNr, coverage in enumerate(doc.LDACoverage):
+           #     f.write("""<tr><td><a href='LDAtopic%d.html'>Topic %d</a</td> <td> %s</td> <td> Coverage %.2f</td></tr>""" % (topicNr, topicNr, model.LDA.topics[topicNr].keywords[0:3], coverage[1]))
+           # f.write("</table>")
+           
+            if hasattr(doc, 'targetCategories'):
+                self.listToHtmlTable(f, 'Target Categories', doc.targetCategories)
+
+            f.write("""<h4>Relevant Words in Document: \n</h4><table>""")
             f.write("""<col style="width:40%"> <col style="width:50%">""")
             for freqWord in doc.freqWords:
                 f.write("""<tr><td>%s </td><td> %.2f</td></tr>""" % (freqWord[0], freqWord[1])) 
             f.write("</table>")
-            
-            f.write("""<h3>Similar documents: \n</h3><table>""")
+
+            if hasattr(doc, 'mostFrequentEntities'):
+                self.printTupleList(f, 'Most frequent entities', doc.mostFrequentEntities)
+           
+            f.write("""<h4>Similar documents: \n</h4><table>""")
             f.write("""<col style="width:40%"> <col style="width:50%">""")
             for similarDoc in doc.LSISimilarity:
                 f.write("""<tr><td><a href='doc%02d.html'>Document %d</a></td>""" % (similarDoc[0], similarDoc[0]))
                 f.write("""<td> Similarity: %.4f</td></tr>""" % similarDoc[1])
             f.write("""</table>""")
 
-            self.printTupleList(f, 'Most Frequent Entities', doc.entities.getMostFrequent())
 
-            f.write("""<h3> Named Entities: \n</h3>""")
+            f.write("""<h4> Named Entities: \n</h4>""")
             for tag in doc.entities.__dict__.keys():
                 self.printTupleList(f, tag, getattr(doc.entities, tag))
             f.write("""</div>""")
@@ -147,12 +160,12 @@ class Viewer:
             f = open(pagename, 'w')
             f.write("<html><head><h1>Document %02d - %s</h1></head>" % (ind, doc.name))
             f.write("""<body><div style="width:100%;"><div style="float:right; width:40%;">""")
-            f.write("""<h3> Topic Suggestions <h4>""")
+            f.write("""<h4> Topic Suggestions <h4>""")
           
             self.printTupleList(f, ' ', doc.mostFrequent)
             self.printColoredList(f, 'Manual Topic Assignment', doc.assignedKeywords)
 
-            f.write("""<h3> All Keywords \n</h3>""")
+            f.write("""<h4> All Keywords \n</h4>""")
             for tag in doc.entities.__dict__.keys():
                 if getattr(doc.entities, tag):
                     self.printTupleList(f, tag, getattr(doc.entities, tag))
@@ -202,9 +215,7 @@ class Viewer:
 
         self.printConfusionMatrix(f, model.confusionMatrix)
 
-
-
-        self.printTupleList(f, 'Feature Importance', model.featureImportance)
+        self.printTupleList(f, 'Feature Importance', model.featureImportance, format='float')
 
         f.write("""</table></div></body></html>""")
         f.close()
