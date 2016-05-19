@@ -1,5 +1,6 @@
 from Word2Vec import Word2Vec 
 import utils
+import numpy
 
 class Topic:
 
@@ -23,10 +24,15 @@ class Topic:
 
     def labelTopic(self, word2vec, categories):
         topicWords = word2vec.filterList(self.getTopicWords()) 
-
         similarWords = word2vec.getSimilarWords(topicWords)
         meanSimilarity = word2vec.getMeanSimilarity(categories, similarWords)
         self.keywords = word2vec.sortCategories(meanSimilarity, categories)
-        
+
+    def evaluate(self, word2vec):
+        topicWords = word2vec.filterList(self.getTopicWords())
+        similarityMatrix = [word2vec.wordToListSimilarity(word, topicWords) for word in topicWords]
+
+        self.pairwiseSimilarity = utils.getUpperSymmetrixMatrix(similarityMatrix)
+        self.meanSimilarity = utils.getMean(self.pairwiseSimilarity)
 
 

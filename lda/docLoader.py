@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 import json
 import urllib
 import pickle
@@ -40,8 +42,6 @@ def removeSpecialChars(text, verbosity=0):
                 print "Failed Encoding: ", word
             pass
     return " ".join(encodedText)
-
-
 
 
 def storeAsTxt(dat, path):

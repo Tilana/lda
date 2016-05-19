@@ -11,27 +11,28 @@ def topicModeling():
 
     #### PARAMETERS ####
 
-#    path = 'http://localhost:5984/uwazi/_design/documents/_view/fulltext'
+    path = 'http://localhost:5984/uwazi/_design/documents/_view/fulltext'
 #    path = "Documents/scyfibookspdf"
-    path = "Documents/NIPS/Papers.csv"
+#    path = "Documents/NIPS/Papers.csv"
 
     fileType = "couchdb" # "couchdb" "folder" "csv" 
     specialChars = set(u'''=+|[,:;€\!'"`\`\'©°\"~?!\^@#%\$&\.\/_\(\)\{\}\[\]\*]''')
-    numberTopics = 10 
-    startDoc =0 
+    numberTopics = 20 
+    startDoc = 0
     numberDoc= None 
 #    dictionaryWords = set(['united nations', 'right', 'kenya', 'property', 'torture','applicant', 'child', 'help'])
     dictionaryWords = None
 
-#    filename = 'dataObjects/scifiBooks_noEntities.txt'
-    filename = 'dataObjects/NIPS_noEntities.txt'
-#    filename = 'dataObjects/Uwazi_Dictionary'
+    filename = 'dataObjects/UwaziDocs.txt'
+#    filename = 'dataObjects/scifiBooks10_noEntities.txt'
+#     filename = 'dataObjects/NIPS_noEntities.txt'
 
     includeEntities = 0
 
     preprocess = 0
 
-    categories = ['machine', 'neuron', 'graph', 'network', 'analysis', 'kernel', 'computation', 'bayes', 'inference', 'classification', 'text', 'information', 'gauss', 'brain',  'learning', 'algorithm', 'food', 'culture', 'image']
+#    categories = ['machine', 'neuron', 'graph', 'network', 'analysis', 'kernel', 'computation', 'bayes', 'inference', 'classification', 'text', 'information', 'gauss', 'brain',  'learning', 'algorithm', 'food', 'culture', 'image']
+    categories = ['property', 'kenya', 'freedom', 'equality', 'death', 'indigenous', 'police', 'refugee', 'health', 'women', 'education', 'work', 'children', 'human', 'rights', 'torture', 'africa' ,'law', 'culture', 'journalist', 'corruption', 'politics']
 
     #### MODEL ####
     ctrl = Controller(numberTopics, specialChars)

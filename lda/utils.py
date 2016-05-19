@@ -48,6 +48,10 @@ def getMean(l):
 def indicesOfReverseSorting(indices):
     return np.argsort(listToNumpy(indices))[::-1]
 
+def getUpperSymmetrixMatrix(matrix):
+    matrix = listToNumpy(matrix)
+    return list(matrix[np.triu_indices(len(matrix), 1)])
+
 
 def sortTupleList(tupleList):
     return sorted(tupleList, reverse=True, key=lambda x: x[1])

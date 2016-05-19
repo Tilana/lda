@@ -23,8 +23,9 @@ class Model:
 
     def createTopics(self, word2vec):
         self.topics = self._tupleToTopicList(self.model.show_topics(formatted=False))
-        [topic.labelTopic(word2vec, self.categories) for topic in self.topics]
-
+        for topic in self.topics:
+            topic.labelTopic(word2vec, self.categories)
+            topic.evaluate(word2vec)
 
 
     def _tupleToTopicList(self, tupleList):
