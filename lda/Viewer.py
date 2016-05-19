@@ -93,13 +93,15 @@ class Viewer:
             f.write("""<body><div style="width:100%;"><div style="float:right; width:45%;">""")
             f.write("""<h4> LSI Topic coverage: </h4><table>""")
             f.write("""<col style="width:20%"> <col style="width:50%"> <col style = "width:30%"> """)
-            for topicNr, coverage in enumerate(doc.LSICoverage):
+            for coverage in doc.LSICoverage:
+                topicNr = coverage[0]
                 f.write("""<tr><td><a href='LSItopic%d.html'>Topic %d</a</td> <td> %s </td> <td> %.2f</td> </tr>""" % (topicNr, topicNr, model.LSI.topics[topicNr].keywords[0:2], coverage[1]))
             f.write("</table>")
 
            # f.write("""<h4> LDA Topic coverage:</h4><table>""")
            # f.write("""<col style="width:20%"> <col style="width:50%"> <col style = "width:30%"> """)
-           # for topicNr, coverage in enumerate(doc.LDACoverage):
+           # for coverage in doc.LDACoverage:
+           #     topicNr = coverage[0]
            #     f.write("""<tr><td><a href='LDAtopic%d.html'>Topic %d</a</td> <td> %s</td> <td> Coverage %.2f</td></tr>""" % (topicNr, topicNr, model.LDA.topics[topicNr].keywords[0:3], coverage[1]))
            # f.write("</table>")
            

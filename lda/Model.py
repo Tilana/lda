@@ -39,6 +39,9 @@ class Model:
 
     def computeTopicCoverage(self, document):
         topicCoverage = self.model[document.vectorRepresentation]
+        print topicCoverage
+        topicCoverage = utils.sortTupleList(utils.absoluteTupleList(topicCoverage))
+        print topicCoverage
         document.setAttribute(('%sCoverage' % self.name), topicCoverage)
         
     
