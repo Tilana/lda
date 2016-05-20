@@ -73,11 +73,13 @@ class Viewer:
         f = open(filename, 'w')
         f.write("<html><head><h1> %s Topics</h1></head>" % model.name)
         f.write("<body><p>Topics and related words - %s Model</p><table>" % model.name )
-        f.write("""<col style="width:7%"> <col style="width: 20%"> <col style="width: 7%"> <col style="width:80%">""")
+        f.write("""<col style="width:7%"> <col style="width: 20%"> <col style="width: 7%"> <col style="width:80%"> <col style="width:8%">""")
 
         for topic in model.topics:
-            f.write("<tr><td><a href='%stopic%d.html'> Topic %d</a></td><td>%s </td><td>%.4f</td><td>%s</td></tr>" % (model.name, topic.number, topic.number, topic.keywords[0:2], topic.meanSimilarity, str(topic.wordDistribution[0:5])[1:-1]))
+            f.write("<tr><td><a href='%stopic%d.html'> Topic %d</a></td><td>%s </td><td>%.4f</td><td>%s</td><td>%s</td></tr>" % (model.name, topic.number, topic.number, topic.keywords[0:3], topic.meanSimilarity, str(topic.wordDistribution[0:7])[1:-1], topic.intruder))
         f.write("</table>")
+        
+        f.write("Mean Similarity Score: %.4f" % model.meanScore)
         f.write("<p> <h4> Possible Categories: </h4> %s</p>" % model.categories)
         f.write("</body></html>")
         f.close()
@@ -98,12 +100,12 @@ class Viewer:
                 f.write("""<tr><td><a href='LSItopic%d.html'>Topic %d</a</td> <td> %s </td> <td> %.2f</td> </tr>""" % (topicNr, topicNr, model.LSI.topics[topicNr].keywords[0:2], coverage[1]))
             f.write("</table>")
 
-           # f.write("""<h4> LDA Topic coverage:</h4><table>""")
-           # f.write("""<col style="width:20%"> <col style="width:50%"> <col style = "width:30%"> """)
-           # for coverage in doc.LDACoverage:
-           #     topicNr = coverage[0]
-           #     f.write("""<tr><td><a href='LDAtopic%d.html'>Topic %d</a</td> <td> %s</td> <td> Coverage %.2f</td></tr>""" % (topicNr, topicNr, model.LDA.topics[topicNr].keywords[0:3], coverage[1]))
-           # f.write("</table>")
+            f.write("""<h4> LDA Topic coverage:</h4><table>""")
+            f.write("""<col style="width:20%"> <col style="width:50%"> <col style = "width:30%"> """)
+            for coverage in doc.LDACoverage:
+                topicNr = coverage[0]
+                f.write("""<tr><td><a href='LDAtopic%d.html'>Topic %d</a</td> <td> %s</td> <td> Coverage %.2f</td></tr>""" % (topicNr, topicNr, model.LDA.topics[topicNr].keywords[0:3], coverage[1]))
+            f.write("</table>")
            
             if hasattr(doc, 'targetCategories'):
                 self.listToHtmlTable(f, 'Target Categories', doc.targetCategories)

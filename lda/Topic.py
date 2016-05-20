@@ -1,4 +1,3 @@
-from Word2Vec import Word2Vec 
 import utils
 import numpy
 
@@ -20,7 +19,7 @@ class Topic:
         setattr(self, name, value)
 
     def getTopicWords(self):
-        return zip(*self.wordDistribution)[0][0:5]
+        return zip(*self.wordDistribution)[0][0:7]
 
     def labelTopic(self, word2vec, categories):
         topicWords = word2vec.filterList(self.getTopicWords()) 
@@ -30,6 +29,7 @@ class Topic:
 
     def evaluate(self, word2vec):
         topicWords = word2vec.filterList(self.getTopicWords())
+        self.intruder = word2vec.net.doesnt_match(topicWords)
         similarityMatrix = [word2vec.wordToListSimilarity(word, topicWords) for word in topicWords]
 
         self.pairwiseSimilarity = utils.getUpperSymmetrixMatrix(similarityMatrix)

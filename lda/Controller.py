@@ -90,7 +90,7 @@ class Controller:
         return getattr(self, name)
     
     
-    def topicModel(self, name, numTopics, corpus, topicCoverage=True, relatedDocuments=True, word2vec=None, categories=None):
+    def topicModel(self, name, numTopics, corpus, topicCoverage=True, relatedDocuments=True, word2vec=None, categories=None, alpha='auto', eta='auto'):
         model = Model(name, numTopics, categories)
         model.createModel(corpus, self.dictionary.ids)
         setattr(self, name, model) 

@@ -10,9 +10,9 @@ class Model:
         self.categories = categories
 
 
-    def createModel(self, corpus, dictionary):
+    def createModel(self, corpus, dictionary, alpha='auto', eta='auto'):
         if self.name=='LDA':
-            self.model = models.LdaModel(corpus, self.numberTopics, dictionary, iterations=100)
+            self.model = models.LdaModel(corpus, self.numberTopics, dictionary, iterations=50, passes=3, alpha=alpha, eta=eta) 
             self.info = str(self.model)
         elif self.name=='LSI':
             self.model = models.LsiModel(corpus, self.numberTopics, dictionary)
@@ -23,9 +23,13 @@ class Model:
 
     def createTopics(self, word2vec):
         self.topics = self._tupleToTopicList(self.model.show_topics(formatted=False))
+        meanScore = []
         for topic in self.topics:
             topic.labelTopic(word2vec, self.categories)
             topic.evaluate(word2vec)
+            meanScore.append(topic.meanSimilarity)
+        self.meanScore = utils.getMean(meanScore)
+        print "Mean Similarity ", self.meanScore
 
 
     def _tupleToTopicList(self, tupleList):
@@ -39,9 +43,7 @@ class Model:
 
     def computeTopicCoverage(self, document):
         topicCoverage = self.model[document.vectorRepresentation]
-        print topicCoverage
         topicCoverage = utils.sortTupleList(utils.absoluteTupleList(topicCoverage))
-        print topicCoverage
         document.setAttribute(('%sCoverage' % self.name), topicCoverage)
         
     

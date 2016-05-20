@@ -12,8 +12,8 @@ def topicModeling():
     #### PARAMETERS ####
 
 #    path = 'http://localhost:5984/uwazi/_design/documents/_view/fulltext'
-    path = "Documents/scyfibookspdf"
-#    path = "Documents/NIPS/Papers.csv"
+#    path = "Documents/scyfibookspdf"
+    path = "Documents/NIPS/Papers.csv"
 
     fileType = "folder" # "couchdb" "folder" "csv"
     specialChars = set(u'''=+|[,:;€\!'"`\`\'©°\"~?!\^@#%\$&\.\/_\(\)\{\}\[\]\*]''')
@@ -24,15 +24,15 @@ def topicModeling():
     dictionaryWords = None
 
 #    filename = 'dataObjects/UwaziDocs.txt'
-    filename = 'dataObjects/scifiBooks50_noEntities.txt'
-#    filename = 'dataObjects/NIPS_noEntities.txt'
+#    filename = 'dataObjects/scifiBooks50_noEntities.txt'
+    filename = 'dataObjects/NIPS_noEntities.txt'
 
     includeEntities = 0
 
     preprocess = 0
 
-#    categories = ['machine', 'neuron', 'graph', 'network', 'analysis', 'kernel', 'computation', 'bayes', 'inference', 'classification', 'text', 'information', 'gauss', 'brain',  'learning', 'algorithm', 'food', 'culture', 'image']
-    categories = ['property', 'kenya', 'freedom', 'equality', 'death', 'indigenous', 'police', 'refugee', 'health', 'women', 'education', 'work', 'children', 'human', 'rights', 'torture', 'africa' ,'law', 'culture', 'journalist', 'corruption', 'politics']
+    categories = ['machine', 'neuron', 'graph', 'network', 'analysis', 'kernel', 'computation', 'bayes', 'inference', 'classification', 'text', 'information', 'gauss', 'brain',  'learning', 'algorithm', 'food', 'culture', 'image']
+#    categories = ['property', 'kenya', 'freedom', 'equality', 'death', 'indigenous', 'police', 'refugee', 'health', 'women', 'education', 'work', 'children', 'human', 'rights', 'torture', 'africa' ,'law', 'culture', 'journalist', 'corruption', 'politics']
 
 
     #### MODEL ####
