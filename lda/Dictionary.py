@@ -13,8 +13,11 @@ class Dictionary:
         self.specialCharacters = set([])
         self.ids = corpora.Dictionary()
     
-    def createDictionaryIds(self):
-        self.ids.add_documents([self.words])
+    def createDictionaryIds(self, collection):
+        for doc in collection:
+            if not doc.hasTokenAttribute():
+                doc.createTokens()
+            self.ids.add_documents([doc.tokens])
 
     def setDictionary(self, wordList=None):
         self.words = set(utils.lowerList(wordList))

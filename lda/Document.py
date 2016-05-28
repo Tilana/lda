@@ -18,6 +18,7 @@ class Document:
         self.tokens= self._tokenizeDocument()
 
     def prepareDocument(self, lemmatize=True, includeEntities=True, stopwords=None, specialChars=None, removeShortTokens=True, threshold=1):
+        self.text = self.text.decode('utf8', 'ignore')
         self.tokens = self._tokenizeDocument()
         self.original = self.tokens
         if lemmatize:

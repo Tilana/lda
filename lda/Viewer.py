@@ -50,11 +50,10 @@ class Viewer:
         name = 'html/dictionaryCollection.html'
         f = open(name, 'w')
         f.write("""<html><head><h1>Dictionary of Document Collection</h1><style type="text/css"> body>div {width: 23%; float: left; border: 1px solid} </style></head>""") 
-        f.write("""<body><div>""")
-        self.listToHtmlTable(f, 'Words in Dictionary', dictionary.words)
+        f.write("""<body> <p> number of words in dictionary: %s </p><div>""" % len(dictionary.ids))
+        self.listToHtmlTable(f, 'Words in Dictionary', dictionary.ids.values())
         f.write("""</div>""")
         f.write("""<div>""")
-        self.listToHtmlTable(f, 'Original (Unlemmatized) Dictionary', dictionary.original)
         f.write("""</div>""")
 
         f.write("""<div>""")
@@ -91,20 +90,21 @@ class Viewer:
         for ind, doc in enumerate(model.collection):
             pagename = 'html/doc%02d.html' % ind
             f = open(pagename, 'w')
-            f.write("<html><head><h1>Document %02d - %s</h1></head>" % (ind, doc.title.encode('utf-8')))
+            f.write("<html><head><h1>Document %02d - %s</h1></head>" % (ind, doc.title))
+#            f.write("<html><head><h1>Document %02d - %s</h1></head>" % (ind, doc.title.encode('utf-8')))
             f.write("""<body><div style="width:100%;"><div style="float:right; width:45%;">""")
-            f.write("""<h4> LSI Topic coverage: </h4><table>""")
-            f.write("""<col style="width:20%"> <col style="width:50%"> <col style = "width:30%"> """)
-            for coverage in doc.LSICoverage:
-                topicNr = coverage[0]
-                f.write("""<tr><td><a href='LSItopic%d.html'>Topic %d</a</td> <td> %s </td> <td> %.2f</td> </tr>""" % (topicNr, topicNr, model.LSI.topics[topicNr].keywords[0:2], coverage[1]))
-            f.write("</table>")
+           # f.write("""<h4> LSI Topic coverage: </h4><table>""")
+           # f.write("""<col style="width:20%"> <col style="width:50%"> <col style = "width:30%"> """)
+           # for coverage in doc.LSICoverage[0:5]:
+           #     topicNr = coverage[0]
+           #     f.write("""<tr><td><a href='LSItopic%d.html'>Topic %d</a</td> <td> %s </td> <td> %.2f</td> </tr>""" % (topicNr, topicNr, model.LSI.topics[topicNr].keywords[0:2], coverage[1]))
+           # f.write("</table>")
 
             f.write("""<h4> LDA Topic coverage:</h4><table>""")
             f.write("""<col style="width:20%"> <col style="width:50%"> <col style = "width:30%"> """)
-            for coverage in doc.LDACoverage:
+            for coverage in doc.LDACoverage[0:5]:
                 topicNr = coverage[0]
-                f.write("""<tr><td><a href='LDAtopic%d.html'>Topic %d</a</td> <td> %s</td> <td> Coverage %.2f</td></tr>""" % (topicNr, topicNr, model.LDA.topics[topicNr].keywords[0:3], coverage[1]))
+                f.write("""<tr><td><a href='LDAtopic%d.html'>Topic %d</a</td> <td> %s</td> <td> Coverage %.2f</td></tr>""" % (topicNr, topicNr, model.LDA.topics[topicNr].keywords[0:2], coverage[1]))
             f.write("</table>")
            
             if hasattr(doc, 'targetCategories'):
@@ -121,7 +121,7 @@ class Viewer:
            
             f.write("""<h4>Similar documents: \n</h4><table>""")
             f.write("""<col style="width:40%"> <col style="width:50%">""")
-            for similarDoc in doc.LSISimilarity:
+            for similarDoc in doc.LDASimilarity:
                 f.write("""<tr><td><a href='doc%02d.html'>Document %d</a></td>""" % (similarDoc[0], similarDoc[0]))
                 f.write("""<td> Similarity: %.4f</td></tr>""" % similarDoc[1])
             f.write("""</table>""")
@@ -131,7 +131,8 @@ class Viewer:
             for tag in doc.entities.__dict__.keys():
                 self.printTupleList(f, tag, getattr(doc.entities, tag))
             f.write("""</div>""")
-            f.write("""<div style="float:left; width:55%%;"><p>%s</p></div></div></body></html>""" % doc.text.encode('utf8'))
+ #           f.write("""<div style="float:left; width:55%%;"><p>%s</p></div></div></body></html>""" % doc.text.encode('utf8'))
+            f.write("""<div style="float:left; width:55%%;"><p>%s</p></div></div></body></html>""" % doc.text)
             f.close()
             if openHtml:
                 webbrowser.open_new_tab(pagename)
@@ -225,3 +226,13 @@ class Viewer:
         f.close()
         webbrowser.open_new_tab(pagename)
 
+    def LDATopics(self, name, lda, numberTopics):
+        f = open(name, 'w')
+        f.write("""<html><head><h2> LDA - 30 Topics - 40 passes </h2></head><body> <table>""")
+        
+        for index in range(0, numberTopics):
+            f.write("<tr><td> Topic %d </td> <td> %s </td></tr>" % (index, lda.print_topic(index)))
+        f.write("</table></body></html>")
+        f.close()
+        
+        webbrowser.open_new_tab(name)

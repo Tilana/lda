@@ -10,10 +10,12 @@ class Model:
         self.categories = categories
 
 
-    def createModel(self, corpus, dictionary, alpha='auto', eta='auto'):
+    def createModel(self, corpus, dictionary, numberTopics, passes=3):
         if self.name=='LDA':
-            self.model = models.LdaModel(corpus, self.numberTopics, dictionary, iterations=50, passes=3, alpha=alpha, eta=eta) 
-            self.info = str(self.model)
+            print 'LDA'
+            self.model = models.LdaModel(corpus, num_topics = numberTopics, id2word=dictionary, passes=passes) 
+            print 'save Model'
+            self.model.save('dataObjects/'+self.name+'_T%dP%d' % (numberTopics, passes))
         elif self.name=='LSI':
             self.model = models.LsiModel(corpus, self.numberTopics, dictionary)
             self.info = str(self.model)
@@ -22,7 +24,7 @@ class Model:
 
 
     def createTopics(self, word2vec):
-        self.topics = self._tupleToTopicList(self.model.show_topics(formatted=False))
+        self.topics = self._tupleToTopicList(self.model.show_topics(num_topics=self.numberTopics, formatted=False))
         meanScore = []
         for topic in self.topics:
             topic.labelTopic(word2vec, self.categories)

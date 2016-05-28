@@ -16,6 +16,8 @@ class Word2Vec:
             self.net.save_word2vec_format('Word2Vec/text8Net.bin', binary=True)
 
     def getSimilarWords(self, words, nr=5):
+        if not words:
+            return ['default', 'default', 'default', 'default', 'default']
         return zip(*self.net.most_similar(positive=words, topn=nr))[0]
 
     def wordSimilarity(self, w1, w2):

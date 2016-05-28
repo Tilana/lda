@@ -29,7 +29,10 @@ class Topic:
 
     def evaluate(self, word2vec):
         topicWords = word2vec.filterList(self.getTopicWords())
-        self.intruder = word2vec.net.doesnt_match(topicWords)
+        if not topicWords:
+            self.intruder = 'default'
+        else:
+            self.intruder = word2vec.net.doesnt_match(topicWords)
         similarityMatrix = [word2vec.wordToListSimilarity(word, topicWords) for word in topicWords]
 
         self.pairwiseSimilarity = utils.getUpperSymmetrixMatrix(similarityMatrix)

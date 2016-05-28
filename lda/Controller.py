@@ -5,6 +5,7 @@ from Document import Document
 from Model import Model
 from gensim import models 
 import cPickle
+import sPickle
 
 class Controller:
     
@@ -65,7 +66,8 @@ class Controller:
         if getOriginalWords:
             print '   - Store original Dictionary'
             self.dictionary.getOriginalWords(self.collection)
-        self.dictionary.createDictionaryIds()
+        self.dictionary.createDictionaryIds(self.collection)
+        print self.dictionary.ids
 
     def tfidfModel(self):
         self.tfidf = models.TfidfModel(self.corpus, normalize=True)
@@ -90,16 +92,19 @@ class Controller:
         return getattr(self, name)
     
     
-    def topicModel(self, name, numTopics, corpus, topicCoverage=True, relatedDocuments=True, word2vec=None, categories=None, alpha='auto', eta='auto'):
+    def topicModel(self, name, numTopics, corpus, topicCoverage=True, relatedDocuments=True, word2vec=None, categories=None, passes=3):
         model = Model(name, numTopics, categories)
-        model.createModel(corpus, self.dictionary.ids)
+        model.createModel(corpus, self.dictionary.ids, numTopics, passes)
         setattr(self, name, model) 
         modelType = self.getModelType(name)
+        print ' create Topics'
         modelType.createTopics(word2vec)
         if topicCoverage:
+            print ' Topic Coverage'
             for document in self.collection:
                 modelType.computeTopicCoverage(document)
         if relatedDocuments:
+            print ' Related Documents'
             modelType.getTopicRelatedDocuments(self.corpus)
         
 
@@ -132,6 +137,15 @@ class Controller:
     
     def createDocumentList(self, titles, texts):
         return [Document(title, text) for title, text in zip(titles, texts)]
+
+    def saveDocumentCollection(self, path):
+        sPickle.s_dump(self.collection, open(path, 'w'))
+
+    def loadDocumentCollection(self, path):
+        collection = []
+        for document in sPickle.s_load(open(path)):
+            collection.append(document)
+        return collection
 
     def save(self, path):
         f = file(path, 'wb')

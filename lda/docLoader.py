@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
 import json
 import urllib
 import pickle
@@ -17,7 +15,8 @@ def loadCouchdb(path):
 
 def loadTxtFiles(path):
     titles = [txtfile for txtfile in os.listdir(path)]
-    docs = [open(path+'/'+txtfile).read().decode('utf8') for txtfile in os.listdir(path)]
+    docs = [open(path+'/'+txtfile).read() for txtfile in os.listdir(path)]
+#    docs = [open(path+'/'+txtfile).read().decode('utf8') for txtfile in os.listdir(path)]
     return (titles, docs)
 
 
