@@ -34,13 +34,13 @@ class testDocument(unittest.TestCase):
     
     def test_removeSpecialCharacters(self):
         testDocument = Document('', '')
-        testDocument.tokens = set(['child`s', '23.09.1998', 'test entity', 'normal', '$200 000', '809/87', 'http://asfd.org', 'talib@n?', '.', 'end of line.\n'])
+        testDocument.tokens = ['child`s', '23.09.1998', 'test entity', 'normal', '$200 000', '809/87', 'http://asfd.org', '809/87', 'talib@n?', '.', 'end of line.\n']
 
-        testDocument.specialCharacters = set(['23.09.1998', '$200 000', '809/87', 'http://asfd.org', 'talib@n?', '.'])
+        testDocument.specialCharacters = ['23.09.1998', '$200 000', '809/87', 'http://asfd.org', 'talib@n?', '.']
 
         targetDocument = Document('','')
         targetDocument.specialCharacters = ['23.09.1998', '$200 000', '809/87', 'http://asfd.org', 'talib@n?']
-        targetDocument.tokens = set(['child`s', 'test entity', 'normal', 'end of line.\n'])
+        targetDocument.tokens = ['child`s', 'test entity', 'normal', 'end of line.\n']
 
         testDocument.removeSpecialCharacters()
         self.assertEqual(targetDocument.tokens, testDocument.tokens)

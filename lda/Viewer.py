@@ -54,6 +54,13 @@ class Viewer:
         self.listToHtmlTable(f, 'Words in Dictionary', dictionary.ids.values())
         f.write("""</div>""")
         f.write("""<div>""")
+        f.write("""<h4>'High/Low Frequent Words'</h4><table>""" )
+        f.write("""<table>""")
+        f.write("""<col style="width:60%"> <col style="width:50%">""")
+        for items in dictionary.FreqRm:
+            f.write("""<tr> <td>%s  - %d</td> </tr>""" % (items[0].encode('utf8'), items[1]))
+        f.write("""</table>""")
+
         f.write("""</div>""")
 
         f.write("""<div>""")

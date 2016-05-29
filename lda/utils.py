@@ -14,6 +14,11 @@ def lowerList(wordList):
 def listDifference(l):
     return [(elem[1]-elem[0], elem[0]) for elem in zip(l[:-1],l[1:])]
 
+
+def removeAll(l, value):
+    return [elem for elem in l if elem != value]
+    
+
 def containsAny(str, specialChars):
     for letter in str:
         if letter in specialChars:

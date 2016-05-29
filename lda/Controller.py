@@ -92,9 +92,9 @@ class Controller:
         return getattr(self, name)
     
     
-    def topicModel(self, name, numTopics, corpus, topicCoverage=True, relatedDocuments=True, word2vec=None, categories=None, passes=3):
+    def topicModel(self, name, numTopics, corpus, topicCoverage=True, relatedDocuments=True, word2vec=None, categories=None, passes=3, iterations=10):
         model = Model(name, numTopics, categories)
-        model.createModel(corpus, self.dictionary.ids, numTopics, passes)
+        model.createModel(corpus, self.dictionary.ids, numTopics, passes, iterations)
         setattr(self, name, model) 
         modelType = self.getModelType(name)
         print ' create Topics'

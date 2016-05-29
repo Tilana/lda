@@ -2,8 +2,10 @@
 # -*- coding: utf-8 -*-
 from Entities import Entities
 import utils
+import numpy as np
 from nltk.stem import WordNetLemmatizer
 from gensim import corpora
+import matplotlib.pyplot as plt
 
 class Dictionary:
         
@@ -44,6 +46,19 @@ class Dictionary:
     def getDictionaryId(self, word):
         return self.ids.keys()[self.ids.values().index(word)]
 
+    
+    def plotWordDistribution(self, limit=None):
+        if limit==None:
+            distribution = [freq for freq in self.ids.dfs.values() if freq <= limit]
+            plt.hist(distribution, log=True)
+            plt.title('Word-Document Histogram  -  <= %d documents' % limit)
+        else:
+            plt.hist(self.ids.dfs.values(), bins=20, log=True)
+            plt.title('Word-Document Histogram')
+        
+        plt.xlabel('Number of Documents')
+        plt.ylabel('Frequency of Words')
+        plt.show()
 
         
     def findSpecialCharTokens(self, specialCharacters, collection):

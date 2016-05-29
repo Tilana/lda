@@ -23,6 +23,10 @@ class testUtils(unittest.TestCase):
         l = ['Change All', 'words', 'To Lower Case', 'Letters']
         self.assertEqual(utils.lowerList(l), ['change all', 'words', 'to lower case', 'letters'])
 
+    def test_removeAll(self):
+        l = ['a', 'b', 'a', 'b', 'c', 'a']
+        self.assertEqual(utils.removeAll(l, 'a'), ['b', 'b', 'c'])
+
 
     def test_sortTupleList(self):
         l = [('low frequency', 2), ('high frequency', 10), ('middle frequency', 6), ('super high frequency', 299), ('negative frequency', -1)]

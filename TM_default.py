@@ -16,16 +16,17 @@ def TM_default():
     fileType = "folder" # "couchdb" "folder" "csv"
     
     startDoc = 0
-    numberDoc= None
+    numberDoc= None 
     specialChars = set(u'''[,\.\'\`=\":\\\/_+]''')
     includeEntities = 0
     preprocess = 0
     
-    numberTopics = 40 
+    numberTopics = 45 
     passes = 50 
-    identifier = 'T%dP%d' % (numberTopics, passes)
+    iterations = 1000
+    identifier = 'T%dP%dI%d' % (numberTopics, passes, iterations)
     
-    collectionFilename = 'dataObjects/ICAAD_documents_noEntities.txt'
+    collectionFilename = 'dataObjects/ICAAD_documents_preprocessingTest.txt'
    
     categories = ['property', 'minority', 'discrimination', 'violence', 'sexual', 'girl', 'religion', 'social', 'health', 'law', 'legal', 'court', 'state', 'freedom', 'equality', 'death', 'indigenous', 'police', 'refugee', 'health', 'technology', 'drugs', 'robbery', 'weapon', 'abuse', 'nation',  'women', 'education', 'work', 'children', 'human', 'rights', 'torture', 'men', 'government' ,'law', 'culture', 'journalist', 'corruption', 'politics', 'accident', 'system', 'finance']
 
@@ -38,6 +39,7 @@ def TM_default():
         ctrl.loadCollection(path, fileType, startDoc, numberDoc)
         ctrl.prepareDocumentCollection(lemmatize=True, includeEntities=False, stopwords=STOPWORDS, removeShortTokens=True, specialChars=specialChars)
         ctrl.saveDocumentCollection(collectionFilename)
+
     
     print 'Create Dictionary'
     dictionary = corpora.Dictionary()
@@ -45,12 +47,39 @@ def TM_default():
     for document in sPickle.s_load(open(collectionFilename)):
         collection.append(document)
         dictionary.add_documents([document.tokens])
-#    dictionary.filter_extremes(no_below=7, no_above=0.7)
+    
     print 'Filter extremes'
-    dictionary.filter_extremes()
+    orgDfs = dictionary.dfs
+    orgValues = dictionary.values()
+    orgIndex = dictionary.values().index
+    orgKeys = dictionary.keys()
 
+    ctrl.dictionary.ids = dictionary
+    ctrl.dictionary.plotWordDistribution()
+    ctrl.dictionary.plotWordDistribution(10)
+
+
+
+    dictionary.filter_extremes(no_below=4, no_above=0.85)
+    filteredDictValues = dictionary.values()
+    removedValues = list(set(orgValues) - set(filteredDictValues))
     ctrl.collection = collection
     ctrl.dictionary.ids = dictionary
+
+    print 'Get Frequency of removed words'
+    print len(orgValues)
+    print len(removedValues)
+    ctrl.dictionary.FreqRm = [(word, orgDfs[orgKeys[orgIndex(word)]]) for word in removedValues[0:100]]
+    
+
+    print 'Get removed special character words'
+    ctrl.dictionary.specialCharacters = set()  
+    [ctrl.dictionary.specialCharacters.update(doc.specialCharacters) for doc in ctrl.collection] 
+
+    ctrl.dictionary.stopwords = STOPWORDS
+   
+    html = Viewer()
+    html.htmlDictionary(ctrl.dictionary)
 
     print 'Create Corpus'
     ctrl.corpus = [dictionary.doc2bow(document.tokens) for document in collection] 
@@ -61,29 +90,20 @@ def TM_default():
     for document in ctrl.collection:
         ctrl.computeVectorRepresentation(document)
         ctrl.computeFrequentWords(document)
-
-    lda = models.LdaModel(ctrl.corpus, num_topics=numberTopics, id2word=dictionary, passes=passes)
-    lda.save('dataObjects/LDA_TM_%s' %identifier)
-
-    pagename='html/ldaTopics%s.html' % identifier
-    lda.print_topics()
-
-    Viewer()
-    Viewer.LDATopics(pagename, lda, numberTopics)
-
     
-    print 'Topic Modeling'
-    ctrl.topicModel('LDA', numberTopics, ctrl.tfidf[ctrl.corpus], topicCoverage=True, relatedDocuments=True, word2vec=word2vec, categories=categories, passes=passes)
+    print 'Topic Modeling - LDA'
+    ctrl.topicModel('LDA', numberTopics, ctrl.corpus, topicCoverage=False, relatedDocuments=False, word2vec=word2vec, categories=categories, passes=passes, iterations=iterations)
+    html.printTopics(ctrl.LDA)
+
+    import sys
+    sys.exit()
 
     print 'Similarity Analysis'
-    ctrl.similarityAnalysis('LDA', ctrl.tfidf[ctrl.corpus])
+    ctrl.similarityAnalysis('LDA', ctrl.corpus)
 
-    ctrl.saveDocumentCollection(collectionFilename)
+    #ctrl.saveDocumentCollection(collectionFilename)
 
     print 'Create HTML Files'
-    html = Viewer()
-    html.htmlDictionary(ctrl.dictionary)
-    html.printTopics(ctrl.LDA)
     html.printDocuments(ctrl)# , openHtml=True)
     html.printDocsRelatedTopics(ctrl.LDA, ctrl.collection, openHtml=False)
    

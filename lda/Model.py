@@ -1,6 +1,7 @@
 from Topic import Topic
 from gensim import models, similarities
 import utils
+import logging
 
 class Model:
 
@@ -10,12 +11,13 @@ class Model:
         self.categories = categories
 
 
-    def createModel(self, corpus, dictionary, numberTopics, passes=3):
+    def createModel(self, corpus, dictionary, numberTopics, passes=3, iterations=10):
+        logging.basicConfig(format='%(asctime)s: %(levelname)s : %(message)s', level=logging.INFO)
         if self.name=='LDA':
             print 'LDA'
-            self.model = models.LdaModel(corpus, num_topics = numberTopics, id2word=dictionary, passes=passes) 
+            self.model = models.LdaModel(corpus, num_topics = numberTopics, id2word=dictionary, passes=passes, iterations=iterations , update_every=1) 
             print 'save Model'
-            self.model.save('dataObjects/'+self.name+'_T%dP%d' % (numberTopics, passes))
+            self.model.save('dataObjects/'+self.name+'_T%dP%dI%d' % (numberTopics, passes, iterations))
         elif self.name=='LSI':
             self.model = models.LsiModel(corpus, self.numberTopics, dictionary)
             self.info = str(self.model)
