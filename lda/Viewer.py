@@ -25,8 +25,14 @@ class Viewer:
                 f.write("""<tr><td>%s </td> <td> %.4f </td></tr>""" % (items[0].encode('utf8'), items[1]))
 
         f.write("""</table>""")
-    
-    
+
+
+    def printColumn(self, f, title, l):
+        f.write("""<div>""")
+        self.listToHtmlTable(f, title + '- %d' % len(l), l)
+        f.write("""</div>""")
+
+
     def printConfusionMatrix(self, f, matrix):
         f.write("""<h4> Confusion Matrix </h4><table>""" )
         f.write("""<tr> <td>. </td> <td> Predicted  </td> <td> Label </td></tr>""")
@@ -65,16 +71,12 @@ class Viewer:
         name = 'html/dictionaryCollection.html'
         f = open(name, 'w')
         f.write("""<html><head><h1>Dictionary of Document Collection</h1><style type="text/css"> body>div {width: 23%; float: left; border: 1px solid} </style></head>""") 
-        f.write("""<body> <p> number of words in dictionary: %s </p><div>""" % len(dictionary.ids.values()))
-        self.listToHtmlTable(f, 'Words in Dictionary', dictionary.ids.values())
-        f.write("""</div>""")
-        f.write("""<div>""")
-        self.listToHtmlTable(f, 'Removed Special Characters', dictionary.specialCharacters)
-        f.write("""</div>""")
-        f.write("""<div>""")
-        self.listToHtmlTable(f, 'Stopwords', dictionary.stopwords)
 
-        f.write("""</div></body></html>""")
+        f.write("""<body>""")
+        self.printColumn(f, 'Words in Dictionary ', dictionary.ids.values())
+        self.printColumn(f, 'Removed Special Characters ', dictionary.specialCharacters)
+        self.printColumn(f, 'Stopwords ', dictionary.stopwords)
+        f.write("""</body></html>""")
         f.close()
         webbrowser.open_new_tab('html/dictionaryCollection.html')
 
