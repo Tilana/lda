@@ -33,8 +33,24 @@ class Controller:
             numberDocs = len(titles)
         self.collection = self.createDocumentList(titles[startDoc:startDoc + numberDocs], texts[startDoc:startDoc + numberDocs])
     
-    def createCorpus(self):
-        self.corpus = [self.dictionary.ids.doc2bow(document.tokens) for document in self.collection]
+    def createCorpus(self, dictionary):
+        corpus = []
+        for document in self.collection:
+            vectorRepresentation = dictionary.ids.doc2bow(document.tokens)
+            corpus.append(vectorRepresentation)
+            document.setAttribute('vectorRepresentation', vectorRepresentation)
+        return corpus
+
+
+
+
+
+    def loadPreprocessedCollection(self, filename):
+        collection = []
+        for doc in sPickle.s_load(open(filename)):
+            collection.append(doc)
+        return collection
+
 
 
     def createEntityCorpus(self):
@@ -69,18 +85,20 @@ class Controller:
         self.dictionary.createDictionaryIds(self.collection)
         print self.dictionary.ids
 
+
     def tfidfModel(self):
         self.tfidf = models.TfidfModel(self.corpus, normalize=True)
 
 
-    def computeFrequentWords(self, document, N=10):
-        docRepresentation = self.tfidf[document.vectorRepresentation]
+    def computeRelevantWords(self, tfidf, dictionary, document, N=10):
+        docRepresentation = tfidf[document.vectorRepresentation]
         freqWords = sorted(docRepresentation, key=lambda frequency: frequency[1], reverse=True)[0:N]
-        document.setAttribute('freqWords', self._decodeDictionaryIds(freqWords))
+        freqWords = [(dictionary.getWord(item[0]), item[1]) for item in freqWords]
+#        document.setAttribute('freqWords', self._decodeDictionaryIds(dictionary, freqWords))
+        document.setAttribute('freqWords', freqWords)
 
-
-    def _decodeDictionaryIds(self, l):
-        return [(self.dictionary.ids.get(tup[0]).encode('utf8'), tup[1]) for tup in l]
+#    def _decodeDictionaryIds(self, dictionary, l):
+#        return [(dictionary.ids.get(tup[0]).encode('utf8'), tup[1]) for tup in l]
 
 
     def createFrequentWords(self, N=10):
@@ -92,28 +110,28 @@ class Controller:
         return getattr(self, name)
     
     
-    def topicModel(self, name, numTopics, corpus, topicCoverage=True, relatedDocuments=True, word2vec=None, categories=None, passes=3, iterations=10):
-        model = Model(name, numTopics, categories)
-        model.createModel(corpus, self.dictionary.ids, numTopics, passes, iterations)
-        setattr(self, name, model) 
-        modelType = self.getModelType(name)
-        print ' create Topics'
-        modelType.createTopics(word2vec)
-        if topicCoverage:
-            print ' Topic Coverage'
-            for document in self.collection:
-                modelType.computeTopicCoverage(document)
-        if relatedDocuments:
-            print ' Related Documents'
-            modelType.getTopicRelatedDocuments(self.corpus)
+#    def topicModel(self, name, numTopics, corpus, topicCoverage=True, relatedDocuments=True, word2vec=None, categories=None, passes=3, iterations=10):
+#        model = Model(name, numTopics, categories)
+#        model.createModel(corpus, self.dictionary.ids, numTopics, passes, iterations)
+#        setattr(self, name, model) 
+#        modelType = self.getModelType(name)
+#        print ' create Topics'
+#        modelType.createTopics(word2vec)
+#        if topicCoverage:
+#            print ' Topic Coverage'
+#            for document in self.collection:
+#                modelType.computeTopicCoverage(document)
+#        if relatedDocuments:
+#            print ' Related Documents'
+#            modelType.getTopicRelatedDocuments(self.corpus)
         
 
 
-    def similarityAnalysis(self, name='LDA', corpus=None):
-        modelType = self.getModelType(name)
-        modelType.computeSimilarityMatrix(corpus)
-        for document in self.collection:
-            modelType.computeSimilarity(document)
+#    def similarityAnalysis(self, name='LDA', corpus=None):
+#        modelType = self.getModelType(name)
+#        modelType.computeSimilarityMatrix(corpus)
+#        for document in self.collection:
+#            modelType.computeSimilarity(document)
 
 
     def applyToAllDocuments(self, f):

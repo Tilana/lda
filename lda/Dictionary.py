@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 from Entities import Entities
 import utils
-import numpy as np
 from nltk.stem import WordNetLemmatizer
 from gensim import corpora
 import matplotlib.pyplot as plt
@@ -20,6 +19,9 @@ class Dictionary:
             if not doc.hasTokenAttribute():
                 doc.createTokens()
             self.ids.add_documents([doc.tokens])
+    
+    def setSpecialCharacters(self, collection):
+        [self.specialCharacters.update(doc.specialCharacters) for doc in collection]
 
     def setDictionary(self, wordList=None):
         self.words = set(utils.lowerList(wordList))
@@ -46,14 +48,19 @@ class Dictionary:
     def getDictionaryId(self, word):
         return self.ids.keys()[self.ids.values().index(word)]
 
+
+    def getWord(self, index):
+        return self.ids.get(index)
+
     
-    def plotWordDistribution(self, limit=None):
-        if limit==None:
-            distribution = [freq for freq in self.ids.dfs.values() if freq <= limit]
+    def plotWordDistribution(self, start=None, end=None):
+        if start != None:
+            distribution = [freq+1 for freq in self.ids.dfs.values() if freq>=start and freq <= end]
             plt.hist(distribution, log=True)
-            plt.title('Word-Document Histogram  -  <= %d documents' % limit)
+            plt.title('Word-Document Histogram  %d -  %d documents' % (start, end))
         else:
-            plt.hist(self.ids.dfs.values(), bins=20, log=True)
+            distribution = [freq+1 for freq in self.ids.dfs.values()]
+            plt.hist(distribution, bins=20, log=True)
             plt.title('Word-Document Histogram')
         
         plt.xlabel('Number of Documents')
@@ -92,6 +99,13 @@ class Dictionary:
     
     def encodeWord(self, word):
         return self.ids.get(word)
+
+    def invertDFS(self):
+        self.inverseDFS = {}
+        for key, value in self.ids.dfs.items():
+            if value not in self.inverseDFS:
+                self.inverseDFS[value] = []
+            self.inverseDFS[value].append(self.ids.get(key))
     
     
     def _addDocumentEntities(self, collection):
@@ -99,4 +113,5 @@ class Dictionary:
             self.entities.addEntities(tag, set().union(*[getattr(document.entities, tag) for document in collection]))
         for entity in self.entities.getEntities():
             self.words.add(entity[0].lower())
+
  

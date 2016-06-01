@@ -2,6 +2,7 @@ from Topic import Topic
 from gensim import models, similarities
 import utils
 import logging
+import os.path
 
 class Model:
 
@@ -13,16 +14,31 @@ class Model:
 
     def createModel(self, corpus, dictionary, numberTopics, passes=3, iterations=10):
         logging.basicConfig(format='%(asctime)s: %(levelname)s : %(message)s', level=logging.INFO)
-        if self.name=='LDA':
-            print 'LDA'
-            self.model = models.LdaModel(corpus, num_topics = numberTopics, id2word=dictionary, passes=passes, iterations=iterations , update_every=1) 
+        path = 'TopicModel/'+self.name+'_T%dP%dI%d' % (numberTopics, passes, iterations)
+        if not os.path.exists(path):
+            if self.name=='LDA':
+#                self.model = models.LdaModel(corpus, num_topics = numberTopics, id2word=dictionary, passes=passes, iterations=iterations , update_every=0)
+                self.model = models.LdaMulticore(corpus, num_topics = numberTopics, id2word=dictionary, passes=passes, iterations=iterations , batch=1)
+
+            elif self.name=='LSI':
+                self.model = models.LsiModel(corpus, self.numberTopics, dictionary)
+                self.info = str(self.model)
+            else:
+                print 'Unkown Model type'
             print 'save Model'
-            self.model.save('dataObjects/'+self.name+'_T%dP%dI%d' % (numberTopics, passes, iterations))
-        elif self.name=='LSI':
-            self.model = models.LsiModel(corpus, self.numberTopics, dictionary)
-            self.info = str(self.model)
+            self.model.save(path)
         else:
-            print 'Unkown Model type'
+            print 'Load Model'
+            self.model = models.LdaModel.load(path)
+
+
+
+   
+
+
+
+    def load(self, path):
+        self.model = models.load(path)
 
 
     def createTopics(self, word2vec):

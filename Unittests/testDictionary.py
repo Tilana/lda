@@ -2,6 +2,7 @@ import unittest
 from lda import Dictionary
 from lda import Entities
 from lda import Document
+from gensim import corpora
 
 class testDictionary(unittest.TestCase):
 
@@ -31,11 +32,11 @@ class testDictionary(unittest.TestCase):
         self.targetDictionary.words = set(['create', 'dictionary entries', 'manually'])
         self.assertEqual(self.targetDictionary.words, self.testDictionary.words)
     
-    def test_createDictionaryIds(self):
-        self.testDictionary.words = set(['test', 'if', 'this', 'test', 'set', 'is', 'converted', 'to', 'a', 'dictionary', 'representation', 'with', 'a', 'corpus'])
-        self.testDictionary.createDictionaryIds()
-        self.targetDictionary.ids = {7:u'test', 11:u'if', 3:u'this', 1:u'set', 4:u'is', 6:u'converted', 5:u'to', 0:u'a', 2:u'dictionary', 8:u'representation', 9:u'corpus', 10:u'with'}
-        self.assertEqual(self.testDictionary.ids.items(), self.targetDictionary.ids.items())
+#    def test_createDictionaryIds(self):
+#        collection = [Document()'test', 'if', 'this', 'test', 'set', 'is', 'converted', 'to', 'a', 'dictionary', 'representation', 'with', 'a', 'corpus'])
+#        self.testDictionary.createDictionaryIds()
+#        self.targetDictionary.ids = {7:u'test', 11:u'if', 3:u'this', 1:u'set', 4:u'is', 6:u'converted', 5:u'to', 0:u'a', 2:u'dictionary', 8:u'representation', 9:u'corpus', 10:u'with'}
+#        self.assertEqual(self.testDictionary.ids.items(), self.targetDictionary.ids.items())
 
     
     def test_getDictionaryId(self):
@@ -107,6 +108,12 @@ class testDictionary(unittest.TestCase):
         testDictionary.createEntities(collection)
         self.assertEqual(testEntities.__dict__, testDictionary.entities.__dict__)
 
+
+    def test_invertDFS(self):
+        self.testDictionary.ids.add_documents([['word', 'three', 'appears', 'twice'], ['once', 'three', 'appears', 'word'], ['three', 'twice']])
+        inverseDFS = {1:['once'], 2:['twice', 'word', 'appears'], 3:['three']}
+        self.testDictionary.invertDFS()
+        self.assertEqual(inverseDFS, self.testDictionary.inverseDFS)
 
 
 

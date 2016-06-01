@@ -45,24 +45,29 @@ class Viewer:
 
         f.write("""</table>""")
 
-    
+    def wordFrequency(self, dictionary, start=1, end=9):
+        name = 'html/wordDocFrequency%d%d.html' % (start, end)
+        f = open(name, 'w')
+        f.write("""<html><head><h1> Frequency of words in documents</h1><style type="text/css"> body>div {width: 10%; float: left; border: 1px solid} </style></head>""") 
+        f.write("""<body>""")
+        for frequency in range(start,end):
+            words = dictionary.inverseDFS.get(frequency, [])
+            if words:
+                 f.write("""<div>""")
+                 self.listToHtmlTable(f, ('Frequency=%d Number of Words: %d' % (frequency, len(words))), words)
+                 f.write("""</div>""")
+        f.write("""</body></html>""")
+        f.close()
+        webbrowser.open_new_tab('html/wordDocFrequency%d%d.html' % (start, end))
+
+
     def htmlDictionary(self, dictionary):
         name = 'html/dictionaryCollection.html'
         f = open(name, 'w')
         f.write("""<html><head><h1>Dictionary of Document Collection</h1><style type="text/css"> body>div {width: 23%; float: left; border: 1px solid} </style></head>""") 
-        f.write("""<body> <p> number of words in dictionary: %s </p><div>""" % len(dictionary.ids))
+        f.write("""<body> <p> number of words in dictionary: %s </p><div>""" % len(dictionary.ids.values()))
         self.listToHtmlTable(f, 'Words in Dictionary', dictionary.ids.values())
         f.write("""</div>""")
-        f.write("""<div>""")
-        f.write("""<h4>'High/Low Frequent Words'</h4><table>""" )
-        f.write("""<table>""")
-        f.write("""<col style="width:60%"> <col style="width:50%">""")
-        for items in dictionary.FreqRm:
-            f.write("""<tr> <td>%s  - %d</td> </tr>""" % (items[0].encode('utf8'), items[1]))
-        f.write("""</table>""")
-
-        f.write("""</div>""")
-
         f.write("""<div>""")
         self.listToHtmlTable(f, 'Removed Special Characters', dictionary.specialCharacters)
         f.write("""</div>""")
@@ -93,9 +98,10 @@ class Viewer:
         webbrowser.open_new_tab(filename)
     
     
-    def printDocuments(self, model, topics=1, openHtml=False):
-        for ind, doc in enumerate(model.collection):
+    def printDocuments(self, collection, lda, topics=1, openHtml=False):
+        for ind, doc in enumerate(collection):
             pagename = 'html/doc%02d.html' % ind
+            attributes = doc.__dict__.keys()
             f = open(pagename, 'w')
             f.write("<html><head><h1>Document %02d - %s</h1></head>" % (ind, doc.title))
 #            f.write("<html><head><h1>Document %02d - %s</h1></head>" % (ind, doc.title.encode('utf-8')))
@@ -106,32 +112,35 @@ class Viewer:
            #     topicNr = coverage[0]
            #     f.write("""<tr><td><a href='LSItopic%d.html'>Topic %d</a</td> <td> %s </td> <td> %.2f</td> </tr>""" % (topicNr, topicNr, model.LSI.topics[topicNr].keywords[0:2], coverage[1]))
            # f.write("</table>")
-
-            f.write("""<h4> LDA Topic coverage:</h4><table>""")
-            f.write("""<col style="width:20%"> <col style="width:50%"> <col style = "width:30%"> """)
-            for coverage in doc.LDACoverage[0:5]:
-                topicNr = coverage[0]
-                f.write("""<tr><td><a href='LDAtopic%d.html'>Topic %d</a</td> <td> %s</td> <td> Coverage %.2f</td></tr>""" % (topicNr, topicNr, model.LDA.topics[topicNr].keywords[0:2], coverage[1]))
-            f.write("</table>")
+            if 'LDACoverage' in attributes:
+                f.write("""<h4> LDA Topic coverage:</h4><table>""")
+                f.write("""<col style="width:20%"> <col style="width:50%"> <col style = "width:30%"> """)
+                for coverage in doc.LDACoverage[0:5]:
+                    topicNr = coverage[0]
+                    f.write("""<tr><td><a href='LDAtopic%d.html'>Topic %d</a</td> <td> %s</td> <td> Coverage %.2f</td></tr>""" % (topicNr, topicNr, lda.topics[topicNr].keywords[0:2], coverage[1]))
+                f.write("</table>")
            
-            if hasattr(doc, 'targetCategories'):
+            if 'targetCategories' in attributes:
                 self.listToHtmlTable(f, 'Target Categories', doc.targetCategories)
 
-            f.write("""<h4>Relevant Words in Document: \n</h4><table>""")
-            f.write("""<col style="width:40%"> <col style="width:50%">""")
-            for freqWord in doc.freqWords:
-                f.write("""<tr><td>%s </td><td> %.2f</td></tr>""" % (freqWord[0], freqWord[1])) 
-            f.write("</table>")
+            if 'freqWords' in attributes:
+                self.printTupleList(f, 'Relevant Words (TF-IDF)', doc.freqWords, 'float')
+                #f.write("""<h4>Relevant Words in Document: \n</h4><table>""")
+                #f.write("""<col style="width:40%"> <col style="width:50%">""")
+                #for freqWord in doc.freqWords:
+                #    f.write("""<tr><td>%s </td><td> %.2f</td></tr>""" % (freqWord[0], freqWord[1])) 
+                #f.write("</table>")
 
-            if hasattr(doc, 'mostFrequentEntities'):
+            if 'mostFrequentEntities' in attributes:
                 self.printTupleList(f, 'Most frequent entities', doc.mostFrequentEntities)
-           
-            f.write("""<h4>Similar documents: \n</h4><table>""")
-            f.write("""<col style="width:40%"> <col style="width:50%">""")
-            for similarDoc in doc.LDASimilarity:
-                f.write("""<tr><td><a href='doc%02d.html'>Document %d</a></td>""" % (similarDoc[0], similarDoc[0]))
-                f.write("""<td> Similarity: %.4f</td></tr>""" % similarDoc[1])
-            f.write("""</table>""")
+
+            if 'LDASimilarity' in attributes:
+                f.write("""<h4>Similar documents: \n</h4><table>""")
+                f.write("""<col style="width:40%"> <col style="width:50%">""")
+                for similarDoc in doc.LDASimilarity:
+                    f.write("""<tr><td><a href='doc%02d.html'>Document %d</a></td>""" % (similarDoc[0], similarDoc[0]))
+                    f.write("""<td> Similarity: %.4f</td></tr>""" % similarDoc[1])
+                f.write("""</table>""")
 
 
             f.write("""<h4> Named Entities: \n</h4>""")
