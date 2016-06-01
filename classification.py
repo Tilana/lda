@@ -1,5 +1,4 @@
-from lda import ClassificationModel
-from lda import Viewer
+from lda import ClassificationModel, Viewer
 from sklearn.tree import DecisionTreeClassifier
 
 def classification():

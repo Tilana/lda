@@ -12,7 +12,7 @@ class Collection:
     def __init__(self):
         self.documents = [] 
 
-    def loadCollection(self, path=None, fileType=0, startDoc="couchdb", numberDocs=None):
+    def load(self, path=None, fileType=0, startDoc="couchdb", numberDocs=None):
         if path is not None and fileType=="couchdb":
             urllib2.urlopen(urllib2.Request(path)) 
             (titles, texts) = docLoader.loadCouchdb(path)

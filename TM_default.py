@@ -1,10 +1,6 @@
 #!/usr/bin/python
 #-*- coding: utf-8 -*-
-from lda import Viewer
-from lda import Model
-from lda import Dictionary
-from lda import Collection 
-from lda import Word2Vec
+from lda import Collection, Dictionary, Model, Viewer
 from gensim.parsing.preprocessing import STOPWORDS
 from gensim import models
 import os.path
@@ -19,11 +15,11 @@ def TM_default():
     numberDoc= None 
     specialChars = set(u'''[,\.\'\`=\":\\\/_+]''')
     includeEntities = 0
-    preprocess = 0
+    preprocess = 1
     
-    numberTopics = 5 
-    passes = 4 
-    iterations = 10
+    numberTopics = 50
+    passes = 70 
+    iterations = 1000
     identifier = 'T%dP%dI%d' % (numberTopics, passes, iterations)
     
     collectionFilename = 'dataObjects/ICAAD_documents_preprocessingTest.txt'
@@ -34,12 +30,11 @@ def TM_default():
 
     #### MODEL ####
     collection = Collection()
-    word2vec = Word2Vec()
     html = Viewer()
     
     if not os.path.exists(collectionFilename) or preprocess:
         print 'Load and preprocess Document Collection'
-        collection.loadCollection(path, fileType, startDoc, numberDoc)
+        collection.load(path, fileType, startDoc, numberDoc)
         collection.prepareDocumentCollection(lemmatize=True, includeEntities=False, stopwords=STOPWORDS, removeShortTokens=True, specialChars=specialChars)
         collection.saveDocumentCollection(collectionFilename)
     else:
@@ -47,8 +42,8 @@ def TM_default():
         collection.loadPreprocessedCollection(collectionFilename)
 
     print 'Create Dictionary'
-    dictionary = Dictionary()
-    dictionary.createDictionaryIds(collection.documents)
+    dictionary = Dictionary(STOPWORDS)
+    dictionary.addDocuments(collection.documents)
 
     if analyseDictionary:
         'Analyse Word Frequency'
@@ -63,15 +58,10 @@ def TM_default():
         html.wordFrequency(dictionary, 100, 2000)
         html.wordFrequency(dictionary, 2000, collection.amount) 
     
-    
     print 'Filter extremes'
-    dictionary.ids.filter_extremes(no_below=9, no_above=0.6)
+    dictionary.ids.filter_extremes(no_below=9, no_above=0.45)
     if analyseDictionary:
         dictionary.plotWordDistribution()
-
-    dictionary.setSpecialCharacters(collection.documents)
-    dictionary.stopwords = STOPWORDS
-   
     html.htmlDictionary(dictionary)
     
     print 'Create Corpus'
@@ -83,7 +73,7 @@ def TM_default():
     print 'Topic Modeling - LDA'
     lda = Model('LDA', numberTopics, categories)
     lda.createModel(corpus, dictionary.ids, numberTopics, passes, iterations)
-    lda.createTopics(word2vec)
+    lda.createTopics()
 
     print 'Similarity Analysis'
     lda.computeSimilarityMatrix(corpus, num_best = 7)
@@ -94,7 +84,7 @@ def TM_default():
         print 'Topic Coverage'
         lda.computeTopicCoverage(document)
         print 'Related Docs'
-        lda.getTopicRelatedDocuments(corpus)
+#        lda.getTopicRelatedDocuments(corpus)
         print 'Similarity'
         lda.computeSimilarity(document)
         print 'RelevantWords'

@@ -1,4 +1,5 @@
 from Topic import Topic
+from Word2Vec import Word2Vec
 from gensim import models, similarities
 import utils
 import logging
@@ -32,16 +33,12 @@ class Model:
             self.model = models.LdaModel.load(path)
 
 
-
-   
-
-
-
     def load(self, path):
         self.model = models.load(path)
 
 
-    def createTopics(self, word2vec):
+    def createTopics(self):
+        word2vec = Word2Vec()
         self.topics = self._tupleToTopicList(self.model.show_topics(num_topics=self.numberTopics, formatted=False))
         meanScore = []
         for topic in self.topics:

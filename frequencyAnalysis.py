@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-from lda import Viewer 
-from lda import Controller
-from lda import Entities
-from lda import utils
+from lda import Collection, Entities, utils, Viewer 
 from lda import dataframeUtils as df
 import csv
 import pandas
@@ -29,13 +26,13 @@ def frequencyAnalysis():
 
     
     #### FREQUENCY ANALYSIS ####
-    ctrl = Controller()
-    ctrl.loadCollection(path, filetype, startDoc, docNumber)
+    collection = Collection()
+    collection.load(path, filetype, startDoc, docNumber)
 
-    ctrl.undetectedKeywords = [] 
-    ctrl.numberKeywords = 0
+    collection.undetectedKeywords = [] 
+    collection.numberKeywords = 0
 
-    for ind, doc in enumerate(ctrl.collection):
+    for ind, doc in enumerate(collection.collection):
         
         doc.name = doc.title.replace('_', '/')[:-5]
         keywordFrequency = utils.countOccurance(doc.text, keywords)
@@ -46,25 +43,25 @@ def frequencyAnalysis():
 
         targetKeywords = df.getRow(assignedKeywords, 'Symbol', doc.name, ['Topic 1', 'Topic 2', 'Topic 3'])
         targetKeywords = [keyword for keyword in targetKeywords if not str(keyword) =='nan'] 
-        ctrl.numberKeywords += len(targetKeywords)
+        collection.numberKeywords += len(targetKeywords)
 
         doc.assignedKeywords = []
         
         for keyword in targetKeywords:
             isDetected = keyword.lower() in mostFrequentWords 
             if not isDetected:
-                ctrl.undetectedKeywords.append((doc.name, keyword))
+                collection.undetectedKeywords.append((doc.name, keyword))
             doc.assignedKeywords.append((keyword.lower(), isDetected))
 
-    ctrl.save(filename)
+    collection.save(filename)
 
     html = Viewer()
-    html.freqAnalysis(ctrl.collection, openHtml=False)
-    html.freqAnalysis_eval(ctrl)
+    html.freqAnalysis(collection.collection, openHtml=False)
+    html.freqAnalysis_eval(collection)
 
     with open('freqAnalysisOutput.csv', 'wb') as csvfile:
         writer = csv.writer(csvfile)
-        [writer.writerow([doc.name] + doc.mostFrequent) for doc in ctrl.collection]
+        [writer.writerow([doc.name] + doc.mostFrequent) for doc in collection.collection]
 
       
 if __name__ == "__main__":
