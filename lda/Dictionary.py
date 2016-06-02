@@ -19,12 +19,15 @@ class Dictionary:
 #                doc.createTokens()
 #            self.ids.add_documents([doc.tokens])
 
-    def addDocuments(self, collection):
+    def addCollection(self, collection):
         for document in collection:
-            if document.hasTokenAttribute():
-                self.ids.add_documents([document.tokens])
-            if document.hasSpecialCharAttribute():
-                self.specialCharacters.update(document.specialCharacters)
+            self.addDocument(document)
+
+    def addDocument(self, document):
+        if document.hasTokenAttribute():
+            self.ids.add_documents([document.tokens])
+        if document.hasSpecialCharAttribute():
+            self.specialCharacters.update(document.specialCharacters)
 
     
 #    def setSpecialCharacters(self, collection):
@@ -42,15 +45,15 @@ class Dictionary:
 #        for document in collection:
 #            self.addDocument(document)
 
-    def addStopwords(self, listStopwords):
-        self.stopwords.update(utils.lowerList(listStopwords))
-        self.removeStopwords()
+#    def addStopwords(self, listStopwords):
+#        self.stopwords.update(utils.lowerList(listStopwords))
+#        self.removeStopwords()
+#
+#    def removeStopwords(self):
+#        [self.words.discard(stopword) for stopword in self.stopwords]
 
-    def removeStopwords(self):
-        [self.words.discard(stopword) for stopword in self.stopwords]
-
-    def addWords(self, wordList):
-        [self.words.add(word) for word in utils.lowerList(wordList) if word not in self.stopwords]
+#    def addWords(self, wordList):
+#        [self.words.add(word) for word in utils.lowerList(wordList) if word not in self.stopwords]
 
     def getDictionaryId(self, word):
         return self.ids.keys()[self.ids.values().index(word)]

@@ -1,6 +1,5 @@
 from Entities import Entities
 import utils
-import re
 import nltk
 from nltk.stem import WordNetLemmatizer
 
@@ -42,17 +41,10 @@ class Document:
         self.tokens = [wordnet.lemmatize(wordnet.lemmatize(word, 'v')) for word in self.tokens]
 
     def findSpecialCharacterTokens(self, specialCharacters):
-       # specialChars = []
-       # for word in self.tokens:
-       #     if utils.containsAny(word, specialCharacters):
-       #         specialChars.append(word)
-       # self.specialCharacters = specialChars
-
         self.specialCharacters =  [word for word in self.tokens if utils.containsAny(word, specialCharacters)]
 
     def removeSpecialCharacters(self):
         for specialChar in self.specialCharacters:
-        #    self.tokens = utils.removeAll(self.tokens, specialChar)
             self.tokens.remove(specialChar)
 
     def hasTokenAttribute(self):

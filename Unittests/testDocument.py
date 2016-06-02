@@ -23,27 +23,22 @@ class testDocument(unittest.TestCase):
 
     def test_findSpecialCharacterTokens(self):
         testDocument = Document('', '')
-        testDocument.tokens = set(['child`s', '23.09.1998', 'test entity', 'normal', '$200 000', '809/87', 'http://asfd.org', 'talib@n?', 'end of line.\n', '.'])
+        testDocument.tokens = ['child`s', '23.09.1998', 'test entity', 'normal', '$200 000', '809/87', 'http://asfd.org', 'talib@n?', 'end of line.\n', '.']
         specialChars = r'.*[@./,:$©].*'
         testDocument.findSpecialCharacterTokens(specialChars)
 
         targetDocument = Document('','')
-        targetDocument.tokens = set(['child`s', '23.09.1998', 'test entity', 'normal', '$200 000', '809/87', 'http://asfd.org', 'talib@n?'])
-        targetDocument.specialCharacters = set(['23.09.1998', '$200 000', '809/87', 'http://asfd.org', 'talib@n?', 'end of line.\n', '.'])
-        self.assertEqual(targetDocument.specialCharacters, testDocument.specialCharacters)
+        targetDocument.specialCharacters = ['23.09.1998', '$200 000', '809/87', 'http://asfd.org', 'talib@n?', 'end of line.\n', '.']
+        self.assertEqual(set(targetDocument.specialCharacters), set(testDocument.specialCharacters))
     
     def test_removeSpecialCharacters(self):
         testDocument = Document('', '')
         testDocument.tokens = ['child`s', '23.09.1998', 'test entity', 'normal', '$200 000', '809/87', 'http://asfd.org', '809/87', 'talib@n?', '.', 'end of line.\n']
-
         testDocument.specialCharacters = ['23.09.1998', '$200 000', '809/87', 'http://asfd.org', 'talib@n?', '.']
 
-        targetDocument = Document('','')
-        targetDocument.specialCharacters = ['23.09.1998', '$200 000', '809/87', 'http://asfd.org', 'talib@n?']
-        targetDocument.tokens = ['child`s', 'test entity', 'normal', 'end of line.\n']
-
+        target= set(['child`s', '809/87', 'test entity', 'normal', 'end of line.\n'])
         testDocument.removeSpecialCharacters()
-        self.assertEqual(targetDocument.tokens, testDocument.tokens)
+        self.assertEqual(target, set(testDocument.tokens))
 
     def test_createTokens(self):
         testDocument = Document('Test Doc', 'Test of tokenization\n dates like 12.03.1998, 103/78 and Words should be lowered and appear more more often.?')
