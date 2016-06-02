@@ -30,6 +30,13 @@ def loadCsvFile(path):
     return (titles, docs)
 
 
+def loadCategories(path):
+    f = open(path, 'r')
+    categories = f.readlines()
+    f.close()
+    return [wordlist.split() for wordlist in categories]
+
+
 def removeSpecialChars(text, verbosity=0):
     encodedText = []
     for word in text.split():

@@ -1,14 +1,15 @@
 #!/usr/bin/python
 #-*- coding: utf-8 -*-
 from lda import Collection, Dictionary, Model, Viewer
+from lda import docLoader.loadCategories
 from gensim.parsing.preprocessing import STOPWORDS
-from gensim import models
+from gensim.models import TfidfModel
 import os.path
 
 def TM_default():
 
     #### PARAMETERS ####
-    path = "Documents/ICAAD/txt"
+    path = "Documents/ICAAD/txt" # ICAAD/txt NIPS/Papers.csv" scifibookspdf" 
     fileType = "folder" # "couchdb" "folder" "csv"
     
     startDoc = 0
@@ -17,16 +18,16 @@ def TM_default():
     includeEntities = 0
     preprocess = 1
     
-    numberTopics = 50
-    passes = 70 
-    iterations = 1000
+    numberTopics = 5
+    passes = 7 
+    iterations = 100
     identifier = 'T%dP%dI%d' % (numberTopics, passes, iterations)
     
-    collectionFilename = 'dataObjects/ICAAD_documents_preprocessingTest.txt'
+    collectionFilename = 'dataObjects/ICAAD_noEntities'
+    storeCollection = collectionFilename + '_' + identifier
 
     analyseDictionary = 0
-   
-    categories = ['property', 'minority', 'discrimination', 'violence', 'sexual', 'girl', 'religion', 'social', 'health', 'law', 'legal', 'court', 'state', 'freedom', 'equality', 'death', 'indigenous', 'police', 'refugee', 'health', 'technology', 'drugs', 'robbery', 'weapon', 'abuse', 'nation',  'women', 'education', 'work', 'children', 'human', 'rights', 'torture', 'men', 'government' ,'law', 'culture', 'journalist', 'corruption', 'politics', 'accident', 'system', 'finance']
+    categories = loadCategories('Documents/categories.txt')[0] #0 -human rights categories   1 - Scientific Paper categories
 
     #### MODEL ####
     collection = Collection()
@@ -38,7 +39,7 @@ def TM_default():
         collection.prepareDocumentCollection(lemmatize=True, includeEntities=False, stopwords=STOPWORDS, removeShortTokens=True, specialChars=specialChars)
         collection.saveDocumentCollection(collectionFilename)
     else:
-        print 'Processed Document Collection'
+        print 'Load Processed Document Collection'
         collection.loadPreprocessedCollection(collectionFilename)
 
     print 'Create Dictionary'
@@ -68,7 +69,7 @@ def TM_default():
     corpus = collection.createCorpus(dictionary)
 
     print 'TF_IDF Model'
-    tfidf = models.TfidfModel(corpus, normalize=True)
+    tfidf = TfidfModel(corpus, normalize=True)
 
     print 'Topic Modeling - LDA'
     lda = Model('LDA', numberTopics, categories)
@@ -79,18 +80,17 @@ def TM_default():
     lda.computeSimilarityMatrix(corpus, num_best = 7)
 
     print 'Topic Coverage/Related Documents/SimilarityAnalysis'
-    for ind, document in enumerate(collection.documents):
+    for ind, document in enumerate(collection.documents[0:10]):
         print ind
         print 'Topic Coverage'
         lda.computeTopicCoverage(document)
         print 'Related Docs'
-#        lda.getTopicRelatedDocuments(corpus)
+        lda.getTopicRelatedDocuments(corpus)
         print 'Similarity'
         lda.computeSimilarity(document)
         print 'RelevantWords'
         collection.computeRelevantWords(tfidf, dictionary, document)
-    
-    #collection.saveDocumentCollection(collectionFilename)
+    collection.saveDocumentCollection(storeCollection)
 
     print 'Create HTML Files'
     html.printTopics(lda)

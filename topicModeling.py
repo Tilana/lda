@@ -1,95 +1,87 @@
 #!/usr/bin/python
 #-*- coding: utf-8 -*-
-from lda import Viewer
-from lda import utils
-from lda import Controller
-from lda import Word2Vec
+from lda import Collection, Dictionary, Model, Viewer
 from gensim.parsing.preprocessing import STOPWORDS
+from gensim import models
 import os.path
 
 def topicModeling():
 
     #### PARAMETERS ####
 
-#    path = 'http://localhost:5984/uwazi/_design/documents/_view/fulltext'
 #    path = "Documents/scyfibookspdf"
-#    path = "Documents/NIPS/Papers.csv"
-    path = "Documents/ICAAD/txt"
-
+    path = "Documents/NIPS/Papers.csv"
+#    path = "Documents/ICAAD/txt"
     fileType = "folder" # "couchdb" "folder" "csv"
-    specialChars = set(u'''=+|[,:;€\!'"`\`\'©°\"~?!\^@#%\$&\.\/_\(\)\{\}\[\]\*]''')
-    numberTopics = 20 
     startDoc = 0
-    numberDoc= 5000 
-#    dictionaryWords = set(['united nations', 'right', 'kenya', 'property', 'torture','applicant', 'child', 'help'])
-    dictionaryWords = None
+    numberDoc= None
 
-#    filename = 'dataObjects/UwaziDocs.txt'
-#    filename = 'dataObjects/scifiBooks50_noEntities.txt'
-    filename = 'dataObjects/ICAAD5000.txt'
+    numberTopics = 20 
+    passes = 7
+    iterations = 100
+    identifier = 'T%dP%dI%d' % (numberTopics, passes, iterations)
+
+    filename = 'dataObjects/NIPS_noEntities'
+#    filename = 'dataObjects/scifiBooks50_noEntities'
+#    filename = 'dataObjects/ICAAD5000'
 
     includeEntities = 0
+    preprocess = 0
+    specialChars = set(u'''=+|[,:;€\!'"`\`\'©°\"~?!\^@#%\$&\.\/_\(\)\{\}\[\]\*]''')
 
-    preprocess = 1
-
-#    categories = ['machine', 'neuron', 'graph', 'network', 'analysis', 'kernel', 'computation', 'bayes', 'inference', 'classification', 'text', 'information', 'gauss', 'brain',  'learning', 'algorithm', 'food', 'culture', 'image']
-    categories = ['property', 'kenya', 'freedom', 'equality', 'death', 'indigenous', 'police', 'refugee', 'health', 'women', 'education', 'work', 'children', 'human', 'rights', 'torture', 'africa' ,'law', 'culture', 'journalist', 'corruption', 'politics']
+    categories = ['machine', 'neuron', 'graph', 'network', 'analysis', 'kernel', 'computation', 'bayes', 'inference', 'classification', 'text', 'information', 'gauss', 'brain',  'learning', 'algorithm', 'food', 'culture', 'image']
+#    categories = ['property', 'kenya', 'freedom', 'equality', 'death', 'indigenous', 'police', 'refugee', 'health', 'women', 'education', 'work', 'children', 'human', 'rights', 'torture', 'africa' ,'law', 'culture', 'journalist', 'corruption', 'politics']
 
 
     #### MODEL ####
-    ctrl = Controller(numberTopics, specialChars)
-    word2vec = Word2Vec()
+    collection = Collection()
 
-    if os.path.exists(filename) and not preprocess:
-        print 'Load preprocessed document collection'
-        ctrl.load(filename)
-        ctrl.numberTopics = numberTopics
+    if not os.path.exists(filename) or preprocess:
+        print 'Load and process Document Collection'
+        collection.load(filename)
+        collection.prepareDocumentCollection(lemmatize=True, includeEntities=False, stopwords=STOPWORDS, specialChars=specialChars, removeShortTokens=True, threshold=1)
+        collection.saveDocumentCollection(filename)
 
     else:
-        print 'Load unprocessed document collection'
-        ctrl.loadCollection(path, fileType, startDoc, numberDoc)
-
-        print 'Prepare document collection'
-        ctrl.prepareDocumentCollection(lemmatize=True, includeEntities=1, stopwords=STOPWORDS, specialChars=specialChars, removeShortTokens=True, threshold=1)
-
-        ctrl.save(filename)
+        print 'Load processed document collection'
+        collection.loadCollection(path, fileType, startDoc, numberDoc)
 
         print 'Prepare Dictionary'
-        ctrl.createDictionary(wordList = dictionaryWords, lemmatize=True, stoplist=STOPWORDS, specialChars= ctrl.specialChars, removeShortWords=True, threshold=1, addEntities=includeEntities, getOriginalWords=True)
+        collection.createDictionary(wordList = dictionaryWords, lemmatize=True, stoplist=STOPWORDS, specialChars= collection.specialChars, removeShortWords=True, threshold=1, addEntities=includeEntities, getOriginalWords=True)
 
         print 'Create Corpus'
-        ctrl.createCorpus()
+        collection.createCorpus()
         print 'Create Entity Corpus'
-        #ctrl.createEntityCorpus()
-        #ctrl.corpus = utils.joinSublists(ctrl.corpus, ctrl.entityCorpus)
+        #collection.createEntityCorpus()
+        #collection.corpus = utils.joinSublists(collection.corpus, collection.entityCorpus)
 
-        ctrl.save(filename)
+        collection.save(filename)
 
     
     print 'TF-IDF Model'
-    ctrl.tfidfModel()
+    collection.tfidfModel()
 
-    for ind, document in enumerate(ctrl.collection):
-        ctrl.computeVectorRepresentation(document)
-        ctrl.computeFrequentWords(document)
+    for ind, document in enumerate(collection.collection):
+        collection.computeVectorRepresentation(document)
+        collection.computeFrequentWords(document)
 
     
     print 'Topic Modeling'
-    ctrl.topicModel('LDA', numberTopics, ctrl.tfidf[ctrl.corpus], topicCoverage=True, relatedDocuments=True, word2vec=word2vec, categories=categories)
-    ctrl.topicModel('LSI', numberTopics, ctrl.tfidf[ctrl.corpus], topicCoverage=True, relatedDocuments=True, word2vec=word2vec, categories=categories) 
+    collection.topicModel('LDA', numberTopics, collection.tfidf[collection.corpus], topicCoverage=True, relatedDocuments=True, word2vec=word2vec, categories=categories)
+    collection.topicModel('LSI', numberTopics, collection.tfidf[collection.corpus], topicCoverage=True, relatedDocuments=True, word2vec=word2vec, categories=categories) 
 
     print 'Similarity Analysis'
-    ctrl.similarityAnalysis('LSI', ctrl.tfidf[ctrl.corpus])
-    ctrl.similarityAnalysis('LDA', ctrl.tfidf[ctrl.corpus])
+    collection.similarityAnalysis('LSI', collection.tfidf[collection.corpus])
+    collection.similarityAnalysis('LDA', collection.tfidf[collection.corpus])
 
     print 'Create HTML Files'
     html = Viewer()
-    html.htmlDictionary(ctrl.dictionary)
-    html.printTopics(ctrl.LSI)
-    html.printTopics(ctrl.LDA)
-    html.printDocuments(ctrl)# , openHtml=True)
-    html.printDocsRelatedTopics(ctrl.LSI, ctrl.collection, openHtml=False)
-    html.printDocsRelatedTopics(ctrl.LDA, ctrl.collection, openHtml=False)
+    html.htmlDictionary(collection.dictionary)
+    html.printTopics(collection.LSI)
+    html.printTopics(collection.LDA)
+    html.printDocuments(collection)# , openHtml=True)
+    html.printDocsRelatedTopics(collection.LSI, collection.collection, openHtml=False)
+    html.printDocsRelatedTopics(collection.LDA, collection.collection, openHtml=False)
    
 if __name__ == "__main__":
     topicModeling()
