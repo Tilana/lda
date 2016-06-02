@@ -26,7 +26,7 @@ class Collection:
         if numberDocs is None:
             numberDocs = len(titles)
         self.documents = self.createDocumentList(titles[startDoc:startDoc + numberDocs], texts[startDoc:startDoc + numberDocs])
-        self.amount = len(self.documents)
+        self.number = len(self.documents)
     
     def createCorpus(self, dictionary):
         corpus = []
@@ -42,7 +42,7 @@ class Collection:
         for doc in sPickle.s_load(open(filename)):
             collection.append(doc)
         self.documents = collection
-        self.amount = len(self.documents)
+        self.number = len(self.documents)
 
 
 

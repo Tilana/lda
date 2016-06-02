@@ -149,8 +149,7 @@ class Viewer:
             for tag in doc.entities.__dict__.keys():
                 self.printTupleList(f, tag, getattr(doc.entities, tag))
             f.write("""</div>""")
- #           f.write("""<div style="float:left; width:55%%;"><p>%s</p></div></div></body></html>""" % doc.text.encode('utf8'))
-            f.write("""<div style="float:left; width:55%%;"><p>%s</p></div></div></body></html>""" % doc.text)
+            f.write("""<div style="float:left; width:55%%;"><p>%s</p></div></div></body></html>""" % doc.text.encode('utf8'))
             f.close()
             if openHtml:
                 webbrowser.open_new_tab(pagename)
