@@ -19,9 +19,9 @@ def TM_default():
     info.includeEntities = 0
     info.preprocess = 0
     
-    info.numberTopics = 70 
-    info.passes = 70 
-    info.iterations = 1000 
+    info.numberTopics = 75 
+    info.passes = 90 
+    info.iterations = 2000 
     info.tfidf = 0
 
     info.analyseDictionary = 0

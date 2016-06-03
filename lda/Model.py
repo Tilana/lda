@@ -15,7 +15,7 @@ class Model:
     def createModel(self, corpus, dictionary, info):
         logging.basicConfig(format='%(asctime)s: %(levelname)s : %(message)s', level=logging.INFO)
         path = 'TopicModel/'+info.identifier
-        if not os.path.exists(path) or 1:
+        if not os.path.exists(path):
             if self.name=='LDA':
 #                self.model = models.LdaModel(corpus, num_topics = numberTopics, id2word=dictionary, passes=passes, iterations=iterations , update_every=0)
                 self.model = models.LdaMulticore(corpus, num_topics = info.numberTopics, id2word=dictionary, passes=info.passes, iterations=info.iterations , batch=1)
@@ -42,8 +42,9 @@ class Model:
         meanScore = []
         for topic in self.topics:
             topic.labelTopic(word2vec, info.categories)
-            topic.evaluate(word2vec)
-            meanScore.append(topic.meanSimilarity)
+            topic.findIntruder(word2vec)
+            topic.computeSimilarityScore(word2vec)
+            meanScore.append(topic.medianSimilarity)
         self.meanScore = utils.getMean(meanScore)
         print "Mean Similarity ", self.meanScore
 

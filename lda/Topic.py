@@ -27,15 +27,23 @@ class Topic:
         meanSimilarity = word2vec.getMeanSimilarity(categories, similarWords)
         self.keywords = word2vec.sortCategories(meanSimilarity, categories)
 
-    def evaluate(self, word2vec):
+    def findIntruder(self, word2vec):
+       topicWords = word2vec.filterList(self.getTopicWords())
+       if not topicWords:
+           self.intruder = 'default'
+       else:
+           self.intruder = word2vec.net.doesnt_match(topicWords)
+    
+    
+    def computeSimilarityScore(self, word2vec):
         topicWords = word2vec.filterList(self.getTopicWords())
         if not topicWords:
-            self.intruder = 'default'
+            self.pairwiseSimilarity = []
+            self.medianSimilarity = 0
         else:
-            self.intruder = word2vec.net.doesnt_match(topicWords)
-        similarityMatrix = [word2vec.wordToListSimilarity(word, topicWords) for word in topicWords]
-
-        self.pairwiseSimilarity = utils.getUpperSymmetrixMatrix(similarityMatrix)
-        self.meanSimilarity = utils.getMean(self.pairwiseSimilarity)
+            similarityMatrix = [word2vec.wordToListSimilarity(word, topicWords) for word in topicWords]
+            self.pairwiseSimilarity = utils.getUpperSymmetrixMatrix(similarityMatrix)
+            self.medianSimilarity = utils.getMedian(self.pairwiseSimilarity)
+            
 
 

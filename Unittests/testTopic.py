@@ -34,15 +34,15 @@ class testTopic(unittest.TestCase):
         self.testTopic.labelTopic(self.word2vec, categories)
         self.assertEqual(targetCategories3, self.testTopic.keywords)        
 
-    def test_evaluate(self):
+    def test_computeSimilarityScore(self):
 
         self.testTopic.wordDistribution = [(u'president', 0.32), (u'constitution', 0.22), (u'discussion', -0.20), ('election', 0.1)] 
         self.targetTopic.wordDistribution = [(u'president', 0.32), (u'banana', 0.22), (u'discussion', -0.20), ('election', 0.1)] 
 
-        self.testTopic.evaluate(self.word2vec)
-        self.targetTopic.evaluate(self.word2vec)
+        self.testTopic.computeSimilarityScore(self.word2vec)
+        self.targetTopic.computeSimilarityScore(self.word2vec)
 
-        self.assertGreater(self.testTopic.meanSimilarity, self.targetTopic.meanSimilarity)
+        self.assertGreater(self.testTopic.medianSimilarity, self.targetTopic.medianSimilarity)
 
 
 

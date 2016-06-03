@@ -94,7 +94,7 @@ class Viewer:
         f.write("""<col style="width:7%"> <col style="width: 20%"> <col style="width: 7%"> <col style="width:80%"> <col style="width:8%">""")
 
         for topic in model.topics:
-            f.write("<tr><td><a href='%stopic%d.html'> Topic %d</a></td><td>%s </td><td>%.4f</td><td>%s</td><td>%s</td></tr>" % (model.name, topic.number, topic.number, topic.keywords[0:3], topic.meanSimilarity, str(topic.wordDistribution[0:7])[1:-1], topic.intruder))
+            f.write("<tr><td><a href='%stopic%d.html'> Topic %d</a></td><td>%s </td><td>%.4f</td><td>%s</td><td>%s</td></tr>" % (model.name, topic.number, topic.number, topic.keywords[0:3], topic.medianSimilarity, str(topic.wordDistribution[0:7])[1:-1], topic.intruder))
         f.write("</table>")
         
         f.write("Mean Similarity Score: %.4f" % model.meanScore)

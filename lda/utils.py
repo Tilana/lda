@@ -47,6 +47,9 @@ def countOccurance(text, l):
 def listToNumpy(l):
     return np.asarray(l)
 
+def getMedian(l):
+    return np.median(listToNumpy(l))
+
 def getMean(l):
     return np.mean(listToNumpy(l))
 
