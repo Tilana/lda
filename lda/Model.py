@@ -16,7 +16,7 @@ class Model:
     def createModel(self, corpus, dictionary, numberTopics, passes=3, iterations=10):
         logging.basicConfig(format='%(asctime)s: %(levelname)s : %(message)s', level=logging.INFO)
         path = 'TopicModel/'+self.name+'_T%dP%dI%d' % (numberTopics, passes, iterations)
-        if not os.path.exists(path):
+        if not os.path.exists(path) or 1:
             if self.name=='LDA':
 #                self.model = models.LdaModel(corpus, num_topics = numberTopics, id2word=dictionary, passes=passes, iterations=iterations , update_every=0)
                 self.model = models.LdaMulticore(corpus, num_topics = numberTopics, id2word=dictionary, passes=passes, iterations=iterations , batch=1)

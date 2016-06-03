@@ -16,18 +16,19 @@ def TM_default():
     numberDoc= None 
     specialChars = set(u'''[,\.\'\`=\":\\\/_+]''')
     includeEntities = 0
-    preprocess = 1
+    preprocess = 0
     
     numberTopics = 50 
     passes = 70 
     iterations = 1000
+    tfidf = 0
     identifier = 'T%dP%dI%d' % (numberTopics, passes, iterations)
     
     collectionFilename = 'dataObjects/ICAAD_noEntities'
     storeCollection = collectionFilename + '_' + identifier
 
     analyseDictionary = 0
-    categories = loadCategories('Documents/categories.txt')[1] #0 -human rights categories   1 - Scientific Paper categories
+    categories = loadCategories('Documents/categories.txt')[0] #0 -human rights categories   1 - Scientific Paper categories
     
     lowerFilter = 9 # in number of documents
     upperFilter = 0.45 # in percent
@@ -47,7 +48,7 @@ def TM_default():
 
     print 'Create Dictionary'
     dictionary = Dictionary(STOPWORDS)
-    dictionary.addDocuments(collection.documents)
+    dictionary.addCollection(collection.documents)
 
     if analyseDictionary:
         'Analyse Word Frequency'
@@ -70,17 +71,20 @@ def TM_default():
 
     print 'TF_IDF Model'
     tfidf = TfidfModel(corpus, normalize=True)
+    if tfidf:
+        corpus = tfidf[corpus]
 
     print 'Topic Modeling - LDA'
     lda = Model('LDA', numberTopics, categories)
     lda.createModel(corpus, dictionary.ids, numberTopics, passes, iterations)
     lda.createTopics()
+    html.printTopics(lda)
 
     print 'Similarity Analysis'
     lda.computeSimilarityMatrix(corpus, num_best = 7)
 
     print 'Topic Coverage/Related Documents/SimilarityAnalysis'
-    for ind, document in enumerate(collection.documents[0:10]):
+    for ind, document in enumerate(collection.documents):
         print ind
         print 'Topic Coverage'
         lda.computeTopicCoverage(document)

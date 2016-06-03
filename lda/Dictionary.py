@@ -13,11 +13,6 @@ class Dictionary:
         self.ids = corpora.Dictionary()
         self.specialCharacters = set([]) 
         self.stopwords = set([]) if stopwords is None else stopwords           
-#    def createDictionaryIds(self, collection):
-#        for doc in collection:
-#            if not doc.hasTokenAttribute():
-#                doc.createTokens()
-#            self.ids.add_documents([doc.tokens])
 
     def addCollection(self, collection):
         for document in collection:
@@ -28,32 +23,6 @@ class Dictionary:
             self.ids.add_documents([document.tokens])
         if document.hasSpecialCharAttribute():
             self.specialCharacters.update(document.specialCharacters)
-
-    
-#    def setSpecialCharacters(self, collection):
-#        [self.specialCharacters.update(doc.specialCharacters) for doc in collection]
-
-#    def setDictionary(self, wordList=None):
-#        self.words = set(utils.lowerList(wordList))
-
-#    def addDocument(self, document):
-#        if not document.hasTokenAttribute():
-#            document.createTokens()
-#        self.words.update(utils.lowerList(document.tokens))
-    
-#    def addCollection(self, collection):
-#        for document in collection:
-#            self.addDocument(document)
-
-#    def addStopwords(self, listStopwords):
-#        self.stopwords.update(utils.lowerList(listStopwords))
-#        self.removeStopwords()
-#
-#    def removeStopwords(self):
-#        [self.words.discard(stopword) for stopword in self.stopwords]
-
-#    def addWords(self, wordList):
-#        [self.words.add(word) for word in utils.lowerList(wordList) if word not in self.stopwords]
 
     def getDictionaryId(self, word):
         return self.ids.keys()[self.ids.values().index(word)]
@@ -78,30 +47,6 @@ class Dictionary:
         plt.show()
 
         
-#    def findSpecialCharTokens(self, specialCharacters, collection):
-#        self.specialCharacters =  set([word for word in self.words if utils.containsAny(word, specialCharacters)])
-##        [self.specialCharacters.update(document.specialCharacters) for document in collection if document.hasSpecialCharAttribute]
-
-#    def getOriginalWords(self, collection):
-#        [self.original.update(document.original) for document in collection if document.hasOriginalAttribute]
-    
-    
-#    def removeSpecialChars(self):
-#        for specialChar in self.specialCharacters:
-#            self.words.discard(specialChar)
-#    
-#    def lemmatize(self):
-#        wordnet = WordNetLemmatizer()
-#        self.original = self.words
-#       # self.words = set([wordnet.lemmatize(wordnet.lemmatize(word.decode('utf8'), 'v')) for word in self.words])
-#        self.words = set([wordnet.lemmatize(wordnet.lemmatize(word, 'v')) for word in self.words])
-#   
-#
-#    def removeShortWords(self, threshold=1):
-#        shortWords = [word for word in self.words if len(word)<=threshold]
-#        self.words = self.words.difference(shortWords)
-
-    
     def createEntities(self, collection):
         [document.createEntities() for document in collection if document.entities.isEmpty()]
         self.entities = Entities('')
