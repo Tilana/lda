@@ -4,11 +4,11 @@ import os, sys
 class Viewer:
 
     def __init__(self, identifier):
-        path = 'hmtl/'+identifier
+        self.path = 'html/'+identifier
         try:
-            os.makedirs(path)
+            os.makedirs(self.path)
         except OSError:
-            if not os.path.isdir(path):
+            if not os.path.isdir(self.path):
                 raise
     
     def listToHtmlTable(self, f, title, unicodeList):
@@ -57,7 +57,7 @@ class Viewer:
         f.write("""</table>""")
 
     def wordFrequency(self, dictionary, start=1, end=9):
-        name = 'html/wordDocFrequency%d%d.html' % (start, end)
+        name = self.path + '/wordDocFrequency%d%d.html' % (start, end)
         f = open(name, 'w')
         f.write("""<html><head><h1> Frequency of words in documents</h1><style type="text/css"> body>div {width: 10%; float: left; border: 1px solid} </style></head>""") 
         f.write("""<body>""")
@@ -69,11 +69,11 @@ class Viewer:
                  f.write("""</div>""")
         f.write("""</body></html>""")
         f.close()
-        webbrowser.open_new_tab('html/wordDocFrequency%d%d.html' % (start, end))
+        webbrowser.open_new_tab(name)
 
 
     def htmlDictionary(self, dictionary):
-        name = 'html/dictionaryCollection.html'
+        name = self.path + '/dictionaryCollection.html'
         f = open(name, 'w')
         f.write("""<html><head><h1>Dictionary of Document Collection</h1><style type="text/css"> body>div {width: 23%; float: left; border: 1px solid} </style></head>""") 
 
@@ -83,11 +83,11 @@ class Viewer:
         self.printColumn(f, 'Stopwords ', dictionary.stopwords)
         f.write("""</body></html>""")
         f.close()
-        webbrowser.open_new_tab('html/dictionaryCollection.html')
+        webbrowser.open_new_tab(self.path + '/dictionaryCollection.html')
 
 
     def printTopics(self, model):
-        filename = 'html/%stopics.html' % model.name
+        filename = self.path + '/%stopics.html' % model.name
         f = open(filename, 'w')
         f.write("<html><head><h1> %s Topics</h1></head>" % model.name)
         f.write("<body><p>Topics and related words - %s Model</p><table>" % model.name )
@@ -107,7 +107,7 @@ class Viewer:
     
     def printDocuments(self, collection, lda, topics=1, openHtml=False):
         for ind, doc in enumerate(collection):
-            pagename = 'html/doc%02d.html' % ind
+            pagename = self.path + '/doc%02d.html' % ind
             attributes = doc.__dict__.keys()
             f = open(pagename, 'w')
             f.write("<html><head><h1>Document %02d - %s</h1></head>" % (ind, doc.title))
@@ -159,7 +159,7 @@ class Viewer:
     
     def printDocsRelatedTopics(self, model, collection, openHtml=False):
         for num in range(0, model.numberTopics): 
-    	    pagename = 'html/%stopic%d.html' % (model.name, num)
+    	    pagename = self.path + '/%stopic%d.html' % (model.name, num)
     	    f = open(pagename, 'w')
     	    f.write("<html><head><h1> %s Document Relevance for Topic %d</h1></head>" %  (model.name, num))
             f.write("<body><h4>Topics and related words - %s Model</h4><table>" % model.name)
@@ -176,7 +176,7 @@ class Viewer:
     	    f.write("</table></body></html>")
     	    f.close()
             if openHtml:
-                webbrowser.open_new_tab(path)
+                webbrowser.open_new_tab(pagename)
     
 
     def freqAnalysis(self, collection, openHtml=False):
@@ -246,13 +246,12 @@ class Viewer:
         f.close()
         webbrowser.open_new_tab(pagename)
 
-    def LDATopics(self, name, lda, numberTopics):
-        f = open(name, 'w')
-        f.write("""<html><head><h2> LDA - 30 Topics - 40 passes </h2></head><body> <table>""")
-        
-        for index in range(0, numberTopics):
-            f.write("<tr><td> Topic %d </td> <td> %s </td></tr>" % (index, lda.print_topic(index)))
-        f.write("</table></body></html>")
-        f.close()
-        
-        webbrowser.open_new_tab(name)
+#    def LDATopics(self, name, lda, numberTopics):
+#        f = open(name, 'w')
+#        f.write("""<html><head><h2> LDA - 30 Topics - 40 passes </h2></head><body> <table>""")
+#        
+#        for index in range(0, numberTopics):
+#            f.write("<tr><td> Topic %d </td> <td> %s </td></tr>" % (index, lda.print_topic(index)))
+#        f.write("</table></body></html>")
+#        f.close()
+#        webbrowser.open_new_tab(name)

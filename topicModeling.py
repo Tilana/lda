@@ -19,8 +19,8 @@ def TM_default():
     info.includeEntities = 0
     info.preprocess = 0
     
-    info.numberTopics = 25 
-    info.passes = 20 
+    info.numberTopics = 70 
+    info.passes = 70 
     info.iterations = 1000 
     info.tfidf = 0
 
@@ -28,7 +28,7 @@ def TM_default():
     info.categories = loadCategories('Documents/categories.txt')[0]     #0 -human rights categories   1 - Scientific Paper categories
     
     info.lowerFilter = 9    # in number of documents
-    info.upperFilter = 0.35 # in percent
+    info.upperFilter = 0.4  # in percent
     
     info.setup()
 
@@ -79,21 +79,24 @@ def TM_default():
     lda.createTopics(info)
     html.printTopics(lda)
 
-    print 'Similarity Analysis'
-    lda.computeSimilarityMatrix(corpus, num_best = 7)
+    if not os.path.exists(info.processedCollectionName):
+        print 'Similarity Analysis'
+        lda.computeSimilarityMatrix(corpus, num_best = 7)
 
-    print 'Topic Coverage/Related Documents/SimilarityAnalysis'
-    for ind, document in enumerate(collection.documents[0:2]):
-        print ind
-        print 'Topic Coverage'
-        lda.computeTopicCoverage(document)
-        print 'Related Docs'
-        lda.getTopicRelatedDocuments(corpus)
-        print 'Similarity'
-        lda.computeSimilarity(document)
-        print 'RelevantWords'
-        collection.computeRelevantWords(tfidf, dictionary, document)
-    collection.saveDocumentCollection(info.processedCollectionName)
+        print 'Topic Coverage/Related Documents/SimilarityAnalysis'
+        for ind, document in enumerate(collection.documents[0:1]):
+            print ind
+            print 'Topic Coverage'
+            lda.computeTopicCoverage(document)
+            print 'Related Docs'
+            lda.getTopicRelatedDocuments(corpus)
+            print 'Similarity'
+            lda.computeSimilarity(document)
+            print 'RelevantWords'
+            collection.computeRelevantWords(tfidf, dictionary, document)
+        collection.saveDocumentCollection(info.processedCollectionName)
+    else:
+        collection.loadPreprocessedCollection(info.processedCollectionName)
 
     print 'Create HTML Files'
     html.htmlDictionary(dictionary)
