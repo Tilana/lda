@@ -7,22 +7,21 @@ import os.path
 
 class Model:
 
-    def __init__(self, name, numberTopics, categories=None):
-        self.name = name
-        self.numberTopics = numberTopics
-        self.categories = categories
+    def __init__(self, info):
+        self.name = info.modelType
+        self.categories = info.categories
+        self.numberTopics = info.numberTopics
 
-
-    def createModel(self, corpus, dictionary, numberTopics, passes=3, iterations=10):
+    def createModel(self, corpus, dictionary, info):
         logging.basicConfig(format='%(asctime)s: %(levelname)s : %(message)s', level=logging.INFO)
-        path = 'TopicModel/'+self.name+'_T%dP%dI%d' % (numberTopics, passes, iterations)
+        path = 'TopicModel/'+info.identifier
         if not os.path.exists(path) or 1:
             if self.name=='LDA':
 #                self.model = models.LdaModel(corpus, num_topics = numberTopics, id2word=dictionary, passes=passes, iterations=iterations , update_every=0)
-                self.model = models.LdaMulticore(corpus, num_topics = numberTopics, id2word=dictionary, passes=passes, iterations=iterations , batch=1)
+                self.model = models.LdaMulticore(corpus, num_topics = info.numberTopics, id2word=dictionary, passes=info.passes, iterations=info.iterations , batch=1)
 
             elif self.name=='LSI':
-                self.model = models.LsiModel(corpus, self.numberTopics, dictionary)
+                self.model = models.LsiModel(corpus, info.numberTopics, dictionary)
                 self.info = str(self.model)
             else:
                 print 'Unkown Model type'
@@ -37,12 +36,12 @@ class Model:
         self.model = models.load(path)
 
 
-    def createTopics(self):
+    def createTopics(self, info):
         word2vec = Word2Vec()
-        self.topics = self._tupleToTopicList(self.model.show_topics(num_topics=self.numberTopics, formatted=False))
+        self.topics = self._tupleToTopicList(self.model.show_topics(num_topics=info.numberTopics, formatted=False))
         meanScore = []
         for topic in self.topics:
-            topic.labelTopic(word2vec, self.categories)
+            topic.labelTopic(word2vec, info.categories)
             topic.evaluate(word2vec)
             meanScore.append(topic.meanSimilarity)
         self.meanScore = utils.getMean(meanScore)

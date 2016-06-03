@@ -1,12 +1,14 @@
 import unittest
-from lda import Model
-from lda import Document
-from lda import Topic
+from lda import Model, Document, Topic, Info
 
 class testModel(unittest.TestCase):
 
     def test_tupleToTopicList(self):
-        model = Model('LDA', 3)
+        info = Info()
+        info.modelType= 'LDA'
+        info.numberTopics = 3
+        info.categories = []
+        model = Model(info)
         wordDistribution1 = [(u'Test', 0.45), (u'Topic', 0.003), (u'List', -0.01)]
         wordDistribution2 = [(u'List', 0.0021), (u'2', -0.001)]
         topicList = [(0, wordDistribution1), (1, wordDistribution2)]
@@ -66,8 +68,11 @@ class testModel(unittest.TestCase):
 #
        
     def test_zipTopicCoverageList(self):
-
-        model = Model('LDA', 3)
+        info = Info()
+        info.modelType = 'LDA'
+        info.numberTopics = 3
+        info.categories = []
+        model = Model(info)
         collection = [[(0,0.23), (1,0.942), (2,0.94)], [(1, 0.42), (3,0.21)], [(0, 0.77), (2, 0.22), (2, 0.47)]]
         targetList0 = [(0.23, 0), (0.77, 2)]
         targetList1 = [(0.942, 0), (0.42, 1)]

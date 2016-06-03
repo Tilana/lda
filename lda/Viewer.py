@@ -1,10 +1,15 @@
 import webbrowser
-import utils
+import os, sys
 
 class Viewer:
 
-    def __init__(self):
-        pass
+    def __init__(self, identifier):
+        path = 'hmtl/'+identifier
+        try:
+            os.makedirs(path)
+        except OSError:
+            if not os.path.isdir(path):
+                raise
     
     def listToHtmlTable(self, f, title, unicodeList):
         f.write("""<h4>%s</h4><table>""" % title.encode('utf8'))
@@ -106,14 +111,8 @@ class Viewer:
             attributes = doc.__dict__.keys()
             f = open(pagename, 'w')
             f.write("<html><head><h1>Document %02d - %s</h1></head>" % (ind, doc.title))
-#            f.write("<html><head><h1>Document %02d - %s</h1></head>" % (ind, doc.title.encode('utf-8')))
             f.write("""<body><div style="width:100%;"><div style="float:right; width:45%;">""")
-           # f.write("""<h4> LSI Topic coverage: </h4><table>""")
-           # f.write("""<col style="width:20%"> <col style="width:50%"> <col style = "width:30%"> """)
-           # for coverage in doc.LSICoverage[0:5]:
-           #     topicNr = coverage[0]
-           #     f.write("""<tr><td><a href='LSItopic%d.html'>Topic %d</a</td> <td> %s </td> <td> %.2f</td> </tr>""" % (topicNr, topicNr, model.LSI.topics[topicNr].keywords[0:2], coverage[1]))
-           # f.write("</table>")
+            
             if 'LDACoverage' in attributes:
                 f.write("""<h4> LDA Topic coverage:</h4><table>""")
                 f.write("""<col style="width:20%"> <col style="width:50%"> <col style = "width:30%"> """)
@@ -121,17 +120,20 @@ class Viewer:
                     topicNr = coverage[0]
                     f.write("""<tr><td><a href='LDAtopic%d.html'>Topic %d</a</td> <td> %s</td> <td> Coverage %.2f</td></tr>""" % (topicNr, topicNr, lda.topics[topicNr].keywords[0:2], coverage[1]))
                 f.write("</table>")
-           
+
+            if 'LSICoverage' in attributes:
+                f.write("""<h4> LSI Topic coverage:</h4><table>""")
+                f.write("""<col style="width:20%"> <col style="width:50%"> <col style = "width:30%"> """)
+                for coverage in doc.LSICoverage[0:5]:
+                    topicNr = coverage[0]
+                    f.write("""<tr><td><a href='LSItopic%d.html'>Topic %d</a</td> <td> %s</td> <td> Coverage %.2f</td></tr>""" % (topicNr, topicNr, lda.topics[topicNr].keywords[0:2], coverage[1]))
+                f.write("</table>")
+
             if 'targetCategories' in attributes:
                 self.listToHtmlTable(f, 'Target Categories', doc.targetCategories)
 
             if 'freqWords' in attributes:
                 self.printTupleList(f, 'Relevant Words (TF-IDF)', doc.freqWords, 'float')
-                #f.write("""<h4>Relevant Words in Document: \n</h4><table>""")
-                #f.write("""<col style="width:40%"> <col style="width:50%">""")
-                #for freqWord in doc.freqWords:
-                #    f.write("""<tr><td>%s </td><td> %.2f</td></tr>""" % (freqWord[0], freqWord[1])) 
-                #f.write("</table>")
 
             if 'mostFrequentEntities' in attributes:
                 self.printTupleList(f, 'Most frequent entities', doc.mostFrequentEntities)
@@ -176,6 +178,7 @@ class Viewer:
             if openHtml:
                 webbrowser.open_new_tab(path)
     
+
     def freqAnalysis(self, collection, openHtml=False):
         for ind, doc in enumerate(collection):
             pagename = 'html/%s' % doc.title

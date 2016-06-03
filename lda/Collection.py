@@ -42,7 +42,6 @@ class Collection:
         self.number = len(self.documents)
 
 
-
     def createEntityCorpus(self, dictionary):
         self.entityCorpus = [sorted([(dictionary.getDictionaryId(entry[0]), entry[1]) for entry in document.entities.getEntities()]) for document in self.documents]
 

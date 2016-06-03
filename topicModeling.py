@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #-*- coding: utf-8 -*-
-from lda import Collection, Dictionary, Model, Viewer
+from lda import Collection, Dictionary, Model, Info, Viewer
 from lda.docLoader import loadCategories
 from gensim.parsing.preprocessing import STOPWORDS
 from gensim.models import TfidfModel
@@ -9,48 +9,47 @@ import os.path
 def TM_default():
 
     #### PARAMETERS ####
-    path = "Documents/ICAAD/txt" # ICAAD/txt NIPS/Papers.csv" scifibookspdf" 
-    fileType = "folder" # "couchdb" "folder" "csv"
+    info = Info()
+    info.data = 'ICAAD'     # 'ICAAD' 'NIPS' 'scifibooks'
+    info.modelType = 'LDA'  # 'LDA' 'LSI'
     
-    startDoc = 0
-    numberDoc= None 
-    specialChars = set(u'''[,\.\'\`=\":\\\/_+]''')
-    includeEntities = 0
-    preprocess = 0
+    info.startDoc = 0
+    info.numberDoc= None 
+    info.specialChars = set(u'''[,\.\'\`=\":\\\/_+]''')
+    info.includeEntities = 0
+    info.preprocess = 0
     
-    numberTopics = 50 
-    passes = 70 
-    iterations = 1000
-    tfidf = 0
-    identifier = 'T%dP%dI%d' % (numberTopics, passes, iterations)
-    
-    collectionFilename = 'dataObjects/ICAAD_noEntities'
-    storeCollection = collectionFilename + '_' + identifier
+    info.numberTopics = 25 
+    info.passes = 20 
+    info.iterations = 1000 
+    info.tfidf = 0
 
-    analyseDictionary = 0
-    categories = loadCategories('Documents/categories.txt')[0] #0 -human rights categories   1 - Scientific Paper categories
+    info.analyseDictionary = 0
+    info.categories = loadCategories('Documents/categories.txt')[0]     #0 -human rights categories   1 - Scientific Paper categories
     
-    lowerFilter = 9 # in number of documents
-    upperFilter = 0.45 # in percent
+    info.lowerFilter = 9    # in number of documents
+    info.upperFilter = 0.35 # in percent
+    
+    info.setup()
 
     #### MODEL ####
     collection = Collection()
-    html = Viewer()
+    html = Viewer(info.identifier)
     
-    if not os.path.exists(collectionFilename) or preprocess:
+    if not os.path.exists(info.collectionName) or info.preprocess:
         print 'Load and preprocess Document Collection'
-        collection.load(path, fileType, startDoc, numberDoc)
-        collection.prepareDocumentCollection(lemmatize=True, includeEntities=False, stopwords=STOPWORDS, removeShortTokens=True, specialChars=specialChars)
-        collection.saveDocumentCollection(collectionFilename)
+        collection.load(info.path, info.fileType, info.startDoc, info.numberDoc)
+        collection.prepareDocumentCollection(lemmatize=True, includeEntities=False, stopwords=STOPWORDS, removeShortTokens=True, specialChars=info.specialChars)
+        collection.saveDocumentCollection(info.collectionName)
     else:
         print 'Load Processed Document Collection'
-        collection.loadPreprocessedCollection(collectionFilename)
+        collection.loadPreprocessedCollection(info.collectionName)
 
     print 'Create Dictionary'
     dictionary = Dictionary(STOPWORDS)
     dictionary.addCollection(collection.documents)
 
-    if analyseDictionary:
+    if info.analyseDictionary:
         'Analyse Word Frequency'
         dictionary.plotWordDistribution()
         dictionary.plotWordDistribution(1,10)
@@ -62,8 +61,8 @@ def TM_default():
         html.wordFrequency(dictionary, collection.number/2, collection.number) 
     
     print 'Filter extremes'
-    dictionary.ids.filter_extremes(lowerFilter, upperFilter)
-    if analyseDictionary:
+    dictionary.ids.filter_extremes(info.lowerFilter, info.upperFilter)
+    if info.analyseDictionary:
         dictionary.plotWordDistribution()
     
     print 'Create Corpus'
@@ -75,16 +74,16 @@ def TM_default():
         corpus = tfidf[corpus]
 
     print 'Topic Modeling - LDA'
-    lda = Model('LDA', numberTopics, categories)
-    lda.createModel(corpus, dictionary.ids, numberTopics, passes, iterations)
-    lda.createTopics()
+    lda = Model(info)
+    lda.createModel(corpus, dictionary.ids, info)
+    lda.createTopics(info)
     html.printTopics(lda)
 
     print 'Similarity Analysis'
     lda.computeSimilarityMatrix(corpus, num_best = 7)
 
     print 'Topic Coverage/Related Documents/SimilarityAnalysis'
-    for ind, document in enumerate(collection.documents):
+    for ind, document in enumerate(collection.documents[0:2]):
         print ind
         print 'Topic Coverage'
         lda.computeTopicCoverage(document)
@@ -94,7 +93,7 @@ def TM_default():
         lda.computeSimilarity(document)
         print 'RelevantWords'
         collection.computeRelevantWords(tfidf, dictionary, document)
-    collection.saveDocumentCollection(storeCollection)
+    collection.saveDocumentCollection(info.processedCollectionName)
 
     print 'Create HTML Files'
     html.htmlDictionary(dictionary)
