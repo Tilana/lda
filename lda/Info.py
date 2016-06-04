@@ -50,3 +50,12 @@ class Info:
 
     def setProcessedCollectionName(self):
         self.processedCollectionName = self.collectionName + '_' + self.identifier
+
+    def saveToFile(self):
+        dictionary = self.__dict__
+        with open('html/' + self.identifier + '/info.txt', 'wb') as f:
+            f.write('INFO - %s \n \n' % self.identifier)
+            for key in dictionary:
+                f.write(key + '  -  ' + str(dictionary[key]) +'\n')
+        f.close()
+

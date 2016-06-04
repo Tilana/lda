@@ -19,23 +19,23 @@ def TM_default():
     info.includeEntities = 0
     info.preprocess = 0
     
-    info.numberTopics = 75 
-    info.passes = 90 
-    info.iterations = 2000 
+    info.numberTopics = 7 
+    info.passes = 3 
+    info.iterations = 100 
     info.tfidf = 0
 
     info.analyseDictionary = 0
     info.categories = loadCategories('Documents/categories.txt')[0]     #0 -human rights categories   1 - Scientific Paper categories
     
     info.lowerFilter = 9    # in number of documents
-    info.upperFilter = 0.4  # in percent
+    info.upperFilter = 0.5  # in percent
     
     info.setup()
 
     #### MODEL ####
     collection = Collection()
     html = Viewer(info.identifier)
-    
+        
     if not os.path.exists(info.collectionName) or info.preprocess:
         print 'Load and preprocess Document Collection'
         collection.load(info.path, info.fileType, info.startDoc, info.numberDoc)
@@ -79,26 +79,26 @@ def TM_default():
     lda.createTopics(info)
     html.printTopics(lda)
 
-    if not os.path.exists(info.processedCollectionName):
-        print 'Similarity Analysis'
-        lda.computeSimilarityMatrix(corpus, num_best = 7)
+    print 'Get Documents related to Topics'
+    lda.getTopicRelatedDocuments(corpus)
 
-        print 'Topic Coverage/Related Documents/SimilarityAnalysis'
-        for ind, document in enumerate(collection.documents[0:1]):
-            print ind
-            print 'Topic Coverage'
-            lda.computeTopicCoverage(document)
-            print 'Related Docs'
-            lda.getTopicRelatedDocuments(corpus)
-            print 'Similarity'
-            lda.computeSimilarity(document)
-            print 'RelevantWords'
-            collection.computeRelevantWords(tfidf, dictionary, document)
-        collection.saveDocumentCollection(info.processedCollectionName)
-    else:
-        collection.loadPreprocessedCollection(info.processedCollectionName)
+
+#    if not os.path.exists(info.processedCollectionName):
+    print 'Similarity Analysis'
+    lda.computeSimilarityMatrix(corpus, num_best = 7)
+
+    print 'Topic Coverage/Related Documents/SimilarityAnalysis'
+    for ind, document in enumerate(collection.documents):
+        lda.computeTopicCoverage(document)
+        lda.computeSimilarity(document)
+        collection.computeRelevantWords(tfidf, dictionary, document)
+    collection.saveDocumentCollection(info.processedCollectionName)
+#    else:
+#        print 'Load Processed Document Collection'
+#        collection.loadPreprocessedCollection(info.processedCollectionName)
 
     print 'Create HTML Files'
+    info.saveToFile()
     html.htmlDictionary(dictionary)
     html.printTopics(lda)
     html.printDocuments(collection.documents, lda)# , openHtml=True)

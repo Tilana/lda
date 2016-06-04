@@ -75,6 +75,7 @@ class Model:
     def getTopicRelatedDocuments(self, corpus):
         topicCoverage = self.model[corpus]
         for ind, topic in enumerate(self.topics):
+            print 'Topic ', ind
             topicCoveragePerTopic = utils.absoluteTupleList(self.zipTopicCoverageList(topicCoverage, ind))
             setattr(topic, 'relatedDocuments', sorted(topicCoveragePerTopic, reverse=True))
 
