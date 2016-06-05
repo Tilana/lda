@@ -17,9 +17,10 @@ class Model:
         path = 'TopicModel/'+info.identifier
         if not os.path.exists(path):
             if self.name=='LDA':
-#                self.model = models.LdaModel(corpus, num_topics = numberTopics, id2word=dictionary, passes=passes, iterations=iterations , update_every=0)
-                self.model = models.LdaMulticore(corpus, num_topics = info.numberTopics, id2word=dictionary, passes=info.passes, iterations=info.iterations , batch=1)
-
+                if info.multicore:
+                    self.model = models.LdaMulticore(corpus, num_topics = info.numberTopics, id2word=dictionary, passes=info.passes, iterations=info.iterations , batch=1)
+                else:
+                    self.model = models.LdaModel(corpus, num_topics = info.numberTopics, id2word=dictionary, passes=info.passes, iterations=info.iterations , update_every=info.online, chunksize=info.chunksize)
             elif self.name=='LSI':
                 self.model = models.LsiModel(corpus, info.numberTopics, dictionary)
                 self.info = str(self.model)
@@ -95,5 +96,9 @@ class Model:
                 if tupleElement[0]==value:
                     valueList.append((tupleElement[1], index))
         return valueList
+
+#    def save(self, path):
+#        sPickle.s_dump(self.
+
 
 

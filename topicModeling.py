@@ -18,23 +18,26 @@ def TM_default():
     info.specialChars = set(u'''[,\.\'\`=\":\\\/_+]''')
     info.includeEntities = 0
     info.preprocess = 0
-    
-    info.numberTopics = 7 
-    info.passes = 3 
-    info.iterations = 100 
+
+    info.numberTopics = 5
+    info.passes = 2 
+    info.iterations = 500 
+    info.online = 1 
+    info.chunksize = 3000 
+    info.multicore = 0
     info.tfidf = 0
 
     info.analyseDictionary = 0
     info.categories = loadCategories('Documents/categories.txt')[0]     #0 -human rights categories   1 - Scientific Paper categories
     
-    info.lowerFilter = 9    # in number of documents
-    info.upperFilter = 0.5  # in percent
+    info.lowerFilter = 20    # in number of documents
+    info.upperFilter = 0.45  # in percent
     
     info.setup()
 
     #### MODEL ####
     collection = Collection()
-    html = Viewer(info.identifier)
+    html = Viewer(info)
         
     if not os.path.exists(info.collectionName) or info.preprocess:
         print 'Load and preprocess Document Collection'
@@ -82,8 +85,6 @@ def TM_default():
     print 'Get Documents related to Topics'
     lda.getTopicRelatedDocuments(corpus)
 
-
-#    if not os.path.exists(info.processedCollectionName):
     print 'Similarity Analysis'
     lda.computeSimilarityMatrix(corpus, num_best = 7)
 
@@ -93,9 +94,6 @@ def TM_default():
         lda.computeSimilarity(document)
         collection.computeRelevantWords(tfidf, dictionary, document)
     collection.saveDocumentCollection(info.processedCollectionName)
-#    else:
-#        print 'Load Processed Document Collection'
-#        collection.loadPreprocessedCollection(info.processedCollectionName)
 
     print 'Create HTML Files'
     info.saveToFile()

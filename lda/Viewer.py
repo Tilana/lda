@@ -3,13 +3,16 @@ import os, sys
 
 class Viewer:
 
-    def __init__(self, identifier):
-        self.path = 'html/'+identifier
+    def __init__(self, info):
+        self.path = 'html/'+ info.data +'_' + info.identifier
         try:
             os.makedirs(self.path)
+            os.makedirs(self.path + '/Documents')
+            os.makedirs(self.path + '/Topics')
         except OSError:
             if not os.path.isdir(self.path):
                 raise
+        
     
     def listToHtmlTable(self, f, title, unicodeList):
         f.write("""<h4>%s</h4><table>""" % title.encode('utf8'))
@@ -94,7 +97,7 @@ class Viewer:
         f.write("""<col style="width:7%"> <col style="width: 20%"> <col style="width: 7%"> <col style="width:80%"> <col style="width:8%">""")
 
         for topic in model.topics:
-            f.write("<tr><td><a href='%stopic%d.html'> Topic %d</a></td><td>%s </td><td>%.4f</td><td>%s</td><td>%s</td></tr>" % (model.name, topic.number, topic.number, topic.keywords[0:3], topic.medianSimilarity, str(topic.wordDistribution[0:7])[1:-1], topic.intruder))
+            f.write("<tr><td><a href='Topics/%stopic%d.html'> Topic %d</a></td><td>%s </td><td>%.4f</td><td>%s</td><td>%s</td></tr>" % (model.name, topic.number, topic.number, topic.keywords[0:3], topic.medianSimilarity, str(topic.wordDistribution[0:7])[1:-1], topic.intruder))
         f.write("</table>")
         
         f.write("Mean Similarity Score: %.4f" % model.meanScore)
@@ -107,7 +110,7 @@ class Viewer:
     
     def printDocuments(self, collection, lda, topics=1, openHtml=False):
         for ind, doc in enumerate(collection):
-            pagename = self.path + '/doc%02d.html' % ind
+            pagename = self.path + '/Documents/doc%02d.html' % ind
             attributes = doc.__dict__.keys()
             f = open(pagename, 'w')
             f.write("<html><head><h1>Document %02d - %s</h1></head>" % (ind, doc.title))
@@ -118,7 +121,7 @@ class Viewer:
                 f.write("""<col style="width:20%"> <col style="width:50%"> <col style = "width:30%"> """)
                 for coverage in doc.LDACoverage[0:5]:
                     topicNr = coverage[0]
-                    f.write("""<tr><td><a href='LDAtopic%d.html'>Topic %d</a</td> <td> %s</td> <td> Coverage %.2f</td></tr>""" % (topicNr, topicNr, lda.topics[topicNr].keywords[0:2], coverage[1]))
+                    f.write("""<tr><td><a href='../Topics/LDAtopic%d.html'>Topic %d</a</td> <td> %s</td> <td> Coverage %.2f</td></tr>""" % (topicNr, topicNr, lda.topics[topicNr].keywords[0:2], coverage[1]))
                 f.write("</table>")
 
             if 'LSICoverage' in attributes:
@@ -126,7 +129,7 @@ class Viewer:
                 f.write("""<col style="width:20%"> <col style="width:50%"> <col style = "width:30%"> """)
                 for coverage in doc.LSICoverage[0:5]:
                     topicNr = coverage[0]
-                    f.write("""<tr><td><a href='LSItopic%d.html'>Topic %d</a</td> <td> %s</td> <td> Coverage %.2f</td></tr>""" % (topicNr, topicNr, lda.topics[topicNr].keywords[0:2], coverage[1]))
+                    f.write("""<tr><td><a href='../LSItopic%d.html'>Topic %d</a</td> <td> %s</td> <td> Coverage %.2f</td></tr>""" % (topicNr, topicNr, lda.topics[topicNr].keywords[0:2], coverage[1]))
                 f.write("</table>")
 
             if 'targetCategories' in attributes:
@@ -159,7 +162,7 @@ class Viewer:
     
     def printDocsRelatedTopics(self, model, collection, openHtml=False):
         for num in range(0, model.numberTopics): 
-    	    pagename = self.path + '/%stopic%d.html' % (model.name, num)
+    	    pagename = self.path + '/Topics/%stopic%d.html' % (model.name, num)
     	    f = open(pagename, 'w')
     	    f.write("<html><head><h1> %s Document Relevance for Topic %d</h1></head>" %  (model.name, num))
             f.write("<body><h4>Topics and related words - %s Model</h4><table>" % model.name)
@@ -171,7 +174,7 @@ class Viewer:
             f.write("<table>") 
     	    f.write("""<col style="width:10%"> <col style="width:40%"> <col style="width:25%">""")
     	    for doc in model.topics[num].relatedDocuments[0:15]:
-    	    	f.write("<tr><td><a href='doc%02d.html'>Document %d</a></td><td>%s</td><td>Relevance: %.2f</td></tr>" % (doc[1], doc[1], collection[doc[1]].title.encode('utf8'), doc[0]))
+    	    	f.write("<tr><td><a href='../Documents/doc%02d.html'>Document %d</a></td><td>%s</td><td>Relevance: %.2f</td></tr>" % (doc[1], doc[1], collection[doc[1]].title.encode('utf8'), doc[0]))
     
     	    f.write("</table></body></html>")
     	    f.close()
@@ -246,12 +249,3 @@ class Viewer:
         f.close()
         webbrowser.open_new_tab(pagename)
 
-#    def LDATopics(self, name, lda, numberTopics):
-#        f = open(name, 'w')
-#        f.write("""<html><head><h2> LDA - 30 Topics - 40 passes </h2></head><body> <table>""")
-#        
-#        for index in range(0, numberTopics):
-#            f.write("<tr><td> Topic %d </td> <td> %s </td></tr>" % (index, lda.print_topic(index)))
-#        f.write("</table></body></html>")
-#        f.close()
-#        webbrowser.open_new_tab(name)
