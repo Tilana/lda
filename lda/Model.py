@@ -19,7 +19,7 @@ class Model:
         if not os.path.exists(path):
             if self.name=='LDA':
                 if info.multicore:
-                    self.model = models.LdaMulticore(corpus, num_topics = info.numberTopics, id2word=dictionary, passes=info.passes, iterations=info.iterations , batch=1)
+                    self.model = models.LdaMulticore(corpus, num_topics = info.numberTopics, id2word=dictionary, passes=info.passes, iterations=info.iterations , batch=0)
                 else:
                     self.model = models.LdaModel(corpus, num_topics = info.numberTopics, id2word=dictionary, passes=info.passes, iterations=info.iterations , update_every=info.online, chunksize=info.chunksize)
             elif self.name=='LSI':
@@ -70,8 +70,8 @@ class Model:
         document.setAttribute(('%sSimilarity' % self.name), self.similarityMatrix[self.model[document.vectorRepresentation]])
        
 
-    def computeSimilarityMatrix(self, corpus, num_best=7):
-        self.similarityMatrix = similarities.MatrixSimilarity(self.model[corpus], num_best)
+    def computeSimilarityMatrix(self, corpus, numFeatures, num_best=7):
+        self.similarityMatrix = similarities.MatrixSimilarity(self.model[corpus], num_features = numFeatures, num_best=num_best)
 
 
     def getTopicRelatedDocuments(self, corpus, info):

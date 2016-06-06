@@ -5,6 +5,7 @@ from lda.docLoader import loadCategories
 from gensim.parsing.preprocessing import STOPWORDS
 from gensim.models import TfidfModel
 import os.path
+from lda import ImagePlotter
 
 def TM_default():
 
@@ -19,19 +20,19 @@ def TM_default():
     info.includeEntities = 0
     info.preprocess = 0
 
-    info.numberTopics = 10
-    info.passes = 2 
+    info.numberTopics = 30 
+    info.passes = 200 
     info.iterations = 1500 
-    info.online = 0 
-    info.chunksize = 4500 
+    info.online = 1 
+    info.chunksize = 2800 
     info.multicore = 1
     info.tfidf = 0
 
-    info.analyseDictionary = 0
+    info.analyseDictionary = 1
     info.categories = loadCategories('Documents/categories.txt')[0]     #0 -human rights categories   1 - Scientific Paper categories
     
     info.lowerFilter = 20    # in number of documents
-    info.upperFilter = 0.45  # in percent
+    info.upperFilter = 0.40  # in percent
     
     info.setup()
 
@@ -88,7 +89,7 @@ def TM_default():
     lda.getTopicRelatedDocuments(corpus, info)
 
     print 'Similarity Analysis'
-    lda.computeSimilarityMatrix(corpus, num_best = 7)
+    lda.computeSimilarityMatrix(corpus, numFeatures=info.numberTopics, num_best = 7)
 #    lda.saveModel(info.modelPath)
 #    else:
 #        print 'Load Model'
@@ -96,11 +97,15 @@ def TM_default():
 
 #    print 'Topic Coverage/Related Documents/SimilarityAnalysis'
 #    if not os.path.exists(info.processedCollectionName):
+    maxTopicCoverage = []
     for ind, document in enumerate(collection.documents):
         lda.computeTopicCoverage(document)
         lda.computeSimilarity(document)
         collection.computeRelevantWords(tfidf, dictionary, document)
-    collection.saveDocumentCollection(info.processedCollectionName)
+        maxTopicCoverage.append(document.LDACoverage[0][1])
+
+    ImagePlotter.plotHistogram(maxTopicCoverage, 'Maximal Topic Coverage', 'html/' + info.data+'_'+info.identifier+'/Images/maxTopicCoverage.jpg', 'Maximal LDA Coverage', 'Number of Docs', log=1)
+#    collection.saveDocumentCollection(info.processedCollectionName)
     #else:
     #    collection.loadPreprocessedCollection(info.processedCollectionName)
 
