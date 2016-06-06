@@ -80,7 +80,6 @@ def TM_default():
 
     print 'Topic Modeling - LDA'
     lda = Model(info)
-#    if not os.path.exists(info.modelPath):
     lda.createModel(corpus, dictionary.ids, info)
     lda.createTopics(info)
     html.printTopics(lda)
@@ -90,13 +89,7 @@ def TM_default():
 
     print 'Similarity Analysis'
     lda.computeSimilarityMatrix(corpus, numFeatures=info.numberTopics, num_best = 7)
-#    lda.saveModel(info.modelPath)
-#    else:
-#        print 'Load Model'
-#        lda.loadModel(info.modelPath)
 
-#    print 'Topic Coverage/Related Documents/SimilarityAnalysis'
-#    if not os.path.exists(info.processedCollectionName):
     maxTopicCoverage = []
     for ind, document in enumerate(collection.documents):
         lda.computeTopicCoverage(document)
@@ -105,9 +98,6 @@ def TM_default():
         maxTopicCoverage.append(document.LDACoverage[0][1])
 
     ImagePlotter.plotHistogram(maxTopicCoverage, 'Maximal Topic Coverage', 'html/' + info.data+'_'+info.identifier+'/Images/maxTopicCoverage.jpg', 'Maximal LDA Coverage', 'Number of Docs', log=1)
-#    collection.saveDocumentCollection(info.processedCollectionName)
-    #else:
-    #    collection.loadPreprocessedCollection(info.processedCollectionName)
 
     print 'Create HTML Files'
     info.saveToFile()
