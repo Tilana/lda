@@ -2,6 +2,7 @@ from Topic import Topic
 from Word2Vec import Word2Vec
 from gensim import models, similarities
 import utils
+import pickle
 import logging
 import os.path
 
@@ -14,7 +15,7 @@ class Model:
 
     def createModel(self, corpus, dictionary, info):
         logging.basicConfig(format='%(asctime)s: %(levelname)s : %(message)s', level=logging.INFO)
-        path = 'TopicModel/'+info.identifier
+        path = 'TopicModel/'+info.data+'_'+info.identifier
         if not os.path.exists(path):
             if self.name=='LDA':
                 if info.multicore:
@@ -79,6 +80,7 @@ class Model:
             print 'Topic ', ind
             topicCoveragePerTopic = utils.absoluteTupleList(self.zipTopicCoverageList(topicCoverage, ind))
             setattr(topic, 'relatedDocuments', sorted(topicCoveragePerTopic, reverse=True))
+            topic.getRelevanceHistogram()
 
 
 #    def getTopicCoverageInCollection(self, collection):
@@ -97,8 +99,15 @@ class Model:
                     valueList.append((tupleElement[1], index))
         return valueList
 
-#    def save(self, path):
-#        sPickle.s_dump(self.
+    def saveModel(self, path):
+        with open(path, 'wb') as f:
+            pickle.dump(self, f)
+
+    def loadModel(self, path):
+        with open(path, 'rb') as f:
+            self = pickle.load(f)
+
+    
 
 
 

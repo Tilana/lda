@@ -19,11 +19,11 @@ def TM_default():
     info.includeEntities = 0
     info.preprocess = 0
 
-    info.numberTopics = 5
-    info.passes = 2 
-    info.iterations = 500 
-    info.online = 1 
-    info.chunksize = 3000 
+    info.numberTopics = 40 
+    info.passes = 700 
+    info.iterations = 1500 
+    info.online = 0 
+    info.chunksize = 4500 
     info.multicore = 0
     info.tfidf = 0
 
@@ -78,22 +78,30 @@ def TM_default():
 
     print 'Topic Modeling - LDA'
     lda = Model(info)
-    lda.createModel(corpus, dictionary.ids, info)
-    lda.createTopics(info)
-    html.printTopics(lda)
+    if not os.path.exists(info.modelPath):
+        lda.createModel(corpus, dictionary.ids, info)
+        lda.createTopics(info)
+        html.printTopics(lda)
 
-    print 'Get Documents related to Topics'
-    lda.getTopicRelatedDocuments(corpus)
+        print 'Get Documents related to Topics'
+        lda.getTopicRelatedDocuments(corpus)
 
-    print 'Similarity Analysis'
-    lda.computeSimilarityMatrix(corpus, num_best = 7)
+        print 'Similarity Analysis'
+        lda.computeSimilarityMatrix(corpus, num_best = 7)
+        lda.saveModel(info.modelPath)
+    else:
+        print 'Load Model'
+        lda.loadModel(info.modelPath)
 
     print 'Topic Coverage/Related Documents/SimilarityAnalysis'
-    for ind, document in enumerate(collection.documents):
-        lda.computeTopicCoverage(document)
-        lda.computeSimilarity(document)
-        collection.computeRelevantWords(tfidf, dictionary, document)
-    collection.saveDocumentCollection(info.processedCollectionName)
+    if not os.path.exists(info.processedCollectionName):
+        for ind, document in enumerate(collection.documents):
+            lda.computeTopicCoverage(document)
+            lda.computeSimilarity(document)
+            collection.computeRelevantWords(tfidf, dictionary, document)
+        collection.saveDocumentCollection(info.processedCollectionName)
+    else:
+        collection.loadPreprocessedCollection(info.processedCollectionName)
 
     print 'Create HTML Files'
     info.saveToFile()

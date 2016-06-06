@@ -47,6 +47,9 @@ def countOccurance(text, l):
 def listToNumpy(l):
     return np.asarray(l)
 
+def histogram(l):
+    return np.histogram(listToNumpy(l), range=(0,1))
+
 def getMedian(l):
     return np.median(listToNumpy(l))
 
@@ -59,7 +62,6 @@ def indicesOfReverseSorting(indices):
 def getUpperSymmetrixMatrix(matrix):
     matrix = listToNumpy(matrix)
     return list(matrix[np.triu_indices(len(matrix), 1)])
-
 
 def sortTupleList(tupleList):
     return sorted(tupleList, reverse=True, key=lambda x: x[1])

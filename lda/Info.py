@@ -9,6 +9,7 @@ class Info:
         self.setFileType()
         self.setCollectionName()
         self.setProcessedCollectionName()
+        self.setModelPath()
 
 
     def setIdentifier(self):
@@ -46,6 +47,9 @@ class Info:
             self.collectionName = 'dataObjects/'+self.data+'_noEntities'
         if self.numberDoc:
             self.collectionName = self.collectionName + '_%d' % self.numberDoc
+
+    def setModelPath(self):
+        self.modelPath = 'Models/' + self.data + '_' + self.identifier
 
 
     def setProcessedCollectionName(self):

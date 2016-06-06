@@ -97,7 +97,7 @@ class Viewer:
         f.write("""<col style="width:7%"> <col style="width: 20%"> <col style="width: 7%"> <col style="width:80%"> <col style="width:8%">""")
 
         for topic in model.topics:
-            f.write("<tr><td><a href='Topics/%stopic%d.html'> Topic %d</a></td><td>%s </td><td>%.4f</td><td>%s</td><td>%s</td></tr>" % (model.name, topic.number, topic.number, topic.keywords[0:3], topic.medianSimilarity, str(topic.wordDistribution[0:7])[1:-1], topic.intruder))
+            f.write("<tr><td><a href='Topics/%stopic%d.html'> Topic %d</a></td><td>%s </td><td>%.4f</td><td>%s</td><td>%s</td></tr>" % (model.name, topic.number, topic.number, topic.keywords[0:2], topic.medianSimilarity, str(topic.wordDistribution[0:10])[1:-1], topic.intruder))
         f.write("</table>")
         
         f.write("Mean Similarity Score: %.4f" % model.meanScore)
@@ -170,6 +170,8 @@ class Viewer:
             topic = model.topics[num]
             f.write("<tr><td><a href='%stopic%d.html'>Topic %d</a></td><td>%s</td></tr>" % (model.name, topic.number, topic.number, str(topic.wordDistribution)[1:-1].encode('utf-8')))
             f.write("</table>")
+            f.write (""" <h4> Relevance Histogram </h4> """)
+            f.write("%s" % str(topic.relevanceHistogram))
     	    f.write("<h4>Related Documents</h4>")
             f.write("<table>") 
     	    f.write("""<col style="width:10%"> <col style="width:40%"> <col style="width:25%">""")

@@ -1,5 +1,4 @@
 import utils
-import numpy
 
 class Topic:
 
@@ -44,6 +43,15 @@ class Topic:
             similarityMatrix = [word2vec.wordToListSimilarity(word, topicWords) for word in topicWords]
             self.pairwiseSimilarity = utils.getUpperSymmetrixMatrix(similarityMatrix)
             self.medianSimilarity = utils.getMedian(self.pairwiseSimilarity)
+
+    def getRelevanceHistogram(self):
+        if zip(*self.relatedDocuments)!=[]:
+            relevanceScores = zip(*self.relatedDocuments)[0]
+            self.relevanceHistogram = utils.histogram(relevanceScores)
+        else:
+            self.relevanceHistogram = []
+
+        
             
 
 
