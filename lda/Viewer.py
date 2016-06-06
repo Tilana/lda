@@ -9,6 +9,7 @@ class Viewer:
             os.makedirs(self.path)
             os.makedirs(self.path + '/Documents')
             os.makedirs(self.path + '/Topics')
+            os.makedirs(self.path + '/Images')
         except OSError:
             if not os.path.isdir(self.path):
                 raise
@@ -170,9 +171,9 @@ class Viewer:
             topic = model.topics[num]
             f.write("<tr><td><a href='%stopic%d.html'>Topic %d</a></td><td>%s</td></tr>" % (model.name, topic.number, topic.number, str(topic.wordDistribution)[1:-1].encode('utf-8')))
             f.write("</table>")
-            f.write (""" <h4> Relevance Histogram </h4> """)
-            f.write("%s" % str(topic.relevanceHistogram))
-    	    f.write("<h4>Related Documents</h4>")
+            f.write(""" <h4> Relevance Histogram </h4> """)
+            f.write("""<img src="../Images/documentRelevance_topic%d.jpg" alt="wrong path" height="265">""" % num)
+            f.write("<h4>Related Documents</h4>")
             f.write("<table>") 
     	    f.write("""<col style="width:10%"> <col style="width:40%"> <col style="width:25%">""")
     	    for doc in model.topics[num].relatedDocuments[0:15]:

@@ -1,4 +1,5 @@
 import utils
+import ImagePlotter 
 
 class Topic:
 
@@ -44,12 +45,15 @@ class Topic:
             self.pairwiseSimilarity = utils.getUpperSymmetrixMatrix(similarityMatrix)
             self.medianSimilarity = utils.getMedian(self.pairwiseSimilarity)
 
-    def getRelevanceHistogram(self):
+    def getRelevanceHistogram(self, info):
+        path = 'html/' + info.data + '_' + info.identifier + '/Images/documentRelevance_topic%d.jpg' % self.number
         if zip(*self.relatedDocuments)!=[]:
-            relevanceScores = zip(*self.relatedDocuments)[0]
-            self.relevanceHistogram = utils.histogram(relevanceScores)
+            self.relevanceScores = zip(*self.relatedDocuments)[0]
         else:
-            self.relevanceHistogram = []
+            self.relevanceScores = []
+
+        title = 'Frequency of Relevant Documents for Topic %d' % self.number
+        ImagePlotter.plotHistogram(self.relevanceScores, title, path, 'Relevance', 'Number of Documents', log=1, open=0)
 
         
             

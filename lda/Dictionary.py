@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 from Entities import Entities
+import ImagePlotter
 import utils
 from nltk.stem import WordNetLemmatizer
 from gensim import corpora
@@ -32,19 +33,19 @@ class Dictionary:
         return self.ids.get(index)
 
     
-    def plotWordDistribution(self, start=None, end=None):
+    def plotWordDistribution(self, info, start=None, end=None):
+        path = 'html/'+info.data + '_' + info.identifier + '/Images/'
         if start != None:
             distribution = [freq+1 for freq in self.ids.dfs.values() if freq>=start and freq <= end]
-            plt.hist(distribution, log=True)
-            plt.title('Word-Document Histogram  %d -  %d documents' % (start, end))
+            title = 'Word-Document Histogram  %d -  %d documents' % (start, end)
+            filename = 'wordDistribution_%d_%d.jpg' % (start, end)
+            bins = 10
         else:
             distribution = [freq+1 for freq in self.ids.dfs.values()]
-            plt.hist(distribution, bins=20, log=True)
-            plt.title('Word-Document Histogram')
-        
-        plt.xlabel('Number of Documents')
-        plt.ylabel('Frequency of Words')
-        plt.show()
+            title = 'Word-Document Histogram'
+            filename = 'wordDistribution.jpg'
+            bins = 20
+        ImagePlotter.plotHistogram(distribution, title, path+filename, 'Number of Documents', 'Word Frequency', log=1, bins=bins, open=0)
 
         
     def createEntities(self, collection):

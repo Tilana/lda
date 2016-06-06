@@ -19,12 +19,12 @@ def TM_default():
     info.includeEntities = 0
     info.preprocess = 0
 
-    info.numberTopics = 40 
-    info.passes = 700 
+    info.numberTopics = 10
+    info.passes = 2 
     info.iterations = 1500 
     info.online = 0 
     info.chunksize = 4500 
-    info.multicore = 0
+    info.multicore = 1
     info.tfidf = 0
 
     info.analyseDictionary = 0
@@ -54,9 +54,9 @@ def TM_default():
 
     if info.analyseDictionary:
         'Analyse Word Frequency'
-        dictionary.plotWordDistribution()
-        dictionary.plotWordDistribution(1,10)
-        dictionary.plotWordDistribution(collection.number/2, collection.number)
+        dictionary.plotWordDistribution(info)
+        dictionary.plotWordDistribution(info, 1,10)
+        dictionary.plotWordDistribution(info, collection.number/2, collection.number)
 
         dictionary.invertDFS()
         html.wordFrequency(dictionary, 1, 10)
@@ -66,7 +66,8 @@ def TM_default():
     print 'Filter extremes'
     dictionary.ids.filter_extremes(info.lowerFilter, info.upperFilter)
     if info.analyseDictionary:
-        dictionary.plotWordDistribution()
+        dictionary.plotWordDistribution(info)
+
     
     print 'Create Corpus'
     corpus = collection.createCorpus(dictionary)
@@ -78,30 +79,30 @@ def TM_default():
 
     print 'Topic Modeling - LDA'
     lda = Model(info)
-    if not os.path.exists(info.modelPath):
-        lda.createModel(corpus, dictionary.ids, info)
-        lda.createTopics(info)
-        html.printTopics(lda)
+#    if not os.path.exists(info.modelPath):
+    lda.createModel(corpus, dictionary.ids, info)
+    lda.createTopics(info)
+    html.printTopics(lda)
 
-        print 'Get Documents related to Topics'
-        lda.getTopicRelatedDocuments(corpus)
+    print 'Get Documents related to Topics'
+    lda.getTopicRelatedDocuments(corpus, info)
 
-        print 'Similarity Analysis'
-        lda.computeSimilarityMatrix(corpus, num_best = 7)
-        lda.saveModel(info.modelPath)
-    else:
-        print 'Load Model'
-        lda.loadModel(info.modelPath)
+    print 'Similarity Analysis'
+    lda.computeSimilarityMatrix(corpus, num_best = 7)
+#    lda.saveModel(info.modelPath)
+#    else:
+#        print 'Load Model'
+#        lda.loadModel(info.modelPath)
 
-    print 'Topic Coverage/Related Documents/SimilarityAnalysis'
-    if not os.path.exists(info.processedCollectionName):
-        for ind, document in enumerate(collection.documents):
-            lda.computeTopicCoverage(document)
-            lda.computeSimilarity(document)
-            collection.computeRelevantWords(tfidf, dictionary, document)
-        collection.saveDocumentCollection(info.processedCollectionName)
-    else:
-        collection.loadPreprocessedCollection(info.processedCollectionName)
+#    print 'Topic Coverage/Related Documents/SimilarityAnalysis'
+#    if not os.path.exists(info.processedCollectionName):
+    for ind, document in enumerate(collection.documents):
+        lda.computeTopicCoverage(document)
+        lda.computeSimilarity(document)
+        collection.computeRelevantWords(tfidf, dictionary, document)
+    collection.saveDocumentCollection(info.processedCollectionName)
+    #else:
+    #    collection.loadPreprocessedCollection(info.processedCollectionName)
 
     print 'Create HTML Files'
     info.saveToFile()

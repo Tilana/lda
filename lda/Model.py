@@ -74,13 +74,13 @@ class Model:
         self.similarityMatrix = similarities.MatrixSimilarity(self.model[corpus], num_best)
 
 
-    def getTopicRelatedDocuments(self, corpus):
+    def getTopicRelatedDocuments(self, corpus, info):
         topicCoverage = self.model[corpus]
         for ind, topic in enumerate(self.topics):
             print 'Topic ', ind
             topicCoveragePerTopic = utils.absoluteTupleList(self.zipTopicCoverageList(topicCoverage, ind))
             setattr(topic, 'relatedDocuments', sorted(topicCoveragePerTopic, reverse=True))
-            topic.getRelevanceHistogram()
+            topic.getRelevanceHistogram(info)
 
 
 #    def getTopicCoverageInCollection(self, collection):
