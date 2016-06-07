@@ -16,6 +16,8 @@ class Info:
         self.identifier = '%s_T%dP%dI%d' %(self.modelType, self.numberTopics, self.passes, self.iterations)
         if self.tfidf:
             self.identifier = self.identifier + '_tfidf'
+        if self.whiteList != None:
+            self.identifier = self.identifier + '_whiteList'
 
 
     def setFileType(self):

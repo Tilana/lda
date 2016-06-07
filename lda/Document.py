@@ -16,7 +16,7 @@ class Document:
     def createTokens(self):
         self.tokens= self._tokenizeDocument()
 
-    def prepareDocument(self, lemmatize=True, includeEntities=True, stopwords=None, specialChars=None, removeShortTokens=True, threshold=1):
+    def prepareDocument(self, lemmatize=True, includeEntities=True, stopwords=None, specialChars=None, removeShortTokens=True, threshold=1, whiteList = None):
         self.text = self.text.decode('utf8', 'ignore')
         self.tokens = self._tokenizeDocument()
         self.original = self.tokens
@@ -34,6 +34,9 @@ class Document:
             self.removeSpecialCharacters()
         if removeShortTokens:
             self.removeShortTokens(threshold)
+        if whiteList is not None:
+            self.tokens = [token for token in self.tokens if token in whiteList]
+
 
     def lemmatizeTokens(self):
         wordnet = WordNetLemmatizer()

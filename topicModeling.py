@@ -6,6 +6,7 @@ from gensim.parsing.preprocessing import STOPWORDS
 from gensim.models import TfidfModel
 import os.path
 from lda import ImagePlotter
+from lda import Word2Vec
 
 def TM_default():
 
@@ -14,25 +15,29 @@ def TM_default():
     info.data = 'ICAAD'     # 'ICAAD' 'NIPS' 'scifibooks'
     info.modelType = 'LDA'  # 'LDA' 'LSI'
     
-    info.startDoc = 0
-    info.numberDoc= None 
+    info.startDoc = 0 
+    info.numberDoc= 100 
     info.specialChars = set(u'''[,\.\'\`=\":\\\/_+]''')
     info.includeEntities = 0
     info.preprocess = 0
 
-    info.numberTopics = 30 
-    info.passes = 200 
+    info.numberTopics = 21 
+    info.passes = 204 
     info.iterations = 1500 
     info.online = 1 
-    info.chunksize = 2800 
+    info.chunksize = 4100 
     info.multicore = 1
     info.tfidf = 0
-
+    
+    info.whiteList = ['sexual', 'rape', 'assault', 'penetration', 'women', 'vagina', 'child', 'subdue', 'harassment', 'forced', 'abuse', 'sexually', 'exploitation', 'prostitution', 'strip', 'nude', 'sex', 'trafficking', 'incest', 'aggression', 'offender', 'genital', 'family', 'parent', 'sibling', 'intimate', 'marriage', 'gay', 'lesbian', 'boy', 'girl', 'porn', 'pornography', 'victim', 'violation', 'touch', 'body', 'penis', 'stalking', 'bank', 'banking', 'bond', 'comission', 'credit','debit', 'debt', 'deposit', 'money', 'interest', 'rate', 'mortgage', 'savings', 'vault', 'withdrawal', 'account', 'payment', 'bancrupt', 'finance', 'beneficiary', 'cash', 'cost', 'currency', 'default', 'fund', 'bill', 'sale', 'selling', 'solvent', 'solvency', 'tax', 'payer', 'taxes', 'fraud', 'loan', 'bribery', 'evasion', 'laundring', 'money', 'theft', 'forgery', 'charge']
+    word2vec = Word2Vec()
+    info.whiteList= word2vec.net.vocab.keys()
+    
     info.analyseDictionary = 1
     info.categories = loadCategories('Documents/categories.txt')[0]     #0 -human rights categories   1 - Scientific Paper categories
     
-    info.lowerFilter = 20    # in number of documents
-    info.upperFilter = 0.40  # in percent
+    info.lowerFilter = 5    # in number of documents
+    info.upperFilter = 0.55  # in percent
     
     info.setup()
 
@@ -43,7 +48,7 @@ def TM_default():
     if not os.path.exists(info.collectionName) or info.preprocess:
         print 'Load and preprocess Document Collection'
         collection.load(info.path, info.fileType, info.startDoc, info.numberDoc)
-        collection.prepareDocumentCollection(lemmatize=True, includeEntities=False, stopwords=STOPWORDS, removeShortTokens=True, specialChars=info.specialChars)
+        collection.prepareDocumentCollection(lemmatize=True, includeEntities=False, stopwords=STOPWORDS, removeShortTokens=True, specialChars=info.specialChars, whiteList=info.whiteList)
         collection.saveDocumentCollection(info.collectionName)
     else:
         print 'Load Processed Document Collection'
@@ -82,7 +87,7 @@ def TM_default():
     lda = Model(info)
     lda.createModel(corpus, dictionary.ids, info)
     lda.createTopics(info)
-    html.printTopics(lda)
+    
 
     print 'Get Documents related to Topics'
     lda.getTopicRelatedDocuments(corpus, info)
@@ -101,10 +106,12 @@ def TM_default():
 
     print 'Create HTML Files'
     info.saveToFile()
+    html.printTopics(lda)
     html.htmlDictionary(dictionary)
     html.printTopics(lda)
     html.printDocuments(collection.documents, lda)# , openHtml=True)
     html.printDocsRelatedTopics(lda, collection.documents, openHtml=False)
+    html.documentOverview(collection.documents)
    
 if __name__ == "__main__":
     TM_default()

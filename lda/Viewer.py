@@ -89,16 +89,37 @@ class Viewer:
         f.close()
         webbrowser.open_new_tab(self.path + '/dictionaryCollection.html')
 
+    def documentOverview(self, collection):
+        name = self.path + '/documents.html'
+        f = open(name, 'w')
+        f.write("""<html><head><h2> Document Overview </h2></head><body>""")
+        f.write("""<img src="Images/maxTopicCoverage.jpg" alt="wrong path" height="280">""")
+        sortedCollection = sorted(collection, key=lambda document: document.LDACoverage[0][1], reverse=True)
+        indices = [ind[0] for ind in sorted(enumerate(collection), key=lambda document: ind[1].LDACoverage[0][1], reverse=True)]
+        f.write("""<h4> LDA Topic coverage:</h4><table>""")
+        for ind, document in enumerate(sortedCollection):
+            f.write("""<tr><td><a href='Documents/doc%02d.html'> %s </a></td> <td> %0.4f </td> <td> <a href='Topics/LDAtopic%d.html' > Topic %d </a> </td></tr>""" % (indices[ind], document.title, document.LDACoverage[0][1], document.LDACoverage[0][0], document.LDACoverage[0][0]))
+        f.write("</table>")
+        f.write("</body></html>")
+        f.close()
+        webbrowser.open_new_tab(name)
+
 
     def printTopics(self, model):
         filename = self.path + '/%stopics.html' % model.name
         f = open(filename, 'w')
         f.write("<html><head><h1> %s Topics</h1></head>" % model.name)
         f.write("<body><p>Topics and related words - %s Model</p><table>" % model.name )
-        f.write("""<col style="width:7%"> <col style="width: 20%"> <col style="width: 7%"> <col style="width:80%"> <col style="width:8%">""")
+        f.write("""<col style="width:7%"> <col style="width: 15%"> <col style="width:7%"> <col style="width: 7%"> <col style="width:80%"> <col style="width:8%">""")
 
         for topic in model.topics:
-            f.write("<tr><td><a href='Topics/%stopic%d.html'> Topic %d</a></td><td>%s </td><td>%.4f</td><td>%s</td><td>%s</td></tr>" % (model.name, topic.number, topic.number, topic.keywords[0:2], topic.medianSimilarity, str(topic.wordDistribution[0:10])[1:-1], topic.intruder))
+            topic.score = sum(topic.relevanceScores)
+            if max(topic.relevanceScores)<0.2:
+                f.write("<tr><td><a href='Topics/%stopic%d.html'>  <font color='red'> Topic %d </font> </a></td><td>%s </td><td>%.4f</td><td>%.4f</td><td>%s</td><td>%s</td></tr>" % (model.name, topic.number, topic.number, topic.keywords[0:2], topic.score, topic.medianSimilarity, str(topic.wordDistribution[0:10])[1:-1], topic.intruder))
+            elif max(topic.relevanceScores)>0.8:
+                f.write("<tr><td><a href='Topics/%stopic%d.html'>  <font color='green'> Topic %d </font> </a></td><td>%s </td><td>%.4f</td><td>%.4f</td><td>%s</td><td>%s</td></tr>" % (model.name, topic.number, topic.number, topic.keywords[0:2], topic.score, topic.medianSimilarity, str(topic.wordDistribution[0:10])[1:-1], topic.intruder))
+            else:
+                f.write("<tr><td><a href='Topics/%stopic%d.html'> Topic %d </a></td><td>%s </td><td>%.4f</td><td>%.4f</td><td>%s</td><td>%s</td></tr>" % (model.name, topic.number, topic.number, topic.keywords[0:2], topic.score, topic.medianSimilarity, str(topic.wordDistribution[0:10])[1:-1], topic.intruder))
         f.write("</table>")
         
         f.write("Mean Similarity Score: %.4f" % model.meanScore)
@@ -172,11 +193,11 @@ class Viewer:
             f.write("<tr><td><a href='%stopic%d.html'>Topic %d</a></td><td>%s</td></tr>" % (model.name, topic.number, topic.number, str(topic.wordDistribution)[1:-1].encode('utf-8')))
             f.write("</table>")
             f.write(""" <h4> Relevance Histogram </h4> """)
-            f.write("""<img src="../Images/documentRelevance_topic%d.jpg" alt="wrong path" height="265">""" % num)
+            f.write("""<img src="../Images/documentRelevance_topic%d.jpg" alt="wrong path" height="280">""" % num)
             f.write("<h4>Related Documents</h4>")
             f.write("<table>") 
     	    f.write("""<col style="width:10%"> <col style="width:40%"> <col style="width:25%">""")
-    	    for doc in model.topics[num].relatedDocuments[0:15]:
+    	    for doc in model.topics[num].relatedDocuments[0:300]:
     	    	f.write("<tr><td><a href='../Documents/doc%02d.html'>Document %d</a></td><td>%s</td><td>Relevance: %.2f</td></tr>" % (doc[1], doc[1], collection[doc[1]].title.encode('utf8'), doc[0]))
     
     	    f.write("</table></body></html>")

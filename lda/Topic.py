@@ -50,7 +50,7 @@ class Topic:
         if zip(*self.relatedDocuments)!=[]:
             self.relevanceScores = zip(*self.relatedDocuments)[0]
         else:
-            self.relevanceScores = []
+            self.relevanceScores = [0]
 
         title = 'Frequency of Relevant Documents for Topic %d' % self.number
         ImagePlotter.plotHistogram(self.relevanceScores, title, path, 'Relevance', 'Number of Documents', log=1, open=0)

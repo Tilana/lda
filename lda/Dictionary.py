@@ -12,7 +12,7 @@ class Dictionary:
     def __init__(self, stopwords=None):
         self.words = set([])
         self.ids = corpora.Dictionary()
-        self.specialCharacters = set([]) 
+        self.specialCharacters = set([])
         self.stopwords = set([]) if stopwords is None else stopwords           
 
     def addCollection(self, collection):
