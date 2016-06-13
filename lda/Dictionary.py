@@ -70,4 +70,13 @@ class Dictionary:
         for entity in self.entities.getEntities():
             self.words.add(entity[0].lower())
 
- 
+    def analyseWordFrequencies(self, info, html, length):
+        halfLength = length/2
+        self.plotWordDistribution(info)                    
+        self.plotWordDistribution(info, 1,10)
+        self.plotWordDistribution(info, halfLength, length)
+
+        self.invertDFS()
+        html.wordFrequency(self, 1, 10)
+        html.wordFrequency(self, 10, halfLength)
+        html.wordFrequency(self, halfLength, length) 

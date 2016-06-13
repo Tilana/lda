@@ -17,7 +17,7 @@ class Info:
         if self.tfidf:
             self.identifier = self.identifier + '_tfidf'
         if self.whiteList != None:
-            self.identifier = self.identifier + '_whiteList'
+            self.identifier = self.identifier + '_word2vec'
 
 
     def setFileType(self):
@@ -49,6 +49,9 @@ class Info:
             self.collectionName = 'dataObjects/'+self.data+'_noEntities'
         if self.numberDoc:
             self.collectionName = self.collectionName + '_%d' % self.numberDoc
+        
+        if self.whiteList:
+            self.collectionName = self.collectionName + '_word2vec'
 
     def setModelPath(self):
         self.modelPath = 'Models/' + self.data + '_' + self.identifier

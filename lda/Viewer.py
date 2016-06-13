@@ -95,7 +95,7 @@ class Viewer:
         f.write("""<html><head><h2> Document Overview </h2></head><body>""")
         f.write("""<img src="Images/maxTopicCoverage.jpg" alt="wrong path" height="280">""")
         sortedCollection = sorted(collection, key=lambda document: document.LDACoverage[0][1], reverse=True)
-        indices = [ind[0] for ind in sorted(enumerate(collection), key=lambda document: ind[1].LDACoverage[0][1], reverse=True)]
+        indices = [ind[0] for ind in sorted(enumerate(collection), key=lambda document: document[1].LDACoverage[0][1], reverse=True)]
         f.write("""<h4> LDA Topic coverage:</h4><table>""")
         for ind, document in enumerate(sortedCollection):
             f.write("""<tr><td><a href='Documents/doc%02d.html'> %s </a></td> <td> %0.4f </td> <td> <a href='Topics/LDAtopic%d.html' > Topic %d </a> </td></tr>""" % (indices[ind], document.title, document.LDACoverage[0][1], document.LDACoverage[0][0], document.LDACoverage[0][0]))

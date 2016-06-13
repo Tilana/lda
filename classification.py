@@ -1,16 +1,20 @@
-from lda import ClassificationModel, Viewer
+from lda import ClassificationModel, Viewer, Info
 from sklearn.tree import DecisionTreeClassifier
 
 def classification():
 
     ##### PARAMETERS #####
     path = 'Documents/PACI.csv'
+    info = Info()
+    info.data = 'ICAAD'
+    info.identifier = 'classification'
 
-    targetFeature = 'Domestic.Violence.Manual'
-    #targetFeature = 'Sexual.Assault'
+    #targetFeature = 'Domestic.Violence.Manual'
+    targetFeature = 'Sexual.Assault'
 
-    droplist = ['Strength.of.SA', 'Sexual.Assault.Manual', 'Unnamed: 0']
-    droplist = ['Unnamed: 0']
+    droplist = ['Sexual.Assault.Manual', 'Unnamed: 0']
+#    droplist = ['Strength.of.SA', 'Sexual.Assault.Manual', 'Unnamed: 0']
+#    droplist = ['Unnamed: 0']
 
     ### PREPROCESSING ###
     model = ClassificationModel(path, targetFeature, droplist)
@@ -41,7 +45,7 @@ def classification():
     model.confusionMatrix()
     model.featureImportance()
 
-    Viewer().classificationResults(model)
+    Viewer(info).classificationResults(model)
 
    
 if __name__ == "__main__":
