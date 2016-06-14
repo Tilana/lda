@@ -47,18 +47,16 @@ class testDocument(unittest.TestCase):
         self.assertEqual(testDocument.tokens, self.targetDocument.tokens)
 
 
-    def test_prepareDocument_lemmatize(self):
-        self.testDocument.prepareDocument(lemmatize=True, includeEntities=False, stopwords = None, specialChars = None, removeShortTokens=False, threshold=1)
-
-        self.targetDocument.tokens = ['test','of','tokenization','date','like', '12.03.1998', ',', '103/78', 'and', 'world','health', 'organisation', 'should', 'be', 'keep', 'together', '.', 'word', 'appear', 'more', 'more', 'often', '!', '?']
-        self.assertEqual(self.testDocument.tokens, self.targetDocument.tokens)
-
-
     def test_prepareDocument(self):
-        self.testDocument.prepareDocument(lemmatize=True, includeEntities=True, stopwords=self.stoplist, specialChars = self.specialChars)
+        targetDocument = Document('','')
+        testDocument = Document('Test Doc', 'Test of tokenization\n remove to short words and spe?cial char/s, words not in whitelist or in stoplist') 
+        stoplist = ['and', 'of', 'stoplist']
+        specialChars = r'.*[?/].*'
+        whiteList = ['test', 'of', 'tokenization', 'remove', 'to', 'short', 'word', 'spec?cial', 'char/s', 'in', 'stoplist']
+        testDocument.prepareDocument(lemmatize=True, includeEntities=False, stopwords=stoplist, specialChars=specialChars, removeShortTokens=True, threshold=2, whiteList=whiteList)
 
-        self.targetDocument.tokens = ['test', 'tokenization','date','like', 'should', 'be', 'keep', 'together', 'word', 'appear', 'more', 'more', 'often', 'world health organisation']
-        self.assertEqual(self.testDocument.tokens, self.targetDocument.tokens)
+        targetDocument.tokens = ['test', 'tokenization','remove','short', 'word', 'word', ]
+        self.assertEqual(testDocument.tokens, targetDocument.tokens)
 
 
     def test_appendEntities(self):

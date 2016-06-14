@@ -52,6 +52,8 @@ class Info:
         
         if self.whiteList:
             self.collectionName = self.collectionName + '_word2vec'
+        if self.removeNames:
+            self.collectionName = self.collectionName + '_noNames'
 
     def setModelPath(self):
         self.modelPath = 'Models/' + self.data + '_' + self.identifier

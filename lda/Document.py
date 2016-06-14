@@ -20,23 +20,24 @@ class Document:
         self.text = self.text.decode('utf8', 'ignore')
         self.tokens = self._tokenizeDocument()
         self.original = self.tokens
+        if stopwords is None:
+            stopwords = []
+        if specialChars is None:
+            specialChars = []
+        if whiteList is None:
+            whiteList = list(set(self.tokens) - set(stopwords))
+
         if lemmatize:
             self.lemmatizeTokens()
+        processedTokens = []
+
+        self.tokens = [token for token in self.tokens if (token not in stopwords) and (token in whiteList)]
+
+        self.tokens = [token for token in self.tokens if not utils.containsAny(token, specialChars) and len(token) > threshold]
         if includeEntities:
             if self.entities.isEmpty():
                 self.createEntities()
             self.appendEntities()
-        if stopwords is not None:
-            self.removeStopwords(stopwords)
-        if specialChars is not None:
-            if not self.hasSpecialCharAttribute():
-                self.findSpecialCharacterTokens(specialChars)
-            self.removeSpecialCharacters()
-        if removeShortTokens:
-            self.removeShortTokens(threshold)
-        if whiteList is not None:
-            self.tokens = [token for token in self.tokens if token in whiteList]
-
 
     def lemmatizeTokens(self):
         wordnet = WordNetLemmatizer()

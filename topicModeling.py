@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #-*- coding: utf-8 -*-
-from lda import Collection, Dictionary, Model, Info, Viewer
+from lda import Collection, Dictionary, Model, Info, Viewer, utils
 from lda.docLoader import loadCategories
 from gensim.parsing.preprocessing import STOPWORDS
 from nltk.corpus import names
@@ -17,7 +17,7 @@ def TM_default():
     
     info.preprocess = 0
     info.startDoc = 0 
-    info.numberDoc= 50 
+    info.numberDoc= 15 
     info.specialChars = set(u'''[,\.\'\`=\":\\\/_+]''')
     info.includeEntities = 0
 
@@ -26,9 +26,9 @@ def TM_default():
 
     info.modelType = 'LDA'  # 'LDA' 'LSI'
     info.numberTopics = 34 
-    info.tfidf = 1
-    info.passes = 64 
-    info.iterations = 1500 
+    info.tfidf = 0
+    info.passes = 66 
+    info.iterations = 1600 
     info.online = 1 
     info.chunksize = 4100 
     info.multicore = 1
@@ -36,7 +36,8 @@ def TM_default():
 #    info.whiteList = ['sexual', 'rape', 'assault', 'penetration', 'women', 'vagina', 'child', 'subdue', 'harassment', 'forced', 'abuse', 'sexually', 'exploitation', 'prostitution', 'strip', 'nude', 'sex', 'trafficking', 'incest', 'aggression', 'offender', 'genital', 'family', 'parent', 'sibling', 'intimate', 'marriage', 'gay', 'lesbian', 'boy', 'girl', 'porn', 'pornography', 'victim', 'violation', 'touch', 'body', 'penis', 'stalking', 'bank', 'banking', 'bond', 'comission', 'credit','debit', 'debt', 'deposit', 'money', 'interest', 'rate', 'mortgage', 'savings', 'vault', 'withdrawal', 'account', 'payment', 'bancrupt', 'finance', 'beneficiary', 'cash', 'cost', 'currency', 'default', 'fund', 'bill', 'sale', 'selling', 'solvent', 'solvency', 'tax', 'payer', 'taxes', 'fraud', 'loan', 'bribery', 'evasion', 'laundring', 'money', 'theft', 'forgery', 'charge']
     word2vec = Word2Vec()
     info.whiteList= word2vec.net.vocab.keys()
-    info.stoplist = list(STOPWORDS) + names.words()
+    info.removeNames = 1
+    info.stoplist = list(STOPWORDS) + utils.lowerList(names.words())
     
     info.analyseDictionary = 1
     info.categories = loadCategories('Documents/categories.txt')[0]     #0 -human rights categories   1 - Scientific Paper categories
@@ -50,7 +51,7 @@ def TM_default():
     if not os.path.exists(info.collectionName) or info.preprocess:
         print 'Load and preprocess Document Collection'
         collection.load(info.path, info.fileType, info.startDoc, info.numberDoc)
-        collection.prepareDocumentCollection(lemmatize=True, includeEntities=False, stopwords=info.stoplist, removeShortTokens=True, specialChars=info.specialChars, whiteList=info.whiteList)
+        collection.prepareDocumentCollection(lemmatize=True, includeEntities=False, stopwords=info.stoplist, removeShortTokens=True, threshold=2, specialChars=info.specialChars, whiteList=info.whiteList)
         collection.saveDocumentCollection(info.collectionName)
     else:
         print 'Load Processed Document Collection'
