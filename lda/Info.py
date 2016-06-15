@@ -25,8 +25,8 @@ class Info:
             self.fileType = 'folder'
         elif self.data == 'NIPS':
             self.fileType = 'csv'
-        elif self.data == 'scifibooks':
-            self.fileType == 'folder'
+        elif self.data == 'scifibooks' or self.data =='HRC':
+            self.fileType = 'folder'
         else:
             print 'Data not found'
 
@@ -37,7 +37,9 @@ class Info:
         elif self.data == 'NIPS':
             self.path = 'Documents/NIPS/Papers.csv'
         elif self.data == 'scifibooks':
-            self.path == 'Documents/scifibookspdf'
+            self.path = 'Documents/scifibookspdf'
+        elif self.data == 'HRC':
+            self.path = 'Documents/HRC/resolutions'
         else:
             print 'Data not found'
 
@@ -55,9 +57,9 @@ class Info:
         if self.removeNames:
             self.collectionName = self.collectionName + '_noNames'
 
+
     def setModelPath(self):
         self.modelPath = 'Models/' + self.data + '_' + self.identifier
-
 
     def setProcessedCollectionName(self):
         self.processedCollectionName = self.collectionName + '_' + self.identifier

@@ -59,12 +59,6 @@ class Model:
             topicList.append(topic)
         return topicList
 
-
-    def computeTopicCoverage(self, document):
-        topicCoverage = self.model[document.vectorRepresentation]
-        topicCoverage = utils.sortTupleList(utils.absoluteTupleList(topicCoverage))
-        document.setAttribute(('%sCoverage' % self.name), topicCoverage)
-        
     
     def computeSimilarity(self, document):
         document.setAttribute(('%sSimilarity' % self.name), self.similarityMatrix[self.model[document.vectorRepresentation]])
@@ -73,32 +67,15 @@ class Model:
     def computeSimilarityMatrix(self, corpus, numFeatures, num_best=7):
         self.similarityMatrix = similarities.MatrixSimilarity(self.model[corpus], num_features = numFeatures, num_best=num_best)
 
-
-    def getTopicRelatedDocuments(self, corpus, info):
-        topicCoverage = self.model[corpus]
-        for ind, topic in enumerate(self.topics):
-            print 'Topic ', ind
-            topicCoveragePerTopic = utils.absoluteTupleList(self.zipTopicCoverageList(topicCoverage, ind))
-            setattr(topic, 'relatedDocuments', sorted(topicCoveragePerTopic, reverse=True))
+    def getTopicRelatedDocuments(self, topicCoverage, info):
+        for topicNr, topic in enumerate(self.topics):
+            print 'Topic ' + str(topicNr)
+            relevance = [dict(doc).get(topicNr, 0.0) for doc in topicCoverage]
+            topDocuments = sorted(((v, i) for i,v in enumerate(relevance)), reverse=True)
+            setattr(topic, 'relatedDocuments', topDocuments)
             topic.getRelevanceHistogram(info)
 
-
-#    def getTopicCoverageInCollection(self, collection):
-#        coverageList = []
-#        for document in collection:
-#            topicCoverage = getattr(document, ('%sCoverage' % self.name))
-#            coverageList.append(topicCoverage)
-#        return coverageList
-#
-
-    def zipTopicCoverageList(self, coverageList, value):
-        valueList = []
-        for index, documents in enumerate(coverageList):
-            for tupleElement in documents:
-                if tupleElement[0]==value:
-                    valueList.append((tupleElement[1], index))
-        return valueList
-
+    
     def saveModel(self, path):
         with open(path, 'wb') as f:
             pickle.dump(self, f)

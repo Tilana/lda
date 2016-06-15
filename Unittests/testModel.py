@@ -27,62 +27,6 @@ class testModel(unittest.TestCase):
             self.assertEqual(targetList[ind].number, testList[ind].number)
             self.assertEqual(targetList[ind].wordDistribution, testList[ind].wordDistribution)
 
-#    def test_getTopicRelatedDocuments(self):
-#        targetList0 = [(0.23, 0), (0, 0.77, 2)]
-#
-#
-#    def test_getTopicCoverageInCollection(self):
-#        model = Model('LDA', 3)
-#        collection = [document(), document(), document()]
-#        collection[0].LDACoverage = [(0, 0.23), (1, 0.77)]
-#        collection[1].LDACoverage = [(1, 0.74), (2, 0.21)]
-#        collection[2].LDACoverage = [(1, 0.83), (2, 0.42)]
-#
-#        targetList = [[(0, 0.23), (1, 0.77)], [(1, 0.74), (2, 0.21)], [(1, 0.83), (2, 0.42)]]
-#
-#        self.assertEqual(targetList, model.getTopicCoverageInCollection(collection))
-#
-    
-#    def test_getTopicRelatedDocuments(self):
-#
-#        corpus = [[(0,1), (1,2), (2,1)]
-#                [(0,1), (3,1), (4,2), (5,1)]
-#                [(1,2), (2,1), (4,1), (6,2), (7,1)]]
-#        targetModel = Model('LSI', 3)
-#        testModel = Model('LDA', 3)
-#
-#        targetModel.topics = [Topic(), Topic(), Topic()]
-#        testModel.topics = [Topic(), Topic(), Topic()]
-#
-#        collection = [document(), document(), document()]
-#        collection[0].LDACoverage = [(0, 0.23), (1, 0.77)]
-#        collection[1].LDACoverage = [(1, 0.74), (2, 0.21)]
-#        collection[2].LDACoverage = [(1, 0.83), (2, 0.42)]
-#
-#        testModel.getTopicRelatedDocuments(collection)
-#        targetModel.topics[0].relatedDocuments = [(0.23, 0)]
-#        targetModel.topics[1].relatedDocuments = [(0.83, 2), (0.77, 0), (0.74, 1)]
-#        targetModel.topics[2].relatedDocuments = [(0.42, 2), (0.21, 1)]
-#        for ind, topic in enumerate(targetModel.topics):
-#            self.assertEqual(targetModel.topics[ind].relatedDocuments, testModel.topics[ind].relatedDocuments)
-#
-       
-    def test_zipTopicCoverageList(self):
-        info = Info()
-        info.modelType = 'LDA'
-        info.numberTopics = 3
-        info.categories = []
-        model = Model(info)
-        collection = [[(0,0.23), (1,0.942), (2,0.94)], [(1, 0.42), (3,0.21)], [(0, 0.77), (2, 0.22), (2, 0.47)]]
-        targetList0 = [(0.23, 0), (0.77, 2)]
-        targetList1 = [(0.942, 0), (0.42, 1)]
-        targetList2 = [(0.94, 0), (0.22, 2), (0.47, 2)]
-
-        self.assertEqual(model.zipTopicCoverageList(collection, 0), targetList0)
-        self.assertEqual(model.zipTopicCoverageList(collection, 1), targetList1)
-        self.assertEqual(model.zipTopicCoverageList(collection, 2), targetList2)
-
-
 
 if __name__ == '__main__':
     unittest.main()

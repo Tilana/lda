@@ -59,6 +59,10 @@ class Document:
     
     def hasSpecialCharAttribute(self):
         return hasattr(self, 'specialCharacters')
+
+    def setTopicCoverage(self, coverage, name):
+        sortedCoverage = utils.sortTupleList(coverage)
+        self.setAttribute(('%sCoverage' % name), sortedCoverage)
    
     def _tokenizeDocument(self):
         return [word.lower() for word in nltk.word_tokenize(self.text)]

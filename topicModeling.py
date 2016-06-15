@@ -13,22 +13,22 @@ def TM_default():
 
     #### PARAMETERS ####
     info = Info()
-    info.data = 'ICAAD'     # 'ICAAD' 'NIPS' 'scifibooks'
+    info.data = 'HRC'     # 'ICAAD' 'NIPS' 'scifibooks' 'HRC'
     
     info.preprocess = 0
     info.startDoc = 0 
-    info.numberDoc= 15 
+    info.numberDoc= None 
     info.specialChars = set(u'''[,\.\'\`=\":\\\/_+]''')
     info.includeEntities = 0
 
-    info.lowerFilter = 15    # in number of documents
+    info.lowerFilter = 10     # in number of documents
     info.upperFilter = 0.35  # in percent
 
     info.modelType = 'LDA'  # 'LDA' 'LSI'
-    info.numberTopics = 34 
-    info.tfidf = 0
-    info.passes = 66 
-    info.iterations = 1600 
+    info.numberTopics = 10 
+    info.tfidf = 1
+    info.passes = 10
+    info.iterations = 100 
     info.online = 1 
     info.chunksize = 4100 
     info.multicore = 1
@@ -84,17 +84,19 @@ def TM_default():
     lda = Model(info)
     lda.createModel(corpus, dictionary.ids, info)
     lda.createTopics(info)
-    
 
+    print 'Topic Coverage'
+    topicCoverage = lda.model[corpus]
+    
     print 'Get Documents related to Topics'
-    lda.getTopicRelatedDocuments(corpus, info)
+    lda.getTopicRelatedDocuments(topicCoverage, info)
 
     print 'Similarity Analysis'
     lda.computeSimilarityMatrix(corpus, numFeatures=info.numberTopics, num_best = 7)
 
     maxTopicCoverage = []
     for ind, document in enumerate(collection.documents):
-        lda.computeTopicCoverage(document)
+        document.setTopicCoverage(topicCoverage[ind], lda.name)
         lda.computeSimilarity(document)
         collection.computeRelevantWords(tfidf, dictionary, document)
         maxTopicCoverage.append(document.LDACoverage[0][1])
