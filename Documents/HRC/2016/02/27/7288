@@ -1,0 +1,1956 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html><head><title>&#61482;&#61489;&#61493;&#61488;&#61497;&#61493;&#61496;&#61493;&#61482;</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body><p><b> </b></p>
+<p>GE.15-09585  (E) 
+</p>
+<p>&#61482;&#61489;&#61493;&#61488;&#61497;&#61493;&#61496;&#61493;&#61482; 
+</p>
+<p><b>Human Rights Council 
+Twenty-ninth session 
+</b></p>
+<p>Agenda item 3 
+</p>
+<p><b>Promotion and protection of all human rights, civil,  
+</b></p>
+<p><b>political, economic, social and cultural rights, 
+</b></p>
+<p><b>including the right to development 
+</b></p>
+<p><b>  Report of the Special Rapporteur on the promotion and 
+protection of the right to freedom of opinion and expression, 
+David Kaye</b>* 
+</p>
+<p><i>Summary 
+</i></p>
+<p>In the present report, submitted in accordance with Human Rights Council 
+</p>
+<p>resolution 25/2, the Special Rapporteur addresses the use of encryption and anonymity in 
+</p>
+<p>digital communications. Drawing from research on international and national norms and 
+</p>
+<p>jurisprudence, and the input of States and civil society, the report concludes that encryption 
+</p>
+<p>and anonymity enable individuals to exercise their rights to freedom of opinion and 
+</p>
+<p>expression in the digital age and, as such, deserve strong protection. 
+</p>
+<p> 
+</p>
+<p> 
+</p>
+<p>  
+ * Late submission. 
+</p>
+<p> 
+</p>
+
+<p>Contents 
+</p>
+<p><i> Paragraphs Page 
+</i></p>
+<p> I. Introduction .............................................................................................................  1&#8211;5 3 
+</p>
+<p> II. Secure and private communication in the digital age ..............................................  6&#8211;13 4 
+</p>
+<p>  A. Contemporary encryption and anonymity.......................................................  6&#8211;10 4 
+</p>
+<p>  B. Uses of the technologies .................................................................................  11&#8211;13 5 
+</p>
+<p> III. Encryption, anonymity and the rights to freedom of opinion and expression 
+</p>
+<p>  and privacy ..............................................................................................................  14&#8211;28 6 
+</p>
+<p>  A. Privacy as a gateway for freedom of opinion and expression .........................  16&#8211;18 7 
+</p>
+<p>  B. Right to hold opinions without interference ...................................................  19&#8211;21 8 
+</p>
+<p>  C. Right to freedom of expression .......................................................................  22&#8211;26 9 
+</p>
+<p>  D. Roles of corporations ......................................................................................  27&#8211;28 10 
+</p>
+<p> IV. Evaluating restrictions on encryption and anonymity .............................................  29&#8211;55 11 
+</p>
+<p>  A. Legal framework .............................................................................................  29&#8211;35 11 
+</p>
+<p>  B. State practice: examples and concerns ............................................................  36&#8211;55 12 
+</p>
+<p> V. Conclusions and recommendations .........................................................................  56&#8211;63 19 
+</p>
+<p>  A. States ...............................................................................................................  57&#8211;60 19 
+</p>
+<p>  B. International organizations, private sector and civil society ...........................  61&#8211;63 20 </p>
+
+
+<p><b> I. Introduction 
+</b></p>
+<p>1. Contemporary digital technologies offer Governments, corporations, criminals and 
+</p>
+<p>pranksters unprecedented capacity to interfere with the rights to freedom of opinion and 
+</p>
+<p>expression. Online censorship, mass and targeted surveillance and data collection, digital 
+</p>
+<p>attacks on civil society and repression resulting from online expression force individuals 
+</p>
+<p>around the world to seek security to hold opinions without interference and seek, receive 
+</p>
+<p>and impart information and ideas of all kinds. Many seek to protect their security through 
+</p>
+<p>encryption, the scrambling of data so only intended recipients may access it, which may be 
+</p>
+<p>applied to data in transit (e.g., e-mail, messaging, Internet telephony) and at rest (e.g., hard 
+</p>
+<p>drives, cloud services). Others seek additional protection in anonymity, using sophisticated 
+</p>
+<p>technologies to disguise their identity and digital footprint. Encryption and anonymity, 
+</p>
+<p>today&#8217;s leading vehicles for online security, provide individuals with a means to protect 
+</p>
+<p>their privacy, empowering them to browse, read, develop and share opinions and 
+</p>
+<p>information without interference and enabling journalists, civil society organizations, 
+</p>
+<p>members of ethnic or religious groups, those persecuted because of their sexual orientation 
+</p>
+<p>or gender identity, activists, scholars, artists and others to exercise the rights to freedom of 
+</p>
+<p>opinion and expression.  
+</p>
+<p>2. Yet, just as the telephone may be used both to report a crime to the police and to 
+</p>
+<p>conspire to commit one, so too may the Internet be abused to interfere with the rights of 
+</p>
+<p>others, national security or public order. Law enforcement and intelligence services often 
+</p>
+<p>assert that anonymous or encrypted communications make it difficult to investigate 
+</p>
+<p>financial crimes, illicit drugs, child pornography and terrorism. Individuals express 
+</p>
+<p>legitimate concerns about how bullies and criminals use new technologies to facilitate 
+</p>
+<p>harassment. Some States restrict or prohibit encryption and anonymity on these and other 
+</p>
+<p>grounds, while others are proposing or implementing means for law enforcement to 
+</p>
+<p>circumvent these protections and access individual communications.  
+</p>
+<p>3. In the light of these challenges, the present report examines two linked questions. 
+</p>
+<p>First, do the rights to privacy and freedom of opinion and expression protect secure online 
+</p>
+<p>communication, specifically by encryption or anonymity? And, second, assuming an 
+</p>
+<p>affirmative answer, to what extent may Governments, in accordance with human rights law, 
+</p>
+<p>impose restrictions on encryption and anonymity? The present report seeks to answer these 
+</p>
+<p>questions, review examples of State practice and propose recommendations. It does not 
+</p>
+<p>purport to address every technical or legal question raised by digital technologies, but it 
+</p>
+<p>identifies important ones for future reporting.  
+</p>
+<p>4. In preparing the report, the Special Rapporteur circulated a questionnaire to States, 
+</p>
+<p>seeking relevant information on their domestic laws, regulations, policies and practices. As 
+</p>
+<p>of 1 April 2015, 16 States had responded to this request.1 The Special Rapporteur also 
+</p>
+<p>issued a call for submissions from non-governmental stakeholders and convened a meeting 
+</p>
+<p>of experts in Geneva in March 2015. The responses from Governments and the over 30 
+</p>
+<p>submissions by civil society organizations and individuals, which are available from the 
+</p>
+<p>mandate holder&#8217;s web page, contributed significantly to the preparation of the report. 
+</p>
+<p>5. A full review of the Special Rapporteur&#8217;s activities since the beginning of his term 
+</p>
+<p>in August 2014 may be found on the mandate holder&#8217;s web page. This report, the current 
+</p>
+<p>  
+</p>
+<p> 1 Responses were received from Austria, Bulgaria, Cuba, Germany, Greece, Guatemala, Ireland, 
+</p>
+<p>Kazakhstan, Lebanon, Qatar, Republic of Moldova, Norway, Slovakia, Sweden, Turkey and the 
+</p>
+<p>United States of America.  </p>
+
+
+<p>mandate holder&#8217;s first, aims at furthering the work on the challenges to freedom of 
+</p>
+<p>expression in the digital age.  
+</p>
+<p><b> II. Secure and private communication in the digital age 
+</b></p>
+<p><b> A. Contemporary encryption and anonymity  
+</b></p>
+<p>6. Modern approaches to private and secure communication draw on ideas that have 
+</p>
+<p>been with humankind for millenniums. The rise of electronic data storage, the Internet and 
+</p>
+<p>mass data collection and retention made clear that sophisticated means would be needed to 
+</p>
+<p>protect individual, corporate and government data. As e-mail, instant-messaging, Voice-
+</p>
+<p>over-Internet Protocols, videoconferencing and social media moved from niche services to 
+</p>
+<p>predominant and easily monitored modes of communication, individuals developed a need 
+</p>
+<p>for security online, so that they could seek, receive and impart information without the risk 
+</p>
+<p>of repercussions, disclosure, surveillance or other improper use of their opinions and 
+</p>
+<p>expression.  
+</p>
+<p>7. Encryption &#8212; a mathematical &#8220;process of converting messages, information, or data 
+</p>
+<p>into a form unreadable by anyone except the intended recipient&#8221; 2  &#8212; protects the 
+</p>
+<p>confidentiality and integrity of content against third-party access or manipulation. Strong 
+</p>
+<p>encryption, once the sole province of militaries and intelligence services, is now publicly 
+</p>
+<p>accessible and often freely available to secure e-mail, voice communication, images, hard 
+</p>
+<p>drives and website browsers. With &#8220;public key encryption&#8221;, the dominant form of end-to-
+</p>
+<p>end security for data in transit, the sender uses the recipient&#8217;s public key to encrypt the 
+</p>
+<p>message and its attachments, and the recipient uses her or his own private key to decrypt 
+</p>
+<p>them. Encryption may also be used to create digital signatures to ensure that a document 
+</p>
+<p>and its sender are authentic, to authenticate and verify the identity of a server and to protect 
+</p>
+<p>the integrity of communications between clients against tampering or manipulation of 
+</p>
+<p>traffic by third parties (e.g., &#8220;man-in-the-middle&#8221; attacks). Since the encryption of data in 
+</p>
+<p>transit does not ensure against attacks on unencrypted data when it is sitting at rest at either 
+</p>
+<p>endpoint (nor protect the security of one&#8217;s private key), one may also encrypt data at rest 
+</p>
+<p>stored on laptops, hard drives, servers, tablets, mobile phones and other devices. Online 
+</p>
+<p>practices may also be moving away from the system described here and towards &#8220;forward 
+</p>
+<p>secrecy&#8221; or &#8220;off-the-record&#8221; technology in which keys are held ephemerally, particularly 
+</p>
+<p>for uses such as instant messaging. 
+</p>
+<p>8. Some call for efforts to weaken or compromise encryption standards such that only 
+</p>
+<p>Governments may enjoy access to encrypted communications. However, compromised 
+</p>
+<p>encryption cannot be kept secret from those with the skill to find and exploit the weak 
+</p>
+<p>points, whether State or non-State, legitimate or criminal. It is a seemingly universal 
+</p>
+<p>position among technologists that there is no special access that can be made available only 
+</p>
+<p>to government authorities, even ones that, in principle, have the public interest in mind. In 
+</p>
+<p>the contemporary technological environment, intentionally compromising encryption, even 
+</p>
+<p>for arguably legitimate purposes, weakens everyone&#8217;s security online. 
+</p>
+<p>9. Notably, encryption protects the content of communications but not identifying 
+</p>
+<p>factors such as the Internet Protocol (IP) address, known as metadata. Third parties may 
+</p>
+<p>gather significant information concerning an individual&#8217;s identity through metadata 
+</p>
+<p>analysis if the user does not employ anonymity tools. Anonymity is the condition of 
+</p>
+<p>  
+</p>
+<p> 2 See SANS Institute, &#8220;History of http://www.sans.org/reading-room/whitepapers/vpns/history-
+encryption-730encryption&#8221; (2001).  </p>
+
+
+<p>avoiding identification. A common human desire to protect one&#8217;s identity from the crowd, 
+</p>
+<p>anonymity may liberate a user to explore and impart ideas and opinions more than she 
+</p>
+<p>would using her actual identity. Individuals online may adopt pseudonyms (or, for instance, 
+</p>
+<p>fake e-mail or social media accounts) to hide their identities, image, voice, location and so 
+</p>
+<p>forth, but the privacy afforded through such pseudonyms is superficial and easily disturbed 
+</p>
+<p>by Governments or others with the necessary expertise; in the absence of combinations of 
+</p>
+<p>encryption and anonymizing tools, the digital traces that users leave behind render their 
+</p>
+<p>identities easily discoverable. Users seeking to ensure full anonymity or mask their identity 
+</p>
+<p>(such as hiding the original IP address) against State or criminal intrusion may use tools 
+</p>
+<p>such as virtual private networks (VPNs), proxy services, anonymizing networks and 
+</p>
+<p>software, and peer-to-peer networks.3 One well-known anonymity tool, the Tor network, 
+</p>
+<p>deploys more than 6,000 decentralized computer servers around the world to receive and 
+</p>
+<p>relay data multiple times so as to hide identifying information about the end points, creating 
+</p>
+<p>strong anonymity for its users.  
+</p>
+<p>10. A key feature of the digital age is that technology changes incessantly to sate user 
+</p>
+<p>demands. Although the present report refers to contemporary technologies that facilitate 
+</p>
+<p>encryption and anonymity, its analysis and conclusions apply generally to the concepts 
+</p>
+<p>behind the current technologies and should be applicable as new technologies replace the 
+</p>
+<p>old. 
+</p>
+<p><b> B. Uses of the technologies 
+</b></p>
+<p>11. The Internet has profound value for freedom of opinion and expression, as it 
+</p>
+<p>magnifies the voice and multiplies the information within reach of everyone who has access 
+</p>
+<p>to it. Within a brief period, it has become the central global public forum. As such, an open 
+</p>
+<p>and secure Internet should be counted among the leading prerequisites for the enjoyment of 
+</p>
+<p>the freedom of expression today. But it is constantly under threat, a space &#8212; not unlike the 
+</p>
+<p>physical world &#8212; in which criminal enterprise, targeted repression and mass data collection 
+</p>
+<p>also exist. It is thus critical that individuals find ways to secure themselves online, that 
+</p>
+<p>Governments provide such safety in law and policy and that corporate actors design, 
+</p>
+<p>develop and market secure-by-default products and services. None of these imperatives is 
+</p>
+<p>new. Early in the digital age, Governments recognized the essential role played by 
+</p>
+<p>encryption in securing the global economy, using or encouraging its use to secure 
+</p>
+<p>Government-issued identity numbers, credit card and banking information, business 
+</p>
+<p>proprietary documents and investigations into online crime itself.4  
+</p>
+<p>12. Encryption and anonymity, separately or together, create a zone of privacy to protect 
+</p>
+<p>opinion and belief. For instance, they enable private communications and can shield an 
+</p>
+<p>opinion from outside scrutiny, particularly important in hostile political, social, religious 
+</p>
+<p>and legal environments. Where States impose unlawful censorship through filtering and 
+</p>
+<p>other technologies, the use of encryption and anonymity may empower individuals to 
+</p>
+<p>circumvent barriers and access information and ideas without the intrusion of authorities. 
+</p>
+<p>Journalists, researchers, lawyers and civil society rely on encryption and anonymity to 
+</p>
+<p>shield themselves (and their sources, clients and partners) from surveillance and 
+</p>
+<p>harassment. The ability to search the web, develop ideas and communicate securely may be 
+</p>
+<p>  
+</p>
+<p> 3 Proxy services send data through an intermediary, or &#8220;proxy server&#8221;, that sends that data on behalf of 
+</p>
+<p>the user, effectively masking the user&#8217;s IP address with its own to the end recipient. Peer-to-peer 
+</p>
+<p>networks partition and store data among interconnected servers and then encrypt that stored data so 
+</p>
+<p>that no centralized server has access to identifying information. See, for example, Freenet. 
+</p>
+<p> 4 See OECD,<i> Guidelines for Cryptography Policy</i> 
+</p>
+<p>(1997).https://www.oecd.org/internet/ieconomy/guidelinesforcryptographypolicy.htm.  </p>
+
+
+<p>the only way in which many can explore basic aspects of identity, such as one&#8217;s gender, 
+</p>
+<p>religion, ethnicity, national origin or sexuality. Artists rely on encryption and anonymity to 
+</p>
+<p>safeguard and protect their right to expression, especially in situations where it is not only 
+</p>
+<p>the State creating limitations but also society that does not tolerate unconventional opinions 
+</p>
+<p>or expression. 
+</p>
+<p>13. The &#8220;dark&#8221; side of encryption and anonymity is a reflection of the fact that 
+</p>
+<p>wrongdoing offline takes place online as well. Law enforcement and counter-terrorism 
+</p>
+<p>officials express concern that terrorists and ordinary criminals use encryption and 
+</p>
+<p>anonymity to hide their activities, making it difficult for Governments to prevent and 
+</p>
+<p>conduct investigations into terrorism, the illegal drug trade, organized crime and child 
+</p>
+<p>pornography, among other government objectives. Harassment and cyberbullying may rely 
+</p>
+<p>on anonymity as a cowardly mask for discrimination, particularly against members of 
+</p>
+<p>vulnerable groups. At the same time, however, law enforcement often uses the same tools 
+</p>
+<p>to ensure their own operational security in undercover operations, while members of 
+</p>
+<p>vulnerable groups may use the tools to ensure their privacy in the face of harassment. 
+</p>
+<p>Moreover, Governments have at their disposal a broad set of alternative tools, such as 
+</p>
+<p>wiretapping, geo-location and tracking, data-mining, traditional physical surveillance and 
+</p>
+<p>many others, which strengthen contemporary law enforcement and counter-terrorism.5 
+</p>
+<p><b> III. Encryption, anonymity and the rights to freedom of opinion 
+and expression and privacy 
+</b></p>
+<p>14. The human rights legal framework for encryption and anonymity requires, first, 
+</p>
+<p>evaluating the scope of the rights at issue and their application to encryption and 
+</p>
+<p>anonymity; and, second, assessing whether, and if so to what extent, restrictions may 
+</p>
+<p>lawfully be placed on the use of technologies that promote and protect the rights to privacy 
+</p>
+<p>and freedom of opinion and expression.  
+</p>
+<p>15. The rights to privacy6 and freedom of opinion and expression7 have been codified in 
+</p>
+<p>universal and regional human rights instruments, interpreted by treaty bodies and regional 
+</p>
+<p>courts, and evaluated by special procedures of the Human Rights Council and during 
+</p>
+<p>universal periodic review. The universal standards for privacy, opinion and expression are 
+</p>
+<p>found in the International Covenant on Civil and Political Rights, to which 168 States are 
+</p>
+<p>party. Even for those remaining States that are not bound by it, the Covenant presents at the 
+</p>
+<p>very least a standard for achievement and often reflects a customary legal norm; those that 
+</p>
+<p>  
+</p>
+<p> 5 See Center for Democracy and Technology, &#8220;&#8216;Going 
+</p>
+<p>Dark&#8217;https://cdt.org/blog/%25e2%2580%2598going-dark%25e2%2580%2599-versus-a-
+%25e2%2580%2598golden-age-for-surveillance%25e2%2580%2599/ versus a 
+&#8216;https://cdt.org/blog/%25e2%2580%2598going-dark%25e2%2580%2599-versus-a-
+%25e2%2580%2598golden-age-for-surveillance%25e2%2580%2599/Golden Age for 
+Surveillance&#8217;&#8221; (2011). 
+</p>
+<p> 6 Article 12 of the Universal Declaration of Human Rights, article 17 of the International Covenant on 
+</p>
+<p>Civil and Political Rights, article 16 of the Convention on the Rights of the Child, article 22 of the 
+</p>
+<p>Convention on the Rights of Persons with Disabilities, article 14 of the Convention on the Protection 
+</p>
+<p>of the Rights of All Migrant Workers and Members of Their Families, article 8 of the European 
+</p>
+<p>Convention on Human Rights and article 11 of the American Convention on Human Rights protect 
+</p>
+<p>the right to privacy. 
+</p>
+<p> 7 Article 19 of the Universal Declaration and the International Covenant on Civil and Political Rights, 
+</p>
+<p>article 9 of the African Charter on Human and Peoples&#8217; Rights, article 13 of the American 
+</p>
+<p>Convention on Human Rights and article 10 of the European Convention on Human Rights protect 
+</p>
+<p>freedom of expression. </p>
+
+
+<p>have signed but not ratified the Covenant are bound to respect its object and purpose under 
+</p>
+<p>article 18 of the Vienna Convention on the Law of Treaties. National legal systems also 
+</p>
+<p>protect privacy, opinion and expression, sometimes with constitutional or basic law or 
+</p>
+<p>interpretations thereof. Several global civil society projects have also provided compelling 
+</p>
+<p>demonstrations of the law that should apply in the context of the digital age, such as 
+</p>
+<p>the International Principles on the Application of Human Rights to Communications 
+</p>
+<p>Surveillance and the Globalhttp://www.opensocietyfoundations.org/publications/global-
+</p>
+<p>principles-national-security-and-freedom-information-tshwane-principles Principles on 
+</p>
+<p>National Security and the Right to Information. Although specific standards may vary from 
+</p>
+<p>right to right, or instrument to instrument, a common thread in the law is that, because the 
+</p>
+<p>rights to privacy and to freedom of expression are so foundational to human dignity and 
+</p>
+<p>democratic governance, limitations must be narrowly drawn, established by law and 
+</p>
+<p>applied strictly and only in exceptional circumstances. In a digital age, protecting such 
+</p>
+<p>rights demands exceptional vigilance.  
+</p>
+<p><b> A. Privacy as a gateway for freedom of opinion and expression 
+</b></p>
+<p>16. Encryption and anonymity provide individuals and groups with a zone of privacy 
+</p>
+<p>online to hold opinions and exercise freedom of expression without arbitrary and unlawful 
+</p>
+<p>interference or attacks. The previous mandate holder noted that the rights to &#8220;privacy and 
+</p>
+<p>freedom of expression are interlinked&#8221; and found that encryption and anonymity are 
+</p>
+<p>protected because of the critical role they can play in securing those rights (A/HRC/23/40 
+</p>
+<p>and Corr.1). Echoing article 12 of the Universal Declaration of Human Rights, article 17 of 
+</p>
+<p>the International Covenant on Civil and Political Rights specifically protects the individual 
+</p>
+<p>against &#8220;arbitrary or unlawful interference with his or her privacy, family, home or 
+</p>
+<p>correspondence&#8221; and &#8220;unlawful attacks on his or her honour and reputation&#8221;, and provides 
+</p>
+<p>that &#8220;everyone has the right to the protection of the law against such interference or 
+</p>
+<p>attacks&#8221;. The General Assembly, the United Nations High Commissioner for Human Rights 
+</p>
+<p>and special procedure mandate holders have recognized that privacy is a gateway to the 
+</p>
+<p>enjoyment of other rights, particularly the freedom of opinion and expression (see General 
+</p>
+<p>Assembly resolution 68/167, A/HRC/13/37 and Human Rights Council resolution 20/8).  
+</p>
+<p>17. Encryption and anonymity are especially useful for the development and sharing of 
+</p>
+<p>opinions, which often occur through online correspondence such as e-mail, text messaging, 
+</p>
+<p>and other online interactions. Encryption provides security so that individuals are able &#8220;to 
+</p>
+<p>verify that their communications are received only by their intended recipients, without 
+</p>
+<p>interference or alteration, and that the communications they receive are equally free from 
+</p>
+<p>intrusion&#8221; (see A/HRC/23/40 and Corr.1, para. 23). Given the power of metadata analysis 
+</p>
+<p>to specify &#8220;an individual&#8217;s behaviour, social relationships, private preferences and identity&#8221; 
+</p>
+<p>(see A/HRC/27/37, para. 19), anonymity may play a critical role in securing 
+</p>
+<p>correspondence. Besides correspondence, international and regional mechanisms have 
+</p>
+<p>interpreted privacy to involve a range of other circumstances as well.8  
+</p>
+<p>18. Individuals and civil society are subjected to interference and attack by State and 
+</p>
+<p>non-State actors, against which encryption and anonymity may provide protection. In 
+</p>
+<p>  
+</p>
+<p> 8 Human Rights Committee, general comment No. 16 (1988) on the right to respect of privacy, family, 
+</p>
+<p>home and correspondence, and protection of honour and reputation. See also European Court of 
+</p>
+<p>Human Rights, factsheets on data protection 
+</p>
+<p>(http://www.echr.coe.int/documents/fs_data_eng.pdfwww.echr.coe.int/Documents/FS_Data_E
+NG.pdf) and right to protection of one&#8217;s image 
+</p>
+<p>(http://www.echr.coe.int/documents/fs_own_image_eng.pdfwww.echr.coe.int/Documents/FS_
+Own_image_ENG.pdf). </p>
+
+
+<p>article 17 (2) of the International Covenant on Civil and Political Rights, States are obliged 
+</p>
+<p>to protect privacy against unlawful and arbitrary interference and attacks. Under such an 
+</p>
+<p>affirmative obligation, States should ensure the existence of domestic legislation that 
+</p>
+<p>prohibits unlawful and arbitrary interference and attacks on privacy, whether committed by 
+</p>
+<p>government or non-governmental actors. Such protection must include the right to a 
+</p>
+<p>remedy for a violation.9 In order for the right to a remedy to be meaningful, individuals 
+</p>
+<p>must be given notice of any compromise of their privacy through, for instance, weakened 
+</p>
+<p>encryption or compelled disclosure of user data. 
+</p>
+<p><b> B. Right to hold opinions without interference 
+</b></p>
+<p>19. The first article of the Universal Declaration of Human Rights recognizes that 
+</p>
+<p>everyone is &#8220;endowed with reason and conscience&#8221;, a principle developed further in human 
+</p>
+<p>rights law to include, among other things, the protection of opinion, expression, belief, and 
+</p>
+<p>thought. Article 19 (1) of the International Covenant on Civil and Political Rights, also 
+</p>
+<p>echoing the Universal Declaration, provides that &#8220;everyone shall have the right to hold 
+</p>
+<p>opinions without interference&#8221;. Opinion and expression are closely related to one another, 
+</p>
+<p>as restrictions on the right to receive information and ideas may interfere with the ability to 
+</p>
+<p>hold opinions, and interference with the holding of opinions necessarily restricts the 
+</p>
+<p>expression of them. However, human rights law has drawn a conceptual distinction 
+</p>
+<p>between the two. During the negotiations on the drafting of the Covenant, &#8220;the freedom to 
+</p>
+<p>form an opinion and to develop this by way of reasoning was held to be absolute and, in 
+</p>
+<p>contrast to freedom of expression, not allowed to be restricted by law or other power&#8221;.10 
+</p>
+<p>The ability to hold an opinion freely was seen to be a fundamental element of human 
+</p>
+<p>dignity and democratic self-governance, a guarantee so critical that the Covenant would 
+</p>
+<p>allow no interference, limitation or restriction. Consequently, the permissible limitations in 
+</p>
+<p>article 19 (3) expressly apply only to the right to freedom of expression in article 19 (2). 
+</p>
+<p>Interference with the right to hold opinions is, by contrast, per se in violation of article 19 
+</p>
+<p>(1). 
+</p>
+<p>20. Commentators and courts have devoted much less attention to the right to hold 
+</p>
+<p>opinions than to expression. Greater attention is warranted, however, as the mechanics of 
+</p>
+<p>holding opinions have evolved in the digital age and exposed individuals to significant 
+</p>
+<p>vulnerabilities. Individuals regularly hold opinions digitally, saving their views and their 
+</p>
+<p>search and browse histories, for instance, on hard drives, in the cloud, and in e-mail 
+</p>
+<p>archives, which private and public authorities often retain for lengthy if not indefinite 
+</p>
+<p>periods. Civil society organizations likewise prepare and store digitally memoranda, papers 
+</p>
+<p>and publications, all of which involve the creation and holding of opinions. In other words, 
+</p>
+<p>holding opinions in the digital age is not an abstract concept limited to what may be in 
+</p>
+<p>one&#8217;s mind. And yet, today, holding opinions in digital space is under attack. Offline, 
+</p>
+<p>interference with the right to hold an opinion may involve physical harassment, detention 
+</p>
+<p>or subtler efforts to punish individuals for their opinion (see CCPR/C/78/D/878/1999, 
+</p>
+<p>annex, paras. 2.5, 7.2 and 7.3). Interference may also include such efforts as targeted 
+</p>
+<p>  
+</p>
+<p> 9 See Human Rights Committee 
+</p>
+<p>ghttp://tbinternet.ohchr.org/_layouts/treatybodyexternal/download.aspx?symbolno=int%25
+2fccpr%252fgec%252f6624&amp;lang=eneneral 
+chttp://tbinternet.ohchr.org/_layouts/treatybodyexternal/download.aspx?symbolno=int%252
+fccpr%252fgec%252f6624&amp;lang=enomment No.16 and general comment No. 31on the nature of 
+the general legal obligation imposed on States parties to the Covenant; and 
+</p>
+<p>CCPR/C/106/D/1803/2008. 
+</p>
+<p> 10 Manfred Nowak, <i>UN Covenant on Civil and Political Rights: CCPR Commentary</i> (1993), p. 441. </p>
+
+
+<p>surveillance, distributed denial of service attacks, and online and offline intimidation, 
+</p>
+<p>criminalization and harassment. Targeted digital interference harasses individuals and civil 
+</p>
+<p>society organizations for the opinions they hold in many formats. Encryption and 
+</p>
+<p>anonymity enable individuals to avoid or mitigate such harassment. 
+</p>
+<p>21. The right to hold opinions without interference also includes the right to form 
+</p>
+<p>opinions. Surveillance systems, both targeted and mass, may undermine the right to form 
+</p>
+<p>an opinion, as the fear of unwilling disclosure of online activity, such as search and 
+</p>
+<p>browsing, likely deters individuals from accessing information, particularly where such 
+</p>
+<p>surveillance leads to repressive outcomes. For all these reasons, restrictions on encryption 
+</p>
+<p>and anonymity must be assessed to determine whether they would amount to an 
+</p>
+<p>impermissible interference with the right to hold opinions.  
+</p>
+<p><b> C. Right to freedom of expression  
+</b></p>
+<p>22. The right to freedom of expression under article 19 (2) of the International Covenant 
+</p>
+<p>on Civil and Political Rights expands upon the Universal Declaration&#8217;s already broad 
+</p>
+<p>guarantee, protecting the &#8220;freedom to seek, receive and impart information and ideas of all 
+</p>
+<p>kinds, regardless of frontiers, either orally, in writing or in print, in the form of art, or 
+</p>
+<p>through any other media of his choice&#8221;. A significant accumulation of jurisprudence, 
+</p>
+<p>special procedure reporting, and resolutions within the United Nations and regional human 
+</p>
+<p>rights systems underscores that the freedom of expression &#8220;is essential for the enjoyment of 
+</p>
+<p>other human rights and freedoms and constitutes a fundamental pillar for building a 
+</p>
+<p>democratic society and strengthening democracy&#8221; (Human Rights Council resolution 25/2). 
+</p>
+<p>The Human Rights Council, the General Assembly and individual States regularly assert 
+</p>
+<p>that individuals enjoy the same rights online that they enjoy offline.11 The present report 
+</p>
+<p>will not repeat all the elements of this consensus. In the context of encryption and 
+</p>
+<p>anonymity, three aspects of the text deserve particular emphasis (see paras. 23&#8211;26 below). 
+</p>
+<p>23. <b>Freedom to seek, receive, and impart information and ideas:</b> In environments of 
+</p>
+<p>prevalent censorship, individuals may be forced to rely on encryption and anonymity in 
+</p>
+<p>order to circumvent restrictions and exercise the right to seek, receive and impart 
+</p>
+<p>information. Some States have curtailed access with a variety of tools. State censorship, for 
+</p>
+<p>instance, poses sometimes insurmountable barriers to the right to access information. Some 
+</p>
+<p>States impose content-based, often discriminatory restrictions or criminalize online 
+</p>
+<p>expression, intimidating political opposition and dissenters and applying defamation and 
+</p>
+<p>lese-majesty laws to silence journalists, defenders and activists. A VPN connection, or use 
+</p>
+<p>of Tor or a proxy server, combined with encryption, may be the only way in which an 
+</p>
+<p>individual is able to access or share information in such environments. 
+</p>
+<p>24. It bears emphasizing that human rights law also protects the right to seek, receive 
+</p>
+<p>and impart scientific information and ideas. The Universal Declaration and the International 
+</p>
+<p>Covenant on Economic, Social and Cultural Rights protect rights to education and &#8220;to share 
+</p>
+<p>in scientific advancement and its benefits&#8221;. Encryption and anonymity technologies enable 
+</p>
+<p>individuals to share in such information in situations where they are otherwise denied, and 
+</p>
+<p>  
+</p>
+<p> 11 See, e.g., General Assembly resolution 
+</p>
+<p>http://www.ohchr.org/en/issues/digitalage/pages/digitalageindex.aspx68/167, Human Rights 
+Council resolution http://daccess-dds-
+ny.un.org/doc/undoc/gen/g14/082/83/pdf/g1408283.pdf?openelement26/13 and Council of 
+Europe rhttps://wcd.coe.int/viewdoc.jsp?id=2184807ecommendation CM/Rec (2014) 6 of the 
+Committee of Ministers to member States on a https://wcd.coe.int/viewdoc.jsp?id=2184807guide 
+to human rights for Internet users. </p>
+
+
+<p>they are themselves examples of scientific advancement. Their use empowers individuals to 
+</p>
+<p>gain access to the benefits of scientific progress that might be curtailed by Government. 
+</p>
+<p>The Special Rapporteur in the field of cultural rights noted that &#8220;the rights to science and to 
+</p>
+<p>culture should both be understood as including a right to have access to and use information 
+</p>
+<p>and communication and other technologies in self-determined and empowering ways&#8221; (see 
+</p>
+<p>A/HRC/20/26, para. 19).  
+</p>
+<p>25. <b>Regardless of frontiers:</b> The major instruments guaranteeing freedom of expression 
+</p>
+<p>explicitly acknowledge the transboundary scope of the right. Individuals enjoy the right to 
+</p>
+<p>receive information from, and transmit information and ideas of all kinds to, places beyond 
+</p>
+<p>their borders.12 However, some States filter or block data on the basis of keywords, denying 
+</p>
+<p>access by deploying technologies that rely on access to text. Encryption enables an 
+</p>
+<p>individual to avoid such filtering, allowing information to flow across borders. Moreover, 
+</p>
+<p>individuals do not control &#8212; and are usually unaware of &#8212; how or if their communications 
+</p>
+<p>cross borders. Encryption and anonymity may protect information of all individuals as it 
+</p>
+<p>transits through servers located in third countries that filter content. 
+</p>
+<p>26. <b>Through any media:</b> Articles 19 of the Universal Declaration and the International 
+</p>
+<p>Covenant on Civil and Political Rights were drafted with the foresight to accommodate 
+</p>
+<p>future technological advances (A/HRC/17/27). The States parties to the Covenant chose to 
+</p>
+<p>adopt the general phrase &#8220;through any other media&#8221; as opposed to an enumeration of then-
+</p>
+<p>existing media. Partly on this basis, international mechanisms have repeatedly 
+</p>
+<p>acknowledged that the protections of freedom of expression apply to activities on the 
+</p>
+<p>Internet. Regional courts have likewise recognized that protections apply online. 13  The 
+</p>
+<p>European Court of Human Rights, in discussing the similar protection of expression in the 
+</p>
+<p>European Convention for the Protection of Human Rights and Fundamental Freedoms, has 
+</p>
+<p>indicated that the forms and means through which information is transmitted and received 
+</p>
+<p>are themselves protected, since any restriction imposed on the means necessarily interferes 
+</p>
+<p>with the right to receive and impart information.14 In this sense, encryption and anonymity 
+</p>
+<p>technologies are specific media through which individuals exercise their freedom of 
+</p>
+<p>expression. 
+</p>
+<p><b> D. Roles of corporations 
+</b></p>
+<p>27. Corporations in a variety of sectors play roles in advancing or interfering with 
+</p>
+<p>privacy, opinion and expression, including encryption and anonymity. Much online 
+</p>
+<p>communication (and virtually all of it in some countries) is carried on networks owned and 
+</p>
+<p>operated by private corporations, while other corporations own and manage websites with 
+</p>
+<p>substantial user-generated content. Others are active players in the surveillance and 
+</p>
+<p>spyware markets, providing hardware and software to Governments to compromise the 
+</p>
+<p>security of individuals online. Others develop and provide services for secure and private 
+</p>
+<p>online storage. Telecommunications entities, Internet service providers, search engines, 
+</p>
+<p>  
+</p>
+<p> 12 The European Court of Human Rights has recognized this point. See <i>Ahmet Yildirim </i>v. </p>
+<p><i>Turkey</i>,(2012); <i>Cox </i>v. <i>Turkey</i>, (2010); <i>Case of</i> <i>Groppera Radio AG and Others </i>v.<i> Switzerland</i> (1990). 
+</p>
+<p> 13 European Commission of Human Rights, <i>Neij and Sunde Kolmisoppi </i>v.<i> Sweden</i>, (2013); European 
+</p>
+<p>Court of Human Rights, <i>Perrin </i>v.<i> United Kingdom</i>, (2005); African Court on Human and Peoples&#8217; 
+</p>
+<p>Rights, <i>Zimbabwe Lawyers for Human Rights and Institute for Human Rights and Development 
+</i></p>
+<p><i>(on behalf of Meldrum) </i>v.<i> Zimbabwe</i> (2009); <i>Case of Herrera Ulloa </i>v.<i> Costa Rica</i>, <i>Herrera Ulloa </i>v. </p>
+<p><i>Costa Rica</i>, Preliminary Objections, Merits, Reparations and Costs, Series C No. 107, IHRL 1490 
+</p>
+<p>(IACHR 2004). 
+</p>
+<p> 14 See <i>Autronic AG </i>v.<i> Switzerland</i> (1990); <i>De Haes and Gijsels </i>v.<i> Belgium</i> (1997), para. 48; <i>News 
+</i></p>
+<p><i>Verlags GmbH and Co.KG v. Austria</i> (2000). </p>
+
+
+<p>cloud services and many other corporate actors, often described as intermediaries, promote, 
+</p>
+<p>regulate or compromise privacy and expression online. Intermediaries may store massive 
+</p>
+<p>volumes of user data, to which Governments often demand access. Encryption and 
+</p>
+<p>anonymity may be promoted or compromised by each of these corporate actors. 
+</p>
+<p>28. A full exploration of the role of corporations to protect their users&#8217; security online is 
+</p>
+<p>beyond the scope of the present report, which is focused on State obligations. However, it 
+</p>
+<p>remains important to emphasize that &#8220;the responsibility to respect human rights applies 
+</p>
+<p>throughout a company&#8217;s global operations regardless of where its users are located, and 
+</p>
+<p>exists independently of whether the State meets its own human rights obligations&#8221; (see 
+</p>
+<p>A/HRC/27/37, para. 43). At a minimum, corporations should apply principles such as those 
+</p>
+<p>laid out in the 
+</p>
+<p>http://www.ohchr.org/documents/publications/guidingprinciplesbusinesshr_en.pdfGuiding 
+</p>
+<p>Principles 
+</p>
+<p>http://www.ohchr.org/documents/publications/guidingprinciplesbusinesshr_en.pdfon 
+</p>
+<p>Business and Human Rights, the Global Network Initiative&#8217;s Principles on Freedom of 
+</p>
+<p>Expression and Privacy, the European Commission&#8217;s ICT Sector Guide on Implementing 
+</p>
+<p>the UN Guiding Principles on Business and Human Rights and the Telecommunications 
+</p>
+<p>Industry Dialogue Guiding Principles, which encourage corporations to commit to protect 
+</p>
+<p>human rights, undertake due diligence to ensure the positive human rights impact of their 
+</p>
+<p>work and remediate adverse impacts of their work on human rights. In the future, the 
+</p>
+<p>Special Rapporteur will focus on the roles corporations should play in preserving individual 
+</p>
+<p>security to exercise freedom of opinion and expression.  
+</p>
+<p><b> IV. Evaluating restrictions on encryption and anonymity 
+</b></p>
+<p><b> A. Legal framework 
+</b></p>
+<p>29. The permissible limitations on the right to privacy should be read strictly, 
+</p>
+<p>particularly in an age of pervasive online surveillance &#8212; whether passive or active, mass or 
+</p>
+<p>targeted &#8212; regardless of whether the applicable standards are &#8220;unlawful and arbitrary&#8221; 
+</p>
+<p>under article 17 of the International Covenant on Civil and Political Rights, &#8220;arbitrary&#8221; 
+</p>
+<p>under article 12 of the Universal Declaration, &#8220;arbitrary or abusive&#8221; under article 11 of the 
+</p>
+<p>American Convention on Human Rights, or &#8220;necessary in a democratic society&#8221; under 
+</p>
+<p>article 8 of the European Convention for the Protection of Human Rights and Fundamental 
+</p>
+<p>Freedoms (see A/HRC/13/37, paras. 14&#8211;19). Privacy interferences that limit the exercise of 
+</p>
+<p>the freedoms of opinion and expression, such as those described in this report, must not in 
+</p>
+<p>any event interfere with the right to hold opinions, and those that limit the freedom of 
+</p>
+<p>expression must be provided by law and necessary and proportionate to achieve one of a 
+</p>
+<p>handful of legitimate objectives. 
+</p>
+<p>30. No restrictions may be imposed on the right to hold opinions without interference; 
+</p>
+<p>restrictions under article 19 (3) of the Covenant only apply to expression under article 19 
+</p>
+<p>(2). In environments where one&#8217;s opinions, however held online, result in surveillance or 
+</p>
+<p>harassment, encryption and anonymity may provide necessary privacy. Restrictions on such 
+</p>
+<p>security tools may interfere with the ability of individuals to hold opinions.  
+</p>
+<p>31. Restrictions on encryption and anonymity, as enablers of the right to freedom of 
+</p>
+<p>expression, must meet the well-known three-part test: any limitation on expression must be 
+</p>
+<p>provided for by law; may only be imposed for legitimate grounds (as set out in article 19 
+</p>
+<p>(3) of the Covenant); and must conform to the strict tests of necessity and proportionality.  
+</p>
+<p>32. First, for a restriction on encryption or anonymity to be &#8220;provided for by law&#8221;, it 
+</p>
+<p>must be precise, public and transparent, and avoid providing State authorities with </p>
+
+
+<p>unbounded discretion to apply the limitation (see Human Rights Committee, general 
+</p>
+<p>comment No. 34 (2011)). Proposals to impose restrictions on encryption or anonymity 
+</p>
+<p>should be subject to public comment and only be adopted, if at all, according to regular 
+</p>
+<p>legislative process. Strong procedural and judicial safeguards should also be applied to 
+</p>
+<p>guarantee the due process rights of any individual whose use of encryption or anonymity is 
+</p>
+<p>subject to restriction. In particular, a court, tribunal or other independent adjudicatory body 
+</p>
+<p>must supervise the application of the restriction.15  
+</p>
+<p>33. Second, limitations may only be justified to protect specified interests: rights or 
+</p>
+<p>reputations of others; national security; public order; public health or morals. Even where a 
+</p>
+<p>State prohibits by law &#8220;advocacy of national, racial or religious hatred that constitutes 
+incitement to discrimination, hostility or violence, as provided by Article 20 of the 
+</p>
+<p>Covenant, any restrictions on expression must be consistent with Article 19(3) (A/67/357). 
+</p>
+<p>No other grounds may justify restrictions on the freedom of expression. Moreover, because 
+</p>
+<p>legitimate objectives are often cited as a pretext for illegitimate purposes, the restrictions 
+</p>
+<p>themselves must be applied narrowly.16  
+</p>
+<p>34. Third, the State must show that any restriction on encryption or anonymity is 
+</p>
+<p>&#8220;necessary&#8221; to achieve the legitimate objective.17 The European Court of Human Rights has 
+</p>
+<p>concluded appropriately that the word &#8220;necessary&#8221; in article 10 of the European Convention 
+</p>
+<p>for the Protection of Human Rights and Fundamental Freedoms means that the restriction 
+</p>
+<p>must be something more than &#8220;useful,&#8221; &#8220;reasonable&#8221; or &#8220;desirable&#8221;.18 Once the legitimate 
+</p>
+<p>objective has been achieved, the restriction may no longer be applied. Given the 
+</p>
+<p>fundamental rights at issue, limitations should be subject to independent and impartial 
+</p>
+<p>judicial authority, in particular to preserve the due process rights of individuals. 
+</p>
+<p>35. Necessity also implies an assessment of the proportionality of the measures limiting 
+</p>
+<p>the use of and access to security online.19 A proportionality assessment should ensure that 
+</p>
+<p>the restriction is &#8220;the least intrusive instrument amongst those which might achieve the 
+</p>
+<p>desired result&#8221;.20 The limitation must target a specific objective and not unduly intrude 
+</p>
+<p>upon other rights of targeted persons, and the interference with third parties&#8217; rights must be 
+</p>
+<p>limited and justified in the light of the interest supported by the intrusion. The restriction 
+</p>
+<p>  
+</p>
+<p> 15 See International Covenant on Civil and Political Rights, article 2 (3)(b); CCPR/C/79/Add.110, 
+</p>
+<p>para. 22; the Johannesburg Principles on National Security, Freedom of Expression and Access to 
+</p>
+<p>Information. 
+</p>
+<p> 16 See Human Rights Committee, general comment No. 34 on freedom of opinion and expression, 
+</p>
+<p>para. 30, and 
+</p>
+<p>ghttp://tbinternet.ohchr.org/_layouts/treatybodyexternal/download.aspx?symbolno=ccpr%2
+52fc%252f21%252frev.1%252fadd.13&amp;lang=eneneral 
+chttp://tbinternet.ohchr.org/_layouts/treatybodyexternal/download.aspx?symbolno=ccpr%2
+52fc%252f21%252frev.1%252fadd.13&amp;lang=enomment No. 31. 
+</p>
+<p> 17 See Human Rights Committee, general comment No. 34, para. 2, and communication No. 2156/2012, 
+</p>
+<p>Views adopted on 10 October 2014. 
+</p>
+<p> 18 See <i>Case of The Sunday Times</i> v. <i>United Kingdom</i>, judgement of 26 April 1979, para. 59. 
+</p>
+<p> 19 See African Court Human and Peoples&#8217; Rights, <i>Lohe Issa Konate </i>v.<i> Burkina Faso</i>, application 
+</p>
+<p>No. 004/2013, paras. 148 and 149 (2014); European Court of Human Rights, <i>Case of The Sunday 
+</i></p>
+<p><i>Times</i>, para. 62. 
+</p>
+<p> 20 See Human Rights Committee, 
+</p>
+<p>ghttp://tbinternet.ohchr.org/_layouts/treatybodyexternal/download.aspx?symbolno=ccpr%2
+52fc%252f21%252frev.1%252fadd.9&amp;lang=eneneral 
+chttp://tbinternet.ohchr.org/_layouts/treatybodyexternal/download.aspx?symbolno=ccpr%2
+52fc%252f21%252frev.1%252fadd.9&amp;lang=enomment No. 27 (1999) on freedom of 
+movement, para. 14. </p>
+
+
+<p>must also be &#8220;proportionate to the interest to be protected&#8221;.21 A high risk of damage to a 
+</p>
+<p>critical, legitimate State interest may justify limited intrusions on the freedom of 
+</p>
+<p>expression. Conversely, where a restriction has a broad impact on individuals who pose no 
+</p>
+<p>threat to a legitimate government interest, the State&#8217;s burden to justify the restriction will be 
+</p>
+<p>very high. 22  Moreover, a proportionality analysis must take into account the strong 
+</p>
+<p>possibility that encroachments on encryption and anonymity will be exploited by the same 
+</p>
+<p>criminal and terrorist networks that the limitations aim to deter. In any case, &#8220;a detailed and 
+</p>
+<p>evidence-based public justification&#8221; is critical to enable transparent public debate over 
+</p>
+<p>restrictions that implicate and possibly undermine freedom of expression (see A/69/397, 
+</p>
+<p>para. 12). 
+</p>
+<p><b> B. State practice: examples and concerns 
+</b></p>
+<p>36. The trend lines regarding security and privacy online are deeply worrying. States 
+</p>
+<p>often fail to provide public justification to support restrictions. Encrypted and anonymous 
+</p>
+<p>communications may frustrate law enforcement and counter-terrorism officials, and they 
+</p>
+<p>complicate surveillance, but State authorities have not generally identified situations &#8212; 
+</p>
+<p>even in general terms, given the potential need for confidentiality &#8212; where a restriction has 
+</p>
+<p>been necessary to achieve a legitimate goal. States downplay the value of traditional non-
+</p>
+<p>digital tools in law enforcement and counter-terrorism efforts, including transnational 
+</p>
+<p>cooperation. 23  As a consequence, the public lacks an opportunity to measure whether 
+</p>
+<p>restrictions on their online security would be justified by any real gains in national security 
+</p>
+<p>and crime prevention. Efforts to restrict encryption and anonymity also tend to be quick 
+</p>
+<p>reactions to terrorism, even when the attackers themselves are not alleged to have used 
+</p>
+<p>encryption or anonymity to plan or carry out an attack. Moreover, even where the 
+</p>
+<p>restriction is arguably in pursuit of a legitimate interest, many laws and policies regularly 
+</p>
+<p>do not meet the standards of necessity and proportionality and have broad, deleterious 
+</p>
+<p>effects on the ability of all individuals to exercise freely their rights to privacy and freedom 
+</p>
+<p>of opinion and expression.  
+</p>
+<p>37. It also bears noting that the United Nations itself has not provided strong 
+</p>
+<p>communication security tools to its staff or to those who would visit United Nations 
+</p>
+<p>websites, making it difficult for those under threat to securely reach the United Nations, 
+</p>
+<p>human rights mechanisms online.24 
+</p>
+<p><b> 1. Encryption 
+</b></p>
+<p>38. Some Governments seek to protect or promote encryption to ensure the privacy of 
+</p>
+<p>communications. For instance,25 the Marco Civil da Internet Law of Brazil, adopted in 
+</p>
+<p>2014, guarantees the inviolability and secrecy of user communications online, permitting 
+</p>
+<p>exceptions only by court order. The E-Commerce Act and Telecommunication Act of 
+</p>
+<p>Austria do not restrict encryption, and the Government has undertaken public awareness 
+</p>
+<p>  
+</p>
+<p> 21 See ibid., para. 14. 
+</p>
+<p> 22 See Inter-American Commission on Human Rights, OEA /Serv.L/V/II.149, para. 134.  
+</p>
+<p> 23 But see Centre for International Governance Innovation and Chatham House, <i>Toward a Social 
+</i></p>
+<p><i>Compact for Digital Privacy and Security:</i> <i>Statement by the Global Commission on Internet 
+</i></p>
+<p><i>Governance </i>(2015). https://ourinternet-
+files.s3.amazonaws.com/publications/gcig_social_compact.pdf 
+</p>
+<p> 24 For instance, staff of the Office of the United Nations High Commissioner for Human Rights 
+</p>
+<p>(OHCHR) in Geneva do not have access to end-to-end e-mail encryption, and the OHCHR website is 
+</p>
+<p>not encrypted. 
+</p>
+<p> 25 Many examples in this paragraph are taken from the relevant government submissions. </p>
+
+
+<p>campaigns to educate the public about digital security. Greek law and regulations promote 
+</p>
+<p>the effective use of both encryption and anonymity tools. Germany, Ireland and Norway 
+</p>
+<p>permit and promote the use of encryption technologies and oppose any efforts to weaken 
+</p>
+<p>encryption protocols. Similarly, Swedish and Slovak laws do not restrict the use of 
+</p>
+<p>encryption online. The United States of America encourages the use of encryption, and the 
+</p>
+<p>United States Congress should further consider a secure data act introduced in the Congress 
+</p>
+<p>that would prohibit the Government from requiring companies to weaken product security 
+</p>
+<p>or insert back-door access measures. Several Governments fund efforts to share or train in 
+</p>
+<p>the use of encryption and anonymity technologies to help individuals evade censorship and 
+</p>
+<p>protect their security online, including Canada, the Netherlands, Sweden, the United 
+</p>
+<p>Kingdom of Great Britain and Northern Ireland and the United States. In addition, export 
+</p>
+<p>regulations should facilitate the transfer of encryption technologies wherever possible. 
+</p>
+<p>Although the present report does not provide an overall legal assessment of all national 
+</p>
+<p>approaches to encryption, these noted elements &#8212; non-restriction or comprehensive 
+</p>
+<p>protection, the requirement of court orders for any specific limitation, and public education 
+</p>
+<p>&#8212; deserve wider application as means to protect and promote the rights to freedom of 
+</p>
+<p>opinion and expression. 
+</p>
+<p>39. Nonetheless, the regulation of encryption often fails to meet freedom of expression 
+</p>
+<p>standards in two leading respects. First, restrictions have generally not been shown to be 
+</p>
+<p>necessary to meet a particular legitimate interest. This is especially the case given the 
+</p>
+<p>breadth and depth of other tools, such as traditional policing and intelligence and 
+</p>
+<p>transnational cooperation, that may already provide substantial information for specific law 
+</p>
+<p>enforcement or other legitimate purposes. Second, they disproportionately impact the rights 
+</p>
+<p>to freedom of opinion and expression enjoyed by targeted persons or the general 
+</p>
+<p>population. 
+</p>
+<p><i>  Bans on encryption for individual use 
+</i></p>
+<p>40. Outright prohibitions on the individual use of encryption technology 
+</p>
+<p>disproportionately restrict the freedom of expression, because they deprive all online users 
+</p>
+<p>in a particular jurisdiction of the right to carve out private space for opinion and expression, 
+</p>
+<p>without any particular claim of the use of encryption for unlawful ends.  
+</p>
+<p>41. State regulation of encryption may be tantamount to a ban, such as rules 
+</p>
+<p>(a) requiring licences for encryption use; (b) setting weak technical standards for 
+</p>
+<p>encryption; and (c) controlling the import and export of encryption tools. By limiting 
+</p>
+<p>encryption tools to government-approved standards and controlling the import or export of 
+</p>
+<p>encryption technologies, States ensure encryption software maintains weaknesses that 
+</p>
+<p>allow Governments to access the content of communications. For example, while the law 
+</p>
+<p>may be in flux, India has provided that service providers may not deploy &#8220;bulk encryption&#8221; 
+</p>
+<p>on their networks, while the law has also restricted individuals from using encryption 
+</p>
+<p>greater than an easily breakable 40-bit key length without prior permission and required 
+</p>
+<p>anyone using stronger encryption to provide the Government with a copy of the encryption 
+</p>
+<p>keys.26 Reports indicate that encryption products in China may be required to adhere to 
+</p>
+<p>government-approved encryption algorithms that have not been peer-reviewed for 
+</p>
+<p>security.27 The Pakistan Telecommunication Authority requires prior approval for the use of 
+</p>
+<p>  
+</p>
+<p> 26 Government of India, Ministry of Communications and IT, Licence Agreement for Provision of 
+</p>
+<p>Internet Services, (2007). Available from http://dot.gov.in/sites/default/files/ 
+</p>
+<p>internet-licence-dated%2016-10-2007_0.pdf. See especially sect. 2.2 (vii). 
+</p>
+<p> 27 See, e.g., Counter-terrorism Law, art. 15 (initial draft of 8 November 2014). Available from 
+</p>
+<p>http://chinalawtranslate.com/en/ctldraft/.  </p>
+
+
+<p>VPNs and encryption.28 Cuba requires regulatory authorization for those using encryption.29 
+</p>
+<p>In Ethiopia, the Government has the power to set the technical standards of encryption and 
+</p>
+<p>recently enacted regulation that criminalizes the manufacture, assembly or import of any 
+</p>
+<p>telecommunications equipment without a permit.30 Such regulations impermissibly interfere 
+</p>
+<p>with the individual use of encryption in communications. 
+</p>
+<p><i>  Intentional weakening of encryption 
+</i></p>
+<p>42. Some States have implemented or proposed implementing so-called back-door 
+</p>
+<p>access in commercially available products, forcing developers to install weaknesses that 
+</p>
+<p>allow government authorities access to encrypted communications. Some Governments 
+</p>
+<p>have developed or purchased tools to allow such access for domestic surveillance 
+</p>
+<p>purposes.31 Senior officials in the United Kingdom and the United States appear to advocate 
+</p>
+<p>requiring back-door access. 32  States supporting such measures often claim that a legal 
+</p>
+<p>framework for back-door access is necessary to intercept the content of encrypted 
+</p>
+<p>communications. Governments proposing back-door access, however, have not 
+</p>
+<p>demonstrated that criminal or terrorist use of encryption serves as an insuperable barrier to 
+</p>
+<p>law enforcement objectives. Moreover, based on existing technology, intentional flaws 
+</p>
+<p>invariably undermine the security of all users online, since a backdoor, even if intended 
+</p>
+<p>solely for government access, can be accessed by unauthorized entities, including other 
+</p>
+<p>States or non-State actors. Given its widespread and indiscriminate impact, back-door 
+</p>
+<p>access would affect, disproportionately, all online users.  
+</p>
+<p>43. The debate on this issue highlights a critical point: requiring encryption back-door 
+</p>
+<p>access, even if for legitimate purposes, threatens the privacy necessary to the 
+</p>
+<p>unencumbered exercise of the right to freedom of expression. Back-door access has 
+</p>
+<p>  
+</p>
+<p> 28 See www.ispak.pk/Downloads/PTA_VPN_Policy.pdf.  
+</p>
+<p> 29 Submission of Cuba. 
+</p>
+<p> 30 See Ethiopia Telecom Fraud Offence Proclamation 761/2012, sects. 3&#8211;10. 
+</p>
+<p> 31 See Morgan Maquis-Boire and others, <i>For Your Eyes Only</i> (2013, Citizen Lab). 
+</p>
+<p> 32 See the speech given by Prime Minister David 
+</p>
+<p>Cameronhttps://www.youtube.com/watch?v=juibdvtyzy8https://www.youtube.com/watch?v
+=juibdvtyzy8https://www.youtube.com/watch?v=juibdvtyzy8https://www.youtube.com/wat
+ch?v=juibdvtyzy8 on 12 January 2015 
+https://www.youtube.com/watch?v=juibdvtyzy8https://www.youtube.com/watch?v=juibdvt
+yzy8https://www.youtube.com/watch?v=juibdvtyzy8at the 
+https://www.youtube.com/watch?v=juibdvtyzy8Conservative Party 
+https://www.youtube.com/watch?v=juibdvtyzy8pledges conference for the 2015 general 
+election and the speech given by James Comey, Director of the Federal Bureau of Investigation, on 
+</p>
+<p>16 October 2014, entitled &#8220;Going http://www.fbi.gov/news/speeches/going-dark-are-
+technology-privacy-and-public-safety-on-a-collision-coursedark: 
+http://www.fbi.gov/news/speeches/going-dark-are-technology-privacy-and-public-safety-
+on-a-collision-courseare http://www.fbi.gov/news/speeches/going-dark-are-technology-
+privacy-and-public-safety-on-a-collision-coursetechnology, 
+http://www.fbi.gov/news/speeches/going-dark-are-technology-privacy-and-public-safety-
+on-a-collision-courseprivacyhttp://www.fbi.gov/news/speeches/going-dark-are-technology-
+privacy-and-public-safety-on-a-collision-course and 
+http://www.fbi.gov/news/speeches/going-dark-are-technology-privacy-and-public-safety-
+on-a-collision-coursepublic http://www.fbi.gov/news/speeches/going-dark-are-technology-
+privacy-and-public-safety-on-a-collision-coursesafety on a 
+http://www.fbi.gov/news/speeches/going-dark-are-technology-privacy-and-public-safety-
+on-a-collision-coursecollision http://www.fbi.gov/news/speeches/going-dark-are-
+technology-privacy-and-public-safety-on-a-collision-coursecourse?&#8221;, at the Brookings 
+Institution, Washington, D.C. </p>
+
+
+<p>practical limitations; the exploitation of intentional weaknesses could render encrypted 
+</p>
+<p>content susceptible to attack, even if access is provided with the sole intention of allowing 
+</p>
+<p>government or judicial control. Governments certainly face a dilemma when their 
+</p>
+<p>obligation to protect freedom of expression is in conflict with their obligations to prevent 
+</p>
+<p>violations of the right to life or bodily integrity, which are put at risk by terrorism and other 
+</p>
+<p>criminal behaviour. But other recourses are available to States to request the disclosure of 
+</p>
+<p>encrypted information, such as through judicial warrants. In such situations, States must 
+</p>
+<p>demonstrate that general limitations on the security provided by encryption would be 
+</p>
+<p>necessary and proportionate. States must show, publicly and transparently, that other less 
+</p>
+<p>intrusive means are unavailable or have failed and that only broadly intrusive measures, 
+</p>
+<p>such as backdoors, would achieve the legitimate aim. Regardless, measures that impose 
+</p>
+<p>generally applicable restrictions on massive numbers of persons, without a case-by-case 
+</p>
+<p>assessment, would almost certainly fail to satisfy proportionality.  
+</p>
+<p><i>  Key escrows 
+</i></p>
+<p>44. A key escrow system permits individual access to encryption but requires users to 
+</p>
+<p>store their private keys with the Government or a &#8220;trusted third party&#8221;. Key escrows, 
+</p>
+<p>however, have substantial vulnerabilities. For instance, the key escrow system depends on 
+</p>
+<p>the integrity of the person, department or system charged with safeguarding the private 
+</p>
+<p>keys, and the key database itself could be vulnerable to attack, undermining any user&#8217;s 
+</p>
+<p>communication security and privacy. Key escrow systems, rejected (along with back-door 
+</p>
+<p>access) after significant debate in the United States in the so-called Crypto Wars of the 
+</p>
+<p>1990s, are currently in place in several countries and have been proposed in others. In 
+</p>
+<p>2011, Turkey passed regulations requiring encryption suppliers to provide copies of 
+</p>
+<p>encryption keys to government regulators before offering their encryption tools to users.33 
+</p>
+<p>The vulnerabilities inherent in key escrows render them a serious threat to the security to 
+</p>
+<p>exercise the freedom of expression. 
+</p>
+<p><i>  Mandatory key disclosure versus targeted decryption orders 
+</i></p>
+<p>45. In a situation where law enforcement or national security arguments may justify 
+</p>
+<p>requests for access to communications, authorities may see two options: order either 
+</p>
+<p>decryption of particular communications or, because of a lack of confidence that a targeted 
+</p>
+<p>party would comply with a decryption order, disclosure of the key necessary for decryption. 
+</p>
+<p>Targeted decryption orders may be seen as more limited and less likely to raise 
+</p>
+<p>proportionality concerns than key disclosure, focusing on specific communications rather 
+</p>
+<p>than an individual&#8217;s entire set of communications encrypted by a particular key. Key 
+</p>
+<p>disclosure, by contrast, could expose private data well beyond what is required by the 
+</p>
+<p>exigencies of a situation. 34  Moreover, key disclosure or decryption orders often force 
+</p>
+<p>corporations to cooperate with Governments, creating serious challenges that implicate 
+</p>
+<p>individual users online. Key disclosure exists by law in a number of European countries.35 
+</p>
+<p>In both cases, however, such orders should be based on publicly accessible law, clearly 
+</p>
+<p>limited in scope focused on a specific target, implemented under independent and impartial 
+</p>
+<p>  
+</p>
+<p> 33 Law No. 5651 on Regulating Broadcasting in the Internet and Fighting against Crimes Committed 
+</p>
+<p>through Internet Broadcasting.<b> </b> 
+</p>
+<p> 34 The European Commission Counter-Terrorism Coordinator has urged consideration of mandatory key 
+</p>
+<p>disclosure. See Council of the European Union, General Secretariat, meeting document D1035/15 
+</p>
+<p>(2015). 
+</p>
+<p> 35 See, e.g., United Kingdom, Regulation of Investigatory Powers 
+</p>
+<p>Acthttp://www.legislation.gov.uk/ukpga/2000/23/pdfs/ukpga_20000023_en.pdf (mandatory 
+key disclosure); France, Law No. 2001-1062 (disclosure of encryption keys on authorization by a 
+</p>
+<p>judge); Spain, Law on Telecommunications 25/2007 (key disclosure). </p>
+
+
+<p>judicial authority, in particular to preserve the due process rights of targets, and only 
+</p>
+<p>adopted when necessary and when less intrusive means of investigation are not available. 
+</p>
+<p>Such measures may only be justified if used in targeting a specific user or users, subject to 
+</p>
+<p>judicial oversight.  
+</p>
+<p><i>  Legal presumptions 
+</i></p>
+<p>46. Some States may identify the mere use of encryption technologies as illicit 
+</p>
+<p>behaviour. For instance, charges against the Zone 9 blogger collective in Ethiopia included 
+</p>
+<p>suggestions that the mere training in communication security was evidence of criminal 
+</p>
+<p>behaviour. 36  Such presumptions fail to meet the standards for permissible restrictions. 
+</p>
+<p>Similarly, States undermine the rights to privacy and freedom of expression when they 
+</p>
+<p>penalize those who produce and distribute tools to facilitate online access for activists. 
+</p>
+<p><b> 2. Anonymity 
+</b></p>
+<p>47. Anonymity has been recognized for the important role it plays in safeguarding and 
+</p>
+<p>advancing privacy, free expression, political accountability, public participation and 
+</p>
+<p>debate.37 The Universal Declaration and the International Covenant on Civil and Political 
+</p>
+<p>Rights do not address anonymity. During negotiation of the Covenant, it was proposed to 
+</p>
+<p>include in article 19 (1) the phrase, &#8220;anonymity is not permitted&#8221;. However, this was 
+</p>
+<p>rejected &#8220;on the grounds, among others, that anonymity might at times be necessary to 
+</p>
+<p>protect the author&#8221; and &#8220;that such a clause might prevent the use of pen names&#8221;.38 The 
+</p>
+<p>Special Rapporteur on Freedom of Expression of the Inter-American Commission on 
+</p>
+<p>Human Rights found that &#8220;the right to freedom of thought and expression and the right to 
+</p>
+<p>private life protect anonymous speech from government restrictions&#8221;.39 Several States enjoy 
+</p>
+<p>long traditions of celebrating anonymity in their political cultures, but very few provide 
+</p>
+<p>general protection in law for anonymous expression. Some States exert significant pressure 
+</p>
+<p>against anonymity, offline and online. Yet because anonymity facilitates opinion and 
+</p>
+<p>expression in significant ways online, States should protect it and generally not restrict the 
+</p>
+<p>technologies that provide it. Several States&#8217; judiciaries have protected anonymity, at least in 
+</p>
+<p>limited instances. For instance, the Supreme Court of Canada recently struck down the 
+</p>
+<p>warrantless acquisition of anonymous user identity online.40 The Constitutional Court of the 
+</p>
+<p>Republic of Korea struck down anti-anonymity laws as unconstitutional.41 The Supreme 
+</p>
+<p>Court of the United States has consistently protected the right to anonymous expression.42 
+</p>
+<p>The European Court of Human Rights has recognized anonymity as important to the 
+</p>
+<p>freedom of expression but permits limitations in cases where necessary to achieve 
+</p>
+<p>legitimate objectives. 
+</p>
+<p>  
+</p>
+<p> 36 See http://trialtrackerblog.org/2014/07/19/contextual-translation-of-the-charges-of-the-zone9-
+</p>
+<p>bloggers/.  
+</p>
+<p> 37 See, e.g., Inter-American Commission on Human Rights, 
+</p>
+<p>https://www.oas.org/en/iachr/expression/docs/reports/2014_04_22_ ia_2013_eng 
+_finalweb.pdfOEA /Serv.L/V/II.149, para. 134; United States, <i>McIntyre </i>v.<i> Ohio Elections 
+Commission</i> (1995); Lord Neuberger, speech to RB Conference on the Internet, entitled, &#8220;What&#8217;s a 
+</p>
+<p>name? Privacy and Anonymous Speech on the Internet&#8221; (2014). 
+</p>
+<p> 38 Marc J. Bossuyt, Guide to the &#8220;Travaux Pr&#233;paratoires&#8221; of the International C<i>ovenant on Civil and 
+</i></p>
+<p><i>Political Rights</i> (1987), pp. 379-80. 
+</p>
+<p> 39 See Organization of American States, press release 17/15. 
+</p>
+<p> 40 <i>R. </i>v.<i> Spencer</i> (2014). 
+</p>
+<p> 41 Decision 2010 Hun-Ma 47, 252 (consolidated) announced 28 August 2012. 
+</p>
+<p> 42 <i>McIntyre </i>v.<i> Ohio Elections Commission </i>(1995), pp. 342 and 343. </p>
+
+
+<p>48. Many States recognize the lawfulness of maintaining the anonymity of journalists&#8217; 
+</p>
+<p>sources. The Mexican Supreme Court and Mexican Code of Criminal Procedures recognize 
+</p>
+<p>the right of journalists to maintain the anonymity of their sources; yet pressures on 
+</p>
+<p>journalists are in fact severe. 43  The Constitutions of Argentina, Brazil, Ecuador and 
+</p>
+<p>Paraguay explicitly protect sources; Chile, El Salvador, Panama, Peru, Uruguay and 
+</p>
+<p>Venezuela (Bolivarian Republic of) protect sources in law.44 The Mozambique Constitution 
+</p>
+<p>protects sources, while Angola purports to do so by statute.45 Australia, Canada, Japan and 
+</p>
+<p>New Zealand have established case-specific judicial balancing tests to analyse source 
+</p>
+<p>protection, although pressure on journalists may undermine such protections over time.46 
+</p>
+<p>States often breach source anonymity in practice, even where it is provided for in law. 
+</p>
+<p><i>  Prohibition of anonymity 
+</i></p>
+<p>49. Prohibition of anonymity online interferes with the right to freedom of expression. 
+</p>
+<p>Many States ban it regardless of any specific government interest. The Constitution of 
+</p>
+<p>Brazil (art. 5) prohibits anonymous speech. The Constitution of the Bolivarian Republic of 
+</p>
+<p>Venezuela (art. 57) similarly prohibits anonymity. In 2013, Viet Nam outlawed the use of 
+</p>
+<p>pseudonyms, which forced individuals with personal blogs to publicly list their real name 
+</p>
+<p>and address.47 In 2012, the Islamic Republic of Iran required the registration of all IP 
+</p>
+<p>addresses in use inside the country and cybercafe users to register their real names before 
+</p>
+<p>using a computer.48 Ecuadoran law requires commenters on websites and mobile phone 
+</p>
+<p>owners to register under a real name.49 
+</p>
+<p>50. Certain States have passed laws that require real-name registration for online 
+</p>
+<p>activity, a kind of ban on anonymity. In the Russian Federation, bloggers with 3,000 or 
+</p>
+<p>more daily readers must register with the media regulator and identify themselves publicly, 
+</p>
+<p>and cybercafe users reportedly must provide identification to connect to public wireless 
+</p>
+<p>facilities.50 China reportedly announced regulations requiring Internet users to register real 
+</p>
+<p>  
+</p>
+<p> 43 See new Federal Code of Criminal Procedures, art. 244. 
+</p>
+<p> 44 See Argentina, Constitution, art. 43; Brazil, Constitution, title II, chap. I, art. 5, XIV; Ecuador, 
+</p>
+<p>Constitution, art. 20; Paraguay, Constitution, art. 29 (1). See also Chile, Law 19,733; El Salvador, 
+</p>
+<p>Criminal Procedure Code; Panama, Law 67, art. 21; Peru, Criminal Procedure Code; Uruguay, Law 
+</p>
+<p>16.099; Bolivarian Republic of Venezuela, Law for Journalism 4.819, art. 8. 
+</p>
+<p> 45 See Mozambique, Constitution, art. 48(3); Angola, Press Law 7/06, art. 20(1). 
+</p>
+<p> 46 Australia Evidence Amendment (Journalists&#8217; Privilege) Act 2007; Canada, Court of Queen&#8217;s Bench 
+</p>
+<p>of Alberta, <i>Wasylyshen </i>v.<i> Canadian Broadcasting Corporation</i> (2005); Japan, Case 2006 (Kyo) 
+</p>
+<p>No. 19 (2006); New Zealand Evidence Act, sect. 68 (2006). 
+</p>
+<p> 47 Human Rights Watch, &#8220;Vietnam: http://www.hrw.org/news/2011/02/23/vietnam-new-decree-
+punishes-pressnew http://www.hrw.org/news/2011/02/23/vietnam-new-decree-punishes-
+pressdecree http://www.hrw.org/news/2011/02/23/vietnam-new-decree-punishes-
+presspunishes http://www.hrw.org/news/2011/02/23/vietnam-new-decree-punishes-
+presspress&#8221;, 23 February, 2011; Freedom House, &#8220;Vietnam: freedom of the press&#8221;, 2012; Article 19, 
+Comment http://www.article19.org/data/files/medialibrary/1830/11-06-20-comm-
+vietnam.pdfon http://www.article19.org/data/files/medialibrary/1830/11-06-20-comm-
+vietnam.pdfDecree No. 02 of 2011 on Administrative Responsibility for Press and Publication 
+Activities of the Prime Minister of the Socialist Republic of Vietnam (June 2011). 
+</p>
+<p> 48 Islamic Republic of Iran, Bill 106, Communication Regulation Authority. 
+</p>
+<p> 49 See 
+</p>
+<p>http://www.derechoambiental.org/derecho/legislacion/ley_organica_comunicacion_ecuador
+_2013.htmlEcuador, Organic Law on Communications (2013).  
+</p>
+<p> 50 Bill No. 428884-6 
+</p>
+<p>http://asozd2.duma.gov.ru/main.nsf/%2528spravkanew%2529?openagent&amp;rn=428884-
+6&amp;02 
+http://asozd2.duma.gov.ru/main.nsf/%2528spravkanew%2529?openagent&amp;rn=428884-
+</p>
+<p> </p>
+
+
+<p>names for certain websites and avoid spreading content that challenges national interests.51 
+</p>
+<p>South Africa also requires real name registration for online and mobile telephone users.52  
+</p>
+<p>51. Likewise, Governments often require SIM card registration; for instance, nearly 
+</p>
+<p>50 countries in Africa require or are in the process of requiring the registration of 
+</p>
+<p>personally identifiable data when activating a SIM card.53 Colombia has had a mandatory 
+</p>
+<p>mobile registration policy since 2011, and Peru has associated all SIM cards with a national 
+</p>
+<p>identification number since 2010.54 Other countries are considering such policies. Such 
+</p>
+<p>policies directly undermine anonymity, particularly for those who access the Internet only 
+</p>
+<p>through mobile technology. Compulsory SIM card registration may provide Governments 
+</p>
+<p>with the capacity to monitor individuals and journalists well beyond any legitimate 
+</p>
+<p>government interest.  
+</p>
+<p>52. States have also attempted to combat anonymity tools, such as Tor, proxies and 
+</p>
+<p>VPNs, by denying access to them. China has long blocked access to Tor,55
+ 
+and Russian 
+</p>
+<p>government officials reportedly offered more than $100,000 for techniques to identify 
+</p>
+<p>                                                                                                                                                                                                
+6&amp;02amendinghttp://asozd2.duma.gov.ru/main.nsf/%2528spravkanew%2529?openagent&amp;r
+n=428884-
+6&amp;02http://asozd2.duma.gov.ru/main.nsf/%2528spravkanew%2529?openagent&amp;rn=42888
+4-6&amp;02 the Federal Law 
+ohttp://asozd2.duma.gov.ru/main.nsf/%2528spravkanew%2529?openagent&amp;rn=428884-
+6&amp;02n Information, Information Technologies and Protection of 
+Informationhttp://asozd2.duma.gov.ru/main.nsf/%2528spravkanew%2529?openagent&amp;rn=4
+28884-6&amp;02 and 
+http://asozd2.duma.gov.ru/main.nsf/%2528spravkanew%2529?openagent&amp;rn=428884-
+6&amp;02 a number of 
+lhttp://asozd2.duma.gov.ru/main.nsf/%2528spravkanew%2529?openagent&amp;rn=428884-
+6&amp;02egislative 
+ahttp://asozd2.duma.gov.ru/main.nsf/%2528spravkanew%2529?openagent&amp;rn=428884-
+6&amp;02cts of the Russian Federation on 
+shttp://asozd2.duma.gov.ru/main.nsf/%2528spravkanew%2529?openagent&amp;rn=428884-
+6&amp;02treamlining the 
+ehttp://asozd2.duma.gov.ru/main.nsf/%2528spravkanew%2529?openagent&amp;rn=428884-
+6&amp;02xchange of 
+ihttp://asozd2.duma.gov.ru/main.nsf/%2528spravkanew%2529?openagent&amp;rn=428884-
+6&amp;02nformation 
+whttp://asozd2.duma.gov.ru/main.nsf/%2528spravkanew%2529?openagent&amp;rn=428884-
+6&amp;02ith the 
+uhttp://asozd2.duma.gov.ru/main.nsf/%2528spravkanew%2529?openagent&amp;rn=428884-
+6&amp;02se of 
+ihttp://asozd2.duma.gov.ru/main.nsf/%2528spravkanew%2529?openagent&amp;rn=428884-
+6&amp;02nformation and 
+thttp://asozd2.duma.gov.ru/main.nsf/%2528spravkanew%2529?openagent&amp;rn=428884-
+6&amp;02elecommunication 
+nhttp://asozd2.duma.gov.ru/main.nsf/%2528spravkanew%2529?openagent&amp;rn=428884-
+6&amp;02etworks; Reuters, &#8220;Russia Demands Internet Users Show ID to Access Public Wifi,&#8221; 8 August 
+</p><p>2014. 
+</p>
+<p> 51 China Copyright and Media, Internet User Account Name Management Regulations, article 5 ( 2015).  
+</p>
+<p> 52 South Africa, Regulation of Interception of Communications and Provision of Communication-
+</p>
+<p>Related Information Act 70 of 2003; see also Electronic Communications and Transactions Act of 
+</p>
+<p>2002 (requiring real name registration for service providers).  
+</p>
+<p> 53 Kevin P. Donovan and Aaron K. Martin, &#8220;The Rise of African SIM Registration&#8221;, 3 February 2014. 
+</p>
+<p> 54 See Colombia, Decree 1630 of 2011; Per&#250; 21, <i>Los celulares de prepago en la mira,</i> 27 May 2010. 
+</p>
+<p> 55 MIT Technology Review, <i>How China Blocks the Tor Anonymity Network</i>, 4 April 2012. </p>
+
+
+<p>anonymous users of Tor. 56  In addition, Ethiopia, 57  Iran (Islamic Republic of) 58
+ 
+and 
+</p>
+<p>Kazakhstan59 have reportedly sought to block Tor traffic. Because such tools may be the 
+</p>
+<p>only mechanisms for individuals to exercise freedom of opinion and expression securely, 
+</p>
+<p>access to them should be protected and promoted. 
+</p>
+<p><i>  Restrictions during public unrest 
+</i></p>
+<p>53. Anonymous speech has been necessary for activists and protestors, but States have 
+</p>
+<p>regularly attempted to ban or intercept anonymous communications in times of protest. 
+</p>
+<p>Such attempts to interfere with the freedom of expression unlawfully pursue an illegitimate 
+</p>
+<p>objective of undermining the right to peaceful protest under the Universal Declaration and 
+</p>
+<p>the International Covenant on Civil and Political Rights. 
+</p>
+<p><i>  Intermediary liability 
+</i></p>
+<p>54. Some States and regional courts have moved towards imposing responsibilities on 
+</p>
+<p>Internet service providers and media platforms to regulate online comments by anonymous 
+</p>
+<p>users. Ecuador, for instance, in its Organic Communications Law, requires intermediaries 
+</p>
+<p>to generate mechanisms to record personal data to allow the identification of those posting 
+</p>
+<p>comments. In <i>Delfi </i>v.<i> Estonia </i>(application No. 64569/09)<i>, </i>the European Court of Human 
+</p>
+<p>Rights upheld an Estonian law that imposes liability on a media platform for anonymous 
+</p>
+<p>defamatory statements posted on its site. Such intermediary liability is likely to result either 
+</p>
+<p>in real-name registration policies, thereby undermining anonymity, or the elimination of 
+</p>
+<p>posting altogether by those websites that cannot afford to implement screening procedures, 
+</p>
+<p>thus harming smaller, independent media. The recently adopted Manila Principles on 
+</p>
+<p>Intermediary Liability, drafted by a coalition of civil society organizations, provide a sound 
+</p>
+<p>set of guidelines for States and international and regional mechanisms to protect expression 
+</p>
+<p>online. 
+</p>
+<p><i>  Data retention 
+</i></p>
+<p>55. Broad mandatory data retention policies limit an individual&#8217;s ability to remain 
+</p>
+<p>anonymous. A State&#8217;s ability to require Internet service and telecommunications providers 
+</p>
+<p>to collect and store records documenting the online activities of all users has inevitably 
+</p>
+<p>resulted in the State having everyone&#8217;s digital footprint. A State&#8217;s ability to collect and 
+</p>
+<p>retain personal records expands its capacity to conduct surveillance and increases the 
+</p>
+<p>potential for theft and disclosure of individual information.  
+</p>
+<p><b> V. Conclusions and recommendations 
+</b></p>
+<p>56. <b>Encryption and anonymity, and the security concepts behind them, provide the 
+</b></p>
+<p><b>privacy and security necessary for the exercise of the right to freedom of opinion and 
+</b></p>
+<p><b>expression in the digital age. Such security may be essential for the exercise of other 
+</b></p>
+<p>  
+</p>
+<p> 56 The original offer is available http://zakupki.gov.ru/epz/order/notice/zkk44/view/common-
+info.html?regnumber=0373100088714000008from 
+http://zakupki.gov.ru/epz/order/notice/zkk44/view/common-
+</p>
+<p>info.html?regNumber=0373100088714000008. 
+</p>
+<p> 57 Runa Sandvik, Ethiopia Introduces Deep Packet Inspection, The Tor Blog (31 May 2012); see also 
+</p>
+<p>Article 19, 12 January 2015.  
+</p>
+<p> 58 &#8220;Phobos&#8221;, &#8220;Iran partially blocks encrypted network traffic&#8221;, The Tor Blog (10 February 2012).  
+</p>
+<p> 59 &#8220;Phobos&#8221;, &#8220;Kazakhstan upgrades censorship to deep packet inspection&#8221;, The Tor Blog (16 February 
+</p>
+<p>2012).  </p>
+
+
+<p><b>rights, including economic rights, privacy, due process, freedom of peaceful assembly 
+</b></p>
+<p><b>and association, and the right to life and bodily integrity. Because of their importance 
+</b></p>
+<p><b>to the rights to freedom of opinion and expression, restrictions on encryption and 
+</b></p>
+<p><b>anonymity must be strictly limited according to principles of legality, necessity, 
+</b></p>
+<p><b>proportionality and legitimacy in objective. The Special Rapporteur therefore 
+</b></p>
+<p><b>recommends the following. 
+</b></p>
+<p><b> A. States 
+</b></p>
+<p>57. <b>States should revise or establish, as appropriate, national laws and regulations 
+</b></p>
+<p><b>to promote and protect the rights to privacy and freedom of opinion and expression. 
+</b></p>
+<p><b>With respect to encryption and anonymity, States should adopt policies of non-
+</b></p>
+<p><b>restriction or comprehensive protection, only adopt restrictions on a case-specific 
+</b></p>
+<p><b>basis and that meet the requirements of legality, necessity, proportionality and 
+</b></p>
+<p><b>legitimacy in objective, require court orders for any specific limitation, and promote 
+</b></p>
+<p><b>security and privacy online through public education.  
+</b></p>
+<p>58. <b>Discussions of encryption and anonymity have all too often focused only on 
+</b></p>
+<p><b>their potential use for criminal purposes in times of terrorism. But emergency 
+</b></p>
+<p><b>situations do not relieve States of the obligation to ensure respect for international 
+</b></p>
+<p><b>human rights law. Legislative proposals for the revision or adoption of restrictions on 
+</b></p>
+<p><b>individual security online should be subject to public debate and adopted according to 
+</b></p>
+<p><b>regular, public, informed and transparent legislative process. States must promote 
+</b></p>
+<p><b>effective participation of a wide variety of civil society actors and minority groups in 
+</b></p>
+<p><b>such debate and processes and avoid adopting such legislation under accelerated 
+</b></p>
+<p><b>legislative procedures. General debate should highlight the protection that encryption 
+</b></p>
+<p><b>and anonymity provide, especially to the groups most at risk of unlawful 
+</b></p>
+<p><b>interferences. Any such debate must also take into account that restrictions are 
+</b></p>
+<p><b>subject to strict tests: if they interfere with the right to hold opinions, restrictions 
+</b></p>
+<p><b>must not be adopted. Restrictions on privacy that limit freedom of expression </b>&#8212;<b> for 
+</b></p>
+<p><b>purposes of the present report, restrictions on encryption and anonymity </b>&#8212;<b> must be 
+</b></p>
+<p><b>provided by law and be necessary and proportionate to achieve one of a small number 
+</b></p>
+<p><b>of legitimate objectives. 
+</b></p>
+<p>59. <b>States should promote strong encryption and anonymity. National laws should 
+</b></p>
+<p><b>recognize that individuals are free to protect the privacy of their digital 
+</b></p>
+<p><b>communications by using encryption technology and tools that allow anonymity 
+</b></p>
+<p><b>online. Legislation and regulations protecting human rights defenders and journalists 
+</b></p>
+<p><b>should also include provisions enabling access and providing support to use the 
+</b></p>
+<p><b>technologies to secure their communications.  
+</b></p>
+<p>60. <b>States should not restrict encryption and anonymity, which facilitate and often 
+</b></p>
+<p><b>enable the rights to freedom of opinion and expression. Blanket prohibitions fail to be 
+</b></p>
+<p><b>necessary and proportionate. States should avoid all measures that weaken the 
+</b></p>
+<p><b>security that individuals may enjoy online, such as backdoors, weak encryption 
+</b></p>
+<p><b>standards and key escrows. In addition, States should refrain from making the 
+</b></p>
+<p><b>identification of users a condition for access to digital communications and online 
+</b></p>
+<p><b>services and requiring SIM card registration for mobile users. Corporate actors 
+</b></p>
+<p><b>should likewise consider their own policies that restrict encryption and anonymity 
+</b></p>
+<p><b>(including through the use of pseudonyms). Court-ordered decryption, subject to 
+</b></p>
+<p><b>domestic and international law, may only be permissible when it results from 
+</b></p>
+<p><b>transparent and publicly accessible laws applied solely on a targeted, case-by-case 
+</b></p>
+<p><b>basis to individuals (i.e., not to a mass of people) and subject to judicial warrant and 
+</b></p>
+<p><b>the protection of due process rights of individuals.  </b></p>
+
+
+<p><b> B. International organizations, private sector and civil society 
+</b></p>
+<p>61. <b>States, international organizations, corporations and civil society groups should 
+</b></p>
+<p><b>promote online security. Given the relevance of new communication technologies in 
+</b></p>
+<p><b>the promotion of human rights and development, all those involved should 
+</b></p>
+<p><b>systematically promote access to encryption and anonymity without discrimination. 
+</b></p>
+<p><b>The Special Rapporteur urgently calls upon entities of the United Nations system, 
+</b></p>
+<p><b>especially those involved in human rights and humanitarian protection, to support the 
+</b></p>
+<p><b>use of communication security tools in order to ensure that those who interact with 
+</b></p>
+<p><b>them may do so securely. United Nations entities must revise their communication 
+</b></p>
+<p><b>practices and tools and invest resources in enhancing security and confidentiality for 
+</b></p>
+<p><b>the multiple stakeholders interacting with the Organization through digital 
+</b></p>
+<p><b>communications. Particular attention must be paid by human rights protection 
+</b></p>
+<p><b>mechanisms when requesting and managing information received from civil society 
+</b></p>
+<p><b>and witnesses and victims of human rights violations.  
+</b></p>
+<p>62. <b>While the present report does not draw conclusions about corporate 
+</b></p>
+<p><b>responsibilities for communication security, it is nonetheless clear that, given the 
+</b></p>
+<p><b>threats to freedom of expression online, corporate actors should review the adequacy 
+</b></p>
+<p><b>of their practices with regard to human right norms. At a minimum, companies 
+</b></p>
+<p><b>should adhere to principles such as those laid out in the 
+</b></p>
+<p>http://www.ohchr.org/documents/publications/guidingprinciplesbusinesshr_en.pdf<b>Guiding 
+</b></p>
+<p><b>Principles 
+</b></p>
+<p>http://www.ohchr.org/documents/publications/guidingprinciplesbusinesshr_en.pdf<b>on 
+</b></p>
+<p><b>Business and Human Rights, the </b>Global Network Initiative&#8217;s Principles on Freedom 
+</p>
+<p><b>of Expression and Privacy, the </b>European Commission&#8217;s ICT Sector Guide on 
+</p>
+<p><b>Implementing the UN Guiding Principles on Business and Human Rights, and the 
+</b></p>
+<p><b>Telecommunications Industry Dialogue Guiding Principles. Companies, like States, 
+</b></p>
+<p><b>should refrain from blocking or limiting the transmission of encrypted 
+</b></p>
+<p><b>communications and permit anonymous communication. Attention should be given to 
+</b></p>
+<p><b>efforts to expand the availability of encrypted data-centre links, support secure 
+</b></p>
+<p><b>technologies for websites and develop widespread default end-to-end encryption. 
+</b></p>
+<p><b>Corporate actors that supply technology to undermine encryption and anonymity 
+</b></p>
+<p><b>should be especially transparent as to their products and customers. 
+</b></p>
+<p>63. <b>The use of encryption and anonymity tools and better digital literacy should be 
+</b></p>
+<p><b>encouraged. The Special Rapporteur, recognizing that the value of encryption and 
+</b></p>
+<p><b>anonymity tools depends on their widespread adoption, encourages States, civil 
+</b></p>
+<p><b>society organizations and corporations to engage in a campaign to bring encryption 
+</b></p>
+<p><b>by design and default to users around the world and, where necessary, to ensure that 
+</b></p>
+<p><b>users at risk be provided the tools to exercise their right to freedom of opinion and 
+</b></p>
+<p><b>expression securely. 
+</b></p>
+<p>    </p>
+
+</body></html>

@@ -29,8 +29,6 @@ class Document:
 
         if lemmatize:
             self.lemmatizeTokens()
-        processedTokens = []
-
         self.tokens = [token for token in self.tokens if (token not in stopwords) and (token in whiteList)]
 
         self.tokens = [token for token in self.tokens if not utils.containsAny(token, specialChars) and len(token) > threshold]

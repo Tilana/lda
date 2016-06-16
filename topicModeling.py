@@ -13,33 +13,35 @@ def TM_default():
 
     #### PARAMETERS ####
     info = Info()
-    info.data = 'HRC'     # 'ICAAD' 'NIPS' 'scifibooks' 'HRC'
-    
+    info.data = 'ICAAD'     # 'ICAAD' 'NIPS' 'scifibooks' 'HRC'
+   
+    # Preprocessing #
     info.preprocess = 0
     info.startDoc = 0 
     info.numberDoc= None 
     info.specialChars = set(u'''[,\.\'\`=\":\\\/_+]''')
     info.includeEntities = 0
+    info.removeNames = 1
+
+    info.whiteList= Word2Vec().net.vocab.keys()
+    info.stoplist = list(STOPWORDS) + utils.lowerList(names.words())
+    # Dictionary #  
+    info.analyseDictionary = 1
 
     info.lowerFilter = 10     # in number of documents
-    info.upperFilter = 0.35  # in percent
+    info.upperFilter = 0.30  # in percent
 
+    # LDA Model #
     info.modelType = 'LDA'  # 'LDA' 'LSI'
-    info.numberTopics = 10 
-    info.tfidf = 1
-    info.passes = 10
-    info.iterations = 100 
-    info.online = 1 
+    info.numberTopics = 36 
+    info.tfidf = 0
+    info.passes = 271
+    info.iterations = 1500 
+    info.online = 0 
     info.chunksize = 4100 
     info.multicore = 1
-        
-#    info.whiteList = ['sexual', 'rape', 'assault', 'penetration', 'women', 'vagina', 'child', 'subdue', 'harassment', 'forced', 'abuse', 'sexually', 'exploitation', 'prostitution', 'strip', 'nude', 'sex', 'trafficking', 'incest', 'aggression', 'offender', 'genital', 'family', 'parent', 'sibling', 'intimate', 'marriage', 'gay', 'lesbian', 'boy', 'girl', 'porn', 'pornography', 'victim', 'violation', 'touch', 'body', 'penis', 'stalking', 'bank', 'banking', 'bond', 'comission', 'credit','debit', 'debt', 'deposit', 'money', 'interest', 'rate', 'mortgage', 'savings', 'vault', 'withdrawal', 'account', 'payment', 'bancrupt', 'finance', 'beneficiary', 'cash', 'cost', 'currency', 'default', 'fund', 'bill', 'sale', 'selling', 'solvent', 'solvency', 'tax', 'payer', 'taxes', 'fraud', 'loan', 'bribery', 'evasion', 'laundring', 'money', 'theft', 'forgery', 'charge']
-    word2vec = Word2Vec()
-    info.whiteList= word2vec.net.vocab.keys()
-    info.removeNames = 1
-    info.stoplist = list(STOPWORDS) + utils.lowerList(names.words())
-    
-    info.analyseDictionary = 1
+
+    # Evaluation #
     info.categories = loadCategories('Documents/categories.txt')[0]     #0 -human rights categories   1 - Scientific Paper categories
     
     info.setup()
@@ -107,7 +109,6 @@ def TM_default():
     info.saveToFile()
     html.printTopics(lda)
     html.htmlDictionary(dictionary)
-    html.printTopics(lda)
     html.printDocuments(collection.documents, lda)# , openHtml=True)
     html.printDocsRelatedTopics(lda, collection.documents, openHtml=False)
     html.documentOverview(collection.documents)

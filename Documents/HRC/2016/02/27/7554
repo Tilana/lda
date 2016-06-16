@@ -1,0 +1,353 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 4.3.7.2 (Linux)"/>
+	<meta name="author" content="Kiatsurayanon"/>
+	<meta name="created" content="2014-09-19T16:34:00"/>
+	<meta name="changedby" content="Pdfeng"/>
+	<meta name="changed" content="2014-09-19T16:34:00"/>
+	<style type="text/css">
+		@page { margin-right: 0.79in; margin-top: 0.79in; margin-bottom: 1.18in }
+		p { margin-bottom: 0.1in; direction: ltr; color: #000000; line-height: 120%; widows: 2; orphans: 2 }
+		p.western { font-family: "Times New Roman", serif; font-size: 10pt; so-language: en-GB }
+		p.cjk { font-family: "Times New Roman", serif; font-size: 10pt }
+		p.ctl { font-family: "Times New Roman", serif; font-size: 10pt; so-language: ar-SA }
+		p.sdfootnote-western { margin-left: 0.79in; margin-right: 0.79in; text-indent: -0.79in; margin-bottom: 0in; font-family: "Times New Roman", serif; font-size: 9pt; so-language: en-GB; line-height: 0.15in }
+		p.sdfootnote-cjk { margin-left: 0.79in; margin-right: 0.79in; text-indent: -0.79in; margin-bottom: 0in; font-family: "Times New Roman", serif; font-size: 9pt; line-height: 0.15in }
+		p.sdfootnote-ctl { margin-left: 0.79in; margin-right: 0.79in; text-indent: -0.79in; margin-bottom: 0in; font-family: "Times New Roman", serif; font-size: 10pt; so-language: ar-SA; line-height: 0.15in }
+		a:link { color: #000000; text-decoration: none }
+		a:visited { color: #000000; text-decoration: none }
+		a.western:visited { so-language: en-US }
+		a.cjk:visited { so-language: zh-CN }
+		a.ctl:visited { so-language: hi-IN }
+		a.sdfootnoteanc { font-size: 57% }
+		a.sdfootnotesym-western { font-family: "Times New Roman", serif; font-size: 9pt }
+		a.sdfootnotesym-cjk { font-size: 9pt }
+		a.sdfootnotesym-ctl { font-family: "Times New Roman", serif }
+		a.sdendnotesym-western { font-family: "Times New Roman", serif; font-size: 9pt }
+		a.sdendnotesym-cjk { font-size: 9pt }
+		a.sdendnotesym-ctl { font-family: "Times New Roman", serif }
+	</style>
+</head>
+<body lang="en-US" text="#000000" link="#000000" vlink="#000000" dir="ltr">
+<div title="header">
+	<p lang="en-GB" align="right" style="margin-bottom: 0.35in; border-top: none; border-bottom: 1px solid #000000; border-left: none; border-right: none; padding-top: 0in; padding-bottom: 0.06in; padding-left: 0in; padding-right: 0in; line-height: 100%">
+	<font size="2" style="font-size: 9pt"><b>A/HRC/27/L.17</b></font></p>
+</div>
+<table width="643" cellpadding="0" cellspacing="0" style="page-break-before: always">
+	<col width="84">
+	<col width="149">
+	<col width="214">
+	<col width="195">
+	<tr>
+		<td width="84" height="57" valign="top" style="border-top: none; border-bottom: 1px solid #000000; border-left: none; border-right: none; padding: 0in">
+			<p lang="en-GB" class="western" style="margin-top: 0.25in"><br/>
+
+			</p>
+		</td>
+		<td width="149" valign="bottom" style="border-top: none; border-bottom: 1px solid #000000; border-left: none; border-right: none; padding: 0in">
+			<p lang="en-GB" class="western"><font size="4" style="font-size: 14pt">United
+			Nations</font></p>
+		</td>
+		<td colspan="2" width="410" valign="bottom" style="border-top: none; border-bottom: 1px solid #000000; border-left: none; border-right: none; padding: 0in">
+			<p lang="en-GB" class="western" align="right"><font size="5" style="font-size: 20pt">A</font>/HRC/27/L.17</p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="84" height="187" style="border-top: 1px solid #000000; border-bottom: 1.50pt solid #000000; border-left: none; border-right: none; padding: 0in">
+			<p lang="en-GB" class="western" align="center" style="margin-top: 0.08in">
+			<img src="data:image/png;base64,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" name="_unlogo" align="bottom" width="75" height="62" border="0"></p>
+		</td>
+		<td colspan="2" width="363" style="border-top: 1px solid #000000; border-bottom: 1.50pt solid #000000; border-left: none; border-right: none; padding: 0in">
+			<p lang="en-GB" class="western" style="margin-top: 0.08in"><font size="5" style="font-size: 20pt"><b>General
+			Assembly</b></font></p>
+		</td>
+		<td width="195" style="border-top: 1px solid #000000; border-bottom: 1.50pt solid #000000; border-left: none; border-right: none; padding: 0in">
+			<p lang="en-GB" class="western" style="margin-top: 0.17in; margin-bottom: 0in">
+			Distr.: Limited</p>
+			<p lang="en-GB" class="western" style="margin-bottom: 0in">19
+			September 2014</p>
+			<p lang="en-GB" class="western" style="margin-bottom: 0in"><br/>
+
+			</p>
+			<p lang="en-GB" class="western">Original: English</p>
+		</td>
+	</tr>
+</table>
+<p lang="en-GB" class="western" style="margin-top: 0.08in; margin-bottom: 0in; line-height: 0.17in">
+<font size="3" style="font-size: 12pt"><b>Human Rights Council</b></font><span class="sd-abs-pos" style="position: absolute; top: 8.78in; left: 6in; width: 67px"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEMAAABDCAMAAADwFEhBAAADAFBMVEUAAAD////8A/sAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////9tJ4B9AAAAA3RSTlP//wDXyg1BAAABYUlEQVR4nLWTURLCMAhE0/tf2g+bsm9BHXXLTLVJ4BUWshbsOJ5PvW/bO3V+xSxb/8hQv+1Va//t7Byj5667yi2exNzC8CivYND9FobrxorG/scY7OWknFbxeT5+Y6ipZu8exEQYhxmzpdpex95KMOqeUb/eZ/XEOsTglGs97zjyzRBD1aNPZ2rVl1eEwf4x/5lQNW2HDEMpZfQk4Q4Gp6oz2GkqevpFGK4afSpvclXtFIP51znnX6utVY7Bu48cYa5kmjH1s6v3mpRi9I56BG9jn7YUg1F+78nh5Gtf/mWUeu7PidJI7cJaKYZqqf/ec9ZYXhmG5dXy9XdV9vQOMTg17DDn3793nkUY3lPXTNVco6UYNNZFVr95Naf/Miwvm25WMKufYmgd7KMTWMuldozB3laEMnpv72VMa/5yCrameYbmqXnzjLAMQ3vbc+X97zOQYvScoVibumYRxrj7nT0AIXsI+ri0W0UAAAAASUVORK5CYII=" name="Image1" width="67" height="67" border="0"></span></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0in; line-height: 0.17in">
+<b>Twenty-seventh session</b></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0in; line-height: 0.17in">
+Agenda item 3</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0in; line-height: 0.17in">
+<b>Promotion and protection of all human rights, civil,<br>political,
+economic, social and cultural rights,<br>including the right to
+development</b></p>
+<p lang="en-GB" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: -0.79in; margin-top: 0.17in; margin-bottom: 0.08in; line-height: 0.17in; page-break-inside: avoid; page-break-after: avoid">
+<b>		Bolivia (Plurinational State of),<font face="Times New Roman, serif"><font size="2" style="font-size: 9pt"><font size="2" style="font-size: 10pt"><a class="sdfootnoteanc" name="sdfootnote1anc" href="#sdfootnote1sym" sdfixed><sup>*</sup></a></font></font></font>
+ Cuba, Democratic People’s Republic of Korea,* Ethiopia, Lebanon,*
+Peru, South Africa, State of Palestine,* Sudan,* Venezuela
+(Bolivarian Republic of): draft resolution</b></p>
+<p lang="en-GB" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: -0.79in; margin-top: 0.17in; margin-bottom: 0.08in; line-height: 0.17in; page-break-inside: avoid; page-break-after: avoid">
+<b>		27/…  <font size="3" style="font-size: 12pt"><span lang="en-GB">The
+use of mercenaries as a means of violating human rights and 	impeding
+the exercise of the right of peoples to self-determination</span></font></b></p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+<i>The Human Rights Council</i>,</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+<i>Recalling</i> all previous resolutions adopted by the General
+Assembly, the Human Rights Council and the Commission on Human Rights
+on the subject, including Assembly resolution 64/151 of 18 December
+2009 and Council resolutions 10/11 of 26 March 2009, 15/12 of 30
+September 2010, 15/26 of 1 October 2010, 18/4 of 29 September 2011
+and 24/13 of 26 September 2013,</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+<i>Recalling</i> <i>also</i> all relevant resolutions that, inter
+alia, condemn any State that permits or tolerates the recruitment,
+financing, training, assembly, transit or use of mercenaries with the
+objective of overthrowing the Governments of States Members of the
+United Nations, especially those of developing countries, or of
+fighting against national liberation movements, and recalling also
+the relevant resolutions and international instruments adopted by the
+General Assembly, the Security Council, the Economic and Social
+Council, the African Union and the Organization of African Unity,
+inter alia, the Organization of African Unity Convention for the
+Elimination of Mercenarism in Africa,</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+<i>Reaffirming</i> the purposes and principles enshrined in the
+Charter of the United Nations concerning the strict observance of the
+principles of sovereign equality, political independence, the
+territorial integrity of States, the self-determination of peoples,
+the non-use of force or threat of use of force in international
+relations and non-interference in affairs within the domestic
+jurisdiction of States,</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+<i>Reaffirming</i> <i>also</i> that, by virtue of the principle of
+self-determination, all peoples have the right to determine freely
+their political status and to pursue freely their economic, social
+and cultural development, and that every State has the duty to
+respect this right in accordance with the provisions of the Charter,</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+<i>Reaffirming</i> <i>further</i> the Declaration on Principles of
+International Law concerning Friendly Relations and Cooperation among
+States in accordance with the Charter of the United Nations,</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+<i>Alarmed</i> <i>and</i> <i>concerned</i> about the threat posed by
+the activities of mercenaries to peace and security in developing
+countries in various parts of the world, in particular in areas of
+conflict,</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+<i>Deeply</i> <i>concerned</i> at the loss of life, the substantial
+damage to property and the negative effects on the policies and
+economies of affected countries resulting from international criminal
+mercenary activities,</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+<i>Extremely</i> <i>alarmed</i> <i>and</i> <i>concerned</i> about
+recent mercenary activities in developing countries in various parts
+of the world, in particular in areas of conflict, and the threat they
+pose to the integrity of and respect for the constitutional order of
+the affected countries,</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+<i>Recalling</i> the holding of regional consultations in all five
+regions from 2007 to 2011, in which participants noted that the
+enjoyment and exercise of human rights were increasingly impeded by
+the emergence of several new challenges and trends relating to
+mercenaries or their activities and by the role played by private
+military and security companies registered, operating or recruiting
+personnel in each region, and expressing its appreciation to the
+Office of the United Nations High Commissioner for Human Rights for
+its support for the holding of those consultations,</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+<i>Convinced</i> that, notwithstanding the way in which mercenaries
+or mercenary-related activities are used or the form they take to
+acquire a semblance of legitimacy, they are a threat to peace,
+security and the self-determination of peoples and an obstacle to the
+enjoyment of human rights by peoples,</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+1.	<i>Reaffirms</i> that the use of mercenaries and their
+recruitment, financing, protection and training are causes for grave
+concern to all States and violate the purposes and principles
+enshrined in the Charter of the United Nations;</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+2.	<i>Recognizes</i> that armed conflicts, terrorism, arms
+trafficking and covert operations by third Powers encourage, inter
+alia, the demand for mercenaries as well as for private military and
+security companies on the global market;</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+3.	<i>Urges</i> <i>once</i> <i>again</i> all States to take the
+necessary steps and to exercise the utmost vigilance against the
+threat posed by the activities of mercenaries, and to take
+legislative measures to ensure that their territories and other
+territories under their control, as well as their nationals, are not
+used for the recruitment, assembly, financing, training, protection
+and transit of mercenaries for the planning of activities designed to
+impede the right to self-determination, to overthrow the Government
+of any State or to dismember or impair, totally or in part, the
+territorial integrity or political unity of sovereign and independent
+States conducting themselves in compliance with the right of peoples
+to self-determination;</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+4.	<i>Requests</i> all States to exercise the utmost vigilance
+against any kind of recruitment, training, hiring or financing of
+mercenaries;</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+5.	<i>Also</i> <i>requests</i> all States to exercise the utmost
+vigilance in banning the use of private companies offering
+international military consultancy and security services when
+intervening in armed conflicts or actions to destabilize
+constitutional regimes;</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+6.	<i>Encourages</i> States that import the military assistance,
+consultancy and security services provided by private companies to
+establish regulatory national mechanisms for the registering and
+licensing of those companies in order to ensure that imported
+services provided by those private companies neither impede the
+enjoyment of human rights nor violate human rights in the recipient
+country;</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+7.	<i>Emphasizes</i> its utmost concern about the impact of the
+activities of private military and security companies on the
+enjoyment of human rights, in particular when operating in armed
+conflicts, and notes that private military and security companies and
+their personnel are rarely held accountable for violations of human
+rights;</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+8.	<i>Calls</i> <i>upon</i> all States that have not yet become
+parties to the International Convention against the Recruitment, Use,
+Financing and Training of Mercenaries to consider taking the
+necessary action to do so;</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+9.	<i>Welcomes</i> the cooperation extended by those countries that
+received a visit by the Working Group on the use of mercenaries as a
+means of violating human rights and impeding the exercise of the
+right of peoples to self-determination, and the adoption by some
+States of national legislation that restricts the recruitment,
+assembly, financing, training and transit of mercenaries;</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+10.	<i>Invites</i> States to investigate the possibility of mercenary
+involvement whenever and wherever criminal acts of a terrorist nature
+occur;</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+11.	<i>Condemns</i> mercenary activities in developing countries in
+various parts of the world, in particular in areas of conflict, and
+the threat they pose to the integrity of and respect for the
+constitutional order of these countries and the exercise of the right
+to self-determination of their peoples, and stresses the importance
+for the Working Group of looking into sources and root causes, as
+well as the political motivations of mercenaries and for
+mercenary-related activities;</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+12.	<i>Calls</i> <i>upon</i> the international community and all
+States, in accordance with their obligations under international law,
+to cooperate with and assist the judicial prosecution of those
+accused of mercenary activities in transparent, open and fair trials;</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+12.	<i>Acknowledges</i> with appreciation the work and contributions
+made by the Working Group, including its research activities, and
+takes note of its latest report;<sup><font face="Times New Roman, serif"><font size="2" style="font-size: 9pt"><a class="sdfootnoteanc" name="sdfootnote2anc" href="#sdfootnote2sym"><sup>1</sup></a></font></font></sup>
+</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+13.	<i>Recalls</i> the holding of the third session of the open-ended
+intergovernmental working group to consider the possibility of
+elaborating an international regulatory framework on the regulation,
+monitoring and oversight of the activities of private military and
+security companies, expresses satisfaction at the participation of
+experts, including of the members of the Working Group on the use of
+mercenaries, as resource persons at the above-mentioned session, and
+requests the Working Group and other experts to continue their
+participation during the fourth session of the open-ended
+intergovernmental working group;</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+14.	<i>Recommends</i> that all Member States, including those
+confronted with the phenomenon of private military and security
+companies, as contracting States, States of operations, home States
+or States whose nationals are employed to work for a private military
+or security company, contribute to the work of the open-ended
+intergovernmental working group, taking into account the work done by
+the Working Group on the use of mercenaries;</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+15.	<i>Requests</i> the Working Group on the use of mercenaries to
+continue the work already done by previous mandate holders on the
+strengthening of the international legal framework for the prevention
+and sanction of the recruitment, use, financing and training of
+mercenaries, taking into account the proposal for a new legal
+definition of a mercenary drafted by the Special Rapporteur on the
+use of mercenaries as a means of violating human rights and impeding
+the exercise of the right of peoples to self-determination in his
+report submitted to the Commission on Human Rights at its sixtieth
+session,<sup><font face="Times New Roman, serif"><font size="2" style="font-size: 9pt"><a class="sdfootnoteanc" name="sdfootnote3anc" href="#sdfootnote3sym"><sup>2</sup></a></font></font></sup></p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+ as well as the evolving phenomenon of mercenaries and its related
+forms; 
+</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+16.	<i>Reiterates</i> its requests to the Office of the United
+Nations High Commissioner for Human Rights to, as a matter of
+priority, publicize the adverse effects of the activities of
+mercenaries and private companies offering military assistance,
+consultancy and other military and security-related services on the
+international market on the right of peoples to self-determination
+and, when requested and where necessary, to render advisory services
+to States that are affected by those activities;</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+17.	<i>Requests</i> the Working Group to continue to monitor
+mercenaries and mercenary-related activities in all their forms and
+manifestations, as well as private military and security companies,
+in different parts of the world, including instances of protection
+provided by Governments to individuals involved in mercenary
+activities, and to continue to update the database of individuals
+convicted of mercenary activities;</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+18.	<i>Also</i> <i>requests</i> the Working Group to continue to
+study and identify sources and causes, emerging issues,
+manifestations and trends regarding mercenaries or mercenary-related
+activities and their impact on human rights, particularly on the
+right of peoples to self-determination;</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+19.	<i>Urges</i> all States to cooperate fully with the Working Group
+in the fulfilment of its mandate;</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+20.	<i>Requests</i> the Secretary-General and the High Commissioner
+to provide the Working Group with all the assistance and support
+necessary for the fulfilment of its mandate, both professional and
+financial, including through the promotion of cooperation between the
+Working Group and other components of the United Nations system that
+deal with countering mercenary-related activities, in order to meet
+the demands of its current and future activities;</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+21.	<i>Requests</i> the Working Group to consult States,
+intergovernmental and non-governmental organizations and other
+relevant actors of civil society in the implementation of the present
+resolution, and to report its findings on the use of mercenaries as a
+means of violating human rights and impeding the exercise of the
+right of peoples to self-determination to the General Assembly at its
+seventieth session and to the Human Rights Council at its thirtieth
+session;</p>
+<p lang="en-GB" align="justify" style="margin-left: 0.79in; margin-right: 0.79in; text-indent: 0.39in; margin-bottom: 0.08in; line-height: 0.17in">
+22.	<i>Decides</i> to continue its consideration of this matter under
+the same agenda item at its thirtieth session.</p>
+<p lang="en-GB" align="center" style="margin-left: 0.79in; margin-right: 0.79in; margin-top: 0.17in; margin-bottom: 0in; line-height: 0.17in">
+<u>			</u></p>
+<div id="sdfootnote1">
+	<p lang="en-GB" class="sdfootnote-western"><a class="sdfootnotesym-western" name="sdfootnote1sym" href="#sdfootnote1anc">*</a><sup><font face="Times New Roman, serif"><font size="2" style="font-size: 9pt">	</font></font></sup><font face="Times New Roman, serif"><font size="2" style="font-size: 9pt"><font size="2" style="font-size: 10pt">*	</font></font></font>Non-member
+	State of the Human Rights Council.</p>
+</div>
+<div id="sdfootnote2">
+	<p lang="en-GB" class="sdfootnote-western" style="widows: 0; orphans: 0">
+	<a class="sdfootnotesym-western" name="sdfootnote2sym" href="#sdfootnote2anc">1</a>	<sup><font face="Times New Roman, serif"><font size="2" style="font-size: 9pt"></font></font></sup>	<span lang="es-ES">A/HRC/27/50.</span>
+		</p>
+</div>
+<div id="sdfootnote3">
+	<p lang="en-GB" class="sdfootnote-western" style="widows: 0; orphans: 0">
+	<a class="sdfootnotesym-western" name="sdfootnote3sym" href="#sdfootnote3anc">2</a>	<sup><font face="Times New Roman, serif"><font size="2" style="font-size: 9pt"></font></font></sup>	<span lang="es-ES">E/CN.4/2004/15.</span>
+		</p>
+</div>
+<div title="footer">
+	<p lang="en-GB" style="margin-top: 0.35in; margin-bottom: 0in; line-height: 100%">
+	<font size="1" style="font-size: 8pt">	<font size="2" style="font-size: 9pt"><b><sdfield type=PAGE subtype=RANDOM format=PAGE>5</sdfield></b></font></font></p>
+</div>
+</body>
+</html>

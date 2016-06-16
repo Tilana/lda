@@ -97,6 +97,8 @@ class Viewer:
         sortedCollection = sorted(collection, key=lambda document: document.LDACoverage[0][1], reverse=True)
         indices = [ind[0] for ind in sorted(enumerate(collection), key=lambda document: document[1].LDACoverage[0][1], reverse=True)]
         f.write("""<h4> LDA Topic coverage:</h4><table>""")
+        f.write("""<col style="width:20%"> <col style="width:15%"> <col style = "width:20%"> """)
+
         for ind, document in enumerate(sortedCollection):
             f.write("""<tr><td><a href='Documents/doc%02d.html'> %s </a></td> <td> %0.4f </td> <td> <a href='Topics/LDAtopic%d.html' > Topic %d </a> </td></tr>""" % (indices[ind], document.title, document.LDACoverage[0][1], document.LDACoverage[0][0], document.LDACoverage[0][0]))
         f.write("</table>")
@@ -110,16 +112,16 @@ class Viewer:
         f = open(filename, 'w')
         f.write("<html><head><h1> %s Topics</h1></head>" % model.name)
         f.write("<body><p>Topics and related words - %s Model</p><table>" % model.name )
-        f.write("""<col style="width:7%"> <col style="width: 15%"> <col style="width:7%"> <col style="width: 7%"> <col style="width:80%"> <col style="width:8%">""")
+        f.write("""<col style="width:7%"> <col style="width: 15%"> <col style="width:7%"> <col style="width: 7%"> <col style="width:80%">""")
 
         for topic in model.topics:
             topic.score = sum(topic.relevanceScores)
             if max(topic.relevanceScores)<0.2:
-                f.write("<tr><td><a href='Topics/%stopic%d.html'>  <font color='red'> Topic %d </font> </a></td><td>%s </td><td>%.4f</td><td>%.4f</td><td>%s</td><td>%s</td></tr>" % (model.name, topic.number, topic.number, topic.keywords[0:2], topic.score, topic.medianSimilarity, str(topic.wordDistribution[0:10])[1:-1], topic.intruder))
+                f.write("<tr><td><a href='Topics/%stopic%d.html'>  <font color='red'> Topic %d </font> </a></td><td>%s </td><td>%.4f</td><td>%.4f</td><td>%s</td></tr>" % (model.name, topic.number, topic.number, topic.keywords[0:2], topic.score, topic.medianSimilarity, str(topic.wordDistribution[0:10])[1:-1]))
             elif max(topic.relevanceScores)>0.8:
-                f.write("<tr><td><a href='Topics/%stopic%d.html'>  <font color='green'> Topic %d </font> </a></td><td>%s </td><td>%.4f</td><td>%.4f</td><td>%s</td><td>%s</td></tr>" % (model.name, topic.number, topic.number, topic.keywords[0:2], topic.score, topic.medianSimilarity, str(topic.wordDistribution[0:10])[1:-1], topic.intruder))
+                f.write("<tr><td><a href='Topics/%stopic%d.html'>  <font color='green'> Topic %d </font> </a></td><td>%s </td><td>%.4f</td><td>%.4f</td><td>%s</td></tr>" % (model.name, topic.number, topic.number, topic.keywords[0:2], topic.score, topic.medianSimilarity, str(topic.wordDistribution[0:10])[1:-1]))
             else:
-                f.write("<tr><td><a href='Topics/%stopic%d.html'> Topic %d </a></td><td>%s </td><td>%.4f</td><td>%.4f</td><td>%s</td><td>%s</td></tr>" % (model.name, topic.number, topic.number, topic.keywords[0:2], topic.score, topic.medianSimilarity, str(topic.wordDistribution[0:10])[1:-1], topic.intruder))
+                f.write("<tr><td><a href='Topics/%stopic%d.html'> Topic %d </a></td><td>%s </td><td>%.4f</td><td>%.4f</td><td>%s</td></tr>" % (model.name, topic.number, topic.number, topic.keywords[0:2], topic.score, topic.medianSimilarity, str(topic.wordDistribution[0:10])[1:-1]))
         f.write("</table>")
         
         f.write("Mean Similarity Score: %.4f" % model.meanScore)
@@ -204,48 +206,6 @@ class Viewer:
     	    f.close()
             if openHtml:
                 webbrowser.open_new_tab(pagename)
-    
-
-    def freqAnalysis(self, collection, openHtml=False):
-        for ind, doc in enumerate(collection):
-            pagename = 'html/%s' % doc.title
-            f = open(pagename, 'w')
-            f.write("<html><head><h1>Document %02d - %s</h1></head>" % (ind, doc.name))
-            f.write("""<body><div style="width:100%;"><div style="float:right; width:40%;">""")
-            f.write("""<h4> Topic Suggestions <h4>""")
-          
-            self.printTupleList(f, ' ', doc.mostFrequent)
-            self.printColoredList(f, 'Manual Topic Assignment', doc.assignedKeywords)
-
-            f.write("""<h4> All Keywords \n</h4>""")
-            for tag in doc.entities.__dict__.keys():
-                if getattr(doc.entities, tag):
-                    self.printTupleList(f, tag, getattr(doc.entities, tag))
-            f.write("""</div>""")
-            f.write("""<div style="float:left; width:55%%;"><p>%s</p></div></div></body></html>""" % doc.text.encode('utf8'))
-            f.close()
-            if openHtml:
-                webbrowser.open_new_tab(pagename)
-
-
-    def freqAnalysis_eval(self, model):
-        pagename = 'html/freqAnalysis_eval.html'
-        f = open(pagename, 'w')
-        f.write("<html><head><h1> Evaluation of frequency analysis </h1></head>")
-        f.write("""<body><div style="width:100%;">""")
-        f.write(""" <h4> Number of analysed documents: %d </h4> """ % len(model.collection))
-        f.write(""" <h4>%d out of %d keywords are not detected </h4>""" % (len(model.undetectedKeywords), model.numberKeywords))
-        f.write("""<h4> Accuracy: %f </h4>""" % ((1-(len(model.undetectedKeywords)/float(model.numberKeywords)))*100) )
-
-        f.write("""<h4> Missed keywords: </h4>""")
-        
-        f.write("""<table>""")
-        for keywords in model.undetectedKeywords:
-            f.write("<tr><td><a href='%s.html'>%s</a></td><td>%s</td></tr>" % (keywords[0].replace('/','_'), keywords[0], keywords[1]))
-
-        f.write("""</table></div></body></html>""")
-        f.close()
-        webbrowser.open_new_tab(pagename)
 
 
     def classificationResults(self, model):

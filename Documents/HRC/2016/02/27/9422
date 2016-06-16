@@ -1,0 +1,522 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 4.3.7.2 (Linux)"/>
+	<meta name="author" content="Kountouri Tapiero"/>
+	<meta name="created" content="2007-10-16T18:09:00"/>
+	<meta name="changedby" content="Kountouri Tapiero"/>
+	<meta name="changed" content="2007-10-16T18:10:00"/>
+	<style type="text/css">
+		@page { margin: 1in }
+		p { margin-bottom: 0.1in; direction: ltr; color: #000000; line-height: 120%; widows: 2; orphans: 2 }
+		p.western { font-family: "Times New Roman", serif; font-size: 12pt; so-language: en-GB }
+		p.cjk { font-family: "Times New Roman", serif; font-size: 12pt }
+		p.ctl { font-family: "Times New Roman", serif; font-size: 10pt; so-language: ar-SA }
+		h1 { margin-top: 0in; margin-bottom: 0.17in; direction: ltr; text-transform: uppercase; color: #000000; text-align: center; widows: 2; orphans: 2 }
+		h1.western { font-family: "Times New Roman", serif; font-size: 12pt; so-language: en-GB }
+		h1.cjk { font-family: "Times New Roman", serif; font-size: 12pt }
+		h1.ctl { font-family: "Times New Roman", serif; font-size: 10pt; so-language: ar-SA; font-weight: normal }
+		h2 { margin-top: 0in; margin-bottom: 0.17in; direction: ltr; color: #000000; text-align: center; widows: 2; orphans: 2 }
+		h2.western { font-family: "Times New Roman", serif; font-size: 12pt; so-language: en-GB }
+		h2.cjk { font-family: "Times New Roman", serif; font-size: 12pt }
+		h2.ctl { font-family: "Times New Roman", serif; font-size: 10pt; so-language: ar-SA; font-weight: normal }
+		p.sdfootnote-western { margin-bottom: 0.17in; font-family: "Times New Roman", serif; font-size: 12pt; so-language: en-GB; line-height: 100% }
+		p.sdfootnote-cjk { margin-bottom: 0.17in; font-family: "Times New Roman", serif; font-size: 12pt; line-height: 100% }
+		p.sdfootnote-ctl { margin-bottom: 0.17in; font-family: "Times New Roman", serif; font-size: 10pt; so-language: ar-SA; line-height: 100% }
+		a.sdfootnoteanc { font-size: 57% }
+		a.sdfootnotesym-western { font-family: "Times New Roman", serif; font-size: 12pt; font-weight: bold }
+		a.sdfootnotesym-cjk { font-size: 12pt; font-weight: bold }
+		a.sdfootnotesym-ctl { font-family: "Times New Roman", serif }
+	</style>
+</head>
+<body lang="en-US" text="#000000" dir="ltr">
+<h2 lang="en-GB" class="western" align="left" style="margin-left: 2in; text-indent: -0.67in">
+<img src="data:image/png;base64,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" name="Object1" align="bottom" width="84" height="78">Human
+Rights Council 
+</h2>
+<h2 lang="en-GB" class="western" align="left" style="margin-left: 1.42in; text-indent: -0.39in">
+5/2.	Code of Conduct for Special Procedures Mandate-holders<br>of the
+Human Rights Council</h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+	<i>The Human Rights Council</i>,</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+	<i>Guided</i> by the aims and principles of the Charter of the
+United Nations and the Universal Declaration of Human Rights and
+recognizing the ensuing obligations inter alia of States to cooperate
+in promoting universal respect for human rights as enshrined therein,</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+	<i>Recalling</i> the Vienna Declaration and Programme of Action
+adopted on 25 June 1993 by the World Conference on Human Rights,</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+	<i>Recalling also</i> that in resolution 60/251 of 15 March 2006,
+entitled “Human Rights Council”, the General Assembly:</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+	(<i>a</i>)	Reaffirmed that all human rights are universal,
+indivisible, interrelated, interdependent and mutually reinforcing
+and that all human rights must be treated in a fair and equal manner
+on the same footing and with the same emphasis;</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+	(<i>b</i>)	Acknowledged that peace and security, development and
+human rights are the pillars of the United Nations system and that
+they are interlinked and mutually reinforcing;</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+	(<i>c</i>)	Decided that members elected to the Council shall uphold
+the highest standards in the promotion and protection of human rights
+and shall fully cooperate with the Council;</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+	(<i>d</i>)	Stressed the importance of “ensuring universality,
+objectivity and non-selectivity in the consideration of human rights
+issues, and the elimination of double standards and politicization”;</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+	(<i>e</i>)	Further recognized that the promotion and protection of
+human rights “should be based on the principles of cooperation and
+genuine dialogue and aimed at strengthening the capacity of Member
+States to comply with their human rights obligations for the benefit
+of all human beings”;</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+	(<i>f</i>)	Decided that “the work of the Council shall be guided
+by the principles of universality, impartiality, objectivity, and
+non-selectivity, constructive international dialogue and cooperation,
+with a view to enhancing the promotion and protection of all human
+rights, civil, political, economic, social and cultural rights,
+including the right to development”;</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+	(<i>g</i>)	Also decided that “the methods of work of the Council
+shall be transparent, fair and impartial and shall enable genuine
+dialogue, be results-oriented, allow for subsequent follow-up
+discussions to recommendations and their implementation and also
+allow for substantive interaction with special procedures and
+mechanisms”;</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+	<i>Underlining</i> the centrality of the notions of impartiality and
+objectivity, as well as the expertise of mandate-holders, within the
+context of special procedures, along with the need to give the
+required degree of attention to all human rights violations, wherever
+they may be taking place,</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+	<i>Bearing in mind</i> that the efficiency of the system of special
+procedures should be reinforced through the consolidation of the
+status of mandate-holders and the adoption of principles and
+regulations taking the specificities of their mandate into
+consideration,</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+	<i>Considering</i> that it is necessary to assist all stakeholders,
+including States, national human rights institutions,
+non-governmental organizations and individuals, to better understand
+and support the activities of mandate-holders,</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+	<i>Recalling</i> articles 100, 104, 105 of the Charter of the United
+Nations, section 22 of article&nbsp;VI of the Convention on the
+Privileges and Immunities of the United Nations of 13&nbsp;February
+1946 and paragraph 6 of General Assembly resolution 60/251,</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+	<i>Noting</i> decision 1/102 of 30 June 2006, in which the Council
+decided to extend exceptionally for one year the mandates and
+mandate-holders of the special procedures of the Commission on Human
+Rights, of the Sub-Commission for the Promotion and Protection of
+Human Rights as well as the procedure established pursuant to
+Economic and Social Council resolution 1503 (XLVIII) of 27 May 1970,</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+	<i>Noting also</i> decision 1/104 of 30 June 2006, in which the
+Council established the Open&#8209;ended Intergovernmental Working
+Group entrusted with the task of formulating recommendations on the
+issue of the review and possibly the enhancement and rationalization
+of all mandates, mechanisms, functions and responsibilities of the
+Commission on Human Rights, in order to maintain a regime of special
+procedures in accordance with paragraph 6 of General&nbsp;Assembly
+resolution 60/251,</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+	<i>Noting further</i> resolution 2/1 of 27 November 2006, in which
+the Council requested the Open-ended Intergovernmental Working Group
+to “draft a code of conduct regulating the work of the special
+procedures”,</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+	<i>Considering</i> that this code of conduct is an integral part of
+the review, improvement and rationalization called for in General
+Assembly resolution 60/251 that, inter alia, seeks to enhance the
+cooperation between Governments and mandate-holders which is
+essential for the effective functioning of the system,</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+	<i>Considering also</i> that such a code of conduct will strengthen
+the capacity of mandate&#8209;holders to exercise their functions
+whilst enhancing their moral authority and credibility and will
+require supportive action by other stakeholders, and in particular by
+States,</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+	<i>Considering further</i> that one should distinguish between, on
+the one hand, the independence of mandate-holders, which is absolute
+in nature, and, on the other hand, their prerogatives, as
+circumscribed by their mandate, the mandate of the Human Rights
+Council, and the provisions of the Charter of the United Nations,</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+	<i>Mindful of the fact</i> that it is desirable to spell out,
+complete and increase the visibility of the rules and principles
+governing the behaviour of mandate-holders,</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%; page-break-before: always">
+	<i>Noting</i> the Regulations Governing the Status, Basic Rights and
+Duties of Officials other than Secretariat Officials, and Experts on
+Mission that was adopted by the General Assembly in resolution 56/280
+of 27 March 2002,</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+	<i>Noting also</i> the draft Manual of the United Nations Human
+Rights Special Procedures adopted in 1999 by the sixth annual meeting
+of mandate-holders, as revised,</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+	<i>Taking note</i> of the deliberations and proposals of the
+Open-ended Intergovernmental Working Group on Review of Mandates,</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+	1.	<i>Urges</i> all States to cooperate with, and assist, the
+special procedures in the performance of their tasks and to provide
+all information in a timely manner, as well as respond to
+communications transmitted to them by the special procedures without
+undue delay;</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+	2.	<i>Adopts</i> the Code of Conduct for Special Procedures
+Mandate-Holders of the Human&nbsp;Rights Council, the text of which
+is annexed to the present resolution and whose provisions should be
+disseminated by the Office of the United Nations High Commissioner
+for Human Rights, to the mandate-holders, to the Member States of the
+United Nations and to other concerned parties.</p>
+<p lang="en-GB" class="western" align="right" style="margin-bottom: 0.17in; line-height: 100%">
+<i>9th meeting<br>18 June 2007</i></p>
+<p lang="en-GB" class="western" style="margin-left: 0.39in; margin-bottom: 0.33in; line-height: 100%">
+<font size="2" style="font-size: 10pt">[Resolution adopted without a
+vote.]</font><sup><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt"><b><a class="sdfootnoteanc" name="sdfootnote1anc" href="#sdfootnote1sym"><sup>1</sup></a></b></font></font></sup></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Annex</font></h2>
+<h1 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Draft
+Code of Conduct for Special Procedures<br>Mandate-Holders of the
+Human Rights Council</font></h1>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Article
+1 - Purpose of the Code of Conduct</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	The purpose of the present
+Code of Conduct is to enhance the effectiveness of the system of
+special procedures by defining the standards of ethical behaviour and
+professional conduct that special procedures mandate&#8209;holders of
+the Human Rights Council (hereinafter referred to as
+“mandate-holders”) shall observe whilst discharging their
+mandates.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Article
+2 - Status of the Code of Conduct</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">1.	The provisions of the
+present Code complement those of the Regulations Governing the
+Status, Basic Rights and Duties of Officials other than Secretariat
+Officials, and Experts on Mission (ST/SGB/2002/9) (hereinafter
+referred to as “the Regulations”);</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">2.	The provisions of the draft
+manual of United Nations Human Rights Special Procedures should be in
+consonance with those of the present Code;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">3.	Mandate-holders shall be
+provided by the United Nations High Commissioner for Human Rights,
+along with the documentation pertaining to their mission, with a copy
+of the present Code of which they must acknowledge receipt.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Article
+3 - General principles of conduct</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	Mandate-holders are
+independent United Nations experts. While discharging their mandate,
+they shall:</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>a</i></font><font size="2" style="font-size: 10pt">)	Act
+in an independent capacity, and exercise their functions in
+accordance with their mandate, through a professional, impartial
+assessment of facts based on internationally recognized human rights
+standards, and free from any kind of extraneous influence,
+incitement, pressure, threat or interference, either direct or
+indirect, on the part of any party, whether stakeholder or not, for
+any reason whatsoever, the notion of independence being linked to the
+status of mandate-holders, and to their freedom to assess the human
+rights questions that they are called upon to examine under their
+mandate;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>b</i></font><font size="2" style="font-size: 10pt">)	Keep
+in mind the mandate of the Council which is responsible for promoting
+universal respect for the protection of all human rights and
+fundamental freedoms for all, through dialogue and cooperation as
+specified in General Assembly resolution 60/251 of 15 March 2006;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>c</i></font><font size="2" style="font-size: 10pt">)	Exercise
+their functions in accordance with their mandate and in compliance
+with the Regulations, as well as with the present Code;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>d</i></font><font size="2" style="font-size: 10pt">)	Focus
+exclusively on the implementation of their mandate, constantly
+keeping in mind the fundamental obligations of truthfulness, loyalty
+and independence pertaining to their mandate;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>e</i></font><font size="2" style="font-size: 10pt">)	Uphold
+the highest standards of efficiency, competence and integrity,
+meaning, in particular, though not exclusively, probity,
+impartiality, equity, honesty and good faith;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>f</i></font><font size="2" style="font-size: 10pt">)	Neither
+seek nor accept instructions from any Government, individual,
+governmental or non&#8209;governmental organization or pressure group
+whatsoever;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>g</i></font><font size="2" style="font-size: 10pt">)	Adopt
+a conduct that is consistent with their status at all times;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>h</i></font><font size="2" style="font-size: 10pt">)	Be
+aware of the importance of their duties and responsibilities, taking
+the particular nature of their mandate into consideration and
+behaving in such a way as to maintain and reinforce the trust they
+enjoy of all stakeholders;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>i</i></font><font size="2" style="font-size: 10pt">)	Refrain
+from using their office or knowledge gained from their functions for
+private gain, financial or otherwise, or for the gain and/or
+detriment of any family member, close associate, or third party;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>j</i></font><font size="2" style="font-size: 10pt">)	Not
+accept any honour, decoration, favour, gift or remuneration from any
+governmental or non&#8209;governmental source for activities carried
+out in pursuit of his/her mandate.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Article
+4 - Status of mandate-holders</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">1.	Mandate-holders exercise
+their functions on a personal basis, their responsibilities not being
+national but exclusively international.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">2.	When exercising their
+functions, the mandate-holders are entitled to privileges and
+immunities as provided for under relevant international instruments,
+including section 22 of article VI of the Convention on the
+Privileges and Immunities of the United Nations.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">3.	Without prejudice to these
+privileges and immunities, the mandate-holders shall carry out their
+mandate while fully respecting the national legislation and
+regulations of the country wherein they are exercising their mission.
+Where an issue arises in this regard, mandate-holders shall adhere
+strictly to the provisions of Regulation&nbsp;1&nbsp;(e) of the
+Regulations.</font></p>
+<h2 lang="en-GB" class="western"></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<br/>
+<br/>
+
+</p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Article
+5 - Solemn declaration</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	Prior to assuming their
+functions, mandate-holders shall make the following solemn
+declaration in writing:</font></p>
+<p lang="en-GB" class="western" style="text-indent: 0.5in; margin-bottom: 0.17in; line-height: 100%">
+“<font size="2" style="font-size: 10pt">I solemnly declare that I
+shall perform my duties and exercise my functions from a completely
+impartial, loyal and conscientious standpoint, and truthfully, and
+that I shall discharge these functions and&nbsp;regulate my conduct
+in a manner totally in keeping with the terms of my mandate, the
+Charter of the United Nations, the interests of the United&nbsp;Nations,
+and with the objective of promoting and protecting human rights,
+without seeking or accepting any instruction from any other party
+whatsoever.”</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Article
+6 - Prerogatives</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	Without prejudice to
+prerogatives for which provision is made as part of their mandate,
+the mandate-holders shall:</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>a</i></font><font size="2" style="font-size: 10pt">)	Always
+seek to establish the facts, based on objective, reliable information
+emanating from relevant credible sources, that they have duly
+cross-checked to the best extent possible;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>b</i></font><font size="2" style="font-size: 10pt">)	Take
+into account in a comprehensive and timely manner, in particular
+information provided by the State concerned on situations relevant to
+their mandate;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>c</i></font><font size="2" style="font-size: 10pt">)	Evaluate
+all information in the light of internationally recognized human
+rights standards relevant to their mandate, and of international
+conventions to which the State concerned is a party;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>d</i></font><font size="2" style="font-size: 10pt">)	Be
+entitled to bring to the attention of the Council any suggestion
+likely to enhance the capacity of special procedures to fulfil their
+mandate.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Article
+7 - Observance of the terms of the mandate</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	It is incumbent on the
+mandate-holders to exercise their functions in strict observance of
+their mandate and in particular to ensure that their recommendations
+do not exceed their mandate or the mandate of the Council itself.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Article
+8 - Sources of information</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	In their
+information-gathering activities the mandate-holders shall:</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>a</i></font><font size="2" style="font-size: 10pt">)	Be
+guided by the principles of discretion, transparency, impartiality,
+and even&#8209;handedness;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>b</i></font><font size="2" style="font-size: 10pt">)	Preserve
+the confidentiality of sources of testimonies if their divulgation
+could cause harm to individuals involved;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>c</i></font><font size="2" style="font-size: 10pt">)	Rely
+on objective and dependable facts based on evidentiary standards that
+are appropriate to the non&#8209;judicial character of the reports
+and conclusions they are called upon to draw up;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>d</i></font><font size="2" style="font-size: 10pt">)	Give
+representatives of the concerned State the opportunity of commenting
+on mandate-holders’ assessment and of responding to the allegations
+made against this State, and annex the State’s written summary
+responses to their reports.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Article
+9 - Letters of allegation</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	With a view to achieving
+effectiveness and harmonization in the handling of letters of
+allegation by special procedures, mandate-holders shall assess their
+conformity with reference to the following criteria:</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>a</i></font><font size="2" style="font-size: 10pt">)	The
+communication should not be manifestly unfounded or politically
+motivated;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>b</i></font><font size="2" style="font-size: 10pt">)	The
+communication should contain a factual description of the alleged
+violations of human rights;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>c</i></font><font size="2" style="font-size: 10pt">)	The
+language in the communication should not be abusive;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>d</i></font><font size="2" style="font-size: 10pt">)	The
+communication should be submitted by a person or a group of persons
+claiming to be victim of violations or by any person or group of
+persons, including non-governmental organizations, acting in good
+faith in accordance with principles of human rights, and free from
+politically motivated stands or contrary to, the provisions of the
+Charter of the United Nations, and claiming to have direct or
+reliable knowledge of those violations substantiated by clear
+information;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>e</i></font><font size="2" style="font-size: 10pt">)	The
+communication should not be exclusively based on reports disseminated
+by mass media.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Article
+10 - Urgent appeals</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	Mandate-holders may resort to
+urgent appeals in cases where the alleged violations are
+time-sensitive in terms of involving loss of life, life-threatening
+situations or either imminent or ongoing damage of a very grave
+nature to victims that cannot be addressed in a timely manner by the
+procedure under article 9 of the present Code.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Article
+11 - Field visits</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	Mandate-holders shall:</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>a</i></font><font size="2" style="font-size: 10pt">)	Ensure
+that their visit is conducted in compliance with the terms of
+reference of their mandate;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>b</i></font><font size="2" style="font-size: 10pt">)	Ensure
+that their visit is conducted with the consent, or at the invitation,
+of the State concerned;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>c</i></font><font size="2" style="font-size: 10pt">)	Prepare
+their visit in close collaboration with the Permanent Mission of the
+concerned State accredited to the United Nations Office at Geneva
+except if another authority is designated for this purpose by the
+concerned State;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>d</i></font><font size="2" style="font-size: 10pt">)	Finalize
+the official programme of their visits directly with the host country
+officials with administrative and logistical back-up from the local
+United Nations Agency and/or Representative of the High&nbsp;Commissioner
+for Human Rights who may also assist in arranging private meetings;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>e</i></font><font size="2" style="font-size: 10pt">)	Seek
+to establish a dialogue with the relevant government authorities and
+with all other stakeholders, the promotion of dialogue and
+cooperation to ensure the full effectiveness of special procedures
+being a shared obligation of the mandate-holders, the concerned State
+and the said stakeholders;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>f</i></font><font size="2" style="font-size: 10pt">)	Have
+access upon their own request, in consultation with the Office of the
+High&nbsp;Commissioner for Human Rights and after a common
+understanding between the host Government and the mandate-holder, to
+official security protection during their visit, without prejudice to
+the privacy and confidentiality that mandate-holders require to
+fulfil their mandate.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Article
+12 - Private opinions and the public nature of the mandate</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	Mandate-holders shall:</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>a</i></font><font size="2" style="font-size: 10pt">)	Bear
+in mind the need to ensure that their personal political opinions are
+without prejudice to the execution of their mission, and base their
+conclusions and recommendations on objective assessments of human
+rights situations;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>b</i></font><font size="2" style="font-size: 10pt">)	In
+implementing their mandate, therefore, show restraint, moderation and
+discretion so as not to undermine the recognition of the independent
+nature of their mandate or the environment necessary to properly
+discharge the said mandate.</font></p>
+<h2 lang="en-GB" class="western" style="page-break-before: always"><font size="2" style="font-size: 10pt">Article
+13 - Recommendations and conclusions</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	Mandate-holders shall:</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>a</i></font><font size="2" style="font-size: 10pt">)	While
+expressing their considered views, particularly in their public
+statements concerning allegations of human rights violations, also
+indicate fairly what responses were given by the concerned State;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>b</i></font><font size="2" style="font-size: 10pt">)	While
+reporting on a concerned State, ensure that their declarations on the
+human rights situation in the country are at all times compatible
+with their mandate and the integrity, independence and impartiality
+which their status requires, and which is likely to promote a
+constructive dialogue among stakeholders, as well as cooperation for
+the promotion and protection of human rights;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>c</i></font><font size="2" style="font-size: 10pt">)	Ensure
+that the concerned government authorities are the first recipients of
+their conclusions and recommendations concerning this State and are
+given adequate time to respond, and that likewise the Council is the
+first recipient of conclusions and recommendations addressed to this
+body.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Article
+14 - Communication with Governments</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	Mandate-holders shall address
+all their communications to concerned Governments through diplomatic
+channels unless agreed otherwise between individual Governments and
+the Office of the High Commissioner for Human Rights.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Article
+15 - Accountability to the Council</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.33in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	In the fulfilment of their
+mandate, mandate-holders are accountable to the Council.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<br/>
+<br/>
+
+</p>
+<div id="sdfootnote1">
+	<p lang="en-GB" class="sdfootnote-western"><a class="sdfootnotesym-western" name="sdfootnote1sym" href="#sdfootnote1anc">1</a><font size="2" style="font-size: 10pt">
+	 </font><font size="2" style="font-size: 10pt"><span lang="en-US">See
+	A/HRC/5/21, chap. III, para. 62.</span></font></p>
+</div>
+</body>
+</html>

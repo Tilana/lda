@@ -44,7 +44,6 @@ class Model:
         meanScore = []
         for topic in self.topics:
             topic.labelTopic(word2vec, info.categories)
-            topic.findIntruder(word2vec)
             topic.computeSimilarityScore(word2vec)
             meanScore.append(topic.medianSimilarity)
         self.meanScore = utils.getMean(meanScore)

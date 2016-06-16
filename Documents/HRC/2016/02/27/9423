@@ -1,0 +1,2703 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 4.3.7.2 (Linux)"/>
+	<meta name="author" content="Kountouri Tapiero"/>
+	<meta name="created" content="2007-10-16T14:59:00"/>
+	<meta name="changedby" content="Kountouri Tapiero"/>
+	<meta name="changed" content="2007-10-16T17:06:00"/>
+	<style type="text/css">
+		@page { margin: 1in }
+		p { margin-bottom: 0.1in; direction: ltr; color: #000000; line-height: 120%; widows: 2; orphans: 2 }
+		p.western { font-family: "Times New Roman", serif; font-size: 12pt; so-language: en-GB }
+		p.cjk { font-family: "Times New Roman", serif; font-size: 12pt }
+		p.ctl { font-family: "Times New Roman", serif; font-size: 10pt; so-language: ar-SA }
+		h1 { margin-top: 0in; margin-bottom: 0.17in; direction: ltr; text-transform: uppercase; color: #000000; text-align: center; widows: 2; orphans: 2 }
+		h1.western { font-family: "Times New Roman", serif; font-size: 12pt; so-language: en-GB }
+		h1.cjk { font-family: "Times New Roman", serif; font-size: 12pt }
+		h1.ctl { font-family: "Times New Roman", serif; font-size: 10pt; so-language: ar-SA; font-weight: normal }
+		h2 { margin-top: 0in; margin-bottom: 0.17in; direction: ltr; color: #000000; text-align: center; widows: 2; orphans: 2 }
+		h2.western { font-family: "Times New Roman", serif; font-size: 12pt; so-language: en-GB }
+		h2.cjk { font-family: "Times New Roman", serif; font-size: 12pt }
+		h2.ctl { font-family: "Times New Roman", serif; font-size: 10pt; so-language: ar-SA; font-weight: normal }
+		h4 { margin-top: 0in; margin-bottom: 0.17in; direction: ltr; color: #000000; widows: 2; orphans: 2 }
+		h4.western { font-family: "Times New Roman", serif; so-language: en-GB; font-style: italic; font-weight: normal }
+		h4.cjk { font-family: "Times New Roman", serif; font-style: italic; font-weight: normal }
+		h4.ctl { font-family: "Times New Roman", serif; font-size: 10pt; so-language: ar-SA; font-weight: normal }
+		p.sdfootnote-western { margin-bottom: 0.17in; font-family: "Times New Roman", serif; font-size: 12pt; so-language: en-GB; line-height: 100% }
+		p.sdfootnote-cjk { margin-bottom: 0.17in; font-family: "Times New Roman", serif; font-size: 12pt; line-height: 100% }
+		p.sdfootnote-ctl { margin-bottom: 0.17in; font-family: "Times New Roman", serif; font-size: 10pt; so-language: ar-SA; line-height: 100% }
+		a.sdfootnoteanc { font-size: 57% }
+		a.sdfootnotesym-western { font-family: "Times New Roman", serif; font-size: 12pt; font-weight: bold }
+		a.sdfootnotesym-cjk { font-size: 12pt; font-weight: bold }
+		a.sdfootnotesym-ctl { font-family: "Times New Roman", serif }
+	</style>
+</head>
+<body lang="en-US" text="#000000" dir="ltr">
+<h2 lang="en-GB" class="western" align="left" style="margin-left: 2in; text-indent: -0.67in">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAIuCAIAAADsf+FXAAA160lEQVR4nO3d7dbsqI2GYfdaOf9T3pNMdaor/sACJCGh+/o1k95lY4x5DMZ+//Xnz58DAICq/rW6AAAArEQQAgBKIwgBAKURhACA0ghCAEBpBCEAoDSCEABQGkEIACiNIAQAlEYQAgBKIwgBAKURhACA0ghCAEBpBCEAoDSCEABQGkEIACiNIAQAlEYQAgBKIwgBAKURhACA0ghCAEBpBCEAoDSCEABQGkEIACiNIAQAlEYQAgBKIwgBAKURhACA0ghCAEBpBCEAoDSCEABQGkEIACiNIAQAlEYQAgBKIwgBAKURhACA0ghCAEBpBCEAoDSCEAn89ddfDnv58+ePw14AREMQIiKf5OvaKTEJ7IogxDJL0m7Yt7QkIrAZghB+ciXfk9+jIBSBDRCEMLRH8jVcD5BoBNIhCKHMP/z+nT1xEpfxIpAOQQgFdjkkzJL2P7stXuMnWodDKAIpEIQYp5h/zjnR3t31v84fKaEIhEUQoo9K+KVLgtsCD1cFC1CBUAhCb6k7wfkUzHjUT+afTX5+vlOdABkRhH7iLOjoNVzyIF283Wqa3wNkgAgkRRB6SLrIfiY8UhygrvlQZIAILEEQ2updrxjEQD8e/6A8zYQicQg4IwitZJwIJf8sjIUi86WAG4JQ2WtPF7BfI//cfOutNxGpcMAOQagpXQr2RmC08gvZjc6HU+rzEwaIQAQEoQJJdxat/+rKhmiFj2OyZhggAhEUDULF3iRdCsr73FDF3lvvc0TiEFBUMQhVJsoyxomwzHEKXJN8mEgcAirKBaFzCgaRMbazm08p4XcA/v1vOGvAjEJBeOpTxvqOdKtLiMBD+8syws8jqNSncE0NS2mAGYWCcN6WKbi8kP6GD/mpPq1zSL7ElMlSYECVIJwfDuZKQSJQS9d5N52lJA4BIyWCcDIFc71vTgRenerkGleJHvrK15fy7BAQ2j8IZ/q4sd+u6n2IwF7q+ef/54XJQmDe5kHon4KrkIJdskfg735fs/Dg1ANNOwfhzF9+SPQX+Hg70E3MOpQ8O4w2NCSeEcq2QTjzJwA3S0G6mzG56i3j0DBaPKOsPYPwtkcQXnVZZkSJQJxIXpeMlj3RyoOaNgzCVc8FPa/ndH/mIpr5vyYfk+TzbBGGhr+ZHaE8KG63IGxc/69XWooZUSJw3qmKev8iUgqvBxUtfqKVB6VsFYTbrxElBQdcK+12Ou6aHBt0zZHfr7gtGzOlWGKrIGxoX10pZkTbhSzYfeje9+xagZKhYahj3+D+A+nsE4RLhnQ+l2vZgaDnOU0xJTCsHYersqcxYI0Wz9jbJkG4ZFKUFLQQLZB2GqC0Z0qXZE87C49dah7B7RCEZceCG/QR0WLvyTadcsAsbAtYJOxnhyB81biQwn5NdOOBYJbwu5r5VlEcr9OkAb+YeiSsZySSPgi3/Kb2lgNBh/zT/QO8Qkn/KG6653PEIezkDsKZr6uETcHgBeiiEktdh3z9x/IFopOlTZeIjaGhc+rI72BihjSyyx2EzoSv5E9eqDPfBIhgPvx0D1PeyUpCVOL3V/FPWcah4cwf1g54RFgucRA6T4ravYko3EjwCzjsu5haBZsMxcinL8LSza5p7ZmEjpnuWCtxEMZBCiadZ+4i+YxnQ/D+d8nj1RlkIRQRhCLydadjF1je6dDe3jP44UgMDxODjw6Xz5H2hnFXqdIlPTylDEJ5g769Trquh+UzojEVzL9bY6EYdgHk8ix0s9nhYFLKIJwxGaLtTc08wx8rgz/FCtxM79xpzDhcm4UDg8JDXIenjZOF+MoXhD7jp4GBoHoKHsGuVSJQqCsRA8Zh+7WKaFl4TJQq1PWFhfIFodzwaniH6VDF7ThQqbdVFj4cev3LD19ajw8VY/Wp3mKGB1mIGcmC0PqVieEI7L2WfFaKT9p1COhcpb0DxPn1VlpxuCoLx+5dJKViyQxuBQ3C+St54LcBU/D7752TJvUQUEKrSnufUR2CutWKMZVjfCpzwBndY+Jd+2gHAmfhgrDRTdjdysnfjuj6be8GG0MHz2t1fugcitYD3fYuutbxf3/V3ubxUE75l2usm43d9oeHbq9FYlCIq1hBKL/CFc2kYK+nDZ7KcHut+mShevAHZHEIA2dHMkAUDh+tLVlKapeFKj/BTmIFoZ3eYYH63GDvzKpzFm42CnQzP7yQL6hZK1cWDiALKwsUhJO3xr8kz8y19mXHLQsrjALtaC3RPMI0vCeJXrfnYSG6RAnC0wVmvSZNWIzh7cg3O/A8Q/FyTfc6/97iP75KlIUN8esZzqIEoSnJo8feC2M+Bcc+h/HdpsoLZ42dzmwcG3POQs8nhcO/QnYhglB3OPj0c60IbGxKvvGuY1TPQlIQRjbIQhQUIggdKKZgHMP3vI3/SsexkEVrVA+D1JfM1x5zvNCyPgiFn9uY2cXry1jzW7ulMhz8/kTlGx+KnwVIKvJhGj27cu7ZjQaFh2MGk4XVLA7CVXeXuVLw+8PJ6iIF4wuehcKyzc/bKy4Ho23j1foR4YnRA8JfGVPw+/Oxh4VEYCJhs7CrVJO7u/05rxXCyMog9B8OzuxR5WWJebdzRO2LlhRMJ2AWDpQnSBY+FYOXKPAVbkR4pdVYfRq90VhQst+uR6FEYHBxumnhjZRbcrvVDIPCOpYFoUVTNvpq6PIZ0dsNvs6RMhDMzqLH11pdJcyngQd+kqOOc5eAPcQaES78kOaT+SJ5foaRj6Wd+Hyjble9N3aeye2ThbSWItYEoedw0C0Fb3dk/a04o2/CBaeyejZFbSwcFCpOb/TGyemo57OQPENbrBGhurVjQQfyviDF4dwyuvGv/PT0NRiGK0frhdfb8ix5XkiIVrAgCNcuWhEyeo6ySpySSKx9/HPae2/VZek3G+WcbM8q4SR/U0i4u+XvYyCyPUeEnilouhHhjtrHm6JfPlbn35NvqeQxYFkcTdds0FpgNfzC66sleZbl5gbDvIPQ5/n2zM8HRgDzG5mROgVjht+t3kTUYtrL/3bxusuMA2YheYYnrkE49k6u5J9JLuau7QgtT8FXAS9+lXmzmX2dXjLpTZrff+xTt9ZZ+Lr3sS1PZmHjqJ+y8Eh1a4U4tpoajZCCzoafjiwxVmMzhb92pqetff5f+QzhyaphohuL47LLwvZPZsS5iGDBLwgdFnfN/FwrBeNMip7+5cLLeODUrO10BiYYXhMxXU+q9aR8chFpOwuPRUtJsZlNRoQRVsc4S3Gp9xYy2okYS8QNslCxnEtWsix8/xIZbRKEM8ZeENba1Jh2ASxe5OoV5E1/rd6wKxETvbB/S73kk7H0+nN5Fl7/5WTZsp9rfFQPQt07X61Ntb3G8FMc+mRh5Bf853cqT8RTF/m66yCPGz2bseK+Vr0m+NkFg8XsnIIw4DzecMMN9br31/AdsaLIEahOmIiNeDv9p+/5Wtir2u3XbgXp79aOu8VQPhcsWZha0RGhxeSP7gZv9U7JumWhpK/ZtZvoTcTb/3RdturfoVufIOsJ0o/bqjtW378iuIpBOHPBL3xxcOzBpHUW2r2Fls5Mh/s5I78nq8gIw+62zL/2ipyyLZULwqQp+ESyd6MsJAJvDcdhhW7UZ1D4carPRt3yugU8gjBII0vdy1hk8EzP2z6nqataxUAc3j5E3K8mr6ljd5j+FbjlKasg+ohQ62bttnV2rdOLNinatWvFe14iUE4Sh+0a+3as7TagcnIXduK6q2bGtuy/NcQRPQhVtFNQYuGgViuAnyZIu7bWqAc6iCftuHo9BZJnw1o3Oj4dvcMK0rEtj2FmdQPmQbi2iTxdAL+lGr5IVr2TN1Pg4XftGQjOa4ztujrr239ZqjuOloWr9gUt244IB26xtf69FovJ2LEsZCCoqHEKjLbcJcWgcAD5hIY9g1Depw+PhJZcVCo77cpCItBC8NGbz+sHzhOkXRufROims1sQvi49kP/j4b2ouF7kijuVZCERaCr+W97xe/PIWYhctgrCrhSUiDMpqn71jk3Q0Yno0h0aqjfXJctMeh+XRshCz3dCYME2CN2CZGCGM9ekqIXeTmSbAw9lYGjYO4k9Y8sO/XpQwSerYW2rEeGTXE3cYTj4u+VclQOo2DLgMWyHIJx8B0trXyrCxhK9hqneceFpPYtpszHNjCWzoz7I2kRyB6H6Q8H2b5ek4JLFe85lwMdYn+4QA8H79OF6c7iiI9cbvhIH4XAKxmyaCz/h1hahDHUMvCpuVxgfKu8Uhs1CpGAYhKaXqN1Y8OnnphfMBt1ZfFm6PPk0qWez8Z8gHdjIsehS4vrNLuWIcOarMVl6w2P1nzn8/QeJKm0bAR99OWehT8P77iVghcNN9CDsWkKZtB0vnBQV1ljSLMz+alfArjl+HUartPg1hiN+EJ5MpqCkRYZ9Vqcu7GeL54XqCmfIu/XT2bGrAbuWoDUoLPicFZMyBeHTJWHdjv0DYMkn3H73m6JrmFxgmSXXx4Y4pgOj+HdF0caFCC50EEq6LXlzHxsO+r8ysTwFG79a2P1ZfD/s9/8N3rO33RY+YxYqlpkshFzoIHylm4L+4qxwu35x6vZfOmeh86rI7/8ds7UM+D2QpKkw0+SCZGH8ATRyBOFtM3Jo4s6vTEQbCy7sR9b2X7uGom6txh8UWmxNa1MIJXQQOj8UjHDz6K99bd+uX3j91bCAp+BbpFWdoPCFwiXFc37DYUyQcSEiCx2Et8YWDgzsqMJwULJTlQ9/9BZMqHcV8czSyiVho9uDbx8JT3dp1o9LjbYMN1ZBGGfQJuy8tm/NM9Frl4Vd1T75za3b/rGrMM6jw/g5bbTf4fcoPj+8jcOF3505eEwYXqYR4TZZlXFtqnoWjr0eZ0r+9ojp/HC7DI1CSk7H2jyYoZIl24+JMaY7CHPd2sysN9MtyUIB16MHTMHTftc+mXtNwUm6eRCzT3gqFVmIq74g3HUN4apl+h+pX9jv7QRfqzpIlyocHVoMDYUre5/G6Nd/7DBVqJ6FKnFFFkJoZGo0y8tkQbrUtXRzd2aCNEsEnkgSUfGKsHu/5baQuSJBOPcrOaK8U8Sw0BGEuRqNvGPyHKI5DwctdicfiDSKoV4qB+2uU2Vo2JWC7e38/qqdDVqRkGuCdMDk28wx6wcfgRbLrHprfld2VffUsd5e6u1ipOsajOJw+KFg1wDo9R9Mthndvn54tHr6YaNUjAvxYRWEWlP8w3u33oUK5xhw6KR+O521EWh6Zl/jUOW56UwVjWVS/GAYO672r3LND8OCNAj9G8qqFPScF7XjMAfbyMLXH+qW5GkvvyWx2GkjNuafm06+5TkjTjDoLlQmC/Ek0NTo3rZ8EjnQfaSbC33VviFoHK9KCjbKsOShVJAnYQMVQhZWFjQIV60UjXAN5yLvPpzr1rNTGxgaqk+H6vbjkedIZ7KWLMQtURA632z6pOCuLd7/PcXX7qPI7YV8aGjxUPC2AN//97p3yb62HPGThbiKMiIUrrCQbCEgt3DiGl6r0Y1++1/FdySuv+1a0JuC1trRrh8eXErFRAnCCNzCybNLWt79LS+As3YWPv2kdy/C1wNOP/n8s67dxRwhTea61m1BwJrBmPEgtLjH3HI46GZV4rbPWt6xyLCuIYXbat44G3QjGaAP/Bb7CTQi9EzB/Zr4qiOS7LdgFgo5r+YdPhFrU8Fo72QhvkIE4Ux3oNWV7Dcv6rAjeTdRMAuN1hDNdM2nPaY+KcLCt88CWYiPEEEIdQtTcL/1GnIOnea1emfeuJjZbxGfA9++6RYXJQhn1nf57CuyOEf0XY5RNgsdLM+kxqsgRqfY7pAlBdY6Itp/WFNBqPJGjs/97BKr5kVXDQcl6/h3NXCwKt1iqRXIRsgnhBgRluox1fnXnvBNuIXf/XKuk1W7e6rJ4aWSA9zueG4/F6D1WQCysLj3IAy4OH7yFSLdDUZjfSxdFbgqC01n0nS31lsVkwVwqPykoeLTLE23j2HvQWh6x6ey8dcb5CV85kUjDH0G1t0l7SstyKtCeK4Z/QyzrhlqPqzFU6MD/bjF3I7uBheKOTpPkYXC2ymL729JqkJ4XyUPS8XKj/88WF7CaM0SPmanRg/fpnPdUcwrsMhwUH5QzlnYVTO91RjhoWzXXLQ/t7Wj5BZU2E6N6l6WWVJwFetZncktxBwXWqegcATZVQ8qY9bPHrUeKwQJ4IauQeEhqJDgx4suIVaNSqS+70td+CcDB6XYXT71VpNjwfZBdW38u6n5SbmxqpbvGlfLb9HgSScIrRvNzOOQyZ+E5XksryuHf//f3rUzwhvw2z3KK+G0l4FVPw7t7TRKey3SK56N/eq9D6tQJ/hQeEZoTSsF5RuftKTG/K/YxstqR7M8k3OkM9Xb+K1bCrbDWL3xNHr/a+4qcksR4grz1KZGPZvj9u8CxjHcS7YfPg1noUWvverjLAtfRS+7l7WDQvqosBa/RyjZ++l/me+aGxu34DDojLD2srERrSy0G7v8lmrJfq01ruL461x0VTteSGgulrntxSYXnU4XCiPU35M7xGfzKQuFRepdoiLcu4rfLeuuYIQd/7kuTre/uKtGPe/NFTmU0HoXbg+Nnm6STv9ybC5r+A7s2hnpjiHGHjfOd46MhL5UqoL63EnQIEyaglcON3e6uzCt5N5FntZ7aW9kcnD5tNn58hiZ38UpG7ZZxrLNgeCJchDSYrCNjDdeMOI8QUov6izciPCpBdArfQQZsWFAwOrN2OeqfGiNiU38ihWEw9fkwLL7bd4g1JK68BWoT11+NzuzzTqsbxo4EQvpB6FFc6GJPJmsaio2l3QDuMgFdh4Uhq0HHD4jQmGDY1LU05a1arG8JZqnFfbzK+/pqV8ZLaHCclGmRrkIJbj2hLZ/AvTUIy9/ES1XzccpbZBilCUKwoXfJUrdPsKme+pafSJ8SXEbjS+FRp6QzI663ZLTiLDdK+3RsPy73bF62zIenr7i9vk/tjzko3lct/31knoInhzDN0xdP4xcAzgiTI3Of1uySCPTek98fiPRvDaA7ROxGt3h/vI/z0SzXE4ahJtNNBXJzu3x9hg+/MedNKSdWI0Ihe3S/08NVLZNlU6ujdymHqBlYFBoVxj4Wz81Cghp3fLXzEK3Q05RvZ4jyPaO4tdVBUGD0OLPADmLNvvK9fbrc3Y2rpNT83s90mjN1dSnNk5ZuCS/N26BuXQEofojZZVrr9QFXJnFiU4xdhnARQF0iTgi3LJvUleqszP9Y7nbt7flw8Hgb1B8WTQGlkGkYBuEAxcAjeNW5WpJ0YeGwpfAhLIkNKxFHBE6UP8SVdLuZvgPwe9ky0Hh0xFtebCKqJ+a/ILw1MJU/ga96d9e+F1PkX3dl+SvUAXvAuxu3iMftS5GP1fXdqV4ITAvmkXREaHE9VvGYz8P2Ps8FSlmFloXKeZRqwvYDsNSaRJ2f10V6vqCcKB9yG/kd+2M1h7XTrXKE51h7UeGVOyV6e3RTlflHtaMCD1fnNi1zZ2O6/e6fV0o8dTxxa+r5X9mKAXqB+iyIAi5Si30TuTGzzw3O1XF2MVV/JJ8ui+cGRTydDCX7iBM1zhuC8xLHfEV752N3F4OTI0+UZ8gpSeJyWNE+HqZDTQO5+t2OMK3/5SXEbfzu9OpEVbaHouDdI+CW4HiUq4aDdVkny7I02cMB7a8QW91S3JzwLNAU3tkoY+Bunpqt5Lt0OaXGAnC7FdRlqbWXvMyc7Gtcntz0Cgw9+lyVNQkGltl60eEzi/R+1hYyK7blLwzt1pDxux3dXAwcE0hl/VBCF0D0y8+36Uc7iCut+rfcqrcxZOF+Gg0p/lGQhuLbDAI1f8kk3y/8xvZwEA9SH4SMBIaKfj0D2qS3wBFO8U7yfjAAsfyESHtQ+KaT3nfiL/q6p2NDjDgHYCF9uPY6/9Y8A7DdFCIsJgaxWLyzsV65pZu7iTy+wmJThbPF+MbD8IIHUfZRfbzh3xbdaYn9LrH3tn1xn8q2AbSef3jM9lteVBF+I0I53sr2llbIyrajy48Hx0Z7aXsLVFSy++hG3RnRyMfKb6mgnByUKi1CosBQYOkZiJfq11ntmBLuB3Tsyhm0kBDqtbwNvMehEE6lwhliOP1pOxRXT7vdeR1PcvC7xk9LY2hnl911RL1mYVoRBgkC7U4HI7uLnr/msTrrrk+9zDczK69+Wc7M98C3CxH5y/hnWpjey9B+Dr9ONz6u3513XWdRlbnSE92uvfa2/dMjX0U8MutqatnNi9JZ7fJ6xObjVm/yqbgL7e1rBnHNFlavvB7DpJNuZ2jmbv/dA2puJcglJxy6+6j7HDw9e8znB4ISVYPDQzEV9X2wH6fmkqKqFgoV/2wFAjqOkaEKpPmuS654H7rs/c54q/2rcySL5F6zpL57KiyvStZ5U597yqKT2dq1G5QWLZ9uH1y7GlWsL0iMcsjlt63L+aL4Y/7SzsDs6NJW1Fx3s8IPw3L4u3DnboDty9qDteY7q3P6dzRlVjb/iMvDqi3nfQFofMXabM0NfVUUNlI753s6T8JX1VUP+ljG8zSVAAEpDkiFOaBsKer2bWlGwxpxeHyA19egBk7TYdE41C3nLvluoNw7SWXurd6pXt0nmdq7YsHvPh8NP8yl/NCpD3qc0zlY09N+RmhVoe4wS1ShJv0yU4wwiHo2rufelpFvN95vMp7gHlLvpORIGxfVxnfSp43f9Q+lfb6poRbMQ6lQ5b3IxWaZYVj9Ce8k6Dy83oPwprBto3J0YD850vaCXfTSI0GHITJ6xOTfaLKV1EgoTtpJjzvw9+JHvjVV9nGs+pLBaZUXp9VfySvuDU4GwxCydr6yOvgoz01iXMVzd/EtH/eW+2hTlM6r7XnUL2cQcQ3PiKMliWHwZ/IMCrPWr210XsUjVfjtd6a//422measWtVW1zLATuHsqamRtVXzdAyLLQ/g+BcmA95w2i3Mb6pjQh2jf86bD+xVmqhzfDBRltjYnTWhj/ePb/eZ/i3qUW4P4hQhiepX36FrtkgVJwxaG+nbHemwm3t6Mm1rxm+V6DjePVaRbteRDUXFkCRKAhnbp1KDQq3oXjWhM8FX8eLjU+kNvZeoe3NfDldtyQQouajkY4I2392ZMlUGzzN3w4Lk6yrtVRLwVwdaKjSMp5Dg84zwvlG5vBZ2+ILRxeWRDIQvP6P8g+4P31js6OIUX3b7fy5a6zg1eJT58N7MboE9mhpxTn9PcKAg8KuzyYFCTNPt4/3BuqhNwUbBRjYRWp//vs3k1cXJL3GbIT/13c5oQGpBaHpgGNVT/fd7/fohrv1miarS/GTpOnQnITWVlTNxrkfzRHhzNpCxWKouLbv1xY/9gw18oU0OSjUummwiMOAUxSmSh3sSahjD9jX4VCfGm2/ux2qRXp6qpb4FTKchepD5+HXEG8Fr3mHR+bq23R4BnndyzzPfokUDKsjCIUtJmwWaj30GhOh53U7XtMJZN1EVDc/fqW7zCJmC8QAp8UyiezduAeysPcGwu0xaswniJ/KCTX/4TNWQxvVHplJEHYNCmkfO/FfTPQUOQtjMs47M9sr+zEd6Ko+IqTPkhAOCpcsqY3Z0818iUm3JD5S3906DN9zVUhBVkGo+KQwZk+X1MznuNpZOPYJtEmNtkGz+UgdUSd25zTUVDb89QVhV3MJONh6Lf/eF4P66XitrmgNoLhqp+P2JSj/SpA8UK92aqJZMzXa+z3JvfMpi94TwbU9QLenDv7Ns9Tmj7pmvcVkG4QqV7V1cwk4cg1LnoU+Veq/Isbhtix7g3R7g1B9EbL89bCu+/i5csFDdxBqfZ2PcV5SkhO338X/e0RkYWqedZv0k1IFeUyNxs9C+h1Fm9WkZEFQTEk/9aLFrmDzkyI7rWDaw+LXJ/xfA4qTvv7I+2Hp2syqrjbpvOh3m+lONFSMBOFAc5n5HjdNM5SAp8O0kQQ83jionCdMiubiNyIcy0KLRkO4Dpv82Cx8bDYpOrCjtRc47T8d16nRyF1kwE9EWpg5BXvXzDbWftd+1a61zPcA7UrwmeNFr8EgHG4uvR0xK5WDUFkqbIF4/lWkn508KLv2SQomtWCxjF0rVNkyg8Lrv3/6T42/iPT5X1Z9Xy27+P3jxn36cA/Qm4KII/pHt41az21bf3pVNuaf+/Eh/ILoU99hetNjsdnUtgynPQ6K5hrceBDOjJwiPyxs/Fmfaq256zvaT7cLFud6ZrZ8+CQ2hr+6TmWeWXGtVKKz7S+EgYs9bIcGiegjwlBKZaHika6675n8jMNvtDt/WWYA6yS//KtibFI0VKUVNxWE0QaFKt81bW/ke8h7z5cOX7qNOVLJzxU19nUqZPtULu+tlhdgIdPXQ7UqlkeDG1g5Ilw7QdpI8XbAxx8cTJqMhEau+Meh3LXYT6UNeMY9H6Tt8dDOR8CmgluzQbhlEhydE2jpaqBxC6I1MGpUi8MN0FN6XdPuuurnaPZfAc91qWTy/Fac5FzzBZk9KIwIo02Qyr2O/HbNQusU/P6qkYXDm5Vo7/dLUoBvE/U5xU8PJoPwbOfDbyqrl+TJTAoGPLmVrV8sY5qFAxv//Yn8txs8MrR4SNauluHu3vrzHyeRe//lw8Egz31DSd0P1KQThDGHRJ8itbNQt+Qx6+Gk66GXStdjFIdG4pzB19s45xSMUzMNPtfgZD3Hae34WD8iPFZPkF7NlCfd0NA6BX+3Jnn2JpyunCxMooUwTyKkYMBXFZefweUFwAC1IJy8EVuYhRa3kJGHhpNLAGZI7hJeE1H3BUdhqaJZPiPqv8clB9gb/7laEb40R4Rre/9264xzFcXns6TztXJOiWj6SpnRlo//rUytHRVMQQtj3QIpuKUQU6Mf6nH1G0W9Twqjzda68Vyefsj6jtT9y++gcyDRg7TDgdW2irtz2OM8+WmNfywFKQeh+jBo8t0MxZIMSDcoXDiwyFVRvdSnc3/5x9JOu+viMF2PJfRHhHlfKyxubc1nfFDnL+NQaZ78GN1mubGZQFOj6k6RvGR2NMugMMhFnqW6PP318NfBDpezVjN6r7QeDdasvfhMgjDsoJBVM8hoVQr6i5m7LJDZntWIMEIWqrxt1ngqUOq7Mz6oIiGfeIgZSw1Gr0I9/afefQWvvcoMp0a3Hwn1BnbkCuHpLDbgmYLYyWwQGn3AbCBj5rd8W9qnfz92hUReJLk8CwPWSUxLHg067DfRAJS2uhmFEaHnxzyXWJ4QbhYeafZG4qZIU4xsrK1y4iLzWDU6loV2nXLvoNBC2PuDOqmPJwwHG2JetpikE4Qxe0+fsBk+drLwd4+eu8tr10nRLIYbKhUYnNqI0GKCVNgj232YTVgSsnByXz472kDMO85JNAAspzk1avSw0CIt4nQoZCHiiDMcDNj2GA5uTPkZ4WsWHmE+Orx2+eh1CwHj8PeD0aa7gJzpFXH9Hzf7kOmwLOXEmAWfWAs7BlorbLUwNIzm9ow4/4EIU9EKP3NhRjsW3JoNQqNPdJ42qLg1oYEnhSo7PULee5KF/n4r3KEpxhkORmtpAa9HqFvz0W3F0c/MB5AGepOykWB04GHHwaG83pZNJmWKQFpisnFSh1mYBKHkIgzSA0Z4pzDIfl85PDLEh7CSVe5OVqXgzH6/vzX9QP/kFrhSErEaESbKwoYlE6RP+/3+p2PpdI16HMZvBhE81VKj6mbe6hn4VTqKX9Pu2jgCUgjCxiWaIgtzzXYur66PXJW2B4t7oFXNyWg4GKE/QUa2zwizZGFDwEGhj/ZijUN1aLj8YGvK+GjQ51tRk1sIXoe4CvEX6ukHb8WpljglKWLVo2ufHjxjAMttcyClmAdh12fSYva2qwaFT7t2IJ900lq2ELkBLGHdwDJWdYrhIDLSCcJ2fy2/pFf1+5GfeFnUycwaiqfCsKZUXftjRjOtYuGYLPJwkEnRspymRuNnYdvCQaHE6/O86z+b2ZfFSkXJxguyaGPRoqh3jYzRTknByvyeEQbPwtfircrC16o4FeA6XFAvoWRoOLxfsvCkMS4c+GTE2hS87n1JClogBVMLsVjmit5Q7raj9Hl+eby9xzZWEs7+idb9VrQUnPmhwxfm5EjB7NSCUHh/eogbjf/qiYCDwvh5IIzDo7OzIAtPnm535LUUbUZ0+d617HEUxWmOCIWXZVdyvG7T+UGdZxZ29XERerTXM/X7jyXbJAtfyW9Ab39rUKK+Mtj9sEEyXYxS1kyNKmZhYzsDPelwoqhHkVvJFQkH8fJEpMOaF6HSAg5Gv5gUxaEehPLs0cpC/wBovFGnVZLX4LcuwAz5nPbAGPFpC8P/sqy1jwYXrpERLrHu3RRSW7lYRneO1JNRYdrb/K0rhzCe1PWId3iNq/xEbPzCfm9rXD4jGmSl6Mz2g1xl0KIfhL0P8JNm4S27HJIvlIiThcdPsSfXdBwPXU/w9qDodRnX5//ofdnGVMCzM9AgGxvBNta/PhEtC4XlUc+hgeegjTI0frXEfAfU9cPTpGvAHrmL1qmM0CSCDAfHRKhAWFgfhEe8LBRSzMKx1UCNMowVw4FzMgVpKjMCnkQJ0wUyk9vZoFVAl0kQWi/XPG1/YY+vksrDKfhahphZeCjNUFXQdfok63V92sNkCgZsFTGvI2gJMSL8iDMunO8v5FuYTMHvv0yXhR8s79RisVrbtCRGP28Y7jQkNTb24QgEYRWEY20ueK99a2aCVCUF28UQliSOPZ7qqUg9hDqJ0ALtUhDZBRoRfsh77TgPC8copuD3V3tk4fFcA6nPuJFQ316I/O78gN55nbxHWpxhEA4HVVcWDmxftwzH8yCmsRH1FPz+tpGFkxuPQP6tmQ2GU1qTCl0tc61Q5yL1Ald0CTci/NDqtZePGq89jvyt+THtQw7bA465PVjFWeXghPcBtwdo0RK2GQ5ucBeFLrZBONnFROu12/EseVhoNBC83dQ206QO0mVh7+2UQxbOp2CQUzCcglxWeQUdEX4t7LVPu5Zcpe033Ns/7C3ecGGOXaZJdSXKwrHbKdMs9BwL2rVbBoJlmQfhfP8SbQTTLs/A8Zpe2O1pUtO9L7HZ4ZxYvHKq8rLQWHleN+JG5ZGESkmwRPQR4UeELPztRBSz0Pq4Xt9GiFC3QUQeFGo9WlbPwuzPBQeKGraRYFiOIDwmhi8zvVt72ed8Frr1F69PDT0Lg166j5YVs1ArBVdFy8JDRigeQah4ox1q+DKZhf4HUmpB6R6MmtB8Fj4VzDoFtZro2HYYC+7KaUS4RxZejyJdeBR8arirydNk8bwwy1hQNwW5XjaQZmr0V5b4ifnMSfLU8Ch5eQc8WbcUR0VjWZh3epCBIG6lDMLD9zv67R2pLyL1QRxmpH46BrJQsT07XxqkIJ74BaF6JMh7aus0Gn7RvvErH681E6GQ+LB7LU+ehXmnB41SMP6BQ8J1RGgRSHGmSRslab/bvjwLvyV5+jdh47DI3brDOza3WXjatW4KWpw7xTnbUKu+Yc17ajR7Fg4vvAw7R/rF6DDgOVresLMPieKENCLL+ozwxDQLtTbe6GuC9CaSJIhT2u1tXM9jSfP6tH60OCbbQSILgtDovjvIopWxYsRJl9dFNL//NUiZFcUZFEZ7zfT239sVRoXd6xzxjx1d1owIl2Shm+xZeMji8Nh0snR5Fi6sT/mxxz/pWV5qRATLpkbJQvmvVuVNVxweGTpHoYVZmKIOJYVstAqHedHeatxsKIxemzwj/PUUJzO92+82hdsZzsLj4UpblfHCODz2GiAuycIIVfd64F0puIRpCmJLK4PQrq9JPS68/vD7LxceV28cHjG69RnyQ1bZUQrzKWhdn9YpmOhkQW7xiNA5C4d359/6r1noXIBbXdkwOVsVhPXQMFq1NA52oKhaRyfcDmNBjFk/NZpiXPg0RJssw/BbiWuNDZW2GSlqCVgP8ym4ajjoE4EBTxlUrA/CI0kWGpWhHSqRn7pJvjlya4+R4oyAhzz/XPC6kYCH+UEK4iREEB6OWbhkEcRrHrs9jjIyU/7gvaf6SYl2gIfSdGic0V5D3ksMpqIE4VFgXHi8XdIDS0lD+ZZw5jw+/VZrFf7ArrXEPINGKehwvrpM7j3muYOWQEF4eGXhwrfEJEND4VLSyFQS8URxhU7N9yJuyW87eregRaXqGAiiLVYQHpaThLpBYpem7Sw8AveqV8PPEbUs7wEjnyy7FIwzHFTZb+STCBXhgvDD+rszkQeFh2AFTcYrc3koegp+goI/FNRCCkIoaBAe5bPw2GtoeHIqefwu9Xiu7eCLfU5UVoe2t6M77zL2Q60WFfxsQkvcIDzMpkm1RlQzUTqfhfKNxBcwF+UVm+UUaEXg66bm//2kCO0HuYQOQmsLB4VatsnCXxZrbbr2i4bgl4xi8WgPdSQIQou4SjS1+DosTnQsvRoHJWwSt5m6ZV01vNZVhMnM+U0FT2hEliAID8s5Ut0N9u69d/6twjSp0O3t0esXfArSTcGwYVPhuwewkyMIPwLOZE4WqTe9Xh8ZHlzA+C//CFwyHCQCMS9TEB75P0U2r/JMKeTiDARNr1ZSECrCBaHwU2RHmDh0HhR+d3owU4oLi8eBvY9jB34r2ZTWxoGrcEH4kS4Ol2CmFL88F8WsZfdRJ4vNIr6gQfgx/xEW58L4b/l1PEocVmD3AG9mODimvSkiEBbCBeGpZxf242tHh/OreCaz8Hg7duJwV6ZrWKJNt5CCMBIuCI+7XOmKw9+fuFm+olVSAOJwJ3EiUPjxOedNAXIRg/DJwIt33x/6F8B/48Jh8a5xuN8RNcRJQQd25SnVZtAQNAifxjdjnXipZTXF43Bv/k/sPPeluO4U6BI0CA+Dv71gPXG69knhtTAHcbgRtwgMFTymhaHZ4ytuEB6Wrwes+qzzK93ZV+JwA56jwN7LYf5jsI1NMSMKN6GDUGKyE9dNRJUlM+pPIoWlIg6jcZ4IVUzBXm4pSPPGrehB6NaJCydOk36xRZ7333+Q8TD3IM+AVRGoixTEctGD8OgZZmml1PJ3ISLEbYQyVKPy0kJ2pCD8JQjCozMLvz+Z3OMxdE0uD9G2ruNidOhmYQSafg60dzukIJbIEYQDVDrxsYWmMZ8U/up9MkoiGik+BHRIwf0qDRbSBOFwumitAdnyiuod+MZJxMjD7leKn1zxL8mhVBhSEHGkCcJjbqTl3IPHHxT+GpgHjpOIicTJvw+7m4mxtqSLlgm5TEF4KL20/t2URokeBX9YeDX2JgmJ2DbcBsLWp+5wkIEgIkgWhIdewPxuJOyVs2Tp5thCoRT16Sl4BEa4S1MvAw0PY/IF4WEw2DLqxNMNCn/N3LPXDMWZc+1ZS9bllL/4q6hOM4OFlEF4WGaM7lxf6iz8mJzF2jsUJ0+uf4Vkb41X+zUq+MsahId9xmj14JPljPNi+/wf8bj+NsihyWk1uXQHfoQss7BIPMlGW+IgPBzHW5MX0gbjwi/dP+IRNhq3XMSxTSM8eipzp6OGkdxBeLj/rcHhRJx892N5H3rL4lWw00ZuD/x2R2O1ZN1y4pw4n1lchytxOALjnAtEkz4IVxlIxJ3Ghbcsbkp+403+xfAIQnW76Z5lThYg7EwDYtokCBdmTNejxJnv42S5knXnTn+3Fv9OIss5ymKsPklB9NokCA/3OdJbks+5xe/NFc3PnZ5G3qFqL0v36jYcXLuS6GnvWU4TFtonCD8idJSvY8SxQiYaFD5RGSyuOsVJKz9LCs5Ub2PXSc8anO0WhEeMLPx6GiOGKuQSEUbwcvSndibrNksTQmQbBuERL2ZuV9aMfep6sx759XDczuNmFavCaDioVdWvO+WcQmjPIDyiDjiuA8TezN4vC9ue5pa//7dksVK1Svta/tU3o2qXHFfNM44x2wbhR7Sh4cep7+7N7LLd+i1JVVBdvSZrbGH+mRYAu9o8CI+oWfi1/dsUWMXzz1/YtcZof8QRW9o/CI/wWTiGLERD9gYf/I9YYTMlgvCI+shwElmIW7lSpPJ3zBFElSD82G9oSBZCi1tD2uwaxAZqBeGx49CQLMSvsba9fHnLJC4BzCgXhB+bDQ3JQnysTUG++IOkigbhMf2H16ORfOYUe1uYgqsuIho8VNQNwq+dJksZGpblmYJBLhaaOrQQhH/bbIAIvEr9R95JQSgiCM8yJiKdQnG6n/oM3vJp7VBHED6KNmXK9Y9bKikYp523cRXAAkH4IkIccvHjyWQKZsk/wBRBKOLcg5B8kOhthKljj4sCdgjCQSrRyLWNYalTrQuXCawRhGq4XOGjTgQeXFZwQRDuz6jfpIdaok4K0sDghiDch3MX+bQ7+i8LdfLvg1YETwRhbgH7x9si0a8NC3iK7dBOsARBmEzSbvFUbPo7nNAksFDRIPztl4NfgUmTry1R/S8X4U1WUzQALFc0CH8F/LsNG/d6V9+DXXgKVCr8+7e9LA5ky3fhQ110qKxoEF7/HuGqMcoG3ZkWu1PgU8nfvfgsI/rdWq5WRP4hmqJBeDT/Nu/1f5+8dD9/HSlXb7XW/DAxYG3bPSg9bSrgsX8QgYipbhAePU9f5nuWsH1TcF2JmKuS7ZbXRvsLKuQfgisdhB/bL0bYw1MibnbidJ+Yrp0+Jf+QBUH4N6YusyhymtTXEPncQBB+yIgg/AdDQ2tdvSQn4kP9ifXtRvhkPCojCM8YGlqg01T0WXulu03hJCrnEVsiCG8wNJw3v87WrhgbnFnTt31IO1RDED5iaDhgvg99rfOuV8tvB0+bpSOf6QEmEYQt0ZahB6TV8w7k3/U/3W5EOJG4x7kmFIEBBKEIk6W/FHvYmfx7+sfXbXatwNzm9QxCERAiCDvsMWgY5pl/M3ts3LUMLDPZ4x4owgddgbAIwhF7dI4S6v2maQRet/A0OhyLw9sN5kIiAlcE4bgt49Cuf5RUlMUCyKeh4djutjnpJCLwRRDO2uORkmlvqPsgsJfuTOnrNtMhEQGCUFmWOTSfXm9tBF53pDVT+rvN281mZPfHMRp7JH0RAUFoJeafi3Prd+JE4HWnt3E4U57NEvHDaNEpa1kREEHoYeEb3P59TcwIPBVAd2jY3vIGZr536vNnioEZBOEyKn9gL1RvsmQ5zBiLmdLfLd9ufCczRxekDQBfBGFoibqMXJn90VhTavf+RmUB2wBwEISY4fZSoB3TLDyIw/8XuQEAB0GIYYkmQtvU3zW83cXvNotIcfaBgyDEmG1S8KOxyEV3iX+dAWKisw8QhOi2WQp+uGXhsfUAMd15Bw6CEL22TMGPdhYeln8CN3UiJj3dwBdBiA4Zl4Z2WfUiYLpEzH6igV8EIUQ2HgietL9NehgfZvBP1+5xioETghAvNnhHYoDnI8N2MW4L4LP3pwIAmyEI0VJnINhl7deiG7sezsiCJxH4Ighxr+ZA8Ff7VYeYfzkhYJGA+AhC3GAg+BVkjhSAHYIQZ6Tgif9rFQA8EYT4H6TgrfZrFQwNgdQIQvyDFGwgC4FdEYT4Gyn4iiwEtkQQ4j9IQRVkIZARQQhSsMPrN9jIQiAdghDv6Nl/kYXAZghCAEBpBCFeMLi5YlAI7IQgxGO3TlfeQBYC2yAI8R/X72rSic8jC4EUCEL8g167i+Sv+JKFQHwEITCu/RcqAKRAEAK2GBQCwRGEwKz2HCkpCARHEAIKbrOQCARSIAgBHcQekBRBCAAojSAEAJRGEAIASiMIAQClEYQAgNIIQgBAaQQhAKA0ghAAUBpBCAAojSAEAJRGEAIASiMIAQClEYQAgNIIQgBAaQQhAKA0ghAAUBpBCAAojSAEAJRGEAIASiMIAQClEYQAgNIIQgBAaQQhAKA0ghAAUBpBCAAojSAEAJRGEAIASiMIAQClEYQAgNIIQgBAaQQhAKA0ghAAUBpBCAAojSAEAJRGEAIASiMIAQClEYQAgNIIQgBAaQQhAKA0ghAAUBpBCAAojSAEAJRGEAIASiMIAQClEYQAgNIIQgBAaQQhAKA0ghAAUBpBCAAojSAEAJRGEAIASiMIAQClEYQAgNIIQgBAaQQhAKA0ghAAUBpBCAAojSAEAJRGEAIASiMIAQClEYQAgNIIQgBAaQQhAKA0ghAAUBpBCAAojSAEAJRGEAIASiMIAQClEYQAgNIIQgBAaQQhAKA0ghAAUBpBCAAojSAEAJRGEAIASiMIAQClEYQAgNIIQgBAaQQhAKA0ghAAUBpBCAAojSAEAJRGEAIASiMIAQClEYQAgNIIQgBAaQQhAKA0ghAAUBpBCAAojSAEAJRGEAIASiMIAQClEYQAgNIIQgBAaQQhAKA0ghAAUBpBCAAojSAEAJRGEAIASiMIAQClEYQAgNIIQgBAaQQhAKA0ghAAUBpBCAAojSAEAJRGEAIASiMIAQClEYQAgNIIQgBAaQQhAKA0ghAAUBpBCAAojSAEAJRGEAIASiMIAQClEYQAgNIIQgBAaQQhAKA0ghAAUNr/AduaP6ElhC+bAAAAAElFTkSuQmCC" name="Object1" align="bottom" width="84" height="78">Human
+Rights Council 
+</h2>
+<h2 lang="en-GB" class="western" align="left" style="text-indent: 0.5in">
+5/1.  Institution-building of the United Nations Human Rights Council</h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+	<i>The Human Rights Council</i>,</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<i>	Acting in compliance </i>with the mandate entrusted to it by the
+United Nations General&nbsp;Assembly in resolution 60/251 of 15 March
+2006,</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<i>	Having considered</i> the draft text on institution-building
+submitted by the President of the Council,</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+	1.	<i>Adopts</i> the draft text entitled “United Nations Human
+Rights Council: Institution&#8209;Building”, as contained in the
+annex to the present resolution, including its appendix(ces);</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+	2.<i>	Decides </i>to submit the following draft resolution to the
+General Assembly for its adoption as a matter of priority in order to
+facilitate the timely implementation of the text contained
+thereafter:</p>
+<p lang="en-GB" class="western" style="margin-left: 0.39in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt"> </font><font size="2" style="font-size: 10pt">“</font><font size="2" style="font-size: 10pt"><i>The
+General Assembly</i></font><font size="2" style="font-size: 10pt">,</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.39in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt"> </font><font size="2" style="font-size: 10pt">“</font><font size="2" style="font-size: 10pt"><i>Taking
+note</i></font><font size="2" style="font-size: 10pt"> </font><font size="2" style="font-size: 10pt">of
+Human Rights Council resolution 5/1 of 18 June 2007,</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.39in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	“1.	</font><font size="2" style="font-size: 10pt"><i>Welcomes</i></font><font size="2" style="font-size: 10pt">
+the text entitled ‘United Nations Human Rights Council:
+Institution&#8209;Building’, as contained in the annex to the
+present resolution, including its </font><font size="2" style="font-size: 10pt">appendix(ces).”</font></p>
+<p lang="en-GB" class="western" align="right" style="margin-bottom: 0.17in; line-height: 100%">
+<i>9th meeting<br>18 June 2007</i></p>
+<p lang="en-GB" class="western" style="margin-left: 0.39in; margin-bottom: 0.33in; line-height: 100%">
+<font size="2" style="font-size: 10pt">[Resolution adopted without a
+vote.]</font><sup><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt"><b><font size="2" style="font-size: 10pt"><a class="sdfootnoteanc" name="sdfootnote1anc" href="#sdfootnote1sym"><sup>1</sup></a></font></b></font></font></sup></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Annex</font></h2>
+<h1 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">united
+nations human rights council:  institution-building</font></h1>
+<h1 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">I.
+ UNIVERSAL PERIODIC REVIEW MECHANISM</font></h1>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">A.
+ Basis of the review</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">1.	The basis of the review is:</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>a</i></font><font size="2" style="font-size: 10pt">)	The
+Charter of the United Nations;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>b</i></font><font size="2" style="font-size: 10pt">)	The
+Universal Declaration of Human Rights;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>c</i></font><font size="2" style="font-size: 10pt">)	Human
+rights instruments to which a State is party;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>d</i></font><font size="2" style="font-size: 10pt">)	Voluntary
+pledges and commitments made by States, including those undertaken
+when presenting their candidatures for election to the Human Rights
+Council (hereinafter “the Council”).</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">2.	In addition to the above
+and given the complementary and mutually interrelated nature of
+international human rights law and international humanitarian law,
+the review shall take into account applicable international
+humanitarian law.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">B.
+ Principles and objectives</font></h2>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">1.
+ Principles</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">3.	The universal periodic
+review should:</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>a</i></font><font size="2" style="font-size: 10pt">)	Promote
+the universality, interdependence, indivisibility and
+interrelatedness of all human rights;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>b</i></font><font size="2" style="font-size: 10pt">)	Be
+a cooperative mechanism based on objective and reliable information
+and on interactive dialogue;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>c</i></font><font size="2" style="font-size: 10pt">)	Ensure
+universal coverage and equal treatment of all States;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>d</i></font><font size="2" style="font-size: 10pt">)	Be
+an intergovernmental process, United Nations Member-driven and
+action&#8209;oriented;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>e</i></font><font size="2" style="font-size: 10pt">)	Fully
+involve the country under review;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>f</i></font><font size="2" style="font-size: 10pt">)	Complement
+and not duplicate other human rights mechanisms, thus representing an
+added value;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>g</i></font><font size="2" style="font-size: 10pt">)	Be
+conducted in an objective, transparent, non-selective, constructive,
+non&#8209;confrontational and non&#8209;politicized manner;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>h</i></font><font size="2" style="font-size: 10pt">)	Not
+be overly burdensome to the concerned State or to the agenda of the
+Council;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>i</i></font><font size="2" style="font-size: 10pt">)	Not
+be overly long; it should be realistic and not absorb a
+disproportionate amount of time, human and financial resources;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>j</i></font><font size="2" style="font-size: 10pt">)	Not
+diminish the Council’s capacity to respond to urgent human rights
+situations;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>k</i></font><font size="2" style="font-size: 10pt">)	Fully
+integrate a gender perspective;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>l</i></font><font size="2" style="font-size: 10pt">)	Without
+prejudice to the obligations contained in the elements provided for
+in the basis of review, take into account the level of development
+and specificities of countries;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>m</i></font><font size="2" style="font-size: 10pt">)	Ensure
+the participation of all relevant stakeholders, including
+non-governmental organizations and national human rights
+institutions, in accordance with General&nbsp;Assembly resolution
+60/251 of 15 March 2006 and Economic and Social Council resolution
+1996/31 of 25 July 1996, as well as any decisions that the Council
+may take in this regard.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">2.
+ Objectives</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">4.	The objectives of the
+review are:</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>a</i></font><font size="2" style="font-size: 10pt">)	The
+improvement of the human rights situation on the ground;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>b</i></font><font size="2" style="font-size: 10pt">)	The
+fulfilment of the State’s human rights obligations and commitments
+and assessment of positive developments and challenges faced by the
+State;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>c</i></font><font size="2" style="font-size: 10pt">)	The
+enhancement of the State’s capacity and of technical assistance, in
+consultation with, and with the consent of, the State concerned;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>d</i></font><font size="2" style="font-size: 10pt">)	The
+sharing of best practice among States and other stakeholders;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>e</i></font><font size="2" style="font-size: 10pt">)	Support
+for cooperation in the promotion and protection of human rights;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>f</i></font><font size="2" style="font-size: 10pt">)	The
+encouragement of full cooperation and engagement with the Council,
+other human rights bodies and the Office of the United Nations High
+Commissioner for Human Rights.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">C.
+ Periodicity and order of the review</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">5.	The review begins after the
+adoption of the universal periodic review mechanism by the Council.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">6.	The order of review should
+reflect the principles of universality and equal treatment.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">7.	The order of the review
+should be established as soon as possible in order to allow States to
+prepare adequately.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">8.	All member States of the
+Council shall be reviewed during their term of membership. </font>
+</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">9.	The initial members of the
+Council, especially those elected for one or two-year terms, should
+be reviewed first.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">10.	A mix of member and
+observer States of the Council should be reviewed.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">11.	Equitable geographic
+distribution should be respected in the selection of countries for
+review.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">12.	The first member and
+observer States to be reviewed will be chosen by the drawing of lots
+from each Regional Group in such a way as to ensure full respect for
+equitable geographic distribution. Alphabetical order will then be
+applied beginning with those countries thus selected, unless other
+countries volunteer to be reviewed.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">13.	The period between review
+cycles should be reasonable so as to take into account the capacity
+of States to prepare for, and the capacity of other stakeholders to
+respond to, the requests arising from the review.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">14.	The periodicity of the
+review for the first cycle will be of four years. This will imply the
+consideration of&nbsp;48&nbsp;States per year during three sessions
+of the working group of two weeks each.</font><sup><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt"><b><font size="2" style="font-size: 10pt"><a class="sdfootnoteanc" name="sdfootnote2anc" href="#sdfootnote2sym" sdfixed><sup>a</sup></a></font></b></font></font></sup></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">D.
+ Process and modalities of </font><font size="2" style="font-size: 10pt">the
+</font><font size="2" style="font-size: 10pt">review</font></h2>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">1.
+ Documentation</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">15.	The documents on which the
+review would be based are</font><font size="2" style="font-size: 10pt">:</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>a</i></font><font size="2" style="font-size: 10pt">)	Information
+prepared by the State concerned, which can take the form of a
+national report, on the basis of general guidelines to be adopted by
+the Council at its sixth session (first session of the second cycle),
+and any other information considered relevant by the State concerned,
+which could be presented either orally or in writing, provided that
+the written presentation summarizing the information will not exceed
+20 pages, to guarantee equal treatment to all States and not to
+overburden the mechanism. States are encouraged to prepare the
+information through a broad consultation process at the national
+level with all relevant stakeholders;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>b</i></font><font size="2" style="font-size: 10pt">)	Additionally
+a compilation prepared by the Office of the High Commissioner for
+Human Rights of&nbsp;the&nbsp;information contained in the reports of
+treaty bodies, special procedures, including observations and
+comments by the State concerned, and other relevant official United
+Nations documents, which shall not exceed&nbsp;10&nbsp;pages;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>c</i></font><font size="2" style="font-size: 10pt">)	Additional,
+credible and reliable information provided by other relevant
+stakeholders to the universal&nbsp;periodic review which should also
+be taken into consideration by the Council in the review. The Office
+of&nbsp;the High Commissioner for Human Rights will prepare a summary
+of such information which shall not exceed&nbsp;10&nbsp;pages.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">16.	The documents prepared by
+the Office of the High Commissioner for Human Rights should be
+elaborated following the structure of the general guidelines adopted
+by the Council regarding the information prepared by the State
+concerned.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">17.	Both the State’s written
+presentation and the summaries prepared by the Office of the High
+Commissioner for Human Rights shall be ready six weeks prior to the
+review by the working group to ensure the distribution of documents
+simultaneously in the six official languages of the United Nations,
+in accordance with General&nbsp;Assembly resolution 53/208 of 14
+January 1999.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">2.
+ Modalities</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">18.	The modalities of the
+review shall be as follows:</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>a</i></font><font size="2" style="font-size: 10pt">)	The
+review will be conducted in one working group, chaired by the
+President of the Council and composed of the 47 member States of the
+Council. Each member State will decide on the composition of its
+delegation;</font><sup><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt"><b><font size="2" style="font-size: 10pt"><a class="sdfootnoteanc" name="sdfootnote3anc" href="#sdfootnote3sym" sdfixed><sup>b</sup></a></font></b></font></font></sup></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>b</i></font><font size="2" style="font-size: 10pt">)	Observer
+States may participate in the review, including in the interactive
+dialogue;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>c</i></font><font size="2" style="font-size: 10pt">)	Other
+relevant stakeholders may attend the review in the Working Group;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>d</i></font><font size="2" style="font-size: 10pt">)	A
+group of three rapporteurs, selected by the drawing of lots among the
+members of the Council and from different Regional Groups (</font><font size="2" style="font-size: 10pt"><i>troika</i></font><font size="2" style="font-size: 10pt">)
+will be formed to facilitate each review, including the preparation
+of the report of the working group. The Office of the High
+Commissioner for Human Rights will provide the necessary assistance
+and expertise to the rapporteurs.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">19.	The country concerned may
+request that one of the rapporteurs be from its own Regional Group
+and may also request the substitution of a rapporteur on only one
+occasion.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">20.	A rapporteur may request
+to be excused from participation in a specific review process.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">21.	Interactive dialogue
+between the country under review and the Council will take place in
+the working group. The rapporteurs may collate issues or questions to
+be transmitted to the State under review to facilitate its
+preparation and focus the interactive dialogue, while guaranteeing
+fairness and transparency.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">22.	The duration of the review
+will be three hours for each country in the working group. Additional
+time of up to one hour will be allocated for the consideration of the
+outcome by the plenary of the Council.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">23.	Half an hour will be
+allocated for the adoption of the report of each country under review
+in the working group.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">24.	A reasonable time frame
+should be allocated between the review and the adoption of the report
+of each State in the working group.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">25.	The final outcome will be
+adopted by the plenary of the Council.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">E.
+ Outcome of the review</font></h2>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">1.
+ Format of the outcome</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">26.	The format of the outcome
+of the review will be a report consisting of a summary of the
+proceedings of</font><font size="2" style="font-size: 10pt"> the
+review process; conclusions and/or recommendations, and the voluntary
+commitments of the State concerned.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">2.
+ Content of the outcome</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">27.	The universal periodic
+review is a cooperative mechanism. Its outcome may include, inter
+alia:</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>a</i></font><font size="2" style="font-size: 10pt">)	An
+assessment undertaken in an objective and transparent manner of the
+human rights situation in the country under review, including
+positive developments and the challenges faced by the country;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>b</i></font><font size="2" style="font-size: 10pt">)	Sharing
+of best practices;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>c</i></font><font size="2" style="font-size: 10pt">)	An
+emphasis on enhancing cooperation for the promotion and protection of
+human rights;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>d</i></font><font size="2" style="font-size: 10pt">)	The
+provision of technical assistance and capacity-building in
+consultation with, and with the consent of, the country concerned;</font><sup><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt"><b><font size="2" style="font-size: 10pt"><a class="sdfootnoteanc" name="sdfootnote4anc" href="#sdfootnote4sym" sdfixed><sup>c</sup></a></font></b></font></font></sup></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>e</i></font><font size="2" style="font-size: 10pt">)	Voluntary
+commitments and pledges made by the country under review.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">3.
+ Adoption of the outcome</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">28.	The country under review
+should be fully involved in the outcome. </font>
+</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">29.	Before the adoption of the
+outcome by the plenary of the Council, the State concerned should be
+offered the opportunity to present replies to questions or issues
+that were not sufficiently addressed during the interactive dialogue.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">30.	The State concerned and
+the member States of the Council, as well as observer States, will be
+given the opportunity to express their views on the outcome of the
+review before the plenary takes action on it. </font>
+</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">31.	Other relevant
+stakeholders will have the opportunity to make general comments
+before the adoption of the outcome by the plenary.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">32.	Recommendations that enjoy
+the support of the State concerned will be identified as such. Other
+recommendations, together with the comments of the State concerned
+thereon, will be noted. Both will be included in the outcome report
+to be adopted by the Council.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">F.
+ Follow-up to the review</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">33.	The outcome of the
+universal periodic review, as a cooperative mechanism, should be
+implemented primarily by the State concerned and, as appropriate, by
+other relevant stakeholders.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">34.	The subsequent review
+should focus, inter alia, on the implementation of the preceding
+outcome.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">35.	The Council should have a
+standing item on its agenda devoted to the universal periodic review.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">36.	The international
+community will assist in implementing the recommendations and
+conclusions regarding capacity-building and technical assistance, in
+consultation with, and with the consent of, the country concerned.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">37.	In considering the outcome
+of the universal periodic review, the Council will decide if and when
+any specific follow&#8209;up is necessary.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">38.	After exhausting all
+efforts to encourage a State to cooperate with the universal periodic
+review mechanism, the&nbsp;Council will address, as appropriate,
+cases of persistent non-cooperation with the mechanism.</font></p>
+<h1 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">II.
+ SPECIAL PROCEDURES</font></h1>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">A.
+ Selection and appointment of mandate-holders</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">39.	The following general
+criteria will be of paramount importance while nominating, selecting
+and appointing mandate-holders: (a) expertise; (b) experience in the
+field of the mandate; (c) independence; (d) impartiality;
+(e)&nbsp;personal integrity; and (f) objectivity.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">40.	Due consideration should
+be given to gender balance and equitable geographic representation,
+as well as to an appropriate representation of different legal
+systems.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">41.	Technical and objective
+requirements for eligible candidates for mandate-holders will be
+approved by the Council at its sixth session (first session of the
+second cycle), in order to ensure that eligible candidates are highly
+qualified individuals who possess established competence, relevant
+expertise and extensive professional experience in the field of human
+rights.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">42.	The following entities may
+nominate candidates as special procedures mandate-holders: (a)
+Governments; (b)&nbsp;Regional Groups operating within the United
+Nations human rights system; (c) international organizations or their
+offices (e.g. the Office of the High Commissioner for Human Rights);
+(d) non-governmental organizations; (e)&nbsp;other human rights
+bodies; (f) individual nominations.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">43.	The Office of the High
+Commissioner for Human Rights shall immediately prepare, maintain and
+periodically update a public list of eligible candidates in a
+standardized format, which shall include personal data, areas of
+expertise and professional experience. Upcoming vacancies of mandates
+shall be publicized.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">44.	The principle of
+non-accumulation of human rights functions at a time </font><font size="2" style="font-size: 10pt">shall
+</font><font size="2" style="font-size: 10pt">be respected.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">45.	A mandate-holder’s
+tenure in a given function, whether a thematic or</font><font size="2" style="font-size: 10pt">
+country mandate</font><font size="2" style="font-size: 10pt">, will
+be no longer than six years</font><font size="2" style="font-size: 10pt"><b>
+</b></font><font size="2" style="font-size: 10pt">(two terms of three
+years for thematic mandate-holders).</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">46.	Individuals holding
+decision-making positions in Government or in any other organization
+or entity which may </font><font size="2" style="font-size: 10pt">give
+rise to </font><font size="2" style="font-size: 10pt">a conflict of
+interest with the responsibilities</font><font size="2" style="font-size: 10pt">
+inherent to </font><font size="2" style="font-size: 10pt">the mandate
+shall be excluded. Mandate&#8209;holders will act in their personal
+capacity.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">47.	A consultative group would
+be established to propose to the President, at least one month before
+the beginning of the session in which the Council would consider the
+selection</font><font size="2" style="font-size: 10pt"><b> </b></font><font size="2" style="font-size: 10pt">of
+mandate&#8209;holders, a list of candidates who possess the highest
+qualifications </font><font size="2" style="font-size: 10pt">for </font><font size="2" style="font-size: 10pt">the
+mandate</font><font size="2" style="font-size: 10pt">s in question
+</font><font size="2" style="font-size: 10pt">and meet the general
+criteria and particular requirements.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">48.	The consultative group
+shall also give due consideration to the exclusion of nominated
+candidates from the public list of eligible candidates brought to its
+attention.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">49.	At the beginning of the
+annual cycle of the Council, Regional Groups would be invited to
+appoint a member of the consultative group, who would serve in
+his/her personal capacity. The Group will be assisted by the Office
+of the High Commissioner for Human Rights.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">50.	The consultative group
+will consider candidates included in the public list; however, under
+exceptional circumstances and if a particular post justifies it, the
+Group may consider additional nominations with equal or more suitable
+qualifications for the post. Recommendations to the President shall
+be</font><font size="2" style="font-size: 10pt"> public and
+</font><font size="2" style="font-size: 10pt">substantiated.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">51.	The consultative group
+</font><font size="2" style="font-size: 10pt">should </font><font size="2" style="font-size: 10pt">take
+into account, </font><font size="2" style="font-size: 10pt">as
+appropriate,</font><font size="2" style="font-size: 10pt"> the views
+of </font><font size="2" style="font-size: 10pt">stakeholders</font><font size="2" style="font-size: 10pt">,
+including the </font><font size="2" style="font-size: 10pt">current
+or </font><font size="2" style="font-size: 10pt">outgoing
+mandate-holders, in determining the necessary expertise, experience,
+skills, and other relevant requirements for each mandate.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">52.	On the basis of the
+recommendations of the consultative group and following broad
+consultations, in particular through the regional coordinators, the
+President of the Council will identify an appropriate candidate for
+each vacancy. The President will </font><font size="2" style="font-size: 10pt">present
+to </font><font size="2" style="font-size: 10pt">member States and
+observers</font><font size="2" style="font-size: 10pt"> a list of
+candidates to be proposed </font><font size="2" style="font-size: 10pt">at
+least two weeks prior to the beginning of the session in which the
+Council will consider the appointments.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">53.	If necessary, the
+President will conduct further consultations to ensure the
+endorsement of&nbsp;the proposed candidates. The appointment of the
+special procedures mandate-holders will&nbsp;be&nbsp;completed upon
+the subsequent approval of the Council. Mandate-holders shall be
+appointed before the end of the session.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">B.
+ Review, rationalization and improvement of mandates</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">54.	The review,
+</font><font size="2" style="font-size: 10pt">rationalization and
+improvement of mandates, as well as the creation of new ones,</font><font size="2" style="font-size: 10pt">
+must be guided by the principles of universality, impartiality,
+objectivity and non&#8209;selectivity, constructive international
+dialogue and cooperation, with a view to enhancing the promotion and
+protection of all human rights, civil, political, economic, social
+and cultural rights, including the right to development.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">55.	The review,
+</font><font size="2" style="font-size: 10pt">rationalization and
+improvement </font><font size="2" style="font-size: 10pt">of each
+mandate would take place in the context of the negotiations of the
+relevant resolutions. An assessment of the mandate may take place in
+a separate segment of the interactive dialogue between the Council
+and special procedures mandate-holders.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">56.	The review,
+</font><font size="2" style="font-size: 10pt">rationalization and
+improvement </font><font size="2" style="font-size: 10pt">of mandates
+would focus on the relevance, scope and contents of the mandates,
+having as a framework the internationally recognized human&nbsp;rights
+standards, the system of special procedures and General Assembly
+resolution&nbsp;60/251.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">57.	Any decision to
+streamline, merge or possibly discontinue mandates should always be
+guided by the need for improvement of the enjoyment and protection of
+human rights.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">58.	The Council should always
+strive for improvements:</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>a</i></font><font size="2" style="font-size: 10pt">)	Mandates
+should always offer a clear prospect of an increased level of human
+rights protection and promotion as well as being coherent within the
+system of human rights;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>b</i></font><font size="2" style="font-size: 10pt">)	Equal
+attention should be paid to all human rights. The balance of thematic
+mandates should broadly reflect the accepted equal importance of
+civil, political, economic, social and cultural rights, including the
+right to development;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>c</i></font><font size="2" style="font-size: 10pt">)	Every
+effort should be made to avoid unnecessary duplication;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>d</i></font><font size="2" style="font-size: 10pt">)	Areas
+which constitute thematic gaps will be identified and addressed,
+including by means other than the creation of special procedures
+mandates, such as by expanding an existing mandate, bringing a
+cross-cutting issue to the attention of mandate-holders or by
+requesting a joint action to the relevant mandate-holders;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>e</i></font><font size="2" style="font-size: 10pt">)	Any
+consideration of merging mandates should have regard to the content
+and predominant functions of each mandate, as well as to the workload
+of individual mandate&#8209;holders;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>f</i></font><font size="2" style="font-size: 10pt">)	In
+creating or reviewing mandates, efforts should be made to identify
+whether the structure of the mechanism (expert, rapporteur or working
+group) is the most effective in terms of increasing human rights
+protection;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>g</i></font><font size="2" style="font-size: 10pt">)	New
+mandates should be as clear and specific as possible, so as to avoid
+ambiguity.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">59.	It should be considered
+desirable to have a uniform nomenclature of mandate-holders, titles
+of mandates as well as a selection and appointment process, to make
+the whole system more understandable.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">60.	Thematic mandate periods
+will be of three years. Country mandate periods will be of one&nbsp;year.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">61.	Mandates included in
+Appendix I, where applicable, will be renewed until the date on which
+they are considered by the Council according to the programme of
+work.</font><sup><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt"><b><font size="2" style="font-size: 10pt"><a class="sdfootnoteanc" name="sdfootnote5anc" href="#sdfootnote5sym" sdfixed><sup>d</sup></a></font></b></font></font></sup></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">62.	Current mandate-holders
+may continue serving, provided they have not exceeded the six&#8209;year
+term limit (Appendix II). On an exceptional basis, the term of those
+mandate-holders who have served more than six years may be extended
+until the relevant mandate is considered by the Council and the
+selection and appointment process has concluded.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">63.	</font><font color="#000000"><font size="2" style="font-size: 10pt">Decisions
+to create, review or discontinue country mandates should also take
+into account the principles of cooperation and genuine dialogue aimed
+at strengthening the capacity of Member States to comply with their
+human rights obligations.</font></font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">64.	In case of situations of
+violations of human rights or a lack of cooperation that require the
+Council’s attention, the principles of objectivity,
+non-selectivity, and the elimination of double standards and
+politicization should apply.</font></p>
+<h1 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">III.
+ HUMAN RIGHTS COUNCIL ADVISORY COMMITTEE</font></h1>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">65.	The Human Rights Council
+Advisory Committee (hereinafter “the Advisory Committee”),
+composed of&nbsp;18&nbsp;experts serving in their personal capacity,
+will function as a think-tank for the Council and work at its
+direction. The establishment of this subsidiary body and its
+functioning will be executed according to the guidelines stipulated
+below.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">A.
+ Nomination</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">66.	All Member States of the
+United Nations may propose or endorse candidates from their own
+region. When selecting their candidates, States should consult their
+national human rights institutions and civil society organizations
+and, in this regard, include the names of those supporting their
+candidates.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">67.	The aim is to ensure that
+the best possible expertise is made available to the Council. For
+this purpose, technical and objective requirements for the submission
+of candidatures will be established and approved by the Council at
+its sixth session (first session of the second cycle). These should
+include:</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>a</i></font><font size="2" style="font-size: 10pt">)	Recognized
+competence and experience in the field of human rights;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>b</i></font><font size="2" style="font-size: 10pt">)	High
+moral standing;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>c</i></font><font size="2" style="font-size: 10pt">)	Independence
+and impartiality.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">68.	Individuals holding
+decision-making positions in Government or in any other organization
+or entity which might give rise to a conflict of interest with the
+responsibilities inherent in the mandate shall be excluded. Elected
+members of the Committee will act in their personal capacity.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">69.	The principle of
+non-accumulation of human rights functions at the same time shall be
+respected.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">B.
+ Election</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">70.	The Council shall elect
+the members of the Advisory Committee, </font><font size="2" style="font-size: 10pt">in
+secret ballot</font><font size="2" style="font-size: 10pt">, from the
+list of candidates whose names have been presented in accordance with
+the agreed requirements.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">71.	The list of candidates
+shall be closed two months prior to the election date. The
+Secretariat will make available the list of candidates and relevant
+information to member States and to the public at least one month
+prior to their election.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">72.	Due consideration should
+be given to gender balance and appropriate representation of
+different civilizations and legal systems.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">73.	The geographic
+distribution will be as follows:</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.39in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">African States: 5</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.39in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Asian States: 5</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.39in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Eastern European States: 2</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.39in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Latin American and Caribbean
+States: 3</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.39in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Western European and other
+States: 3</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">74.	The members of the
+Advisory Committee shall serve for a period of three years. They
+shall be eligible for re&#8209;election once. In the first term, one
+third of the experts will serve for one year and another third for
+two years. The staggering of terms of membership will be defined by
+the drawing of lots.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">C.
+ Functions</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">75.	The function of the
+Advisory Committee is to provide expertise to the Council in the
+manner and form requested by the Council, focusing mainly on studies
+and research-based advice. Further, such expertise shall be rendered
+only upon the latter’s request, in compliance with its resolutions
+and under its guidance.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">76.	The Advisory Committee
+should be implementation-oriented and the scope of its advice should
+be limited to thematic issues pertaining to the mandate of the
+Council; namely promotion and protection of all human rights.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">77.	The Advisory Committee
+shall not adopt resolutions or decisions. The Advisory Committee may
+propose within the scope of the work set out by the Council, for the
+latter’s consideration and approval, suggestions for further
+enhancing its procedural efficiency, as well as further research
+proposals within the scope of the work set out by the Council.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">78.	The Council shall issue
+specific guidelines for the Advisory Committee when it requests a
+substantive contribution from the latter and shall review all or any
+portion of those guidelines if it deems necessary in the future.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">D.
+ Methods of work</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">79.	The Advisory Committee
+shall convene up to two sessions for a maximum of 10&nbsp;working
+days per year. Additional sessions may be scheduled on an ad hoc
+basis with prior approval of the Council.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">80.	The Council may request
+the Advisory Committee to undertake certain tasks that could be
+performed collectively, through a smaller team or individually. The
+Advisory Committee will report on such efforts to the Council.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">81.	Members of the Advisory
+Committee are encouraged to</font><font color="#ff0000"><font size="2" style="font-size: 10pt">
+</font></font><font size="2" style="font-size: 10pt">communicate
+between sessions, individually or in teams. However, the Advisory
+Committee shall not establish subsidiary bodies unless the Council
+authorizes it to do so.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">82.	In the performance of its
+mandate, the Advisory Committee is urged to establish interaction
+with States, national human rights institutions, non-governmental
+organizations and other civil society entities in accordance with the
+modalities of the Council.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">83.	Member States and
+observers, including States that are not members of the Council, the
+specialized agencies, other intergovernmental organizations and
+national human rights institutions, as well as non-governmental
+organizations shall be entitled to participate in the work of the
+Advisory Committee based on arrangements, including Economic and
+Social Council resolution&nbsp;1996/31 and practices observed by the
+Commission on Human Rights and the Council, while ensuring the most
+effective contribution of these entities.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">84.	The Council will decide at
+its sixth session (first session of its second cycle) on the most
+appropriate mechanisms to continue the work of the Working Groups on
+Indigenous Populations; Contemporary Forms of Slavery; Minorities;
+and the Social Forum.</font></p>
+<h1 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">IV.
+ COMPLAINT PROCEDURE</font></h1>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">A.
+ Objective and scope</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">85.	A complaint procedure is
+being established to address consistent patterns of gross and
+reliably attested violations of all human rights and all fundamental
+freedoms occurring in any part of the world and under any
+circumstances.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">86.	Economic and Social
+Council resolution 1503 (XLVIII) of 27 May 1970 as revised by
+resolution 2000/3 of&nbsp;19 June 2000 served as a working basis and
+was improved where necessary, so as to ensure that the complaint
+procedure is impartial, objective, efficient, victims&#8209;oriented
+and conducted in a timely manner. The procedure will retain its
+confidential nature, with a view to enhancing cooperation with the
+State concerned.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">B.
+ Admissibility criteria for communications</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">87.	A communication related to
+a violation of human rights and fundamental freedoms, for the purpose
+of this procedure, shall be admissible, provided that:</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>a</i></font><font size="2" style="font-size: 10pt">)	It
+is not manifestly politically motivated and its object is consistent
+with the Charter of the United&nbsp;Nations, the Universal
+Declaration of Human Rights and other applicable instruments in the
+field of human rights law;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>b</i></font><font size="2" style="font-size: 10pt">)	It
+gives a factual description of the alleged violations, including the
+rights which are alleged to be violated;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>c</i></font><font size="2" style="font-size: 10pt">)	Its
+language is not abusive. However, such a communication may be
+considered if it meets the other criteria for admissibility after
+deletion of the abusive language;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>d</i></font><font size="2" style="font-size: 10pt">)	It
+is submitted by a person or a group of persons claiming to be the
+victims of violations of human rights and fundamental freedoms, or by
+any person or group of persons, including non&#8209;governmental
+organizations, acting in good faith in accordance with the principles
+of human rights, not resorting to politically motivated stands
+contrary to the provisions of the Charter of the United&nbsp;Nations
+and claiming to have direct and reliable knowledge of the violations
+concerned. Nonetheless, reliably attested communications shall not be
+inadmissible solely because the knowledge of the individual authors
+is second-hand, provided that they are accompanied by clear evidence;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>e</i></font><font size="2" style="font-size: 10pt">)	It
+is not exclusively based on reports disseminated by mass media;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>f</i></font><font size="2" style="font-size: 10pt">)	It
+does not refer to a case that appears to reveal a consistent pattern
+of gross and reliably attested violations of human rights already
+being dealt with by a special procedure, a treaty body or other
+United Nations or similar regional complaints procedure in the field
+of human rights;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>g</i></font><font size="2" style="font-size: 10pt">)	Domestic
+remedies have been exhausted, unless it appears that such remedies
+would be ineffective or unreasonably prolonged.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">88.	National human rights
+institutions, established and operating under the Principles Relating
+to the Status of National Institutions (the Paris Principles), in
+particular in regard to quasi-judicial competence, may serve as
+effective means of addressing individual human rights violations.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">C.
+ Working groups</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">89.	Two distinct working
+groups shall be established with the mandate to examine the
+communications and to bring to the attention of the Council
+consistent patterns of gross and reliably attested violations of
+human rights and fundamental freedoms.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">90.	Both </font><font size="2" style="font-size: 10pt">working
+groups</font><font size="2" style="font-size: 10pt"> shall, to the
+greatest possible extent, work on the basis of consensus. In the
+absence of consensus, decisions shall be taken by simple majority of
+the votes. They may establish their own rules of procedure.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">1.
+ Working Group on Communications:  composition, mandate and powers</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">91.	The Human Rights Council
+Advisory Committee shall appoint five of its members, one from each
+Regional Group, with due consideration to gender balance, to
+constitute the Working Group on Communications.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">92.	In case of a vacancy, the
+Advisory Committee shall appoint an independent and highly qualified
+expert of the same Regional Group from the Advisory Committee.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">93.	Since there is a need for
+independent expertise and continuity with regard to the examination
+and assessment of communications received, the independent and highly
+qualified experts of the Working Group on Communications shall be
+appointed for three years. Their mandate is renewable only once.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">94.	The Chairperson of the
+Working Group on Communications is requested, together with the
+secretariat, to undertake an initial screening of communications
+received, based on the admissibility criteria, before transmitting
+them to the States concerned. Manifestly ill-founded or anonymous
+communications shall be screened out by the Chairperson and shall
+therefore not be transmitted to the State concerned. In a perspective
+of accountability and transparency, the Chairperson of the Working
+Group on Communications shall provide all its members with a list of
+all communications rejected after initial screening. This list should
+indicate the grounds of all decisions resulting in the rejection of a
+communication. All other communications, which have not been screened
+out, shall be transmitted to the State concerned, so as to obtain the
+views of the latter on the allegations of violations.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">95.	The members of the Working
+Group on Communications shall decide on the admissibility of a
+communication and assess the merits of the allegations of violations,
+including whether the communication alone or in combination with
+other communications appear to reveal a consistent pattern of gross
+and reliably attested violations of human rights and fundamental
+freedoms. The Working Group on Communications shall provide the
+Working Group on Situations with a file containing all admissible
+communications as well as recommendations thereon. When the Working
+Group on Communications requires further consideration or additional
+information, it may keep a case under review until its next session
+and request such information from the State concerned. The Working
+Group on Communications may decide to dismiss a case. All decisions
+of the Working Group on Communications shall be based on a rigorous
+application of the admissibility criteria and duly justified.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">2.
+ Working Group on Situations:  composition, mandate and powers</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">96.	Each Regional Group shall
+appoint a representative of a member State of the Council, with due
+consideration to gender balance, to serve on the Working Group on
+Situations. Members shall be appointed for one year. Their mandate
+may be renewed once, if the State concerned is a member of the
+Council.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">97.	Members of the Working
+Group on Situations shall serve in their personal capacity. In order
+to fill a vacancy, the </font><font size="2" style="font-size: 10pt">respective</font><font size="2" style="font-size: 10pt">
+Regional Group </font><font size="2" style="font-size: 10pt">to which
+the vacancy belongs, shall</font><font size="2" style="font-size: 10pt">
+appoint a </font><font size="2" style="font-size: 10pt">representative
+from</font><font size="2" style="font-size: 10pt"> member States of
+the same Regional Group.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%; page-break-before: always">
+<font size="2" style="font-size: 10pt">98.	The Working Group on
+Situations is requested, on the basis of the information and
+recommendations provided by the Working Group on Communications, to
+present the Council with a report on consistent patterns of gross and
+reliably attested violations of human rights and fundamental freedoms
+and to make recommendations to the Council on the course of action to
+take, normally in the form of a draft resolution or decision with
+respect to the situations referred to it. When the Working Group on
+Situations requires further consideration or additional information,
+its members may keep a case under review until its next session. The
+Working Group on Situations may also decide to dismiss a case.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">99.	All decisions of the
+Working Group on Situations shall be duly justified and indicate why
+the consideration of a situation has been discontinued or action
+recommended thereon. Decisions to discontinue should be taken by
+consensus; if that is not possible, by simple majority of the votes.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">D.
+ </font><font size="2" style="font-size: 10pt">Working modalities and
+confidentiality</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">100.	Since the complaint
+procedure is to be, inter alia, victims-oriented and conducted in a
+confidential and timely manner, both Working Groups shall meet at
+least twice a year for five working days each session, in order to
+promptly examine the communications received, including replies
+of&nbsp;States thereon, and the situations of which the Council is
+already seized under the complaint procedure.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">101.	The State concerned shall
+cooperate with the complaint procedure and make every effort to
+provide substantive replies in one of the United Nations official
+languages to any of the requests of the Working Groups or the
+Council. The State concerned shall also make every effort to provide
+a reply not later than three months after the request has been made.
+If necessary, this deadline may however be extended at the request of
+the State concerned.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">102.	The Secretariat is
+requested to make the confidential files available to all members of
+the Council, at least two weeks in advance, so as to allow sufficient
+time for the consideration of the files.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">103.	The Council shall
+consider consistent patterns of gross and reliably attested
+violations of human rights and fundamental freedoms brought to its
+attention by the Working Group on Situations as frequently as needed,
+but at least once a year.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">104.	The reports of the
+Working Group on Situations referred to the Council shall be examined
+in a confidential manner, unless the Council decides otherwise. When
+the Working Group on Situations recommends to the Council that it
+consider a situation in a public meeting, in particular in the case
+of manifest and unequivocal lack of cooperation, the Council shall
+consider such recommendation on a priority basis at its next session.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">105.	So as to ensure that the
+complaint procedure is victims-oriented, efficient and conducted in a
+timely manner, the period of time between the transmission of the
+complaint to the State concerned and consideration by the Council
+shall not, in principle, exceed 24 months.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">E.
+ Involvement of the complainant and of the State concerned</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">106.	The complaint procedure
+shall ensure that both the author of a communication and the State
+concerned are informed of the proceedings at the following key
+stages:</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>a</i></font><font size="2" style="font-size: 10pt">)	When
+a communication is deemed inadmissible by the Working Group on
+Communications or when it is taken up for consideration by the
+Working Group on Situations; or when a communication is kept pending
+by one of the Working Groups or by the Council;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>b</i></font><font size="2" style="font-size: 10pt">)	At
+the final outcome.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">107.	In addition, the
+complainant shall be informed when his/her communication is
+registered by the complaint procedure.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">108.	Should the complainant
+request that his/her identity be kept confidential, it will not be
+transmitted to the State concerned.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">F.
+ Measures</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">109.	In accordance with
+established practice the action taken in respect of a particular
+situation should be one of the following options:</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>a</i></font><font size="2" style="font-size: 10pt">)	To
+discontinue considering the situation when further consideration or
+action is not warranted;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>b</i></font><font size="2" style="font-size: 10pt">)	To
+keep the situation under review and request the State concerned to
+provide further information within a reasonable period of time;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>c</i></font><font size="2" style="font-size: 10pt">)	To
+keep the situation under review and appoint an independent and highly
+qualified expert to monitor the situation and report back to the
+Council;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>d</i></font><font size="2" style="font-size: 10pt">)	To
+discontinue reviewing the matter under the confidential complaint
+procedure in order to take up public consideration of the same;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>e</i></font><font size="2" style="font-size: 10pt">)	To
+recommend to OHCHR to provide technical cooperation,
+capacity&#8209;building assistance or advisory services to the State
+concerned.</font></p>
+<h1 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">V.
+ AGENDA AND FRAMEWORK FOR THE PROGRAMME OF WORK</font></h1>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">A.
+ Principles</font></h2>
+<p lang="en-GB" class="western" style="margin-left: 0.39in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Universality</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.39in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Impartiality</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.39in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Objectivity</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.39in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Non-selectiveness</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.39in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Constructive dialogue and
+cooperation</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.39in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Predictability</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.39in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Flexibility</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.39in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Transparency</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.39in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Accountability</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.39in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Balance</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.39in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Inclusive/comprehensive</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.39in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Gender perspective</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.39in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Implementation and follow-up
+of decisions</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">B.
+ Agenda</font></h2>
+<p lang="en-GB" style="margin-left: 0.59in; text-indent: -0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Item 1.	Organizational and
+procedural matters</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; text-indent: -0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Item 2.	</font><font size="2" style="font-size: 10pt">Annual</font><font size="2" style="font-size: 10pt">
+report of the United Nations High Commissioner for Human Rights and
+reports of the Office of the High Commissioner and the
+Secretary&#8209;General</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; text-indent: -0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Item 3.	</font><font size="2" style="font-size: 10pt">Promotion</font><font size="2" style="font-size: 10pt">
+and protection of all human rights, </font><font size="2" style="font-size: 10pt">civil,
+political, economic, social and cultural rights, including the right
+to development</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; text-indent: -0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Item 4.	Human rights
+situations that require the Council’s attention</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; text-indent: -0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Item 5.	Human rights bodies
+and mechanisms</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; text-indent: -0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Item 6.	Universal Periodic
+Review</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; text-indent: -0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Item 7.	Human rights situation
+in Palestine and other occupied Arab territories</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; text-indent: -0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Item 8.	</font><font size="2" style="font-size: 10pt">Follow-up
+and implementation of the Vienna Declaration and Programme of Action</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; text-indent: -0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Item 9.	</font><font size="2" style="font-size: 10pt">Racism,
+racial discrimination, xenophobia and related forms of intolerance,
+follow&#8209;up and implementation of the Durban Declaration and
+Programme of Action</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; text-indent: -0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Item 10.	Technical assistance
+and capacity&#8209;building</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">C.
+ Framework for the programme of work</font></h2>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; text-indent: -0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Item 1.	Organizational and
+procedural matters</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Election of the Bureau</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Adoption of the annual
+programme of work</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Adoption of the programme of
+work of the session, including other business</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Selection and appointment of
+mandate-holders</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Election of members of the
+Human Rights Council Advisory Committee</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Adoption of the report of the
+session</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Adoption of the annual report</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; text-indent: -0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Item 2</font><font size="2" style="font-size: 10pt">.</font><font size="2" style="font-size: 10pt">	</font><font size="2" style="font-size: 10pt">Annual</font><font size="2" style="font-size: 10pt">
+report of the United Nations High Commissioner for Human Rights and
+reports of the Office of the High Commissioner and the
+Secretary&#8209;General</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Presentation of the annual
+report and updates</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; text-indent: -0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Item 3.	</font><font size="2" style="font-size: 10pt">Promotion</font><font size="2" style="font-size: 10pt">
+and protection of all human rights, civil, political, economic,
+social and </font><font size="2" style="font-size: 10pt">cultural
+rights, including the right to development</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Economic, social and cultural
+rights</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Civil and political rights</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Rights of peoples, and
+specific groups and individuals</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Right to development</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Interrelation of human rights
+and human rights thematic issues</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; text-indent: -0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Item 4.	Human rights
+situations that require the Council’s attention</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; text-indent: -0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Item 5.	Human rights bodies
+and mechanisms</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Report of the Human Rights
+Council Advisory Committee</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Report of the complaint
+procedure</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; text-indent: -0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Item 6.	Universal Periodic
+Review</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; text-indent: -0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Item 7.	Human rights situation
+in Palestine and other occupied Arab territories</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Human rights violations and
+implications of the Israeli occupation of Palestine and other
+occupied Arab territories</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Right to self-determination of
+the Palestinian people</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; text-indent: -0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Item 8.	Follow-up and
+implementation of the Vienna Declaration and Programme of Action</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; text-indent: -0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Item 9.	Racism, racial
+discrimination, xenophobia and related forms of intolerance,
+follow&#8209;up and implementation of the Durban Declaration and
+Programme of Action</font></p>
+<p lang="en-GB" class="western" style="margin-left: 0.59in; text-indent: -0.59in; margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Item 10.	Technical assistance
+and capacity-building</font></p>
+<h1 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">VI.
+ METHODS OF WORK</font></h1>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">110.	The methods of work,
+pursuant to General Assembly resolution 60/251 should be transparent,
+impartial, equitable, fair, pragmatic; lead to clarity,
+predictability, and inclusiveness. They may also be updated and
+adjusted over time.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">A.
+ Institutional arrangements</font></h2>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">1.
+ Briefings on prospective resolutions or decisions</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">111.	The briefings on
+prospective resolutions or decisions would be informative only,
+whereby delegations would be apprised of resolutions and/or decisions
+tabled or intended to be tabled. These briefings will be organized by
+interested delegations.</font></p>
+<h2 lang="en-GB" class="western" align="left" style="margin-left: 1.99in; text-indent: -0.32in">
+<font size="2" style="font-size: 10pt">2.	President’s open-ended
+information meetings on<br>resolutions, decisions and other related
+business</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">112.	The President’s
+open-ended information meetings on resolutions, decisions and other
+related business shall provide information on the status of
+negotiations on draft resolutions and/or&nbsp;decisions so that
+delegations may gain a bird’s eye view of the status of such
+drafts. The consultations shall have a purely informational function,
+combined with information on the&nbsp;extranet, and be held in a
+transparent and inclusive manner. They shall not serve as a
+negotiating forum.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">3.
+ Informal consultations on proposals convened by main sponsors</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">113.	Informal consultations
+shall be the primary means for the negotiation of draft resolutions
+and/or decisions, and their convening shall be the responsibility of
+the sponsor(s). At least one informal open-ended consultation should
+be held on each draft resolution and/or decision before it is
+considered for action by the Council. Consultations should, as much
+as possible, be scheduled in a timely, transparent and inclusive
+manner that takes into account the constraints faced by delegations,
+particularly smaller ones.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">4.
+ Role of the Bureau</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">114.	The Bureau shall deal
+with procedural and organizational matters. The Bureau shall
+regularly communicate the contents of its meetings through a timely
+summary report.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">5.
+ Other work formats may include panel debates, seminars and round
+tables</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">115.	Utilization of these
+other work formats, including topics and modalities, would be decided
+by the Council on a case-by-case basis. They may serve as tools of
+the Council for enhancing dialogue and mutual understanding on
+certain issues. They should be utilized in the context of the
+Council’s agenda and annual programme of work, and reinforce and/or
+complement its intergovernmental nature. They shall not be used to
+substitute or replace existing human rights mechanisms and
+established methods of work.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">6.
+ High-Level Segment</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">116.	The High-Level Segment
+shall be held once a year during the main session of the Council. It
+shall be followed by a general segment wherein delegations that did
+not participate in the High-Level Segment may deliver general
+statements.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">B.
+ Working culture</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">117.	There is a need for:</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>a</i></font><font size="2" style="font-size: 10pt">)	Early
+notification of proposals;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>b</i></font><font size="2" style="font-size: 10pt">)	Early
+submission of draft resolutions and decisions, preferably by the end
+of the penultimate week of a session;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>c</i></font><font size="2" style="font-size: 10pt">)	Early
+distribution of all reports, particularly those of special
+procedures, to be transmitted to delegations in a timely fashion, at
+least 15 days in advance of their consideration by the Council, and
+in all official United Nations languages;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>d</i></font><font size="2" style="font-size: 10pt">)	Proposers
+of a country resolution to have the responsibility to secure the
+broadest possible support for their initiatives (preferably 15
+members), before action is taken;</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(</font><font size="2" style="font-size: 10pt"><i>e</i></font><font size="2" style="font-size: 10pt">)	Restraint
+in resorting to resolutions, in order to avoid proliferation of
+resolutions without prejudice to the right of States to decide on the
+periodicity of presenting their draft proposals by:</font></p>
+<ol type="i">
+	<li/>
+<p lang="en-GB" style="margin-bottom: 0.17in; line-height: 100%">
+	<font size="2" style="font-size: 10pt">Minimizing unnecessary
+	duplication of initiatives with the General&nbsp;Assembly/Third
+	Committee;</font></p>
+	<li/>
+<p lang="en-GB" style="margin-bottom: 0.17in; line-height: 100%">
+	<font size="2" style="font-size: 10pt">Clustering of agenda items;</font></p>
+	<li/>
+<p lang="en-GB" style="margin-bottom: 0.17in; line-height: 100%">
+	<font size="2" style="font-size: 10pt">Staggering the tabling of
+	decisions and/or resolutions and consideration of action on agenda
+	items/issues.</font></p>
+</ol>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">C.
+ Outcomes other than resolutions and decisions</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">118.	These may include
+recommendations, conclusions, summaries of discussions and
+President’s Statement. As such outcomes would have different legal
+implications, they should supplement and not replace resolutions and
+decisions.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">D.
+ Special sessions of the Council</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">119.	The following provisions
+shall complement the general framework provided by General&nbsp;Assembly
+resolution&nbsp;60/251 and the rules of procedure of the Human Rights
+Council.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">120.	The rules of procedure of
+special sessions shall be in accordance with the rules of procedure
+applicable for regular sessions of the Council.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">121.	The request for the
+holding of a special session, in accordance with the requirement
+established in paragraph&nbsp;10 of General Assembly resolution
+60/251, shall be submitted to the President and to the secretariat of
+the Council. The request shall specify the item proposed for
+consideration and include any other relevant information the sponsors
+may wish to provide.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">122.	The special session shall
+be convened as soon as possible after the formal request is
+communicated, but, in principle, not earlier than two working days,
+and not later than five working days after the formal receipt of the
+request. The duration of the special session shall not exceed
+three&nbsp;days (six working sessions), unless the Council decides
+otherwise.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<br/>
+<br/>
+
+</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">123.	The secretariat of the
+Council shall immediately communicate the request for the holding of
+a special session and any additional information provided by the
+sponsors in the request, as well as the date for the convening of the
+special session, to all United Nations Member States and make the
+information available to the specialized agencies, other
+intergovernmental organizations and national human rights
+institutions, as well as to non-governmental organizations in
+consultative status by the most expedient and expeditious means of
+communication. Special session documentation, in particular draft
+resolutions and decisions, should be made available in all official
+United&nbsp;Nations languages to all States in an equitable, timely
+and transparent manner.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">124.	The President of the
+Council should hold open-ended informative consultations before the
+special session on its conduct and organization. In this regard, the
+secretariat may also be requested to provide additional information,
+including, on the methods of work of previous special sessions.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">125.	Members of the Council,
+concerned States, observer States, specialized agencies,
+other&nbsp;intergovernmental organizations and national human rights
+institutions, as well as non&#8209;governmental organizations in
+consultative status may contribute to the special session in
+accordance with the rules of procedure of the Council.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">126.	If the requesting or
+other States intend to present draft resolutions or decisions at the
+special session, texts should be made available in accordance with
+the Council’s relevant rules of procedure. Nevertheless, sponsors
+are urged to present such texts as early as possible.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">127.	The sponsors of a draft
+resolution or decision should hold open-ended consultations on the
+text of their draft resolution(s) or decision(s) with a view to
+achieving the widest participation in their consideration and, if
+possible, achieving consensus on them.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">128.	A special session should
+allow participatory debate, be results-oriented and geared to
+achieving practical outcomes, the implementation of which can be
+monitored and reported on at the following regular session of the
+Council for possible follow-up decision.</font></p>
+<p lang="en-GB" class="western" align="center" style="margin-bottom: 0.17in; line-height: 100%; page-break-after: avoid">
+<span style="text-transform: uppercase"><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt"><b><font size="2" style="font-size: 10pt">VII.
+ RULES OF procedure</font></b></font></font></span><sup><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt"><b><a class="sdfootnoteanc" name="sdfootnote6anc" href="#sdfootnote6sym" sdfixed><sup>e</sup></a></b></font></font></sup></p>
+<h1 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">SESSIONS</font></h1>
+<h4 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Rules
+of procedure</font></h4>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Rule
+1</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	The Human Rights Council
+shall apply the rules of procedure established for the Main
+Committees of the General Assembly, as applicable, unless
+subsequently otherwise decided by the Assembly or the Council.</font></p>
+<h1 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">REGULAR
+SESSIONS</font></h1>
+<h4 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Number
+of sessions</font></h4>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Rule
+2</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	</font><font size="2" style="font-size: 10pt">The
+Human Rights Council shall meet regularly throughout the year and
+schedule no fewer than three&nbsp;sessions per Council year,
+including a main session, for a total duration of no less than 10
+weeks.</font></p>
+<h4 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Assumption
+of membership</font></h4>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Rule
+3</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	Newly-elected member States
+of the Human Rights Council shall assume their membership on the
+first day of the Council year, replacing member States that have
+concluded their respective membership terms.</font></p>
+<h4 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Place
+of meeting</font></h4>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Rule
+4</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	</font><font size="2" style="font-size: 10pt">The
+Human Rights Council shall be based in Geneva.</font></p>
+<h1 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">SPECIAL
+SESSIONS</font></h1>
+<h4 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Convening
+of special sessions</font></h4>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Rule
+5</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	The rules of procedure of
+special sessions of the Human Rights Council will be the same as the
+rules of procedure applicable for regular sessions of the Human
+Rights Council.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Rule
+6</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	The Human Rights Council
+shall hold special sessions, when needed, at the request of a member
+of the Council with the support of one third of the membership of the
+Council.</font></p>
+<h1 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">PARTICIPATION
+OF AND CONSULTATION WITH<br>OBSERVERS OF THE COUNCIL</font></h1>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Rule
+7</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(a)	The Council shall apply
+the rules of procedure established for committees of the General
+Assembly, as applicable, unless subsequently otherwise decided by the
+Assembly or the Council, and the participation of and consultation
+with observers, including States that are not members of the Council,
+the specialized agencies, other intergovernmental organizations and
+national human rights institutions, as well as non-governmental
+organizations, shall be based on arrangements, including Economic and
+Social Council resolution 1996/31 of 25 July 1996, and practices
+observed by the Commission on Human Rights, while ensuring the most
+effective contribution of these entities.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(b)	Participation of national
+human rights institutions shall be based on arrangements and
+practices agreed upon by the Commission on Human Rights, including
+resolution 2005/74 of 20 April 2005, while ensuring the most
+effective contribution of these entities.</font></p>
+<h1 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">ORGANIZATION
+OF WORK AND AGENDA FOR REGULAR SESSIONS</font></h1>
+<h4 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Organizational
+meetings</font></h4>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Rule
+8</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(a)	At the beginning of each
+Council year, the Council shall hold an organizational meeting to
+elect its Bureau and to consider and adopt the agenda, programme of
+work, and calendar of regular sessions for the Council year
+indicating, if possible, a target date for the conclusion of its
+work, the approximate dates of consideration of items and the number
+of meetings to be allocated to each item.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(b)	The President of the
+Council shall also convene organizational meetings two weeks before
+the beginning of each session and, if necessary, during the Council
+sessions to discuss organizational and procedural issues pertinent to
+that session. </font>
+</p>
+<h1 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">PRESIDENT
+AND VICE-PRESIDENTS</font></h1>
+<h4 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Elections</font></h4>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Rule
+9</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(a)	At the beginning of each
+Council year, at its organizational meeting, the Council shall elect,
+from among the representatives of its members, a President and four
+Vice-Presidents. The President and the Vice&#8209;Presidents shall
+constitute the Bureau. One of the Vice-Presidents shall serve as
+Rapporteur.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	(b)	In the election of the
+President of the Council, regard shall be had for the equitable
+geographical rotation of this office among the following Regional
+Groups: African States, Asian&nbsp;States, Eastern European States,
+Latin American and Caribbean States, and Western&nbsp;European and
+other States. The four Vice-Presidents of the Council shall be
+elected on the basis of equitable geographical distribution from the
+Regional Groups other than the one to which the President belongs.
+The selection of the Rapporteur shall be based on geographic
+rotation.</font></p>
+<h4 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Bureau</font></h4>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Rule
+10</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	The Bureau shall deal with
+procedural and organizational matters.</font></p>
+<h4 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Term
+of office</font></h4>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Rule
+11</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	The President and the
+Vice-Presidents shall, subject to rule 13, hold office for a period
+of one year. They shall not be eligible for immediate re-election to
+the same post.</font></p>
+<h4 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Absence
+of officers</font></h4>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Rule
+12 [105]</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	If the President finds it
+necessary to be absent during a meeting or any part thereof, he/she
+shall designate one of the Vice-Presidents to take his/her place. A
+Vice-President acting as President shall have the same powers and
+duties as the President. If the President ceases to hold office
+pursuant to rule 13, the remaining members of the Bureau shall
+designate one of the Vice&#8209;Presidents to take his/her place
+until the election of a new President.</font></p>
+<h4 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Replacement
+of the President or a Vice-President</font></h4>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Rule
+13</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	If the President or any
+Vice-President ceases to be able to carry out his/her functions or
+ceases to be a representative of a member of the Council, or if the
+Member of the United Nations of which he/she is a representative
+ceases to be a member of the Council, he/she shall cease to hold such
+office and a new President or Vice-President shall be elected for the
+unexpired term.</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%; page-break-before: always">
+<br/>
+<br/>
+
+</p>
+<h1 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">SECRETARIAT</font></h1>
+<h4 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Duties
+of the secretariat</font></h4>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Rule
+14 [47]</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	The Office of the United
+Nations High Commissioner for Human Rights shall act as secretariat
+for the Council. In this regard, it shall receive, translate, print
+and circulate in all official United Nations languages, documents,
+reports and resolutions of the Council, its committees and its
+organs; interpret speeches made at the meetings; prepare, print and
+circulate the records of the session; have the custody and proper
+preservation of the documents in the archives of the Council;
+distribute all documents of the Council to the members of the Council
+and observers and, generally, perform all other support functions
+which the Council may require.</font></p>
+<h1 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">RECORDS
+AND REPORT</font></h1>
+<h4 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Report
+to the General Assembly</font></h4>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Rule
+15</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	The Council shall submit an
+annual report to the General Assembly.</font></p>
+<h1 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">PUBLIC
+AND PRIVATE </font><span style="font-variant: normal"><font size="2" style="font-size: 10pt">MEETINGS</font></span><font size="2" style="font-size: 10pt">
+OF THE HUMAN RIGHTS COUNCIL</font></h1>
+<h4 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">General
+principles</font></h4>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Rule
+16 [60]</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	The meetings of the Council
+shall be held in public unless the Council decides that exceptional
+circumstances require the meeting be held in private.</font></p>
+<h4 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Private
+meetings</font></h4>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Rule
+17 [61]</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	All decisions of the Council
+taken at a private meeting shall be announced at an early public
+meeting of the Council.</font></p>
+<h1 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">CONDUCT
+OF BUSINESS</font></h1>
+<h4 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Working
+groups and other arrangements</font></h4>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Rule
+18</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	The Council may set up
+working groups and other arrangements. Participation in these bodies
+shall be decided upon by the members, based on rule 7. The rules of
+procedure of these bodies shall follow those of the Council, as
+applicable, unless decided otherwise by the Council.</font></p>
+<h4 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Quorum</font></h4>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Rule
+19 [67]</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	The President may declare a
+meeting open and permit the debate to proceed when at least one third
+of the members of the Council are present. The presence of a majority
+of the members shall be required for any decision to be taken.</font></p>
+<h4 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Majority
+required</font></h4>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Rule
+20 [125]</font></h2>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">	Decisions of the Council
+shall be made by a simple majority of the members present and voting,
+subject to rule 19.</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Appendix
+I</font></h2>
+<h1 lang="en-GB" class="western" align="left" style="margin-left: 1.02in">
+<font size="2" style="font-size: 10pt">Renewed mandates until they
+could be considered<br>by the Human Rights Council according to
+its<br>	Annual Programme of Work</font></h1>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Independent expert appointed
+by the Secretary-General on the situation of human rights in Haiti</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Independent expert appointed
+by the Secretary-General on the situation of human rights in Somalia</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Independent expert on the
+situation of human rights in Burundi</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Independent expert on
+technical cooperation and advisory services in Liberia</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Independent expert on the
+situation of human rights in the Democratic Republic of the Congo</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Independent expert on human
+rights and international solidarity</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Independent expert on minority
+issues</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Independent expert on the
+effects of economic reform policies and foreign debt on the full
+enjoyment of all human rights, particularly economic, social and
+cultural rights</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Independent expert on the
+question of human rights and extreme poverty</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Special Rapporteur on the
+situation of human rights in the Sudan</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Special Rapporteur on the
+situation of human rights in Myanmar</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Special Rapporteur on the
+situation of human rights in the Democratic People’s Republic of
+Korea</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Special Rapporteur on the
+situation of human rights in the Palestinian territories occupied
+since 1967 (The duration of this mandate has been established until
+the end of the occupation.)</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Special Rapporteur on adequate
+housing as a component of the right to an adequate standard of living</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Special Rapporteur on
+contemporary forms of racism, racial discrimination, xenophobia and
+related intolerance</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Special Rapporteur on
+extrajudicial, summary or arbitrary executions</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Special Rapporteur on freedom
+of religion or belief</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Special Rapporteur on the
+adverse effects of the illicit movement and dumping of toxic and
+dangerous products and wastes on the enjoyment of human rights</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Special Rapporteur on the
+human rights aspects of the victims of trafficking in persons,
+especially women and children</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Special Rapporteur on the
+human rights of migrants</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Special Rapporteur on the
+independence of judges and lawyers</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Special Rapporteur on the
+promotion and protection of human rights and fundamental freedoms
+while countering terrorism</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Special Rapporteur on the
+promotion and protection of the right to freedom of opinion and
+expression</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Special Rapporteur on the
+right of everyone to the enjoyment of the highest attainable standard
+of physical and mental health</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Special Rapporteur on the
+right to education</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Special Rapporteur on the
+right to food</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Special Rapporteur on the sale
+of children, child prostitution and child pornography</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Special Rapporteur on the
+situation of human rights and fundamental freedoms of indigenous
+people</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Special Rapporteur on torture
+and other cruel, inhuman or degrading treatment or punishment</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Special Rapporteur on violence
+against women, its causes and consequences</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Special Representative of the
+Secretary-General on the issue of human rights and transnational
+corporations and other business enterprises</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Special Representative of the
+Secretary-General for human rights in Cambodia</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Special Representative of the
+Secretary-General on the situation of human rights defenders</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Representative of the
+Secretary-General on human rights of internally displaced persons</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Working Group of Experts on
+People of African Descent</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Working Group on Arbitrary
+Detention</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Working Group on Enforced or
+Involuntary Disappearances</font></p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<font size="2" style="font-size: 10pt">Working Group on the question
+of the use of mercenaries as a means of violating human rights and
+impeding the exercise of the right of peoples to self-determination</font></p>
+<h2 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Appendix
+II</font></h2>
+<h1 lang="en-GB" class="western"><font size="2" style="font-size: 10pt">terms
+in office of mandate-holders</font></h1>
+<table width="624" cellpadding="7" cellspacing="0">
+	<col width="213">
+	<col width="260">
+	<col width="109">
+	<thead>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt"><b>Mandate-holder</b></font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt"><b>Mandate</b></font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt"><b>Terms
+				in office</b></font></p>
+			</td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Charlotte
+				Abaka</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Independent
+				Expert on the situation<br>of human rights in Liberia</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">July
+				2006<br>(first term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Yakin
+				Ertürk</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Special
+				Rapporteur on violence against women, its causes and consequences</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">July
+				2006<br>(first term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Manuela
+				Carmena Castrillo</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Working
+				Group on Arbitrary Detention</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">July
+				2006<br>(first term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Joel
+				Adebayo Adekanye</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Working
+				Group on Enforced or Involuntary Disappearances</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">July
+				2006<br>(second term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Saeed
+				Rajaee Khorasani </font>
+				</p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Working
+				Group on Enforced or Involuntary Disappearances</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">July
+				2006<br>(first term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Joe
+				Frans </font>
+				</p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Working
+				Group on people of African descent</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">July
+				2006<br>(first term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Leandro
+				Despouy</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Special
+				Rapporteur on the independence of judges and lawyers</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">August
+				2006<br>(first term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Hina
+				Jilani</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Special
+				Representative of the Secretary-General on the situation of human
+				rights defenders</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">August
+				2006<br>(second term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Soledad
+				Villagra de Biedermann</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Working
+				Group on Arbitrary Detention</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">August
+				2006<br>(second term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Miloon
+				Kothari</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Special
+				Rapporteur on adequate housing as a component of the right to an
+				adequate standard of living</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">September
+				2006<br>(second term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Jean
+				Ziegler</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Special
+				Rapporteur on the right to food</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">September
+				2006<br>(second term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Paulo
+				Sérgio Pinheiro</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Special
+				Rapporteur on the situation of human rights in Myanmar</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">December
+				2006<br>(second term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Darko
+				Göttlicher</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Working
+				Group on Enforced or Involuntary Disappearances</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">January
+				2007<br>(first term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Tamás
+				Bán</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Working
+				Group on Arbitrary Detention</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">April
+				2007<br>(second term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Ghanim
+				Alnajjar</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Independent
+				Expert appointed by the Secretary&#8209;General on the situation
+				of human rights in Somalia</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">May
+				2007 <br>(second term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">John
+				Dugard</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Special
+				Rapporteur on the situation of human rights in the Palestinian
+				territories occupied since 1967</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">June
+				2007<br>(second term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Rodolfo
+				Stavenhagen</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Special
+				Rapporteur on the situation of human rights and fundamental
+				freedoms of indigenous people </font>
+				</p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">June
+				2007<br>(second term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Arjun
+				Sengupta</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Independent
+				Expert on the question of human rights and extreme poverty</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">July
+				2007<br>(first term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Akich
+				Okola</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Independent
+				Expert on the situation of human rights in Burundi</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">July
+				2007<br>(first term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Titinga
+				Frédéric Pacéré</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Independent
+				Expert on the situation of human rights in the Democratic
+				Republic of the Congo</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">July
+				2007<br>(first term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Philip
+				Alston</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Special
+				Rapporteur on extrajudicial, summary or arbitrary executions</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">July
+				2007<br>(first term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Asma
+				Jahangir</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Special
+				Rapporteur on freedom of religion or belief</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">July
+				2007<br>(first term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Okechukwu
+				Ibeanu</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Special
+				Rapporteur on the adverse effects of the illicit movement and
+				dumping of toxic and dangerous products and wastes on the
+				enjoyment of human rights</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">July
+				2007<br>(first term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Vernor
+				Muñoz Villalobos</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Special
+				Rapporteur on the right to education</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">July
+				2007<br>(first term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><br/>
+
+				</p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><br/>
+
+				</p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><br/>
+
+				</p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Juan
+				Miguel Petit</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Special
+				Rapporteur on the sale of children, child prostitution and child
+				pornography</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">July
+				2007<br>(second term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Vitit
+				Muntarbhorn</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Special
+				Rapporteur on the situation of<br>human rights in the Democratic
+				People’s Republic of Korea</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">July
+				2007<br>(first term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Leila
+				Zerrougui</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Working
+				Group on Arbitrary Detention</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">August
+				2007<br>(second term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Santiago
+				Corcuera Cabezut</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Working
+				Group on Enforced or Involuntary Disappearances</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">August
+				2007<br>(first term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Walter
+				Kälin</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Representative
+				of the Secretary&#8209;General on the human rights of internally
+				displaced persons</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">September
+				2007<br>(first term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Sigma
+				Huda</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Special
+				Rapporteur on trafficking in persons, especially in women and
+				children</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">October
+				2007<br>(first term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Bernards
+				Andrew Nyamwaya Mudho</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Independent
+				Expert on the effects of economic reform policies and foreign
+				debt on the full enjoyment of human rights, particularly
+				economic, social and cultural rights</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">November
+				2007<br>(second term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Manfred
+				Nowak</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Special
+				Rapporteur on torture and other cruel, inhuman or degrading
+				treatment or punishment</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">November
+				2007<br>(first term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Louis
+				Joinet</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Independent
+				Expert appointed by the Secretary&#8209;General on the situation
+				of human rights in Haiti</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">February
+				2008 (second term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Rudi
+				Muhammad Rizki</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Independent
+				Expert on human rights and international solidarity</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">July
+				2008<br>(first term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Gay
+				McDougall</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Independent
+				Expert on minority issues</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">July
+				2008<br>(first term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Doudou
+				Diène</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Special
+				Rapporteur on contemporary forms of racism, racial
+				discrimination, xenophobia and related intolerance</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">July
+				2008<br>(second term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Jorge
+				A. Bustamante</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Special
+				Rapporteur on the human rights of migrants</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">July
+				2008<br>(first term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Martin
+				Scheinin</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Special
+				Rapporteur on the promotion and protection of human rights while
+				countering terrorism</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">July
+				2008<br>(first term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Sima
+				Samar</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Special
+				Rapporteur on the situation of human rights in the Sudan</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">July
+				2008<br>(first term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><br/>
+
+				</p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><br/>
+
+				</p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><br/>
+
+				</p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">John
+				Ruggie</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Special
+				Representative of the Secretary&#8209;General on human rights and
+				transnational corporations and other business enterprises</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">July
+				2008<br>(first term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Seyyed
+				Mohammad Hashemi</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Working
+				Group on Arbitrary Detention</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">July
+				2008<br>(second term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Najat
+				Al-Hajjaji</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Working
+				Group on the use of mercenaries as a means of impeding the
+				exercise of the right of peoples to self-determination</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">July
+				2008<br>(first term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Amada
+				Benavides de Pérez</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Working
+				Group on the use of mercenaries as a means of impeding the
+				exercise of the right of peoples to self-determination</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">July
+				2008<br>(first term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Alexander
+				Ivanovich Nikitin</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Working
+				Group on the use of mercenaries as a means of impeding the
+				exercise of the right of peoples to self-determination</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">July
+				2008<br>(first term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Shaista
+				Shameem</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Working
+				Group on the use of mercenaries as a means of impeding the
+				exercise of the right of peoples to self-determination</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">July
+				2007<br>(first term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Ambeyi
+				Ligabo</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Special
+				Rapporteur on the promotion and protection of the right to
+				freedom of opinion and expression</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">August
+				2008<br>(second term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Paul
+				Hunt</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Special
+				Rapporteur on the right of everyone to the enjoyment of the
+				highest attainable standard of physical and mental health</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">August
+				2008<br>(second term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Peter
+				Lesa Kasanda</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Working
+				Group on people of African descent</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">August
+				2008<br>(second term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Stephen
+				J. Toope</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Working
+				Group on Enforced or Involuntary Disappearances</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">September
+				2008<br>(second term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">George
+				N. Jabbour</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Working
+				Group on people of African descent</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">September
+				2008<br>(second term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Irina
+				Zlatescu</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Working
+				Group on people of African descent</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">October
+				2008<br>(second term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">José
+				Gómez del Prado</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Working
+				Group on the use of mercenaries as a means of impeding the
+				exercise of the right of peoples to self-determination</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">October
+				2008<br>(first term)</font></p>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td width="213" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Yash
+				Ghai</font></p>
+			</td>
+			<td width="260" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">Special
+				Representative of the Secretary-General for human rights in
+				Cambodia</font></p>
+			</td>
+			<td width="109" style="border: none; padding: 0in">
+				<p lang="en-GB" class="western"><font size="2" style="font-size: 10pt">November
+				2008<br>(first term)</font></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+<br/>
+<br/>
+
+</p>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%; page-break-before: always">
+<br/>
+<br/>
+
+</p>
+<div id="sdfootnote1">
+	<p lang="en-GB" class="sdfootnote-western"><a class="sdfootnotesym-western" name="sdfootnote1sym" href="#sdfootnote1anc">1</a><font size="2" style="font-size: 10pt">
+	 See A/HRC/5/21, chap. III, paras. 60-62. </font>
+	</p>
+</div>
+<div id="sdfootnote2">
+	<p lang="en-GB" class="sdfootnote-western"><a class="sdfootnotesym-western" name="sdfootnote2sym" href="#sdfootnote2anc">a</a>
+	 <font size="2" style="font-size: 10pt">The universal periodic
+	review is an evolving process; the Council, after the conclusion of
+	the first review cycle, may review the modalities and the
+	periodicity of this mechanism, based on best practices and lessons
+	learned.</font></p>
+</div>
+<div id="sdfootnote3">
+	<p lang="en-GB" class="sdfootnote-western"><a class="sdfootnotesym-western" name="sdfootnote3sym" href="#sdfootnote3anc">b</a>
+	 <font size="2" style="font-size: 10pt"><span lang="en-US">A
+	Universal Periodic Review Voluntary Trust Fund should be established
+	to facilitate the participation of developing countries,
+	particularly the Least Developed Countries, in the universal
+	periodic review mechanism.</span></font></p>
+</div>
+<div id="sdfootnote4">
+	<p lang="en-GB" class="sdfootnote-western"><a class="sdfootnotesym-western" name="sdfootnote4sym" href="#sdfootnote4anc">c</a>
+	 <font size="2" style="font-size: 10pt"><span lang="en-US">A
+	decision should be taken by the Council on whether to resort to
+	existing financing mechanisms or to create a new mechanism.</span></font></p>
+</div>
+<div id="sdfootnote5">
+	<p lang="en-GB" class="western" style="margin-bottom: 0.08in; line-height: 100%">
+	<a class="sdfootnotesym-western" name="sdfootnote5sym" href="#sdfootnote5anc">d</a><font size="2" style="font-size: 10pt">
+	 </font><font size="2" style="font-size: 10pt"><span lang="en-US">Country
+	mandates meet the following criteria:</span></font></p>
+	<ul>
+		<li/>
+<p class="western" style="margin-bottom: 0.08in; line-height: 100%">
+		<font size="2" style="font-size: 10pt">There is a pending mandate
+		of the Council to be accomplished; or </font>
+		</p>
+		<li/>
+<p class="western" style="margin-bottom: 0.08in; line-height: 100%">
+		<font size="2" style="font-size: 10pt">There is a pending mandate
+		of the General Assembly to be accomplished; or</font></p>
+		<li/>
+<p lang="en-GB" class="western" style="margin-bottom: 0.17in; line-height: 100%">
+		<font size="2" style="font-size: 10pt"><span lang="en-US">The
+		nature of the mandate is for advisory services and technical
+		assistance</span></font><font face="Arial Narrow, sans-serif"><font size="2" style="font-size: 10pt"><span lang="en-US">.</span></font></font></p>
+	</ul>
+</div>
+<div id="sdfootnote6">
+	<p lang="en-GB" class="sdfootnote-western"><a class="sdfootnotesym-western" name="sdfootnote6sym" href="#sdfootnote6anc">e</a><font size="2" style="font-size: 10pt">
+	 Figures indicated in square brackets refer to identical or
+	corresponding rules of the General&nbsp;Assembly or its Main
+	Committees (A/520/Rev.16).</font></p>
+</div>
+</body>
+</html>
