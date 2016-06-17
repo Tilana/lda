@@ -25,6 +25,7 @@ def TM_default():
 
     info.whiteList= Word2Vec().net.vocab.keys()
     info.stoplist = list(STOPWORDS) + utils.lowerList(names.words())
+
     # Dictionary #  
     info.analyseDictionary = 1
 
@@ -33,11 +34,11 @@ def TM_default():
 
     # LDA Model #
     info.modelType = 'LDA'  # 'LDA' 'LSI'
-    info.numberTopics = 36 
+    info.numberTopics = 18 
     info.tfidf = 0
-    info.passes = 271
+    info.passes = 372
     info.iterations = 1500 
-    info.online = 0 
+    info.online = 1 
     info.chunksize = 4100 
     info.multicore = 1
 
@@ -104,6 +105,8 @@ def TM_default():
         maxTopicCoverage.append(document.LDACoverage[0][1])
 
     ImagePlotter.plotHistogram(maxTopicCoverage, 'Maximal Topic Coverage', 'html/' + info.data+'_'+info.identifier+'/Images/maxTopicCoverage.jpg', 'Maximal LDA Coverage', 'Number of Docs', log=1)
+
+    collection.writeDocumentFeatureFile(info)
 
     print 'Create HTML Files'
     info.saveToFile()

@@ -3,6 +3,7 @@ import docLoader
 from Dictionary import Dictionary
 from Document import Document
 import sPickle
+import pandas as pd
 
 class Collection:
     
@@ -72,6 +73,40 @@ class Collection:
         for index, document in enumerate(self.documents):
             print index, document.title
             document.prepareDocument(lemmatize, includeEntities, stopwords, specialChars, removeShortTokens=True, threshold=threshold, whiteList = whiteList)
+
+    def writeDocumentFeatureFile(self, info):
+        properties = self.documents[0].__dict__.keys()
+        columnNamesTopic= self._createColumnNames('Topic', info.numberTopics)
+        columnNamesRelevantWords = self._createColumnNames('relevantWord', 3)
+        columnNamesSimilarDocs = self._createColumnNames('similiarDocs', 5)
+        
+        columns = ['File'] + columnNamesTopic + columnNamesSimilarDocs + columnNamesRelevantWords
+
+        hasTargetCategories = 'targetCategories' in properties
+        if hasTargetCategories:
+            columnNamesTarget = self._createColumnNames('targetCategory', 3) 
+            columns = columns + columnNamesTarget
+
+        dataframe = pd.DataFrame(index = range(0, self.number), columns = columns)
+
+        for ind, document in enumerate(self.documents):
+            coverageDictionary = dict(document.LDACoverage)
+            coverage = [coverageDictionary.get(nr, 0.0) for nr in range(0, info.numberTopics)]
+            similarity = [document.LDASimilarity[nr][0] for nr in range(1, 6)]
+            relevantWords = [document.freqWords[nr][0] for nr in range(0, 3) if len(document.freqWords)>=3]
+            values = [document.title] + coverage + similarity + relevantWords 
+
+            if hasTargetCategories:
+                values = values + document.targetCategories
+            values = values + ['nan'] * (len(columns) - len(values))
+            dataframe.loc[ind] = values
+
+        path = 'html/'+ info.data +'_' + info.identifier + '/DocumentFeatures.csv'
+        dataframe.to_csv(path)
+            
+
+    def _createColumnNames(self, title, number):
+        return [(title + '%d' % nr) for nr in range(1, number+1)]
 
     
     def createDocumentList(self, titles, texts):

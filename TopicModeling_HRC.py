@@ -32,17 +32,17 @@ def topicModeling_HRC():
     info.removeNames = 1
 
     # Dictionary #
-    info.analyseDictionary = 1
+    info.analyseDictionary = 0
                                                               
     info.lowerFilter = 5     # in number of documents
     info.upperFilter = 0.65  # in percent
 
     # LDA #
     info.modelType = 'LDA'  # 'LDA' 'LSI'
-    info.numberTopics = 10 
+    info.numberTopics = 15 
     info.tfidf = 0
-    info.passes = 10 
-    info.iterations = 1500 
+    info.passes = 450 
+    info.iterations = 1200 
     info.online = 1 
     info.chunksize = 4100                                        
     info.multicore = 1
@@ -99,10 +99,6 @@ def topicModeling_HRC():
     if tfidf:
         corpus = tfidf[corpus]
 
-#    for ind, document in enumerate(ctrl.collection):
-#        ctrl.computeVectorRepresentation(document)
-#        ctrl.computeFrequentWords(document)
-    
     print 'Topic Modeling - LDA'
     lda = Model(info)
     lda.createModel(corpus, dictionary.ids, info)
@@ -117,30 +113,21 @@ def topicModeling_HRC():
     print 'Similarity Analysis'
     lda.computeSimilarityMatrix(corpus, numFeatures=info.numberTopics, num_best = 7)
 
-    
-#    print 'Topic Modeling'
-#    ctrl.topicModel('LSI', numberTopics, ctrl.tfidf[ctrl.corpus], topicCoverage=True, relatedDocuments=True, word2vec=word2vec, categories=categories) 
-#    print 'Similarity Analysis'
-#    ctrl.similarityAnalysis('LSI', ctrl.tfidf[ctrl.corpus])
-#    ctrl.similarityAnalysis('LDA', ctrl.tfidf[ctrl.corpus])
     maxTopicCoverage = []
     for ind, document in enumerate(collection.documents):
         document.setTopicCoverage(topicCoverage[ind], lda.name)
         lda.computeSimilarity(document)
         collection.computeRelevantWords(tfidf, dictionary, document)
         maxTopicCoverage.append(document.LDACoverage[0][1])
-
-#        doc.name = doc.title.replace('_', '/')[:-5]
-
         keywordFrequency = utils.countOccurance(document.text, categories) 
         document.entities.addEntities('KEYWORDS', utils.sortTupleList(keywordFrequency))
         document.mostFrequentEntities = document.entities.getMostFrequent(5)
-
         targetCategories = df.getRow(assignedCategories, 'identifier', document.title, ['Topic 1', 'Topic2', 'Topic 3'])
         document.targetCategories = [category for category in targetCategories if not str(category) =='nan']
 
     ImagePlotter.plotHistogram(maxTopicCoverage, 'Maximal Topic Coverage', 'html/' + info.data+'_'+info.identifier+'/Images/maxTopicCoverage.jpg', 'Maximal LDA Coverage', 'Number of Docs', log=1)
-        
+
+    collection.writeDocumentFeatureFile(info)
 
     print 'Create HTML Files'
     info.saveToFile()
