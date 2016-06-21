@@ -9,7 +9,7 @@ import os.path
 from lda import ImagePlotter
 from lda import Word2Vec
 
-def TM_default():
+def topicModeling():
 
     #### PARAMETERS ####
     info = Info()
@@ -29,14 +29,14 @@ def TM_default():
     # Dictionary #  
     info.analyseDictionary = 1
 
-    info.lowerFilter = 10     # in number of documents
-    info.upperFilter = 0.30  # in percent
+    info.lowerFilter = 7     # in number of documents
+    info.upperFilter = 0.25  # in percent
 
     # LDA Model #
     info.modelType = 'LDA'  # 'LDA' 'LSI'
-    info.numberTopics = 18 
+    info.numberTopics = 23 
     info.tfidf = 0
-    info.passes = 372
+    info.passes = 455
     info.iterations = 1500 
     info.online = 1 
     info.chunksize = 4100 
@@ -105,17 +105,21 @@ def TM_default():
         maxTopicCoverage.append(document.LDACoverage[0][1])
 
     ImagePlotter.plotHistogram(maxTopicCoverage, 'Maximal Topic Coverage', 'html/' + info.data+'_'+info.identifier+'/Images/maxTopicCoverage.jpg', 'Maximal LDA Coverage', 'Number of Docs', log=1)
-
-    collection.writeDocumentFeatureFile(info)
-
+    
     print 'Create HTML Files'
-    info.saveToFile()
     html.printTopics(lda)
     html.htmlDictionary(dictionary)
     html.printDocuments(collection.documents, lda)# , openHtml=True)
     html.printDocsRelatedTopics(lda, collection.documents, openHtml=False)
     html.documentOverview(collection.documents)
+
+    info.selectedTopics = input('Select Topics: ')
+    collection.writeDocumentFeatureFile(info, info.selectedTopics)
+
+    info.saveToFile()
+
+   
    
 if __name__ == "__main__":
-    TM_default()
+    topicModeling()
 

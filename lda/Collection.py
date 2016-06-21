@@ -47,7 +47,6 @@ class Collection:
         self.entityCorpus = [sorted([(dictionary.getDictionaryId(entry[0]), entry[1]) for entry in document.entities.getEntities()]) for document in self.documents]
 
 
-
     def computeRelevantWords(self, tfidf, dictionary, document, N=10):
         docRepresentation = tfidf[document.vectorRepresentation]
         freqWords = sorted(docRepresentation, key=lambda frequency: frequency[1], reverse=True)[0:N]
@@ -74,39 +73,41 @@ class Collection:
             print index, document.title
             document.prepareDocument(lemmatize, includeEntities, stopwords, specialChars, removeShortTokens=True, threshold=threshold, whiteList = whiteList)
 
-    def writeDocumentFeatureFile(self, info):
-        properties = self.documents[0].__dict__.keys()
-        columnNamesTopic= self._createColumnNames('Topic', info.numberTopics)
-        columnNamesRelevantWords = self._createColumnNames('relevantWord', 3)
-        columnNamesSimilarDocs = self._createColumnNames('similiarDocs', 5)
-        
-        columns = ['File'] + columnNamesTopic + columnNamesSimilarDocs + columnNamesRelevantWords
-
-        hasTargetCategories = 'targetCategories' in properties
-        if hasTargetCategories:
-            columnNamesTarget = self._createColumnNames('targetCategory', 3) 
-            columns = columns + columnNamesTarget
-
+    def writeDocumentFeatureFile(self, info, topics):
+        columns = self._createColumns(topics)
         dataframe = pd.DataFrame(index = range(0, self.number), columns = columns)
-
         for ind, document in enumerate(self.documents):
             coverageDictionary = dict(document.LDACoverage)
-            coverage = [coverageDictionary.get(nr, 0.0) for nr in range(0, info.numberTopics)]
+            coverage = [coverageDictionary.get(nr, 0.0) for nr in topics]
             similarity = [document.LDASimilarity[nr][0] for nr in range(1, 6)]
             relevantWords = [document.freqWords[nr][0] for nr in range(0, 3) if len(document.freqWords)>=3]
             values = [document.title] + coverage + similarity + relevantWords 
-
-            if hasTargetCategories:
+            if hasattr(document, 'targetCategories'):
                 values = values + document.targetCategories
             values = values + ['nan'] * (len(columns) - len(values))
             dataframe.loc[ind] = values
-
         path = 'html/'+ info.data +'_' + info.identifier + '/DocumentFeatures.csv'
         dataframe.to_csv(path)
             
 
     def _createColumnNames(self, title, number):
         return [(title + '%d' % nr) for nr in range(1, number+1)]
+
+    def _createTopicNames(self, topics):
+        return [('Topic%d' % topicNr) for topicNr in topics]
+
+    def _createColumns(self, topics):
+        properties = self.documents[0].__dict__.keys()
+        columnNamesTopic = self._createTopicNames(topics)
+        # columnNamesTopic= self._createColumnNames('Topic', info.numberTopics)
+        columnNamesRelevantWords = self._createColumnNames('relevantWord', 3)
+        columnNamesSimilarDocs = self._createColumnNames('similarDocs', 5)
+        columns = ['File'] + columnNamesTopic + columnNamesSimilarDocs + columnNamesRelevantWords
+        hasTargetCategories = 'targetCategories' in properties
+        if hasTargetCategories:
+            columnNamesTarget = self._createColumnNames('targetCategory', 3) 
+            columns = columns + columnNamesTarget
+        return columns
 
     
     def createDocumentList(self, titles, texts):

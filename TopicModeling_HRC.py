@@ -127,15 +127,17 @@ def topicModeling_HRC():
 
     ImagePlotter.plotHistogram(maxTopicCoverage, 'Maximal Topic Coverage', 'html/' + info.data+'_'+info.identifier+'/Images/maxTopicCoverage.jpg', 'Maximal LDA Coverage', 'Number of Docs', log=1)
 
-    collection.writeDocumentFeatureFile(info)
-
     print 'Create HTML Files'
-    info.saveToFile()
     html.htmlDictionary(dictionary)
     html.printTopics(lda)
     html.printDocuments(collection.documents, lda)
     html.printDocsRelatedTopics(lda, collection.documents, openHtml=False)
     html.documentOverview(collection.documents)
+
+    info.selectedTopics = input('Select Topics: ')
+    collection.writeDocumentFeatureFile(info, info.selectedTopics)
+                                                                   
+    info.saveToFile()
    
 if __name__ == "__main__":
     topicModeling_HRC()
