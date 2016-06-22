@@ -7,4 +7,13 @@ def filterData(df, colname):
 def getIndex(df):
     return df.index.tolist()
 
+def tolist(df, column):
+    return df[column].values.tolist()
+
+def toListMultiColumns(df, columnList):
+    result = set() 
+    for col in columnList:
+        result.update(tolist(df, col))
+    return result
+
 

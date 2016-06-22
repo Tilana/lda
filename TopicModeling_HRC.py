@@ -58,6 +58,7 @@ def topicModeling_HRC():
     info.categories = word2vec.filterList(categories)
     
     assignedCategories = pandas.read_excel('Documents/HRC/hrc_topics.xlsx', 'Sheet1')
+    assignedCategories = assignedCategories.fillna('xx')  
     
     info.setup()
 
@@ -79,7 +80,11 @@ def topicModeling_HRC():
     print 'Create Dictionary'
     dictionary = Dictionary(info.stoplist)
     dictionary.addCollection(collection.documents)
-    
+
+    print 'Create category dictionary'
+    categoryList = df.toListMultiColumns(assignedCategories, ['Topic 1', 'Topic 2', 'Topic 3'])
+    categoryDictionary = dict([(word, index) for index, word in enumerate(categoryList)])
+
     if info.analyseDictionary:
         'Analyse Word Frequency'
         collectionLength = collection.number
@@ -115,6 +120,7 @@ def topicModeling_HRC():
 
     maxTopicCoverage = []
     for ind, document in enumerate(collection.documents):
+        print ind
         document.setTopicCoverage(topicCoverage[ind], lda.name)
         lda.computeSimilarity(document)
         collection.computeRelevantWords(tfidf, dictionary, document)
@@ -122,8 +128,8 @@ def topicModeling_HRC():
         keywordFrequency = utils.countOccurance(document.text, categories) 
         document.entities.addEntities('KEYWORDS', utils.sortTupleList(keywordFrequency))
         document.mostFrequentEntities = document.entities.getMostFrequent(5)
-        targetCategories = df.getRow(assignedCategories, 'identifier', document.title, ['Topic 1', 'Topic2', 'Topic 3'])
-        document.targetCategories = [category for category in targetCategories if not str(category) =='nan']
+        targetCategories = df.getRow(assignedCategories, 'identifier', document.title, ['Topic 1', 'Topic 2', 'Topic 3'])
+        document.targetCategories = [(category, categoryDictionary.get(category, -1)) for category in targetCategories]
 
     ImagePlotter.plotHistogram(maxTopicCoverage, 'Maximal Topic Coverage', 'html/' + info.data+'_'+info.identifier+'/Images/maxTopicCoverage.jpg', 'Maximal LDA Coverage', 'Number of Docs', log=1)
 
@@ -136,6 +142,7 @@ def topicModeling_HRC():
 
     info.selectedTopics = input('Select Topics: ')
     collection.writeDocumentFeatureFile(info, info.selectedTopics)
+
                                                                    
     info.saveToFile()
    

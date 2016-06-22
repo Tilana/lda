@@ -157,7 +157,10 @@ class Viewer:
                 f.write("</table>")
 
             if 'targetCategories' in attributes:
-                self.listToHtmlTable(f, 'Target Categories', doc.targetCategories)
+                f.write("""<h4>Target Categories</h4><table>""")
+                for items in list(zip(*doc.targetCategories)[0]):
+                    f.write("""<tr><td>%s</td></tr>""" % items)
+                f.write("""</table>""")
 
             if 'freqWords' in attributes:
                 self.printTupleList(f, 'Relevant Words (TF-IDF)', doc.freqWords, 'float')

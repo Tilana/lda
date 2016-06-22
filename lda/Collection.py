@@ -77,13 +77,14 @@ class Collection:
         columns = self._createColumns(topics)
         dataframe = pd.DataFrame(index = range(0, self.number), columns = columns)
         for ind, document in enumerate(self.documents):
+            print ind
             coverageDictionary = dict(document.LDACoverage)
             coverage = [coverageDictionary.get(nr, 0.0) for nr in topics]
             similarity = [document.LDASimilarity[nr][0] for nr in range(1, 6)]
             relevantWords = [document.freqWords[nr][2] for nr in range(0, 3) if len(document.freqWords)>=3]
             values = [document.title] + coverage + similarity + relevantWords 
             if hasattr(document, 'targetCategories'):
-                values = values + document.targetCategories
+                values = values + list(zip(*document.targetCategories)[1])
             values = values + ['nan'] * (len(columns) - len(values))
             dataframe.loc[ind] = values
         path = 'html/'+ info.data +'_' + info.identifier + '/DocumentFeatures.csv'
