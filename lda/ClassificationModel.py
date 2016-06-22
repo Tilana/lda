@@ -1,6 +1,6 @@
 import pandas 
 import random
-import dataframeUtils as df
+from lda import dataframeUtils as df
 from sklearn import metrics
 
 class ClassificationModel:

@@ -32,16 +32,16 @@ def topicModeling_HRC():
     info.removeNames = 1
 
     # Dictionary #
-    info.analyseDictionary = 0
+    info.analyseDictionary = 1
                                                               
-    info.lowerFilter = 5     # in number of documents
-    info.upperFilter = 0.65  # in percent
+    info.lowerFilter = 7     # in number of documents
+    info.upperFilter = 0.35  # in percent
 
     # LDA #
     info.modelType = 'LDA'  # 'LDA' 'LSI'
     info.numberTopics = 15 
     info.tfidf = 0
-    info.passes = 450 
+    info.passes = 475 
     info.iterations = 1200 
     info.online = 1 
     info.chunksize = 4100                                        

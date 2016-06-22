@@ -50,7 +50,7 @@ class Collection:
     def computeRelevantWords(self, tfidf, dictionary, document, N=10):
         docRepresentation = tfidf[document.vectorRepresentation]
         freqWords = sorted(docRepresentation, key=lambda frequency: frequency[1], reverse=True)[0:N]
-        freqWords = [(dictionary.getWord(item[0]), item[1]) for item in freqWords]
+        freqWords = [(dictionary.getWord(item[0]), item[1], item[0]) for item in freqWords]
         document.setAttribute('freqWords', freqWords)
 
 
@@ -80,7 +80,7 @@ class Collection:
             coverageDictionary = dict(document.LDACoverage)
             coverage = [coverageDictionary.get(nr, 0.0) for nr in topics]
             similarity = [document.LDASimilarity[nr][0] for nr in range(1, 6)]
-            relevantWords = [document.freqWords[nr][0] for nr in range(0, 3) if len(document.freqWords)>=3]
+            relevantWords = [document.freqWords[nr][2] for nr in range(0, 3) if len(document.freqWords)>=3]
             values = [document.title] + coverage + similarity + relevantWords 
             if hasattr(document, 'targetCategories'):
                 values = values + document.targetCategories
@@ -99,7 +99,6 @@ class Collection:
     def _createColumns(self, topics):
         properties = self.documents[0].__dict__.keys()
         columnNamesTopic = self._createTopicNames(topics)
-        # columnNamesTopic= self._createColumnNames('Topic', info.numberTopics)
         columnNamesRelevantWords = self._createColumnNames('relevantWord', 3)
         columnNamesSimilarDocs = self._createColumnNames('similarDocs', 5)
         columns = ['File'] + columnNamesTopic + columnNamesSimilarDocs + columnNamesRelevantWords

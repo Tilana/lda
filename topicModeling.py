@@ -27,16 +27,16 @@ def topicModeling():
     info.stoplist = list(STOPWORDS) + utils.lowerList(names.words())
 
     # Dictionary #  
-    info.analyseDictionary = 1
+    info.analyseDictionary = 0
 
-    info.lowerFilter = 7     # in number of documents
-    info.upperFilter = 0.25  # in percent
+    info.lowerFilter = 10     # in number of documents
+    info.upperFilter = 0.3  # in percent
 
     # LDA Model #
     info.modelType = 'LDA'  # 'LDA' 'LSI'
-    info.numberTopics = 23 
+    info.numberTopics = 18 
     info.tfidf = 0
-    info.passes = 455
+    info.passes = 371
     info.iterations = 1500 
     info.online = 1 
     info.chunksize = 4100 
