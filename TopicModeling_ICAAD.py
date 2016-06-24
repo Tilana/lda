@@ -12,12 +12,12 @@ from lda import dataframeUtils as df
 import csv
 import pandas
 
-def topicModeling_HRC():
+def topicModeling_ICAAD():
 
     #### PARAMETERS ####
     info = Info()
     word2vec = Word2Vec()
-    info.data = 'HRC'     # 'ICAAD' 'NIPS' 'scifibooks' 'HRC'
+    info.data = 'ICAAD'     # 'ICAAD' 'NIPS' 'scifibooks' 'HRC'
 
     # Preprocessing # 
     info.preprocess = 0
@@ -34,31 +34,24 @@ def topicModeling_HRC():
     # Dictionary #
     info.analyseDictionary = 1
                                                               
-    info.lowerFilter = 5     # in number of documents
-    info.upperFilter = 0.75   # in percent
+    info.lowerFilter = 10     # in number of documents
+    info.upperFilter = 0.3   # in percent
 
     # LDA #
     info.modelType = 'LDA'  # 'LDA' 'LSI'
-    info.numberTopics = 15 
+    info.numberTopics = 18 
     info.tfidf = 0
-    info.passes = 985 
-    info.iterations = 1200 
+    info.passes = 371 
+    info.iterations = 1500 
     info.online = 1 
     info.chunksize = 4100                                        
     info.multicore = 1
 
-    # Evaluation #
-#    filename = 'dataObjects/rightsDoc_entitiesInDoc_TM.txt'
-#    filename = 'dataObjects/rightsDoc_TM.txt'
-    evaluationFile = 'Documents/HRC/HRC_TopicAssignment.xlsx'
-    categories = pandas.read_excel(evaluationFile, 'Topics', header=None)
-    categories = utils.lowerList(list(categories[0]))
-    categories = list(set(utils.flattenList([word.split() for word in categories])))
-    categories = [word for word in categories if word not in STOPWORDS] 
-    info.categories = word2vec.filterList(categories)
-    
-    assignedCategories = pandas.read_excel('Documents/HRC/hrc_topics.xlsx', 'Sheet1')
-    assignedCategories = assignedCategories.fillna('xx')  
+    # Categories and Keywords
+    info.categories = loadCategories('Documents/categories.txt')[0]     #0 -human rights categories   1 - Scientific Paper categories
+    keywordFile = 'Documents/ICAAD/CategoryLists.csv'
+    keywords = pandas.read_csv(keywordFile).astype(str)
+    #info.keywords = word2vec.filterList(keywords)
     
     info.setup()
 
@@ -66,8 +59,6 @@ def topicModeling_HRC():
     collection = Collection()
     html = Viewer(info) 
 
-#    ctrl = Controller(numberTopics, specialChars)
-    
     if not os.path.exists(info.collectionName) or info.preprocess:
         print 'Load and preprocess Document Collection'
         collection.load(info.path, info.fileType, info.startDoc, info.numberDoc)
@@ -82,8 +73,8 @@ def topicModeling_HRC():
     dictionary.addCollection(collection.documents)
 
     print 'Create category dictionary'
-    categoryList = df.toListMultiColumns(assignedCategories, ['Topic 1', 'Topic 2', 'Topic 3'])
-    categoryDictionary = dict([(word, index) for index, word in enumerate(categoryList)])
+#    categoryList = df.toListMultiColumns(assignedCategories, ['Topic 1', 'Topic 2', 'Topic 3'])
+#    categoryDictionary = dict([(word, index) for index, word in enumerate(categoryList)])
 
     if info.analyseDictionary:
         'Analyse Word Frequency'
@@ -92,7 +83,7 @@ def topicModeling_HRC():
     
     print 'Filter extremes'
     dictionary.ids.filter_extremes(info.lowerFilter, info.upperFilter)
-    
+
     if info.analyseDictionary:
         dictionary.plotWordDistribution(info)
     
@@ -120,16 +111,16 @@ def topicModeling_HRC():
 
     maxTopicCoverage = []
     for ind, document in enumerate(collection.documents):
-        print ind
         document.setTopicCoverage(topicCoverage[ind], lda.name)
         lda.computeSimilarity(document)
         collection.computeRelevantWords(tfidf, dictionary, document)
         maxTopicCoverage.append(document.LDACoverage[0][1])
-        keywordFrequency = utils.countOccurance(document.text, categories) 
-        document.entities.addEntities('KEYWORDS', utils.sortTupleList(keywordFrequency))
+        for category in keywords.columns.tolist():
+            wordsInCategory = list(keywords[category].unique())
+            wordsInCategory = [word for word in wordsInCategory if word != 'nan']
+            keywordFrequency = utils.countOccurance(document.text, wordsInCategory)
+            document.entities.addEntities(category, utils.sortTupleList(keywordFrequency))
         document.mostFrequentEntities = document.entities.getMostFrequent(5)
-        targetCategories = df.getRow(assignedCategories, 'identifier', document.title, ['Topic 1', 'Topic 2', 'Topic 3'])
-        document.targetCategories = [(category, categoryDictionary.get(category, -1)) for category in targetCategories]
 
     ImagePlotter.plotHistogram(maxTopicCoverage, 'Maximal Topic Coverage', 'html/' + info.data+'_'+info.identifier+'/Images/maxTopicCoverage.jpg', 'Maximal LDA Coverage', 'Number of Docs', log=1)
 
@@ -147,5 +138,5 @@ def topicModeling_HRC():
     info.saveToFile()
    
 if __name__ == "__main__":
-    topicModeling_HRC()
+    topicModeling_ICAAD()
 

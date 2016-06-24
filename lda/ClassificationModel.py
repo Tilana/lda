@@ -1,4 +1,4 @@
-import pandas 
+import pandas as pd
 import random
 from lda import dataframeUtils as df
 from sklearn import metrics
@@ -6,7 +6,7 @@ from sklearn import metrics
 class ClassificationModel:
 
     def __init__(self, path, target, droplist):
-        self.data = pandas.read_csv(path)
+        self.data = pd.read_csv(path)
         self.targetFeature = target 
         self.droplist = droplist
 
@@ -60,17 +60,22 @@ class ClassificationModel:
     def predict(self, classifier):
         self.predicted = classifier.predict(self.testData)
 
-    def evaluate(self):
+    def evaluate(self, binary=1):
         self.accuracy = metrics.accuracy_score(self.testTarget, self.predicted)
-        self.precision = metrics.precision_score(self.testTarget, self.predicted)
-        self.recall = metrics.recall_score(self.testTarget, self.predicted)
+        if binary:
+            self.precision = metrics.precision_score(self.testTarget, self.predicted)
+            self.recall = metrics.recall_score(self.testTarget, self.predicted)
+        else:
+            self.precision = 0
+            self.recall = 0
 
     def featureImportance(self):
         featureImportance = sorted(zip(map(lambda relevance: round(relevance,4), self.classifier.feature_importances_), self.data.columns), reverse=True)
         self.featureImportance = [(elem[1], elem[0]) for elem in featureImportance]
 
     def confusionMatrix(self):
-        self.confusionMatrix = metrics.confusion_matrix(self.testTarget, self.predicted)
+        matrix = metrics.confusion_matrix(self.testTarget, self.predicted)
+        self.confusionMatrix = pd.DataFrame(matrix)
 
 
 

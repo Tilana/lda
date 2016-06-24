@@ -36,6 +36,13 @@ def loadCategories(path):
     return [wordlist.split() for wordlist in categories]
 
 
+#def loadKeywordLists(path, info):
+#    data = pandas.read_csv(path).astype(str)
+#    for col in data.columns:
+#        words = data[col].unique()
+#        setattr(info, col, words)
+        
+    
 def removeSpecialChars(text, verbosity=0):
     encodedText = []
     for word in text.split():

@@ -77,7 +77,6 @@ class Collection:
         columns = self._createColumns(topics)
         dataframe = pd.DataFrame(index = range(0, self.number), columns = columns)
         for ind, document in enumerate(self.documents):
-            print ind
             coverageDictionary = dict(document.LDACoverage)
             coverage = [coverageDictionary.get(nr, 0.0) for nr in topics]
             similarity = [document.LDASimilarity[nr][0] for nr in range(1, 6)]

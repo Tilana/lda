@@ -179,7 +179,9 @@ class Viewer:
 
             f.write("""<h4> Named Entities: \n</h4>""")
             for tag in doc.entities.__dict__.keys():
-                self.printTupleList(f, tag, getattr(doc.entities, tag))
+                wordList = getattr(doc.entities, tag)
+                if wordList != []:
+                    self.printTupleList(f, tag, wordList)
             f.write("""</div>""")
             f.write("""<div style="float:left; width:55%%;"><p>%s</p></div></div></body></html>""" % doc.text.encode('utf8'))
             f.close()
@@ -221,14 +223,19 @@ class Viewer:
         f.write(""" <p><b> Size of Test Data: </b> %s </p>""" % len(model.testData))
         self.listToHtmlTable(f, 'Ignored Features', model.droplist)
 
-        f.write(""" <h2> Evaluation: </h2>""")
+        f.write(""" <h3> Evaluation: </h3>""")
         f.write("""<table> """)
         f.write("""<tr><td> Accuracy: </td><td> %.2f </td></tr>""" % model.accuracy)
         f.write("""<tr><td> Precision: </td><td> %.2f </td></tr>""" % model.precision)
         f.write("""<tr><td> Recall: </td><td> %.2f </td></tr>""" % model.recall)
         f.write("""</table>""")
 
-        self.printConfusionMatrix(f, model.confusionMatrix)
+        f.write(""" <h3> Confusion Matrix: </h3>""")
+        confusionMatrix = model.confusionMatrix.to_html()
+        f.write(confusionMatrix)
+
+
+#        self.printConfusionMatrix(f, model.confusionMatrix)
 
         self.printTupleList(f, 'Feature Importance', model.featureImportance, format='float')
 
