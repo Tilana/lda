@@ -33,7 +33,7 @@ class Info:
 
     def setPath(self):
         if self.data == 'ICAAD':
-            self.path = 'Documents/ICAAD/txt'           
+            self.path = 'Documents/ICAAD/files/txt'           
         elif self.data == 'NIPS':
             self.path = 'Documents/NIPS/Papers.csv'
         elif self.data == 'scifibooks':

@@ -72,7 +72,7 @@ def topicModeling_ICAAD():
     dictionary = Dictionary(info.stoplist)
     dictionary.addCollection(collection.documents)
 
-    print 'Create category dictionary'
+    print 'Create Entity dictionary!!!'
 #    categoryList = df.toListMultiColumns(assignedCategories, ['Topic 1', 'Topic 2', 'Topic 3'])
 #    categoryDictionary = dict([(word, index) for index, word in enumerate(categoryList)])
 
@@ -115,10 +115,11 @@ def topicModeling_ICAAD():
         lda.computeSimilarity(document)
         collection.computeRelevantWords(tfidf, dictionary, document)
         maxTopicCoverage.append(document.LDACoverage[0][1])
+        document.createTokenCounter()
         for category in keywords.columns.tolist():
             wordsInCategory = list(keywords[category].unique())
             wordsInCategory = [word for word in wordsInCategory if word != 'nan']
-            keywordFrequency = utils.countOccurance(document.text, wordsInCategory)
+            keywordFrequency = document.countOccurance(wordsInCategory)
             document.entities.addEntities(category, utils.sortTupleList(keywordFrequency))
         document.mostFrequentEntities = document.entities.getMostFrequent(5)
 

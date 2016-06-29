@@ -18,12 +18,13 @@ def topicModeling():
     # Preprocessing #
     info.preprocess = 0
     info.startDoc = 0 
-    info.numberDoc= None 
+    info.numberDoc= 10 
     info.specialChars = set(u'''[,\.\'\`=\":\\\/_+]''')
     info.includeEntities = 0
     info.removeNames = 1
 
-    info.whiteList= Word2Vec().net.vocab.keys()
+    numbers = [str(nr) for nr in range(0,500)]
+    info.whiteList= Word2Vec().net.vocab.keys() + numbers
     info.stoplist = list(STOPWORDS) + utils.lowerList(names.words())
 
     # Dictionary #  

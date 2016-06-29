@@ -2,6 +2,8 @@ from Entities import Entities
 import utils
 import nltk
 from nltk.stem import WordNetLemmatizer
+from nltk.collocations import *
+from collections import Counter
 
 class Document:
     
@@ -19,19 +21,18 @@ class Document:
     def prepareDocument(self, lemmatize=True, includeEntities=True, stopwords=None, specialChars=None, removeShortTokens=True, threshold=2, whiteList = None):
         self.text = self.text.decode('utf8', 'ignore')
         self.tokens = self._tokenizeDocument()
-        self.original = self.tokens
+#        self.original = self.tokens
         if stopwords is None:
             stopwords = []
         if specialChars is None:
             specialChars = []
         if whiteList is None:
             whiteList = list(set(self.tokens) - set(stopwords))
-
         if lemmatize:
             self.lemmatizeTokens()
         self.tokens = [token for token in self.tokens if (token not in stopwords) and (token in whiteList)]
-
         self.tokens = [token for token in self.tokens if not utils.containsAny(token, specialChars) and len(token) > threshold]
+        self.createBigrams(50)
         if includeEntities:
             if self.entities.isEmpty():
                 self.createEntities()
@@ -88,5 +89,18 @@ class Document:
 
     def setAttribute(self, name, value):
         setattr(self, name, value)
+
+    def countOccurance(self, wordList):
+        return [(word, self.tokenCounter[word]) for word in wordList if self.tokenCounter[word]>0]
+
+    def createTokenCounter(self):
+        self.tokenCounter = Counter(self.tokens)
+
+    def createBigrams(self, n):
+        bigram_measures = nltk.collocations.BigramAssocMeasures()
+        finder = BigramCollocationFinder.from_words(self.tokens)
+        self.bigrams = finder.nbest(bigram_measures.student_t, n)
+
+
 
 
