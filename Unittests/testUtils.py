@@ -63,6 +63,11 @@ class testUtils(unittest.TestCase):
 
         self.assertEqual(targetList, utils.absoluteTupleList(l))
 
+    def test_getBigramsFromList(self):
+        l = ['no', 'bigram', 'a bigram', 'another one']
+        targetList = [('a bigram'), ('another one')]
+        self.assertEqual(targetList, utils.getBigramsFromList(l))
+
 
 if __name__ =='__main__':
     unittest.main()

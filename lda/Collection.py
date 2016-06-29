@@ -68,10 +68,10 @@ class Collection:
         document.setAttribute('vectorRepresentation', self.dictionary.ids.doc2bow(document.tokens))
 
 
-    def prepareDocumentCollection(self, lemmatize=True, createEntities=True, includeEntities=True, stopwords=None, specialChars = None, removeShortTokens=True, threshold=2, whiteList = None):
+    def prepareDocumentCollection(self, lemmatize=True, createEntities=True, includeEntities=True, stopwords=None, specialChars = None, removeShortTokens=True, threshold=2, whiteList = None, bigrams = False):
         for index, document in enumerate(self.documents):
             print index, document.title
-            document.prepareDocument(lemmatize, includeEntities, stopwords, specialChars, removeShortTokens=True, threshold=threshold, whiteList = whiteList)
+            document.prepareDocument(lemmatize, includeEntities, stopwords, specialChars, removeShortTokens=True, threshold=threshold, whiteList = whiteList, bigrams=bigrams)
 
     def writeDocumentFeatureFile(self, info, topics):
         columns = self._createColumns(topics)

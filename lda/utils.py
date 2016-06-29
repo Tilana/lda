@@ -6,18 +6,14 @@ import numpy as np
 def flattenList(l):
 	return [item for sublist in l for item in sublist]
 
-
 def lowerList(wordList):
         return [word.lower() for word in wordList]
-
 
 def listDifference(l):
     return [(elem[1]-elem[0], elem[0]) for elem in zip(l[:-1],l[1:])]
 
-
 def removeAll(l, value):
     return [elem for elem in l if elem != value]
-    
 
 def containsAny(str, specialChars):
     for letter in str:
@@ -66,5 +62,9 @@ def getUpperSymmetrixMatrix(matrix):
 def sortTupleList(tupleList):
     return sorted(tupleList, reverse=True, key=lambda x: x[1])
 
+def getBigrams(wordList):
+    return [tuple(word.split()) for word in wordList if ' ' in word]
 
+def convertTupleToString(tupleList):
+    return [(' '.join(elem[0]), elem[1]) for elem in tupleList]
 

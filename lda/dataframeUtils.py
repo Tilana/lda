@@ -1,6 +1,10 @@
 def getRow(df, colname, value, columns):
     return list(df.loc[df[colname]==value, columns].values[0])
 
+def getColumn(df, colname):
+    columnValues = list(df[colname].unique())
+    return [value for value in columnValues if value != 'nan']
+
 def filterData(df, colname):
     return df[df[colname]]
 
@@ -15,5 +19,4 @@ def toListMultiColumns(df, columnList):
     for col in columnList:
         result.update(tolist(df, col))
     return result
-
 

@@ -13,45 +13,47 @@ import csv
 import pandas
 
 def topicModeling_ICAAD():
+    
+    info = Info()
+    # Categories and Keywords
+    info.categories = loadCategories('Documents/categories.txt')[0]     #0 -human rights categories   1 - Scientific Paper categories
+    keywordFile = 'Documents/ICAAD/CategoryLists.csv'
+    keywords_df = pandas.read_csv(keywordFile).astype(str)
+    keywords = list(df.toListMultiColumns(keywords_df, keywords_df.columns))
+    #info.keywords = word2vec.filterList(keywords)
 
     #### PARAMETERS ####
-    info = Info()
     word2vec = Word2Vec()
     info.data = 'ICAAD'     # 'ICAAD' 'NIPS' 'scifibooks' 'HRC'
 
     # Preprocessing # 
     info.preprocess = 0
-    info.startDoc = 0 
-    info.numberDoc= None 
+    info.startDoc = 1367 
+    info.numberDoc= 6 
     info.specialChars = set(u'''[,\.\'\`=\":\\\/_+]''')
     info.includeEntities = 0
 
-    info.whiteList= word2vec.net.vocab.keys()
+    numbers = [str(nr) for nr in range(0,500)]
+    info.whiteList= word2vec.net.vocab.keys() + numbers + keywords
     info.stoplist = list(STOPWORDS) + utils.lowerList(names.words())
 
     info.removeNames = 1
 
     # Dictionary #
-    info.analyseDictionary = 1
+    info.analyseDictionary = 0
                                                               
-    info.lowerFilter = 10     # in number of documents
-    info.upperFilter = 0.3   # in percent
+    info.lowerFilter = 1     # in number of documents
+    info.upperFilter = 0.9   # in percent
 
     # LDA #
     info.modelType = 'LDA'  # 'LDA' 'LSI'
-    info.numberTopics = 18 
+    info.numberTopics = 3 
     info.tfidf = 0
-    info.passes = 371 
-    info.iterations = 1500 
-    info.online = 1 
+    info.passes = 24
+    info.iterations = 100 
+    info.online = 0 
     info.chunksize = 4100                                        
-    info.multicore = 1
-
-    # Categories and Keywords
-    info.categories = loadCategories('Documents/categories.txt')[0]     #0 -human rights categories   1 - Scientific Paper categories
-    keywordFile = 'Documents/ICAAD/CategoryLists.csv'
-    keywords = pandas.read_csv(keywordFile).astype(str)
-    #info.keywords = word2vec.filterList(keywords)
+    info.multicore = 0
     
     info.setup()
 
@@ -62,7 +64,8 @@ def topicModeling_ICAAD():
     if not os.path.exists(info.collectionName) or info.preprocess:
         print 'Load and preprocess Document Collection'
         collection.load(info.path, info.fileType, info.startDoc, info.numberDoc)
-        collection.prepareDocumentCollection(lemmatize=True, includeEntities=False, stopwords=info.stoplist, removeShortTokens=True, threshold=2, specialChars=info.specialChars, whiteList=info.whiteList)
+        collection.prepareDocumentCollection(lemmatize=True, includeEntities=False, stopwords=info.stoplist, removeShortTokens=True, threshold=1, specialChars=info.specialChars, whiteList=info.whiteList, bigrams=True)
+        collection.saveDocumentCollection(info.collectionName)
 
     else:
         print 'Load Processed Document Collection'
@@ -82,7 +85,7 @@ def topicModeling_ICAAD():
         dictionary.analyseWordFrequencies(info, html, collectionLength)
     
     print 'Filter extremes'
-    dictionary.ids.filter_extremes(info.lowerFilter, info.upperFilter)
+#    dictionary.ids.filter_extremes(info.lowerFilter, info.upperFilter)
 
     if info.analyseDictionary:
         dictionary.plotWordDistribution(info)
@@ -116,9 +119,8 @@ def topicModeling_ICAAD():
         collection.computeRelevantWords(tfidf, dictionary, document)
         maxTopicCoverage.append(document.LDACoverage[0][1])
         document.createTokenCounter()
-        for category in keywords.columns.tolist():
-            wordsInCategory = list(keywords[category].unique())
-            wordsInCategory = [word for word in wordsInCategory if word != 'nan']
+        for category in keywords_df.columns.tolist():
+            wordsInCategory = df.getColumn(keywords_df, category) 
             keywordFrequency = document.countOccurance(wordsInCategory)
             document.entities.addEntities(category, utils.sortTupleList(keywordFrequency))
         document.mostFrequentEntities = document.entities.getMostFrequent(5)

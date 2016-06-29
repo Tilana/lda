@@ -4,6 +4,7 @@ import nltk
 from nltk.stem import WordNetLemmatizer
 from nltk.collocations import *
 from collections import Counter
+from itertools import repeat
 
 class Document:
     
@@ -18,10 +19,9 @@ class Document:
     def createTokens(self):
         self.tokens= self._tokenizeDocument()
 
-    def prepareDocument(self, lemmatize=True, includeEntities=True, stopwords=None, specialChars=None, removeShortTokens=True, threshold=2, whiteList = None):
+    def prepareDocument(self, lemmatize=True, includeEntities=True, stopwords=None, specialChars=None, removeShortTokens=True, threshold=1, whiteList = None, bigrams=False):
         self.text = self.text.decode('utf8', 'ignore')
         self.tokens = self._tokenizeDocument()
-#        self.original = self.tokens
         if stopwords is None:
             stopwords = []
         if specialChars is None:
@@ -32,7 +32,10 @@ class Document:
             self.lemmatizeTokens()
         self.tokens = [token for token in self.tokens if (token not in stopwords) and (token in whiteList)]
         self.tokens = [token for token in self.tokens if not utils.containsAny(token, specialChars) and len(token) > threshold]
-        self.createBigrams(50)
+        if bigrams:
+            bigramWhiteList = utils.getBigrams(whiteList)
+            self.createBigrams(50, bigramWhiteList)
+            self.addBigramsToTokens()
         if includeEntities:
             if self.entities.isEmpty():
                 self.createEntities()
@@ -49,6 +52,11 @@ class Document:
     def removeSpecialCharacters(self):
         for specialChar in self.specialCharacters:
             self.tokens.remove(specialChar)
+
+    def addBigramsToTokens(self):
+        for bigram in self.bigrams:
+            frequency = self.bigramCounter(bigram)
+
 
     def hasTokenAttribute(self):
         return hasattr(self, 'tokens')
@@ -91,15 +99,28 @@ class Document:
         setattr(self, name, value)
 
     def countOccurance(self, wordList):
-        return [(word, self.tokenCounter[word]) for word in wordList if self.tokenCounter[word]>0]
+        self.counter = self.tokenCounter
+        if hasattr(self, 'bigramCounter'):
+            self.counter = self.counter + self.bigramCounter
+        return [(word, self.counter[word]) for word in wordList if self.counter[word]>0]
 
     def createTokenCounter(self):
         self.tokenCounter = Counter(self.tokens)
 
-    def createBigrams(self, n):
-        bigram_measures = nltk.collocations.BigramAssocMeasures()
+    def createBigrams(self, n, whiteList):
         finder = BigramCollocationFinder.from_words(self.tokens)
-        self.bigrams = finder.nbest(bigram_measures.student_t, n)
+        bigrams = sorted(finder.ngram_fd.items(), key=lambda t: (-t[1], t[0]))[:n]
+        self.bigramCounter = Counter(dict(utils.convertTupleToString(bigrams)))
+        self.bigrams = self.bigramCounter.keys()
+
+    def findBigrams(self, finder, bigramList, measure):
+        return [bigram for bigram in bigramList if bigram in finder.nbest(measure, finder.N)]
+
+    def addBigramsToTokens(self):
+        replicateBigramFrequency = [word for bigram in self.bigrams for word in repeat(bigram, self.bigramCounter[bigram])]
+        self.tokens = self.tokens + replicateBigramFrequency 
+        
+
 
 
 

@@ -28,7 +28,6 @@ class testDataframeUtils(unittest.TestCase):
         target = [0, 1, 2]
         self.assertEqual(df.getIndex(self.df), target)
 
-
 #    def test_createNumericFeature(self):
 #        target = self.df
 #        target.loc[:,'D'] = [0, 1, 1]

@@ -18,7 +18,7 @@ def topicModeling():
     # Preprocessing #
     info.preprocess = 0
     info.startDoc = 0 
-    info.numberDoc= 10 
+    info.numberDoc= None 
     info.specialChars = set(u'''[,\.\'\`=\":\\\/_+]''')
     info.includeEntities = 0
     info.removeNames = 1
