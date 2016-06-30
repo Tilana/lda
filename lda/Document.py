@@ -5,6 +5,7 @@ from nltk.stem import WordNetLemmatizer
 from nltk.collocations import *
 from collections import Counter
 from itertools import repeat
+import re
 
 class Document:
     
@@ -120,7 +121,20 @@ class Document:
         replicateBigramFrequency = [word for bigram in self.bigrams for word in repeat(bigram, self.bigramCounter[bigram])]
         self.tokens = self.tokens + replicateBigramFrequency 
         
+    def extractYear(self):
+        year = re.findall(r'\[\d*]', self.title)
+        if year != []:
+            year = year[0].replace('[','').replace(']','')
+            self.year = int(year)
+        else:
+            self.year = 'nan'
 
+    def extractCourt(self):
+        court = re.findall(r'\] \w*', self.title)
+        if court != []:
+            self.court = court[0].replace(']','').strip()
+        else:
+            self.court = 'nan'
 
 
 

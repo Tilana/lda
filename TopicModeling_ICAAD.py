@@ -10,15 +10,15 @@ from lda import ImagePlotter
 from lda import Word2Vec
 from lda import dataframeUtils as df
 import csv
-import pandas
+import pandas as pd
 
-def topicModeling_ICAAD():
+def TopicModeling_ICAAD():
     
     info = Info()
     # Categories and Keywords
     info.categories = loadCategories('Documents/categories.txt')[0]     #0 -human rights categories   1 - Scientific Paper categories
     keywordFile = 'Documents/ICAAD/CategoryLists.csv'
-    keywords_df = pandas.read_csv(keywordFile).astype(str)
+    keywords_df = pd.read_csv(keywordFile).astype(str)
     keywords = list(df.toListMultiColumns(keywords_df, keywords_df.columns))
     #info.keywords = word2vec.filterList(keywords)
 
@@ -27,9 +27,9 @@ def topicModeling_ICAAD():
     info.data = 'ICAAD'     # 'ICAAD' 'NIPS' 'scifibooks' 'HRC'
 
     # Preprocessing # 
-    info.preprocess = 0
-    info.startDoc = 1367 
-    info.numberDoc= 6 
+    info.preprocess = 1
+    info.startDoc = 0 
+    info.numberDoc= None 
     info.specialChars = set(u'''[,\.\'\`=\":\\\/_+]''')
     info.includeEntities = 0
 
@@ -42,20 +42,28 @@ def topicModeling_ICAAD():
     # Dictionary #
     info.analyseDictionary = 0
                                                               
-    info.lowerFilter = 1     # in number of documents
+    info.lowerFilter = 2     # in number of documents
     info.upperFilter = 0.9   # in percent
 
     # LDA #
     info.modelType = 'LDA'  # 'LDA' 'LSI'
-    info.numberTopics = 3 
+    info.numberTopics = 8 
     info.tfidf = 0
-    info.passes = 24
-    info.iterations = 100 
+    info.passes = 34
+    info.iterations = 120 
     info.online = 0 
     info.chunksize = 4100                                        
     info.multicore = 0
     
     info.setup()
+
+    #### EVALUATION ####
+    evaluationFile = 'Documents/PACI.csv'
+    dataFeatures = pd.read_csv(evaluationFile)
+    filenames = dataFeatures['Filename'].tolist()
+    filenames = [name.replace('.txt', '') for name in filenames]
+    dataFeatures['Filename'] = filenames
+    dataFeatures = dataFeatures.rename(columns = {'Unnamed: 0': 'id'})
 
     #### MODEL ####
     collection = Collection()
@@ -64,12 +72,21 @@ def topicModeling_ICAAD():
     if not os.path.exists(info.collectionName) or info.preprocess:
         print 'Load and preprocess Document Collection'
         collection.load(info.path, info.fileType, info.startDoc, info.numberDoc)
+        for doc in collection.documents:
+            doc.title = doc.title.replace('.rtf.txt', '')
+            features = dataFeatures[dataFeatures['Filename']==doc.title]
+            doc.id = df.getValue(features, 'id')
+            doc.SA = df.getValue(features, 'Sexual.Assault.Manual')
+            doc.DV = df.getValue(features, 'Domestic.Violence.Manual')
+            doc.extractYear()
+            doc.extractCourt()
+            
         collection.prepareDocumentCollection(lemmatize=True, includeEntities=False, stopwords=info.stoplist, removeShortTokens=True, threshold=1, specialChars=info.specialChars, whiteList=info.whiteList, bigrams=True)
-        collection.saveDocumentCollection(info.collectionName)
+        #collection.saveDocumentCollection(info.collectionName)
 
     else:
         print 'Load Processed Document Collection'
-        collection.loadPreprocessedCollection(info.collectionName)
+    #    collection.loadPreprocessedCollection(info.collectionName)
 
     print 'Create Dictionary'
     dictionary = Dictionary(info.stoplist)
@@ -85,7 +102,7 @@ def topicModeling_ICAAD():
         dictionary.analyseWordFrequencies(info, html, collectionLength)
     
     print 'Filter extremes'
-#    dictionary.ids.filter_extremes(info.lowerFilter, info.upperFilter)
+    dictionary.ids.filter_extremes(info.lowerFilter, info.upperFilter)
 
     if info.analyseDictionary:
         dictionary.plotWordDistribution(info)
@@ -114,6 +131,7 @@ def topicModeling_ICAAD():
 
     maxTopicCoverage = []
     for ind, document in enumerate(collection.documents):
+        document.title = document.title.replace('-', ' ').replace('.rtf', '')
         document.setTopicCoverage(topicCoverage[ind], lda.name)
         lda.computeSimilarity(document)
         collection.computeRelevantWords(tfidf, dictionary, document)
@@ -141,5 +159,5 @@ def topicModeling_ICAAD():
     info.saveToFile()
    
 if __name__ == "__main__":
-    topicModeling_ICAAD()
+    TopicModeling_ICAAD()
 

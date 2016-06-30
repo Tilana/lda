@@ -20,3 +20,11 @@ def toListMultiColumns(df, columnList):
         result.update(tolist(df, col))
     return result
 
+def getValue(df, column):
+    value = df[column].tolist()
+    if value != []:
+        return value[0]
+    else:
+        return 'nan'
+
+
