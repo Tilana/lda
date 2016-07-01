@@ -133,7 +133,7 @@ class Collection:
             setattr(self, feature+'_'+match, docs)
 
     def getTaggedDocuments(self, feature, tag):
-        return [doc.title for doc in self.documents if getattr(doc, feature+'tag')==tag and doc.id != 'nan'] 
+        return [(doc.title, ind) for ind, doc in enumerate(self.documents) if getattr(doc, feature+'tag')==tag and doc.id != 'nan'] 
 
 
 

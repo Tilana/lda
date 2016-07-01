@@ -40,6 +40,15 @@ class Viewer:
         f.write("""<div>""")
         self.listToHtmlTable(f, title + '- %d' % len(l), l)
         f.write("""</div>""")
+    
+    def printLinkedDocuments(self, f, title, documentTuples):
+        f.write("""<div>""")                                   
+        f.write("""<h4>%s</h4><table>""" % title.encode('utf8'))
+        for doc in documentTuples:
+            f.write("""<tr><td><a href='Documents/doc%02d.html'> %s </a></td></tr>""" % (doc[1], doc[0])) 
+        f.write("""</table>""")
+        f.write("""</div>""")
+
 
     def printConfusionMatrix(self, f, matrix):
         f.write("""<h4> Confusion Matrix </h4><table>""" )
@@ -284,10 +293,12 @@ class Viewer:
         f.write(confusionMatrix)
         f.write("""</table></div>""")
         f.write("""<style type="text/css"> body>div {width: 23%; float: left; border: 1px solid} </style></head>""") 
-        self.printColumn(f, 'True Positives', getattr(collection, model.feature+ '_TP'))
-        self.printColumn(f, 'False Positives', getattr(collection, model.feature+ '_FP'))
-        self.printColumn(f, 'True Negatives', getattr(collection, model.feature+ '_TN'))
-        self.printColumn(f, 'False Negatives', getattr(collection, model.feature+ '_FN'))
+        self.printLinkedDocuments(f, 'True Positives', getattr(collection, model.feature+ '_TP'))
+        self.printLinkedDocuments(f, 'False Positives', getattr(collection, model.feature+ '_FP'))
+        self.printLinkedDocuments(f, 'True Negatives', getattr(collection, model.feature+ '_TN'))
+        self.printLinkedDocuments(f, 'False Negatives', getattr(collection, model.feature+ '_FN'))
         f.write("""</body></html>""")
         f.close()
         webbrowser.open_new_tab(pagename)
+
+
