@@ -41,7 +41,6 @@ class Viewer:
         self.listToHtmlTable(f, title + '- %d' % len(l), l)
         f.write("""</div>""")
 
-
     def printConfusionMatrix(self, f, matrix):
         f.write("""<h4> Confusion Matrix </h4><table>""" )
         f.write("""<tr> <td>. </td> <td> Predicted  </td> <td> Label </td></tr>""")
@@ -139,6 +138,30 @@ class Viewer:
             f = open(pagename, 'w')
             f.write("<html><head><h1>Document %02d - %s</h1></head>" % (ind, doc.title))
             f.write("""<body><div style="width:100%;"><div style="float:right; width:45%;">""")
+
+            f.write("<h4> Properties: </h4>")
+            if 'SA' in attributes:
+                f.write("SA:    %s <br>" % doc.SA)
+            if 'DV' in attributes:
+                f.write("DV:    %s <br>" % doc.DV)
+            if 'court' in attributes:
+                f.write("Court: %s <br>" % doc.court)
+            if 'year' in attributes:
+                f.write("Year:  %s <br>" % doc.year)
+            
+            f.write("<h4> Predictions: </h4>")
+            if 'predSA' in attributes:
+                f.write("predicted SA:")
+                if doc.predSA == doc.SA:
+                    f.write("""<font color="green"> %s </font> <br>""" % doc.predSA) 
+                else:
+                    f.write("""<font color="red"> %s </font> <br>""" % doc.predSA)
+            if 'predDV' in attributes:
+                f.write("predicted DV:")
+                if doc.predDV == doc.DV:
+                    f.write("""<font color="green"> %s </font> <br>""" % doc.predDV) 
+                else:
+                    f.write("""<font color="red"> %s </font> <br>""" % doc.predDV) 
             
             if 'LDACoverage' in attributes:
                 f.write("""<h4> LDA Topic coverage:</h4><table>""")

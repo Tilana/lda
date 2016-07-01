@@ -27,9 +27,9 @@ def TopicModeling_ICAAD():
     info.data = 'ICAAD'     # 'ICAAD' 'NIPS' 'scifibooks' 'HRC'
 
     # Preprocessing # 
-    info.preprocess = 1
+    info.preprocess = 0
     info.startDoc = 0 
-    info.numberDoc= None 
+    info.numberDoc= 2000 
     info.specialChars = set(u'''[,\.\'\`=\":\\\/_+]''')
     info.includeEntities = 0
 
@@ -42,18 +42,18 @@ def TopicModeling_ICAAD():
     # Dictionary #
     info.analyseDictionary = 0
                                                               
-    info.lowerFilter = 2     # in number of documents
-    info.upperFilter = 0.9   # in percent
+    info.lowerFilter = 7     # in number of documents
+    info.upperFilter = 0.30   # in percent
 
     # LDA #
     info.modelType = 'LDA'  # 'LDA' 'LSI'
-    info.numberTopics = 8 
+    info.numberTopics = 15 
     info.tfidf = 0
-    info.passes = 34
-    info.iterations = 120 
+    info.passes = 12 
+    info.iterations = 1200 
     info.online = 0 
     info.chunksize = 4100                                        
-    info.multicore = 0
+    info.multicore = 1
     
     info.setup()
 
@@ -82,11 +82,11 @@ def TopicModeling_ICAAD():
             doc.extractCourt()
             
         collection.prepareDocumentCollection(lemmatize=True, includeEntities=False, stopwords=info.stoplist, removeShortTokens=True, threshold=1, specialChars=info.specialChars, whiteList=info.whiteList, bigrams=True)
-        #collection.saveDocumentCollection(info.collectionName)
+        collection.saveDocumentCollection(info.collectionName)
 
     else:
         print 'Load Processed Document Collection'
-    #    collection.loadPreprocessedCollection(info.collectionName)
+        collection.loadPreprocessedCollection(info.collectionName)
 
     print 'Create Dictionary'
     dictionary = Dictionary(info.stoplist)
@@ -131,7 +131,6 @@ def TopicModeling_ICAAD():
 
     maxTopicCoverage = []
     for ind, document in enumerate(collection.documents):
-        document.title = document.title.replace('-', ' ').replace('.rtf', '')
         document.setTopicCoverage(topicCoverage[ind], lda.name)
         lda.computeSimilarity(document)
         collection.computeRelevantWords(tfidf, dictionary, document)
@@ -148,13 +147,22 @@ def TopicModeling_ICAAD():
     print 'Create HTML Files'
     html.htmlDictionary(dictionary)
     html.printTopics(lda)
+    
+    info.SATopics = input('Sexual Assault Topics:')
+    info.DVTopics = input('Domestic Violence Topics:')
+    info.otherTopics = input('Other Topics: ')
+    selectedTopics = info.SATopics + info.DVTopics + info.otherTopics
+    #import pdb
+    #pdb.set_trace()
+
+    for doc in collection.documents:
+        doc.predictSADVCases(info)
+    
     html.printDocuments(collection.documents, lda)
     html.printDocsRelatedTopics(lda, collection.documents, openHtml=False)
     html.documentOverview(collection.documents)
 
-    info.selectedTopics = input('Select Topics: ')
-    collection.writeDocumentFeatureFile(info, info.selectedTopics)
-
+    collection.writeDocumentFeatureFile(info, selectedTopics)
                                                                    
     info.saveToFile()
    

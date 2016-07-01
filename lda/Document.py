@@ -32,7 +32,7 @@ class Document:
         if lemmatize:
             self.lemmatizeTokens()
         self.tokens = [token for token in self.tokens if (token not in stopwords) and (token in whiteList)]
-        self.tokens = [token for token in self.tokens if not utils.containsAny(token, specialChars) and len(token) > threshold]
+        #self.tokens = [token for token in self.tokens if not utils.containsAny(token, specialChars) and len(token) > threshold]
         if bigrams:
             bigramWhiteList = utils.getBigrams(whiteList)
             self.createBigrams(50, bigramWhiteList)
@@ -136,6 +136,13 @@ class Document:
         else:
             self.court = 'nan'
 
-
-
-
+    def predictSADVCases(self, info):
+        LDACoverage = dict(self.LDACoverage)
+        self.predSA = False
+        self.predDV = False
+        self.SACoverage = [LDACoverage.get(topicNr, 0.0) for topicNr in info.SATopics]
+        if max(self.SACoverage) >= 0.2:
+            self.predSA = True
+        self.DVCoverage = [LDACoverage.get(topicNr, 0.0) for topicNr in info.DVTopics]
+        if max(self.DVCoverage) >= 0.2:
+            self.predDV = True
