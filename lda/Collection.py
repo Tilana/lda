@@ -2,6 +2,7 @@ import urllib2
 import docLoader
 from Dictionary import Dictionary
 from Document import Document
+from ClassificationModel import ClassificationModel
 import sPickle
 import pandas as pd
 
@@ -114,5 +115,17 @@ class Collection:
 
     def saveDocumentCollection(self, path):
         sPickle.s_dump(self.documents, open(path, 'w'))
+
+    def evaluate(self, feature='SA'):
+        evaluation = ClassificationModel()
+        evaluation.feature = feature
+        target, prediction = zip(*[(getattr(doc, feature), getattr(doc, 'pred'+feature)) for doc in self.documents if doc.id != 'nan'])
+        evaluation.testTarget = target
+        evaluation.predicted = prediction
+        evaluation.evaluate()
+        evaluation.confusionMatrix()
+        return evaluation
+
+
 
 

@@ -96,7 +96,7 @@ class Viewer:
         sortedCollection = sorted(collection, key=lambda document: document.LDACoverage[0][1], reverse=True)
         indices = [ind[0] for ind in sorted(enumerate(collection), key=lambda document: document[1].LDACoverage[0][1], reverse=True)]
         f.write("""<h4> LDA Topic coverage:</h4><table>""")
-        f.write("""<col style="width:20%"> <col style="width:15%"> <col style = "width:20%"> """)
+        f.write("""<col style="width:35%"> <col style="width:15%"> <col style = "width:20%"> """)
 
         for ind, document in enumerate(sortedCollection):
             f.write("""<tr><td><a href='Documents/doc%02d.html'> %s </a></td> <td> %0.4f </td> <td> <a href='Topics/LDAtopic%d.html' > Topic %d </a> </td></tr>""" % (indices[ind], document.title, document.LDACoverage[0][1], document.LDACoverage[0][0], document.LDACoverage[0][0]))
@@ -257,12 +257,29 @@ class Viewer:
         confusionMatrix = model.confusionMatrix.to_html()
         f.write(confusionMatrix)
 
-
-#        self.printConfusionMatrix(f, model.confusionMatrix)
-
         self.printTupleList(f, 'Feature Importance', model.featureImportance, format='float')
 
         f.write("""</table></div></body></html>""")
         f.close()
         webbrowser.open_new_tab(pagename)
 
+
+    def results(self, model):
+        pagename = self.path + '/classificationResults%s.html' % model.feature
+        f = open(pagename, 'w')
+        f.write("<html><head><h1> %s Classification results </h1></head>" % model.feature)
+        f.write("""<body><div style="width:100%;">""")
+        f.write(""" <p><b> Number of Documents: </b> %s </p> """ % len(model.testTarget))
+        f.write(""" <h3> Evaluation: </h3>""")
+        f.write("""<table> """)
+        f.write("""<tr><td> Accuracy: </td><td> %.2f </td></tr>""" % model.accuracy)
+        f.write("""<tr><td> Precision: </td><td> %.2f </td></tr>""" % model.precision)
+        f.write("""<tr><td> Recall: </td><td> %.2f </td></tr>""" % model.recall)
+        f.write("""</table>""")
+        
+        f.write(""" <h3> Confusion Matrix: </h3>""")
+        confusionMatrix = model.confusionMatrix.to_html()
+        f.write(confusionMatrix)
+        f.write("""</table></div></body></html>""")
+        f.close()
+        webbrowser.open_new_tab(pagename)

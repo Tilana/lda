@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #-*- coding: utf-8 -*-
-from lda import Collection, Dictionary, Model, Info, Viewer, utils
+from lda import Collection, Dictionary, Model, Info, Viewer, utils, ClassificationModel
 from lda.docLoader import loadCategories
 from gensim.parsing.preprocessing import STOPWORDS
 from nltk.corpus import names
@@ -157,7 +157,10 @@ def TopicModeling_ICAAD():
 
     for doc in collection.documents:
         doc.predictSADVCases(info)
-    
+    SAevaluation = collection.evaluate('SA')
+    html.results(SAevaluation)
+    DVevaluation = collection.evaluate('DV')
+    html.results(DVevaluation)                  
     html.printDocuments(collection.documents, lda)
     html.printDocsRelatedTopics(lda, collection.documents, openHtml=False)
     html.documentOverview(collection.documents)

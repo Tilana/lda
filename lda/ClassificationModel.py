@@ -5,8 +5,9 @@ from sklearn import metrics
 
 class ClassificationModel:
 
-    def __init__(self, path, target, droplist):
-        self.data = pd.read_csv(path)
+    def __init__(self, path=None, target=None, droplist=None):
+        if path != None:
+            self.data = pd.read_csv(path)
         self.targetFeature = target 
         self.droplist = droplist
 
