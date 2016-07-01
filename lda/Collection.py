@@ -126,6 +126,15 @@ class Collection:
         evaluation.confusionMatrix()
         return evaluation
 
+    def getConfusionDocuments(self, feature):
+        matches = ['TP', 'FP', 'TN', 'FN']
+        for match in matches:
+            docs = self.getTaggedDocuments(feature, match)
+            setattr(self, feature+'_'+match, docs)
+
+    def getTaggedDocuments(self, feature, tag):
+        return [doc.title for doc in self.documents if getattr(doc, feature+'tag')==tag and doc.id != 'nan'] 
+
 
 
 

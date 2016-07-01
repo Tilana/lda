@@ -152,15 +152,19 @@ def TopicModeling_ICAAD():
     info.DVTopics = input('Domestic Violence Topics:')
     info.otherTopics = input('Other Topics: ')
     selectedTopics = info.SATopics + info.DVTopics + info.otherTopics
-    #import pdb
-    #pdb.set_trace()
 
     for doc in collection.documents:
-        doc.predictSADVCases(info)
+        doc.predictCases('SA', info)
+        doc.tagPrediction('SA')
+        doc.predictCases('DV', info)
+        doc.tagPrediction('DV')
     SAevaluation = collection.evaluate('SA')
-    html.results(SAevaluation)
+    collection.getConfusionDocuments('SA')
+    html.results(SAevaluation, collection)
     DVevaluation = collection.evaluate('DV')
-    html.results(DVevaluation)                  
+    collection.getConfusionDocuments('DV')
+    html.results(DVevaluation, collection)                  
+    
     html.printDocuments(collection.documents, lda)
     html.printDocsRelatedTopics(lda, collection.documents, openHtml=False)
     html.documentOverview(collection.documents)

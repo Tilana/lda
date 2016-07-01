@@ -136,13 +136,26 @@ class Document:
         else:
             self.court = 'nan'
 
-    def predictSADVCases(self, info):
+    def predictCases(self, target, info, threshold=0.2):
         LDACoverage = dict(self.LDACoverage)
-        self.predSA = False
-        self.predDV = False
-        self.SACoverage = [LDACoverage.get(topicNr, 0.0) for topicNr in info.SATopics]
-        if max(self.SACoverage) >= 0.2:
-            self.predSA = True
-        self.DVCoverage = [LDACoverage.get(topicNr, 0.0) for topicNr in info.DVTopics]
-        if max(self.DVCoverage) >= 0.2:
-            self.predDV = True
+        topics = getattr(info, target+'Topics')
+        setattr(self, 'pred'+target, False)
+        coverage = [LDACoverage.get(topicNr, 0.0) for topicNr in topics]
+        if max(coverage) >= threshold:
+            setattr(self, 'pred'+target, True)
+
+    def tagPrediction(self, feature):
+        target = getattr(self, feature)
+        prediction = getattr(self, 'pred'+feature)
+        tag = feature+'tag'
+        if prediction==True:
+            if prediction==target:
+                setattr(self, tag, 'TP')
+            else:
+                setattr(self, tag, 'FP')
+        else:
+            if prediction == target:
+                setattr(self, tag, 'TN')
+            else:
+                setattr(self, tag, 'FN')
+        

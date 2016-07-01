@@ -134,9 +134,11 @@ class Viewer:
     def printDocuments(self, collection, lda, topics=1, openHtml=False):
         for ind, doc in enumerate(collection):
             pagename = self.path + '/Documents/doc%02d.html' % ind
+
             attributes = doc.__dict__.keys()
             f = open(pagename, 'w')
             f.write("<html><head><h1>Document %02d - %s</h1></head>" % (ind, doc.title))
+
             f.write("""<body><div style="width:100%;"><div style="float:right; width:45%;">""")
 
             f.write("<h4> Properties: </h4>")
@@ -264,7 +266,7 @@ class Viewer:
         webbrowser.open_new_tab(pagename)
 
 
-    def results(self, model):
+    def results(self, model, collection):
         pagename = self.path + '/classificationResults%s.html' % model.feature
         f = open(pagename, 'w')
         f.write("<html><head><h1> %s Classification results </h1></head>" % model.feature)
@@ -280,6 +282,12 @@ class Viewer:
         f.write(""" <h3> Confusion Matrix: </h3>""")
         confusionMatrix = model.confusionMatrix.to_html()
         f.write(confusionMatrix)
-        f.write("""</table></div></body></html>""")
+        f.write("""</table></div>""")
+        f.write("""<style type="text/css"> body>div {width: 23%; float: left; border: 1px solid} </style></head>""") 
+        self.printColumn(f, 'True Positives', getattr(collection, model.feature+ '_TP'))
+        self.printColumn(f, 'False Positives', getattr(collection, model.feature+ '_FP'))
+        self.printColumn(f, 'True Negatives', getattr(collection, model.feature+ '_TN'))
+        self.printColumn(f, 'False Negatives', getattr(collection, model.feature+ '_FN'))
+        f.write("""</body></html>""")
         f.close()
         webbrowser.open_new_tab(pagename)
