@@ -20,7 +20,6 @@ def TopicModeling_ICAAD():
     keywordFile = 'Documents/ICAAD/CategoryLists.csv'
     keywords_df = pd.read_csv(keywordFile).astype(str)
     keywords = list(df.toListMultiColumns(keywords_df, keywords_df.columns))
-    #info.keywords = word2vec.filterList(keywords)
 
     #### PARAMETERS ####
     word2vec = Word2Vec()
@@ -29,7 +28,7 @@ def TopicModeling_ICAAD():
     # Preprocessing # 
     info.preprocess = 0
     info.startDoc = 0 
-    info.numberDoc= 2000 
+    info.numberDoc= None 
     info.specialChars = set(u'''[,\.\'\`=\":\\\/_+]''')
     info.includeEntities = 0
 
@@ -40,18 +39,18 @@ def TopicModeling_ICAAD():
     info.removeNames = 1
 
     # Dictionary #
-    info.analyseDictionary = 0
+    info.analyseDictionary = 1
                                                               
-    info.lowerFilter = 7     # in number of documents
+    info.lowerFilter = 9     # in number of documents
     info.upperFilter = 0.30   # in percent
 
     # LDA #
     info.modelType = 'LDA'  # 'LDA' 'LSI'
-    info.numberTopics = 15 
+    info.numberTopics = 25 
     info.tfidf = 0
-    info.passes = 12 
+    info.passes = 312 
     info.iterations = 1200 
-    info.online = 0 
+    info.online = 1 
     info.chunksize = 4100                                        
     info.multicore = 1
     
@@ -152,18 +151,20 @@ def TopicModeling_ICAAD():
     info.DVTopics = input('Domestic Violence Topics:')
     info.otherTopics = input('Other Topics: ')
     selectedTopics = info.SATopics + info.DVTopics + info.otherTopics
+    info.SAthreshold = 0.2
+    info.DVthreshold = 0.2
 
     for doc in collection.documents:
-        doc.predictCases('SA', info)
+        doc.predictCases('SA', info, info.SAthreshold)
         doc.tagPrediction('SA')
-        doc.predictCases('DV', info)
+        doc.predictCases('DV', info, info.DVthreshold)
         doc.tagPrediction('DV')
     SAevaluation = collection.evaluate('SA')
     collection.getConfusionDocuments('SA')
-    html.results(SAevaluation, collection)
+    html.results(SAevaluation, collection, info)
     DVevaluation = collection.evaluate('DV')
     collection.getConfusionDocuments('DV')
-    html.results(DVevaluation, collection)                  
+    html.results(DVevaluation, collection, info) 
     
     html.printDocuments(collection.documents, lda)
     html.printDocsRelatedTopics(lda, collection.documents, openHtml=False)
