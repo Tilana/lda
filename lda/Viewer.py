@@ -10,6 +10,7 @@ class Viewer:
             os.makedirs(self.path + '/Documents')
             os.makedirs(self.path + '/Topics')
             os.makedirs(self.path + '/Images')
+            os.makedirs(self.path + '/Cluster')
         except OSError:
             if not os.path.isdir(self.path):
                 raise
@@ -49,6 +50,13 @@ class Viewer:
         f.write("""</table>""")
         f.write("""</div>""")
 
+    def printClusterDocuments(self, f, title, documentTuples):
+        f.write("""<div>""")                                   
+        f.write("""<h4>%s</h4><table>""" % title.encode('utf8'))
+        for doc in documentTuples:
+            f.write("""<tr><td><a href='../Documents/doc%02d.html'> %s </a></td></tr>""" % (doc[1], doc[0].title)) 
+        f.write("""</table>""")
+        f.write("""</div>""")
 
     def printConfusionMatrix(self, f, matrix):
         f.write("""<h4> Confusion Matrix </h4><table>""" )
@@ -305,4 +313,21 @@ class Viewer:
         f.close()
         webbrowser.open_new_tab(pagename)
 
+    def printCluster(self, cluster, openHtml=True):
+    	pagename = self.path + '/Cluster/cluster%d.html' % cluster.number
+    	f = open(pagename, 'w')
+    	f.write("<html><head><h1> Cluster %d</h1></head>" % cluster.number)
+        f.write("<body><p> <b> Number of documents in cluster: </b> %d <p>" % len(cluster.features))
+        f.write("<body><p> <b> Number of SA documents: </b> %d <p>" % len(cluster.SATrue))
+        f.write("<p> <b> Number of DV documents: </b> %d <p>" % len(cluster.DVTrue))
 
+        f.write("<h4>Documents in Cluster</h4>")
+        f.write("""<style type="text/css"> body>div {width: 46%; float: left; border: 1px solid} </style></head>""") 
+        self.printClusterDocuments(f, 'SA True', cluster.SATrue)
+        self.printClusterDocuments(f, 'SA False', cluster.DVTrue)
+        self.printClusterDocuments(f, 'Others', cluster.SAFalse + cluster.DVFalse)
+
+    	f.write("</body></html>")
+    	f.close()
+        if openHtml:
+            webbrowser.open_new_tab(pagename)
