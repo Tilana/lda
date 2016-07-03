@@ -82,14 +82,13 @@ class Collection:
             coverage = [coverageDictionary.get(nr, 0.0) for nr in topics]
             similarity = [document.LDASimilarity[nr][0] for nr in range(1, 6)]
             relevantWords = [document.freqWords[nr][2] for nr in range(0, 3) if len(document.freqWords)>=3]
-            values = [document.title] + coverage + similarity + relevantWords 
+            values = [document.title + str(document.id)] + coverage + similarity + relevantWords 
             if hasattr(document, 'targetCategories'):
                 values = values + list(zip(*document.targetCategories)[1])
             values = values + ['nan'] * (len(columns) - len(values))
             dataframe.loc[ind] = values
         path = 'html/'+ info.data +'_' + info.identifier + '/DocumentFeatures.csv'
-        dataframe.to_csv(path)
-            
+        dataframe.to_csv(path)   
 
     def _createColumnNames(self, title, number):
         return [(title + '%d' % nr) for nr in range(1, number+1)]
@@ -102,7 +101,7 @@ class Collection:
         columnNamesTopic = self._createTopicNames(topics)
         columnNamesRelevantWords = self._createColumnNames('relevantWord', 3)
         columnNamesSimilarDocs = self._createColumnNames('similarDocs', 5)
-        columns = ['File'] + columnNamesTopic + columnNamesSimilarDocs + columnNamesRelevantWords
+        columns = ['File', 'id'] + columnNamesTopic + columnNamesSimilarDocs + columnNamesRelevantWords
         hasTargetCategories = 'targetCategories' in properties
         if hasTargetCategories:
             columnNamesTarget = self._createColumnNames('targetCategory', 3) 

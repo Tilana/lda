@@ -80,3 +80,11 @@ class Dictionary:
         html.wordFrequency(self, 1, 10)
         html.wordFrequency(self, 10, halfLength)
         html.wordFrequency(self, halfLength, length) 
+
+
+    def filter_extremes(self, lowerFilter, upperFilter, whiteList):
+        absUpperFilter = int(upperFilter * self.ids.num_docs)
+        filteredWords = [key for (key, word) in self.ids.iteritems() if lowerFilter <= self.ids.dfs.get(key,0) <= absUpperFilter or word in whiteList]
+        self.ids.filter_tokens(good_ids = filteredWords)
+
+

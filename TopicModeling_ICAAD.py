@@ -39,17 +39,17 @@ def TopicModeling_ICAAD():
     info.removeNames = 1
 
     # Dictionary #
-    info.analyseDictionary = 1
+    info.analyseDictionary = 0
                                                               
-    info.lowerFilter = 9     # in number of documents
-    info.upperFilter = 0.30   # in percent
+    info.lowerFilter = 8      # in number of documents
+    info.upperFilter = 0.067  # in percent
 
     # LDA #
     info.modelType = 'LDA'  # 'LDA' 'LSI'
     info.numberTopics = 25 
     info.tfidf = 0
-    info.passes = 312 
-    info.iterations = 1200 
+    info.passes = 170 
+    info.iterations = 1400 
     info.online = 1 
     info.chunksize = 4100                                        
     info.multicore = 1
@@ -91,17 +91,13 @@ def TopicModeling_ICAAD():
     dictionary = Dictionary(info.stoplist)
     dictionary.addCollection(collection.documents)
 
-    print 'Create Entity dictionary!!!'
-#    categoryList = df.toListMultiColumns(assignedCategories, ['Topic 1', 'Topic 2', 'Topic 3'])
-#    categoryDictionary = dict([(word, index) for index, word in enumerate(categoryList)])
-
     if info.analyseDictionary:
         'Analyse Word Frequency'
         collectionLength = collection.number
         dictionary.analyseWordFrequencies(info, html, collectionLength)
     
     print 'Filter extremes'
-    dictionary.ids.filter_extremes(info.lowerFilter, info.upperFilter)
+    dictionary.filter_extremes(info.lowerFilter, info.upperFilter, keywords)
 
     if info.analyseDictionary:
         dictionary.plotWordDistribution(info)
