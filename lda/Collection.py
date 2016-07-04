@@ -5,6 +5,7 @@ from Document import Document
 from ClassificationModel import ClassificationModel
 import sPickle
 import pandas as pd
+import numpy as np
 
 class Collection:
     
@@ -74,15 +75,15 @@ class Collection:
             print index, document.title
             document.prepareDocument(lemmatize, includeEntities, stopwords, specialChars, removeShortTokens=True, threshold=threshold, whiteList = whiteList, bigrams=bigrams)
 
-    def writeDocumentFeatureFile(self, info, topics):
-        columns = self._createColumns(topics)
+    def writeDocumentFeatureFile(self, info, topics, keywords):
+        columns = self._createColumns(topics) + keywords
         dataframe = pd.DataFrame(np.nan, index = range(0, self.number), columns = columns)
         for ind, document in enumerate(self.documents):
             coverageDictionary = dict(document.LDACoverage)
             coverage = [coverageDictionary.get(nr, 0.0) for nr in topics]
             similarity = [document.LDASimilarity[nr][0] for nr in range(1, 6)]
             relevantWords = [document.freqWords[nr][2] for nr in range(0, 3) if len(document.freqWords)>=3]
-            values = [document.title, document.id] + coverage + similarity + relevantWords 
+            values = [document.title, document.id, document.SA, document.DV, document.court, document.year] + coverage + similarity + relevantWords 
             if hasattr(document, 'targetCategories'):
                 values = values + list(zip(*document.targetCategories)[1])
             values = values + [np.nan] * (len(columns) - len(values))
@@ -105,7 +106,7 @@ class Collection:
         columnNamesTopic = self._createTopicNames(topics)
         columnNamesRelevantWords = self._createColumnNames('relevantWord', 3)
         columnNamesSimilarDocs = self._createColumnNames('similarDocs', 5)
-        columns = ['File', 'id'] + columnNamesTopic + columnNamesSimilarDocs + columnNamesRelevantWords
+        columns = ['File', 'id', 'SA', 'DV', 'court', 'year'] + columnNamesTopic + columnNamesSimilarDocs + columnNamesRelevantWords
         hasTargetCategories = 'targetCategories' in properties
         if hasTargetCategories:
             columnNamesTarget = self._createColumnNames('targetCategory', 3) 

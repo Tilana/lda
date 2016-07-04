@@ -27,4 +27,12 @@ def getValue(df, column):
     else:
         return 'nan'
 
+def createNumericFeature(df, column):
+    category = 0
+    for value in df[column].unique():
+        df.loc[df[column]==value, column] = category
+        category += 1
+    toNumeric(df, column)
 
+def toNumeric(df, column):
+    df[column] = df[column].astype(int)

@@ -42,17 +42,17 @@ def TopicModeling_ICAAD():
     info.analyseDictionary = 0
                                                               
     info.lowerFilter = 8      # in number of documents
-    info.upperFilter = 0.067  # in percent
+    info.upperFilter = 0.05   # in percent
 
     # LDA #
     info.modelType = 'LDA'  # 'LDA' 'LSI'
-    info.numberTopics = 25 
+    info.numberTopics = 21 
     info.tfidf = 0
-    info.passes = 170 
-    info.iterations = 1400 
+    info.passes = 5 
+    info.iterations = 300 
     info.online = 1 
     info.chunksize = 4100                                        
-    info.multicore = 1
+    info.multicore = 0
     
     info.setup()
 
@@ -166,7 +166,8 @@ def TopicModeling_ICAAD():
     html.printDocsRelatedTopics(lda, collection.documents, openHtml=False)
     html.documentOverview(collection.documents)
 
-    collection.writeDocumentFeatureFile(info, selectedTopics)
+    print('Write Feature File')
+    collection.writeDocumentFeatureFile(info, selectedTopics, keywords)
                                                                    
     info.saveToFile()
    

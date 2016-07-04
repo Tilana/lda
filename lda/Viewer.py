@@ -1,5 +1,7 @@
+from __future__ import division
 import webbrowser
 import os, sys
+
 
 class Viewer:
 
@@ -313,7 +315,7 @@ class Viewer:
         f.close()
         webbrowser.open_new_tab(pagename)
 
-    def printCluster(self, cluster, openHtml=True):
+    def printCluster(self, cluster, openHtml=False):
     	pagename = self.path + '/Cluster/cluster%d.html' % cluster.number
     	f = open(pagename, 'w')
     	f.write("<html><head><h1> Cluster %d</h1></head>" % cluster.number)
@@ -331,3 +333,17 @@ class Viewer:
     	f.close()
         if openHtml:
             webbrowser.open_new_tab(pagename)
+
+    def printClusterOverview(self, numbers, SA, DV):
+    	pagename = self.path + '/clusterOverview.html'
+    	f = open(pagename, 'w')
+    	f.write("<html><head><h1> Cluster Overview</h1></head>")
+        f.write("<body><table>")
+        f.write("""<col style="width:20%"> <col style="width:12%"> <col style="width:10%"> <col style="width:12%"> <col style="width:10%"> <col style="width:12%"> """)
+        f.write("""<tr><td></td> <td> Number Docs</td> <td>SA docs </td> <td>SA &#37</td> <td>DV docs</td> <td>DV &#37</td> </tr>""")
+        for ind, elem in enumerate(numbers):
+            percent = float(elem/100)
+            f.write("""<tr><td><a href='Cluster/cluster%0d.html'> Cluster %d </a></td> <td> %d </td> <td> %d</td> <td> %0.2f &#37 </td> <td> %d</td> <td>%0.2f &#37</td> </tr>""" % (ind, ind, elem, SA[ind], SA[ind]/percent, DV[ind], DV[ind]/percent))
+    	f.write("</table></body></html>")
+    	f.close()
+        webbrowser.open_new_tab(pagename)
