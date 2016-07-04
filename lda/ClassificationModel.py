@@ -26,11 +26,15 @@ class ClassificationModel:
         return (trainIndices, testIndices)
     
     
-    def balanceDataset(self):
+    def balanceDataset(self, factor=1):
         trueCases = df.getIndex(df.filterData(self.data, self.targetFeature))
         negativeCases = list(set(df.getIndex(self.data)) - set(trueCases))
-        selectedNegativeCases = random.sample(negativeCases, len(trueCases))
-        self.data = self.data.iloc[trueCases+selectedNegativeCases]
+        numberSamples = factor * len(trueCases)
+        selectedNegativeCases = self.getRandomSample(negativeCases, numberSamples)
+        self.data = self.data.loc[trueCases+selectedNegativeCases, :]
+
+    def getRandomSample(self, data, n):
+        return random.sample(data, n)
 
     
     def cleanDataset(self):
@@ -50,6 +54,9 @@ class ClassificationModel:
     
     def toNumeric(self, column):
         self.data[column] = self.data[column].astype(int)
+
+    def toBoolean(self, column):
+        self.data[column] = self.data[column].astype(bool)
 
     def dropFeatures(self):
         self.data = self.data.drop(self.droplist, axis=1)
@@ -77,6 +84,9 @@ class ClassificationModel:
     def confusionMatrix(self):
         matrix = metrics.confusion_matrix(self.testTarget, self.predicted)
         self.confusionMatrix = pd.DataFrame(matrix)
+
+    def dropNANRows(self):
+        self.data = self.data.dropna()
 
 
 

@@ -258,7 +258,7 @@ class Viewer:
 
 
     def classificationResults(self, model):
-        pagename = 'html/classificationResults.html'
+        pagename = self.path + '/classificationResults%s.html' % model.targetFeature
         f = open(pagename, 'w')
         f.write("<html><head><h1> Classification results </h1></head>")
         f.write("""<body><div style="width:100%;">""")
@@ -326,7 +326,7 @@ class Viewer:
         f.write("<h4>Documents in Cluster</h4>")
         f.write("""<style type="text/css"> body>div {width: 46%; float: left; border: 1px solid} </style></head>""") 
         self.printClusterDocuments(f, 'SA True', cluster.SATrue)
-        self.printClusterDocuments(f, 'SA False', cluster.DVTrue)
+        self.printClusterDocuments(f, 'DV True', cluster.DVTrue)
         self.printClusterDocuments(f, 'Others', cluster.SAFalse + cluster.DVFalse)
 
     	f.write("</body></html>")
@@ -339,8 +339,8 @@ class Viewer:
     	f = open(pagename, 'w')
     	f.write("<html><head><h1> Cluster Overview</h1></head>")
         f.write("<body><table>")
-        f.write("""<col style="width:20%"> <col style="width:12%"> <col style="width:10%"> <col style="width:12%"> <col style="width:10%"> <col style="width:12%"> """)
-        f.write("""<tr><td></td> <td> Number Docs</td> <td>SA docs </td> <td>SA &#37</td> <td>DV docs</td> <td>DV &#37</td> </tr>""")
+        f.write("""<col style="width:15%"> <col style="width:11%"> <col style="width:10%"> <col style="width:11%"> <col style="width:10%"> <col style="width:11%"> """)
+        f.write("""<tr><td></td> <td> <b> Number Docs </b></td> <td><b>SA docs </b></td> <td> <b>SA &#37 </b></td> <td><b>DV docs</b></td> <td><b>DV &#37 </b> </td> </tr>""")
         for ind, elem in enumerate(numbers):
             percent = float(elem/100)
             f.write("""<tr><td><a href='Cluster/cluster%0d.html'> Cluster %d </a></td> <td> %d </td> <td> %d</td> <td> %0.2f &#37 </td> <td> %d</td> <td>%0.2f &#37</td> </tr>""" % (ind, ind, elem, SA[ind], SA[ind]/percent, DV[ind], DV[ind]/percent))
