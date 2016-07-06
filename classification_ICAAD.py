@@ -19,6 +19,7 @@ def classification_ICAAD():
     evaluationFile = 'Documents/PACI.csv'
     dataFeatures = pd.read_csv(evaluationFile)
     dataFeatures = dataFeatures.rename(columns={'Unnamed: 0': 'id'})
+
     ### PREPROCESSING ###
     features = dataFeatures.columns.tolist()
     if targetFeature in features:
@@ -30,13 +31,13 @@ def classification_ICAAD():
     model.toBoolean(['SA', 'DV'])
 
     ### SELECT TEST AND TRAINING DATA ###
-    factorFalseCases = 3 
-    model.balanceDataset(factorFalseCases)
+    model.factorFalseCases = 1 
+    model.balanceDataset(model.factorFalseCases)
     model.createTarget()
     model.dropFeatures()
 
-    numberTrainingDocs = len(model.data)/4
-    model.splitDataset(numberTrainingDocs)
+    model.numberTrainingDocs = len(model.data)/4
+    model.splitDataset(model.numberTrainingDocs)
 
     ### CLASSIFICATION ###
     classifier = DecisionTreeClassifier()
@@ -47,6 +48,7 @@ def classification_ICAAD():
     model.evaluate()
     model.confusionMatrix()
     model.featureImportance()
+    model.getTaggedDocs()
 
     Viewer(info).classificationResults(model)
 

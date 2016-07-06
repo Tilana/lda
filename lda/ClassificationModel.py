@@ -8,7 +8,8 @@ class ClassificationModel:
 
     def __init__(self, path=None, target=None, droplist=None):
         if path != None:
-            self.data = pd.read_csv(path)
+            self.orgData = pd.read_csv(path)
+        self.data = self.orgData
         self.targetFeature = target 
         self.droplist = droplist
 
@@ -89,5 +90,14 @@ class ClassificationModel:
         self.data = pd.merge(dataset2, self.data, on=['id'])
 
 
+    def getTaggedData(self, tag):
+        indices = getattr(self.evaluation, tag)
+        tagIndices = [self.testIndices[position] for position in indices]
+        return self.orgData.loc[tagIndices, ['File', 'Unnamed: 0']].apply(tuple, axis=1).tolist()
+
+    def getTaggedDocs(self):
+        tags = ['TP', 'FP', 'TN', 'FN']
+        for tag in tags:
+            setattr(self, tag+'_docs', self.getTaggedData(tag))
 
 

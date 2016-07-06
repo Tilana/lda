@@ -262,6 +262,7 @@ class Viewer:
         f.write("<html><head><h1> Classification results - %s</h1></head>" % model.targetFeature)
         f.write("""<body><div style="width:100%;">""")
         f.write(""" <p><b> Size of Training Data: </b> %s </p> """ % len(model.trainData))
+        f.write("""<p> <b> Balance of Training Data: </b> True 1 : %d False """ % model.factorFalseCases)
         f.write(""" <p><b> Size of Test Data: </b> %s </p>""" % len(model.testData))
         f.write(""" <p> <b> Ignored Features: </b> %s </p>""" % model.droplist)
         
@@ -279,6 +280,12 @@ class Viewer:
         self.printTupleList(f, 'Feature Importance', model.featureImportance, format='float')
 
         f.write("""</table></div></body></html>""")
+        f.write("""<style type="text/css"> body>div {width: 23%; float: left; border: 1px solid} </style></head>""") 
+        self.printLinkedDocuments(f, 'True Positives', model.TP_docs) 
+        self.printLinkedDocuments(f, 'False Positives', model.FP_docs) 
+        self.printLinkedDocuments(f, 'True Negatives', model.TN_docs) 
+        self.printLinkedDocuments(f, 'False Negatives', model.FN_docs) 
+        f.write("""</body></html>""")
         f.close()
         webbrowser.open_new_tab(pagename)
 
