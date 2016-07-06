@@ -29,6 +29,8 @@ class ClassificationModel:
         trueCases = df.getIndex(df.filterData(self.data, self.targetFeature))
         negativeCases = list(set(df.getIndex(self.data)) - set(trueCases))
         numberSamples = factor * len(trueCases)
+        if numberSamples + len(trueCases) >= len(self.data):
+            numberSamples = len(negativeCases)
         selectedNegativeCases = self.getRandomSample(negativeCases, numberSamples)
         self.data = self.data.loc[trueCases+selectedNegativeCases, :]
 

@@ -257,7 +257,7 @@ class Viewer:
 
 
     def classificationResults(self, model):
-        pagename = self.path + '/classificationResults%s.html' % model.targetFeature
+        pagename = self.path + '/%s.html' % model.targetFeature
         f = open(pagename, 'w')
         f.write("<html><head><h1> Classification results - %s</h1></head>" % model.targetFeature)
         f.write("""<body><div style="width:100%;">""")
@@ -291,7 +291,7 @@ class Viewer:
 
 
     def results(self, model, collection, info):
-        pagename = self.path + '/TM_Classification_%s.html' % model.feature
+        pagename = self.path + '/TM_classification_%s.html' % model.feature
         topics = getattr(info, model.feature+'Topics')
         threshold = getattr(info, model.feature +'threshold')
         f = open(pagename, 'w')
