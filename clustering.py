@@ -12,7 +12,7 @@ def clustering():
 
     info = Info()
     info.data = 'ICAAD'
-    info.identifier = 'LDA_T21P5I300_word2vec'
+    info.identifier = 'LDA_T15P30I500_word2vec'
 
     path = 'html/%s/DocumentFeatures.csv' % (info.data + '_' + info.identifier)
     originalData = pd.read_csv(path)
@@ -27,8 +27,10 @@ def clustering():
     scaledData = pd.DataFrame(scaledMatrix, columns = data.columns.tolist())
 
     print 'Clustering'
-    numCluster = 15 
-    km = cluster.KMeans(n_clusters = numCluster)
+    numCluster = 8 
+    km = cluster.KMeans(n_clusters = numCluster, n_init=20, max_iter=500)
+    #km = cluster.AgglomerativeClustering(n_clusters = numCluster, affinity='cosine', linkage="average") 
+
 
     km.fit(scaledData)
     clusters = km.labels_.tolist()

@@ -2,6 +2,7 @@ import urllib2
 import docLoader
 from Dictionary import Dictionary
 from Document import Document
+from lda import Evaluation
 from ClassificationModel import ClassificationModel
 import sPickle
 import pandas as pd
@@ -121,12 +122,13 @@ class Collection:
         sPickle.s_dump(self.documents, open(path, 'w'))
 
     def evaluate(self, feature='SA'):
-        evaluation = ClassificationModel()
-        evaluation.feature = feature
         target, prediction = zip(*[(getattr(doc, feature), getattr(doc, 'pred'+feature)) for doc in self.documents if doc.id != 'nan'])
-        evaluation.testTarget = target
-        evaluation.predicted = prediction
-        evaluation.evaluate()
+        evaluation = Evaluation(target, prediction)
+        evaluation.feature = feature
+        evaluation.setAllTags()
+        evaluation.accuracy()
+        evaluation.recall()
+        evaluation.precision()
         evaluation.confusionMatrix()
         return evaluation
 

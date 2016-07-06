@@ -297,7 +297,7 @@ class Viewer:
         f = open(pagename, 'w')
         f.write("<html><head><h1> %s Classification results </h1></head>" % model.feature)
         f.write("""<body><div style="width:100%;">""")
-        f.write(""" <p><b> Number of Documents: </b> %s </p> """ % len(model.testTarget))
+        f.write(""" <p><b> Number of Documents: </b> %s </p> """ % len(model.prediction))
         f.write(""" <p><b> Selected Topics: </b> %s </p>""" % topics)
         f.write("""<p><b> Threshold: </b> %.2f </p>""" % threshold)
         f.write(""" <h3> Evaluation: </h3>""")

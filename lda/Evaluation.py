@@ -1,4 +1,6 @@
 from __future__ import division
+from sklearn import metrics
+import pandas as pd
 
 class Evaluation:
 
@@ -16,6 +18,10 @@ class Evaluation:
                                                                     
     def precision(self):
         self.precision = len(self.TP)/(len(self.TP) + len(self.FP))
+
+    def confusionMatrix(self):
+        matrix = metrics.confusion_matrix(self.target, self.prediction)
+        self.confusionMatrix = pd.DataFrame(matrix)
 
     def checkLength(self):
         if len(self.target) != len(self.prediction):
@@ -47,16 +53,3 @@ class Evaluation:
             self.setTag(tag)
 
     
-    
-
-    
-    
-
-    
-    
-
-
-
-
-
-        
