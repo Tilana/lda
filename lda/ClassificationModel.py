@@ -1,6 +1,7 @@
 import pandas as pd
 import random
 from lda import dataframeUtils as df
+from lda import Evaluation
 from sklearn import metrics
 
 class ClassificationModel:
@@ -21,7 +22,7 @@ class ClassificationModel:
 
     def _generateRandomIndices(self, num):
         self.trainIndices = random.sample(self.data.index, num)
-        self.testIndices = list(set(self.data.index) - set(trainIndices))
+        self.testIndices = list(set(self.data.index) - set(self.trainIndices))
     
     def balanceDataset(self, factor=1):
         trueCases = df.getIndex(df.filterData(self.data, self.targetFeature))
@@ -65,14 +66,13 @@ class ClassificationModel:
     def predict(self, classifier):
         self.predicted = classifier.predict(self.testData)
 
-    def evaluate(self, binary=1):
-        self.accuracy = metrics.accuracy_score(self.testTarget, self.predicted)
-        if binary:
-            self.precision = metrics.precision_score(self.testTarget, self.predicted)
-            self.recall = metrics.recall_score(self.testTarget, self.predicted)
-        else:
-            self.precision = 0
-            self.recall = 0
+    def evaluate(self):
+        self.evaluation = Evaluation(self.testTarget, self.predicted)
+        self.evaluation.setAllTags()
+
+        self.evaluation.accuracy()
+        self.evaluation.recall()
+        self.evaluation.precision()
 
     def featureImportance(self):
         featureImportance = sorted(zip(map(lambda relevance: round(relevance,4), self.classifier.feature_importances_), self.data.columns), reverse=True)

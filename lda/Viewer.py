@@ -267,9 +267,9 @@ class Viewer:
         
         f.write(""" <h3> Evaluation: </h3>""")
         f.write("""<table> """)
-        f.write("""<tr><td> Accuracy: </td><td> %.2f </td></tr>""" % model.accuracy)
-        f.write("""<tr><td> Precision: </td><td> %.2f </td></tr>""" % model.precision)
-        f.write("""<tr><td> Recall: </td><td> %.2f </td></tr>""" % model.recall)
+        f.write("""<tr><td> Accuracy: </td><td> %.2f </td></tr>""" % model.evaluation.accuracy)
+        f.write("""<tr><td> Precision: </td><td> %.2f </td></tr>""" % model.evaluation.precision)
+        f.write("""<tr><td> Recall: </td><td> %.2f </td></tr>""" % model.evaluation.recall)
         f.write("""</table>""")
 
         f.write(""" <h3> Confusion Matrix: </h3>""")

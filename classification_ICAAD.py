@@ -1,4 +1,4 @@
-from lda import ClassificationModel, Viewer, Info
+from lda import ClassificationModel, Viewer, Info, Evaluation
 from sklearn.tree import DecisionTreeClassifier
 import pandas as pd
 
