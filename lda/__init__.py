@@ -1,5 +1,6 @@
 import docLoader
 from Document import Document
+from Evaluation import Evaluation
 from Dictionary import Dictionary
 from Entities import Entities
 from Collection import Collection 

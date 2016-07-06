@@ -13,18 +13,15 @@ class ClassificationModel:
 
     
     def splitDataset(self, num):
-        (trainIndices, testIndices) = self._generateRandomIndices(num)
-        self.trainData = self.data.loc[trainIndices]
-        self.trainTarget = self.target.loc[trainIndices]
-        self.testData = self.data.loc[testIndices]
-        self.testTarget = self.target.loc[testIndices]
+        self._generateRandomIndices(num)
+        self.trainData = self.data.loc[self.trainIndices]
+        self.trainTarget = self.target.loc[self.trainIndices]
+        self.testData = self.data.loc[self.testIndices]
+        self.testTarget = self.target.loc[self.testIndices]
 
-    
     def _generateRandomIndices(self, num):
-        trainIndices = random.sample(self.data.index, num)
-        testIndices = list(set(self.data.index) - set(trainIndices))
-        return (trainIndices, testIndices)
-    
+        self.trainIndices = random.sample(self.data.index, num)
+        self.testIndices = list(set(self.data.index) - set(trainIndices))
     
     def balanceDataset(self, factor=1):
         trueCases = df.getIndex(df.filterData(self.data, self.targetFeature))

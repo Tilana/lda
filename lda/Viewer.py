@@ -259,13 +259,12 @@ class Viewer:
     def classificationResults(self, model):
         pagename = self.path + '/classificationResults%s.html' % model.targetFeature
         f = open(pagename, 'w')
-        f.write("<html><head><h1> Classification results </h1></head>")
+        f.write("<html><head><h1> Classification results - %s</h1></head>" % model.targetFeature)
         f.write("""<body><div style="width:100%;">""")
-        f.write(""" <p><b> Target Feature: </b> %s </p> """ % model.targetFeature) 
         f.write(""" <p><b> Size of Training Data: </b> %s </p> """ % len(model.trainData))
         f.write(""" <p><b> Size of Test Data: </b> %s </p>""" % len(model.testData))
-        self.listToHtmlTable(f, 'Ignored Features', model.droplist)
-
+        f.write(""" <p> <b> Ignored Features: </b> %s </p>""" % model.droplist)
+        
         f.write(""" <h3> Evaluation: </h3>""")
         f.write("""<table> """)
         f.write("""<tr><td> Accuracy: </td><td> %.2f </td></tr>""" % model.accuracy)
