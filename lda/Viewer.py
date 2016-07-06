@@ -146,7 +146,6 @@ class Viewer:
         f.write("<p> <h4> Possible Categories: </h4> %s</p>" % model.categories)
         f.write("</body></html>")
         f.close()
-        
         webbrowser.open_new_tab(filename)
     
     
@@ -286,7 +285,7 @@ class Viewer:
 
 
     def results(self, model, collection, info):
-        pagename = self.path + '/classificationResults%s.html' % model.feature
+        pagename = self.path + '/TM_Classification_%s.html' % model.feature
         topics = getattr(info, model.feature+'Topics')
         threshold = getattr(info, model.feature +'threshold')
         f = open(pagename, 'w')

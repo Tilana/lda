@@ -1,32 +1,42 @@
 from lda import ClassificationModel, Viewer, Info
 from sklearn.tree import DecisionTreeClassifier
+import pandas as pd
 
 def classification_ICAAD():
 
     ##### PARAMETERS #####
     info = Info()
     info.data = 'ICAAD'
-    info.identifier = 'LDA_T21P5I300_word2vec'
-    path = 'html/%s/DocumentFeatures.csv' % (info.data + '_' + info.identifier)
-
-    targetFeature = 'DV'
-    droplist = ['Unnamed: 0', 'File', 'DV']
-
-    ### PREPROCESSING ###
-    model = ClassificationModel(path, targetFeature, droplist)
-    model.dropNANRows()
+    info.identifier = 'LDA_T70P100I300_word2vec'
     
-    model.createNumericFeature('court')
-    model.toBoolean('SA')
-    model.toBoolean('DV')
+    targetFeature = 'Domestic.Violence.Manual'
+    droplist = ['Unnamed: 0', 'File', 'DV', 'SA']
 
+    ### LOAD DATA ###
+    path = 'html/%s/DocumentFeatures.csv' % (info.data + '_' + info.identifier)
+    model = ClassificationModel(path, targetFeature, droplist)
+
+    evaluationFile = 'Documents/PACI.csv'
+    dataFeatures = pd.read_csv(evaluationFile)
+    dataFeatures = dataFeatures.rename(columns={'Unnamed: 0': 'id'})
+    ### PREPROCESSING ###
+    features = dataFeatures.columns.tolist()
+    if targetFeature in features:
+        column = dataFeatures[['id', targetFeature]]
+        model.mergeDataset(column)
+
+    model.dropNANRows()
+    model.createNumericFeature('court')
+    model.toBoolean(['SA', 'DV'])
 
     ### SELECT TEST AND TRAINING DATA ###
-    model.balanceDataset(2)
+    factorFalseCases = 3 
+    model.balanceDataset(factorFalseCases)
     model.createTarget()
     model.dropFeatures()
 
-    model.splitDataset(len(model.data)/3)
+    numberTrainingDocs = len(model.data)/4
+    model.splitDataset(numberTrainingDocs)
 
     ### CLASSIFICATION ###
     classifier = DecisionTreeClassifier()
