@@ -95,7 +95,7 @@ class ClassificationModel:
     def getTaggedData(self, tag):
         indices = getattr(self.evaluation, tag)
         tagIndices = [self.testIndices[position] for position in indices]
-        return self.orgData.loc[tagIndices, ['File', 'Unnamed: 0']].apply(tuple, axis=1).tolist()
+        return [(self.orgData.loc[ind, 'File'], ind) for ind in tagIndices]
 
     def getTaggedDocs(self):
         tags = ['TP', 'FP', 'TN', 'FN']

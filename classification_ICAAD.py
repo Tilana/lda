@@ -13,10 +13,10 @@ def classification_ICAAD():
 
     info = Info()
     info.data = 'ICAAD'
-    info.identifier = 'LDA_T15P30I500_word2vec'
+    info.identifier = 'LDA_T55P12I100_tfidf_word2vec'
     
     #targetFeature = 'Sexual.Assault.Manual'
-    droplist = ['Unnamed: 0', 'File', 'DV', 'SA', 'id']
+    droplist = ['File', 'DV', 'SA', 'id']
 
     for feature in features:
         targetFeature = feature
@@ -25,10 +25,13 @@ def classification_ICAAD():
         ### LOAD DATA ###
         path = 'html/%s/DocumentFeatures.csv' % (info.data + '_' + info.identifier)
         model = ClassificationModel(path, targetFeature, droplist)
+        #model.data = model.data.set_index('Unnamed: 0')
 
         ### PREPROCESSING ###
         column = dataFeatures[['id', targetFeature]]
         model.mergeDataset(column)
+        model.data = model.data.set_index('Unnamed: 0')
+        model.orgData = model.data
 
         model.dropNANRows()
         model.createNumericFeature('court')
@@ -39,7 +42,7 @@ def classification_ICAAD():
         model.createTarget()
         model.dropFeatures()
 
-        model.numberTrainingDocs = len(model.data)/4
+        model.numberTrainingDocs = len(model.data)/3
         model.splitDataset(model.numberTrainingDocs)
 
         ### CLASSIFICATION ###
@@ -50,6 +53,7 @@ def classification_ICAAD():
         ### EVALUATION ###
         model.evaluate()
         model.confusionMatrix()
+        model.confusionMatrix = model.confusionMatrix.rename(index={0: 'Target True', 1: 'Target False'}, columns={0: 'Predicted True', 1: 'Predicted False'})
         model.featureImportance()
         model.getTaggedDocs()
 
