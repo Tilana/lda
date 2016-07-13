@@ -12,7 +12,7 @@ def clustering():
 
     info = Info()
     info.data = 'ICAAD'
-    info.identifier = 'LDA_T15P30I500_word2vec'
+    info.identifier = 'LDA_T60P10I70_tfidf_word2vec'
 
     path = 'html/%s/DocumentFeatures.csv' % (info.data + '_' + info.identifier)
     originalData = pd.read_csv(path)

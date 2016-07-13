@@ -16,6 +16,7 @@ class ClassificationModel:
     
     def splitDataset(self, num):
         self._generateRandomIndices(num)
+        #self._generateIndices(num)
         self.trainData = self.data.loc[self.trainIndices]
         self.trainTarget = self.target.loc[self.trainIndices]
         self.testData = self.data.loc[self.testIndices]
@@ -23,6 +24,10 @@ class ClassificationModel:
 
     def _generateRandomIndices(self, num):
         self.trainIndices = random.sample(self.data.index, num)
+        self.testIndices = list(set(self.data.index) - set(self.trainIndices))
+
+    def _generateIndices(self, num):
+        self.trainIndices = self.data.index[0:num]
         self.testIndices = list(set(self.data.index) - set(self.trainIndices))
     
     def balanceDataset(self, factor=1):

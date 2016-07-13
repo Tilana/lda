@@ -18,6 +18,13 @@ def loadTxtFiles(path):
     docs = [open(path+'/'+txtfile).read() for txtfile in os.listdir(path)]
     return (titles, docs)
 
+def loadEncodedFiles(path):
+    titles, texts = loadTxtFiles(path)
+    titles = [removeSpecialChars(title) for title in titles]
+    texts = [removeSpecialChars(text) for text in texts]
+    return (titles, texts)
+
+
 
 def loadCsvFile(path):
     data = pandas.read_csv(path) #, encoding='utf8')
@@ -36,12 +43,6 @@ def loadCategories(path):
     return [wordlist.split() for wordlist in categories]
 
 
-#def loadKeywordLists(path, info):
-#    data = pandas.read_csv(path).astype(str)
-#    for col in data.columns:
-#        words = data[col].unique()
-#        setattr(info, col, words)
-        
     
 def removeSpecialChars(text, verbosity=0):
     encodedText = []

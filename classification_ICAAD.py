@@ -1,21 +1,30 @@
 from lda import ClassificationModel, Viewer, Info, Evaluation
 from sklearn.tree import DecisionTreeClassifier
+from sklearn.ensemble import RandomForestClassifier
 import pandas as pd
+import logging
 
 def classification_ICAAD():
 
     ##### PARAMETERS #####
+    logging.basicConfig()
     evaluationFile = 'Documents/PACI.csv'
     dataFeatures = pd.read_csv(evaluationFile)
     dataFeatures = dataFeatures.rename(columns={'Unnamed: 0': 'id'})
 
     features = [feature for feature in dataFeatures.columns.tolist() if dataFeatures[feature].dtypes==bool]
+    features = ['Domestic.Violence.Manual']
 
     info = Info()
     info.data = 'ICAAD'
-    info.identifier = 'LDA_T55P12I100_tfidf_word2vec'
+    info.identifier = 'LDA_T60P10I70_tfidf_word2vec'
     
     #targetFeature = 'Sexual.Assault.Manual'
+    topicList =  [('Topic%d' % topicNr) for topicNr in range(0,54)]
+    similarDocList = [('similarDocs%d' % docNr) for docNr in range(1,6)]
+    keep = topicList + ['Unnamed: 0'] + similarDocList
+    keep = ['domestic', 'husband', 'wife', 'violence', 'rape', 'child', 'Unnamed: 0']
+    
     droplist = ['File', 'DV', 'SA', 'id']
 
     for feature in features:
@@ -26,6 +35,7 @@ def classification_ICAAD():
         path = 'html/%s/DocumentFeatures.csv' % (info.data + '_' + info.identifier)
         model = ClassificationModel(path, targetFeature, droplist)
         #model.data = model.data.set_index('Unnamed: 0')
+        model.droplist = list(set(model.data.columns.tolist())-set(keep))
 
         ### PREPROCESSING ###
         column = dataFeatures[['id', targetFeature]]
@@ -37,23 +47,25 @@ def classification_ICAAD():
         model.createNumericFeature('court')
 
         ### SELECT TEST AND TRAINING DATA ###
-        model.factorFalseCases = 1 
+        model.factorFalseCases = 2 
         model.balanceDataset(model.factorFalseCases)
         model.createTarget()
         model.dropFeatures()
 
-        model.numberTrainingDocs = len(model.data)/3
+        model.numberTrainingDocs = len(model.data)/4
         model.splitDataset(model.numberTrainingDocs)
 
         ### CLASSIFICATION ###
         classifier = DecisionTreeClassifier()
+        #classifier = RandomForestClassifier()
+        #classifier = Classifier(layers=[Layer("Rectifier", units=5), Layer("Softmax")], learning_rate=0.000001, n_iter = 25)
         model.trainClassifier(classifier)
         model.predict(classifier)
 
         ### EVALUATION ###
         model.evaluate()
         model.confusionMatrix()
-        model.confusionMatrix = model.confusionMatrix.rename(index={0: 'Target True', 1: 'Target False'}, columns={0: 'Predicted True', 1: 'Predicted False'})
+        
         model.featureImportance()
         model.getTaggedDocs()
 

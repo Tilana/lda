@@ -169,19 +169,19 @@ class Viewer:
             if 'year' in attributes:
                 f.write("Year:  %s <br>" % doc.year)
             
-            f.write("<h4> Predictions: </h4>")
-            if 'predSA' in attributes:
-                f.write("predicted SA:")
-                if doc.predSA == doc.SA:
-                    f.write("""<font color="green"> %s </font> <br>""" % doc.predSA) 
-                else:
-                    f.write("""<font color="red"> %s </font> <br>""" % doc.predSA)
-            if 'predDV' in attributes:
-                f.write("predicted DV:")
-                if doc.predDV == doc.DV:
-                    f.write("""<font color="green"> %s </font> <br>""" % doc.predDV) 
-                else:
-                    f.write("""<font color="red"> %s </font> <br>""" % doc.predDV) 
+            #f.write("<h4> Predictions: </h4>")
+            #if 'predSA' in attributes:
+            #    f.write("predicted SA:")
+            #    if doc.predSA == doc.SA:
+            #        f.write("""<font color="green"> %s </font> <br>""" % doc.predSA) 
+            #    else:
+            #        f.write("""<font color="red"> %s </font> <br>""" % doc.predSA)
+            #if 'predDV' in attributes:
+            #    f.write("predicted DV:")
+            #    if doc.predDV == doc.DV:
+            #        f.write("""<font color="green"> %s </font> <br>""" % doc.predDV) 
+            #    else:
+            #        f.write("""<font color="red"> %s </font> <br>""" % doc.predDV) 
             
             if 'LDACoverage' in attributes:
                 f.write("""<h4> LDA Topic coverage:</h4><table>""")

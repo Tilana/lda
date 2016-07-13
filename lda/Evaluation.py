@@ -1,6 +1,7 @@
 from __future__ import division
 from sklearn import metrics
 import pandas as pd
+import numpy as np
 
 class Evaluation:
 
@@ -11,17 +12,19 @@ class Evaluation:
         self.n = len(self.target)
 
     def accuracy(self):
-        self.accuracy = (len(self.TP) + len(self.TN))/self.n
+        self.accuracy = (self.n_TP + self.n_TN)/self.n
                                                                     
     def recall(self):
-        self.recall = len(self.TP)/(len(self.TP) + len(self.FN))
+        self.recall = self.n_TP/(self.n_TP + self.n_FN)
                                                                     
     def precision(self):
-        self.precision = len(self.TP)/(len(self.TP) + len(self.FP))
+        self.precision = self.n_TP/(self.n_TP + self.n_FP)
 
     def confusionMatrix(self):
-        matrix = metrics.confusion_matrix(self.target, self.prediction)
+        matrix = np.array([self.n_TN, self.n_FN][self.n_FP, self.n_TP])
+        #matrix = metrics.confusion_matrix(self.target, self.prediction)
         self.confusionMatrix = pd.DataFrame(matrix)
+        self.confusionMatrix = self.confusionMatrix.rename(index={0:'Target False', 1:'Target True'}, columns={0:'Predicted False', 1:'Predicted True'})
 
     def checkLength(self):
         if len(self.target) != len(self.prediction):
@@ -45,11 +48,15 @@ class Evaluation:
         indices = [ind for ind,value in enumerate(self.tags) if value==tag]
         setattr(self, tag, indices)
 
+    def setTagLength(self, tag):
+        setattr(self, 'n_'+tag, len(getattr(self, tag)))
+
 
     def setAllTags(self):
         self.createTags()
         categories = ['TP', 'FP', 'TN', 'FN']
         for tag in categories:
             self.setTag(tag)
+            self.setTagLength(tag)
 
     

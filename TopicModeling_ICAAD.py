@@ -46,10 +46,10 @@ def TopicModeling_ICAAD():
 
     # LDA #
     info.modelType = 'LDA'  # 'LDA' 'LSI'
-    info.numberTopics = 15 
-    info.tfidf = 0
-    info.passes = 30 
-    info.iterations = 500 
+    info.numberTopics = 60 
+    info.tfidf = 1
+    info.passes = 10 
+    info.iterations = 70 
     info.online = 1 
     info.chunksize = 4100                                        
     info.multicore = 1
