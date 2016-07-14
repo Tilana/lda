@@ -16,7 +16,6 @@ class ClassificationModel:
     
     def splitDataset(self, num):
         self._generateRandomIndices(num)
-        #self._generateIndices(num)
         self.trainData = self.data.loc[self.trainIndices]
         self.trainTarget = self.target.loc[self.trainIndices]
         self.testData = self.data.loc[self.testIndices]
@@ -26,9 +25,6 @@ class ClassificationModel:
         self.trainIndices = random.sample(self.data.index, num)
         self.testIndices = list(set(self.data.index) - set(self.trainIndices))
 
-    def _generateIndices(self, num):
-        self.trainIndices = self.data.index[0:num]
-        self.testIndices = list(set(self.data.index) - set(self.trainIndices))
     
     def balanceDataset(self, factor=1):
         trueCases = df.getIndex(df.filterData(self.data, self.targetFeature))
@@ -50,7 +46,8 @@ class ClassificationModel:
     def createNumericFeature(self, column):
         category = 0
         for value in self.data[column].unique():
-            self.data.loc[self.data[column]==value, column] = category
+            rowIndex = self.data[self.data[column]==value].index.tolist()
+            self.data.loc[rowIndex, column] = category
             category += 1
         self.toNumeric(column)
 
@@ -65,6 +62,11 @@ class ClassificationModel:
         self.data[column] = self.data[column].astype(bool)
 
     def dropFeatures(self):
+        if hasattr(self, 'keeplist'):
+            print 'Got here'
+            keeplist = getattr(self, 'keeplist')
+            self.droplist = list(set(self.data.columns.tolist()) - set(keeplist))
+        print self.droplist
         self.data = self.data.drop(self.droplist, axis=1)
 
     def trainClassifier(self, classifier):
@@ -106,5 +108,8 @@ class ClassificationModel:
         tags = ['TP', 'FP', 'TN', 'FN']
         for tag in tags:
             setattr(self, tag+'_docs', self.getTaggedData(tag))
+
+    def oneHotEncoding(self, data):
+        return pd.get_dummies(data)
 
 

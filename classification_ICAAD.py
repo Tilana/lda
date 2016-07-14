@@ -22,23 +22,18 @@ def classification_ICAAD():
     #targetFeature = 'Sexual.Assault.Manual'
     topicList =  [('Topic%d' % topicNr) for topicNr in range(0,54)]
     similarDocList = [('similarDocs%d' % docNr) for docNr in range(1,6)]
-    keep = topicList + ['Unnamed: 0'] + similarDocList
-    keep = ['domestic', 'husband', 'wife', 'violence', 'rape', 'child', 'Unnamed: 0']
+
+    ### LOAD DATA ###
+    path = 'html/%s/DocumentFeatures.csv' % (info.data + '_' + info.identifier)
+    model = ClassificationModel(path)
+    model.droplist = []
+    model.keeplist = topicList + similarDocList
     
-    droplist = ['File', 'DV', 'SA', 'id']
-
     for feature in features:
-        targetFeature = feature
-        print feature
-
-        ### LOAD DATA ###
-        path = 'html/%s/DocumentFeatures.csv' % (info.data + '_' + info.identifier)
-        model = ClassificationModel(path, targetFeature, droplist)
-        #model.data = model.data.set_index('Unnamed: 0')
-        model.droplist = list(set(model.data.columns.tolist())-set(keep))
+        model.targetFeature = feature
 
         ### PREPROCESSING ###
-        column = dataFeatures[['id', targetFeature]]
+        column = dataFeatures[['id', model.targetFeature]]
         model.mergeDataset(column)
         model.data = model.data.set_index('Unnamed: 0')
         model.orgData = model.data
@@ -52,13 +47,14 @@ def classification_ICAAD():
         model.createTarget()
         model.dropFeatures()
 
+
         model.numberTrainingDocs = len(model.data)/4
         model.splitDataset(model.numberTrainingDocs)
+        print model.trainData.columns
 
         ### CLASSIFICATION ###
         classifier = DecisionTreeClassifier()
         #classifier = RandomForestClassifier()
-        #classifier = Classifier(layers=[Layer("Rectifier", units=5), Layer("Softmax")], learning_rate=0.000001, n_iter = 25)
         model.trainClassifier(classifier)
         model.predict(classifier)
 
