@@ -14,7 +14,7 @@ def classification_ICAAD():
     dataFeatures = dataFeatures.rename(columns={'Unnamed: 0': 'id'})
 
     features = [feature for feature in dataFeatures.columns.tolist() if dataFeatures[feature].dtypes==bool]
-    features = ['Domestic.Violence.Manual']
+    #features = ['Domestic.Violence.Manual']
 
     info = Info()
     info.data = 'ICAAD'
@@ -30,8 +30,8 @@ def classification_ICAAD():
         
         path = 'html/%s/DocumentFeatures.csv' % (info.data + '_' + info.identifier)
         model = ClassificationModel(path)
-        model.droplist = []
-        model.keeplist = topicList
+        model.droplist = ['DV', 'SA', 'File', 'id'] 
+        model.keeplist = topicList 
 
         model.targetFeature = feature
 
@@ -50,10 +50,9 @@ def classification_ICAAD():
         model.createTarget()
         model.dropFeatures()
 
-
         model.numberTrainingDocs = len(model.data)/3
         model.splitDataset(model.numberTrainingDocs)
-
+        
         ### CLASSIFICATION ###
         model.buildClassifier(info.classifierType)
         model.trainClassifier()
@@ -61,7 +60,7 @@ def classification_ICAAD():
 
         ### EVALUATION ###
         model.evaluate()
-        model.confusionMatrix()
+        model.evaluation.confusionMatrix()
         
         if not info.classifierType=='NeuralNet':
             model.computeFeatureImportance()

@@ -12,16 +12,16 @@ class Evaluation:
         self.n = len(self.target)
 
     def accuracy(self):
-        self.accuracy = (self.n_TP + self.n_TN)/self.n
+        self.accuracy = np.float64(self.n_TP + self.n_TN)/self.n
                                                                     
     def recall(self):
-        self.recall = self.n_TP/(self.n_TP + self.n_FN)
+        self.recall = np.float64(self.n_TP)/(self.n_TP + self.n_FN)
                                                                     
     def precision(self):
-        self.precision = self.n_TP/(self.n_TP + self.n_FP)
+        self.precision = np.float64(self.n_TP)/(self.n_TP + self.n_FP)
 
     def confusionMatrix(self):
-        matrix = np.array([self.n_TN, self.n_FN][self.n_FP, self.n_TP])
+        matrix = np.array([[self.n_TN, self.n_FP], [self.n_FN, self.n_TP]], dtype=int)
         self.confusionMatrix = pd.DataFrame(matrix)
         self.confusionMatrix = self.confusionMatrix.rename(index={0:'Target False', 1:'Target True'}, columns={0:'Predicted False', 1:'Predicted True'})
 

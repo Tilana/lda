@@ -91,9 +91,9 @@ class ClassificationModel:
         featureImportance = sorted(zip(map(lambda relevance: round(relevance,4), self.classifier.feature_importances_), self.data.columns), reverse=True)
         self.featureImportance = [(elem[1], elem[0]) for elem in featureImportance if elem[0]>0.0]
 
-    def confusionMatrix(self):
-        matrix = metrics.confusion_matrix(self.testTarget, self.predicted)
-        self.confusionMatrix = pd.DataFrame(matrix)
+    #def confusionMatrix(self):
+    #    matrix = metrics.confusion_matrix(self.testTarget, self.predicted)
+    #    self.confusionMatrix = pd.DataFrame(matrix)
 
     def dropNANRows(self):
         self.data = self.data.dropna()

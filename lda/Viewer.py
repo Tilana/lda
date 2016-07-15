@@ -7,14 +7,18 @@ class Viewer:
 
     def __init__(self, info):
         self.path = 'html/'+ info.data +'_' + info.identifier
+        self.createFolder(self.path)
+        self.createFolder(self.path + '/Documents')
+        self.createFolder(self.path + '/Topics')
+        self.createFolder(self.path + '/Images')
+        self.createFolder(self.path + '/Cluster')
+        
+
+    def createFolder(self, path):
         try:
-            os.makedirs(self.path)
-            os.makedirs(self.path + '/Documents')
-            os.makedirs(self.path + '/Topics')
-            os.makedirs(self.path + '/Images')
-            os.makedirs(self.path + '/Cluster')
+            os.makedirs(path)
         except OSError:
-            if not os.path.isdir(self.path):
+            if not os.path.isdir(path):
                 raise
         
     
@@ -44,11 +48,11 @@ class Viewer:
         self.listToHtmlTable(f, title + '- %d' % len(l), l)
         f.write("""</div>""")
     
-    def printLinkedDocuments(self, f, title, documentTuples):
+    def printLinkedDocuments(self, f, title, documentTuples, folder=0):
         f.write("""<div>""")                                   
         f.write("""<h4>%s</h4><table>""" % title.encode('utf8'))
         for doc in documentTuples:
-            f.write("""<tr><td><a href='Documents/doc%02d.html'> %s </a></td></tr>""" % (doc[1], doc[0])) 
+            f.write("""<tr><td><a href='%sDocuments/doc%02d.html'> %s </a></td></tr>""" % (folder*'../', doc[1], doc[0])) 
         f.write("""</table>""")
         f.write("""</div>""")
 
@@ -169,19 +173,19 @@ class Viewer:
             if 'year' in attributes:
                 f.write("Year:  %s <br>" % doc.year)
             
-            #f.write("<h4> Predictions: </h4>")
-            #if 'predSA' in attributes:
-            #    f.write("predicted SA:")
-            #    if doc.predSA == doc.SA:
-            #        f.write("""<font color="green"> %s </font> <br>""" % doc.predSA) 
-            #    else:
-            #        f.write("""<font color="red"> %s </font> <br>""" % doc.predSA)
-            #if 'predDV' in attributes:
-            #    f.write("predicted DV:")
-            #    if doc.predDV == doc.DV:
-            #        f.write("""<font color="green"> %s </font> <br>""" % doc.predDV) 
-            #    else:
-            #        f.write("""<font color="red"> %s </font> <br>""" % doc.predDV) 
+            f.write("<h4> Topic Modeling Predictions: </h4>")
+            if 'predSA' in attributes:
+                f.write("predicted SA:")
+                if doc.predSA == doc.SA:
+                    f.write("""<font color="green"> %s </font> <br>""" % doc.predSA) 
+                else:
+                    f.write("""<font color="red"> %s </font> <br>""" % doc.predSA)
+            if 'predDV' in attributes:
+                f.write("predicted DV:")
+                if doc.predDV == doc.DV:
+                    f.write("""<font color="green"> %s </font> <br>""" % doc.predDV) 
+                else:
+                    f.write("""<font color="red"> %s </font> <br>""" % doc.predDV) 
             
             if 'LDACoverage' in attributes:
                 f.write("""<h4> LDA Topic coverage:</h4><table>""")
@@ -257,13 +261,17 @@ class Viewer:
 
 
     def classificationResults(self, model):
-        pagename = self.path + '/%s.html' % model.targetFeature
+        self.createFolder(self.path + '/Classification')
+        self.createFolder(self.path + '/Classification/%s' % model.classifierType)
+        pagename = self.path + '/Classification/%s/%s.html' % (model.classifierType, model.targetFeature)
         f = open(pagename, 'w')
-        f.write("<html><head><h1> Classification results - %s</h1></head>" % model.targetFeature)
+        f.write("<html><head><h1> %s Classification - %s</h1></head>" % (model.classifierType, model.targetFeature))
         f.write("""<body><div style="width:100%;">""")
+        f.write(""" <p><b> Classifier: </b> %s </p> """ % model.classifierType)
         f.write(""" <p><b> Size of Training Data: </b> %s </p> """ % len(model.trainData))
         f.write("""<p> <b> Balance of Training Data: </b> True 1 : %d False """ % model.factorFalseCases)
         f.write(""" <p><b> Size of Test Data: </b> %s </p>""" % len(model.testData))
+        f.write(""" <p> <b> Features: </b> %s </p>""" % model.trainData.columns.tolist())
         f.write(""" <p> <b> Ignored Features: </b> %s </p>""" % model.droplist)
         
         f.write(""" <h3> Evaluation: </h3>""")
@@ -274,20 +282,18 @@ class Viewer:
         f.write("""</table>""")
 
         f.write(""" <h3> Confusion Matrix: </h3>""")
-        confusionMatrix = model.confusionMatrix.to_html()
+        confusionMatrix = model.evaluation.confusionMatrix.to_html()
         f.write(confusionMatrix)
 
         if hasattr(model, 'featureImportance'):
             self.printTupleList(f, 'Feature Importance', model.featureImportance, format='float')
 
-        #f.write("""</table></div>""")
-
-        if hasattr(model, 'TP_docs'):
-            f.write("""<style type="text/css"> body>div {width: 23%; float: left; border: 1px solid} </style></head>""") 
-            self.printLinkedDocuments(f, 'True Positives', model.TP_docs) 
-            self.printLinkedDocuments(f, 'False Positives', model.FP_docs) 
-            self.printLinkedDocuments(f, 'True Negatives', model.TN_docs) 
-            self.printLinkedDocuments(f, 'False Negatives', model.FN_docs) 
+        f.write("""</table></div>""")
+        f.write("""<style type="text/css"> body>div {width: 23%; float: left; border: 1px solid} </style></head>""") 
+        self.printLinkedDocuments(f, 'True Positives', model.TP_docs, 2) 
+        self.printLinkedDocuments(f, 'False Positives', model.FP_docs, 2) 
+        self.printLinkedDocuments(f, 'True Negatives', model.TN_docs, 2) 
+        self.printLinkedDocuments(f, 'False Negatives', model.FN_docs, 2) 
         f.write("""</body></html>""")
         f.close()
         webbrowser.open_new_tab(pagename)
