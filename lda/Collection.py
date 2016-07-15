@@ -2,7 +2,7 @@ import urllib2
 import docLoader
 from Dictionary import Dictionary
 from Document import Document
-from lda import Evaluation
+from Evaluation import Evaluation
 from ClassificationModel import ClassificationModel
 import sPickle
 import pandas as pd

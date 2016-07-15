@@ -22,7 +22,6 @@ class Evaluation:
 
     def confusionMatrix(self):
         matrix = np.array([self.n_TN, self.n_FN][self.n_FP, self.n_TP])
-        #matrix = metrics.confusion_matrix(self.target, self.prediction)
         self.confusionMatrix = pd.DataFrame(matrix)
         self.confusionMatrix = self.confusionMatrix.rename(index={0:'Target False', 1:'Target True'}, columns={0:'Predicted False', 1:'Predicted True'})
 

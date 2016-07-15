@@ -1,8 +1,11 @@
 import pandas as pd
 import random
-from lda import dataframeUtils as df
-from lda import Evaluation
+import dataframeUtils as df
+from Evaluation import Evaluation
+from NeuralNet import NeuralNet
 from sklearn import metrics
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.ensemble import RandomForestClassifier
 
 class ClassificationModel:
 
@@ -63,18 +66,18 @@ class ClassificationModel:
 
     def dropFeatures(self):
         if hasattr(self, 'keeplist'):
-            print 'Got here'
             keeplist = getattr(self, 'keeplist')
             self.droplist = list(set(self.data.columns.tolist()) - set(keeplist))
-        print self.droplist
         self.data = self.data.drop(self.droplist, axis=1)
 
-    def trainClassifier(self, classifier):
-        classifier.fit(self.trainData, self.trainTarget)
-        self.classifier = classifier
+    def trainClassifier(self):
+        if self.classifierType=='NeuralNet':
+            self.classifier.train(self.trainData, self.trainTarget)
+        else:
+            self.classifier.fit(self.trainData, self.trainTarget)
 
-    def predict(self, classifier):
-        self.predicted = classifier.predict(self.testData)
+    def predict(self):
+        self.predicted = self.classifier.predict(self.testData)
 
     def evaluate(self):
         self.evaluation = Evaluation(self.testTarget, self.predicted)
@@ -84,7 +87,7 @@ class ClassificationModel:
         self.evaluation.recall()
         self.evaluation.precision()
 
-    def featureImportance(self):
+    def computeFeatureImportance(self):
         featureImportance = sorted(zip(map(lambda relevance: round(relevance,4), self.classifier.feature_importances_), self.data.columns), reverse=True)
         self.featureImportance = [(elem[1], elem[0]) for elem in featureImportance if elem[0]>0.0]
 
@@ -111,5 +114,17 @@ class ClassificationModel:
 
     def oneHotEncoding(self, data):
         return pd.get_dummies(data)
+
+    def buildClassifier(self, classifierType):
+        self.classifierType = classifierType
+        if classifierType == 'DecisionTree':
+            self.classifier = DecisionTreeClassifier()
+        elif classifierType == 'RandomForest':
+            self.classifier = RandomForestClassifier()
+        elif classifierType == 'NeuralNet':
+            self.trainTarget = self.oneHotEncoding(self.trainTarget)
+            featureLength = len(self.trainData.columns)
+            self.classifier = NeuralNet()
+            self.classifier.setup(featureLength, 2) 
 
 

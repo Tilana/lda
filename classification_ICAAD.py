@@ -7,6 +7,7 @@ import logging
 def classification_ICAAD():
 
     ##### PARAMETERS #####
+    pd.set_option('chained_assignment', None)
     logging.basicConfig()
     evaluationFile = 'Documents/PACI.csv'
     dataFeatures = pd.read_csv(evaluationFile)
@@ -17,19 +18,21 @@ def classification_ICAAD():
 
     info = Info()
     info.data = 'ICAAD'
-    info.identifier = 'LDA_T60P10I70_tfidf_word2vec'
+    info.topicNr = 60
+    info.identifier = 'LDA_T%dP10I70_tfidf_word2vec' % info.topicNr
+    info.classifierType = 'NeuralNet'
     
-    #targetFeature = 'Sexual.Assault.Manual'
-    topicList =  [('Topic%d' % topicNr) for topicNr in range(0,54)]
+    topicList =  [('Topic%d' % topicNr) for topicNr in range(0,info.topicNr)]
     similarDocList = [('similarDocs%d' % docNr) for docNr in range(1,6)]
 
     ### LOAD DATA ###
-    path = 'html/%s/DocumentFeatures.csv' % (info.data + '_' + info.identifier)
-    model = ClassificationModel(path)
-    model.droplist = []
-    model.keeplist = topicList + similarDocList
-    
     for feature in features:
+        
+        path = 'html/%s/DocumentFeatures.csv' % (info.data + '_' + info.identifier)
+        model = ClassificationModel(path)
+        model.droplist = []
+        model.keeplist = topicList
+
         model.targetFeature = feature
 
         ### PREPROCESSING ###
@@ -48,21 +51,20 @@ def classification_ICAAD():
         model.dropFeatures()
 
 
-        model.numberTrainingDocs = len(model.data)/4
+        model.numberTrainingDocs = len(model.data)/3
         model.splitDataset(model.numberTrainingDocs)
-        print model.trainData.columns
 
         ### CLASSIFICATION ###
-        classifier = DecisionTreeClassifier()
-        #classifier = RandomForestClassifier()
-        model.trainClassifier(classifier)
-        model.predict(classifier)
+        model.buildClassifier(info.classifierType)
+        model.trainClassifier()
+        model.predict()
 
         ### EVALUATION ###
         model.evaluate()
         model.confusionMatrix()
         
-        model.featureImportance()
+        if not info.classifierType=='NeuralNet':
+            model.computeFeatureImportance()
         model.getTaggedDocs()
 
         html = Viewer(info)
