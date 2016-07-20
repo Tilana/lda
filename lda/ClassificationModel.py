@@ -99,7 +99,7 @@ class ClassificationModel:
         self.data = self.data.dropna()
 
     def mergeDataset(self, dataset2):
-        self.data = pd.merge(dataset2, self.data, on=['id'])
+        self.data = pd.merge(self.data, dataset2, on=['id'])
 
 
     def getTaggedData(self, tag):
@@ -126,5 +126,23 @@ class ClassificationModel:
             featureLength = len(self.trainData.columns)
             self.classifier = NeuralNet()
             self.classifier.setup(featureLength, 2) 
+
+    def getSelectedTopics(self, topicNr, selectedTopics=None):
+        self.topicList = self.getTopicList(topicNr)
+        if selectedTopics != None: 
+            self.selectedTopics = [('Topic%d' % topic) for topic in selectedTopics]
+            self.addUnselectedTopicsToDroplist()
+
+    def getTopicList(self, topicNr):
+        return [('Topic%d' % topic) for topic in range(0, topicNr)] 
+
+    def getSimilarDocs(self, nrDocs=5):
+        return [('similarDocs%d' % docNr) for docNr in range(1, nrDocs+1)] 
+
+    def getRelevantWords(self, nrWords=3):
+        return [('relevantWord%d' % docNr) for docNr in range(1, nrWords+1)] 
+
+    def addUnselectedTopicsToDroplist(self):
+        self.droplist.extend(set(self.topicList) - set(self.selectedTopics))
 
 

@@ -46,10 +46,8 @@ class Info:
 
     def setCollectionName(self):
         if self.includeEntities:
-           # self.collectionName = 'dataObjects/'+self.data+'_entities'
             self.collectionName = 'processedDocuments/'+self.data+'_entities'
         else:
-           # self.collectionName = 'dataObjects/'+self.data+'_noEntities'
             self.collectionName = 'processedDocuments/'+self.data+'_noEntities'
         if self.numberDoc:
             self.collectionName = self.collectionName + '_%d' % self.numberDoc

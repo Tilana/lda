@@ -1,6 +1,4 @@
 from lda import ClassificationModel, Viewer, Info, Evaluation
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.ensemble import RandomForestClassifier
 import pandas as pd
 import logging
 
@@ -18,20 +16,28 @@ def classification_ICAAD():
 
     info = Info()
     info.data = 'ICAAD'
-    info.topicNr = 60
+    info.topicNr = 60 
     info.identifier = 'LDA_T%dP10I70_tfidf_word2vec' % info.topicNr
     info.classifierType = 'NeuralNet'
-    
-    topicList =  [('Topic%d' % topicNr) for topicNr in range(0,info.topicNr)]
-    similarDocList = [('similarDocs%d' % docNr) for docNr in range(1,6)]
 
+    selectedTopics = [1,9,12,34,47,51,59] # set to None selects all topics
+    selectedTopics = None
+    
     ### LOAD DATA ###
     for feature in features:
         
         path = 'html/%s/DocumentFeatures.csv' % (info.data + '_' + info.identifier)
         model = ClassificationModel(path)
+        
         model.droplist = ['DV', 'SA', 'File', 'id'] 
-        model.keeplist = topicList 
+        
+
+        model.getSelectedTopics(info.topicNr, selectedTopics)
+        similarDocList = model.getSimilarDocs()
+        relevantWords = model.getRelevantWords()
+
+        model.droplist.extend(similarDocList + relevantWords)
+        model.keeplist = model.topicList 
 
         model.targetFeature = feature
 
@@ -39,7 +45,6 @@ def classification_ICAAD():
         column = dataFeatures[['id', model.targetFeature]]
         model.mergeDataset(column)
         model.data = model.data.set_index('Unnamed: 0')
-        model.orgData = model.data
 
         model.dropNANRows()
         model.createNumericFeature('court')
