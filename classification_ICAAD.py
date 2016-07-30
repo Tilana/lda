@@ -12,7 +12,7 @@ def classification_ICAAD():
     dataFeatures = dataFeatures.rename(columns={'Unnamed: 0': 'id'})
 
     features = [feature for feature in dataFeatures.columns.tolist() if dataFeatures[feature].dtypes==bool]
-    #features = ['Domestic.Violence.Manual']
+    features = ['Domestic.Violence.Manual']
 
     info = Info()
     info.data = 'ICAAD'

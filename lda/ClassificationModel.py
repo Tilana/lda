@@ -9,12 +9,13 @@ from sklearn.ensemble import RandomForestClassifier
 
 class ClassificationModel:
 
-    def __init__(self, path=None, target=None, droplist=None):
+    def __init__(self, path=None, target=None, droplist=None, binary=True):
         if path != None:
             self.orgData = pd.read_csv(path)
         self.data = self.orgData
         self.targetFeature = target 
         self.droplist = droplist
+        self.binary = binary
 
     
     def splitDataset(self, num):

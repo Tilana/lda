@@ -279,7 +279,8 @@ class Viewer:
         f.write("""<body><div style="width:100%;">""")
         f.write(""" <p><b> Classifier: </b> %s </p> """ % model.classifierType)
         f.write(""" <p><b> Size of Training Data: </b> %s </p> """ % len(model.trainData))
-        f.write("""<p> <b> Balance of Training Data: </b> True 1 : %d False """ % model.factorFalseCases)
+        if model.binary:
+            f.write("""<p> <b> Balance of Training Data: </b> True 1 : %d False """ % model.factorFalseCases)
         f.write(""" <p><b> Size of Test Data: </b> %s </p>""" % len(model.testData))
         f.write(""" <p> <b> Features: </b> %s </p>""" % model.trainData.columns.tolist())
         f.write(""" <p> <b> Ignored Features: </b> %s </p>""" % model.droplist)
