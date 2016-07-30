@@ -20,6 +20,9 @@ class Viewer:
         except OSError:
             if not os.path.isdir(path):
                 raise
+
+    def writeHead(self, f, title):
+        f.write("""<head><h1>%s</h1></head>""" % title)
         
     
     def listToHtmlTable(self, f, title, unicodeList):
@@ -114,7 +117,9 @@ class Viewer:
     def documentOverview(self, collection):
         name = self.path + '/documents.html'
         f = open(name, 'w')
-        f.write("""<html><head><h2> Document Overview </h2></head><body>""")
+        f.write("<html>")
+        self.writeHead(f, 'Document Overview')
+        f.write("<body>")
         f.write("""<img src="Images/maxTopicCoverage.jpg" alt="wrong path" height="280">""")
         sortedCollection = sorted(collection, key=lambda document: document.LDACoverage[0][1], reverse=True)
         indices = [ind[0] for ind in sorted(enumerate(collection), key=lambda document: document[1].LDACoverage[0][1], reverse=True)]
@@ -128,11 +133,12 @@ class Viewer:
         f.close()
         webbrowser.open_new_tab(name)
 
-
+    
     def printTopics(self, model):
         filename = self.path + '/%stopics.html' % model.name
         f = open(filename, 'w')
-        f.write("<html><head><h1> %s Topics</h1></head>" % model.name)
+        f.write("<html>")
+        self.writeHead('%s Topics' % model.name)
         f.write("<body><p>Topics and related words - %s Model</p><table>" % model.name )
         f.write("""<col style="width:7%"> <col style="width: 15%"> <col style="width:7%"> <col style="width: 7%"> <col style="width:80%">""")
 
@@ -159,7 +165,8 @@ class Viewer:
 
             attributes = doc.__dict__.keys()
             f = open(pagename, 'w')
-            f.write("<html><head><h1>Document %02d - %s</h1></head>" % (ind, doc.title))
+            f.write("<html>")
+            self.writeHead(f, "Document %02d - %s" % (ind, doc.title))
 
             f.write("""<body><div style="width:100%;"><div style="float:right; width:45%;">""")
 
@@ -240,7 +247,8 @@ class Viewer:
         for num in range(0, model.numberTopics): 
     	    pagename = self.path + '/Topics/%stopic%d.html' % (model.name, num)
     	    f = open(pagename, 'w')
-    	    f.write("<html><head><h1> %s Document Relevance for Topic %d</h1></head>" %  (model.name, num))
+    	    f.write("<html>")
+            self.writeHead(f, '%s Document Relevance for Topic %d' %  (model.name, num))
             f.write("<body><h4>Topics and related words - %s Model</h4><table>" % model.name)
             f.write("""<col style="width:7%"> <col style="width:80%">""")
             topic = model.topics[num]
@@ -265,7 +273,9 @@ class Viewer:
         self.createFolder(self.path + '/Classification/%s' % model.classifierType)
         pagename = self.path + '/Classification/%s/%s.html' % (model.classifierType, model.targetFeature)
         f = open(pagename, 'w')
-        f.write("<html><head><h1> %s Classification - %s</h1></head>" % (model.classifierType, model.targetFeature))
+        title = '%s Classification - %s' % (model.classifierType, model.targetFeature)
+        f.write("<html>")
+        self.writeHead(f, title)
         f.write("""<body><div style="width:100%;">""")
         f.write(""" <p><b> Classifier: </b> %s </p> """ % model.classifierType)
         f.write(""" <p><b> Size of Training Data: </b> %s </p> """ % len(model.trainData))
@@ -304,7 +314,8 @@ class Viewer:
         topics = getattr(info, model.feature+'Topics')
         threshold = getattr(info, model.feature +'threshold')
         f = open(pagename, 'w')
-        f.write("<html><head><h1> %s Classification results </h1></head>" % model.feature)
+        f.write("<html>")
+        self.writeHead(f, '%s Classification results' % model.feature)
         f.write("""<body><div style="width:100%;">""")
         f.write(""" <p><b> Number of Documents: </b> %s </p> """ % len(model.prediction))
         f.write(""" <p><b> Selected Topics: </b> %s </p>""" % topics)
@@ -332,7 +343,8 @@ class Viewer:
     def printCluster(self, cluster, openHtml=False):
     	pagename = self.path + '/Cluster/cluster%d.html' % cluster.number
     	f = open(pagename, 'w')
-    	f.write("<html><head><h1> Cluster %d</h1></head>" % cluster.number)
+    	f.write("<html>")
+        self.writeHead(f, 'Cluster %d' % cluster.number)
         f.write("<body><p> <b> Number of documents in cluster: </b> %d <p>" % len(cluster.features))
         f.write("<body><p> <b> Number of SA documents: </b> %d <p>" % len(cluster.SATrue))
         f.write("<p> <b> Number of DV documents: </b> %d <p>" % len(cluster.DVTrue))
@@ -351,7 +363,8 @@ class Viewer:
     def printClusterOverview(self, numbers, SA, DV):
     	pagename = self.path + '/clusterOverview.html'
     	f = open(pagename, 'w')
-    	f.write("<html><head><h1> Cluster Overview</h1></head>")
+    	f.write("<html>")
+        self.writeHead(f, 'Cluster Overview')
         f.write("<body><table>")
         f.write("""<col style="width:15%"> <col style="width:11%"> <col style="width:10%"> <col style="width:11%"> <col style="width:10%"> <col style="width:11%"> """)
         f.write("""<tr><td></td> <td> <b> Number Docs </b></td> <td><b>SA docs </b></td> <td> <b>SA &#37 </b></td> <td><b>DV docs</b></td> <td><b>DV &#37 </b> </td> </tr>""")
