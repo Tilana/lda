@@ -124,9 +124,10 @@ class ClassificationModel:
             self.classifier = RandomForestClassifier()
         elif classifierType == 'NeuralNet':
             self.trainTarget = self.oneHotEncoding(self.trainTarget)
-            featureLength = len(self.trainData.columns)
+            numberFeatures = len(self.trainData.columns)
+            numberTargetCategories =  len(self.trainTarget.columns)
             self.classifier = NeuralNet()
-            self.classifier.setup(featureLength, 2) 
+            self.classifier.setup(numberFeatures, numberTargetCategories) 
 
     def getSelectedTopics(self, topicNr, selectedTopics=None):
         self.topicList = self.getTopicList(topicNr)

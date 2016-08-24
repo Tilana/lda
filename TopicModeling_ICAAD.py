@@ -1,13 +1,11 @@
 #!/usr/bin/python
 #-*- coding: utf-8 -*-
-from lda import Collection, Dictionary, Model, Info, Viewer, utils, ClassificationModel
+from lda import Collection, Dictionary, Model, Info, Viewer, utils, Word2Vec, ImagePlotter
 from lda.docLoader import loadCategories
 from gensim.parsing.preprocessing import STOPWORDS
 from nltk.corpus import names
 from gensim.models import TfidfModel
 import os.path
-from lda import ImagePlotter
-from lda import Word2Vec
 from lda import dataframeUtils as df
 import csv
 import pandas as pd
@@ -28,9 +26,10 @@ def TopicModeling_ICAAD():
     # Preprocessing # 
     info.preprocess = 0
     info.startDoc = 0 
-    info.numberDoc= None 
+    info.numberDoc= 7 
     info.specialChars = set(u'''[,\.\'\`=\":\\\/_+]''')
     info.includeEntities = 0
+    info.bigrams = 1
 
     numbers = [str(nr) for nr in range(0,500)]
     info.whiteList= word2vec.net.vocab.keys() + numbers + keywords
@@ -41,18 +40,18 @@ def TopicModeling_ICAAD():
     # Dictionary #
     info.analyseDictionary = 0
                                                               
-    info.lowerFilter = 8      # in number of documents
-    info.upperFilter = 0.05   # in percent
+    info.lowerFilter = 2      # in number of documents
+    info.upperFilter = 0.95   # in percent
 
     # LDA #
     info.modelType = 'LDA'  # 'LDA' 'LSI'
-    info.numberTopics = 60 
-    info.tfidf = 1
-    info.passes = 10 
-    info.iterations = 70 
-    info.online = 1 
+    info.numberTopics = 4 
+    info.tfidf = 0
+    info.passes = 3 
+    info.iterations = 30 
+    info.online = 0 
     info.chunksize = 4100                                        
-    info.multicore = 1
+    info.multicore = 0
     
     info.setup()
 
@@ -71,6 +70,7 @@ def TopicModeling_ICAAD():
     if not os.path.exists(info.collectionName) or info.preprocess:
         print 'Load and preprocess Document Collection'
         collection.load(info.path, info.fileType, info.startDoc, info.numberDoc)
+        collection.setDocNumber()
         for doc in collection.documents:
             doc.title = doc.title.replace('.rtf.txt', '')
             features = dataFeatures[dataFeatures['Filename']==doc.title]
@@ -80,7 +80,7 @@ def TopicModeling_ICAAD():
             doc.extractYear()
             doc.extractCourt()
             
-        collection.prepareDocumentCollection(lemmatize=True, includeEntities=False, stopwords=info.stoplist, removeShortTokens=True, threshold=1, specialChars=info.specialChars, whiteList=info.whiteList, bigrams=True)
+        collection.prepareDocumentCollection(lemmatize=True, includeEntities=info.includeEntities, stopwords=info.stoplist, removeShortTokens=True, threshold=1, specialChars=info.specialChars, whiteList=info.whiteList, bigrams=info.bigrams)
         collection.saveDocumentCollection(info.collectionName)
 
     else:
@@ -125,8 +125,9 @@ def TopicModeling_ICAAD():
     lda.computeSimilarityMatrix(corpus, numFeatures=info.numberTopics, num_best = 7)
 
     maxTopicCoverage = []
-    for ind, document in enumerate(collection.documents):
-        document.setTopicCoverage(topicCoverage[ind], lda.name)
+    for document in collection.documents:
+        docTopicCoverage = topicCoverage[document.nr]
+        document.setTopicCoverage(docTopicCoverage, lda.name)
         lda.computeSimilarity(document)
         collection.computeRelevantWords(tfidf, dictionary, document)
         maxTopicCoverage.append(document.LDACoverage[0][1])

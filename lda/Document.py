@@ -32,10 +32,10 @@ class Document:
         if lemmatize:
             self.lemmatizeTokens()
         self.tokens = [token for token in self.tokens if (token not in stopwords) and (token in whiteList)]
-        #self.tokens = [token for token in self.tokens if not utils.containsAny(token, specialChars) and len(token) > threshold]
+        self.tokens = [token for token in self.tokens if not utils.containsAny(token, specialChars) and len(token) > threshold]
         if bigrams:
             bigramWhiteList = utils.getBigrams(whiteList)
-            self.createBigrams(50, bigramWhiteList)
+            self.createBigrams(30, bigramWhiteList)
             self.addBigramsToTokens()
         if includeEntities:
             if self.entities.isEmpty():

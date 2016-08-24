@@ -67,9 +67,9 @@ class Model:
         self.similarityMatrix = similarities.MatrixSimilarity(self.model[corpus], num_features = numFeatures, num_best=num_best)
 
     def getTopicRelatedDocuments(self, topicCoverage, info):
-        for topicNr, topic in enumerate(self.topics):
-            print 'Topic ' + str(topicNr)
-            relevance = [dict(doc).get(topicNr, 0.0) for doc in topicCoverage]
+        for topic in self.topics:
+            print 'Topic ' + str(topic.number)
+            relevance = [dict(doc).get(topic.number, 0.0) for doc in topicCoverage]
             topDocuments = sorted(((v, i) for i,v in enumerate(relevance)), reverse=True)
             setattr(topic, 'relatedDocuments', topDocuments)
             topic.getRelevanceHistogram(info)

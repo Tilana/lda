@@ -28,6 +28,10 @@ class Collection:
             numberDocs = len(titles)
         self.documents = self.createDocumentList(titles[startDoc:startDoc + numberDocs], texts[startDoc:startDoc + numberDocs])
         self.number = len(self.documents)
+
+    def setDocNumber(self):
+        for index, doc in enumerate(self.documents):
+            doc.nr = index
     
     def createCorpus(self, dictionary):
         corpus = []
@@ -57,9 +61,9 @@ class Collection:
         document.setAttribute('freqWords', freqWords)
 
 
-    def createFrequentWords(self, N=10):
-        for index, docs in enumerate(self.documents):
-            self.setFrequentWordsInDoc(docs, N=N)
+#    def createFrequentWords(self, N=10):
+#        for index, docs in enumerate(self.documents):
+#            self.setFrequentWordsInDoc(docs, N=N)
 
 
     def applyToAllDocuments(self, f):
@@ -140,7 +144,5 @@ class Collection:
 
     def getTaggedDocuments(self, feature, tag):
         return [(doc.title, ind) for ind, doc in enumerate(self.documents) if getattr(doc, feature+'tag')==tag and doc.id != 'nan'] 
-
-
 
 

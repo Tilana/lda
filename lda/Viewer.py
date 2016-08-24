@@ -138,7 +138,7 @@ class Viewer:
         filename = self.path + '/%stopics.html' % model.name
         f = open(filename, 'w')
         f.write("<html>")
-        self.writeHead('%s Topics' % model.name)
+        self.writeHead(f, '%s Topics' % model.name)
         f.write("<body><p>Topics and related words - %s Model</p><table>" % model.name )
         f.write("""<col style="width:7%"> <col style="width: 15%"> <col style="width:7%"> <col style="width: 7%"> <col style="width:80%">""")
 
@@ -260,7 +260,8 @@ class Viewer:
             f.write("<table>") 
     	    f.write("""<col style="width:10%"> <col style="width:40%"> <col style="width:25%">""")
     	    for doc in model.topics[num].relatedDocuments[0:300]:
-    	    	f.write("<tr><td><a href='../Documents/doc%02d.html'>Document %d</a></td><td>%s</td><td>Relevance: %.2f</td></tr>" % (doc[1], doc[1], collection[doc[1]].title.encode('utf8'), doc[0]))
+    	    	#f.write("<tr><td><a href='../Documents/doc%02d.html'>Document %d</a></td><td>%s</td><td>Relevance: %.2f</td></tr>" % (doc[1], doc[1], collection[doc[1]].title.encode('utf8'), doc[0]))
+                f.write("<tr><td><a href='../Documents/doc%02d.html'>Document %d</a></td><td>%s</td><td>Relevance: %.2f</td></tr>" % (doc[1], doc[1], collection[doc[1]].title, doc[0]))
     
     	    f.write("</table></body></html>")
     	    f.close()
