@@ -1,5 +1,4 @@
 from lda import ClassificationModel, Viewer, Info
-from sklearn.tree import DecisionTreeClassifier
 
 def classification_HRC():
 

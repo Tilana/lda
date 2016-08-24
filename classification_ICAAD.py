@@ -1,4 +1,4 @@
-from lda import ClassificationModel, Viewer, Info, Evaluation
+from lda import ClassificationModel, Viewer, Info 
 import pandas as pd
 import logging
 
@@ -18,7 +18,7 @@ def classification_ICAAD():
     info.data = 'ICAAD'
     info.topicNr = 60 
     info.identifier = 'LDA_T%dP10I70_tfidf_word2vec' % info.topicNr
-    info.classifierType = 'NeuralNet'
+    info.classifierType = 'DecisionTree'
 
     selectedTopics = [1,9,12,34,47,51,59] # set to None selects all topics
     selectedTopics = None
@@ -37,7 +37,7 @@ def classification_ICAAD():
         relevantWords = model.getRelevantWords()
 
         model.droplist.extend(similarDocList + relevantWords)
-        model.keeplist = model.topicList 
+        #model.keeplist = model.topicList 
 
         model.targetFeature = feature
 

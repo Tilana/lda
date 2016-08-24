@@ -1,15 +1,12 @@
 #!/usr/bin/python
 #-*- coding: utf-8 -*-
-from lda import Collection, Dictionary, Model, Info, Viewer, utils
+from lda import Collection, Dictionary, Model, Info, Viewer, utils, ImagePlotter, Word2Vec
 from lda.docLoader import loadCategories
 from gensim.parsing.preprocessing import STOPWORDS
 from nltk.corpus import names
 from gensim.models import TfidfModel
 import os.path
-from lda import ImagePlotter
-from lda import Word2Vec
 from lda import dataframeUtils as df
-import csv
 import pandas
 
 def topicModeling_HRC():
@@ -30,6 +27,7 @@ def topicModeling_HRC():
     info.stoplist = list(STOPWORDS) + utils.lowerList(names.words())
 
     info.removeNames = 1
+    info.bigrams = 1
 
     # Dictionary #
     info.analyseDictionary = 1
@@ -71,7 +69,8 @@ def topicModeling_HRC():
     if not os.path.exists(info.collectionName) or info.preprocess:
         print 'Load and preprocess Document Collection'
         collection.load(info.path, info.fileType, info.startDoc, info.numberDoc)
-        collection.prepareDocumentCollection(lemmatize=True, includeEntities=False, stopwords=info.stoplist, removeShortTokens=True, threshold=2, specialChars=info.specialChars, whiteList=info.whiteList)
+        collection.setDocNumber()
+        collection.prepareDocumentCollection(lemmatize=True, includeEntities=info.includeEntities, stopwords=info.stoplist, removeShortTokens=True, threshold=2, specialChars=info.specialChars, whiteList=info.whiteList, bigrams=info.bigrams)
 
     else:
         print 'Load Processed Document Collection'
@@ -119,9 +118,9 @@ def topicModeling_HRC():
     lda.computeSimilarityMatrix(corpus, numFeatures=info.numberTopics, num_best = 7)
 
     maxTopicCoverage = []
-    for ind, document in enumerate(collection.documents):
+    for document in collection.documents:
         print ind
-        document.setTopicCoverage(topicCoverage[ind], lda.name)
+        document.setTopicCoverage(topicCoverage[document.nr], lda.name)
         lda.computeSimilarity(document)
         collection.computeRelevantWords(tfidf, dictionary, document)
         maxTopicCoverage.append(document.LDACoverage[0][1])

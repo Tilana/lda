@@ -160,17 +160,19 @@ class Viewer:
     
     
     def printDocuments(self, collection, lda, topics=1, openHtml=False):
-        for ind, doc in enumerate(collection):
-            pagename = self.path + '/Documents/doc%02d.html' % ind
+        for doc in collection:
+            pagename = self.path + '/Documents/doc%02d.html' % doc.nr 
 
             attributes = doc.__dict__.keys()
             f = open(pagename, 'w')
             f.write("<html>")
-            self.writeHead(f, "Document %02d - %s" % (ind, doc.title))
+            self.writeHead(f, "Document %02d - %s" % (doc.nr, doc.title))
 
             f.write("""<body><div style="width:100%;"><div style="float:right; width:45%;">""")
 
             f.write("<h4> Properties: </h4>")
+            if 'id' in attributes:
+                f.write("ID:    %s <br>" % doc.id)
             if 'SA' in attributes:
                 f.write("SA:    %s <br>" % doc.SA)
             if 'DV' in attributes:
