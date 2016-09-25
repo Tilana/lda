@@ -11,7 +11,12 @@ class ClassificationModel:
 
     def __init__(self, path=None, target=None, droplist=None, binary=True):
         if path != None:
-            self.orgData = pd.read_csv(path)
+            try:
+                self.orgData = pd.read_csv(path)
+            except:
+                self.orgData = pd.read_pickle(path)
+        else:
+            self.orgData = []
         self.data = self.orgData
         self.targetFeature = target 
         self.droplist = droplist
@@ -75,7 +80,7 @@ class ClassificationModel:
         if self.classifierType=='NeuralNet':
             self.classifier.train(self.trainData, self.trainTarget)
         else:
-            self.classifier.fit(self.trainData, self.trainTarget)
+            self.classifier.fit(self.trainData, self.trainTarget.tolist())
 
     def predict(self):
         self.predicted = self.classifier.predict(self.testData)

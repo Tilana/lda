@@ -285,8 +285,8 @@ class Viewer:
         if model.binary:
             f.write("""<p> <b> Balance of Training Data: </b> True 1 : %d False """ % model.factorFalseCases)
         f.write(""" <p><b> Size of Test Data: </b> %s </p>""" % len(model.testData))
-        f.write(""" <p> <b> Features: </b> %s </p>""" % model.trainData.columns.tolist())
-        f.write(""" <p> <b> Ignored Features: </b> %s </p>""" % model.droplist)
+        #f.write(""" <p> <b> Features: </b> %s </p>""" % model.trainData.columns.tolist())
+        #f.write(""" <p> <b> Ignored Features: </b> %s </p>""" % model.droplist)
         
         f.write(""" <h3> Evaluation: </h3>""")
         f.write("""<table> """)
@@ -303,11 +303,14 @@ class Viewer:
             self.printTupleList(f, 'Feature Importance', model.featureImportance, format='float')
 
         f.write("""</table></div>""")
-        f.write("""<style type="text/css"> body>div {width: 23%; float: left; border: 1px solid} </style></head>""") 
-        self.printLinkedDocuments(f, 'True Positives', model.TP_docs, 2) 
-        self.printLinkedDocuments(f, 'False Positives', model.FP_docs, 2) 
-        self.printLinkedDocuments(f, 'True Negatives', model.TN_docs, 2) 
-        self.printLinkedDocuments(f, 'False Negatives', model.FN_docs, 2) 
+        
+        if hasattr(model, 'TP_docs'):
+            f.write("""<style type="text/css"> body>div {width: 23%; float: left; border: 1px solid} </style></head>""") 
+            
+            self.printLinkedDocuments(f, 'True Positives', model.TP_docs, 2) 
+            self.printLinkedDocuments(f, 'False Positives', model.FP_docs, 2) 
+            self.printLinkedDocuments(f, 'True Negatives', model.TN_docs, 2) 
+            self.printLinkedDocuments(f, 'False Negatives', model.FN_docs, 2) 
         f.write("""</body></html>""")
         f.close()
         webbrowser.open_new_tab(pagename)
