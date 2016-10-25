@@ -1,0 +1,2508 @@
+
+<SEC-DOCUMENT>0001078782-16-003249.txt : 20160815
+<SEC-HEADER>0001078782-16-003249.hdr.sgml : 20160815
+<ACCEPTANCE-DATETIME>20160815130102
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+10-Q
+4
+20160630
+0001078782-16-003249
+20160815
+20160815
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: CRUDE PETROLEUM & NATURAL GAS
+ALPHA ENERGY INC
+0000855787
+[1311]
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 000-55586
+FILM NUMBER:
+10-Q
+1934 Act
+161831384
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>f10q063016_10q.htm
+<DESCRIPTION>FORM 10-Q QUARTERLY REPORT
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Form 10-Q Quarterly Report</TITLE>
+<META NAME="author" CONTENT="Travis">
+<META NAME="date" CONTENT="08/12/2016">
+</HEAD>
+<BODY style="margin-top:0;font-family:Times New Roman; font-size:10pt; 
+color:#000000">
+<DIV style="width:720px"><P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><B>U.S. SECURITIES AND EXCHANGE 
+COMMISSION</B></P>
+<P style="margin:0px" align=center><B>WASHINGTON, D.C. 20549</B></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px; font-size:12pt" align=center><B>FORM 10-Q</B></P>
+<P style="margin:0px">(Mark One)</P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0><TR 
+height=0 style="font-size:0"><TD width=52 /><TD width=538.4 /></TR>
+<TR><TD style="margin-top:0px" valign=top width=52><P 
+style="margin:0px">&nbsp;<FONT style="margin-bottom:1.333px; padding-
+top:1.333px; padding-bottom:0px; font-size:6pt; border:1px solid 
+#000000">&nbsp;X </FONT><FONT style="font-size:6pt; color:#FFFFFF">.</FONT></P>
+</TD><TD style="margin-top:0px" valign=top width=538.4><P style="margin:0px; 
+padding-right:-36px">Quarterly Report under Section 13 or 15(d) of the 
+Securities Exchange Act of 1934</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=52><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=538.4><P
+style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=52><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=538.4><P
+style="margin:0px">For the quarterly period ended June 30, 2016</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=52><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=538.4><P
+style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=52><P 
+style="margin:0px">&nbsp;<FONT style="margin-bottom:1.333px; padding-
+top:1.333px; padding-bottom:0px; font-size:6pt; border:1px solid 
+#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="font-size:6pt; 
+color:#FFFFFF">.</FONT></P>
+</TD><TD style="margin-top:0px" valign=top width=538.4><P 
+style="margin:0px">Transition Report under Section 13 or 15(d) of the Exchange 
+Act</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=52><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=538.4><P
+style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=52><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=538.4><P
+style="margin:0px">For the Transition Period from ________to __________</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=52><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=538.4><P
+style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+</TABLE>
+<P style="margin:0px" align=center>Commission File Number: 333-197642</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; font-size:14pt" align=center><B>Alpha Energy, Inc.</B></P>
+<P style="margin:0px" align=center>&nbsp;(Exact Name of Registrant as Specified 
+in its Charter)</P>
+<P style="margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+align=center><TR height=0 style="font-size:0"><TD width=175.133 /><TD 
+width=137.733 /></TR>
+<TR><TD style="margin-top:0px" valign=top width=175.133><P style="margin:0px" 
+align=center><B>Colorado</B></P>
+</TD><TD style="margin-top:0px" valign=top width=137.733><P style="margin:0px" 
+align=center><B>90-1020566</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=175.133><P style="margin:0px" 
+align=center>(State of other jurisdiction of</P>
+</TD><TD style="margin-top:0px" valign=top width=137.733><P style="margin:0px" 
+align=center>(I.R.S. Employer</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=175.133><P style="margin:0px" 
+align=center>incorporation or organization)</P>
+</TD><TD style="margin-top:0px" valign=top width=137.733><P style="margin:0px" 
+align=center>Identification Number)</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+align=center><TR height=0 style="font-size:0"><TD width=226.2 /><TD width=73.333
+/></TR>
+<TR><TD style="margin-top:0px" valign=top width=226.2><P style="margin:0px" 
+align=center><B>600 17th Street, 2800 South</B></P>
+</TD><TD style="margin-top:0px" valign=top width=73.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=226.2><P style="margin:0px" 
+align=center><B>Denver, CO</B></P>
+</TD><TD style="margin-top:0px" valign=top width=73.333><P style="margin:0px" 
+align=center><B>80202</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=226.2><P style="margin:0px" 
+align=center>(Address of principal executive offices)</P>
+</TD><TD style="margin-top:0px" valign=top width=73.333><P style="margin:0px" 
+align=center>(Zip Code)</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=center><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+align=center><TR height=0 style="font-size:0"><TD width=231.6 /></TR>
+<TR><TD style="margin-top:0px" valign=top width=231.6><P style="margin:0px" 
+align=center>Registrant's Phone: <B>303-563-5340</B></P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=justify>Indicate by check mark whether the issuer 
+(1) filed all reports required to be filed by Section13 or 15(d) of the Exchange
+Act of 1934 during the past 12 months (or such shorter period that the 
+registrant was required to file such reports), and (2) has been subject to such 
+filing requirements for the past 90 days. Yes <FONT style="margin-
+bottom:1.333px; padding-top:1.333px; font-size:6pt; border:1px solid 
+#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="font-size:6pt; 
+color:#FFFFFF">. </FONT>No <FONT style="margin-bottom:1.333px; padding-
+top:1.333px; font-size:6pt; border:1px solid #000000">&nbsp;X </FONT><FONT 
+style="font-size:6pt; color:#FFFFFF">.</FONT></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>Indicate by check mark whether the 
+registrant is a large accelerated filer, an accelerated filer, a non-accelerated
+filer, or a smaller reporting company.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin-top:0px; margin-bottom:-2px; text-indent:96px; width:384px; 
+float:left">Large accelerated filer <FONT style="margin-bottom:1.333px; padding-
+top:1.333px; font-size:6pt; border:1px solid 
+#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="font-size:6pt; 
+color:#FFFFFF">.</FONT> </P>
+<P style="margin:0px; padding-left:96px; text-indent:-2px" 
+align=justify>Accelerated filer <FONT style="margin-bottom:1.333px; padding-
+top:1.333px; font-size:6pt; border:1px solid 
+#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="font-size:6pt; 
+color:#FFFFFF">.</FONT></P>
+<P style="margin-top:0px; margin-bottom:-2px; text-indent:96px; width:384px; 
+clear:left; float:left">Non-accelerated filer <FONT style="margin-
+bottom:1.333px; padding-top:1.333px; font-size:6pt; border:1px solid 
+#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="font-size:6pt; 
+color:#FFFFFF">.</FONT></P>
+<P style="margin:0px; padding-left:96px; text-indent:-2px" 
+align=justify>&nbsp;<FONT style="font-family:Wingdings 2">&#163;</FONT> Smaller 
+reporting company &nbsp;<FONT style="margin-bottom:1.333px; padding-top:1.333px;
+font-size:6pt; border:1px solid #000000">&nbsp;X </FONT><FONT style="font-
+size:6pt; color:#FFFFFF">.</FONT></P>
+<P style="margin:0px; clear:left" align=justify><BR></P>
+<P style="margin:0px" align=justify>Indicate by check mark whether the 
+registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). 
+Yes <FONT style="margin-bottom:1.333px; padding-top:1.333px; font-size:6pt; 
+border:1px solid #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT 
+style="font-size:6pt; color:#FFFFFF">. </FONT>No <FONT style="margin-
+bottom:1.333px; padding-top:1.333px; font-size:6pt; border:1px solid 
+#000000">&nbsp;X </FONT><FONT style="font-size:6pt; color:#FFFFFF">.</FONT></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px">As of August 12, 2015, the issuer had 16,866,428 shares of
+common stock issued and outstanding.</P>
+<P style="margin:0px"><BR>
+<BR></P>
+<P style="margin:0px" align=center>1</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+</DIV><TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 
+cellspacing=0><TR height=0 style="font-size:0"><TD width=94.6 /><TD width=569 
+/><TD width=73.533 /></TR>
+<TR><TD style="margin-top:0px" valign=top width=94.6><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=569><P 
+style="margin:0px" align=center><B><U>TABLE OF CONTENTS</U></B></P>
+</TD><TD style="margin-top:0px" valign=top width=73.533><P style="margin:0px" 
+align=center><U>Page</U></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=737.133 colspan=3><P 
+style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=737.133 colspan=3><P 
+style="margin:0px" align=center><B><U>PART I &#150; FINANCIAL 
+INFORMATION</U></B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=94.6><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=569><P 
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" 
+valign=top width=73.533><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=94.6><P style="margin:0px">Item 
+1.</P>
+</TD><TD style="margin-top:0px" valign=top width=569><P 
+style="margin:0px">Financial Statements- Unaudited </P>
+</TD><TD style="margin-top:0px" valign=bottom width=73.533><P style="margin:0px"
+align=center>3</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=94.6><P style="margin:0px">Item 
+2.</P>
+</TD><TD style="margin-top:0px" valign=top width=569><P 
+style="margin:0px">Management&#146;s Discussion and Analysis of Financial 
+Condition and Results of Operation</P>
+</TD><TD style="margin-top:0px" valign=bottom width=73.533><P style="margin:0px"
+align=center>8</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=94.6><P style="margin:0px">Item 
+3.</P>
+</TD><TD style="margin-top:0px" valign=top width=569><P 
+style="margin:0px">Quantitative and Qualitative Disclosures about Market 
+Risk</P>
+</TD><TD style="margin-top:0px" valign=bottom width=73.533><P style="margin:0px"
+align=center>10</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=94.6><P style="margin:0px">Item 
+4.</P>
+</TD><TD style="margin-top:0px" valign=top width=569><P 
+style="margin:0px">Controls and Procedures</P>
+</TD><TD style="margin-top:0px" valign=bottom width=73.533><P style="margin:0px"
+align=center>10</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=737.133 colspan=3><P 
+style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=737.133 colspan=3><P 
+style="margin:0px" align=center><B><U>PART II &#150; OTHER 
+INFORMATION</U></B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=94.6><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=569><P 
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" 
+valign=top width=73.533><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=94.6><P style="margin:0px">Item 
+1.</P>
+</TD><TD style="margin-top:0px" valign=top width=569><P style="margin:0px">Legal
+Proceedings</P>
+</TD><TD style="margin-top:0px" valign=bottom width=73.533><P style="margin:0px"
+align=center>10</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=94.6><P style="margin:0px">Item 
+1A.</P>
+</TD><TD style="margin-top:0px" valign=top width=569><P style="margin:0px">Risk 
+Factors</P>
+</TD><TD style="margin-top:0px" valign=bottom width=73.533><P style="margin:0px"
+align=center>10</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=94.6><P style="margin:0px">Item 
+2.</P>
+</TD><TD style="margin-top:0px" valign=top width=569><P 
+style="margin:0px">Unregistered Sales of Equity Securities and Use of 
+Proceeds</P>
+</TD><TD style="margin-top:0px" valign=bottom width=73.533><P style="margin:0px"
+align=center>10</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=94.6><P style="margin:0px">Item 
+3.</P>
+</TD><TD style="margin-top:0px" valign=top width=569><P 
+style="margin:0px">Defaults Upon Senior Securities</P>
+</TD><TD style="margin-top:0px" valign=bottom width=73.533><P style="margin:0px"
+align=center>10</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=94.6><P style="margin:0px">Item 
+4.</P>
+</TD><TD style="margin-top:0px" valign=top width=569><P 
+style="margin:0px">Submission of Matters to a Vote of Security Holders</P>
+</TD><TD style="margin-top:0px" valign=bottom width=73.533><P style="margin:0px"
+align=center>10</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=94.6><P style="margin:0px">Item 
+5.</P>
+</TD><TD style="margin-top:0px" valign=top width=569><P style="margin:0px">Other
+Information</P>
+</TD><TD style="margin-top:0px" valign=bottom width=73.533><P style="margin:0px"
+align=center>10</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=94.6><P style="margin:0px">Item 
+6.</P>
+</TD><TD style="margin-top:0px" valign=top width=569><P 
+style="margin:0px">Exhibits</P>
+</TD><TD style="margin-top:0px" valign=bottom width=73.533><P style="margin:0px"
+align=center>11</P>
+</TD></TR>
+</TABLE>
+<DIV style="width:720px"><P style="margin:0px"><BR>
+<BR></P>
+<P style="margin:0px" align=center>2</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><B>ITEM 1. FINANCIAL STATEMENTS</B></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><B>ALPHA ENERGY, INC.</B></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center>Unaudited Financial Statements</P>
+<P style="margin:0px" align=center>June 30, 2016</P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0><TR 
+height=0 style="font-size:0"><TD width=18.067 /><TD width=564.933 /><TD width=64
+/></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=18.067><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=564.933><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom 
+width=64><P style="margin:0px">Page(s)</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=583 colspan=2><P 
+style="margin:0px">Unaudited Balance Sheets as of June 30, 2016 and December 31,
+2015</P>
+</TD><TD style="margin-top:0px" valign=bottom width=64><P style="margin:0px" 
+align=center>4</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=18.067><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=564.933><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=64><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=583 colspan=2><P 
+style="margin:0px">Unaudited Statements of Operations for the three and six 
+months ended June 30, 2016 and 2015</P>
+</TD><TD style="margin-top:0px" valign=bottom width=64><P style="margin:0px" 
+align=center>5</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=18.067><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=564.933><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=64><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=583 colspan=2><P 
+style="margin:0px">Unaudited Statements of Cash Flows for the six months ended 
+June 30, 2016 and 2015</P>
+</TD><TD style="margin-top:0px" valign=bottom width=64><P style="margin:0px" 
+align=center>6</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=18.067><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=564.933><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=64><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=583 colspan=2><P 
+style="margin:0px">Notes to the Unaudited Financial Statements</P>
+</TD><TD style="margin-top:0px" valign=bottom width=64><P style="margin:0px" 
+align=center>7</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR>
+<BR></P>
+<P style="margin:0px" align=center>3</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<A NAME="RANGE!A1:G32"></A><TABLE style="margin-top:0px; font-size:10pt" 
+cellpadding=0 cellspacing=0 align=center><TR height=0 style="font-size:0"><TD 
+width=14.8 /><TD width=377 /><TD width=21.067 /><TD width=103.867 /><TD 
+width=14.8 /><TD width=21.067 /><TD width=102.667 /></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=655.267 colspan=7><P 
+style="margin:0px" align=center>ALPHA ENERGY, INC.</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=655.267 colspan=7><P 
+style="margin:0px" align=center>BALANCE SHEETS</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=655.267 colspan=7><P 
+style="margin:0px" align=center>(UNAUDITED)</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=377><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=21.067><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=103.867><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.067><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=102.667><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=377><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px; border-bottom:1px solid #000000" valign=bottom width=124.933 
+colspan=2><P style="margin:0px" align=center>June 30, 2016</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=123.733 colspan=2><P style="margin:0px" 
+align=center>December 31, 2015</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=655.267 colspan=7><P 
+style="margin:0px" align=center><B>ASSETS</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=391.8 colspan=2><P 
+style="margin:0px"><B>Current assets</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=21.067><P style="margin:0px;
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=103.867><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.067><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=102.667><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=377><P style="margin:0px">Cash</P>
+</TD><TD style="margin-top:0px" valign=bottom width=21.067><P 
+style="margin:0px">$</P>
+</TD><TD style="margin-top:0px" valign=bottom width=103.867><P 
+style="margin:0px" align=right>377</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.067><P style="margin:0px">$</P>
+</TD><TD style="margin-top:0px" valign=bottom width=102.667><P 
+style="margin:0px" align=right>116</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px;
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=377><P style="margin:0px">Prepaid expenses</P>
+</TD><TD style="margin-top:0px" valign=bottom width=21.067><P style="margin:0px;
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=103.867><P style="margin:0px" align=right>2,750</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.067><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=102.667><P style="margin:0px" 
+align=right>2,750</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=391.8 colspan=2><P 
+style="margin:0px"><B>Total current assets</B></P>
+</TD><TD style="margin-top:0px; border-top:1px solid #000000; border-bottom:1px 
+solid #000000" valign=bottom width=21.067><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-top:1px solid 
+#000000; border-bottom:1px solid #000000" valign=bottom width=103.867><P 
+style="margin:0px" align=right>3,127</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-top:1px solid 
+#000000; border-bottom:1px solid #000000" valign=bottom width=21.067><P 
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; 
+border-top:1px solid #000000; border-bottom:1px solid #000000" valign=bottom 
+width=102.667><P style="margin:0px" align=right>2,866</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=377><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=21.067><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=103.867><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.067><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=102.667><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=377><P style="margin:0px">Oil and gas lease, unproved, full cost</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom 
+width=21.067><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom 
+width=103.867><P style="margin:0px" align=right>35,432</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=21.067><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=102.667><P style="margin:0px" 
+align=right>35,432</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=377><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=21.067><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=103.867><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.067><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=102.667><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=391.8 colspan=2><P 
+style="margin:0px"><B>Total assets</B></P>
+</TD><TD style="margin-top:0px; border-bottom:3px double #000000" valign=bottom
+width=21.067><P style="margin:0px">$</P>
+</TD><TD style="margin-top:0px; border-bottom:3px double #000000" valign=bottom 
+width=103.867><P style="margin:0px" align=right>38,559</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:3px double 
+#000000" valign=bottom width=21.067><P style="margin:0px">$</P>
+</TD><TD style="margin-top:0px; border-bottom:3px double #000000" valign=bottom 
+width=102.667><P style="margin:0px" align=right>38,298</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=377><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=21.067><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=103.867><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.067><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=102.667><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=655.267 colspan=7><P 
+style="margin:0px" align=center><B>LIABILITIES AND STOCKHOLDERS&#146; 
+EQUITY</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=377><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=21.067><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=103.867><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.067><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=102.667><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=391.8 colspan=2><P 
+style="margin:0px"><B>Current liabilities</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=21.067><P style="margin:0px;
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=103.867><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.067><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=102.667><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=377><P style="margin:0px">Accounts payable</P>
+</TD><TD style="margin-top:0px" valign=bottom width=21.067><P 
+style="margin:0px">$</P>
+</TD><TD style="margin-top:0px" valign=bottom width=103.867><P 
+style="margin:0px" align=right>14,083</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.067><P style="margin:0px">$</P>
+</TD><TD style="margin-top:0px" valign=bottom width=102.667><P 
+style="margin:0px" align=right>11,336</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=377><P style="margin:0px">Notes payable, related party</P>
+</TD><TD style="margin-top:0px" valign=bottom width=21.067><P style="margin:0px;
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=103.867><P style="margin:0px" align=right>7,475</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.067><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=102.667><P style="margin:0px" 
+align=right>775</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=391.8 colspan=2><P 
+style="margin:0px"><B>Total current liabilities</B></P>
+</TD><TD style="margin-top:0px; border-top:1px solid #000000; border-bottom:1px 
+solid #000000" valign=bottom width=21.067><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-top:1px solid 
+#000000; border-bottom:1px solid #000000" valign=bottom width=103.867><P 
+style="margin:0px" align=right>21,558</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-top:1px solid 
+#000000; border-bottom:1px solid #000000" valign=bottom width=21.067><P 
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; 
+border-top:1px solid #000000; border-bottom:1px solid #000000" valign=bottom 
+width=102.667><P style="margin:0px" align=right>12,111</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=377><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=21.067><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=103.867><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.067><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=102.667><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=391.8 colspan=2><P 
+style="margin:0px"><B>Stockholders' equity</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=21.067><P style="margin:0px;
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=103.867><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.067><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=102.667><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=377><P style="margin:0px; padding-left:5.667px; text-indent:-
+5.667px">Preferred stock, $0.0001 par value; 10,000,000 shares authorized; none 
+issued or outstanding</P>
+</TD><TD style="margin-top:0px" valign=bottom width=21.067><P style="margin:0px;
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=103.867><P style="margin:0px" align=right>-</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.067><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=102.667><P style="margin:0px" 
+align=right>-</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=377><P style="margin:0px; padding-left:5.667px; text-indent:-
+5.667px">Common stock, $0.0001 par value; 65,000,000 shares authorized; 
+16,866,428 issued and outstanding</P>
+</TD><TD style="margin-top:0px" valign=bottom width=21.067><P style="margin:0px;
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=103.867><P style="margin:0px" align=right>1,687</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px;
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.067><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=102.667><P style="margin:0px" 
+align=right>1,687</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=377><P style="margin:0px">Additional paid in capital</P>
+</TD><TD style="margin-top:0px" valign=bottom width=21.067><P style="margin:0px;
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=103.867><P style="margin:0px" align=right>81,043</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.067><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=102.667><P style="margin:0px" 
+align=right>81,043</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=377><P style="margin:0px">Accumulated deficit</P>
+</TD><TD style="margin-top:0px" valign=bottom width=21.067><P style="margin:0px;
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=103.867><P style="margin:0px" align=right>(65,729)</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.067><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=102.667><P style="margin:0px" 
+align=right>(56,543)</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=391.8 colspan=2><P 
+style="margin:0px"><B>Total stockholders' equity</B></P>
+</TD><TD style="margin-top:0px; border-top:1px solid #000000; border-bottom:1px 
+solid #000000" valign=bottom width=21.067><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-top:1px solid 
+#000000; border-bottom:1px solid #000000" valign=bottom width=103.867><P 
+style="margin:0px" align=right>17,001</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-top:1px solid 
+#000000; border-bottom:1px solid #000000" valign=bottom width=21.067><P 
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; 
+border-top:1px solid #000000; border-bottom:1px solid #000000" valign=bottom 
+width=102.667><P style="margin:0px" align=right>26,187</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=377><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=21.067><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=103.867><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.067><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=102.667><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=391.8 colspan=2><P 
+style="margin:0px"><B>Total liabilities and stockholders' equity</B></P>
+</TD><TD style="margin-top:0px; border-bottom:3px double #000000" valign=bottom 
+width=21.067><P style="margin:0px">$</P>
+</TD><TD style="margin-top:0px; border-bottom:3px double #000000" valign=bottom 
+width=103.867><P style="margin:0px" align=right>38,559</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:3px double 
+#000000" valign=bottom width=21.067><P style="margin:0px">$</P>
+</TD><TD style="margin-top:0px; border-bottom:3px double #000000" valign=bottom
+width=102.667><P style="margin:0px" align=right>38,298</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=377><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=21.067><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=103.867><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.067><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=102.667><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=655.267 colspan=7><P 
+style="margin:0px" align=center>See accompanying notes to unaudited financial 
+statements.</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=center><BR></P>
+<A NAME="RANGE!A1:G31"></A><P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR>
+<BR></P>
+<P style="margin:0px" align=center>4</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<A NAME="RANGE!A1:J23"></A><A NAME="RANGE!A1:M28"></A><TABLE style="margin-
+top:0px; font-size:10pt" cellpadding=0 cellspacing=0 align=center><TR height=0 
+style="font-size:0"><TD width=14.8 /><TD width=268.267 /><TD width=21.333 /><TD 
+width=76.8 /><TD width=14.8 /><TD width=21.333 /><TD width=74.4 /><TD width=14.8
+/><TD width=21.333 /><TD width=74.4 /><TD width=14.8 /><TD width=21.333 /><TD 
+width=74.4 /></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=712.8 colspan=13><P 
+style="margin:0px" align=center>ALPHA ENERGY, INC.</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=712.8 colspan=13><P 
+style="margin:0px" align=center>STATEMENTS OF OPERATIONS</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=712.8 colspan=13><P 
+style="margin:0px" align=center>(UNAUDITED)</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=268.267><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=21.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=76.8><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=14.8><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=21.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=74.4><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=268.267><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom 
+width=208.667 colspan=5><P style="margin:0px" align=center>Three months ended 
+June 30,</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=206.267 colspan=5><P style="margin:0px" 
+align=center>Six months ended June 30,</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=268.267><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom 
+width=98.133 colspan=2><P style="margin:0px" align=center>2016</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=95.733 colspan=2><P style="margin:0px" 
+align=center>2015</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=95.733 colspan=2><P style="margin:0px" 
+align=center>2016</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=95.733 colspan=2><P style="margin:0px" 
+align=center>2015</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=283.067 colspan=2><P 
+style="margin:0px"><B>Revenues</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom 
+width=21.333><P style="margin:0px">$</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom 
+width=76.8><P style="margin:0px" align=right>-</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=21.333><P style="margin:0px">$</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom 
+width=74.4><P style="margin:0px" align=right>-</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=21.333><P style="margin:0px">$</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom 
+width=74.4><P style="margin:0px" align=right>-</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=21.333><P style="margin:0px">$</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom 
+width=74.4><P style="margin:0px" align=right>-</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=268.267><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=21.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=76.8><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px;
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=14.8><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=21.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=74.4><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=283.067 colspan=2><P 
+style="margin:0px"><B>Operating expenses</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=21.333><P style="margin:0px;
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=76.8><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=14.8><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=21.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=74.4><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=268.267><P style="margin:0px">Professional services</P>
+</TD><TD style="margin-top:0px" valign=bottom width=21.333><P style="margin:0px;
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=76.8><P style="margin:0px" align=right>8,250</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px" 
+align=right>1,860</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px" 
+align=right>8,450</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px" 
+align=right>8,445</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=268.267><P style="margin:0px">General and administrative</P>
+</TD><TD style="margin-top:0px" valign=bottom width=21.333><P style="margin:0px;
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=76.8><P style="margin:0px" align=right>-</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px" 
+align=right>844</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px" 
+align=right>115</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px" 
+align=right>1,869</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=283.067 colspan=2><P 
+style="margin:0px"><B>Total operating expenses</B></P>
+</TD><TD style="margin-top:0px; border-top:1px solid #000000; border-bottom:1px 
+solid #000000" valign=bottom width=21.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-top:1px solid 
+#000000; border-bottom:1px solid #000000" valign=bottom width=76.8><P 
+style="margin:0px" align=right>8,250</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-top:1px solid 
+#000000; border-bottom:1px solid #000000" valign=bottom width=21.333><P 
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; 
+border-top:1px solid #000000; border-bottom:1px solid #000000" valign=bottom 
+width=74.4><P style="margin:0px" align=right>2,704</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-top:1px solid 
+#000000; border-bottom:1px solid #000000" valign=bottom width=21.333><P 
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; 
+border-top:1px solid #000000; border-bottom:1px solid #000000" valign=bottom 
+width=74.4><P style="margin:0px" align=right>8,565</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-top:1px solid 
+#000000; border-bottom:1px solid #000000" valign=bottom width=21.333><P 
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; 
+border-top:1px solid #000000; border-bottom:1px solid #000000" valign=bottom 
+width=74.4><P style="margin:0px" align=right>10,314</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=268.267><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=21.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=76.8><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=14.8><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=21.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=74.4><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=283.067 colspan=2><P 
+style="margin:0px"><B>Loss from operations</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom 
+width=76.8><P style="margin:0px" align=right>(8,250)</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=21.333><P style="margin:0px;
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=74.4><P style="margin:0px" align=right>(2,704)</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=21.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=74.4><P style="margin:0px" align=right>(8,565)</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=21.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=74.4><P style="margin:0px" align=right>(10,314)</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=268.267><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=21.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=76.8><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=14.8><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=21.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=74.4><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=283.067 colspan=2><P 
+style="margin:0px"><B>Other expense</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=21.333><P style="margin:0px;
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=76.8><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=14.8><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=21.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=74.4><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=268.267><P style="margin:0px">Interest expense</P>
+</TD><TD style="margin-top:0px" valign=bottom width=21.333><P style="margin:0px;
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=76.8><P style="margin:0px" align=right>(309)</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px" 
+align=right>(62)</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px;
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px" 
+align=right>(621)</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px" 
+align=right>(62)</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=283.067 colspan=2><P 
+style="margin:0px"><B>Total other expense</B></P>
+</TD><TD style="margin-top:0px; border-top:1px solid #000000" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px; border-top:1px solid #000000" valign=bottom width=76.8><P
+style="margin:0px" align=right>(309)</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-top:1px solid 
+#000000" valign=bottom width=21.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-top:1px solid 
+#000000" valign=bottom width=74.4><P style="margin:0px" align=right>(62)</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-top:1px solid 
+#000000" valign=bottom width=21.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-top:1px solid 
+#000000" valign=bottom width=74.4><P style="margin:0px" align=right>(621)</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-top:1px solid 
+#000000" valign=bottom width=21.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-top:1px solid 
+#000000" valign=bottom width=74.4><P style="margin:0px" align=right>(62)</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=268.267><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=21.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=76.8><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=14.8><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=21.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=74.4><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=268.267><P style="margin:0px">Provision for income taxes</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom 
+width=76.8><P style="margin:0px" align=right>-</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=21.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=74.4><P style="margin:0px" align=right>-</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=21.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=74.4><P style="margin:0px" align=right>-</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=21.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=74.4><P style="margin:0px" align=right>-</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=268.267><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=21.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=76.8><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=14.8><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=21.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=74.4><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=283.067 colspan=2><P 
+style="margin:0px"><B>Net loss</B></P>
+</TD><TD style="margin-top:0px; border-bottom:3px double #000000" valign=bottom 
+width=21.333><P style="margin:0px">$</P>
+</TD><TD style="margin-top:0px; border-bottom:3px double #000000" valign=bottom 
+width=76.8><P style="margin:0px" align=right>(8,559)</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:3px double 
+#000000" valign=bottom width=21.333><P style="margin:0px">$</P>
+</TD><TD style="margin-top:0px; border-bottom:3px double #000000" valign=bottom 
+width=74.4><P style="margin:0px" align=right>(2,766)</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:3px double 
+#000000" valign=bottom width=21.333><P style="margin:0px">$</P>
+</TD><TD style="margin-top:0px; border-bottom:3px double #000000" valign=bottom 
+width=74.4><P style="margin:0px" align=right>(9,186)</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:3px double 
+#000000" valign=bottom width=21.333><P style="margin:0px">$</P>
+</TD><TD style="margin-top:0px; border-bottom:3px double #000000" valign=bottom 
+width=74.4><P style="margin:0px" align=right>(10,376)</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=268.267><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=21.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=76.8><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom
+width=14.8><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=21.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=74.4><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=283.067 colspan=2><P 
+style="margin:0px"><B>Net loss per common share, basic and diluted</B></P>
+</TD><TD style="margin-top:0px; border-bottom:3px double #000000" valign=bottom 
+width=21.333><P style="margin:0px">$</P>
+</TD><TD style="margin-top:0px; border-bottom:3px double #000000" valign=bottom 
+width=76.8><P style="margin:0px" align=right>(0.00)</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:3px double 
+#000000" valign=bottom width=21.333><P style="margin:0px">$</P>
+</TD><TD style="margin-top:0px; border-bottom:3px double #000000" valign=bottom 
+width=74.4><P style="margin:0px" align=right>(0.00)</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:3px double 
+#000000" valign=bottom width=21.333><P style="margin:0px">$</P>
+</TD><TD style="margin-top:0px; border-bottom:3px double #000000" valign=bottom 
+width=74.4><P style="margin:0px" align=right>(0.00)</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:3px double 
+#000000" valign=bottom width=21.333><P style="margin:0px">$</P>
+</TD><TD style="margin-top:0px; border-bottom:3px double #000000" valign=bottom 
+width=74.4><P style="margin:0px" align=right>(0.00)</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=268.267><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=21.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=76.8><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=14.8><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=21.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=74.4><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=283.067 colspan=2><P 
+style="margin:0px"><B>Weighted average common shares outstanding, basic and 
+diluted</B></P>
+</TD><TD style="margin-top:0px; border-bottom:3px double #000000" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px; border-bottom:3px double #000000" valign=bottom 
+width=76.8><P style="margin:0px" align=right>16,866,428</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:3px double 
+#000000" valign=bottom width=21.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:3px double 
+#000000" valign=bottom width=74.4><P style="margin:0px" 
+align=right>16,821,202</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:3px double 
+#000000" valign=bottom width=21.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:3px double 
+#000000" valign=bottom width=74.4><P style="margin:0px" 
+align=right>16,866,428</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:3px double 
+#000000" valign=bottom width=21.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:3px double 
+#000000" valign=bottom width=74.4><P style="margin:0px" 
+align=right>16,767,897</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=268.267><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=21.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=76.8><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=14.8><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=21.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=74.4><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=712.8 colspan=13><P 
+style="margin:0px" align=center>See accompanying notes to unaudited financial 
+statements.</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR>
+<BR></P>
+<P style="margin:0px" align=center>5</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<A NAME="RANGE!A1:H31"></A><TABLE style="margin-top:0px; font-size:10pt" 
+cellpadding=0 cellspacing=0 align=center><TR height=0 style="font-size:0"><TD 
+width=18 /><TD width=18 /><TD width=388.467 /><TD width=21.733 /><TD 
+width=80.533 /><TD width=14.8 /><TD width=21.733 /><TD width=74.4 /></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=637.667 colspan=8><P 
+style="margin:0px" align=center>ALPHA ENERGY, INC.</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=637.667 colspan=8><P 
+style="margin:0px" align=center>STATEMENTS OF CASH FLOWS</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=637.667 colspan=8><P 
+style="margin:0px" align=center>(UNAUDITED)</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=18><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom width=18><P
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" 
+valign=bottom width=388.467><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.733><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=80.533><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=14.8><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=21.733><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=74.4><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=18><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom width=18><P
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" 
+valign=bottom width=388.467><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=213.2 colspan=5><P style="margin:0px" 
+align=center>Six months ended June 30,</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=18><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom width=18><P
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" 
+valign=bottom width=388.467><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=102.267 colspan=2><P style="margin:0px" 
+align=center>2016</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=96.133 colspan=2><P style="margin:0px" 
+align=center>2015</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=424.467 colspan=3><P 
+style="margin:0px"><B>Cash flows from operating activities</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=21.733><P style="margin:0px;
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=80.533><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.733><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=18><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom width=18><P
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" 
+valign=bottom width=388.467><P style="margin:0px">Net loss</P>
+</TD><TD style="margin-top:0px" valign=bottom width=21.733><P 
+style="margin:0px">$</P>
+</TD><TD style="margin-top:0px" valign=bottom width=80.533><P style="margin:0px;
+padding-right:-7px" align=right>(9,186)</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.733><P style="margin:0px">$</P>
+</TD><TD style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px" 
+align=right>(10,376)</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=18><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=406.467 colspan=2><P style="margin:0px">Changes in operating assets and 
+liabilities:</P>
+</TD><TD style="margin-top:0px" valign=bottom width=21.733><P style="margin:0px;
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=80.533><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.733><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=18><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom width=18><P
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" 
+valign=bottom width=388.467><P style="margin:0px">Prepaid expenses</P>
+</TD><TD style="margin-top:0px" valign=bottom width=21.733><P style="margin:0px;
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=80.533><P style="margin:0px; padding-right:-1px" align=right>-</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.733><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px" 
+align=right>205</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=18><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom width=18><P
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" 
+valign=bottom width=388.467><P style="margin:0px">Accounts payable</P>
+</TD><TD style="margin-top:0px" valign=bottom width=21.733><P style="margin:0px;
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=80.533><P style="margin:0px; padding-right:-1px" align=right>2,747</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.733><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px" 
+align=right>7,491</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=424.467 colspan=3><P 
+style="margin:0px"><B>Net cash used in operating activities</B></P>
+</TD><TD style="margin-top:0px; border-top:1px solid #000000; border-bottom:1px 
+solid #000000" valign=bottom width=21.733><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-top:1px solid 
+#000000; border-bottom:1px solid #000000" valign=bottom width=80.533><P 
+style="margin:0px; padding-right:-7px" align=right>(6,439)</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-top:1px solid 
+#000000; border-bottom:1px solid #000000" valign=bottom width=21.733><P 
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; 
+border-top:1px solid #000000; border-bottom:1px solid #000000" valign=bottom 
+width=74.4><P style="margin:0px; padding-right:-4.2px" align=right>(2,680)</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=18><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom width=18><P
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" 
+valign=bottom width=388.467><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.733><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=80.533><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=14.8><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=21.733><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=74.4><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=424.467 colspan=3><P 
+style="margin:0px"><B>Cash flows from financing activities</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=21.733><P style="margin:0px;
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=80.533><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD
+style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.733><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=18><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom width=18><P
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" 
+valign=bottom width=388.467><P style="margin:0px">Proceeds from related party 
+loans</P>
+</TD><TD style="margin-top:0px" valign=bottom width=21.733><P style="margin:0px;
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=80.533><P style="margin:0px; padding-right:-1px" align=right>6,700</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.733><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px" 
+align=right>-</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=424.467 colspan=3><P 
+style="margin:0px"><B>Net cash provided by financing activities</B></P>
+</TD><TD style="margin-top:0px; border-top:1px solid #000000; border-bottom:1px 
+solid #000000" valign=bottom width=21.733><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-top:1px solid 
+#000000; border-bottom:1px solid #000000" valign=bottom width=80.533><P 
+style="margin:0px; padding-right:-1px" align=right>6,700</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-top:1px solid 
+#000000; border-bottom:1px solid #000000" valign=bottom width=21.733><P 
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; 
+border-top:1px solid #000000; border-bottom:1px solid #000000" valign=bottom 
+width=74.4><P style="margin:0px" align=right>-</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=18><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom width=18><P
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" 
+valign=bottom width=388.467><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.733><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=80.533><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=14.8><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=21.733><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=74.4><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=18><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom width=18><P
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" 
+valign=bottom width=388.467><P style="margin:0px">Net change in cash</P>
+</TD><TD style="margin-top:0px" valign=bottom width=21.733><P style="margin:0px;
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=80.533><P style="margin:0px" align=right>261</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.733><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px" 
+align=right>(2,680)</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=18><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom width=18><P
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" 
+valign=bottom width=388.467><P style="margin:0px">Cash, beginning of period</P>
+</TD><TD style="margin-top:0px" valign=bottom width=21.733><P style="margin:0px;
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom
+width=80.533><P style="margin:0px" align=right>116</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.733><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px; padding-
+right:-4.2px" align=right>3,290</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=18><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom width=18><P
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" 
+valign=bottom width=388.467><P style="margin:0px">Cash, end of period</P>
+</TD><TD style="margin-top:0px; border-top:1px solid #000000; border-bottom:3px 
+double #000000" valign=bottom width=21.733><P style="margin:0px">$</P>
+</TD><TD style="margin-top:0px; border-top:1px solid #000000; border-bottom:3px 
+double #000000" valign=bottom width=80.533><P style="margin:0px" 
+align=right>377</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-top:1px solid 
+#000000; border-bottom:3px double #000000" valign=bottom width=21.733><P 
+style="margin:0px">$</P>
+</TD><TD style="margin-top:0px; border-top:1px solid #000000; border-bottom:3px 
+double #000000" valign=bottom width=74.4><P style="margin:0px" 
+align=right>610</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=18><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom width=18><P
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" 
+valign=bottom width=388.467><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.733><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=80.533><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=14.8><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=21.733><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=74.4><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=424.467 colspan=3><P 
+style="margin:0px"><B>Supplemental cash flow information</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=21.733><P style="margin:0px;
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=80.533><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.733><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=18><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=406.467 colspan=2><P style="margin:0px">Cash paid for interest</P>
+</TD><TD style="margin-top:0px; border-bottom:3px double #000000" valign=bottom 
+width=21.733><P style="margin:0px">$</P>
+</TD><TD style="margin-top:0px; border-bottom:3px double #000000" valign=bottom 
+width=80.533><P style="margin:0px" align=right>-</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:3px double 
+#000000" valign=bottom width=21.733><P style="margin:0px">$</P>
+</TD><TD style="margin-top:0px; border-bottom:3px double #000000" valign=bottom 
+width=74.4><P style="margin:0px" align=right>-</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=18><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=406.467 colspan=2><P style="margin:0px">Cash paid for income taxes</P>
+</TD><TD style="margin-top:0px; border-bottom:3px double #000000" valign=bottom 
+width=21.733><P style="margin:0px">$</P>
+</TD><TD style="margin-top:0px; border-bottom:3px double #000000" valign=bottom 
+width=80.533><P style="margin:0px" align=right>-</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:3px double 
+#000000" valign=bottom width=21.733><P style="margin:0px">$</P>
+</TD><TD style="margin-top:0px; border-bottom:3px double #000000" valign=bottom 
+width=74.4><P style="margin:0px" align=right>-</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=18><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom width=18><P
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" 
+valign=bottom width=388.467><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.733><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=80.533><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=14.8><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=21.733><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=74.4><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=526.733 colspan=5><P 
+style="margin:0px"><B>Supplemental disclosure of non-cash financing and 
+investing activities</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.733><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=74.4><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=18><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=406.467 colspan=2><P style="margin:0px">Issuance of common stock for oil 
+and gas lease</P>
+</TD><TD style="margin-top:0px; border-top:3px double #000000; border-bottom:3px
+double #000000" valign=bottom width=21.733><P style="margin:0px">$</P>
+</TD><TD style="margin-top:0px; border-top:3px double #000000; border-bottom:3px
+double #000000" valign=bottom width=80.533><P style="margin:0px" align=right>-
+</P>
+</TD><TD style="margin-top:0px" valign=bottom width=14.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-top:3px double 
+#000000; border-bottom:3px double #000000" valign=bottom width=21.733><P 
+style="margin:0px">$</P>
+</TD><TD style="margin-top:0px; border-top:3px double #000000; border-bottom:3px
+double #000000" valign=bottom width=74.4><P style="margin:0px" 
+align=right>11,432</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=18><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom width=18><P
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" 
+valign=bottom width=388.467><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=21.733><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=80.533><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=14.8><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=bottom width=21.733><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=74.4><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=637.667 colspan=8><P 
+style="margin:0px" align=center>See accompanying notes to unaudited financial 
+statements.</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR>
+<BR></P>
+<P style="margin:0px" align=center>6</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><B>ALPHA ENERGY, INC.</B></P>
+<P style="margin:0px" align=center><B>Notes to Unaudited Financial 
+Statements</B></P>
+<P style="margin:0px" align=center><B>June 30, 2016</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><B>NOTE 1 &#150; BASIS OF PRESENTATION</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>The accompanying unaudited interim financial
+statements have been prepared by the Company without audit. In the opinion of 
+management, all adjustments (which include only normal recurring adjustments) 
+necessary to present fairly the financial position, results of operations, and 
+cash flows as of June 30, 2016, and for all periods presented herein, have been 
+made.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>Certain information and footnote disclosures
+normally included in financial statements prepared in accordance with accounting
+principles generally accepted in the United States of America have been omitted.
+Notes to the financial statements which would substantially duplicate the 
+disclosures contained in the audited financial statements for the most recent 
+fiscal period, as reported in the Form 10-K, have been omitted. It is suggested 
+that these unaudited interim financial statements be read in conjunction with 
+the financial statements and notes thereto included in the Company&#146;s 
+December 31, 2015 audited financial statements. The results of operations for 
+the period ended June 30, 2016 are not necessarily indicative of the operating 
+results for the full year.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>NOTE 2 &#150; GOING CONCERN</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>The Company&#146;s unaudited interim 
+financial statements are prepared using generally accepted accounting principles
+in the United States of America applicable to a going concern which contemplates
+the realization of assets and liquidation of liabilities in the normal course of
+business. The Company has not yet established an ongoing source of revenues 
+sufficient to cover its operating costs and allow it to continue as a going 
+concern. These factors raise substantial doubt about the company&#146;s ability 
+to continue as a going concern. The ability of the Company to continue as a 
+going concern is dependent on the Company obtaining adequate capital to fund 
+operating losses until it becomes profitable. If the Company is unable to obtain
+adequate capital, it could be forced to cease operations.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>In order to continue as a going concern, the
+Company will need, among other things, additional capital resources. 
+Management&#146;s plan is to obtain such resources for the Company by obtaining 
+capital from management and significant shareholders sufficient to meet its 
+minimal operating expenses and seeking equity and/or debt financing. However 
+management cannot provide any assurances that the Company will be successful in 
+accomplishing any of its plans.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>The ability of the Company to continue as a 
+going concern is dependent upon its ability to successfully accomplish the plans
+described in the preceding paragraph and eventually secure other sources of
+financing and attain profitable operations. The accompanying interim financial 
+statements do not include any adjustments that might be necessary if the Company
+is unable to continue as a going concern.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>NOTE 3 &#150; RELATED PARTY 
+TRANSATIONS</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>During the six months ended June 30, 2016, 
+the Company received advances from related parties totaling $6,700 to fund 
+operations. The advances are non-interest bearing and due on demand. There was 
+$7,475 and $775 due to related parties as of June 30, 2016 and December 31, 
+2015, respectively. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>On April 20, 2016, the Company entered into 
+a lease extension agreement with a related party to extend the term of the lease
+for a period of three years for consideration of $10 cash. The original lease 
+was entered into on October 1, 2013 and set to expire on October 1, 2016. The 
+extension is under the same terms as the original lease agreement and will 
+expire on October 1, 2019.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>NOTE 4 &#150; SUBSEQUENT EVENTS</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>We have evaluated all events through the 
+date of this filing and determined there are none to disclose other than the 
+Company received total advances from related parties of $4,500 to fund 
+operations. The advances are non-interest and due on demand. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=justify><BR>
+<BR></P>
+<P style="margin:0px" align=center>7</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=justify><B>ITEM 2. MANAGEMENT'S DISCUSSION AND 
+ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>FORWARD-LOOKING STATEMENTS</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>This Form 10-Q includes &quot;forward-
+looking statements&quot; within the meaning of Section 27A of the Securities Act
+of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as 
+amended. All statements, other than statements of historical facts, included or 
+incorporated by reference in this Form 10-Q which address activities, events or 
+developments which the Company expects or anticipates will or may occur in the 
+future, including such things as future capital expenditures (including the 
+amount and nature thereof); finding suitable merger or acquisition candidates; 
+expansion and growth of the Company's business and operations; and other such 
+matters are forward-looking statements. These statements are based on certain 
+assumptions and analyses made by the Company in light of its experience and its 
+perception of historical trends, current conditions and expected future 
+developments, as well as other factors it believes are appropriate under the 
+circumstances. However, whether actual results or developments will conform with
+the Company's expectations and predictions is subject to a number of risks and 
+uncertainties, including general economic, market and business conditions; the 
+business opportunities (or lack thereof) that may be presented to and pursued by
+the Company; changes in laws or regulation; and other factors, most of which are
+beyond the control of the Company.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>These forward-looking statements can be 
+identified by the use of predictive, future-tense or forward-looking 
+terminology, such as &quot;believes,&quot; &quot;anticipates,&quot;
+&quot;expects,&quot; &quot;estimates,&quot; &quot;plans,&quot; &quot;may,&quot; 
+&quot;will,&quot; or similar terms. These statements appear in a number of 
+places in this Filing and include statements regarding the intent, belief or 
+current expectations of the Company, and its directors or its officers with 
+respect to, among other things: (i) trends affecting the Company's financial 
+condition or results of operations for its limited history; (ii) the Company's 
+business and growth strategies; and, (iii) the Company's financing plans. 
+Investors are cautioned that any such forward-looking statements are not 
+guarantees of future performance and involve significant risks and 
+uncertainties, and that actual results may differ materially from those 
+projected in the forward-looking statements as a result of various factors. Such
+factors that could adversely affect actual results and performance include, but 
+are not limited to, the Company's limited operating history, potential 
+fluctuations in quarterly operating results and expenses, government regulation,
+technological change and competition.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>Consequently, all of the forward-looking 
+statements made in this Form 10-Q are qualified by these cautionary statements 
+and there can be no assurance that the actual results or developments 
+anticipated by the Company will be realized or, even if substantially realized, 
+that they will have the expected consequence to or effects on the Company or its
+business or operations. The Company assumes no obligations to update any such 
+forward-looking statements.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>General Business Development</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>The Company was formed on September 26, 2013
+in the State of Colorado. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>Business Strategy</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>The Company was incorporated in September 
+2013. Our business model is to purchase or trade stock for oil and gas 
+properties to be held as long term assets. Oil and gas commodity pricing has 
+stabilized under the current economic market conditions bringing the U.S. to 
+become the number one producer in the world. The momentum to drill using 
+enhanced drilling technology in previously undeveloped areas assures the 
+continued value of these properties. Our lean operating structure positions us 
+well to compete in this very competitive market. Our strategy is to acquire 
+producing properties that the Company can operate which have proven un-drilled 
+locations available for further development. At this time the Company is 
+reviewing several properties but have no contractual commitments to date. Our 
+management&#146;s years of experience and knowledge of the oil and gas industry 
+leads us to believe that there are an abundance of good drilling prospects 
+available that have either been overlooked or are not big enough for the larger 
+companies. In the process of identifying these drilling prospects, the Company 
+will utilize the expertise of existing management and employ the highest caliber
+contract engineering firms available to further evaluate the properties. To 
+qualify for acquisition, the calculated cash flow after taxes and operating 
+expenses, including ten percent (10%) interest per year, will recover the 
+acquisition cost in 22 to 30 months. The cash flow calculation will be based 
+conservatively on $51 per barrel of oil and $2.89 per MCF of gas. In addition, 
+the selection criteria will require the life of current producing wells to be 7 
+years or longer and the field must have a minimum total life of 15 years.</P>
+<P style="margin:0px" align=justify><BR>
+<BR></P>
+<P style="margin:0px" align=center>8</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>In the first phase we intend on 
+concentrating on prospects in eastern Colorado, western Kansas and southern
+Wyoming. The depth of the wells in the target areas average from 1500 ft. for 
+the Niobrara formation to a total depth of 5800 ft. for the Topeka, Heebner, 
+Lansing-Kansas City, Marmaton, Cherokee, Atoka, Morrow, Mississippian, Spergen, 
+and Osage formations. By concentrating our initial efforts on shallower 
+prospects we minimize drilling and operating costs. As we grow we plan to expand
+into the Front Range (Northern Front Range Outcrop) and Denver Basin Province 
+(D-J Basin, Wattenberg) of Colorado and into western Kansas (Hugoton Embayment 
+Anadarko Basin &#150; Central Kansas Uplift). The wells in these areas range 
+from 4,000 ft. to 10,000 ft. Such wells are more expensive to drill and operate,
+but also offer bigger returns. Some of the formations in these areas are the 
+Sussex, Niobrara, Codell, J Sand and the D Sand formations. The Company intends 
+to develop prospects and intends to obtain partners to participate in the costs 
+of drilling or acquisitions with the Company serving as the designated Operator.
+The Company intends to also retain a royalty or working interest in the wells 
+drilled or acquired.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>The Company has engaged in verbal 
+negotiations for acquisition of oil and Gas leases located in Northern and 
+eastern Colorado basins. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>In the second phase of operations, we intend
+to expand into Oklahoma, Texas, and eastern Kansas. We intend to place a great 
+deal of emphasis on natural gas production and the transportation of natural 
+gas. We believe natural gas will be the fuel of the future for automobiles, 
+trucks and buses because of the clean-air standards that are proposed and will 
+soon be going into effect, and now is an ideal time to acquire natural gas 
+assets due to the current pricing matrix. The Company also plans on acquiring 
+field transportation and short haul lines as part of our future business plan 
+expansion. Acquiring these types of company lines, specifically in the areas 
+where the company will have production located, will be advantageous due to 
+savings in internal transportation costs, and the profitability margins of 
+operating the lines and marketing natural gas. Managing the transportation 
+system, in conjunction with field operations, will enhance cash flow. After 
+obtaining the transportation lines, we hope to then develop our own end-users 
+for natural gas. This will further enhance the profit margin of the company.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>Liquidity and Capital Resources</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>As of June 30, 2016, we had $377 in cash, 
+total current assets of $3,127 and total current liabilities of $21,558. Current
+assets consisted of $377 in cash and $2,750 of prepaid expenses. Current 
+liabilities consisted of $14,083 of accounts payable and $7,475 of current 
+related party notes payable. </P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><B>Going Concern</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=justify>The future of our company is dependent upon 
+its ability to obtain financing and upon future profitable operations. 
+Management has plans to seek additional capital through a private placement and 
+public offering of its common stock, if necessary. See note 2 to the financial 
+statements for additional information. </P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=justify><B>Results of Operations</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>We did not generate revenues during the 
+three or six months ended June 30, 2016 or 2015. Total operating expenses were 
+$8,250 during the three months ended June 30, 2016 compared to $2,704 during the
+same period in 2015. The increase is the result of fees associated with the 
+audit of our financial statements for the year ended December 31, 2015 that did 
+not exist during the three months ended June 30, 2015 and the costs related to 
+the companies exchange listing. Total operating expenses were $8,565 during the 
+six months ended June 30, 2016 compared to $10,314 for the same period in 2015. 
+The decrease is the result of fees associated with the general and 
+administrative expenses for the period June 30, 2016 that did not exist during
+the three months ended June 30, 2015 and the costs related to the companies 
+exchange listing.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>CRITICAL ACCOUNTING POLICIES</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>In Financial Reporting release No. 60, 
+&quot;CAUTIONARY ADVICE REGARDING DISCLOSURE ABOUT CRITICAL ACCOUNTING 
+POLICIES&quot; (&quot;FRR 60&quot;), the Securities and Exchange Commission 
+suggested that companies provide additional disclosure and commentary on their 
+most critical accounting policies. In FRR 60, the SEC defined the most critical 
+accounting policies as the ones that are most important to the portrayal of a 
+company's financial condition and operating results, and require management to 
+make its most difficult and subjective judgments, often as a result of the need 
+to make estimates of matters that are inherently uncertain. Based on this 
+definition, our most critical accounting policies include: non-cash compensation
+valuation that affects the total expenses reported in the current period and the
+valuation of shares and underlying mineral rights acquired with shares. The 
+methods, estimates and judgments we use in applying these most critical 
+accounting policies have a significant impact on the results we report in our 
+financial statements.</P>
+<P style="margin:0px" align=justify><BR>
+<BR></P>
+<P style="margin:0px" align=center>9</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>ITEM 3. QUANTITATIVE AND QUALITATIVE 
+DISCLOSURES ABOUT MARKET RISK</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>The Company is not exposed to market risk 
+related to interest rates or foreign currencies.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>CONTROLS AND PROCEDURES</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>ITEM 4. CONTROLS AND PROCEDURES</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><I>Evaluation of Disclosure Controls and 
+Procedures </I></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>As required by Rule 13a-15 under the 
+Securities Exchange Act of 1934 (the &#147;1934 Act&#148;), as of June 30, 2015,
+we carried out an evaluation of the effectiveness of the design and operation of
+our disclosure controls and procedures. This evaluation was carried out under 
+the supervision and with the participation of our Chief Executive Officer (our 
+principal executive officer) and our Chief Financial Officer (our principal 
+financial officer), who concluded, that because of the material weakness in our 
+internal control over financial reporting (&#147;ICFR&#148;) , our disclosure 
+controls and procedures were not effective as of June 30, 2016. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>Disclosure controls and procedures are 
+controls and other procedures that are designed to ensure that information 
+required to be disclosed in our reports filed or submitted under the Securities 
+Exchange Act is recorded, processed, summarized and reported within the time 
+periods specified in the Securities and Exchange Commission&#146;s rules and 
+forms. Disclosure controls and procedures include, without limitation, controls 
+and procedures designed to ensure that information required to be disclosed in 
+our reports filed under the Exchange Act is accumulated and communicated to our 
+management, including our principal executive officer and our principal 
+financial officer, as appropriate, to allow timely decisions regarding required 
+disclosure. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><I>Changes in Internal Control over
+Financial Reporting</I></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>There have been no changes in our internal 
+control over financial reporting identified in connection with the evaluation 
+required by paragraph (d) of Exchange Act Rules 13a-15 or 15d-15 that occurred 
+during our second quarter that have materially affected, or are reasonable 
+likely to materially affect, our internal control over financial reporting.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>PART II OTHER INFORMATION</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>ITEM 1. LEGAL PROCEEDINGS</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>The Company is not a party to any legal 
+proceedings.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>ITEM 1A. RISK FACTORS</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>There has been no material changes in the 
+risk factors set forth in the Company&#146;s Form 10K for the period ended 
+December 31, 2015.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>ITEM 2. UNREGISTERED SALES OF EQUITY 
+SECURITIES AND USE OF PROCEEDS</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>There were no sales of unregistered equity 
+securities during the covered time period.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>ITEM 3. DEFAULTS UPON SENIOR 
+SECURITIES</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>None.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>ITEM 4. SUBMISSION OF MATTERS TO A VOTE 
+OF SECURITY HOLDERS</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>None.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>ITEM 5. OTHER INFORMATION</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>None.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><BR>
+<BR></P>
+<P style="margin:0px" align=center>10</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>ITEM 6. EXHIBITS AND REPORTS ON FORM 8-
+K</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>The following documents are included or 
+incorporated by reference as exhibits to this report:</P>
+<P style="margin:0px" align=justify><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0><TR 
+height=0 style="font-size:0"><TD width=76.533 /><TD width=626.667 /></TR>
+<TR><TD style="margin-top:0px" valign=top width=76.533><P style="margin:0px" 
+align=justify><B>Exhibit <U>Number</U></B></P>
+</TD><TD style="margin-top:0px" valign=top width=626.667><P style="margin:0px" 
+align=justify><BR>
+<B><U>Description</U></B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=76.533><P style="margin:0px"
+align=justify>31.1</P>
+</TD><TD style="margin-top:0px" valign=top width=626.667><P 
+style="margin:0px">Certification of Chief Executive Officer pursuant to 
+Securities Exchange Act Rule 13a-14(a)/15d-14(a), as adopted pursuant to Section
+302 of the Sarbanes-Oxley Act of 2002.</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=76.533><P style="margin:0px" 
+align=justify>31.2</P>
+</TD><TD style="margin-top:0px" valign=top width=626.667><P 
+style="margin:0px">Certification of Chief Financial Officer pursuant to 
+Securities Exchange Act Rule 13a-14(a)/15d-14(a), as adopted pursuant to Section
+302 of the Sarbanes-Oxley Act of 2002.</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=76.533><P style="margin:0px" 
+align=justify>32.1</P>
+</TD><TD style="margin-top:0px" valign=top width=626.667><P 
+style="margin:0px">Certification of Chief Executive Officer pursuant to 18 
+U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley 
+Act of 2002.</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=76.533><P style="margin:0px" 
+align=justify>32.1</P>
+</TD><TD style="margin-top:0px" valign=top width=626.667><P 
+style="margin:0px">Certification of Chief Financial Officer pursuant to 18 
+U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley 
+Act of 2002.</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>(b) REPORTS ON FORM 8-K</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>None.</P>
+<P style="margin:0px" align=center><BR>
+<BR></P>
+<P style="margin:0px" align=center>11</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><B>SIGNATURES</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=justify>In accordance with Section 13 or 15 (d) of 
+the Exchange Act, the registrant caused this report to be signed on its behalf 
+by the undersigned thereunto duly authorized. Date: August 12, 2016</P>
+<P style="margin:0px" align=justify><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0><TR 
+height=0 style="font-size:0"><TD width=327.267 /><TD width=327.267 /></TR>
+<TR><TD style="margin-top:0px" valign=top width=327.267><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=327.267><P style="margin:0px"><B><U>Alpha Energy, Inc.</U></B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=327.267><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=327.267><P style="margin:0px">Registrant</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=327.267><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=327.267><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=327.267><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=327.267><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=327.267><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top
+width=327.267><P style="margin:0px">By:<I><U> &nbsp;/s/ Karen 
+Ziegler</U></I></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=327.267><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=327.267><P style="margin:0px">&nbsp;Karen Ziegler</P>
+<P style="margin:0px">&nbsp;Chief Executive Officer</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=327.267><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=327.267><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+</TABLE>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR>
+<BR></P>
+<P style="margin:0px" align=center>12</P>
+<P style="margin:0px"><BR></P>
+</DIV></BODY>
+<!-- EDGAR Validation Code: 7F582148 -->
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31.1
+<SEQUENCE>2
+<FILENAME>f10q063016_ex31z1.htm
+<DESCRIPTION>EXHIBIT 31.2 SECTION 302 CERTIFICATION
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Exhibit 31.2 Section 302 Certification</TITLE>
+<META NAME="author" CONTENT="Tiffany Goeckeritz">
+<META NAME="date" CONTENT="08/12/2016">
+</HEAD>
+<BODY style="margin-top:0;font-family:Times New Roman; font-size:10pt; 
+color:#000000">
+<DIV style="width:720px"><P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>EXHIBIT 31.1</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=center><B>CERTIFICATION</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>I, Karen Ziegler, certify that:</P>
+<P style="margin:0px" align=justify><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+width=100%><TR height=0 style="font-size:0"><TD width=24.333 /><TD /></TR>
+<TR><TD style="margin-top:0px" valign=top width=24.333><P style="margin:0px" 
+align=justify>1.</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" align=justify>I
+have reviewed this Quarterly Report on Form 10-Q of Alpha Energy, Inc. (the 
+&#147;Company&#148;);</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=24.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top><P 
+style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=24.333><P style="margin:0px" 
+align=justify>2.</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" 
+align=justify>Based on my knowledge, this report does not contain any untrue 
+statement of a material fact or omit to state a material fact necessary to make 
+the statements made, in light of the circumstances under which such statements 
+were made, not misleading with respect to the period covered by this report;</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=justify><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+width=100%><TR height=0 style="font-size:0"><TD width=24.333 /><TD /></TR>
+<TR><TD style="margin-top:0px" valign=top width=24.333><P style="margin:0px" 
+align=justify>3.</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" 
+align=justify>Based on my knowledge, the financial statements, and other 
+financial information included in this report, fairly present in all material 
+respects the financial condition, results of operations and cash flows of the 
+Company as of, and for, the periods presented ire this report;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=24.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top><P 
+style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=24.333><P style="margin:0px" 
+align=justify>4.</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" 
+align=justify>The Company&#146;s other certifying officer and I are responsible 
+for establishing and maintaining disclosure controls and procedures (as defined 
+in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over 
+financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) 
+for the Company and have:</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=justify><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+width=100%><TR height=0 style="font-size:0"><TD width=24.267 /><TD 
+width=24.267 /><TD /></TR>
+<TR><TD style="margin-top:0px" width=24.267><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=24.267><P style="margin:0px" align=justify>a.</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" 
+align=justify>Designed such disclosure controls and procedures, or caused such 
+disclosure controls and procedures to be designed under our supervision, to 
+ensure that material information relating to the Company, including its 
+consolidated subsidiaries, is made known to us by others within those entities, 
+particularly during the period in which this report is being prepared;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" width=24.267><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=24.267><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=top><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" width=24.267><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=24.267><P style="margin:0px" align=justify>b.</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" 
+align=justify>Designed such internal control over financial reporting, or caused
+such internal control over financial reporting to be designed under our 
+supervision, to provide reasonable assurance regarding the reliability of 
+financial reporting and the preparation of financial statements for external 
+purposes in accordance with generally accepted accounting principles;</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=justify><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+width=100%><TR height=0 style="font-size:0"><TD width=24.267 /><TD 
+width=24.267 /><TD /></TR>
+<TR><TD style="margin-top:0px" width=24.267><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=24.267><P style="margin:0px" align=justify>c.</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" 
+align=justify>Evaluated the effectiveness of the Company&#146;s disclosure
+controls and procedures and presented in this report our conclusions about the 
+effectiveness of the disclosure controls and procedures, as of the end of the 
+period covered by this report based on such evaluation; and</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" width=24.267><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=24.267><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=top><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" width=24.267><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=24.267><P style="margin:0px" align=justify>d.</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" 
+align=justify>Disclosed in this report any change in the Company&#146;s internal
+control over financial reporting that occurred during the Company&#146;s most 
+recent fiscal quarter (the Company&#146;s fourth fiscal quarter in the case of 
+an annual report) that has materially affected, or is reasonably likely to 
+materially affect, the Company&#146;s internal control over financial reporting;
+and</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=justify><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+width=100%><TR height=0 style="font-size:0"><TD width=24.267 /><TD 
+width=24.267 /><TD /></TR>
+<TR><TD style="margin-top:0px" valign=top width=24.267><P style="margin:0px" 
+align=justify>5.</P>
+</TD><TD style="margin-top:0px" valign=top width=695.733 colspan=2><P 
+style="margin:0px" align=justify>The Company&#146;s other certifying officer and
+I have disclosed, based on our most recent evaluation of internal control over 
+financial reporting, to the Company&#146;s auditors and the audit committee of 
+the Company&#146;s board of directors (or persons performing the equivalent 
+functions):</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=24.267><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=695.733 
+colspan=2><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" width=24.267><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=24.267><P style="margin:0px" align=justify>a.</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" 
+align=justify>All significant deficiencies and material weaknesses in the design
+or operation of internal control over financial reporting which are reasonably 
+likely to adversely affect the Company&#146;s ability to record, process, 
+summarize and report financial information; and</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=justify><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+width=100%><TR height=0 style="font-size:0"><TD width=24.267 /><TD 
+width=24.267 /><TD /></TR>
+<TR><TD style="margin-top:0px" width=24.267><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=24.267><P style="margin:0px" align=justify>b.</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" 
+align=justify>Any fraud, whether or not material, that involves management or 
+other employees who have a significant role in the Company&#146;s internal 
+control over financial reporting.</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>Date: August 12, 2016</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><I><U>/s/ Karen Ziegler
+&nbsp;&nbsp;&nbsp;&nbsp;</U></I></P>
+<P style="margin:0px" align=justify>Karen Ziegler </P>
+<P style="margin:0px" align=justify>Principal Executive Officer </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><BR>
+<BR></P>
+</DIV></BODY>
+<!-- EDGAR Validation Code: 5A1B599F -->
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31.2
+<SEQUENCE>3
+<FILENAME>f10q063016_ex31z2.htm
+<DESCRIPTION>EXHIBIT 31.2 SECTION 302 CERTIFICATION
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Exhibit 31.2 Section 302 Certification</TITLE>
+<META NAME="author" CONTENT="Tiffany Goeckeritz">
+<META NAME="date" CONTENT="08/12/2016">
+</HEAD>
+<BODY style="margin-top:0;font-family:Times New Roman; font-size:10pt; 
+color:#000000">
+<DIV style="width:720px"><P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>EXHIBIT 31.2</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=center><B>CERTIFICATION</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>I, Karen Ziegler, certify that:</P>
+<P style="margin:0px" align=justify><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+width=100%><TR height=0 style="font-size:0"><TD width=24.333 /><TD /></TR>
+<TR><TD style="margin-top:0px" valign=top width=24.333><P style="margin:0px" 
+align=justify>1.</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" align=justify>I
+have reviewed this Quarterly Report on Form 10-Q of Alpha Energy, Inc. (the 
+&#147;Company&#148;);</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=24.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top><P 
+style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=24.333><P style="margin:0px" 
+align=justify>2.</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" 
+align=justify>Based on my knowledge, this report does not contain any untrue 
+statement of a material fact or omit to state a material fact necessary to make 
+the statements made, in light of the circumstances under which such statements 
+were made, not misleading with respect to the period covered by this report;</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=justify><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+width=100%><TR height=0 style="font-size:0"><TD width=24.333 /><TD /></TR>
+<TR><TD style="margin-top:0px" valign=top width=24.333><P style="margin:0px" 
+align=justify>3.</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" 
+align=justify>Based on my knowledge, the financial statements, and other 
+financial information included in this report, fairly present in all material 
+respects the financial condition, results of operations and cash flows of the 
+Company as of, and for, the periods presented ire this report;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=24.333><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top><P 
+style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=24.333><P style="margin:0px" 
+align=justify>4.</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" 
+align=justify>The Company&#146;s other certifying officer and I are responsible 
+for establishing and maintaining disclosure controls and procedures (as defined 
+in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over 
+financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) 
+for the Company and have:</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=justify><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+width=100%><TR height=0 style="font-size:0"><TD width=24.267 /><TD 
+width=24.267 /><TD /></TR>
+<TR><TD style="margin-top:0px" width=24.267><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=24.267><P style="margin:0px" align=justify>a.</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" 
+align=justify>Designed such disclosure controls and procedures, or caused such 
+disclosure controls and procedures to be designed under our supervision, to 
+ensure that material information relating to the Company, including its 
+consolidated subsidiaries, is made known to us by others within those entities, 
+particularly during the period in which this report is being prepared;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" width=24.267><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=24.267><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=top><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" width=24.267><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=24.267><P style="margin:0px" align=justify>b.</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" 
+align=justify>Designed such internal control over financial reporting, or caused
+such internal control over financial reporting to be designed under our 
+supervision, to provide reasonable assurance regarding the reliability of 
+financial reporting and the preparation of financial statements for external 
+purposes in accordance with generally accepted accounting principles;</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=justify><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+width=100%><TR height=0 style="font-size:0"><TD width=24.267 /><TD 
+width=24.267 /><TD /></TR>
+<TR><TD style="margin-top:0px" width=24.267><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=24.267><P style="margin:0px" align=justify>c.</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" 
+align=justify>Evaluated the effectiveness of the Company&#146;s disclosure 
+controls and procedures and presented in this report our conclusions about the 
+effectiveness of the disclosure controls and procedures, as of the end of the 
+period covered by this report based on such evaluation; and</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" width=24.267><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=24.267><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=top><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" width=24.267><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=24.267><P style="margin:0px" align=justify>d.</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" 
+align=justify>Disclosed in this report any change in the Company&#146;s internal
+control over financial reporting that occurred during the Company&#146;s most 
+recent fiscal quarter (the Company&#146;s fourth fiscal quarter in the case of 
+an annual report) that has materially affected, or is reasonably likely to 
+materially affect, the Company&#146;s internal control over financial reporting;
+and</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=justify><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+width=100%><TR height=0 style="font-size:0"><TD width=24.267 /><TD 
+width=24.267 /><TD /></TR>
+<TR><TD style="margin-top:0px" valign=top width=24.267><P style="margin:0px" 
+align=justify>5.</P>
+</TD><TD style="margin-top:0px" valign=top width=695.733 colspan=2><P 
+style="margin:0px" align=justify>The Company&#146;s other certifying officer and
+I have disclosed, based on our most recent evaluation of internal control over 
+financial reporting, to the Company&#146;s auditors and the audit committee of 
+the Company&#146;s board of directors (or persons performing the equivalent 
+functions):</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=24.267><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=695.733 
+colspan=2><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" width=24.267><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=24.267><P style="margin:0px" align=justify>a.</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" 
+align=justify>All significant deficiencies and material weaknesses in the design
+or operation of internal control over financial reporting which are reasonably 
+likely to adversely affect the Company&#146;s ability to record, process, 
+summarize and report financial information; and</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=justify><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+width=100%><TR height=0 style="font-size:0"><TD width=24.267 /><TD 
+width=24.267 /><TD /></TR>
+<TR><TD style="margin-top:0px" width=24.267><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=24.267><P style="margin:0px" align=justify>b.</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" 
+align=justify>Any fraud, whether or not material, that involves management or 
+other employees who have a significant role in the Company&#146;s internal 
+control over financial reporting.</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>Date: August 12, 2016</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><I><U>/s/ Karen Ziegler 
+&nbsp;&nbsp;&nbsp;&nbsp;</U></I></P>
+<P style="margin:0px" align=justify>Karen Ziegler </P>
+<P style="margin:0px" align=justify>Principal Financial Officer </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><BR>
+<BR></P>
+</DIV></BODY>
+<!-- EDGAR Validation Code: 5A1B599F -->
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-32.1
+<SEQUENCE>4
+<FILENAME>f10q063016_ex32z1.htm
+<DESCRIPTION>EXHIBIT 32.1 SECTION 906 CERTIFICATION
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Exhibit 32.1 Section 906 Certification</TITLE>
+<META NAME="author" CONTENT="HGL">
+<META NAME="date" CONTENT="08/12/2016">
+</HEAD>
+<BODY style="margin-top:0;font-family:Times New Roman; font-size:10pt; 
+color:#000000">
+<DIV style="width:720px"><P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>EXHIBIT 32.1</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=center><B>CERTIFICATION PURSUANT TO</B></P>
+<P style="margin:0px" align=center><B>18 U.S.C. SECTION 1350,</B></P>
+<P style="margin:0px" align=center><B>AS ADOPTED PURSUANT TO</B></P>
+<P style="margin:0px" align=center><B>SECTION 906 OF THE SARBANES-OXLEY ACT OF 
+2002</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>In connection with the 
+Quarterly Report of Alpha Energy, Inc. (the &#147;Company&#148;) on Form 10-Q 
+for the period ended June 30, 2016, as filed with the Securities and Exchange 
+Commission on the date hereof (the &#147;Report&#148;), I, Karen Ziegler, 
+Principal Executive Officer and Principal Financial Officer of the Company, 
+certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 
+of the Sarbanes-Oxley Act of 2002, that:</P>
+<P style="margin:0px" align=justify><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+width=100%><TR height=0 style="font-size:0"><TD width=24.333 /><TD /></TR>
+<TR><TD style="margin-top:0px" valign=top width=24.333><P style="margin:0px" 
+align=justify>1. </P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" 
+align=justify>The Report fully complies with the requirements of Section 13(a) 
+or 15(d) of the Securities Exchange Act of 1934; and</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=justify><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+width=100%><TR height=0 style="font-size:0"><TD width=24.333 /><TD /></TR>
+<TR><TD style="margin-top:0px" valign=top width=24.333><P style="margin:0px" 
+align=justify>2. </P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" 
+align=justify>The information contained in the Report fairly presents, in all 
+material respects, the financial condition and results of operations of the 
+Company.</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>Date: August 12, 2016</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><I><U>/s/ Karen Ziegler 
+&nbsp;&nbsp;&nbsp;&nbsp;</U></I></P>
+<P style="margin:0px" align=justify>Karen Ziegler </P>
+<P style="margin:0px" align=justify>Principal Financial Officer</P>
+<P style="margin:0px" align=justify>Principal Executive Officer</P>
+<P style="margin:0px" align=justify><BR>
+<BR></P>
+</DIV></BODY>
+<!-- EDGAR Validation Code: 160BC964 -->
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

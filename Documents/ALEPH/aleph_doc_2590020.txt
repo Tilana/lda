@@ -1,0 +1,3427 @@
+
+10-Q 1 cvx-06302016x10qdoc.htm 10-Q Document
+94583-2324
+(Zip Code)
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+Form 10-Q
+ 
+þ    QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d)
+OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+For the quarterly period ended June 30, 2016
+or
+o    TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d)
+OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+Commission file number 001-00368
+Chevron Corporation
+(Exact name of registrant as specified in its charter)
+Delaware
+ 94-0890210
+(I.R.S. Employer
+(State or other jurisdiction of
+ 
+incorporation or organization)
+Identification Number)
+6001 Bollinger Canyon Road,
+San Ramon, California
+(Address of principal executive offices) 
+Registrant’s telephone number, including area code: (925) 842-1000
+NONE
+(Former name, former address and former fiscal year, if changed since last report.)
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by
+Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or
+for such shorter period that the registrant was required to file such reports), and (2) has been
+subject to such filing requirements for the past 90 days.    Yes  þ        No  o
+Indicate by check mark whether the registrant has submitted electronically and posted on its
+corporate Web site, if any, every Interactive Data File required to be submitted and posted
+pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12
+months (or for such shorter period that the registrant was required to submit and post such
+files).    Yes  þ        No  o
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a
+non-accelerated filer, or a smaller reporting company. See the definitions of “large accelerated
+filer,” “accelerated filer” and “smaller reporting company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer þ Accelerated filer o Non-accelerated filer o Smaller reporting company o
+(Do not check if a smaller reporting company)
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the
+Exchange Act).     Yes  o       No  þ
+Indicate the number of shares outstanding of each of the issuer’s classes of common stock, as of
+the latest practicable date:
+Class
+Common stock, $.75 par value 1,886,520,448
+Outstanding as of June 30, 2016
+Table of Contents
+INDEX
+Cautionary Statements Relevant to Forward-Looking Information for the
+Purpose of “Safe Harbor” Provisions of the Private Securities Litigation Reform
+Act of 1995
+PART I
+FINANCIAL INFORMATION
+Item 1. Consolidated Financial Statements —
+Item 2.
+Consolidated Statement of Income for the Three and Six Months Ended June
+30, 2016, and 2015
+Consolidated Statement of Comprehensive Income for the Three and Six
+Months Ended June 30, 2016, and 2015
+Consolidated Balance Sheet at June 30, 2016, and December 31, 2015
+Consolidated Statement of Cash Flows for the Six Months Ended June 30,
+2016, and 2015
+Notes to Consolidated Financial Statements
+Management’s Discussion and Analysis of Financial Condition and Results of
+Operations
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+Item 4. Controls and Procedures
+PART II
+OTHER INFORMATION
+Item 1. Legal Proceedings
+Item 1A. Risk Factors
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+Item 4. Mine Safety Disclosures
+Item 6. Exhibits
+Signature
+Exhibits:Computation of Ratio of Earnings to Fixed Charges
+Rule 13a-14(a)/15d-14(a) Certifications
+Rule 13a-14(b)/15d-14(b) Certifications
+1
+Table of Contents
+Page No.
+2
+3
+4
+5
+6
+7-23
+24-35
+36
+36
+36
+36
+37
+37
+37
+38
+40
+41-42
+43-44
+CAUTIONARY STATEMENTS RELEVANT TO FORWARD-LOOKING INFORMATION
+FOR THE PURPOSE OF “SAFE HARBOR” PROVISIONS OF THE
+PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995
+This quarterly report on Form 10-Q of Chevron Corporation contains forward-looking statements
+relating to Chevron’s operations that are based on management’s current expectations,
+estimates and projections about the petroleum, chemicals and other energy-related industries.
+Words or phrases such as “anticipates,” “expects,” “intends,” “plans,” “targets,” “forecasts,”
+“projects,” “believes,” “seeks,” “schedules,” “estimates,” “positions,” “may,” “could,” “should,”
+“budgets,” “outlook,” “on schedule,” “on track,” “goals,” “objectives” and similar expressions are
+intended to identify such forward-looking statements. These statements are not guarantees of
+future performance and are subject to certain risks, uncertainties and other factors, many of which
+are beyond the company’s control and are difficult to predict. Therefore, actual outcomes and
+results may differ materially from what is expressed or forecasted in such forward-looking
+statements. The reader should not place undue reliance on these forward-looking statements,
+which speak only as of the date of this report. Unless legally required, Chevron undertakes no
+obligation to update publicly any forward-looking statements, whether as a result of new
+information, future events or otherwise.
+Among the important factors that could cause actual results to differ materially from those in the
+forward-looking statements are: changing crude oil and natural gas prices; changing refining,
+marketing and chemicals margins; the company's ability to realize anticipated cost savings and
+expenditure reductions; actions of competitors or regulators; timing of exploration expenses;
+timing of crude oil liftings; the competitiveness of alternate-energy sources or product substitutes;
+technological developments; the results of operations and financial condition of the company's
+suppliers, vendors, partners and equity affiliates, particularly during extended periods of low
+prices for crude oil and natural gas; the inability or failure of the company’s joint-venture partners
+to fund their share of operations and development activities; the potential failure to achieve
+expected net production from existing and future crude oil and natural gas development projects;
+potential delays in the development, construction or start-up of planned projects; the potential
+disruption or interruption of the company’s operations due to war, accidents, political events, civil
+unrest, severe weather, cyber threats and terrorist acts, crude oil production quotas or other
+actions that might be imposed by the Organization of Petroleum Exporting Countries, or other
+natural or human causes beyond its control; changing economic, regulatory and political
+environments in the various countries in which the company operates; general domestic and
+international economic and political conditions; the potential liability for remedial actions or
+assessments under existing or future environmental regulations and litigation; significant
+operational, investment or product changes required by existing or future environmental statutes
+and regulations, including international agreements and national or regional legislation and
+regulatory measures to limit or reduce greenhouse gas emissions; the potential liability resulting
+from other pending or future litigation; the company’s future acquisition or disposition of assets
+and gains and losses from asset dispositions or impairments; government-mandated sales,
+divestitures, recapitalizations, industry-specific taxes, changes in fiscal terms or restrictions on
+scope of company operations; foreign currency movements compared with the U.S. dollar;
+material reductions in corporate liquidity and access to debt markets; the effects of changed
+accounting rules under generally accepted accounting principles promulgated by rule-setting
+bodies; the company's ability to identify and mitigate the risks and hazards inherent in operating
+in the global energy industry; and the factors set forth under the heading “Risk Factors” on pages
+21 through 23 of the company’s 2015 Annual Report on Form 10-K. Other unpredictable or
+unknown factors not discussed in this report could also have material adverse effects on forward-
+looking statements.
+2
+Table of Contents
+PART I.
+FINANCIAL INFORMATION
+ 
+Item 1.Consolidated Financial Statements
+CHEVRON CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENT OF INCOME
+(Unaudited)
+Revenues and Other Income
+Sales and other operating revenues*
+Income from equity affiliates
+Other income
+Total Revenues and Other Income
+Costs and Other Deductions
+Purchased crude oil and products
+Operating expenses
+Selling, general and administrative expenses
+Exploration expenses
+Depreciation, depletion and amortization
+Taxes other than on income*
+Interest and debt expense
+Total Costs and Other Deductions
+Income (Loss) Before Income Tax Expense
+Income Tax Expense (Benefit)
+Net Income (Loss)
+Less: Net income attributable to noncontrolling
+interests
+Net Income (Loss) Attributable to Chevron
+Corporation
+Per Share of Common Stock:
+Net Income (Loss) Attributable to Chevron
+Corporation
+— Basic
+— Diluted
+Dividends
+Weighted Average Number of Shares Outstanding
+(000s)
+— Basic
+— Diluted
+____________________
+2015
+Six Months Ended 
+ 
+June 30
+ 2016
+2015
+Three Months Ended
+June 30
+2016
+(Millions of dollars, except per-share
+amounts)
+ 
+$ 27,844  $ 36,829  $ 50,914  $ 69,144
+752
+686
+29,282
+ 
+15,278
+5,054
+1,033
+214
+6,721
+2,973
+79
+31,352
+(2,070
+(607
+(1,463
+2,570
+ 3,201
+ 74,915
+  
+ 37,734
+ 11,472
+ 2,114
+ 1,667
+ 11,369
+ 6,291
+ —
+ 70,647
+) 4,268
+) 1,060
+) 3,208
+1,169
+ 2,359
+ 40,357
+  
+ 20,541
+ 6,077
+ 1,170
+ 1,075
+ 6,958
+ 3,173
+ —
+ 38,994
+) 1,363
+) 755
+) 608
+1,328
+ 593
+ 52,835
+  
+ 26,503
+ 10,458
+ 2,031
+ 584
+ 11,124
+ 5,837
+ 79
+ 56,616
+ (3,781
+ (1,611
+ (2,170
+7
+37
+25
+70
+$ (1,470 ) $ 571
+$ (2,195 ) $ 3,138
+$ (0.78
+$ (0.78
+$ 1.07
+) $ 0.30
+) $ 0.30
+ $ 1.07
+$ (1.17
+ $ (1.17
+ $ 2.14
+) $ 1.68
+) $ 1.67
+ $ 2.14
+1,871,995  1,867,561 1,870,885  1,867,110
+1,871,995  1,876,705 1,870,885  1,876,603
+* Includes excise, value-added and similar taxes:
+1,784
+1,965
+$ 3,436
+$ 3,842
+See accompanying notes to consolidated financial statements.
+3
+Table of Contents
+CHEVRON CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME
+(Unaudited)
+Net Income (Loss)
+Currency translation adjustment
+Unrealized holding gain on securities:
+Net gain arising during period
+Defined benefit plans:
+Actuarial loss:
+Amortization to net income of net actuarial and settlement
+losses
+Actuarial loss arising during period
+Prior service cost:
+Amortization to net income of net prior service costs
+Defined benefit plans sponsored by equity affiliates
+Income tax expense on defined benefit plans
+Total
+Other Comprehensive Gain, Net of Tax
+Comprehensive Income (Loss)
+Comprehensive income attributable to noncontrolling
+interests
+Comprehensive Income (Loss) Attributable to Chevron
+Corporation
+2015
+2015
+Six Months
+ 
+Ended 
+June 30
+ 2016
+Three Months
+Ended 
+June 30
+2016
+(Millions of dollars)
+$ (1,463 ) $ 608  $(2,170) $3,208
+(7
+ 
+1
+2
+  
+) 10
+) 6
+  
+ (8
+(19
+  
+ (6
+198
+(14
+ 
+8
+5
+(73
+124
+118
+(1,345
+(7
+174
+379
+344
+) 8
+  
+ 8
+ 14
+) (73
+ 131
+ 129
+) 737
+) (37
+(14
+  
+ 13
+ 14
+) (145
+ 247
+ 259
+ (1,911 ) 3,416
+) —
+  
+ 14
+ 27
+) (152
+ 233
+ 208
+) (25
+) (70
+$ (1,352 ) $ 700  $(1,936) $3,346
+)
+)
+)
+)
+See accompanying notes to consolidated financial statements.
+4
+Table of Contents
+CHEVRON CORPORATION AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEET
+(Unaudited)
+ASSETS
+$ 8,764
+Cash and cash equivalents
+320
+Marketable securities
+13,490
+Accounts and notes receivable, net
+ 
+Inventories
+3,680
+Crude oil and petroleum products
+431
+Chemicals
+2,316
+Materials, supplies and other
+6,427
+Total inventories
+Prepaid expenses and other current assets 1
+3,470
+32,471
+Total Current Assets
+2,469
+Long-term receivables, net
+27,740
+Investments and advances
+Properties, plant and equipment, at cost
+339,081
+Less: Accumulated depreciation, depletion and amortization 154,396
+184,685
+Properties, plant and equipment, net
+Deferred charges and other assets 1, 2
+6,316
+Goodwill
+4,581
+3,216
+Assets held for sale
+Total Assets
+$ 261,478
+LIABILITIES AND EQUITY
+Short-term debt 2
+Accounts payable
+Accrued liabilities
+Federal and other taxes on income 1
+Other taxes payable
+Total Current Liabilities
+Long-term debt 2
+Capital lease obligations
+Deferred credits and other noncurrent obligations
+Noncurrent deferred income taxes 1
+At December 31
+ 
+2015
+At June 30
+2016
+(Millions of dollars, except per-
+share amounts)
+  
+ $ 11,022
+ 310
+ 12,860
+  
+ 3,535
+ 490
+ 2,309
+ 6,334
+ 3,904
+ 34,430
+ 2,412
+ 27,110
+ 340,277
+ 151,881
+ 188,396
+ 6,155
+ 4,588
+ 1,449
+ $ 264,540
+  
+ $ 4,927
+ 13,516
+ 4,833
+ 1,073
+ 1,118
+ 25,467
+ 33,542
+ 80
+ 23,465
+ 20,165
+$ 5,530
+13,416
+4,458
+490
+1,033
+24,927
+39,487
+68
+22,712
+18,342
+—
+—
+)
+)
+)
+1,832
+1,832
+7,617
+113,153
+7,935
+ 110,654
+Noncurrent employee benefit plans
+Total Liabilities
+Preferred stock (authorized 100,000,000 shares, $1.00 par
+value, none issued)
+Common stock (authorized 6,000,000,000 shares; $0.75 par
+value;
+     2,442,676,580 shares issued at June 30, 2016, and
+December 31, 2015)
+Capital in excess of par value
+Retained earnings
+Accumulated other comprehensive loss
+Deferred compensation and benefit plan trust
+Treasury stock, at cost (556,156,132 and 559,862,580 shares
+at June 30, 2016, and
+    December 31, 2015, respectively)
+Total Chevron Corporation Stockholders’ Equity
+Noncontrolling interests
+Total Equity
+Total Liabilities and Equity
+____________________
+1 2015 adjusted to conform to ASU 2015-17. Refer to Note 9, "Income Taxes" beginning on page
+13.
+2 2015 adjusted to conform to ASU 2015-03. Refer to Note 5, "New Accounting Standards" on
+page 10.
+See accompanying notes to consolidated financial statements.
+152,716
+ 1,170
+ 153,886
+ $ 264,540
+147,163
+1,162
+148,325
+$ 261,478
+16,330
+ 181,578
+) (4,291
+) (240
+16,436
+175,379
+(4,032
+(240
+(42,212
+) (42,493
+5
+Table of Contents
+CHEVRON CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENT OF CASH FLOWS
+(Unaudited)
+Operating Activities
+Net Income (Loss)
+Adjustments
+Depreciation, depletion and amortization
+Dry hole expense
+Distributions less than income from equity affiliates
+Net before-tax gains on asset retirements and sales
+Net foreign currency effects
+Deferred income tax provision
+2015
+Six Months Ended 
+June 30
+2016
+(Millions of dollars)
+ 
+$(2,170 ) $3,208
+ 
+11,124  11,369
+334
+ 1,160
+) (183
+(486
+)
+(661
+) (3,045 )
+302
+ 101
+(2,240 ) (727
+)
+) (89
+ 42
+) (386
+ 114
+ 9,539
+4,877
+ 8
+ 64
+) (96
+ 71
+Net increase in operating working capital
+Increase in long-term receivables
+Net decrease in other deferred charges
+Cash contributions to employee pension plans
+Other
+Net Cash Provided by Operating Activities
+Investing Activities
+Capital expenditures
+Proceeds and deposits related to asset sales
+Net maturities of time deposits
+Net sales of marketable securities
+Net borrowing of loans by equity affiliates
+Net sales of other short-term investments
+Net Cash Used for Investing Activities
+Financing Activities
+Net borrowings (repayments) of short-term obligations
+Proceeds from issuance of long-term debt
+Repayments of long-term debt and other financing obligations
+Cash dividends — common stock
+Distributions to noncontrolling interests
+Net sales of treasury shares
+Net Cash Provided by Financing Activities
+Effect of Exchange Rate Changes on Cash and Cash Equivalents(5
+Net Change in Cash and Cash Equivalents
+Cash and Cash Equivalents at January 1
+Cash and Cash Equivalents at June 30
+(2,091 ) (2,025 )
+(33
+)
+52
+(551
+92
+3,672
+ 
+(10,035 ) (15,245 )
+1,370
+—
+2
+(158
+155
+(8,666 ) (10,321 )
+ 
+359
+6,926
+(780
+)
+(4,002 ) (3,994 )
+(24
+)
+262
+2,741
+) (26
+ 138
+ 172
+) (19
+(2,258 ) (629
+11,022  12,785
+$8,764  $12,156
+(1,920 )
+ 5,989
+) (15
+)
+)
+)
+)
+See accompanying notes to consolidated financial statements.
+6
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ 
+Note 1. Interim Financial Statements
+The accompanying consolidated financial statements of Chevron Corporation and its
+subsidiaries (the company) have not been audited by an independent registered public
+accounting firm. In the opinion of the company’s management, the interim data includes all
+adjustments necessary for a fair statement of the results for the interim periods. These
+adjustments were of a normal recurring nature. The results for the three- and six-month periods
+ended June 30, 2016, are not necessarily indicative of future financial results. The term
+“earnings” is defined as net income (loss) attributable to Chevron Corporation.
+Certain notes and other information have been condensed or omitted from the interim financial
+statements presented in this Quarterly Report on Form 10-Q. Therefore, these financial
+statements should be read in conjunction with the company’s 2015 Annual Report on Form 10-K.
+ 
+Note 2. Changes in Accumulated Other Comprehensive Losses
+The change in Accumulated Other Comprehensive Losses (AOCL) presented on the
+Consolidated Balance Sheet and the impact of significant amounts reclassified from AOCL on
+information presented in the Consolidated Statement of Income for the six months ending
+June 30, 2016, are reflected in the table below.
+Changes in Accumulated Other Comprehensive Income (Loss) by Component (1) 
+(Millions of Dollars)
+Six Months Ended June 30, 2016
+Currency
+ 
+Translation
+Adjustment
+Unrealized Holding
+ 
+Gains (Losses) on
+Securities
+Derivatives
+Defined
+Benefit
+Plans
+Total
+10
+—
+244
+2
+2
+247
+259
+)  $
+(19
+)  $
+(29
+15
+244
+3
+—
+—
+)
+$ (2
+10
+—
+$ (138
+)  $(4,120 ) $(4,291)
+Balance at January 1  $ (140
+Components of Other Comprehensive
+Income (Loss):
+    Before
+Reclassifications
+    Reclassifications (2)  —
+Net Other
+Comprehensive
+Income (Loss)
+Balance at June 30
+________________________________
+(1) All amounts are net of tax.
+(2) Refer to Note 10, Employee Benefits for reclassified components totaling $392 million that are
+included in employee benefit costs for the six months ending June 30, 2016. Related income
+taxes for the same period, totaling $148 million, are reflected in Income Tax Expense on the
+Consolidated Statement of Income. All other reclassified amounts were insignificant.
+ 
+Note 3. Noncontrolling Interests
+Ownership interests in the company’s subsidiaries held by parties other than the parent are
+presented separately from the parent’s equity on the Consolidated Balance Sheet. The amount of
+consolidated net income attributable to the parent and the noncontrolling interests are both
+presented on the face of the Consolidated Statement of Income.
+Activity for the equity attributable to noncontrolling interests for the first six months of 2016 and
+2015 is as follows:
+)  $(3,873 ) $(4,032)
+)
+$ (2
+Balance at January 1
+2016
+Chevron
+Corporation
+Stockholders’
+Equity
+(Millions of dollars)
+$ 152,716
+Non-
+ 
+controlling
+Interest
+Total
+ 
+Equity
+2015
+Chevron
+Corporation
+ 
+Stockholders’
+Equity
+Non-
+ 
+controlling
+Interest
+Total
+ 
+Equity
+$ 1,170
+$153,886  $ 155,028
+$ 1,163
+$156,191
+—
+) 25
+) —
+(24
+(2,195
+(4,004
+(2,170
+ (4,004
+) 3,138
+) (3,996
+Net income (loss)
+Dividends
+Distributions to
+noncontrolling interests
+Treasury shares, net
+Other changes, net*
+Balance at June 30
+ _____________________
+* Includes components of comprehensive income, which are disclosed separately in the
+Consolidated Statement of Comprehensive Income.
+281
+) 356
+ $148,325  $ 154,669
+281
+365
+$ 147,163
+—
+ (9
+ $ 1,162
+—
+ 15
+ $ 1,222
+70
+) —
+(26
+) —
+158
+ 341
+) (24
+3,208
+ (3,996
+) (26
+)
+)
+158
+ 356
+ $155,891
+7
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+Note 4. Information Relating to the Consolidated Statement of Cash Flows
+The “Net increase in operating working capital” was composed of the following operating
+changes:
+Six Months Ended 
+June 30
+2016
+(Millions of dollars)
+2015
+(219
+(Increase) decrease in accounts and notes receivable $(858 ) $296
+) (611
+Increase in inventories
+Decrease in prepaid expenses and other current assets23
+ 775
+) (1,894 )
+Decrease in accounts payable and accrued liabilities
+(699
+(338
+Decrease in income and other taxes payable
+) (591
+)
+Net increase in operating working capital
+$(2,091 ) $(2,025 )
+The “Net increase in operating working capital” includes reductions of $11 million and $13
+million for excess income tax benefits associated with stock options exercised during the six
+months ended June 30, 2016, and 2015, respectively. These amounts are offset by an equal
+amount in “Net sales of treasury shares.”
+“Net Cash Provided by Operating Activities” included the following cash payments for interest on
+debt and for income taxes:
+)
+Six Months Ended 
+June 30
+2016
+(Millions of dollars)
+2015
+Interest on debt (net of capitalized interest)$ 50
+Income taxes
+1,297
+"Depreciation, depletion and amortization" and "Deferred income tax provision" collectively
+include $2.8 billion in non-cash reductions to properties, plant and equipment relating to
+impairments and other non-cash charges.
+"Other" includes changes in postretirement benefits obligations and other long-term liabilities.
+Information related to "Restricted Cash" is included on page 21 in Note 14 under the heading
+$ —
+ 3,404
+"Restricted Cash."
+The “Net maturities of time deposits” consisted of the following gross amounts:
+Six Months Ended 
+June 30
+2016
+(Millions of dollars)
+2015
+Maturities of time deposits —
+  8
+Net maturities of time deposits$ —   $
+The “Net sales of marketable securities” consisted of the following gross amounts:
+8
+Six Months Ended 
+June 30
+2016
+(Millions of dollars)
+2015
+Marketable securities purchased $ (9 )   $ —
+Marketable securities sold
+Net sales of marketable securities$ 2
+64
+  $ 64
+11
+Six Months Ended 
+June 30
+2016
+(Millions of dollars)
+$ (171 ) $ (96 )
+13
+2015
+2015
+Six Months Ended 
+June 30
+2016
+(Millions of dollars)
+)  $ (46 )
+ 117
+ $ 71
+8
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+The “Net borrowing of loans by equity affiliates” consisted of the following gross amounts:
+Borrowing of loans by equity affiliates
+Repayment of loans by equity affiliates
+Net borrowing of loans by equity affiliates$ (158 ) $ (96 )
+The “Net sales of other short-term investments” consisted of the following gross amounts:
+—
+Purchases of other short-term investments$ (3
+Sales of other short-term investments
+158
+Net sales of other short-term investments $ 155
+The “Net borrowings (repayments) of short-term obligations" consisted of the following gross and
+net amounts:
+Repayments of short-term obligations
+Proceeds from issuances of short-term obligations
+Net borrowings of short-term obligations with three months or less maturity(2,960 ) 728
+2015
+Six Months Ended 
+June 30
+2016
+(Millions of dollars)
+$(5,175 ) $(8,116 )
+8,494
+5,468
+Net borrowings (repayments) of short-term obligations
+The “Net sales of treasury shares” represents the cost of common shares acquired less the cost
+of shares issued for share-based compensation plans. Purchases totaled $1 million for the first
+six months in 2016 and $1 million for the first six months in 2015. No purchases were made
+under the company's share repurchase program in the first six months of 2016 or 2015.
+The major components of “Capital expenditures” and the reconciliation of this amount to the
+capital and exploratory expenditures, including equity affiliates, are as follows:
+$(1,920 )
+$359
+Additions to properties, plant and equipment
+Additions to investments
+Current year dry hole expenditures
+Payments for other liabilities and assets, net
+ Capital expenditures
+Expensed exploration expenditures
+Assets acquired through capital lease obligations
+ Capital and exploratory expenditures, excluding equity affiliates10,289  15,781
+Company’s share of expenditures by equity affiliates
+ 1,526
+ Capital and exploratory expenditures, including equity affiliates $11,992  $17,307
+Six Months Ended 
+June 30
+2016
+(Millions of dollars)
+$9,796  $14,599
+27
+211
+1
+10,035  15,245
+250
+4
+275
+ 371
+ —
+1,703
+2015
+507
+ 29
+9
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+Note 5. New Accounting Standards
+Interest - Imputation of Interest (Topic 835): Simplifying the Presentation of Debt Issuance Costs.
+Effective January 1, 2016, Chevron adopted ASU 2015-03 on a retrospective basis. The
+standard requires that debt issuance costs related to a recognized liability be presented on the
+balance sheet as a direct deduction from the carrying amount of that debt liability. The effects of
+retrospective adoption on the December 31, 2015, Consolidated Balance Sheet were reductions
+of $43 million in "Deferred charges and other assets," $1 million in "Short-term debt" and $42
+million in "Long-term debt".
+Revenue Recognition (Topic 606): Revenue from Contracts with Customers. In July 2015, the
+FASB approved a one-year deferral of the effective date of ASU 2014-09, which becomes
+effective for the company January 1, 2018. The standard provides a single comprehensive
+revenue recognition model for contracts with customers, eliminates most industry-specific
+revenue recognition guidance, and expands disclosure requirements. "Sales and Other
+Operating Revenues” on the Consolidated Statement of Income includes excise, value-added
+and similar taxes on sales transactions. Upon adoption of the standard, revenue will exclude
+sales-based taxes collected on behalf of third parties, which will have no impact to earnings. The
+company continues to evaluate the effect of the standard on its consolidated financial statements.
+Leases (Topic 842) In February 2016, the FASB issued ASU 2016-02 which becomes effective
+for the company January 1, 2019. The standard requires that lessees present right-of-use assets
+and lease liabilities on the balance sheet. The company is evaluating the effect of the standard
+on the company’s consolidated financial statements.
+Note 6. Operating Segments and Geographic Data
+Although each subsidiary of Chevron is responsible for its own affairs, Chevron Corporation
+manages its investments in these subsidiaries and their affiliates. The investments are grouped
+into two business segments, Upstream and Downstream, representing the company’s “reportable
+segments” and “operating segments.” Upstream operations consist primarily of exploring for,
+developing and producing crude oil and natural gas; liquefaction, transportation and
+regasification associated with liquefied natural gas (LNG); transporting crude oil by major
+international oil export pipelines; processing, transporting, storage and marketing of natural gas;
+and a gas-to-liquids plant. Downstream operations consist primarily of refining of crude oil into
+petroleum products; marketing of crude oil and refined products; transporting of crude oil and
+refined products by pipeline, marine vessel, motor equipment and rail car; and manufacturing and
+marketing of commodity petrochemicals, plastics for industrial uses, and fuel and lubricant
+additives. All Other activities of the company include worldwide cash management and debt
+financing activities, corporate administrative functions, insurance operations, real estate activities
+and technology companies.
+The company’s segments are managed by “segment managers” who report to the “chief
+operating decision maker” (CODM). The segments represent components of the company that
+engage in activities (a) from which revenues are earned and expenses are incurred; (b) whose
+operating results are regularly reviewed by the CODM, which makes decisions about resources
+to be allocated to the segments and assesses their performance; and (c) for which discrete
+financial information is available.
+The company’s primary country of operation is the United States of America, its country of
+domicile. Other components of the company’s operations are reported as “International” (outside
+the United States).
+10
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+Segment Earnings The company evaluates the performance of its operating segments on an
+after-tax basis, without considering the effects of debt financing interest expense or investment
+interest income, both of which are managed by the company on a worldwide basis. Corporate
+administrative costs and assets are not allocated to the operating segments. However, operating
+segments are billed for the direct use of corporate services. Nonbillable costs remain at the
+corporate level in “All Other.” Earnings by major operating area for the three- and six-month
+period ended June 30, 2016, and 2015, are presented in the following table:
+Three Months Ended 
+Six Months Ended 
+ 
+June 30
+June 30
+2016
+ 2016
+(Millions of dollars)
+ 
+$ (1,113 ) $ (1,038 ) $(1,963 ) $(1,498 )
+(1,349
+Segment Earnings
+ 
+Upstream
+United States
+International
+2015
+) (1,181
+) (1,958 ) 839
+2015
+) (2,219
+Total Upstream
+  
+Downstream
+ 731
+United States
+ 2,225
+International
+ 2,956
+Total Downstream
+) 737
+Total Segment Earnings
+  
+All Other
+ 16
+Interest Income
+Other
+) (182
+Net Income (Loss) Attributable to Chevron Corporation$ (1,470 ) $ 571
+Segment Assets Segment assets do not include intercompany investments or intercompany
+receivables. “All Other” assets consist primarily of worldwide cash, cash equivalents, time
+deposits and marketable securities; real estate; information systems; technology companies; and
+assets of the corporate administrative functions. Segment assets at June 30, 2016, and
+December 31, 2015, are as follows:
+) (3,921 ) (659
+  
+  
+ 1,437
+ 784
+ 2,942
+ 1,229
+ 2,013
+ 4,379
+ (1,908 ) 3,720
+  
+ 32
+) (319
+ $(2,195 ) $3,138
+(2,462
+ 
+537
+741
+1,278
+(1,184
+ 
+17
+(303
+32
+) (614
+)
+)
+Segment Assets
+At December 31
+2015
+At June 30
+2016
+(Millions of dollars)
+ 
+  
+ $ 46,383
+$ 43,992
+ 162,030
+162,142
+4,581
+ 4,588
+ 213,001
+210,715
+  
+ 
+21,949
+ 21,404
+ 14,982
+15,868
+ 36,386
+37,817
+248,532
+ 249,387
+  
+ 
+ 4,728
+5,043
+7,903
+ 10,425
+ 15,153
+12,946
+ 72,515
+70,984
+185,913
+ 187,437
+ 4,588
+4,581
+ $ 264,540
+$ 261,478
+Upstream
+United States 1
+International 1
+Goodwill
+Total Upstream
+Downstream
+United States 1
+International
+Total Downstream
+Total Segment Assets
+All Other
+United States 1,2
+International
+Total All Other
+Total Assets — United States
+Total Assets — International
+Goodwill
+Total Assets
+____________________
+1 2015 adjusted to conform to ASU 2015-17. Refer to Note 9, "Income Taxes" beginning on page
+13.
+2 2015 adjusted to conform to ASU 2015-03. Refer to Note 5, "New Accounting Standards" on
+page 10.
+11
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+Segment Sales and Other Operating Revenues Segment sales and other operating revenues,
+including internal transfers, for the three- and six-month period ended June 30, 2016, and 2015,
+are presented in the following table. Products are transferred between operating segments at
+internal product values that approximate market prices. Revenues for the upstream segment are
+derived primarily from the production and sale of crude oil and natural gas, as well as the sale of
+third-party production of natural gas. Revenues for the downstream segment are derived from the
+refining and marketing of petroleum products such as gasoline, jet fuel, gas oils, lubricants,
+residual fuel oils and other products derived from crude oil. This segment also generates
+revenues from the manufacture and sale of fuel and lubricant additives and the transportation and
+trading of refined products and crude oil. “All Other” activities include revenues from insurance
+operations, real estate activities and technology companies.
+2015
+2015
+10,568
+Three Months Ended 
+Six Months Ended 
+ 
+June 30
+June 30
+2016
+ 2016
+ Sales and Other Operating Revenues
+(Millions of dollars)
+ 
+  
+ 
+Upstream
+ $4,539  $6,882
+$2,467
+United States
+ 10,398  14,623
+5,377
+International
+ 14,937  21,505
+Subtotal
+7,844
+) (3,141 ) (4,664 )
+Intersegment Elimination — United States (1,810
+) (4,207 ) (6,273 )
+Intersegment Elimination — International
+(2,278
+ 7,589
+3,756
+Total Upstream
+  
+ 
+Downstream
+ 20,883  27,541
+United States
+11,716
+ 22,847  31,842
+12,539
+International
+ 43,730  59,383
+Subtotal
+24,255
+) (8
+Intersegment Elimination — United States (4
+) (459
+(196
+Intersegment Elimination — International
+ 43,263  58,507
+24,055
+Total Downstream
+  
+ 
+All Other
+ 545
+296
+United States
+ 19
+11
+International
+ 564
+307
+Subtotal
+) (484
+Intersegment Elimination — United States (264
+) (18
+(10
+Intersegment Elimination — International
+ 62
+33
+Total All Other
+  
+Sales and Other Operating Revenues
+ 
+ 25,967  35,186
+14,479
+United States
+ 33,264  46,482
+International
+17,927
+ 59,231  81,668
+Subtotal
+32,406
+) (3,633 ) (5,375 )
+Intersegment Elimination — United States (2,078
+Intersegment Elimination — International
+) (4,684 ) (7,149 )
+(2,484
+Total Sales and Other Operating Revenues$27,844  $ 36,829  $50,914  $69,144
+$ 3,533
+ 7,408
+ 10,941
+) (2,553
+) (3,281
+ 5,107
+  
+ 15,107
+ 16,978
+ 32,085
+) (8
+) (388
+ 31,689
+  
+ 438
+ 10
+ 448
+) (407
+) (8
+ 33
+  
+ 19,078
+ 24,396
+ 43,474
+) (2,968
+) (3,677
+763
+ 17
+ 780
+) (697
+) (14
+ 69
+) (14
+) (862
+)
+)
+)
+)
+Note 7. Summarized Financial Data — Chevron U.S.A. Inc.
+Chevron U.S.A. Inc. (CUSA) is a major subsidiary of Chevron Corporation. CUSA and its
+subsidiaries manage and operate most of Chevron’s U.S. businesses. Assets include those
+related to the exploration and production of crude oil, natural gas and natural gas liquids and
+those associated with refining, marketing, and supply and distribution of products derived from
+petroleum, excluding most of the regulated pipeline operations of Chevron. CUSA also holds the
+company’s investment in the Chevron Phillips Chemical Company LLC joint venture, which is
+accounted for using the equity method.
+12
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+The summarized financial information for CUSA and its consolidated subsidiaries is as follows:
+Sales and other operating revenues
+   Costs and other deductions
+   Net income (loss) attributable to CUSA(1,218 ) (290
+Six Months Ended 
+June 30
+2016
+(Millions of dollars)
+$38,275  $52,777
+40,905  54,019
+2015
+)
+At December 31
+ 
+2015
+At June 30
+2016
+(Millions of dollars)
+$ 11,100  $ 9,732
+ 59,170
+56,910
+14,305
+ 13,664
+ 29,100
+27,392
+Current assets
+   Other assets
+   Current liabilities
+   Other liabilities
+   Total CUSA net equity$ 26,313  $ 26,138
+   Memo: Total debt
+$ 14,457  $ 14,462
+Note 8. Summarized Financial Data — Tengizchevroil LLP
+Chevron has a 50 percent equity ownership interest in Tengizchevroil LLP (TCO). Summarized
+financial information for 100 percent of TCO is presented in the following table:
+Six Months Ended 
+June 30
+2016
+(Millions of dollars)
+2015
+Sales and other operating revenues$ 5,044  $ 7,304
+   Costs and other deductions
+   Net income attributable to TCO
+Note 9. Income Taxes
+Taxes on income for the second quarter and first six months of 2016 benefited earnings by $0.6
+billion and $1.6 billion, respectively, compared with charges of $0.8 billion and $1.1 billion,
+respectively for the corresponding periods in 2015. The associated effective tax rates (calculated
+as the amount of Income Tax Expense (Benefit) divided by Income (Loss) Before Income Tax
+Expense) for the second quarters of 2016 and 2015 were 29 percent and 55 percent,
+respectively. For the comparative six-month periods the effective tax rates were 43 percent and
+4,122
+ 2,232
+2,900
+1,501
+25 percent, respectively.
+Excluding the effects of equity earnings, the effective tax rates for the 2016 and 2015 quarterly
+periods were 24 percent and 334 percent, respectively, a decrease of 310 percent between
+periods, and the tax rates for the respective six-month periods were 34 percent and 50 percent, a
+decrease of 16 percent between periods. The decrease in the effective tax rate between the
+quarterly periods primarily resulted from the effects of valuation allowances recognized on
+deferred tax assets, the absence of the 2015 sale of the company's interest in Caltex Australia
+Limited and foreign currency remeasurement effects, partially offset by jurisdictional mix impacts.
+The decrease in the effective tax rate for the six-month comparative period primarily resulted from
+the effects of valuation allowances recognized on deferred tax assets and the absence of the
+2015 sale of the company's interest in Caltex Australia Limited, partially offset by jurisdictional
+mix impacts.
+Tax positions for Chevron and its subsidiaries and affiliates are subject to income tax audits by
+many tax jurisdictions throughout the world. For the company’s major tax jurisdictions,
+examinations of tax returns for certain prior tax years had not been completed as of June 30,
+2016. For these jurisdictions, the latest years for which income tax examinations had been
+finalized were as follows: United States — 2011, Nigeria — 2000, Angola — 2009 and
+Kazakhstan — 2007.
+The company engages in ongoing discussions with tax authorities regarding the resolution of tax
+matters in the various jurisdictions. Both the outcomes for these tax matters and the timing of
+resolution and/or closure of the tax audits are highly uncertain. However, it is reasonably
+possible that developments regarding tax matters in certain tax jurisdictions may result in
+significant increases or decreases in the company’s total unrecognized tax benefits within the
+next 12 months. Given the number of years that still remain subject to examination and the
+number of matters being examined in the various tax jurisdictions, the company is unable to
+estimate the range of possible adjustments to the balance of unrecognized tax benefits.
+13
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+Effective January 1, 2016, Chevron early-adopted Income Taxes (Topic 740), Balance Sheet
+Classification of Deferred Taxes (ASU 2015-17), on a retrospective basis. The standard provides
+that all deferred income taxes be classified as noncurrent on the Consolidated Balance Sheet.
+The prior requirement was to classify most deferred tax assets and liabilities based on the
+classification of the underlying asset or liability. The effects of retrospective adoption on the
+December 31, 2015, Consolidated Balance Sheet were reductions of $917 million in "Prepaid
+expenses and other current assets," $603 million in "Deferred charges and other assets," $996
+million in "Federal and other taxes on income," and $524 million in "Noncurrent deferred income
+taxes."
+Note 10. Employee Benefits
+Chevron has defined benefit pension plans for many employees. The company typically prefunds
+defined benefit plans as required by local regulations or in certain situations where prefunding
+provides economic advantages. In the United States, all qualified plans are subject to the
+Employee Retirement Income Security Act minimum funding standard. The company does not
+typically fund U.S. nonqualified pension plans that are not subject to funding requirements under
+laws and regulations because contributions to these pension plans may be less economic and
+investment returns may be less attractive than the company’s other investment alternatives.
+The company also sponsors other postretirement employee benefit (OPEB) plans that provide
+medical and dental benefits, as well as life insurance for some active and qualifying retired
+employees. The plans are unfunded, and the company and the retirees share the costs. Medical
+coverage for Medicare-eligible retirees in the company’s main U.S. medical plan is secondary to
+Medicare (including Part D) and the increase to the company contribution for retiree medical
+coverage is limited to no more than 4 percent each year. Certain life insurance benefits are paid
+by the company.
+The components of net periodic benefit costs for 2016 and 2015 are as follows:
+2015
+2015
+Three Months Ended 
+Six Months Ended 
+ 
+June 30
+June 30
+2016
+ 2016
+(Millions of dollars)
+ 
+ 
+$ 124
+94
+(180
+$ 247
+ 188
+)  (361
+)  (4
+)
+)
+Pension Benefits
+United States
+Service cost
+Interest cost
+Expected return on plan assets
+Amortization of prior service credits (2
+83
+Amortization of actuarial losses
+Settlement losses
+81
+200
+Total United States
+ 
+International
+Service cost
+43
+63
+Interest cost
+Expected return on plan assets
+(61
+Amortization of prior service costs 6
+12
+Amortization of actuarial losses
+17
+Settlement losses
+Total International
+80
+Net Periodic Pension Benefit Costs$ 280
+ 
+Other Benefits*
+$ 15
+Service cost
+Interest cost
+32
+Amortization of prior service costs 4
+5
+Amortization of actuarial losses
+Net Periodic Other Benefit Costs
+$ 56
+___________________________________
+* Includes costs for U.S. and international OPEB plans. Obligations for plans outside the United
+States are not significant relative to the company’s total OPEB obligation.
+$ 134
+  125
+)   (196
+)   (2
+  89
+  54
+  204
+   
+  49
+  72
+)   (65
+  6
+  23
+  —
+  85
+  $ 289
+   
+  $ 18
+  37
+  4
+  8
+  $ 67
+$ 269
+ 251
+) (392
+) (4
+ 178
+ 108
+ 410
+  
+ 94
+ 141
+) (130
+ 11
+ 41
+ —
+ 157
+ $ 567
+  
+ $ 36
+ 75
+ 7
+ 17
+ $ 135
+10
+ 23
+ 17
+ 140
+ $ 539
+  
+ $ 30
+ 64
+ 7
+ 10
+ $ 111
+167
+ 162
+ 399
+  
+ 83
+ 130
+)  (123
+)
+14
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+Through June 30, 2016, a total of $551 million was contributed to employee pension plans
+(including $317 million to the U.S. plans.) Total contributions for the full year are currently
+estimated to be $700 million ($400 million for the U.S. plans and $300 million for the international
+plans.) The company anticipates it will not make contributions to the primary U.S. pension plan
+for the remainder of 2016. Actual contribution amounts are dependent upon plan investment
+returns, changes in pension obligations, regulatory requirements and other economic factors.
+Additional funding may ultimately be required if investment returns are insufficient to offset
+increases in plan obligations.
+During the first six months of 2016, the company contributed $95 million to its OPEB plans. The
+company anticipates contributing approximately $96 million during the remainder of 2016.
+Note 11. Assets Held For Sale
+At June 30, 2016, the company classified $3,216 million of net properties, plant and equipment
+as “Assets held for sale” on the Consolidated Balance Sheet. These assets are associated with
+upstream and downstream operations that are anticipated to be sold in the next 12 months. The
+revenues and earnings contributions of these assets in 2015 and the first six months of 2016
+were not material.
+Note 12. Litigation
+MTBE Chevron and many other companies in the petroleum industry have used methyl tertiary
+butyl ether (MTBE) as a gasoline additive. Chevron is a party to six pending lawsuits and claims,
+the majority of which involve numerous other petroleum marketers and refiners. Resolution of
+these lawsuits and claims may ultimately require the company to correct or ameliorate the
+alleged effects on the environment of prior release of MTBE by the company or other parties.
+Additional lawsuits and claims related to the use of MTBE, including personal-injury claims, may
+be filed in the future. The company’s ultimate exposure related to pending lawsuits and claims is
+not determinable. The company no longer uses MTBE in the manufacture of gasoline in the
+United States.
+Ecuador
+Background Chevron is a defendant in a civil lawsuit initiated in the Superior Court of Nueva
+Loja in Lago Agrio, Ecuador, in May 2003 by plaintiffs who claim to be representatives of certain
+residents of an area where an oil production consortium formerly had operations. The lawsuit
+alleges damage to the environment from the oil exploration and production operations and seeks
+unspecified damages to fund environmental remediation and restoration of the alleged
+environmental harm, plus a health monitoring program. Until 1992, Texaco Petroleum Company
+(Texpet), a subsidiary of Texaco Inc., was a minority member of this consortium with
+Petroecuador, the Ecuadorian state-owned oil company, as the majority partner; since 1990, the
+operations have been conducted solely by Petroecuador. At the conclusion of the consortium
+and following an independent third-party environmental audit of the concession area, Texpet
+entered into a formal agreement with the Republic of Ecuador and Petroecuador for Texpet to
+remediate specific sites assigned by the government in proportion to Texpet’s ownership share of
+the consortium. Pursuant to that agreement, Texpet conducted a three-year remediation program
+at a cost of $40 million. After certifying that the sites were properly remediated, the government
+granted Texpet and all related corporate entities a full release from any and all environmental
+liability arising from the consortium operations.
+Based on the history described above, Chevron believes that this lawsuit lacks legal or factual
+merit. As to matters of law, the company believes first, that the court lacks jurisdiction over
+Chevron; second, that the law under which plaintiffs bring the action, enacted in 1999, cannot be
+applied retroactively; third, that the claims are barred by the statute of limitations in Ecuador; and,
+fourth, that the lawsuit is also barred by the releases from liability previously given to Texpet by
+the Republic of Ecuador and Petroecuador and by the pertinent provincial and municipal
+governments. With regard to the facts, the company believes that the evidence confirms that
+Texpet’s remediation was properly conducted and that the remaining environmental damage
+reflects Petroecuador’s failure to timely fulfill its legal obligations and Petroecuador’s further
+conduct since assuming full control over the operations.
+Lago Agrio Judgment In 2008, a mining engineer appointed by the court to identify and determine
+the cause of environmental damage, and to specify steps needed to remediate it, issued a report
+recommending that the court assess $18.9 billion, which would, according to the engineer,
+provide financial compensation for purported damages, including wrongful death claims, and pay
+for, among other items, environmental remediation, health care systems and additional
+infrastructure for Petroecuador. The engineer’s report also asserted that an additional$8.4 billion
+could be assessed against Chevron for unjust enrichment. In 2009, following the disclosure by
+Chevron of evidence that the judge participated in meetings in which businesspeople and
+individuals holding themselves out as government officials discussed the case and its likely
+outcome, the judge presiding over the
+15
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+case was recused. In 2010, Chevron moved to strike the mining engineer’s report and to dismiss
+the case based on evidence obtained through discovery in the United States indicating that the
+report was prepared by consultants for the plaintiffs before being presented as the mining
+engineer’s independent and impartial work and showing further evidence of misconduct. In
+August 2010, the judge issued an order stating that he was not bound by the mining engineer’s
+report and requiring the parties to provide their positions on damages within 45 days. Chevron
+subsequently petitioned for recusal of the judge, claiming that he had disregarded evidence of
+fraud and misconduct and that he had failed to rule on a number of motions within the statutory
+time requirement.
+In September 2010, Chevron submitted its position on damages, asserting that no amount should
+be assessed against it. The plaintiffs’ submission, which relied in part on the mining engineer’s
+report, took the position that damages are between approximately $16 billion and $76 billion and
+that unjust enrichment should be assessed in an amount between approximately $5 billion and
+$38 billion. The next day, the judge issued an order closing the evidentiary phase of the case
+and notifying the parties that he had requested the case file so that he could prepare a judgment.
+Chevron petitioned to have that order declared a nullity in light of Chevron’s prior recusal petition,
+and because procedural and evidentiary matters remained unresolved. In October 2010,
+Chevron’s motion to recuse the judge was granted. A new judge took charge of the case and
+revoked the prior judge’s order closing the evidentiary phase of the case. On December 17,
+2010, the judge issued an order closing the evidentiary phase of the case and notifying the
+parties that he had requested the case file so that he could prepare a judgment.
+On February 14, 2011, the provincial court in Lago Agrio rendered an adverse judgment in the
+case. The court rejected Chevron’s defenses to the extent the court addressed them in its
+opinion. The judgment assessed approximately $8.6 billion in damages and approximately $900
+million as an award for the plaintiffs’ representatives. It also assessed an additional amount of
+approximately $8.6 billion in punitive damages unless the company issued a public apology
+within 15 days of the judgment, which Chevron did not do. On February 17, 2011, the plaintiffs
+appealed the judgment, seeking increased damages, and on March 11, 2011, Chevron appealed
+the judgment seeking to have the judgment nullified. On January 3, 2012, an appellate panel in
+the provincial court affirmed the February 14, 2011 decision and ordered that Chevron pay
+additional attorneys’ fees in the amount of “0.10% of the values that are derived from the
+decisional act of this judgment.” The plaintiffs filed a petition to clarify and amplify the appellate
+decision on January 6, 2012, and the court issued a ruling in response on January 13, 2012,
+purporting to clarify and amplify its January 3, 2012 ruling, which included clarification that the
+deadline for the company to issue a public apology to avoid the additional amount of
+approximately $8.6 billion in punitive damages was within 15 days of the clarification ruling, or
+February 3, 2012. Chevron did not issue an apology because doing so might be
+mischaracterized as an admission of liability and would be contrary to facts and evidence
+submitted at trial. On January 20, 2012, Chevron appealed (called a petition for cassation) the
+appellate panel’s decision to Ecuador’s National Court of Justice. As part of the appeal, Chevron
+requested the suspension of any requirement that Chevron post a bond to prevent enforcement
+under Ecuadorian law of the judgment during the cassation appeal. On February 17, 2012, the
+appellate panel of the provincial court admitted Chevron’s cassation appeal in a procedural step
+necessary for the National Court of Justice to hear the appeal. The provincial court appellate
+panel denied Chevron’s request for suspension of the requirement that Chevron post a bond and
+stated that it would not comply with the First and Second Interim Awards of the international
+arbitration tribunal discussed below. On March 29, 2012, the matter was transferred from the
+provincial court to the National Court of Justice, and on November 22, 2012, the National Court
+agreed to hear Chevron's cassation appeal. On August 3, 2012, the provincial court in Lago
+Agrio approved a court-appointed liquidator’s report on damages that calculated the total
+judgment in the case to be $19.1 billion. On November 13, 2013, the National Court ratified the
+judgment but nullified the $8.6 billion punitive damage assessment, resulting in a judgment of
+$9.5 billion. On December 23, 2013, Chevron appealed the decision to the Ecuador
+Constitutional Court, Ecuador's highest court. The reporting justice of the Constitutional Court
+heard oral arguments on the appeal on July 16, 2015.
+On July 2, 2013, the provincial court in Lago Agrio issued an embargo order in Ecuador ordering
+that any funds to be paid by the Government of Ecuador to Chevron to satisfy a $96 million award
+issued in an unrelated action by an arbitral tribunal presiding in the Permanent Court of
+Arbitration in The Hague under the Rules of the United Nations Commission on International
+Trade Law must be paid to the Lago Agrio plaintiffs. The award was issued by the tribunal under
+the United States-Ecuador Bilateral Investment Treaty in an action filed in 2006 in connection
+with seven breach of contract cases that Texpet filed against the Government of Ecuador
+between 1991 and 1993. The Government of Ecuador has moved to set aside the tribunal's
+award. On September 26, 2014, the Supreme Court of the Netherlands issued an opinion
+denying Ecuador’s set aside request. A Federal District Court for the District of Columbia
+confirmed the tribunal's award, and, on August 4, 2015, a panel of the U.S. Court of Appeals for
+the District of Columbia Circuit affirmed the District Court's decision. On September 28, 2015, the
+Court of Appeals denied the Government of Ecuador’s request for full appellate court review of
+the Federal District Court’s decision. On June 6, 2016, the United States Supreme Court denied
+the Government of
+16
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+Ecuador's petition for Writ of Certiorari. On July 22, 2016, the Government of Ecuador paid the
+$96 million award, plus interest, resulting in a payment to Chevron of approximately $113 million.
+Lago Agrio Plaintiffs' Enforcement Actions Chevron has no assets in Ecuador and the Lago Agrio
+plaintiffs’ lawyers have stated in press releases and through other media that they will seek to
+enforce the Ecuadorian judgment in various countries and otherwise disrupt Chevron’s
+operations. On May 30, 2012, the Lago Agrio plaintiffs filed an action against Chevron
+Corporation, Chevron Canada Limited, and Chevron Canada Finance Limited in the Ontario
+Superior Court of Justice in Ontario, Canada, seeking to recognize and enforce the Ecuadorian
+judgment. On May 1, 2013, the Ontario Superior Court of Justice held that the Court has
+jurisdiction over Chevron and Chevron Canada Limited for purposes of the action, but stayed the
+action due to the absence of evidence that Chevron Corporation has assets in Ontario. The Lago
+Agrio plaintiffs appealed that decision and, on December 17, 2013, the Court of Appeals for
+Ontario affirmed the lower court’s decision on jurisdiction and set aside the stay, allowing the
+recognition and enforcement action to be heard in the Ontario Superior Court of Justice. Chevron
+appealed the decision to the Supreme Court of Canada and, on September 4, 2015, the
+Supreme Court dismissed the appeal and affirmed that the Ontario Superior Court of Justice has
+jurisdiction over Chevron and Chevron Canada Limited for purposes of the action. The
+recognition and enforcement proceeding and related preliminary motions are proceeding in the
+Ontario Superior Court of Justice.
+On June 27, 2012, the Lago Agrio plaintiffs filed a complaint against Chevron Corporation in the
+Superior Court of Justice in Brasilia, Brazil, seeking to recognize and enforce the Ecuadorian
+judgment. Chevron has answered the complaint. In accordance with Brazilian procedure, the
+matter was referred to the public prosecutor for a nonbinding opinion of the issues raised in the
+complaint. On May 13, 2015, the public prosecutor issued its nonbinding opinion and
+recommended that the Superior Court of Justice reject the plaintiffs’ recognition and enforcement
+request, finding, among other things, that the Lago Agrio judgment was procured through fraud
+and corruption and cannot be recognized in Brazil because it violates Brazilian and international
+public order.
+On October 15, 2012, the provincial court in Lago Agrio issued an ex parte embargo order that
+purports to order the seizure of assets belonging to separate Chevron subsidiaries in Ecuador,
+Argentina and Colombia. On November 6, 2012, at the request of the Lago Agrio plaintiffs, a
+court in Argentina issued a Freeze Order against Chevron Argentina S.R.L. and another Chevron
+subsidiary, Ingeniero Norberto Priu, requiring shares of both companies to be "embargoed,"
+requiring third parties to withhold 40 percent of any payments due to Chevron Argentina S.R.L.
+and ordering banks to withhold 40 percent of the funds in Chevron Argentina S.R.L. bank
+accounts. On December 14, 2012, the Argentinean court rejected a motion to revoke the Freeze
+Order but modified it by ordering that third parties are not required to withhold funds but must
+report their payments. The court also clarified that the Freeze Order relating to bank accounts
+excludes taxes. On January 30, 2013, an appellate court upheld the Freeze Order, but on June 4,
+2013, the Supreme Court of Argentina revoked the Freeze Order in its entirety. On December 12,
+2013, the Lago Agrio plaintiffs served Chevron with notice of their filing of an enforcement
+proceeding in the National Court, First Instance, of Argentina. Chevron filed its answer on
+February 27, 2014 to which the Lago Agrio plaintiffs responded on December 29, 2015. On April
+19, 2016, the public prosecutor in Argentina issued a non-binding opinion recommending to the
+National Court, First Instance, of Argentina that it reject the Lago Agrio plaintiffs' request to
+recognize the Ecuadorian judgment in Argentina.
+Chevron continues to believe the provincial court’s judgment is illegitimate and unenforceable in
+Ecuador, the United States and other countries. The company also believes the judgment is the
+product of fraud, and contrary to the legitimate scientific evidence. Chevron cannot predict the
+timing or ultimate outcome of the appeals process in Ecuador or any enforcement action.
+Chevron expects to continue a vigorous defense of any imposition of liability in the Ecuadorian
+courts and to contest and defend any and all enforcement actions.
+Company's Bilateral Investment Treaty Arbitration Claims Chevron and Texpet filed an arbitration
+claim in September 2009 against the Republic of Ecuador before an arbitral tribunal presiding in
+the Permanent Court of Arbitration in The Hague under the Rules of the United Nations
+Commission on International Trade Law. The claim alleges violations of the Republic of
+Ecuador’s obligations under the United States–Ecuador Bilateral Investment Treaty (BIT) and
+breaches of the settlement and release agreements between the Republic of Ecuador and
+Texpet (described above), which are investment agreements protected by the BIT. Through the
+arbitration, Chevron and Texpet are seeking relief against the Republic of Ecuador, including a
+declaration that any judgment against Chevron in the Lago Agrio litigation constitutes a violation
+of Ecuador’s obligations under the BIT. On February 9, 2011, the Tribunal issued an Order for
+Interim Measures requiring the Republic of Ecuador to take all measures at its disposal to
+suspend or cause to be suspended the enforcement or recognition within and without Ecuador of
+any judgment against Chevron in the Lago Agrio case pending further order of the Tribunal. On
+January 25, 2012, the Tribunal converted the Order for Interim Measures into an Interim Award.
+Chevron filed a renewed application for further interim measures on January 4, 2012, and the
+Republic of Ecuador opposed Chevron’s application and requested that the existing Order for
+Interim Measures be vacated on January 9, 2012. On February 16, 2012, the Tribunal issued a
+Second Interim Award mandating that the Republic
+17
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+of Ecuador take all measures necessary (whether by its judicial, legislative or executive
+branches) to suspend or cause to be suspended the enforcement and recognition within and
+without Ecuador of the judgment against Chevron and, in particular, to preclude any certification
+by the Republic of Ecuador that would cause the judgment to be enforceable against Chevron.
+On February 27, 2012, the Tribunal issued a Third Interim Award confirming its jurisdiction to
+hear Chevron's arbitration claims. On February 7, 2013, the Tribunal issued its Fourth Interim
+Award in which it declared that the Republic of Ecuador “has violated the First and Second
+Interim Awards under the [BIT], the UNCITRAL Rules and international law in regard to the
+finalization and enforcement subject to execution of the Lago Agrio Judgment within and outside
+Ecuador, including (but not limited to) Canada, Brazil and Argentina.” The Republic of Ecuador
+subsequently filed in the District Court of the Hague a request to set aside the Tribunal’s Interim
+Awards and the First Partial Award (described below), and on January 20, 2016, the District
+Court denied the Republic's request. On April 13, 2016, the Republic of Ecuador appealed the
+decision.
+The Tribunal has divided the merits phase of the proceeding into three phases. On September
+17, 2013, the Tribunal issued its First Partial Award from Phase One, finding that the settlement
+agreements between the Republic of Ecuador and Texpet applied to Texpet and Chevron,
+released Texpet and Chevron from claims based on "collective" or "diffuse" rights arising from
+Texpet's operations in the former concession area and precluded third parties from asserting
+collective/diffuse rights environmental claims relating to Texpet's operations in the former
+concession area but did not preclude individual claims for personal harm. The Tribunal held a
+hearing on April 29-30, 2014, to address remaining issues relating to Phase One, and on March
+12, 2015, it issued a nonbinding decision that the Lago Agrio plaintiffs' complaint, on its face,
+includes claims not barred by the settlement agreement between the Republic of Ecuador and
+Texpet. In the same decision, the Tribunal deferred to Phase Two remaining issues from Phase
+One, including whether the Republic of Ecuador breached the 1995 settlement agreement and
+the remedies that are available to Chevron and Texpet as a result of that breach. Phase Two
+issues were addressed at a hearing held in April and May 2015. The Tribunal has not set a date
+for Phase Three, the damages phase of the arbitration.
+Company's RICO Action Through a series of U.S. court proceedings initiated by Chevron to
+obtain discovery relating to the Lago Agrio litigation and the BIT arbitration, Chevron obtained
+evidence that it believes shows a pattern of fraud, collusion, corruption, and other misconduct on
+the part of several lawyers, consultants and others acting for the Lago Agrio plaintiffs. In February
+2011, Chevron filed a civil lawsuit in the Federal District Court for the Southern District of New
+York against the Lago Agrio plaintiffs and several of their lawyers, consultants and supporters,
+alleging violations of the Racketeer Influenced and Corrupt Organizations Act and other state
+laws. Through the civil lawsuit, Chevron is seeking relief that includes a declaration that any
+judgment against Chevron in the Lago Agrio litigation is the result of fraud and other unlawful
+conduct and is therefore unenforceable. On March 7, 2011, the Federal District Court issued a
+preliminary injunction prohibiting the Lago Agrio plaintiffs and persons acting in concert with
+them from taking any action in furtherance of recognition or enforcement of any judgment against
+Chevron in the Lago Agrio case pending resolution of Chevron’s civil lawsuit by the Federal
+District Court. On May 31, 2011, the Federal District Court severed claims one through eight of
+Chevron’s complaint from the ninth claim for declaratory relief and imposed a discovery stay on
+claims one through eight pending a trial on the ninth claim for declaratory relief. On
+September 19, 2011, the U.S. Court of Appeals for the Second Circuit vacated the preliminary
+injunction, stayed the trial on Chevron’s ninth claim, a claim for declaratory relief, that had been
+set for November 14, 2011, and denied the defendants’ mandamus petition to recuse the judge
+hearing the lawsuit. The Second Circuit issued its opinion on January 26, 2012 ordering the
+dismissal of Chevron’s ninth claim for declaratory relief. On February 16, 2012, the Federal
+District Court lifted the stay on claims one through eight, and on October 18, 2012, the Federal
+District Court set a trial date of October 15, 2013. On March 22, 2013, Chevron settled its claims
+against Stratus Consulting, and on April 12, 2013 sworn declarations by representatives of
+Stratus Consulting were filed with the Court admitting their role and that of the plaintiffs' attorneys
+in drafting the environmental report of the mining engineer appointed by the provincial court in
+Lago Agrio. On September 26, 2013, the Second Circuit denied the defendants' Petition for Writ
+of Mandamus to recuse the judge hearing the case and to collaterally estop Chevron from
+seeking a declaration that the Lago Agrio judgment was obtained through fraud and other
+unlawful conduct.
+The trial commenced on October 15, 2013 and concluded on November 22, 2013. On March 4,
+2014, the Federal District Court entered a judgment in favor of Chevron, prohibiting the
+defendants from seeking to enforce the Lago Agrio judgment in the United States and further
+prohibiting them from profiting from their illegal acts. The defendants appealed the Federal
+District Court's decision, and, on April 20, 2015, a panel of the U.S. Court of Appeals for the
+Second Circuit heard oral arguments.
+Management's Assessment The ultimate outcome of the foregoing matters, including any
+financial effect on Chevron, remains uncertain. Management does not believe an estimate of a
+reasonably possible loss (or a range of
+18
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+loss) can be made in this case. Due to the defects associated with the Ecuadorian judgment, the
+2008 engineer’s report on alleged damages and the September 2010 plaintiffs’ submission on
+alleged damages, management does not believe these documents have any utility in calculating
+a reasonably possible loss (or a range of loss). Moreover, the highly uncertain legal environment
+surrounding the case provides no basis for management to estimate a reasonably possible loss
+(or a range of loss).
+Note 13. Other Contingencies and Commitments
+Income Taxes The company calculates its income tax expense and liabilities quarterly. These
+liabilities generally are subject to audit and are not finalized with the individual taxing authorities
+until several years after the end of the annual period for which income taxes have been
+calculated. Refer to Note 9 on page 13 for a discussion of the periods for which tax returns have
+been audited for the company’s major tax jurisdictions.
+Settlement of open tax years, as well as other tax issues in countries where the company
+conducts its businesses, are not expected to have a material effect on the consolidated financial
+position or liquidity of the company and, in the opinion of management, adequate provision has
+been made for income and franchise taxes for all years under examination or subject to future
+examination.
+Guarantees The company and its subsidiaries have certain contingent liabilities with respect to
+guarantees, direct or indirect, of debt of affiliated companies or third parties. Under the terms of
+the guarantee arrangements, the company would generally be required to perform should the
+affiliated company or third party fail to fulfill its obligations under the arrangements. In some
+cases, the guarantee arrangements may have recourse provisions that would enable the
+company to recover any payments made under the terms of the guarantees from assets provided
+as collateral.
+Indemnifications In the acquisition of Unocal, the company assumed certain indemnities relating
+to contingent environmental liabilities associated with assets that were sold in 1997. The
+acquirer of those assets shared in certain environmental remediation costs up to a maximum
+obligation of $200 million, which had been reached at December 31, 2009. Under the
+indemnification agreement, after reaching the $200 million obligation, Chevron is solely
+responsible until April 2022, when the indemnification expires. The environmental conditions or
+events that are subject to these indemnities must have arisen prior to the sale of the assets in
+1997.
+Although the company has provided for known obligations under this indemnity that are probable
+and reasonably estimable, the amount of additional future costs may be material to results of
+operations in the period in which they are recognized. The company does not expect these costs
+will have a material effect on its consolidated financial position or liquidity.
+Off-Balance-Sheet Obligations The company and its subsidiaries have certain contingent
+liabilities with respect to long-term unconditional purchase obligations and commitments,
+including throughput and take-or-pay agreements, some of which relate to suppliers’ financing
+arrangements. The agreements typically provide goods and services, such as pipeline and
+storage capacity, drilling rigs, utilities, and petroleum products, to be used or sold in the ordinary
+course of the company’s business.
+Environmental The company is subject to loss contingencies pursuant to laws, regulations,
+private claims and legal proceedings related to environmental matters that are subject to legal
+settlements or that in the future may require the company to take action to correct or ameliorate
+the effects on the environment of prior release of chemicals or petroleum substances, including
+MTBE, by the company or other parties. Such contingencies may exist for various sites,
+including, but not limited to, federal Superfund sites and analogous sites under state laws,
+refineries, crude oil fields, service stations, terminals, land development areas, and mining
+activities, whether operating, closed or divested. These future costs are not fully determinable
+due to such factors as the unknown magnitude of possible contamination, the unknown timing
+and extent of the corrective actions that may be required, the determination of the company’s
+liability in proportion to other responsible parties, and the extent to which such costs are
+recoverable from third parties.
+Although the company has provided for known environmental obligations that are probable and
+reasonably estimable, the amount of additional future costs may be material to results of
+operations in the period in which they are recognized. The company does not expect these costs
+will have a material effect on its consolidated financial position or liquidity. Also, the company
+does not believe its obligations to make such expenditures have had, or will have, any significant
+impact on the company’s competitive position relative to other U.S. or international petroleum or
+chemical companies.
+Other Contingencies On November 7, 2011, while drilling a development well in the deepwater
+Frade Field about 75 miles offshore Brazil, an unanticipated pressure spike caused oil to migrate
+from the well bore through a series of fissures to the sea floor, emitting approximately 2,400
+barrels of oil. The source of the seep was substantially contained within four days and the well
+was plugged and abandoned. On March 14, 2012, the company identified
+19
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+a small, second seep in a different part of the field. No evidence of any coastal or wildlife impacts
+related to either of these seeps has emerged. As reported in the company’s previously filed
+periodic reports, it has resolved civil claims relating to these incidents brought by a Brazilian
+federal district prosecutor. As also reported previously, the federal district prosecutor also filed
+criminal charges against Chevron and 11 Chevron employees. These charges were dismissed
+by the trial court on February 19, 2013, reinstated by an appellate court on October 9, 2013, and
+then, upon Chevron's motion for reconsideration, dismissed by the appellate court on August 27,
+2015. The federal district prosecutor has appealed the appellate court’s decision.
+Chevron receives claims from and submits claims to customers; trading partners; joint venture
+partners; U.S. federal, state and local regulatory bodies; governments; contractors; insurers;
+suppliers; and individuals. The amounts of these claims, individually and in the aggregate, may
+be significant and take lengthy periods to resolve, and may result in gains or losses in future
+periods.
+The company and its affiliates also continue to review and analyze their operations and may
+close, abandon, sell, exchange, acquire or restructure assets to achieve operational or strategic
+benefits and to improve competitiveness and profitability. These activities, individually or
+together, may result in significant gains or losses in future periods.
+Note 14. Fair Value Measurements
+The three levels of the fair value hierarchy of inputs the company uses to measure the fair value
+of an asset or liability are described as follows:
+Level 1: Quoted prices (unadjusted) in active markets for identical assets and liabilities. For the
+company, Level 1 inputs include exchange-traded futures contracts for which the parties are
+willing to transact at the exchange-quoted price and marketable securities that are actively
+traded.
+Level 2: Inputs other than Level 1 that are observable, either directly or indirectly. For the
+company, Level 2 inputs include quoted prices for similar assets or liabilities, prices obtained
+through third-party broker quotes and prices that can be corroborated with other observable
+inputs for substantially the complete term of a contract.
+Level 3: Unobservable inputs. The company does not use Level 3 inputs for any of its recurring
+fair value measurements. Level 3 inputs may be required for the determination of fair value
+associated with certain nonrecurring measurements of nonfinancial assets and liabilities.
+The fair value hierarchy for assets and liabilities measured at fair value on a recurring basis at
+June 30, 2016, and December 31, 2015, is as follows:
+Assets and Liabilities Measured at Fair Value on a Recurring Basis
+(Millions of dollars)
+ 
+ 
+Marketable Securities
+Derivatives
+Total Assets at Fair Value
+Derivatives
+Total Liabilities at Fair Value$74  $ 69
+Marketable Securities The company calculates fair value for its marketable securities based on
+quoted market prices for identical assets. The fair values reflect the cash that would have been
+received if the instruments were sold at June 30, 2016.
+Derivatives The company records its derivative instruments — other than any commodity
+derivative contracts that are designated as normal purchase and normal sale — on the
+Consolidated Balance Sheet at fair value, with the offsetting amount to the Consolidated
+Statement of Income. Derivatives classified as Level 1 include futures, swaps and options
+contracts traded in active markets such as the New York Mercantile Exchange. Derivatives
+classified as Level 2 include swaps, options and forward contracts principally with financial
+institutions and other oil and gas companies, the fair values of which are obtained from third-party
+broker quotes, industry pricing services and exchanges. The company obtains multiple sources
+of pricing information for the Level 2 instruments.
+At June 30, 2016
+Total Level 1 Level 2 Level 3 Total Level 1 Level 2 Level 3
+$320 $ 320  $ —  $ —  $310 $ 310  $ —  $ —
+23
+$343 $ 324  $ 19
+74
+At December 31, 2015
+—
+ $ —
+ —
+ $ —
+5
+ $ 5
+19
+69
+4
+16
+205  189
+—
+ $ —  $515 $ 499  $ 16
+ —
+ $ —  $53  $ 47
+6
+ $ 6
+53
+47
+20
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+Since this pricing information is generated from observable market data, it has historically been
+very consistent. The company does not materially adjust this information.
+Assets carried at fair value at June 30, 2016, and December 31, 2015, are as follows:
+Cash and Cash Equivalents The company holds cash equivalents in U.S. and non-U.S.
+portfolios. The instruments classified as cash equivalents are primarily bank time deposits with
+maturities of 90 days or less, and money market funds. “Cash and cash equivalents” had
+carrying/fair values of $8.8 billion and $11.0 billion at June 30, 2016, and December 31, 2015,
+respectively. The fair values of cash and cash equivalents are classified as Level 1 and reflect
+the cash that would have been received if the instruments were settled at June 30, 2016.
+Restricted Cash had a carrying/fair value of $0.9 billion and $1.1 billion at June 30, 2016, and
+December 31, 2015, respectively. At June 30, 2016, restricted cash is classified as Level 1 and
+includes restricted funds related to certain upstream abandonment activities and tax payments,
+which are reported in "Prepaid expenses and other current assets" and “Deferred charges and
+other assets” on the Consolidated Balance Sheet.
+Long-Term Debt had a net carrying value, excluding amounts reclassified from short-term, of
+$31.5 billion and $25.6 billion at June 30, 2016, and December 31, 2015, respectively. The fair
+value of long-term debt at June 30, 2016, and December 31, 2015 was $32.6 billion and $25.9
+billion, respectively. Long-term debt primarily includes corporate issued bonds. The fair value of
+corporate bonds classified as Level 1 is $31.7 billion. The fair value of other long-term debt is
+$0.9 billion and classified as Level 2.
+The carrying values of other short-term financial assets and liabilities on the Consolidated
+Balance Sheet approximate their fair values. Fair value remeasurements of other financial
+instruments at June 30, 2016, and December 31, 2015, were not material.
+The fair value hierarchy for assets and liabilities measured at fair value on a nonrecurring basis
+at June 30, 2016, is as follows:
+Assets and Liabilities Measured at Fair Value on a Nonrecurring Basis
+(Millions of dollars)
+At June 30, 2016
+Level
+1
+Level
+2
+Level
+3
+Before-Tax Loss
+ 
+Three Months
+Ended
+Total
+Six
+Months
+ 
+Ended
+$2,335
+$358 $ —  $13  $345  $ 2,261
+Properties, plant and equipment, net (held
+and used)
+ Properties, plant and equipment, net (held
+for sale)
+ Investments and advances
+ Total Assets at Fair Value
+Properties, plant and equipment Due to reservoir performance and lower crude oil prices, the
+company reported impairments for certain oil and gas properties during second quarter 2016
+primarily in Brazil and the United States.
+Investments and advances The company did not have any material impairments of investments
+and advances measured at fair value on a nonrecurring basis to report in second quarter 2016.
+23
+$669 $ —  $318  $351  $ 2,789
+288  —  285  3
+314
+214
+—  20
+541
+3
+218
+ $3,094
+Note 15. Financial and Derivative Instruments
+The company’s derivative instruments principally include crude oil, natural gas and refined
+product futures, swaps, options, and forward contracts. None of the company’s derivative
+instruments are designated as hedging instruments, although certain of the company’s affiliates
+make such a designation. The company’s derivatives are not material to the company’s
+consolidated financial position, results of operations or liquidity. The company believes it has no
+material market or credit risks to its operations, financial position or liquidity as a result of its
+commodities and other derivatives activities.
+The company uses derivative commodity instruments traded on the New York Mercantile
+Exchange and on electronic platforms of the Inter-Continental Exchange and Chicago Mercantile
+Exchange. In addition, the company enters into swap contracts and option contracts principally
+with major financial institutions and other oil and gas companies in the “over-the-counter”
+markets, which are governed by International Swaps and Derivatives Association agreements
+and other master netting arrangements.
+21
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+Derivative instruments measured at fair value at June 30, 2016, and December 31, 2015, and
+their classification on the Consolidated Balance Sheet and Consolidated Statement of Income
+are as follows:
+Consolidated Balance Sheet: Fair Value of Derivatives Not Designated as Hedging Instruments
+(Millions of dollars)
+Type of
+Contract
+Commodity Accounts and notes receivable, net
+Commodity Long-term receivables, net
+Total Assets at Fair Value
+Commodity Accounts payable
+Commodity Deferred credits and other noncurrent obligations 2
+Total Liabilities at Fair Value
+At December 31
+ 
+2015
+ $
+ 5
+ $
+ $
+ 2
+ $
+At June 30
+ 
+2016
+ $ 20
+ 3
+ $ 23
+ $ 72
+Balance Sheet Classification
+$ 74
+200
+205
+51
+53
+Consolidated Statement of Income: The Effect of Derivatives Not Designated as Hedging
+Instruments
+(Millions of dollars)
+Gain / (Loss)
+ 
+Three Months Ended
+June 30
+Gain / (Loss)
+ 
+Six Months ended 
+June 30
+Statement of Income Classification  2016
+Type of
+Contract
+Commodity Sales and other operating revenues $ (145
+Commodity Purchased crude oil and products  (17
+Commodity Other income
+3
+ $ (159
+2015
+2016
+2015
+)   $ (31
+)   (13
+  (4
+)   $ (48
+)  $ (171 ) $ (152 )
+)  (21
+)  2
+)
+)  $ (190 ) $ (162 )
+) 1
+ (11
+The table below represents gross and net derivative assets and liabilities subject to netting
+agreements on the Consolidated Balance Sheet at June 30, 2016, and December 31, 2015.
+23
+74
+$
+$
+$ 1,267
+$ 1,267
+$ 1,341
+$ 1,290
+Gross Amount
+Recognized
+Gross Amounts
+Not Offset
+Net Amounts
+Gross
+Amounts Offset
+Presented
+Consolidated Balance Sheet: The Effect of Netting Derivative Assets and Liabilities
+(Millions of dollars)
+ 
+At June 30,
+2016
+Derivative
+Assets
+Derivative
+Liabilities
+ 
+At December
+31, 2015
+Derivative
+Assets
+Derivative
+Liabilities
+ 
+Derivative assets and liabilities are classified on the Consolidated Balance Sheet as accounts
+and notes receivable, long-term receivables, accounts payable, and deferred credits and other
+noncurrent obligations. Amounts not offset on the Consolidated Balance Sheet represent
+positions that do not meet all the conditions for "a right of offset."
+$ 2,459
+$ 2,307
+$ 2,254
+$ 2,254
+$ 23
+$
+$
+$
+$
+$
+$
+—
+—
+—
+—
+205
+53
+Net
+Amount
+$ 74
+$ 205
+$ 53
+22
+Table of Contents
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued)
+Note 16. Restructuring and Reorganization Costs
+The following table summarizes the accrued severance liability, which is classified as current on
+the Consolidated Balance Sheet.
+ 
+ 
+Balance at January 1, 2016$
+93
+Accruals/Adjustments
+Payments
+(218
+Balance at June 30, 2016 $
+Amounts Before Tax
+(Millions of dollars)
+293
+168
+)
+Note 17. Long-Term Debt
+In May 2016, the company issued $850 million in aggregate principal amount of floating rate
+notes due 2018, $1.350 billion in aggregate principal amount of 1.561 percent notes due 2019,
+$250 million in aggregate principal amount of floating rate notes due 2021, $1.350 billion in
+aggregate principal amount of 2.100 percent notes due 2021, $750 million in aggregate principal
+amount of 2.566 percent notes due 2023, and $2.250 billion in aggregate principal amount of
+2.954 percent notes due 2026. In June 2016, $750 million of Chevron Corporation 0.889 percent
+notes were repaid at maturity.
+23
+Table of Contents
+Item 2.Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Second Quarter 2016 Compared with Second Quarter 2015
+Key Financial Results
+Earnings by Business Segment
+2015
+)
+)
+2015
+731
+ 2,225
+ 2,956
+Six Months
+ 
+Ended 
+June 30
+ 2016
+1,437
+ 784
+ 2,942
+ 1,229
+ 2,013
+ 4,379
+ (1,908 ) 3,720
+) (287
+) (582
+ $(2,195) $3,138
+Three Months
+Ended 
+June 30
+2016
+ 
+(Millions of dollars)
+ 
+ 
+  
+Upstream
+$(1,113 ) $(1,038 ) $(1,963) $(1,498)
+United States
+(1,349 ) (1,181 ) (1,958 ) 839
+International
+(2,462 ) (2,219 ) (3,921 ) (659
+Total Upstream
+ 
+Downstream
+537
+United States
+741
+International
+1,278
+Total Downstream
+(1,184 ) 737
+Total Segment Earnings
+(286
+) (166
+All Other
+Net Income (Loss) Attributable to Chevron Corporation (1) (2) $(1,470 ) $571
+_____________________
+(1) Includes foreign currency effects
+(2) Income net of tax; also referred to as “earnings” in the discussions
+that follow.
+Net income (loss) attributable to Chevron Corporation for second quarter 2016 was a loss of
+$1.47 billion ($0.78 per share — diluted), compared with earnings of $571 million ($0.30 per
+share — diluted) in the corresponding 2015 period. The net loss attributable to Chevron
+Corporation for the first six months of 2016 was $2.20 billion ($1.17 per share — diluted),
+compared with earnings of $3.14 billion ($1.67 per share — diluted) in the first six months of
+2015.
+Upstream incurred a loss of $2.46 billion in second quarter 2016 compared with a loss of $2.22
+billion a year earlier. The decrease was mainly due to lower crude oil and natural gas
+realizations, partially offset by lower exploration and operating expenses and favorable foreign
+currency effects. The loss for the first six months of 2016 was $3.92 billion compared with a loss
+of $659 million a year earlier. The decrease was due to lower crude oil and natural gas
+realizations, lower gains on asset sales, and higher tax items, partially offset by lower exploration
+and operating expenses.
+Downstream earnings in second quarter 2016 were $1.28 billion compared with $2.96 billion in
+the corresponding 2015 period. Earnings for the first six months of 2016 were $2.01 billion
+$(251 ) $(40
+) $329
+$279
+compared with $4.38 billion in the corresponding 2015 period. The decrease in both comparison
+periods was due to lower gains on asset sales and lower margins on refined product sales.
+Refer to pages 27 through 30 for additional discussion of results by business segment and “All
+Other” activities for second quarter and first six months of 2016 versus the same period in 2015.
+Business Environment and Outlook
+Chevron is a global energy company with substantial business activities in the following
+countries: Angola, Argentina, Australia, Azerbaijan, Bangladesh, Brazil, Canada, China,
+Colombia, Democratic Republic of the Congo, Denmark, Indonesia, Kazakhstan, Myanmar,
+Nigeria, the Partitioned Zone between Saudi Arabia and Kuwait, Philippines, Republic of Congo,
+Singapore, South Africa, South Korea, Thailand, Trinidad and Tobago, the United Kingdom, the
+United States, and Venezuela.
+Earnings of the company depend mostly on the profitability of its upstream business segment.
+The biggest factor affecting the results of operations for the upstream segment is the price of
+crude oil. The price of crude oil has fallen significantly since mid-year 2014, reflecting
+persistently high global crude oil inventories and production.
+24
+Table of Contents
+The downturn in the price of crude oil has impacted and, depending upon its duration, will
+continue to significantly impact the company's results of operations, cash flows, leverage, capital
+and exploratory investment program and production outlook. A sustained lower price
+environment was a factor in certain impairments in second quarter 2016, and could result in the
+impairment or write-off of specific assets in future periods. The company is responding with
+reductions in operating expenses, including employee reductions, reductions in capital and
+exploratory expenditures in 2016 and future periods, and increased asset sales. The company
+anticipates that crude oil prices will increase in the future, as continued growth in demand and a
+slowing in supply growth should bring global markets into balance; however, the timing of any
+such increase is unknown. In the company's downstream business, crude oil is the largest cost
+component of refined products.
+Refer to the "Cautionary Statement Relevant to Forward-Looking Information" on page 2 and to
+"Risk Factors" on pages 21 through 23 of the company’s 2015 Annual Report on Form 10-K for a
+discussion of some of the inherent risks that could materially impact the company's results of
+operations or financial condition.
+The company continually evaluates opportunities to dispose of assets that are not expected to
+provide sufficient long-term value or to acquire assets or operations complementary to its asset
+base to help augment the company’s financial performance and value growth. Refer to the
+"Results of Operations" section, beginning on page 27 for discussions of net gains on asset
+sales during 2016. Asset dispositions and restructurings may also occur in future periods and
+could result in significant gains or losses.
+The company closely monitors developments in the financial and credit markets, the level of
+worldwide economic activity, and the implications for the company of movements in prices for
+crude oil and natural gas. Management takes these developments into account in the conduct of
+daily operations and for business planning.
+Comments related to earnings trends for the company’s major business areas are as follows:
+Upstream Earnings for the upstream segment are closely aligned with industry prices for crude
+oil and natural gas. Crude oil and natural gas prices are subject to external factors over which the
+company has no control, including product demand connected with global economic conditions,
+industry inventory levels, technology advancements, production quotas or other actions imposed
+by the Organization of Petroleum Exporting Countries (OPEC), actions of regulators, weather-
+related damage and disruptions, competing fuel prices, and regional supply interruptions or fears
+thereof that may be caused by military conflicts, civil unrest or political uncertainty. Any of these
+factors could also inhibit the company’s production capacity in an affected region. The company
+closely monitors developments in the countries in which it operates and holds investments, and
+seeks to manage risks in operating its facilities and businesses. The longer-term trend in
+earnings for the upstream segment is also a function of other factors, including the company’s
+ability to find or acquire and efficiently produce crude oil and natural gas, changes in fiscal terms
+of contracts, and changes in tax laws and regulations.
+The company continues to actively manage its schedule of work, contracting, procurement and
+supply-chain activities to effectively manage costs. However, price levels for capital and
+exploratory costs and operating expenses associated with the production of crude oil and natural
+gas can be subject to external factors beyond the company’s control including, among other
+things, the general level of inflation, commodity prices and prices charged by the industry’s
+material and service providers, which can be affected by the volatility of the industry’s own
+supply-and-demand conditions for such materials and services. In recent years, Chevron and the
+oil and gas industry generally experienced an increase in certain costs that exceeded the
+general trend of inflation in many areas of the world. As a result of the decline in prices of crude
+oil and other commodities since mid-2014, these costs have declined. Capital and exploratory
+expenditures and operating expenses can also be affected by damage to production facilities
+caused by severe weather or civil unrest, delays in construction, or other factors.
+25
+Table of Contents
+The chart on the previous page shows the trend in benchmark prices for Brent crude oil, West
+Texas Intermediate (WTI) crude oil, and U.S. Henry Hub natural gas. The Brent price averaged
+$52 per barrel for the full-year 2015. During 2016, Brent averaged $46 per barrel in the second
+quarter, $40 per barrel for the six-month period, and ended July at about $42. The majority of the
+company’s equity crude production is priced based on the Brent benchmark. Prices continued to
+firm through May 2016 amid ongoing reduction of oil and gas capital budgets, increased supply
+disruptions, and slowly declining non-OPEC supply. However, upside price movement remained
+constrained by ongoing increases in OPEC supplies as Iran ramped up production, and
+concerns grew over continued high crude and product inventories globally (and in the U.S. in
+particular). Prices softened in June and July 2016 as wildfire-related disruptions in Canada
+waned, OPEC reaffirmed its market-share-oriented production policy, and confidence in the
+economic outlook for Europe was shaken following the unexpected vote in the United Kingdom
+to leave the European Union.
+The WTI price averaged $49 per barrel for the full-year 2015. During 2016, WTI averaged $46
+per barrel in the second quarter, $40 per barrel for the six-month period, and ended July at about
+$42. WTI values traded at around parity to Brent throughout the second quarter of 2016 as market
+sentiment was alternately influenced by reported weekly U.S. production declines, fluctuating
+crude inventory levels at Cushing, seasonal refinery maintenance cycles, and the onset of
+recovery in U.S. oil rig counts.
+A differential in crude oil prices exists between high quality (high-gravity, low-sulfur) crudes and
+those of lower quality (low-gravity, high-sulfur). The amount of the differential in any period is
+associated with the relative supply/demand balances for each crude type, which are functions of
+the capacity of refineries that are able to process each as feedstock into high-value light products
+(motor gasoline, jet fuel, aviation gasoline and diesel fuel). In the second quarter of 2016, the
+differential increased slightly in North America as gains in heavy crude values from planned and
+unplanned supply outages in Canada were offset by increasing support for light sweet crude oil
+pricing from declining U.S. production and strong demand amid high U.S. refinery runs. Outside
+of North America, differentials contracted as high refinery maintenance in Europe dampened
+demand for light sweet crude in the Atlantic Basin, while rising output from Iran and other Middle
+East producers maintained pressure on heavier, more sour crudes.
+Chevron produces or shares in the production of heavy crude oil in California, Indonesia, the
+Partitioned Zone between Saudi Arabia and Kuwait, Venezuela and in certain fields in Angola,
+China and the United Kingdom sector of the North Sea. (See page 33 for the company’s average
+U.S. and international crude oil realizations.)
+In contrast to price movements in the global market for crude oil, price changes for natural gas in
+many regional markets are more closely aligned with supply-and-demand conditions in those
+markets. Fluctuations in the price for natural gas in the United States are closely associated with
+customer demand relative to the volumes produced in North America. In the United States, prices
+at Henry Hub averaged $2.02 per thousand cubic feet (MCF) for the first six months of 2016,
+compared with $2.82 during the first six months of 2015. At the end of July 2016, the Henry Hub
+spot price was $2.95 per MCF.
+Outside the United States, price changes for natural gas depend on a wide range of supply,
+demand and regulatory circumstances. Chevron sells natural gas into the domestic pipeline
+market in most locations. In some locations, Chevron is investing in long-term projects to install
+infrastructure to produce and liquefy natural gas for transport by tanker to other markets. The
+company's long-term contract prices for liquefied natural gas (LNG) are typically linked to crude
+oil prices. Approximately 85 percent of the equity LNG offtake from the operated Australian LNG
+projects is targeted to be sold into binding long-term contracts, with the remainder to be sold in
+the Asian spot LNG market. The Asian spot market reflects the supply and demand for LNG in the
+Pacific Basin and is not directly linked to crude oil prices. International natural gas realizations
+averaged $3.92 per MCF during the first six months of 2016, compared with $4.75 per MCF in the
+same period last year. (See page 33 for the company’s average natural gas realizations for the
+U.S. and international regions.)
+The company’s worldwide net oil-equivalent production in the first six months of 2016 averaged
+2.597 million barrels per day. About one-fourth of the company’s net oil-equivalent production in
+the first six months of 2016 occurred in the OPEC-member countries of Angola, Indonesia,
+Nigeria and Venezuela. OPEC quotas had no effect on the company’s net crude oil production
+for the second quarter of 2016 or 2015.
+The company estimates that net oil-equivalent production for the full-year 2016 will be near the
+bottom of the previously-reported guidance range of flat to 4 percent growth compared to 2015.
+Estimated full-year production has been unfavorably impacted by the continued shut-in of
+production in the Partitioned Zone, start-up issues at the Gorgon Project and the effect of other
+external events. This estimate is subject to many factors and uncertainties, including the duration
+of the low price environment that began in second-half 2014; quotas or other actions that may be
+imposed by OPEC; price effects on entitlement volumes; changes in fiscal terms or restrictions on
+the scope of company operations; delays in construction, start-up or ramp-up of projects;
+26
+Table of Contents
+fluctuations in demand for natural gas in various markets; weather conditions that may shut in
+production; civil unrest; changing geopolitics; delays in completion of maintenance turnarounds;
+greater-than-expected declines in production from mature fields; or other disruptions to
+operations. The outlook for future production levels is also affected by the size and number of
+economic investment opportunities and, for new, large-scale projects, the time lag between initial
+exploration and the beginning of production. Investments in upstream projects generally begin
+well in advance of the start of the associated crude oil and natural gas production. A significant
+majority of Chevron’s upstream investment is made outside the United States.
+In the Partitioned Zone between Saudi Arabia and Kuwait, production was shut-in beginning in
+May 2015 as a result of difficulties in securing work and equipment permits. Net oil-equivalent
+production in the Partitioned Zone in 2014 was 81,000 barrels per day. During 2015, net oil-
+equivalent production averaged 28,000 barrels per day. As of mid-2016, production remained
+shut-in, and the exact timing of a production restart is uncertain and dependent on dispute
+resolution between Saudi Arabia and Kuwait. The financial effects from the loss of production in
+2015 were not significant and are not expected to be significant in 2016.
+Refer to the “Results of Operations” section on pages 28 and 29 for additional discussion of the
+company’s upstream business.
+Downstream Earnings for the downstream segment are closely tied to margins on the refining,
+manufacturing and marketing of products that include gasoline, diesel, jet fuel, lubricants, fuel oil,
+fuel and lubricant additives, and petrochemicals. Industry margins are sometimes volatile and
+can be affected by the global and regional supply-and-demand balance for refined products and
+petrochemicals, and by changes in the price of crude oil, other refinery and petrochemical
+feedstocks, and natural gas. Industry margins can also be influenced by inventory levels,
+geopolitical events, costs of materials and services, refinery or chemical plant capacity utilization,
+maintenance programs, and disruptions at refineries or chemical plants resulting from unplanned
+outages due to severe weather, fires or other operational events.
+Other factors affecting profitability for downstream operations include the reliability and efficiency
+of the company’s refining, marketing and petrochemical assets, the effectiveness of its crude oil
+and product supply functions, and the volatility of tanker-charter rates for the company’s shipping
+operations, which are driven by the industry’s demand for crude oil and product tankers. Other
+factors beyond the company’s control include the general level of inflation and energy costs to
+operate the company’s refining, marketing and petrochemical assets.
+The company’s most significant marketing areas are the West Coast of North America, the U.S.
+Gulf Coast, Asia and southern Africa. Chevron operates or has significant ownership interests in
+refineries in each of these areas.
+Refer to the “Results of Operations” section on page 29 and 30 for additional discussion of the
+company’s downstream operations.
+All Other consists of worldwide cash management and debt financing activities, corporate
+administrative functions, insurance operations, real estate activities and technology companies.
+Operating Developments
+Noteworthy operating developments in recent months included the following:
+•Angola — Restarted LNG production and cargo shipments at the Angola LNG plant.
+•
+•Australia — Restarted LNG production and cargo shipments from Train 1 at the Gorgon Project.
+•China — Achieved start-up of the third train at the Chuandongbei Project.
+Kazakhstan — Announced final investment decision on the Future Growth and Wellhead
+Pressure Management Project at the company’s 50 percent-owned affiliate, Tengizchevroil,
+which is expected to increase crude oil production at the Tengiz Field by about 260,000 barrels
+per day.
+Results of Operations
+Business Segments The following section presents the results of operations and variances on an
+after-tax basis for the company’s business segments — Upstream and Downstream — as well as
+for “All Other.” (Refer to Note 6, beginning on page 10, for a discussion of the company’s
+“reportable segments,” as defined under the accounting standards for segment reporting.)
+27
+Table of Contents
+Upstream
+Three Months Ended 
+Six Months Ended 
+ 
+June 30
+June 30
+2016
+ 2016
+(Millions of dollars)
+2015
+2015
+U.S. Upstream Earnings$ (1,113 ) $ (1,038 ) $(1,963 ) $(1,498 )
+U.S. upstream incurred a loss of $1.11 billion in second quarter 2016 compared with a loss of
+$1.04 billion from a year ago. The decrease in earnings was due to lower crude oil and natural
+gas realizations of $440 million and lower crude oil production of $50 million. Partially offsetting
+this decrease were lower depreciation expenses of $260 million, operating expenses of $80
+million and exploration expenses of $80 million. In both quarters, depreciation expense was
+impacted by a similar amount of impairments and other charges.
+U.S. upstream incurred a loss of $1.96 billion for the first six months of 2016, compared with a
+loss of $1.50 billion from a year earlier. The decrease in earnings was primarily due to lower
+crude oil and natural gas realizations of $870 million and $100 million, respectively. Partially
+offsetting this decrease were lower depreciation expenses of $320 million, operating expenses of
+$190 million and exploration expenses of $70 million.
+The average realization per barrel for U.S. crude oil and natural gas liquids in second quarter
+2016 was $36, down from $50 a year ago. The average six-month realization per barrel for U.S.
+crude oil and natural gas liquids was $31 in 2016, compared to $47 a year earlier. The average
+natural gas realization in second quarter 2016 was $1.21 per thousand cubic feet, compared with
+$1.92 in 2015. The average six-month natural gas realization was $1.27 per thousand cubic feet
+in 2016 and $2.09 in 2015.
+Net oil-equivalent production of 682,000 barrels per day in second quarter 2016 was down
+48,000 barrels per day, or 7 percent, from a year earlier. Net oil-equivalent production of 692,000
+barrels per day in the first six months of 2016 was down 22,000 barrels per day, or 3 percent from
+a year earlier. Production increases due to project ramp-ups in the Marcellus Shale in western
+Pennsylvania, the Gulf of Mexico, and the Permian Basin in Texas and New Mexico were more
+than offset by the effect of asset sales, maintenance-related downtime, and normal field declines
+in both comparative periods.
+The net liquids component of oil-equivalent production of 501,000 barrels per day in second
+quarter 2016 was down 2 percent from the corresponding 2015 period. The net liquids
+component of oil-equivalent production of 495,000 barrels per day in the 2016 six-month period
+was down 1 percent from the 2015 period. Net natural gas production was 1.09 billion cubic feet
+per day in second quarter 2016, a decrease of 17 percent from the 2015 comparative period. Net
+natural gas production was 1.18 billion cubic feet per day in the six-month period, a decrease of 8
+percent from the 2015 period.
+Three Months Ended 
+Six Months Ended 
+ 
+June 30
+June 30
+2016
+ 2016
+(Millions of dollars)
+2015
+2015
+) $ 31
+$ 376
+$ (146
+International Upstream Earnings* $ (1,349 ) $ (1,181 ) $ (1,958 ) $ 839
+___________________
+*  Includes foreign currency effects$ 329
+International upstream incurred a loss of $1.35 billion in second quarter 2016 compared with a
+loss of $1.18 billion from a year earlier. The decrease was due to lower crude oil and natural gas
+realizations of $840 million and $150 million, respectively, higher impairments and other charges
+of $260 million, and lower gains on asset sales of $70 million. Partially offsetting these effects
+were lower exploration and operating expenses of $480 million and $210 million, respectively.
+Foreign currency effects increased earnings by $329 million in the 2016 quarter, compared with a
+decrease of $146 million a year earlier.
+The loss for the first six months of 2016 was $1.96 billion, compared with earnings of $839
+million from a year earlier. The decrease in earnings was due to lower crude oil realizations of
+$2.04 billion along with lower natural gas realizations of $370 million, higher tax items of $470
+million and lower gains on asset sales of $380 million. Partially offsetting the decrease were
+lower exploration expenses of $560 million. Foreign currency effects increased earnings by $31
+million in the first six months of 2016, compared with an increase of $376 million a year earlier.
+28
+Table of Contents
+The average realization per barrel of crude oil and natural gas liquids in second quarter 2016
+was $40, compared with $56 a year earlier. The average realization per barrel of crude oil and
+natural gas liquids in the first six months of 2016 was $34, compared with $51 a year earlier. The
+average natural gas realization in second quarter 2016 was $3.93 per thousand cubic feet,
+compared with $4.48 in the 2015 period. The average natural gas realization in the first six
+months of 2016 was $3.92 per thousand cubic feet, compared with $4.75 in the 2015 period.
+International net oil-equivalent production of 1.85 million barrels per day in second quarter 2016
+was down 20,000 barrels per day, or 1 percent, from a year ago. Production increases from
+project ramp-ups in Angola, Canada, and other areas were more than offset by normal field
+declines, the Partitioned Zone shut-in and the effects of civil unrest in Nigeria.
+International net oil-equivalent production of 1.91 million barrels per day in the first six months of
+2016 was down 19,000 barrels per day, or 1 percent, from the corresponding 2015 period.
+Production increases from project ramp-ups in Angola, Canada and other areas, and production
+entitlement effects in several locations, were more than offset by the Partitioned Zone shut-in and
+normal field declines.
+The net liquids component of oil-equivalent production of 1.19 million barrels per day in second
+quarter 2016 and 1.24 million barrels per day in the first six months of 2016 each decreased 2
+percent from the corresponding 2015 periods. Net natural gas production of 3.94 billion cubic feet
+per day in second quarter 2016 and 3.99 billion cubic feet per day in the first six months of 2016
+were essentially unchanged from the corresponding 2015 periods.
+Downstream
+Three Months Ended 
+Six Months Ended 
+ 
+June 30
+June 30
+2016
+ 2016  2015
+(Millions of dollars)
+2015
+$ 731
+$ 784  $ 1,437
+U.S. Downstream Earnings$ 537
+U.S. downstream operations earned $537 million in second quarter 2016 compared with
+earnings of $731 million a year earlier. The decrease in earnings was primarily due to lower
+margins on refined product sales of $270 million and lower earnings from the 50 percent-owned
+Chevron Phillips Chemicals Company LLC of $100 million. Partially offsetting this decrease
+were lower operating expenses of $120 million and higher gains on asset sales of $60 million.
+Earnings for the first six months of 2016 were $784 million compared to $1.44 billion a year
+earlier. The decrease was due to lower margins on refined product sales of $470 million, lower
+earnings from the 50 percent-owned Chevron Phillips Chemicals Company LLC of $170 million
+and an asset impairment of $110 million. Partially offsetting this decrease are higher gains on
+asset sales of $50 million and $50 million in lower tax items.
+Refinery crude oil input in second quarter 2016 increased 4 percent to 955,000 barrels per day
+from the year-ago period. For the six-months of 2016, crude oil input was 956,000 barrels per
+day, up 4 percent from the corresponding 2015 period.
+Refined product sales of 1.26 million barrels per day were up 3 percent from second quarter
+2015, primarily due to higher jet fuel sales. Branded gasoline sales of 544,000 barrels per day
+were up 2 percent from the 2015 period. Sales of 1.24 million barrels per day in the six-month
+period were up 2 percent, primarily due to higher jet fuel sales. Branded gasoline sales of
+527,000 barrels per day for the first six-months were up 2 percent from the corresponding 2015
+period.
+2015
+2015
+Three Months Ended 
+Six Months Ended 
+ 
+June 30
+June 30
+ 2016
+2016
+ (Millions of dollars)
+(Millions of dollars)
+ $1,229  $ 2,942
+  
+)  $(74
+International Downstream Earnings*$ 741
+___________________
+*  Includes foreign currency effects $ (26
+International downstream operations earned $741 million in second quarter 2016 compared with
+$2.23 billion a year earlier. Earnings for the first six months of 2016 were $1.23 billion compared
+with $2.94 billion a year earlier. The decrease in earnings in both periods was primarily due to
+the absence of a $1.6 billion gain from the sale of the company’s interest in Caltex Australia
+Limited in second quarter 2015, partially offset by second quarter 2016 asset sales gains of $420
+million. Lower margins on refined product sales of $220 million for the
+$ 2,225
+  
+) $ (103
+) $ (49
+)
+29
+Table of Contents
+second quarter and $460 million for the first six months also contributed to the decline. Foreign
+currency effects decreased earnings by $26 million in second quarter 2016 and $74 million in the
+first six months of 2016, compared with decreases of $103 and $49 million, respectively, a year
+earlier.
+Refinery crude oil input of 764,000 barrels per day in second quarter 2016 decreased 1 percent
+from the year-ago period. For the first six months of 2016, crude input was 780,000 barrels per
+day, essentially unchanged from the year-ago period.
+Total refined product sales of 1.45 million barrels per day in second quarter 2016 were down 2
+percent from the year-ago period due to lower gasoline and gas oil sales. Sales of 1.44 million
+barrels per day in the first six months were down 6 percent from the corresponding 2015 period.
+Excluding the effects of the Caltex Australia Limited divestment, refined product sales were down
+2 percent, primarily reflecting lower fuel oil sales.
+All Other
+2015
+)  $ (287 ) $ (582 )
+  
+)  $ 3
+$ 2
+2015
+Three Months Ended 
+Six Months Ended 
+ 
+June 30
+June 30
+2016
+ 2016
+(Millions of dollars)
+)  $ (166
+$ (286
+ 
+  
+)  $ (2
+Net Charges*
+___________________
+*  Includes foreign currency effects$ (24
+All Other consists of worldwide cash management and debt financing activities, corporate
+administrative functions, insurance operations, real estate activities and technology companies.
+Net charges in second quarter 2016 were $286 million, compared with $166 million a year
+earlier. The change between periods was mainly due to higher tax items and interest expense,
+partially offset by the absence of second quarter 2015 charges related to reductions in corporate
+staffs and lower environmental expenses. Foreign currency effects increased net charges by $24
+million in second quarter 2016, compared to a $2 million increase in net charges in the 2015
+period. Net charges for the first six months of 2016 were $287 million, compared with $582
+million a year earlier. The change between periods was mainly due to lower tax items, the
+absence of second quarter 2015 charges related to reductions in corporate staffs and lower
+environmental expenses. Higher interest expenses partially offset the decrease. Foreign
+currency effects decreased net charges by $3 million for the first six months of 2016, compared to
+a $2 million decrease in net charges in the 2015 period.
+Consolidated Statement of Income
+Explanations of variations between periods for selected income statement categories are
+provided below:
+Three Months Ended 
+Six Months Ended 
+ 
+June 30
+June 30
+2016
+ 2016
+(Millions of dollars)
+2015
+Sales and other operating revenues$ 27,844  $ 36,829  $50,914  $69,144
+Sales and other operating revenues decreased $9.0 billion for the quarterly period, and $18.2
+billion for the six-month period, due to lower refined product and crude oil prices.
+2015
+Three Months Ended 
+Six Months Ended 
+ 
+June 30
+June 30
+2016
+(Millions of dollars)
+2015
+2016
+2015
+$ 1,169
+$ 1,328  $ 2,570
+Income from equity affiliates$ 752
+Income from equity affiliates in the quarterly period decreased mainly due to lower upstream-
+related earnings from Tengizchevroil in Kazakhstan, and lower downstream-related earnings
+from CPChem and GS Caltex in South Korea. Income from equity affiliates in the six-month
+period decreased mainly due to lower upstream-related earnings from Tengizchevroil in
+Kazakhstan, and Petroboscan in Venezuela, and lower downstream-related earnings from
+CPChem and GS Caltex in South Korea, and the effect of the sale of Caltex Australia Limited.
+30
+Table of Contents
+Three Months Ended 
+Six Months Ended 
+ 
+June 30
+June 30
+2016
+ 2016  2015
+(Millions of dollars)
+2015
+Other income$ 686
+Other income for the quarterly and six-month periods decreased due to lower gains on asset
+sales.
+$ 593  $ 3,201
+$ 2,359
+Three Months Ended 
+Six Months Ended 
+ 
+June 30
+June 30
+2016
+ 2016
+(Millions of dollars)
+2015
+Purchased crude oil and products$ 15,278  $ 20,541  $26,503  $37,734
+Purchases decreased $5.3 billion for the quarterly period, and $11.2 billion for the six-month
+period, primarily due to lower crude oil and refined product prices, partially offset by higher crude
+oil volumes.
+2015
+Three Months Ended 
+Six Months Ended 
+ 
+June 30
+June 30
+2016
+ 2016
+(Millions of dollars)
+2015
+2015
+$ 6,087
+Operating, selling, general and
+   administrative expenses
+Operating, selling, general and administrative expenses decreased $1.2 billion between
+quarterly periods due to lower employee, environmental reserve, construction, repair and
+maintenance, contract labor and professional services expenses.
+Expenses decreased $1.1 billion between six-month periods primarily due to lower employee,
+marine transportation, contract labor, construction, repair and maintenance, environmental
+reserve, and professional services expenses.
+$12,489  $13,586
+$ 7,247
+Three Months Ended 
+Six Months Ended 
+ 
+June 30
+June 30
+2016
+ 2016  2015
+(Millions of dollars)
+2015
+Exploration expenses$ 214
+The decrease in exploration expenses for the quarterly and six-month periods was primarily due
+$ 584  $ 1,667
+$ 1,075
+to significantly lower charges for well write-offs, and lower geological and geophysical expenses.
+Three Months Ended 
+Six Months Ended 
+ 
+June 30
+June 30
+2015
+2016
+2015
+$ 6,721
+$ 6,958
+$11,124  $11,369
+2016
+(Millions of dollars)
+Depreciation, depletion and
+       amortization
+ 
+Depreciation, depletion and amortization expenses in second quarter 2016 decreased mainly
+due to lower
+production levels and depreciation rates, partially offset by higher impairment expenses for
+certain oil and gas
+producing fields. The six-month period decreased mainly due to lower production volumes,
+partially offset by
+higher impairment expenses for certain oil and gas producing fields, and the impairment of a
+downstream asset.
+Three Months Ended 
+Six Months Ended 
+ 
+June 30
+June 30
+2016
+ 2016
+(Millions of dollars)
+ $ 3,173
+$ 5,837  $ 6,291
+Taxes other than on income$ 2,973
+Taxes other than on income decreased in the quarterly and six-month periods primarily due to
+lower product and crude oil prices, and the divestment of the Pakistan fuels business at the end
+of June 2015.
+2015
+2015
+31
+Table of Contents
+2015
+2015
+Three Months Ended 
+Six Months Ended 
+ 
+June 30
+June 30
+2016
+ 2016
+(Millions of dollars)
+)   $ 755
+$(1,611 ) $1,060
+Income tax expense (benefit)$ (607
+Effective income tax rates for the 2016 and 2015 quarters were 29 percent and 55 percent,
+respectively. For the comparative six-month periods, the effective tax rates were 43 percent and
+25 percent, for 2016 and 2015 respectively. Excluding the effects of equity earnings, the effective
+tax rates for the 2016 and 2015 quarterly periods were 24 percent and 334 percent, respectively,
+a decrease of 310 percent between periods, and the tax rates for the respective six-month
+periods were 34 percent and 50 percent, a decrease of 16 percent between periods. The
+decrease in the effective tax rate between the quarterly periods primarily resulted from the effects
+of valuation allowances recognized on deferred tax assets, the absence of the 2015 sale of the
+company's interest in Caltex Australia Limited and foreign currency remeasurement effects,
+partially offset by jurisdictional mix impacts. The decrease in the effective tax rate for the six-
+month comparative period primarily resulted from the effects of valuation allowances recognized
+on deferred tax assets and the absence of the 2015 sale of the company's interest in Caltex
+Australia Limited, partially offset by jurisdictional mix impacts.
+32
+Table of Contents
+Selected Operating Data
+The following table presents a comparison of selected operating data:
+Selected Operating Data (1)(2)
+Three Months
+Ended 
+June 30
+2016
+2015
+Six Months Ended 
+ 
+June 30
+2016
+2015
+511
+ 1,312
+ 730
+ 3,777
+ 27
+1,088
+682
+3,154
+26
+ 
+$ 35.79  $ 50.29
+$ 1.21
+ $ 1.92
+500
+ 1,285
+ 714
+ 3,957
+ 25
+495
+ 1,177
+ 692
+ 3,481
+ 25
+  
+ $31.19  $ 46.80
+ $1.27
+ $ 2.09
+1,188
+1,211
+1,240
+1,261
+U.S. Upstream
+Net crude oil and natural gas liquids production (MBPD) 501
+Net natural gas production (MMCFPD)(3)
+Net oil-equivalent production (MBOEPD)
+Sales of natural gas (MMCFPD)
+Sales of natural gas liquids (MBPD)
+Revenue from net production
+Liquids ($/Bbl)
+Natural gas ($/MCF)
+International Upstream
+Net crude oil and natural gas liquids production
+(MBPD)(4)
+Net natural gas production (MMCFPD)(3)
+Net oil-equivalent production (MBOEPD)(4)
+Sales of natural gas (MMCFPD)
+Sales of natural gas liquids (MBPD)
+Revenue from liftings
+Liquids ($/Bbl)
+Natural gas ($/MCF)
+U.S. and International Upstream
+Total net oil-equivalent production (MBOEPD)(4)
+U.S. Downstream
+Gasoline sales (MBPD)(5)
+Other refined product sales (MBPD)
+Total refined product sales (MBPD)
+Sales of natural gas liquids (MBPD)
+Refinery input (MBPD)
+International Downstream
+Gasoline sales (MBPD)(5)
+Other refined product sales (MBPD)
+Share of affiliate sales (MBPD)
+Total refined product sales (MBPD)
+Sales of natural gas liquids (MBPD)
+Refinery input (MBPD)
+3,931
+ 1,866
+ 4,130
+ 24
+3,943
+1,846
+4,503
+24
+ 
+$ 40.25  $ 55.94
+ $ 4.48
+$ 3.93
+  
+ 
+2,528
+ 2,596
+  
+ 
+ 631
+646
+617
+ 598
+ 1,229
+1,263
+ 136
+115
+955
+ 916
+  
+ 
+ 350
+345
+742
+ 761
+ 367
+362
+ 1,478
+1,449
+68
+ 60
+ 774
+764
+3,978
+ 1,924
+ 4,286
+ 25
+3,994
+ 1,905
+ 4,531
+ 24
+  
+ $34.39  $ 51.12
+ $ 4.75
+ $3.92
+  
+  
+ 2,597
+ 2,638
+  
+  
+ 617
+ 631
+ 606
+ 601
+ 1,218
+ 1,237
+ 121
+ 110
+ 956
+ 918
+  
+  
+ 355
+ 352
+ 724
+ 748
+ 426
+ 366
+ 1,529
+ 1,442
+ 66
+ 70
+ 777
+ 780
+_____________________
+(1)  Includes company share of equity affiliates.
+(2)  MBPD — thousands of barrels per day; MMCFPD — millions of cubic feet per day; Bbl —
+Barrel; MCF — thousands of cubic feet; oil-equivalent gas conversion ratio is 6,000 cubic feet of
+natural gas = 1 barrel of crude oil; MBOEPD — thousands of barrels of oil-equivalent per day.
+(3)  Includes natural gas consumed in operations (MMCFPD):
+United States
+International
+(4)  Includes net production of synthetic oil:
+Canada
+Venezuela affiliate
+(5)  Includes branded and unbranded gasoline.
+66
+ 423
+  
+ 28
+ 29
+71
+430
+ 
+43
+28
+69
+ 430
+  
+ 46
+ 28
+68
+ 438
+  
+ 39
+ 30
+33
+Table of Contents
+Liquidity and Capital Resources
+Cash, cash equivalents and marketable securities totaled $9.1 billion at June 30, 2016, down
+$2.2 billion from year-end 2015. Cash provided by operating activities in the first six months of
+2016 was $3.7 billion, compared with $9.5 billion in the year-ago period, reflecting lower crude
+prices. Cash capital and exploratory expenditures decreased $5.5 billion between periods,
+reflecting lower activity.
+Dividends The company paid dividends of $4.0 billion to common shareholders during the first
+six months of 2016. In July 2016, the company declared a quarterly dividend of $1.07 per
+common share, payable in September 2016.
+Debt and Capital Lease Obligations Chevron’s total debt and capital lease obligations were
+$45.1 billion at June 30, 2016, up from $38.5 billion at December 31, 2015.
+The company’s primary financing source for working capital needs is its commercial paper
+program. The outstanding balance for the company's commercial paper program at June 30,
+2016 was $8.6 billion. The company’s debt and capital lease obligations due within one year,
+consisting primarily of commercial paper, redeemable long-term obligations and the current
+portion of long-term debt, totaled $13.5 billion at June 30, 2016, and $12.9 billion at
+December 31, 2015. Of these amounts, $8.0 billion was reclassified to long-term at both June 30,
+2016, and December 31, 2015. At June 30, 2016, settlement of these obligations was not
+expected to require the use of working capital within one year, as the company had the intent and
+the ability, as evidenced by committed credit facilities, to refinance them on a long-term basis.
+At June 30, 2016, the company had $8.0 billion in committed credit facilities with various major
+banks that enable the refinancing of short-term obligations on a long-term basis. The credit
+facilities consist of a 364-day facility which enables borrowing of up to $6.0 billion and can be
+renewed for an additional 364-day period or the company can convert any amounts outstanding
+into a term loan for a period of up to one year, and a $2.0 billion five-year facility expiring in
+December 2020. These facilities support commercial paper borrowing and can also be used for
+general corporate purposes. The company’s practice has been to continually replace expiring
+commitments with new commitments on substantially the same terms, maintaining levels
+management believes appropriate. Any borrowings under the facilities would be unsecured
+indebtedness at interest rates based on the London Interbank Offered Rate or an average of base
+lending rates published by specified banks and on terms reflecting the company’s strong credit
+rating. No borrowings were outstanding under these facilities at June 30, 2016. In addition, the
+company has an automatic shelf registration statement that expires in August 2018 for an
+unspecified amount of nonconvertible debt securities issued or guaranteed by the company.
+The major debt rating agencies routinely evaluate the company’s debt, and the company’s cost of
+borrowing can increase or decrease depending on these debt ratings. The company has
+outstanding public bonds issued by Chevron Corporation and Texaco Capital Inc. All of these
+securities are the obligations of, or guaranteed by, Chevron Corporation and are rated AA- by
+Standard and Poor’s Corporation and Aa2 by Moody’s Investors Service. The company’s U.S.
+commercial paper is rated A-1+ by Standard and Poor’s and P-1 by Moody’s. All of these ratings
+denote high-quality, investment-grade securities.
+The company’s future debt level is dependent primarily on results of operations, the capital
+program and cash that may be generated from asset dispositions. Based on its high-quality debt
+ratings, the company believes that it has substantial borrowing capacity to meet unanticipated
+cash requirements. During extended periods of low prices for crude oil and natural gas and
+narrow margins for refined products and commodity chemicals, the company can also modify
+capital spending plans to provide flexibility to continue paying the common stock dividend and
+also remain committed to retaining the company’s high-quality debt ratings.
+Common Share Repurchase Program In July 2010, the Board of Directors approved an ongoing
+share repurchase program with no set term or monetary limits. No shares were acquired under
+the program in 2015 or through the first six months of 2016, and the company does not plan to
+acquire any shares under the program for the remainder of the year. From the inception of the
+program through 2014, the company purchased 180.9 million shares for $20.0 billion.
+Noncontrolling Interests The company had noncontrolling interests of $1.2 billion at both
+June 30, 2016, and December 31, 2015. Distributions to noncontrolling interests totaled $24
+million during the first six months of 2016 compared to $26 million for the same period in 2015.
+Current Ratio Current assets divided by current liabilities, which indicates the company’s ability
+to repay its short-term liabilities with short-term assets. The current ratio was 1.3 at June 30,
+2016, and 1.4 at December 31, 2015, respectively. The current ratio is adversely affected by the
+fact that Chevron’s inventories are valued on a last-in, first-out basis. At June 30, 2016, the book
+value of inventory was lower than replacement cost.
+34
+Table of Contents
+Debt Ratio Total debt as a percentage of total debt plus Chevron Corporation Stockholders’
+Equity, which indicates the company’s leverage. This ratio was 23.5 percent at June 30, 2016,
+and 20.2 percent at year-end 2015.
+Pension Obligations Information related to pension plan contributions is included on pages 14
+and 15 in Note 10 to the Consolidated Financial Statements.
+Capital and Exploratory Expenditures Total expenditures, including the company’s share of
+spending by affiliates, were $12.0 billion in the first six months of 2016, compared with $17.3
+billion in the corresponding 2015 period. The amounts included the company’s share of affiliates’
+expenditures of $1.7 billion and $1.5 billion in the 2016 and 2015 periods, respectively, which did
+not require cash outlays by the company. Expenditures for upstream projects in the first six
+months of 2016 were $11.0 billion, representing 92 percent of the companywide total.
+Capital and Exploratory Expenditures by Major Operating Area
+United States
+Upstream
+Downstream
+All Other
+Total United States1,589
+International
+Upstream
+Downstream
+All Other
+Total International 3,934
+Worldwide
+3,818
+116
+—
+$ 5,523
+2015
+Three Months Ended 
+Six Months Ended 
+ 
+June 30
+June 30
+2016
+ 2016
+(Millions of dollars)
+ 
+$ 1,204
+332
+53
+2015
+$ 1,876
+ 531
+ 88
+ 2,495
+  
+ 6,114
+ 114
+ 1
+ 6,229
+ $ 8,724
+$2,480  $4,194
+ 753
+ 75
+ 3,308
+  
+ 8,508
+ 175
+ 1
+ 8,684
+ $11,992  $17,307
+816
+ 151
+ 5,161
+  
+ 11,956
+ 189
+ 1
+ 12,146
+Contingencies and Significant Litigation
+MTBE Information related to methyl tertiary butyl ether (MTBE) matters is included on page 15 in
+Note 12 to the Consolidated Financial Statements under the heading “MTBE.”
+Ecuador Information related to Ecuador matters is included beginning on page 15 in Note 12 to
+the Consolidated Financial Statements under the heading “Ecuador.”
+Income Taxes Information related to income tax contingencies is included on pages 13 and 14 in
+Note 9 and page 19 in Note 13 to the Consolidated Financial Statements under the heading
+“Income Taxes.”
+Guarantees Information related to the company’s guarantees is included on page 19 in Note 13
+to the Consolidated Financial Statements under the heading “Guarantees.”
+Indemnifications Information related to indemnifications is included on page 19 in Note 13 to the
+Consolidated Financial Statements under the heading “Indemnifications.”
+Off-Balance-Sheet Obligations Information related to the company’s off-balance-sheet
+obligations is included on page 19 in Note 13 to the Consolidated Financial Statements under
+the heading “Off-Balance-Sheet Obligations.”
+Environmental Information related to environmental matters is included on page 19 in Note 13 to
+the Consolidated Financial Statements under the heading “Environmental.”
+Other Contingencies Information related to the company’s other contingencies is included on
+pages 19 and 20 in Note 13 to the Consolidated Financial Statements under the heading “Other
+Contingencies.”
+35
+Table of Contents
+Item 3.Quantitative and Qualitative Disclosures About Market Risk
+Information about market risks for the three months ended June 30, 2016, does not differ
+materially from that discussed under Item 7A of Chevron’s 2015 Annual Report on Form 10-K.
+Item 4.Controls and Procedures
+(a) Evaluation of disclosure controls and procedures
+The company’s management has evaluated, with the participation of the Chief Executive Officer
+and Chief Financial Officer, the effectiveness of the company’s disclosure controls and
+procedures (as defined in Rule 13a-15(e) and 15d-15(e) under the Securities Exchange Act of
+1934) as of the end of the period covered by this report. Based on this evaluation, the Chief
+Executive Officer and Chief Financial Officer concluded that the company’s disclosure controls
+and procedures were effective as of June 30, 2016.
+(b) Changes in internal control over financial reporting
+During the quarter ended June 30, 2016, there were no changes in the company’s internal
+control over financial reporting that have materially affected, or are reasonably likely to materially
+affect, the company’s internal control over financial reporting.
+PART II
+OTHER INFORMATION
+Item 1.Legal Proceedings
+Government Proceedings As initially disclosed in the Annual Report on Form 10-K for the year
+ended December 31, 2013, on August 6, 2012, a piping failure and fire occurred at the Chevron
+refinery in Richmond, California. Various federal, state, and local agencies initiated
+investigations as a result of the incident. Based on its civil investigation, the United States
+Environmental Protection Agency ("EPA") issued a Finding of Violations ("FOVs") to Chevron on
+December 17, 2013, which includes 62 findings of alleged noncompliance at the Richmond
+refinery. The California Division of Occupational Safety and Health ("Cal/OSHA") issued 17
+citations related to the incident. Following the Richmond fire, EPA conducted inspections under
+the Clean Air Act Risk Management Program at Chevron’s El Segundo, Pascagoula and Salt
+Lake refineries. With the participation of the United States Department of Justice, Chevron, EPA,
+and Cal/OSHA are negotiating a potential combined resolution of the FOVs and citations at all
+four refineries. Resolution of the FOVs and citations may result in the payment of a civil penalty of
+$100,000 or more.
+As initially disclosed in the Quarterly Report on Form 10-Q for the quarter ended March 31, 2016,
+in April 2016, Chevron received a proposal from the South Coast Air Quality Management District
+("SCAQMD") seeking to collectively resolve certain notices of violation ("NOVs") issued in 2012
+and 2013 to the Chevron refinery in El Segundo, California. Chevron and the SCAQMD are
+negotiating a potential combined resolution of the NOVs. The SCAQMD has now proposed a
+combined resolution of NOVs from 2014, in addition to the NOVs from 2012 and 2013. Collective
+resolution of these NOVs may result in the payment of a civil penalty of $100,000 or more.
+Other Proceedings Information related to other legal proceedings, including Ecuador, is included
+beginning on page 15 in Note 12 to the Consolidated Financial Statements.
+Item 1A.Risk Factors
+Chevron is a global energy company with a diversified business portfolio, a strong balance
+sheet, and a history of generating sufficient cash to fund capital and exploratory expenditures and
+to pay dividends. Nevertheless, some inherent risks could materially impact the company’s
+financial results of operations or financial condition.
+Information about risk factors for the three months ended June 30, 2016, does not differ materially
+from that set forth under the heading “Risk Factors” on pages 21 through 23 of the company’s
+2015 Annual Report on Form 10-K.
+36
+Table of Contents
+Item 2.Unregistered Sales of Equity Securities and Use of Proceeds
+CHEVRON CORPORATION
+ISSUER PURCHASES OF EQUITY SECURITIES
+Period
+Total Number
+Average
+Of Shares
+ 
+Price Paid
+Purchased (1)(2)
+per Share
+Total Number of
+Shares Purchased as
+ 
+Part of Publicly
+Announced Program
+April 1 – April 30, 2016 770
+May 1 – May 31, 2016 —
+June 1 – June 30, 20165
+Total
+_______________________
+775
+$ 94.28
+ 100.19
+ 101.66
+ $ 94.33
+—
+ —
+ —
+ —
+Maximum
+Number of Shares
+that May Yet Be
+ 
+Purchased Under
+the Program (2)
+(1)
+(2)
+Includes common shares repurchased from company employees and directors for required
+personal income tax withholdings on the exercise of the stock options and shares delivered or
+attested to in satisfaction of the exercise price by holders of employee and director stock
+options. The options were issued to and exercised by management under Chevron long-term
+incentive plans.
+In July 2010, the Board of Directors approved an ongoing share repurchase program with no
+set term or monetary limits, under which common shares would be acquired by the company
+through open market purchases or in negotiated transactions at prevailing prices, as permitted
+by securities laws and other legal requirements and subject to market conditions and other
+factors. As of December 31, 2014, 180,886,291 shares had been acquired under this program
+(some pursuant to Rule 10b5-1 plans and some pursuant to accelerated share repurchase
+plans) for $20.0 billion at an average price of approximately $111 per share. No shares were
+acquired under the program in 2015, or through the first six months of 2016, and the company
+does not plan to acquire any shares under the program for the remainder of the year.
+Item 4.Mine Safety Disclosures
+As of December 24, 2015, Chevron no longer owns or operates mines for which reporting
+requirements apply under Section 1503(a) of the Dodd-Frank Wall Street Reform and Consumer
+Protection Act.
+ 
+Item 6.Exhibits
+Exhibit
+Number
+Description
+Pursuant to the Instructions to Exhibits, certain instruments defining the rights of
+holders of long-term debt securities of the company and its consolidated subsidiaries
+are not filed because the total amount of securities authorized under any such
+(4)
+(10.1)
+instrument does not exceed 10 percent of the total assets of the company and its
+subsidiaries on a consolidated basis. A copy of such instrument will be furnished to
+the Commission upon request.
+Amendment Number One to the Chevron Corporation Non-Employee Directors’
+Equity Compensation and Deferral Plan
+Computation of Ratio of Earnings to Fixed Charges
+Rule 13a-14(a)/15d-14(a) Certification by the company’s Chief Executive Officer
+Rule 13a-14(a)/15d-14(a) Certification by the company’s Chief Financial Officer
+Rule 13a-14(b)/15d-14(b) Certification by the company’s Chief Executive Officer
+Rule 13a-14(b)/15d-14(b) Certification by the company’s Chief Financial Officer
+(12)
+(31.1)
+(31.2)
+(32.1)
+(32.2)
+(101.INS) XBRL Instance Document
+(101.SCH)XBRL Schema Document
+(101.CAL) XBRL Calculation Linkbase Document
+(101.DEF)XBRL Definition Linkbase Document
+(101.LAB) XBRL Label Linkbase Document
+(101.PRE)XBRL Presentation Linkbase Document
+Attached as Exhibit 101 to this report are documents formatted in XBRL (Extensible Business
+Reporting Language). The financial information contained in the XBRL-related documents is
+“unaudited” or “unreviewed.”
+37
+Table of Contents
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly
+caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+ 
+CHEVRON CORPORATION
+ 
+(REGISTRANT)
+  
+  
+ /S/    JEANETTE L. OURADA
+Jeanette L. Ourada, Vice President and Comptroller
+ 
+(Principal Accounting Officer and
+Duly Authorized Officer)
+Date: August 4, 2016
+38
+Table of Contents
+EXHIBIT INDEX
+Exhibit
+Description
+Number
+(4)
+(10.1)*
+Pursuant to the Instructions to Exhibits, certain instruments defining the rights of
+holders of long-term debt securities of the company and its consolidated subsidiaries
+are not filed because the total amount of securities authorized under any such
+instrument does not exceed 10 percent of the total assets of the company and its
+subsidiaries on a consolidated basis. A copy of such instrument will be furnished to
+the Commission upon request.
+Amendment Number One to the Chevron Corporation Non-Employee Directors’
+Equity Compensation and Deferral Plan
+Computation of Ratio of Earnings to Fixed Charges
+Rule 13a-14(a)/15d-14(a) Certification by the company’s Chief Executive Officer
+Rule 13a-14(a)/15d-14(a) Certification by the company’s Chief Financial Officer
+Rule 13a-14(b)/15d-14(b) Certification by the company’s Chief Executive Officer
+Rule 13a-14(b)/15d-14(b) Certification by the company’s Chief Financial Officer
+(12)*
+(31.1)*
+(31.2)*
+(32.1)*
+(32.2)*
+(101.INS)* XBRL Instance Document
+(101.SCH)*XBRL Schema Document
+(101.CAL)* XBRL Calculation Linkbase Document
+(101.DEF)*XBRL Definition Linkbase Document
+(101.LAB)* XBRL Label Linkbase Document
+(101.PRE)*XBRL Presentation Linkbase Document
+Attached as Exhibit 101 to this report are documents formatted in XBRL (Extensible Business
+Reporting Language). The financial information contained in the XBRL-related documents is
+“unaudited” or “unreviewed.”
+_________________________
+ 
+* Filed herewith.
+Copies of any of the above exhibits not contained herein are available to any security holder
+upon written request to the Corporate Governance Department, Chevron Corporation, 6001
+Bollinger Canyon Road, San Ramon, California 94583-2324.
+39

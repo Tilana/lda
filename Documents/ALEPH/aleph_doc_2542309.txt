@@ -1,0 +1,1121 @@
+
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ CSE3DOe/I9SOuv3xxv0Z14jj7JLXUpBio5gHDfTydTGyeG4Q12LcXzI8VOo5WrLf
+ XOG3nE0/rbKRKv13rakedw==
+<SEC-DOCUMENT>0000950129-05-011229.txt : 20060927
+<SEC-HEADER>0000950129-05-011229.hdr.sgml : 20060927
+<ACCEPTANCE-DATETIME>20051118144037
+<PRIVATE-TO-PUBLIC>
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+FILED AS OF DATE:
+0000950129-05-011229
+CORRESP
+3
+20051118
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: OIL & GAS FILED MACHINERY &
+NATIONAL OILWELL VARCO INC
+0001021860
+EQUIPMENT [3533]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+760475815
+DE
+1231
+FILING VALUES:
+FORM TYPE:
+BUSINESS ADDRESS:
+CORRESP
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+10000 RICHMOND AVENUE
+6TH FLOOR
+HOUSTON
+TX
+77042-4200
+7133467500
+MAIL ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+10000 RICHMOND AVENUE
+6TH FLOOR
+HOUSTON
+TX
+77042-4200
+FORMER COMPANY:
+FORMER CONFORMED NAME: NATIONAL OILWELL INC
+DATE OF NAME CHANGE:
+19960829
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>CORRESP
+<SEQUENCE>1
+<FILENAME>filename1.htm
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>corresp</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><IMG 
+src="h30613h3061301.gif" alt="(VINSON &#038; ELKINS LOGO)">
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>James M. Prince 
+</B>jprince@velaw.com<BR>
+<B>Tel </B>713.758.3710 <B>Fax </B>713.615.5962
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">November&nbsp;18, 
+2005
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B><I>VIA EDGAR, 
+FEDERAL EXPRESS AND TELECOPY</I></B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">United States 
+Securities and Exchange Commission<BR>
+Division of Corporation Finance<BR>
+450 Fifth Street, N.W., Mail Stop 7010<BR>
+Washington, D.C. 20549
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="2%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="93%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Attention:
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Ryan Milne</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-
+0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="right" valign="top"><DIV style="margin-left:0px; text-indent:-
+0px"><B>Re:</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><B>National-Oilwell, Inc.</B></TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><B>Form&nbsp;10-K for the Fiscal Year Ended 
+December&nbsp;31, 2004</B></TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><B>Filed March&nbsp;8, 2005</B></TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><B>File No.&nbsp;001-12317</B></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">Ladies and 
+Gentlemen:
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On behalf of National Oilwell Varco, Inc. 
+(the &#147;<I>Company</I>&#148;), this letter sets forth the
+Company&#146;s responses to the comments of the staff (the 
+&#147;<I>Staff</I>&#148;) of the Securities and Exchange
+Commission (the &#147;<I>Commission</I>&#148;) in its comment letter dated 
+November&nbsp;3, 2005 (the &#147;<I>Comment Letter</I>&#148;)
+with respect to the Company&#146;s Annual Report on Form 10-K for the year ended
+December&nbsp;31, 2004 (the
+&#147;<I>2004 Form&nbsp;10-K</I>&#148;).
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the reasons discussed below, the Company 
+intends to amend its 2004 Form 10-K to address
+the matters raised by comments 4 and 8. With respect to the other comments, for 
+the reasons stated
+in this response letter, the Company believes that any revised or supplemental 
+disclosure would not
+be material to the Company&#146;s overall historical disclosure. Accordingly, as
+indicated in this
+letter, the Company respectfully requests that the Staff permit the Company to 
+address any of these
+revised or supplemental disclosures in its Annual Report on Form 10-K for the 
+year ended December
+31, 2005 (the &#147;<I>2005 Form&nbsp;10-K</I>&#148;), rather than amending or 
+supplementing the disclosure in the 2004
+Form 10-K.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For your convenience, we have repeated in 
+italics each comment of the Staff exactly as given
+in the Comment Letter and set forth below each such comment is the 
+Company&#146;s response.
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 8pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="48%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="48%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>Vinson 
+&#038; Elkins LLP Attorneys at Law</B> Austin Beijing Dallas Dubai
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">First City Tower, 1001 Fannin Street, 
+Suite&nbsp;2300, Houston, TX 77002-6760</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Houston 
+London Moscow New York Shanghai Tokyo Washington
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><B>Tel </B>713.758.2222 <B>Fax 
+</B>713.758.2346 <B>www.velaw.com</B></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="28%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="70%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><IMG 
+src="h30613h3061302.gif" alt="(V &#038; E LOGO)">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="top">United States Securities and Exchange 
+Commission &nbsp;&nbsp;&nbsp;&nbsp; November&nbsp;18, 2005 Page 2</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><U><I>Form&nbsp;10-K
+for the Fiscal Year Ended December&nbsp;31, 2004</I></U>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+12pt"><U><I>General</I></U>
+</DIV>
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size:
+10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="3%" nowrap align="left"><I>1.</I></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>Please provide us with your analysis of the significance of your 
+investment in your Lanzhou,
+China joint venture to support your exclusion of its financial statements. Refer
+to Rule&nbsp;3-09
+of Regulation&nbsp;S-X for further guidance.</I></TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="3%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><U><B>Response</B></U><B>: </B>In response to the Staff&#146;s comment, 
+attached hereto as <U>Exhibit&nbsp;A</U>
+is the Company&#146;s analysis of the significance of its investment in its 
+Lanzhou, China joint
+venture, which the Company believes supports the Company&#146;s conclusion that 
+separate
+financial statements of the joint venture are not required under Rule&nbsp;3-09 
+of Regulation
+S-X.</TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+12pt"><U><I>Management&#146;s Discussion and Analysis of Financial Condition and
+Results of Operations, page 14</I></U>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><U><I>Results of 
+Operations, page 15</I></U>
+</DIV>
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size:
+10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="3%" nowrap align="left"><I>2.</I></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>We note your disclosure on page 10 that approximately 44% of your
+revenues were derived from
+operations outside the United States. To the extent material, please enhance 
+your discussion
+and analysis to address the impact of foreign currency exchange on your 
+financial results.</I></TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="3%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><U><B>Response</B></U><B>: </B>Overall, the weakening of the U.S. dollar
+and resultant foreign currency
+exchange impact reduced the Company&#146;s 2004 operating income by only 
+approximately $4.9
+million, or less than 3%, which the Company concluded was not material to either
+its
+consolidated or segment operating results. The Company will continue to monitor 
+the
+impact of foreign currency exchange on its financial results, including present 
+and future
+trends. To the extent the impact becomes material, the Company will provide such
+enhanced
+disclosure in its future filings.</TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><U><I>Year 2003 
+versus 2002, page 16</I></U>
+</DIV>
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size:
+10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="3%" nowrap align="left">3.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>Please clarify your description of flow-through percentage to explain
+what incremental
+revenues are. Additionally, tell us how you considered </I><I>Item 10(e)</I><I> 
+of Regulation&nbsp;S-K in
+determining whether flow-through percentage is a non-GAAP financial 
+measure.</I></TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="3%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><U><B>Response</B></U><B>: </B>Company management uses flow-through 
+percentage as a measure of
+operating leverage. The percentage, or ratio, is derived directly from the 
+Company&#146;s
+financial statements. Incremental means the actual period to period changes in 
+revenues
+and operating income. A flow-through percentage represents the percentage 
+change, which is
+calculated by dividing the incremental change in operating income</TD>
+</TR>
+</TABLE>
+</DIV>
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="28%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="70%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><IMG 
+src="h30613h3061302.gif" alt="(V &#038; E LOGO)">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="top">United States Securities and Exchange 
+Commission &nbsp;&nbsp;&nbsp;&nbsp; November&nbsp;18, 2005 Page 3</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size:
+10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="3%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>over the incremental change in revenues. The Company has considered Item
+10(e) of
+Regulation&nbsp;S-K, specifically 10(e)(2)(ii), and has concluded that a flow-
+through percentage
+is not a non-GAAP measure because it is a ratio derived from amounts determined 
+in
+accordance with GAAP. The Company will endeavor in future filings to clarify the
+description of this ratio.</TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><U><I>Disclosure 
+Controls and Procedures, page 25</I></U>
+</DIV>
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size:
+10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="3%" nowrap align="left"><I>4.</I></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>Please disclose whether your disclosure controls and procedures were 
+effective as of the end
+of the period. Refer to Item&nbsp;307 of Regulation&nbsp;S-K for further 
+guidance.</I></TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="3%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><U><B>Response</B></U><B>: </B>Upon completion of the due diligence 
+review of the Company&#146;s chief
+financial officer as discussed in greater detail below in comment 8, the Company
+intends to
+disclose in an amendment to the 2004 Form 10-K whether its controls and 
+procedures were
+effective as of the end of the period covered by the 2004 Form 10-K. The Company
+will
+ensure that its revised disclosure complies with Item&nbsp;307 of 
+Regulation&nbsp;S-K.</TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><U><I>Notes to 
+Consolidated Financial Statements, page 38</I></U>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><U><I>Note 1. 
+Summary of Significant Accounting Policies, page 38</I></U>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><U><I>Derivative 
+Financial Instruments, page 38</I></U>
+</DIV>
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size:
+10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="3%" nowrap align="left"><I>5.</I></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>We note on page 20 that you have entered into interest rate swap 
+agreements to fix the
+interest rate for certain borrowings based on a spread over EURIBOR. We further 
+note on page
+45 that you do not have any borrowings outstanding against your credit 
+facilities. Please
+tell us how your interest rate swap agreements qualify for hedge accounting. 
+Additionally, if
+you are able to support for us that your interest rate swap agreements are 
+effective, then
+please tell us why you have accounted for this derivative instrument as a cash 
+flow hedge
+instead of a fair value hedge. Cite specific accounting literature in your 
+response.</I></TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="3%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><U><B>Response</B></U><B>: </B>The Company had no interest rate swap 
+agreements as of December&nbsp;31,
+2004. To the extent appropriate, the Company will ensure its future disclosures 
+do not
+imply that it has entered into an interest rate swap agreement.</TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="3%" nowrap align="left"><I>6.</I></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>Please enhance your disclosure regarding your derivative instruments 
+by including, to the
+extent applicable and material, the disclosures set forth by paragraphs 44 and 
+45 of SFAS 133.</I></TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="3%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><U><B>Response</B></U><B>: </B>The Company has reviewed its disclosures 
+regarding derivative
+instruments and believes those disclosures include the required qualitative 
+disclosures set
+forth in paragraph 44 of SFAS 133, including the Company&#146;s objectives 
+for</TD>
+</TR>
+</TABLE>
+</DIV>
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0"
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="28%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="70%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><IMG 
+src="h30613h3061302.gif" alt="(V &#038; E LOGO)">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="top">United States Securities and Exchange 
+Commission &nbsp;&nbsp;&nbsp;&nbsp; November&nbsp;18, 2005 Page 4</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size:
+10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="3%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>holding the instruments, the strategies for achieving those objectives 
+and a description of
+the transactions for which risks are hedged. The Company has not included the 
+quantitative
+disclosures set forth in paragraph 45 of SFAS 133 as such amounts were not 
+material as of
+and for the period ended December&nbsp;31, 2004. The Company will include the 
+required
+quantitative disclosures in future filings to the extent such amounts become 
+material.</TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><U><I>Revenue 
+Recognition, page 41</I></U>
+</DIV>
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size:
+10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="3%" nowrap align="left"><I>7.</I></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>We note that you derive revenue from (1)&nbsp;equipment rentals and 
+(2)&nbsp;outsourcing and alliance
+arrangements to provide procurement, inventory management and logistics support 
+services.
+Please enhance your revenue recognition policy footnote to address when and how 
+you recognize
+revenue related to these two revenue streams.</I></TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="3%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><U><B>Response</B></U><B>: </B>The Company&#146;s revenue from equipment
+rentals and outsourcing/alliance
+arrangements is recognized on purchase orders or contracts when product delivery
+has
+occurred or services have been rendered, pricing is fixed and determinable, and 
+collection
+is reasonably assured. The Company recognized revenue of $99&nbsp;million and 
+$8&nbsp;million in
+2004 related to equipment rentals and outsourcing/alliance arrangements, 
+respectively. The
+Company did not specifically disclose its policy related to these revenue 
+streams as it
+concluded such amounts were not material. To the extent the revenue streams 
+become
+material, the Company will provide enhanced disclosure in its future 
+filings.</TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+12pt"><U><I>Certifications, Exhibit&nbsp;31.1 and 31.2</I></U>
+</DIV>
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size:
+10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="3%" nowrap align="left"><I>8.</I></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>Please conform your Rule&nbsp;13a-</I><I>14(a)</I><I>/15d-
+</I><I>14(a)</I><I> certifications to that found in Item&nbsp;</I><I>601(b)
+(31)</I><I>
+of Regulation&nbsp;S-K.</I></TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="3%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><U><B>Response</B></U><B>: </B>Upon completion of the due diligence 
+review of the Company&#146;s chief
+financial officer as discussed in greater detail below, the Company intends to 
+file revised
+Rule&nbsp;13a-14(a)/15d-14(a) certifications as exhibits to an amendment to the 
+2004 Form 10-K.</TD>
+</TR>
+<TR>
+<TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="3%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>In connection with the proposed filing of an amendment to the 2004 Form 
+10-K, we note that
+the 2004 Form 10-K was filed prior to the consummation of the merger of 
+National-Oilwell,
+Inc. and Varco International, Inc. The Company&#146;s current chief financial 
+officer, the
+former chief financial officer of Varco, was appointed to his current office 
+upon
+consummation of the merger and was not involved in the preparation of the 2004 
+Form 10-K.
+In addition, the Company has a new corporate controller and chief accounting 
+officer, who was formerly Varco&#146;s controller
+and was also not involved in the preparation of the 2004 Form 10-K. Accordingly,
+in order to file the proposed amendment, including the revised Item&nbsp;9A
+disclosure and the required Rule&nbsp;13a-14(a)/15d-14(a) certifications, the 
+Company&#146;s chief
+financial officer is currently engaged in an extensive due diligence review of 
+the
+Company&#146;s disclosure</TD>
+</TR>
+</TABLE>
+</DIV>
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="28%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="70%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><IMG 
+src="h30613h3061302.gif" alt="(V &#038; E LOGO)">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="top">United States Securities and
+Exchange Commission&nbsp;&nbsp;&nbsp;&nbsp;November&nbsp;18, 2005 Page 5</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size:
+10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="3%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>procedures and controls as they existed for the period covered by the 
+2004 Form 10-K. That
+review also requires discussions with various employees and directors who were 
+involved in
+the preparation and review of the 2004 Form 10-K. Assuming the successful 
+completion of
+his review, the Company intends to file an amendment to the 2004 Form 10-K as 
+described
+above.</TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In connection 
+with responding to the Staff&#146;s comments, we acknowledge that (i)&nbsp;the 
+Company is
+responsible for the adequacy and accuracy of the disclosure in the filing, and 
+(ii)&nbsp;the Staff
+comments or changes to disclosure in response to Staff comments do not foreclose
+the Commission
+from taking any action with respect to the filing. We also acknowledge the 
+Staff&#146;s position that
+the Company may not assert Staff comments as a defense in any proceeding 
+initiated by the
+Commission or any person under the federal securities laws of the United States.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you have any
+questions or comments concerning these responses, please call the undersigned
+at (713)&nbsp;758-3710 or, in his absence, Gillian Hobson at (713)&nbsp;758-
+3747.
+</DIV>
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size:
+10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">Sincerely,<BR>
+<BR>
+<BR>
+VINSON &#038; ELKINS L.L.P.<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left">/s/ 
+JAMES M. PRINCE
+&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">James M. Prince&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="3%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="94%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">cc:
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Clay C. Williams</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Dwight W. Rettig</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Raymond Chang</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="28%">&nbsp;</TD>
+<TD width="2%">&nbsp;</TD>
+    <TD width="70%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><IMG 
+src="h30613h3061302.gif" alt="(V &#038; E LOGO)">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="top">United States Securities and
+Exchange Commission&nbsp;&nbsp;&nbsp;&nbsp;November&nbsp;18, 2005 Page 6</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><U><B>EXHIBIT 
+A</B></U>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Significant 
+Subsidiary Test of Joint Venture in Lanzhou, China</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt">All amounts are as of 
+December&nbsp;31, 2004 or for the year ended December&nbsp;31, 2004<BR>
+(in thousands)</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="88%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-
+15px">(1)&nbsp;Investment:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:45px; text-indent:-15px">Investment in 
+Lanzhou</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">15,133</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:45px; text-indent:-15px">Receivable from
+Lanzhou</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,843</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:60px; text-indent:-15px">Investment in 
+Lanzhou</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">16,976</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:45px; text-indent:-15px">Consolidated 
+assets</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">2,598,700</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">0.7</TD>
+    <TD nowrap>%</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">(2)&nbsp;Total 
+assets:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:45px; text-indent:-15px">Total assets of 
+Lanzhou</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">60,696</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:45px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:45px; text-indent:-15px">Consolidated 
+assets</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">2,598,700</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">2.3</TD>
+    <TD nowrap>%</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-
+15px">(3)&nbsp;Income:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:45px; text-indent:-15px">Income before taxes and
+minority interest &#151; Lanzhou</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">5,645</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:45px; text-indent:-15px">Minority interest in 
+Lanzhou</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(2,064</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:60px; text-indent:-15px">Equity in 
+Lanzhou&#146;s income</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">3,581</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:45px; text-indent:-15px">Consolidated income 
+before taxes and minority interest</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">131,457</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">2.7</TD>
+    <TD nowrap>%</TD>
+</TR>
+<TR style="font-size: 1px">
+<TD><DIV style="margin-left:30px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>filename2.gif
+<TEXT>
+begin 644 filename2.gif
+M1TE&.#EA?0`/`,0``-#0T/#P\"`@(#`P,.#@X&!@8'!P<%!04+"PL)"0D*"@
+MH!`0$,#`P$!`0("`@````/___P``````````````````````````````````
+M`````````````````````````"'Y!```````+`````!]``\```7_H-&,C0&=
+M`-DH9^N^<"S/K;(\"P$K:M\<@\?CU+@Y:$@:P"!$`%R,PL-A>":OV)?B0%!,
+M801&L.$H.PX/!>-VBGYCC$0V%KBQ7@?RHS'O(P,/#"=O,`Z$@SH-0R>&1S%"
+M=WXG4@,O!&D("R:2G%!I$``/5H6'$'RFBQ"-,@,YG:!"HZH++;($`1`,##HN
+M8;N6NKBU;;\OH05KD:2.,(HMJS*W+D^^8,$N09LG`@9;"WP$!D$(04(%)P$-
+M`@U!Y[D"ZS<&40(/!.4/VBT+_`C3Q:H("2.2"EJ`(`/"!1'D;<4-'%;2K:O'
+MS`NM-O8`2.$30$&]!0X8&/I40(`P`P=R_SUP=W"/EP<"0HZ4Q:!>2D8W/AY0
+M(.5(@#,NG#'Z<E"`H([U!&G$,0"!&)@G#@AH48!9G4\0"MQDL*>%(CDGF)A8
+M,!4%BWH#+P5:2)50@@4V'H#-\PF`@WI"A"R0)32@`P#K!J(2I-(DNALZ'E0R
+MZX()QP?^5)X:W((KGR`Q&>`*M;A%$`=]_8;]A*!)BY@N#"'3_**OH2+N@@;"
+M.)ERO0$A!4-0VZ6L9*^S:8-Z*&1>U\930J\"=#'@WFW,1,=PG?>Y;,*6KT.(
+MFU<?*@>X*Q^G+/P$`G'FA+QHI/P+5]]9(:X1#*U%@"?4T5LGB'T\^8XEJ>>"
+M10\,E!U_XO&AC])JL;B`!@/M'1%*<)/@L$!DSY2"P#G4.1"`%/LITE]M(IJ"
+M'`PWQ/8;@L(UP,MVHBAR$P1U7):*=!\1=D(YT4'`1(\&'%%/AHZ`:$6)*R)8
+M8(8P2('A&3C(=,-.&,6DF!H.:++;E+H,T-1(!=QA2'@`/$2&`0)H(H0``^R2
+M)4P][`&F`N`I5J00![R9YQ91\B*C%P-@B=4TT9E1ADAFW$&`H7DT@(Q]H/W`
+K`J)EW$$I.@FH(RDN")2APZ*&AAHJG8:VD`"6AI+JZ0FD*I#I"/-`$`(`.S\_
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>filename3.gif
+<TEXT>
+begin 644 filename3.gif
+M1TE&.#EA)P`/`,0``*"@H+"PL"`@('!P<)"0D%!04.#@X-#0T&!@8,#`P/#P
+M\#`P,("`@$!`0!`0$````/___P``````````````````````````````````
+M`````````````````````````"'Y!```````+``````G``\```7\X/*,RP"=
+MT""0A]*0*.J,=/T($#(J,?HT$,4B`"D\$KW3"I%0)!*!!M`P(B03#R+A<<(B
+MDR]&CR&&O!9)!*[(30EXX$<9]3P!1H>80G[2'1@.>4EF?(,G,P@Q6W!W#@N"
+M@V&&)PP/#G`0"XDG6T<H@#0-`R)E!$`]5`\`)P>>"@6:ECP)"S,&!@!&-R^>
+M24:G:D&U/"(+<*U?A`UD!H8!(\T.JY4F$`:(/LF2DTH/`P"7A$2LV."8V]R5
+M#@V;+YOD#P4.XR?H**LQJ0^"G?CP`LU0V#ODZP&:$T)&,#$00,<,!P,0Y"'5
+7XUF2.U90*!@P@P:"6R+F#>!E@T8(`#L_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

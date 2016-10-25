@@ -1,0 +1,325 @@
+
+<SEC-DOCUMENT>0001211524-13-000221.txt : 20130815
+<SEC-HEADER>0001211524-13-000221.hdr.sgml : 20130815
+<ACCEPTANCE-DATETIME>20130814204624
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+EFFECTIVENESS DATE:
+NT 10-Q
+1
+20130630
+0001211524-13-000221
+20130814
+20130815
+20130815
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: CRUDE PETROLEUM & NATURAL GAS
+ALLIED RESOURCES INC
+0001211524
+[1311]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+550608764
+NV
+1231
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 000-31390
+FILM NUMBER:
+NT 10-Q
+1934 Act
+131040200
+BUSINESS ADDRESS:
+STREET 1:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+1403 E 900S
+SALT LAKE CITY
+UT
+84105
+8015829609
+MAIL ADDRESS:
+STREET 1:
+CITY:
+STATE:
+ZIP:
+1403 E 900 S
+SALT LAKE CITY
+UT
+84105
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>NT 10-Q
+<SEQUENCE>1
+<FILENAME>f12b25june2013.htm
+<DESCRIPTION>ALLIED EXT 10Q JUNE 2013
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Converted by EDGARwiz</TITLE>
+</HEAD>
+<BODY style="margin-top:0;font-family:Times New Roman; font-size:10pt; 
+color:#000000">
+<DIV style="width:651.933px"><P style="margin-top:162.6px; margin-bottom:0px; 
+text-indent:243.533px; font-family:TimesNewRoman,Times New Roman; font-
+size:11.65pt"><B>UNITED STATES</B></P>
+<P style="margin-top:2.333px; margin-bottom:0px; text-indent:136px; font-
+family:TimesNewRoman,Times New Roman; font-size:11.65pt"><B>SECURITIES AND 
+EXCHANGE COMMISSION</B></P>
+<P style="margin-top:2.333px; margin-bottom:0px; text-indent:211.667px; font-
+family:TimesNewRoman,Times New Roman; font-size:11.65pt"><B>WASHINGTON, DC 
+20549</B></P>
+<P style="margin-top:16.467px; margin-bottom:0px; text-indent:231.2px; font-
+family:TimesNewRoman,Times New Roman; font-size:17.5pt"><B>FORM 12b-25</B></P>
+<P style="margin-top:13.333px; margin-bottom:0px; text-indent:179.2px; font-
+family:TimesNewRoman,Times New Roman; font-size:11.65pt"><B>NOTIFICATION OF LATE
+FILING</B></P>
+<P style="margin-top:17.867px; margin-bottom:0px; text-indent:217.733px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt">SEC File Number: 000-
+31390</P>
+<P style=margin-top:15.733px;margin-bottom:-1pt;font-size:1pt /><P 
+style="margin-top:0px; margin-bottom:-2px; width:140.133px; font-
+family:TimesNewRoman,Times New Roman; font-size:11.65pt; float:left"><I>(Check 
+One):</I></P>
+<P style="margin:0px; text-indent:-2px; font-family:Wingdings; font-
+size:10.7pt">&#168;<FONT style="font-family:TimesNewRoman,Times New Roman"> 
+&nbsp;Form 10-K</FONT><FONT style="font-size:7.25pt"> </FONT>&#168;<FONT 
+style="font-family:TimesNewRoman,Times New Roman"> &nbsp;Form 20-F</FONT><FONT 
+style="font-size:8.05pt"> </FONT>&#168;<FONT style="font-
+family:TimesNewRoman,Times New Roman"> &nbsp;Form 11-K</FONT><FONT style="font-
+size:8.1pt"> </FONT>&#254;<FONT style="font-family:TimesNewRoman,Times New 
+Roman"> &nbsp;Form 10-Q</FONT></P>
+<P style="margin-top:2.067px; margin-bottom:0px; text-indent:140.133px; font-
+family:Wingdings; font-size:10.7pt; clear:left">&#168;<FONT style="font-
+family:TimesNewRoman,Times New Roman"> &nbsp;Form 10-D</FONT> &#168;<FONT 
+style="font-family:TimesNewRoman,Times New Roman"> &nbsp;Form N-SAR</FONT> 
+&#168;<FONT style="font-family:TimesNewRoman,Times New Roman"> &nbsp;Form N-
+CSR</FONT></P>
+<P style="margin-top:19.867px; margin-bottom:0px; text-indent:140.133px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt">For Period Ended: June 
+30, 2013</P>
+<P style="margin-top:18.4px; margin-bottom:0px; text-indent:140.133px; font-
+family:Wingdings; font-size:10.7pt">&#168;<FONT style="font-
+family:TimesNewRoman,Times New Roman"> &nbsp;Transition Report on Form 10-
+K</FONT></P>
+<P style="margin-top:2.133px; margin-bottom:0px; text-indent:140.133px; font-
+family:Wingdings; font-size:10.7pt">&#168;<FONT style="font-
+family:TimesNewRoman,Times New Roman"> &nbsp;Transition Report on Form 20-
+F</FONT></P>
+<P style="margin-top:2px; margin-bottom:0px; text-indent:140.133px; font-
+family:Wingdings; font-size:10.7pt">&#168;<FONT style="font-
+family:TimesNewRoman,Times New Roman"> &nbsp;Transition Report on Form 11-
+K</FONT></P>
+<P style="margin-top:2.133px; margin-bottom:0px; text-indent:140.133px; font-
+family:Wingdings; font-size:10.7pt">&#168;<FONT style="font-
+family:TimesNewRoman,Times New Roman"> &nbsp;Transition Report on Form 10-
+Q</FONT></P>
+<P style="margin-top:2.133px; margin-bottom:0px; text-indent:140.133px; font-
+family:Wingdings; font-size:10.7pt">&#168;<FONT style="font-
+family:TimesNewRoman,Times New Roman"> &nbsp;Transition Report on Form N-
+SAR</FONT></P>
+<P style="margin-top:19.867px; margin-bottom:0px; text-indent:143.867px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt">For the Transition 
+Period Ended:</P>
+<P style="line-height:0pt; margin-left:335.4px; margin-top:-2.267px; margin-
+bottom:-1px; width:131.8px; font-size:0pt; border-top:1px solid #000000" />
+<P style="margin-top:37.467px; margin-bottom:0px; text-indent:55.667px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt"><B>Nothing in this form 
+shall be construed to imply that the Commission has verified</B></P>
+<P style="margin-top:2.333px; margin-bottom:0px; text-indent:201.6px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt"><B>any information 
+contained herein.</B></P>
+<P style="margin-top:17.933px; margin-bottom:0px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt">If the notification 
+relates to a portion of the filing checked above, identify the item(s) to which 
+the</P>
+<P style="margin-top:2px; margin-bottom:0px; font-family:TimesNewRoman,Times New
+Roman; font-size:10.7pt">notification relates:</P>
+<P style="margin-top:19.067px; margin-bottom:0px; text-indent:170.4px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt"><B>PART I &#150; 
+REGISTRANT INFORMATION</B></P>
+<P style=margin-top:16.2px;margin-bottom:-1pt;font-size:1pt /><P style="margin-
+top:0px; margin-bottom:-2px; width:280.133px; font-family:TimesNewRoman,Times 
+New Roman; font-size:10.7pt; float:left">Full Name of Registrant:</P>
+<P style="margin:0px; text-indent:-2px; font-family:TimesNewRoman,Times New 
+Roman; font-size:10.7pt">Allied Resources, Inc.</P>
+<P style=margin-top:18.4px;margin-bottom:-1pt;font-size:1pt /><P style="margin-
+top:0px; margin-bottom:-2px; width:280.133px; font-family:TimesNewRoman,Times 
+New Roman; font-size:10.7pt; clear:left; float:left">Former Name if 
+Applicable:</P>
+<P style="margin:0px; text-indent:-2px; font-family:TimesNewRoman,Times New 
+Roman; font-size:10.7pt">N/A.</P>
+<P style=margin-top:18.4px;margin-bottom:-1pt;font-size:1pt /><P style="margin-
+top:0px; margin-bottom:-2px; width:280.133px; font-family:TimesNewRoman,Times 
+New Roman; font-size:10.7pt; clear:left; float:left">Address of Principal 
+Executive Office:</P>
+<P style="margin:0px; text-indent:-2px; font-family:TimesNewRoman,Times New 
+Roman; font-size:10.7pt">1403 East 900 South, Salt Lake City, Utah 84105</P>
+<P style="margin-top:35.467px; margin-bottom:0px; text-indent:189.933px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt; clear:left"><B>PART II 
+&#150; RULE 12b-25 (b) AND (c)</B></P>
+<P style="margin-top:17.8px; margin-bottom:0px; font-family:TimesNewRoman,Times 
+New Roman; font-size:10.7pt">If the subject report could not be filed without 
+unreasonable effort or expense and the registrant seeks</P>
+<P style="margin-top:2.133px; margin-bottom:0px; font-family:TimesNewRoman,Times
+New Roman; font-size:10.7pt">relief pursuant to Rule 12b-25(b) the following 
+should be completed. (Check box if appropriate)</P>
+<P style="margin-top:18.6px; margin-bottom:0px; font-family:Wingdings; font-
+size:10.7pt">&#254;<FONT style="font-family:TimesNewRoman,Times New Roman"> 
+&nbsp;&nbsp;&nbsp;&nbsp;(a) &nbsp;&nbsp;&nbsp;The reasons described in 
+reasonable detail in Part III of this form could not be eliminated</FONT></P>
+<P style="margin-top:2px; margin-bottom:0px; text-indent:60.8px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt">without unreasonable 
+effort or expense;</P>
+<P style="margin-top:2px; margin-bottom:0px"><BR>
+<BR></P>
+<P style="line-height:0pt; margin-top:-2.267px; margin-bottom:-1px; border-
+top:1px solid #000000" />
+<P style="margin-top:143.8px; margin-bottom:0px; font-family:Wingdings; font-
+size:10.7pt; page-break-before:always">&#254;<FONT style="font-
+family:TimesNewRoman,Times New Roman"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b) 
+&nbsp;&nbsp;The subject annual report, semi-annual report, transition report on 
+Form 10-K, Form 2-F, 11-F,</FONT></P>
+<P style="margin-top:2px; margin-bottom:0px; text-indent:60.8px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt">or From N-SAR, or 
+portion thereof will be filed on or before the fifteenth calendar day</P>
+<P style="margin-top:2.133px; margin-bottom:0px; text-indent:60.8px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt">following the prescribed
+due date; or the subject quarterly report or transition report on Form</P>
+<P style="margin-top:2px; margin-bottom:0px; text-indent:60.8px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt">10-Q, or portion thereof
+will be filed on or before the fifth calendar day following the</P>
+<P style="margin-top:2.333px; margin-bottom:0px; text-indent:60.8px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt">prescribed due date; 
+and</P>
+<P style="margin-top:18.267px; margin-bottom:0px; font-family:Wingdings; font-
+size:10.7pt">&#168;<FONT style="font-family:TimesNewRoman,Times New Roman"> 
+&nbsp;&nbsp;&nbsp;&nbsp;(c) &nbsp;&nbsp;&nbsp;The accountant's statement or 
+other exhibit required by Rule 12b-25(c) has been attached if</FONT></P>
+<P style="margin-top:2.133px; margin-bottom:0px; text-indent:60.8px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt">applicable.</P>
+<P style="margin-top:2.467px; margin-bottom:0px; text-indent:223.867px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt"><B>PART III &#150; 
+NARRATIVE</B></P>
+<P style="margin-top:18.067px; margin-bottom:0px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt">State below in 
+reasonable detail why Forms 10-K, 20-F, 11-K, 10-Q, 10-D, N-SAR, N-CSR or 
+the</P>
+<P style="margin-top:2px; margin-bottom:0px; font-family:TimesNewRoman,Times New
+Roman; font-size:10.7pt">transition report or portion thereof, could not be 
+filed within the prescribed time period.</P>
+<P style="margin-top:18.4px; margin-bottom:0px; font-family:TimesNewRoman,Times 
+New Roman; font-size:10.7pt">Allied Resources, Inc. (the &#147;Company&#148;) 
+cannot complete its Form 10-Q within the prescribed time period</P>
+<P style="margin-top:2.133px; margin-bottom:0px; font-family:TimesNewRoman,Times
+New Roman; font-size:10.7pt">as management is unable to complete a review of its
+consolidated financial statements by August 14,</P>
+<P style="margin-top:2.133px; margin-bottom:0px; font-family:TimesNewRoman,Times
+New Roman; font-size:10.7pt">2013. The delay cannot be cured without 
+unreasonable effort or expense. In accordance with Rule 12b-25</P>
+<P style="margin-top:2.133px; margin-bottom:0px; font-family:TimesNewRoman,Times
+New Roman; font-size:10.7pt">under the Securities Exchange Act of 1934, the 
+Company anticipates filing its Form 10-Q no later than</P>
+<P style="margin-top:2px; margin-bottom:0px; font-family:TimesNewRoman,Times New
+Roman; font-size:10.7pt">five calendar days following the prescribed due 
+date.</P>
+<P style="margin-top:18.867px; margin-bottom:0px; text-indent:186.6px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt"><B>PART IV &#150; OTHER 
+INFORMATION</B></P>
+<P style="margin-top:18.067px; margin-bottom:0px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt">(1)<FONT style="font-
+size:7.5pt"> &nbsp;&nbsp;</FONT>Name and telephone number of person to contact 
+in regard to this notification</P>
+<P style=margin-top:18.733px;margin-bottom:-1pt;font-size:1pt /><P 
+style="margin-top:0px; margin-bottom:-2px; text-indent:167.667px; 
+width:348.467px; font-family:TimesNewRoman,Times New Roman; font-size:10.7pt; 
+float:left"><B><U>Ruairidh Campbell</U></B></P>
+<P style="margin:0px; text-indent:-2px; font-family:TimesNewRoman,Times New 
+Roman; font-size:10.7pt"><B><U>(801) 582-9609</U></B></P>
+<P style=margin-top:1.667px;margin-bottom:-1pt;font-size:1pt /><P style="margin-
+top:0px; margin-bottom:-2px; text-indent:193.267px; width:336.867px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt; clear:left; 
+float:left">(Name)</P>
+<P style="margin:0px; text-indent:-2px; font-family:TimesNewRoman,Times New 
+Roman; font-size:10.7pt">(Telephone Number)</P>
+<P style="margin-top:18.6px; margin-bottom:0px; font-family:TimesNewRoman,Times 
+New Roman; font-size:10.7pt; clear:left">(2)<FONT style="font-size:7.5pt"> 
+&nbsp;&nbsp;</FONT>Have all other periodic reports required under Section 13 or 
+15(d) of the Securities Exchange Act of</P>
+<P style="margin-top:2px; margin-bottom:0px; text-indent:24.333px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt">1934 or Section 30 of 
+the Investment Company Act of 1940 during the preceding 12 months or for</P>
+<P style="margin-top:2px; margin-bottom:0px; text-indent:24.333px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt">such shorter period that
+the registrant was required to file such report(s) been filed? If the answer 
+is</P>
+<P style="margin-top:2.133px; margin-bottom:0px; text-indent:24.333px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt">no, identify 
+report(s).<FONT style="font-family:Wingdings"> &#254;</FONT> &nbsp;Yes<FONT 
+style="font-family:Wingdings"> &#168;</FONT> &nbsp;No</P>
+<P style="margin-top:18.6px; margin-bottom:0px; font-family:TimesNewRoman,Times 
+New Roman; font-size:10.7pt">(3)<FONT style="font-size:7.5pt"> 
+&nbsp;&nbsp;</FONT>Is it anticipated that any significant change in results of 
+operations from the corresponding period for</P>
+<P style="margin-top:2px; margin-bottom:0px; text-indent:24.333px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt">the last fiscal year 
+will be reflected by the earnings statements to be included in the subject 
+report or</P>
+<P style="margin-top:2px; margin-bottom:0px; text-indent:24.333px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt">portion thereof?<FONT 
+style="font-family:Wingdings"> &#168;</FONT> &nbsp;Yes<FONT style="font-
+family:Wingdings; font-size:6.7pt"> &nbsp;</FONT><FONT style="font-
+family:Wingdings">&#254;</FONT><FONT style="font-family:WingdingsOOEnc"><font 
+style='font-family:Arial Unicode MS,Times New 
+Roman'>&#61472;</font></FONT>No</P>
+<P style="margin-top:18.4px; margin-bottom:0px; text-indent:24.333px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt">If so, attach an 
+explanation of the anticipated change, both narratively and quantitatively, and,
+if</P>
+<P style="margin-top:2.333px; margin-bottom:0px; text-indent:24.333px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt">appropriate, state the 
+reasons why a reasonable estimate of the results cannot be made. &nbsp;N/A</P>
+<P style="margin-top:18.733px; margin-bottom:0px; text-indent:237.467px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt"><B><U>Allied Resources, 
+Inc.</U></B></P>
+<P style="margin-top:1.667px; margin-bottom:0px; text-indent:177.933px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt">(Name of Registrant as 
+Specified in Charter)</P>
+<P style="margin-top:18.6px; margin-bottom:0px; font-family:TimesNewRoman,Times 
+New Roman; font-size:10.7pt">has caused this notification to be signed on its 
+behalf by the undersigned thereunto duly authorized.</P>
+<P style="margin-top:18.4px; margin-bottom:0px; text-indent:93.467px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt">Date: August 14, 
+2013</P>
+<P style="margin-top:18.267px; margin-bottom:0px; text-indent:93.467px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt">By: <U>/s/ Ruairidh 
+Campbell</U></P>
+<P style="margin-top:2.333px; margin-bottom:0px; text-indent:93.467px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt">Ruairidh Campbell, Chief
+Executive Officer</P>
+<P style="margin-top:18.867px; margin-bottom:0px; text-indent:85.733px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt"><B>ATTENTION: 
+Intentional misstatements or omissions of fact constitute</B></P>
+<P style="margin-top:2px; margin-bottom:0px; text-indent:157.733px; font-
+family:TimesNewRoman,Times New Roman; font-size:10.7pt"><B>Federal criminal 
+violations (</B><B><I>see</I></B><B> 18 U.S.C. 1001).</B></P>
+<P style="margin-top:2px; margin-bottom:0px"><BR>
+<BR></P>
+</DIV></BODY>
+<!-- EDGAR Validation Code: CB546131 -->
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

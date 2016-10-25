@@ -1,0 +1,3176 @@
+
+Report to:
+CYPRESS DEVELOPMENT CORP.
+GUNMAN ZINC-SILVER PROJECT 
+NATIONAL INSTRUMENT 43-101 
+COMPLIANT TECHNICAL REPORT
+MARCH 2014
+Prepared by  Robert D. Marvin
+Date
+March 17, 2014
+Cypress Development Corp. 
+Suite 1610 - 777 Dunsmuir Street 
+Vancouver, BC 
+Canada V7Y 1K4
+Jasperoid Alteration in a Exploration Road Cut, RH Zone, Gunman Project
+Cypress Development Corp. 
+Gunman NI 43-101 Compliant Technical Report
+1
+March 2014
+R E V I S I O N   H I S T O R Y
+ISSUE DATE
+PREPARED BY
+REVIEWED BY
+APPROVED BY
+DESCRIPTION OF REVISION
+AND DATE
+AND DATE
+AND DATE
+REV. 
+NO
+Cypress Development Corp 
+Gunman NI 43-101 Compliant Technical Report
+2
+March 2014
+T A B L E   O F   C O N T E N T S
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+SUMMARY .......................................................................................................................... 7
+INTRODUCTION AND TERMS OF REFERENCE ............................................................ 12 
+2.1 
+INTRODUCTION ................................................................................................................... 12 
+TERMS OF REFERENCE ....................................................................................................... 12 
+2.2 
+SOURCES OF INFORMATION ................................................................................................. 12 
+2.3 
+2.4 
+PROJECT MANAGEMENT AND SITE PRESENCE...................................................................... 13 
+UNITS & CURRENCY ............................................................................................................ 13 
+2.5
+RELIANCE ON OTHER EXPERTS ................................................................................... 14
+PROPERTY DESCRIPTION AND LOCATION ................................................................. 15 
+LOCATION ........................................................................................................................... 15 
+4.1 
+MINERAL RIGHTS DISPOSITION ............................................................................................ 15 
+4.2 
+4.3 
+TENURE RIGHTS ................................................................................................................. 18 
+RESOURCES, RESERVES, DEVELOPMENT AND INFRASTRUCTURE .......................................... 18 
+4.4 
+LEGAL SURVEY ................................................................................................................... 18 
+4.5 
+4.6 
+ENVIRONMENTAL LIABILITIES ............................................................................................... 18 
+PERMITS ............................................................................................................................. 18 
+4.7
+ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE AND 
+PHYSIOGRAPHY .............................................................................................................. 19 
+5.1 
+ACCESS .............................................................................................................................. 19 
+LOCAL RESOURCES ............................................................................................................ 20 
+5.2 
+CLIMATE ............................................................................................................................. 20 
+5.3 
+5.4 
+PHYSIOGRAPHY .................................................................................................................. 20
+HISTORY ........................................................................................................................... 23 
+6.1 
+COMPILATION OF REPORTS ON EXPLORATION PROGRAMS ................................................... 27
+GEOLOGICAL SETTING & MINERALIZATION ............................................................... 28 
+DISTRICT GEOLOGY ............................................................................................................ 28 
+7.1 
+PROPERTY GEOLOGY .......................................................................................................... 32 
+7.2 
+7.3 
+PROPERTY MINERALIZATION ................................................................................................ 38
+DEPOSIT TYPE................................................................................................................. 47
+EXPLORATION ................................................................................................................. 48 
+REVERSE CIRCULATION DRILLING ........................................................................................ 48 
+9.1
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+i
+March 2014
+10.0
+11.0
+9.2
+DIAMOND DRILLING ............................................................................................................. 49
+DRILLING .......................................................................................................................... 50 
+10.1  WMC ................................................................................................................................. 50 
+CYPRESS VENTURES .......................................................................................................... 50 
+10.2
+SAMPLE PREPARATION, ANALYSIS & SECURITY ...................................................... 55 
+11.1 
+SAMPLE PREPARATION AND ASSAYING ................................................................................ 55 
+QUALITY ASSURANCE & QUALITY CONTROL ......................................................................... 56 
+11.2 
+11.3 
+SECURITY ........................................................................................................................... 56
+12.0  MINERAL PROCESSING & METALURGICAL TESTING ................................................ 58
+13.0  MINERAL RESOURCE ESTIMATES ................................................................................ 59
+14.0  MINERAL RESERVE ESTIMATES ................................................................................... 60
+15.0  MINING METHODS ........................................................................................................... 61
+16.0
+RECOVERY METHODS .................................................................................................... 62
+17.0
+PROJECT INFRASTRUCTURE ........................................................................................ 64
+18.0  MARKET STUDIES ........................................................................................................... 65
+19.0
+ENVIRONMENTAL STUDIES, PERMITS, & SOCIAL OR COMMUNITY IMPACTS ........ 66
+20.0
+CAPITAL & OPERATING COSTS .................................................................................... 67
+21.0
+ECONOMIC ANALYSIS .................................................................................................... 68
+22.0
+ADJACENT PROPERTIES ............................................................................................... 69
+23.0  OTHER RELEVANT DATA & INFORMATION ................................................................. 70
+24.0
+INTERPRETATION & CONCLUSIONS ............................................................................ 71
+25.0
+RECOMMENDATIONS ..................................................................................................... 74
+26.0
+DATE & SIGNATURE PAGE ............................................................................................ 77
+CERTIFICATE ................................................................................................................................ 78
+REFERENCES ............................................................................................................................... 79
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+ii
+March 2014
+L I S T   O F   F I G U R E S
+Figure 1-1    District Early Age Tertiary Geology…………………………..………………………...11 
+Figure 5-2b  Coring at RH South. View to South Towards the Pan Project. ............................... 22 
+  
+ 
+LIST OF TABLES 
+Table 1  Cypress Lode Claim NMC#’’s……………………………………………………………….15 
+Table 2  Cominco Ltd. XRD Analysis Results………………………………………………………..38 
+Table 3  Significant Assays…………………………………………………………………………….41 
+Table 4  Diamond Drill Hole Inventory………………………………………………………………..50 
+Table 5  Cominco Acetic Acid Leach Test Results vs. ICP Assays……………………………….60
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+iii
+March 2014
+G L O S S A R Y
+U N I T S   O F   M E A S U R E
+Centimetre .......................................................................................................................................   cm 
+Cubic centimetre ..............................................................................................................................   cm3
+Degrees Fahrenheit .........................................................................................................................   °F
+Gram ................................................................................................................................................   g
+Part per million (1 ppm = 1 gram)…………………………………………………………………………….ppm
+Acre (43,560 square feet) ................................................................................................................
+ft
+Kilometre ..........................................................................................................................................   km
+Mile……………………………………………………………………………………………………………….mi
+Metre ................................................................................................................................................   m
+Millimetre..........................................................................................................................................   mm
+Percent.............................................................................................................................................   %
+A C R O N Y M S   A N D  A B B R E V I A T I O N S
+Nevada Mining Claim Number……………………………………………………………………………….NMC#
+Bureau of Land Management…………………………………………………………………………………BLM
+North ................................................................................................................................................   N
+East ..................................................................................................................................................   E
+South ...............................................................................................................................................   S
+West .................................................................................................................................................   W
+North Northeast…………………………………………………………………………………………………NNE 
+Silica ................................................................................................................................................   SiO2
+Gold .................................................................................................................................................   Au 
+Mercury…………………………………………………………………………………………………………..Hg 
+Zinc……………………………………………………………………………………………………………….Zn
+Silver ................................................................................................................................................   Ag
+Copper .............................................................................................................................................   Cu
+Lead .................................................................................................................................................   Pb 
+Arsenic…………………………………………………………………………………………………………..As 
+Antimony……………………………………………………………………………………………………..…Sb
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+iv
+March 2014
+1 . 0   S U M M A R Y
+Cypress Development Corp. has prepared this technical report detailing  base 
+and  precious  metal  exploration  results  on  its  100%  owned  Gunman  Property 
+located in White Pine County, Nevada.  Cypress owns the mineral rights to 55 
+federal lode claims covering approximately 1140 acres.  The property location 
+is shown on figure 1-1 below.  The map also shows the position of active and 
+historic  mines, Tertiary  age  intrusions,  paleo  hot  spring  sinters  and  jasperiod 
+alteration  zones  within  the  southern  extension  of  the  regional  scale  Carlin 
+Trend.
+Surface sampling and drilling on the property has resulted in the discovery of a 
+series  of  zones  of  zinc  and  silver  mineralization  over  a  strike  length  of 
+approximately  2500  feet.    The  northern  most  mineralization  known  on  the 
+property  was  discovered  at  the  end  of  the  most  recent  drill  program  in  2007 
+and  this  mineralization  remains  essentially  unexplored.    No  mineral  resource 
+calculations have been done on the Gunman property 
+ 
+The  mineralization  at  Gunman  appears  to  be  of  carbonate  replacement  style 
+with central zones of massive mineralization being flanked by halos of partial 
+replacement  and  veining.    The  replacements  are  now  very  strongly  oxidized 
+within  400  feet  of  surface.    Rare  sulfide  mineralization,  sphalerite,  pyrite  and 
+argentite, is seen at the base of the oxidized portion of the high grade zones. 
+ 
+Cominco  Ltd.  conducted  a  due  diligence  investigation  of  the  Gunman  project 
+following  discovery  of  very  high  zinc  and  silver  mineralization  by  Cypress  in 
+2000.  As part of the due diligence work, Cominco conducted a series of zinc 
+assays  using  an  acetic  acid  leach  method.    The  results  indicate  that  zinc 
+recovery  from  oxidized  mineralization  at  Gunman  by  acetic  acid  leaching  is 
+excellent.  A  comparison  chart  of  ICP  assay  vs.  Acetic  Acid  Leach  assay  is 
+presented in Section 16 of this report. 
+ 
+The mineralization is hosted by karsted, and locally decalcified, silty limestone 
+of Permian age.  Zinc and silver mineralized zones are flanked on the east by 
+copper  oxide  mineralization  hosted  by  a  distinctive,  decalcified  poly-lithic 
+sandstone, also of Permian age.  
+  
+The RH Zone lies in the central portion of the 2500 foot strike length of known 
+mineralization.    Mineralization  within  the  RH  Zone  is  spectacular  for  its  zinc 
+and  silver  grade,  for  the  down  hole  interval  length  of  the  very  high  grade 
+mineralization  and  for  the  continuous  nature  of  zinc  grades  in  excess  of  5% 
+accompanied by multi ounce silver values.  The mineralization is also located 
+close to surface.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+7
+March 2014
+Very  impressive  oxide  zinc  and  silver  mineralization  was  found  in  reverse 
+circulation  drilling  of  the  RH  Zone  in  several  holes  including  hole  GM-26  in 
+August  of  2000.    The  interval  from  40  to  250  feet  down  hole,  a  210  foot 
+interval,  including  lower  grade  upper  and  lower  contact  zones,  grades 13.1% 
+zinc and 126 ppm silver.  This interval includes a 165 foot interval from 50 feet 
+down hole to 215 feet down hole that assayed 16.6% zinc and 156 ppm silver. 
+ 
+A potential analog to the zinc and silver mineralization at the Gunman property 
+is found at the Eureka mining district, located 27 miles SSW of the project.  A 
+series  of  high  grade  precious  metal  –  base  metal  carbonate  replacement 
+deposits  were  mined  historically  at  Eureka.    These  were  described  by  the 
+USGS in 1884, and many times since, as being of intrusion related, carbonate 
+replacement type.  The deposits were worked as under-ground operations and 
+were  famous  for  very  high  grade  oxide  mineralization  containing  very  high 
+lead, zinc, silver and gold.  It is noted here that, unlike in the Eureka district, no 
+intrusions have been identified at Gunman. 
+ 
+Mineralization  at  Gunman  appears  to  be  controlled  by  a  series  of  well-
+developed NNE trending fracture zones. This setting is seen in other locations 
+along  the  Carlin  and  Battle  Mountain  gold  trends  where  north-south  to  NNE 
+alignments  of  mineralization  and  ore  zones  are  located  in  cross  cutting 
+structural zones within or adjacent to the main NNW striking trends.  
+ 
+Jasperiod rubble crop lies at surface along the western flank of the largest and 
+highest grade of the discovered zones at Gunman.  These jasperoid boulders 
+and  rubble  crop  are  highly  anomalous  in  Zn-Ag-Au-As-Cu  and  Hg,  a 
+geochemical  signature  common  in  jasperoids  within  controlling  faults  above 
+and within Carlin style gold deposits. 
+ 
+The complex carbonate and calcareous clastic sediments that host the known 
+mineralization  lie  in  the  east  limb  of  a  north  striking  syncline.    This  rock 
+package dips steeply west into the nose of the syncline located in the western 
+portion of the property.  The syncline is cut by a series of well-developed N-S 
+trending 
+the  position  of 
+mineralization.    Fracturing  along  the  axis  of  the  syncline  is  covered  by  the 
+Cypress  claim  block  but  has  not  been  explored  by  drilling  to  date  and 
+represents one of the high quality exploration targets on the property. 
+ 
+The  very  high  grade  of  zinc  and  silver  mineralization  in  the  RH  Zone  is  a 
+compelling reason to continue exploration on the Gunman property.  Five main 
+exploration targets have been identified and exploration recommendations are 
+made for each of them in this report.  The five targets are:
+fault-fracture  zones
+that  appear
+to  control
+1.  North RH Zone.  Hole GD-15 intersected multiple zones of zinc-silver 
+mineralization  in  a  position  approximately  1300  feet  north  of  the  RH
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+8
+March 2014
+Zone. The grade of the mineralization in the hole is from 0.5 to 2.0% 
+Zn and has accompanying Ag mineralization in the 5 to 15 ppm range.  
+This low grade mineralization is very similar to that seen on both the 
+east  and  west  flanks  of  the  RH  Zone.    1200  feet  of  RC  drilling  in  a 
+position north and east of GD-15 is recommended.
+2.  Confirmation  drilling  of  the  high  grade  RH  Zone  is  recommended  in 
+order  to  provide  high  quality  data  for  a  resource  estimation  and  to 
+obtain  large  samples  of  mineralization  for  metal  recovery  studies.  
+Approximately 1000 feet of RC drilling is needed.
+3.  Down-dip exploration of the east limb of the syncline.  No systematic 
+exploration of the deeper extensions of the RH Zone has been done.  
+It is recommended that an east-west fence of holes be completed into 
+the 
+the  known 
+mineralization  at  RH.    A  total  of  1800  feet  of  RC  drilling  is 
+recommended.
+footwall  carbonaceous  shale  which  underlies
+4.  Syncline axis exploration west of the RH Zone.  Surface mapping and 
+analysis of detailed DEM and satellite imagery indicate that the axis of 
+the syncline at Gunman is strongly fractured.  No drilling of the axis of 
+the fold has been done.  Drill testing of the target in a position down-
+dip of the RH Zone would require two holes totalling 1400 feet.
+5.  Surface  sampling  of  carbonate  rubble  crop  in  the far  north portion  of 
+the property,  the  Far North Target  Area  is  strongly  recommended as 
+preliminary  observations  made  during  the  staking  of  the  north 
+extension claims indicate that abundant altered carbonate rock rubble 
+crop or near source float is present in a position roughly on strike with 
+the known mineralization to the south.  Identification  of significant Zn 
+or  Ag  mineralization  in  the  north  portion  of  the  property  would 
+immediately increase the scope of the project.
+A  phased  approach  to  the  recommended  work  is  the  most  efficient  way  to 
+proceed.    Phase  1  would  include  items  1  and  2  above,  the  very  important 
+exploration  drilling  around  RH  North  discovery  hole  GD-15  and 
+the 
+confirmation\bulk  sample  drilling  of  the  RH  Zone.    This  would  amount  to  the 
+drilling  of  8  -  10  holes  and  a  total  of  2200  feet  of  R-C  drilling.    The  phase  1 
+program should also include surface sampling in the Far North Target Area as 
+this  area  has  the  potential  to  materially  change  the  scope  of  the  project  at  a 
+very modest cost.
+Phase  1  drilling  and  surface  sampling  is  estimated  to  cost  approximately 
+$90,000, all in, right through to a final report on results.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+9
+March 2014
+The  drilling  of  the  down  dip  RH  target  and  the  syncline  axis  fracture  zone 
+target  along  with  follow-up  and  further  extension  drilling  at  RH  North  is 
+recommended  to  form  the  core  exploration  work  of  a  Phase  2  program.  
+Drilling  of  any  high  quality  targets  that  could  result  from  the  Phase  1  surface 
+sampling  at  the  Far  North  Target  area  could  also  be  added  to  Phase  2.  
+Priorities  will  be  identified  based  on  Phase  1  results.    The  Phase  2  program 
+would  entail  approximately  4000  feet  of  R-C  drilling  and  is  estimated  to  cost 
+$135,000.
+A total expenditure in the Phase 1 and 2 programs of approximately $225,000 
+would advance the core RH South, RH and RH North portion of the property to 
+a  state  of  readiness  for  a  resource  calculation  as  well  as  conduct  important 
+extension exploration in the Far North Exploration area.
+Cypress  Development’s  Gunman  project  is  well  located  on  the  margin  of  the 
+Carlin  Trend  and  contains  zones  of  carbonate  replacement  style,  high  grade 
+zinc  and  silver  oxide  mineralization.    Cypress  intends  to  extend  this  type  of 
+mineralization  along  strike  while  also  closely  monitoring  gold  and  trace 
+element  data for  any  indications  of  a  potentially  more  gold  rich  portion  of  the 
+system.
+High  quality  exploration  targets  remain  on  the  property.    These  include 
+detailed  targets  in  the  RH  and  RH  North  areas.    The  area  around  north 
+extension hole GD-15 needs additional drilling to explore for high grade.  The 
+fault  –  fracture  zone  along  the  axis  of  the  syncline  west  of  the  RH  Zone 
+remains unexplored.
+In  addition,  mapping  by  the  USGS  in  1963  and  more  recent  mapping  by 
+Cypress  indicates  that  a  carbonate  conglomerate  cap  rock  outcrops  in  the 
+northern  portion  of  the  property.    This  unit  appears  to  have  acted  as  a  cap 
+rock during mineralization at RH.  The northern portion of the property remains 
+essentially unexplored, either at surface or beneath the cap rock.  Exploration 
+of  this  area  along  the  projection  of  the  NNE  mineral  trend  presents  a  very 
+attractive grass roots target, see Section 24 of this report.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+10
+March 2014
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+11
+March 2014
+2 . 0
+I N T R O D U C T I O N   A N D   T E R M S   O F  
+R E F E R E N C E
+2.1
+I N T R O D U C T I O N
+Cypress  Development  Corp. 
+("Cypress")  hereby  presents  a  National 
+Instrument 43-101 compliant Technical Report summarizing exploration drilling 
+results  and  other  relevant  data  for  their  Gunman  property  near  Eureka, 
+Nevada.    The  report  has  been  prepared  in  compliance  with  the  standards  of 
+the Canadian Securities Administrators' NI 43-101.
+2.2
+T E R M S   O F   R E F E R E N C E
+Cypress has completed 64 reverse circulation (R-C) holes for 29930 feet and 
+17  “NQ”  diamond  drill  holes  totaling  11,516 feet  of  drilling  on  the  Gunman 
+property, located in eastern White Pine County, Nevada.   
+ 
+This NI 43-101 Technical Report is intended to provide a detailed accounting 
+of Cypress’s exploration of the Gunman property and to provide interpretations 
+of  the  compiled  data  for  the  purposes  of  proposing  additional  exploration  for 
+silver and zinc and potentially for gold mineralization on the property.   
+ 
+The  Gunman  property  is  located  in  a  region  of  active  open  pit  mining  of 
+sediment hosted gold deposits.  Mine construction is currently underway at the 
+Pan  Project,  located  39  miles  south  of  the  Gunman  property.    The  Bald 
+Mountain mining complex operated by Barrick Gold is located 10 miles east of 
+the property.  Base metal production from high grade ores has occurred in the 
+Bald Mountain area and in the nearby Eureka district.    
+ 
+Robert  D.  Marvin,  PGeo,  CPG,  was  authorized  to  complete  this  NI 43-101 
+Technical Report by Mr. Don Huston, President, Cypress Development Corp.
+2.3
+S O U R C E S   O F   I N F O R M A T I O N
+To  prepare  this  report,  Cypress  has  relied  dominantly  on  our  own  data  from 
+completed exploration on the property and also on USGS and NBM reports in 
+addition  to  information  publically  available  on  websites  of  mining  companies 
+working in the area.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+12
+March 2014
+2.4
+P R O J E C T   M A N A G E M E N T   A N D   S I T E   P R E S E N C E
+Mr. Robert Marvin, P.Geo., has been present and directed all drilling and other 
+surveys completed on property since 2001.
+2.5
+U N I T S   &   C U R R E N C Y
+Throughout this report, measurements are in imperial units (feet and miles) for 
+all down hole drill data including assays. , Drill hole collar locations are in UTM 
+NAD 83 meters. The use of both imperial and metric units for the program is 
+necessary  due  to  10  foot  drill  rods  being  used.    UTM  meters  is  used  for  drill 
+hole locations due to the convenience and more reliable interaction with other 
+map data in GIS data compilation work. 
+ 
+Silver (Ag) assay values are presented as parts per million (ppm), base metal 
+values are presented as % Zinc (Zn). For reference, 1 ppm equals 1 gram. 
+ 
+ 
+Currency amounts for estimated costs of recommended additional exploration 
+drilling are quoted in US dollars unless otherwise noted.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+13
+March 2014
+3 . 0   R E L I A N C E   O N   O T H E R   E X P E R T S
+Cypress  prepared  this  study  using  our  compiled  database  and  the  resource 
+materials, reports and documents as noted in the text and "References" at the 
+end of this report.
+Mineral  rights  ownership  through  lode  claims  data  in  this  report  was 
+summarized directly from  Bureau of Land Management (BLM) records and is 
+backed  up  by  examination  of  Cypress’s  internal  records  of  transactions 
+regarding  acquisition  of  Mineral  Rights  for  the  property.        All  mineral  rights 
+owned by Cypress are the result of the Mining Law of 1872 and are on public 
+lands administered by the BLM.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+14
+March 2014
+4 . 0   P R O P E R T Y   D E S C R I P T I O N   A N D   L O C A T I O N
+4.1
+L O C A T I O N
+The  Gunman  property  is  located  around  606300  East,  4414500  North,  UTM 
+NAD  83,  Zone  11  North  datum,  in  eastern  White  Pine  County,  Nevada.  The 
+location  is  about  30 miles  north-east  of  the  town  of  Eureka,  Nevada.  And  66 
+miles  south  of  Elko,  Nevada  (figure  4-1).    The  Property  lies  entirely  within 
+Township,  23N,  R55E,  Mt  Diablo  Meridian.    The  Property  is  accessed  off  of 
+paved state highway 892.
+4.2
+M I N E R A L   R I G H T S   D I S P O S I T I O N
+The  Gunman  property  consists  of  55  lode  mining  claims.    The  claims  lie  in 
+surveyed  territory  within  portions  of  sections  2,11,14  and  23,  T55N,  R23E  in 
+eastern White  Pine  County,  Nevada  (figure  4-2).  The  claims  are  each  600  x 
+1500 feet in size or about 20.5 acres each and together cover an area of about 
+1140  acres.    The  claims  require  annual  filing  of  an  Intent  to  Hold  and  cash 
+payments to the BLM and White Pine County totaling $154.50 per claim.  The 
+claims  are  subject  to  a  2%  NSR  in  favor  the  original  property  vendor 
+(transaction  in  1999)  White  Pine  Minerals.      Table  1  below  lists  the  Cypress 
+federal  lode  claims  at  Gunman  for  which  Nevada  Lode  Claim  numbers  are 
+available.
+Claim #
+Gunman-1
+Gunman-2
+Gunman-3
+Gunman-4
+Gunman-5
+Gunman-6
+Gunman-7
+Gunman-8
+Gunman-9
+Gunman-10
+NMC #
+814693
+814694
+814695
+814696
+814697
+814698
+814699
+814700
+814701
+814702
+Claim #
+NMC #
+Claim #
+NMC #
+Gunman-20
+1079807
+Gunman-63
+1079811
+Gunman-21
+1079808
+Gunman-64
+1079821
+Gunman-22
+1079809
+Gunman-81
+1079812
+Gunman-23
+1079810
+Gunman-82
+1079815
+Gunman-24
+Gunman-25
+814716
+814717
+Gunman-83
+1079813
+Gunman-84
+1079816
+Gunman-59
+1079817
+Gunman-85
+1079814
+Gunman-60
+1079818
+Gunman-86
+1079822
+Gunman-61
+1079819
+Gunman-62
+1079820
+Note that recently staked claims GM-101 to GM-112 and Gunman 16, 17, 18, 
+28,  29,  30,31,  32,  33,  36,  37,  38,  39,  40  and  41  are  awaiting  assignment  of 
+NMC#’s by the BLM.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+15
+March 2014
+Cypress completed its 100% earn in (less the 2% NSR) in 2000 by expending 
+$360,000 in exploration on the property.  No annual expenditures or payments, 
+other than those to the county and BLM are required for Cypress to retain the 
+property.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+16
+March 2014
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+17
+March 2014
+4.3
+T E N U R E   R I G H T S
+Cypress owns 55 lode mining claims as shown figure 4-2 above.  The claims 
+are all in good standing with the BLM and White Pine County.
+4.4
+R E S O U R C E S ,   R E S E R V E S ,   D E V E L O P M E N T   A N D   I N F R A S T R U C T U R E
+The  property  is  located  in  a  region  of  active  open  pit  mining  of  sediment 
+hosted  gold  deposits.    Operators  in  the  region  include  Barrick  Gold  and 
+Midway Gold.
+There  are  no  resources  defined  on  the  Gunman  property  at  present.  
+Recommendations  for  additional  drilling  made  in  this  report  are  in  part 
+designed  to  provide  additional  assay  data  needed  to  better  prepare  for 
+potential resource estimation in the future.
+The property lies in close proximity to paved roads, power lines and regional 
+towns and cities that service the mining industry.  Railroad lines are located 60 
+miles  north  of  project  where  they  pass  through  the  major  mining  centers  of 
+Carlin and Elko.
+4.5
+L E G A L   S U R V E Y
+The 55 federal lode claims are survey tied to brass caps of the existing federal 
+land survey in the area.
+4.6
+E N V I R O N M E N T A L   L I A B I L I T I E S
+The  Gunman  lies  in a  "green fields" exploration  area.   There  are small  scale 
+pits and trenches from historic exploration efforts of copper oxide outcrops on 
+the  property.    None  of  these  small  disturbances  appear  to  have  any 
+environmental  liability.    No  buildings,  mills,  leach  pads  or  other  infrastructure 
+has ever existed on the property.
+4.7
+P E R M I T S
+A  standard  permit  for  the  disturbance  needed  to  conduct  the  exploration 
+recommended  in  this  report  has  been  applied  for  with  the  BLM  office  in  Ely, 
+Nevada.    Approval  of  this  routine  permit  is  expected  by  late  March  if  not 
+sooner.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+18
+March 2014
+5 . 0   A C C E S S I B I L I T Y ,   C L I M A T E ,   L O C A L
+R E S O U R C E S ,   I N F R A S T R U C T U R E   A N D  
+P H Y S I O G R A P H Y
+5.1
+A C C E S S
+The  property  is  best  accessed  by  paved  roads  covering  47  miles  from  the 
+mining  center  of  Eureka  to  the  turn  off  from  state  highway  892  on  dirt  roads 
+that lead the last 2 miles to the property.  Access by all-weather roads is also 
+available  from  the  major  mining  and  regional  transportation  center  of  Elko, 
+located  66  miles  north  of  the  property.    Elko  in  on  the  Interstate  highway 
+system and on the regional rail lines.  Scheduled flights into Elko are available 
+daily.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+19
+March 2014
+5.2
+L O C A L   R E S O U R C E S
+Mining center cities of Eureka, Elko and Ely are all within  1 to 1.5 hours drive 
+of the property.  The rapidly growing city of Elko is the largest of these cities 
+with a population of 20,000 (2012 census).
+Regional  power  grids  run  near  the  property.    High  voltage  power  lines  serve 
+the active Bald Mountain mine located 10 miles away from the project.
+5.3
+C L I M A T E
+The  climate  of  the  Great  Basin,  including  the  project  area  is  hot  in  summer, 
+average high temps around 90 F and cold in the winter with average daily lows 
+of 0 to 10 F.  Precipitation is evenly divided between summer thunder showers 
+and winter rain and snow.
+5.4
+P H Y S I O G R A P H Y
+The  Gunman  project  is  located  in  the  Great  Basin  physiographic  region,  a 
+large  area  of  basin  and  range  topography.    Steep  narrow  mountain  ranges 
+alternate with sloping to flat bottomed valley bottoms.  The property is located
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+20
+March 2014
+along the west edge of the Newark valley and right at the foot of the Diamond 
+Mountain Range.
+Figure  5-2a.    Core  drilling  of  the  RH  Zone  in  2007.    View  to  south  along  the 
+range front of the Diamond Range.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+21
+March 2014
+Figure 5-1b  Coring at RH South. View to South Towards the Pan Project.
+Figure 5-2c  View of RH North to west towards high county of the Diamond Range
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+22
+March 2014
+6 . 0   H I S T O R Y
+Outcropping,  oxide  copper  showings  at  the  Gunman  property  were  explored 
+by  prospect  pits  and  shallow  shafts  during  the  period  from  the  1860’s  to  the 
+1940’s.    No  production  is  recorded.    Western  Mining  Corporation  (WMC) 
+conducted  an  intensive,  sediment  hosted  gold  exploration  program  in  the 
+region  in  the  early  1990’s.    During  this  work,  WMC  geologist  Charlie  Clark 
+sampled  jasperoids  and  other  altered  limestone  outcrops  exposed  along  the 
+range front on what was to become the Gunman property.  Highly anomalous 
+Zn-Ag-Au-As-Cu and Hg assays were returned in the surface assays from the 
+property.  The samples contained up to 0.5 grams per ton gold.   
+ 
+The geochemical signature of sampled jasperoids is typical of Carlin style gold 
+deposits  and  WMC  immediately  staked  lode  claims  covering  several  square 
+miles  centered  on  the  mineralized  outcrops  and  rubble  crops  at  what  was  to 
+become the RH Zone. 
+ 
+WMC quickly moved to drill a series of R-C holes in and around the jasperoid 
+exposures.  Results showed zones of mutli percent zinc and up to 2 ounces a 
+ton  silver.    Gold  values  were  generally  low  and  erratic.   WMC  completed  26 
+holes  on  the  property  for  total  of  9335  feet.    The  significant  zinc  and  silver 
+mineralization  was  not  of  interest  to  WMC  at  that  time  and  they  allowed  the 
+claims to lapse in 1996. 
+ 
+White  Pine  minerals  staked  the  property  in  1999  and  vended  the  claims  to 
+Cypress.    Cypress  began  an  aggressive  R-C  drill  program  in  May,  2000 
+centered  around  the  jasperoid  area.    The  program  was  highly  successful, 
+Cypress  began  to  discover  zinc  grades  >10%  over  down  hole  intervals 
+exceeding 60 feet  Mutli ounce silver values were found with the zinc.  The RH 
+Zone  was  partially  outlined  by  September  2000  and  additional  discoveries  of 
+mutli  percent  zinc  and  local  percent  level  lead  were  made  at  RH  South,  800 
+feet south of the RH Zone. 
+ 
+Late  in  the  2000  drill  program,  Cypress  returned  to  the  RH  and  began  close 
+spaced  drilling  aimed  at  both  extension  and  infill.    Hole  GM-26  intersected  a 
+210  foot  down  hole  interval  grading  13.1%  zinc  and  126  ppm  silver.    This 
+intercept  includes  a  100  foot  interval  starting  at  a  depth  115  feet  that  grades 
+22.72%  Zn and  231.43  ppm  Ag.    Five foot sample  intervals  of up  to  37%  Zn 
+and 497 ppm Ag  (16 oz/ton Ag) were recorded in the hole.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+23
+March 2014
+Hole  GM-32  was  the  final  hole  of  the  program  and  was  located  as  a  30  foot 
+northward  extension  of  the  developing  high  grade  RH  Zone.    Hole  GM-32 
+returned  a  115  foot  interval  of  9.1%  Zn  and  51.1  ppm  Ag  starting  a  vertical 
+depth  of  50  feet.    Cypress  completed  32  reverse  circulation  drill  holes  for  a 
+total of 17,370 feet at Gunman during 2000 (table 2). 
+ 
+ 
+ 
+The  complete  results  of  the  2000  program  are  documented  in  the  report 
+Evaluation  of  the  Gunman  Project,  Nevada,  USA,  Jan.  2001  written  for 
+Cypress  Minerals  by  Mr.  David  J.  Busch.  Results  and 
+resulting 
+recommendations of  surface exploration at  the  property  in  2001 are  reported 
+in  the  following  reports:  1:    Gunman  Project;  Nevada;  Report  and Data,  May 
+25,  2001  by  Mr.  David  J.  Busch  and  2:    June  2001  Surface  Prospecting 
+Results and Recommendations by Mr. Robert D. Marvin.
+Surface  work  by  Cypress  in  2001  included  the  collection  of  a  grid  of  soil 
+samples  that  were  analyzed  by  mobile  metal  ion  analysis  (MMIA)  methods.  
+The MMIA assay method was used as such methods were seen as potentially 
+effective in detecting bedrock mineralization in areas were recent soil or other 
+regolith cover is present.   The results of the survey are presented below.
+In addition, Cominco Ltd.  conducted a series of due diligence studies on RC 
+drill  cutting  from  the  property.    These  studies  included  XRD  analysis  and  a 
+acetic  acid  leach  assay.    The  studies  indicate  that  smithsonite  is  the  most 
+abundant zinc mineral in oxide mineralization at Gunman and that acetic acid 
+is highly effective at recovering zinc from the oxide material. These studies are 
+detailed later in the report.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+24
+March 2014
+FIGURE  6-1  Zinc  in  Soil;  MMI-A;  Showing  drill  holes  to  Nov.  2000  and  topography.
+Cypress returned to the property in 2004 to continue the drill exploration of the 
+1000  foot  strike  length  containing  the  mineralized  RH  and  RH  South  zones 
+identified from the combined WMC and Cypress drilling programs.  The other 
+main  goal  of  the  2004  R-C  drill  program  was  to  test  the  RH  NW  Target 
+developed from the results of the MMIA soil sample grid done in 2001.
+The  2004  drill  program  totaled  32  holes  and  a  total  footage  of  8565.    The 
+holes  were  of  shallow  depth  and  most  were  angled  at  targets  at  45  to  60 
+degrees.  The  results  of  the  program  were  disappointing.    Extension  drill 
+targets on the N and NW flank of the RH Zone returned wide intervals of low 
+grade  zinc-silver  mineralization  but  no  extension  of  the  RH  high  grade  zone 
+was achieved.
+A  series  of  angle  holes  were  drilled  to  the  west  to  test  the  area  immediately 
+under the MMIA NW RH target.  These holes intersected low grade zinc and
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+25
+March 2014
+silver  mineralization  in  the  upper  portion  but  underlying,  oxidized  carbonate 
+units  were  essentially  barren  in  positions  under  the  RH  NW  target  MMIA 
+anomaly.  Hole GM04-06 intersected 30 feet starting at surface grading 0.24% 
+Zn and 2.72 ppm Ag.
+Drilling in the RH South area in 2004 found several zones of moderately well-
+developed  mineralization  in  positions  along  the  south  and  east  flank  of  the 
+zone.  Hole GM04-24 intersected a 65 foot interval of 0.40% Zn and 140 ppm 
+Ag starting at 80 feet down hole.
+Following the 2004 drill program, Cypress decided to try geophysical methods 
+to  attempt  to  locate  indications  and  targets  of  deep  mineralization  under  the 
+RH  and  RH  South  Zones.    A  Titan  Survey  was  done  over  the  core  of  the 
+property  covering  approximately  4000  feet  of  strike  length  along  the  range 
+front zone that contains the RH and RH South zones.  A summary of the 2006 
+Titan  survey  results  and  drill 
+in  Results  and 
+Interpretation of 2006 Geophysical Programs by Mr. Robert Marvin.
+is  documented
+targets
+To  very  briefly  summarize  the  results  of  the  2006  Titan  here,  the  survey 
+identified a series of strong conductors at depth below the RH and RH South 
+Zones as well as further south along the range front.
+An  NQ  core  drilling  program  designed  to  test  a  series  of  strong  Titan  survey 
+subsurface  conductors  was  commenced  in  April  2007.    Seventeen  NQ  core 
+holes were drilled totaling 11,516 feet.  Eight of the holes, totaling 6900 feet of 
+drilling,  were  used  confirming  the  source  of  the  Titan  conductor  anomalies.  
+The conductors, in all cases were found to be coincident with highly graphitic 
+silty to shaley limestones and dolomitic units.
+The other nine holes of the program were used testing targets at RH South, at 
+RH and at a new structural trend target, the RH North target.
+The RH North target was developed as a result of combining the results of the 
+2004  drill  program  with  structural  control  concepts  for  the  RH  and  RH  South 
+zones.  Weak mineralization was intersected at the top of hole GM04-06 (a 30 
+foot  interval  starting  at  surface  grading  0.24%  Zn  and  2.72  ppm  Ag)  in 
+apposition  immediately  west  an  interpreted  feeder  structure  linking  the  RH 
+South  to  RH  Zone.    2007  hole  GD-15  was  collared  as  a  vertical  hole  at  the 
+location of the west angle hole GM04-06.
+GD-15  intercepted  over  200  feet  containing  numerous  intervals  of  zinc-silver 
+mineralization from 145.8 feet to 352 feet below surface.   The mineralization 
+is hosted in a sandy limestone unit identical to the wall rocks of the RH Zone.  
+The best interval was 9.8 feet of 1.5% Zn and 14 ppm Ag starting at 154.3 feet
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+26
+March 2014
+down hole.  GD-15 was the first hole to intercept >1.0% zinc in an area outside 
+the RH and RH South zones.   
+ 
+Hole  GD-15  is  located  1400  feet  north  of  the  RH  Zone  and  was  positioned 
+within  200  feet  of  the  north  property  boundary.    Barrick  Gold  owned  a  large 
+block  of  lode  claim that  surrounded  the north  and east flanks  of  the  Cypress 
+claims.  Barrick failed to file the claims in 2012 and Cypress staked the ground 
+in  September  2012.  Cypress  has  added additional  claims  to  the  property  by 
+staking  in  January,  2014  and  now  controls  of  7000  feet  of  strike  length 
+potential beyond the collar of GD-15.
+6.1
+C O M P I L A T I O N   O F   R E P O R T S   O N   E X P L O R A T I O N   P R O G R A M S
+Detailed results of the 2000 reverse circulation drill program are documented 
+in  the  report  Evaluation  of  the  Gunman  Project,  Nevada,  USA,  Jan.  2001 
+written  for  Cypress  Minerals  by  Mr.  David  J.  Busch.    Results  and  resulting 
+recommendations  of  surface  exploration  including  a  self-potential survey  and 
+an  MMI  soil  survey  at  the  property  in  2001  are  reported  in  the  following 
+reports: 1:  Gunman Project; Nevada; Report and Data, May 25, 2001 by Mr. 
+David  J.  Busch  and  2:    June  2001  Surface  Prospecting  Results  and 
+Recommendations  by  Mr.  Robert  D.  Marvin.    Detailed  results  of  the  2004 
+reverse  circulation  drill  program  are  documented  in  the  report  2004  Phase  1 
+Report  written for Cypress Minerals by Mr. Robert Marvin.  A summary of the 
+2006  Titan  survey  results  and  drill  targets  is  documented  in  Results  and 
+Interpretation  of    2006  Geophysical  Programs  by  Mr.  Robert  Marvin.  The 
+results  of  NQ  core  drilling  of  targets  resulting  from  the  Titan  survey  are 
+documented  in  2007  Exploration  Drill  Program  Results,  April  30,  2008  by 
+Robert Marvin.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+27
+March 2014
+7 . 0   G E O L O G I C A L   S E T T I N G   &
+M I N E R A L I Z A T I O N
+7.1
+D I S T R I C T   G E O L O G Y
+The  Gunman  project  lies  within  a  complex  sequence  of  Permian  age 
+carbonate  and  calcareous  clastic  rocks  units  (blue  colored  patterns  on  the 
+Figure  7-1).    The  complex  nature  is  the  result  of  numerous  erosional  and 
+angular  disconformities  within  the  sequence.    The  Permian  age  stratigraphy 
+overlies  chaotic  clastic  sequences  of 
+the  Diamond  Peak  Formation, 
+Mississippian age clastic rocks that are related to emplacement and erosion of 
+the  Roberts  Mountains  Thrust  (RMT).      The  Mississippian  sequence  is 
+bounded above and below by erosional unconformities.
+Cambrian,  Ordovician  and  Devonian  and  lower  Mississippian  age  rocks  lie 
+below the Diamond Peak Formation (dark purple colored patterns on Figure 7-
+1).    This  lower  sequence  is  not  exposed  along  the  eastern  flank  of  the 
+Diamond  Mountains  in  the  vicinity  of  the  Gunman  Project.    Abundant 
+exposures  occur  to  the  east  in  the Bald  Mountain  and  Alligator  Ridge  mining 
+areas as well as in Eureka to the SSW of the project.
+The entire sequence of Cambrian through Permian age rock units are locally 
+intruded  by  Tertiary  age  stocks  and  dikes  (bright  red  on  7-1).    Northwest 
+trending  stock  complexes  intrude  the  early  Paleozoic  rocks  in  the  Bald 
+Mountain area and further south near Alligator Ridge.  A stock is also present 
+in  the  Diamond  Range  NNW  of  the  Gunman  area.    These  stocks  have  a 
+strong spatial relationship to jasperoid development and precious metal – base 
+metal mineralization in the Bald Mountain, Alligator Ridge and Eureka mining 
+centers.    The  intrusions  at  Eureka  are  older  than  those  at  Bald  Mtn.  and 
+Alligator Ridge but the relationship is the same.
+All Paleozoic age rock units are deformed by several stages of compressional 
+folding  and  faulting.    Major  folding  events  occurred  in  the  late  Devonian  to 
+early Mississippian time and again in the Mesozoic.  Extensional deformation 
+in  the  Tertiary  has  produced  the  present  landforms,  basin  and  range 
+physiography,  and  is  also  responsible  for  igneous  activity  and  hydrothermal 
+alteration  –  mineralization,  which  occurred  very  early  during  the  extensional 
+event  and  predate  the  present  basin  and  range  landforms  and  active  range 
+front normal faults.  One outcome of the mid Tertiary extension is the opening
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+28
+March 2014
+of  the  Newark  Valley  which  has  moved  the  Gunman  and  Bald  Mtn.  areas 
+further apart.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+29
+March 2014
+Three types of Tertiary age hydrothermal activity occur in a NW trending belt 
+that includes the Gunman Project (Figure 7-2 below).
+1.   Large Scale Siliceous Sinter Mounds; Siliceous and calcareous sinter 
+deposits  form  a  large  set  of  hills  that  rise  above  the  center  of  the 
+Newark Valley and are seen in the valley SE of Alligator Ridge.  These 
+mounds  results  from  large  scale  circulation  of  warm  to  hot  ground 
+water and are likely related to igneous intrusions at depth.
+2.  Jasperoid and Jasperoid Breccias; Jasperoids result from intense silica 
+replacement  of  limestone  during  hydrothermal  alteration.    They  are 
+often  brecciated  by  episodic  boiling  during  formation.    Jasperoids  are 
+commonly  directly  related  to  calcareous  hosted  precious  metal  and 
+base  metal  deposits  in  north  central  Nevada.    Well-developed 
+Jasperoids  with  highly  anomalous  Zn-Ag-Au-As-Cu  and  Hg  occur 
+along the break in slope in the central portion of the Gunman property 
+as  well  as  within  both  the  Bald  Mountain  and  Alligator  Ridge  mining 
+area.
+3.  Decalcification  and  mineralization;
+limestone,  silty
+Paleozoic  age  calcareous 
+limestone,  dolomites  and 
+sedimentary  deposits, 
+carbonate  cemented  clastic  units,  have  all  been  locally  impacted  by 
+decalcification and Silicification by Tertiary are hydrothermal activity in 
+the area encompassing Eureka-Bald Mtn. and Gunman.  Large areas 
+of  outcropping  jasperoid  breccias  are  associated  with  gold  and  base 
+metal  mineralization  at  Bald  Mountain.    Small  area  of  outcrop,  rubble 
+crop and subsurface intersection of jasperoid are associated with very 
+grade zinc and silver mineralization at Gunman.
+These hydrothermal features of the district are specially related to a large NW 
+trending area containing Tertiary age intrusions.  While no intrusions have yet 
+been found at Gunman, the intrusion mapped in the Diamond Range north of 
+the  project  is  associated  with  copper-gold  mineralization.    Figure  7-2  below 
+displays  the  map  pattern  of  Tertiary  age  intrusions,  hot  spring  sinters, 
+jasperoid alteration and mineralization.
+It is worth noting again that the Tertiary age igneous and hydrothermal activity 
+occurred  just  at  the  onset  of  extensional  deformation  in  the  early  Tertiary.  
+Continued  extension  as  now  opened  wide  valleys  and  created  numerous 
+range  front  normal  faults,  all  of  which  have  occurred  post  district  scale 
+mineralization.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+30
+March 2014
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+31
+March 2014
+7.2
+P R O P E R T Y   G E O L O G Y
+Gunman project has abundant outcrops in the western portion  of the property 
+and  is  largely  covered  by  recent  gravel  deposits  in  the  eastern  portion.    The 
+outcropping  rocks  are  all  of  sedimentary  origin  and  are  essentially  not 
+impacted  by  metamorphism.      Strong  layering  observed  in  certain  units  is  all 
+preserved, original sedimentary bedding.
+The  sedimentary  rocks  at  Gunman  have  been  assigned  a  Permian  age  by 
+regional  mappers  based  on  the  observed  fossil  assemblages  and  correlation 
+with  stratigraphy  in  surrounding  areas.    No  igneous  rocks  are  known  on  the 
+property.
+The  sequence  of  Permian  carbonate  rocks  and  clastic  sediments  have  a 
+complex  depositional  history  with  several  major  angular  and  erosional 
+disconformities  being  mapped  between  rock  packages.    Cypress  has 
+interpreted  a  major  angular  unconformity  mapped  in  western  and  northern 
+portions of the property to be caused by thrusting of a carbonate conglomerate 
+unit  over  a  folded  sequence  of  limestones  and  red  bed  sandstones.    This 
+contact  has  been  alternatively  interpreted  as  a  major  erosional  unconformity 
+with  flat  lying  carbonate  conglomerate  lying  depositional  contact  with  an 
+underlying, folded sequence of carbonate and clastic rocks.
+In either case, this contact appears to have acted as hydrologic barrier during 
+hydothermal  alteration  and  mineralization  at  the  property.    As  a  result, 
+exploration  for  blind  mineralization  below  the  carbonate  conglomerate  unit 
+along  know  mineralized  trends  represents  a  high  quality  target  for  future 
+exploration at Gunman.
+The geology of the Gunman project, as mapped by Cypress Development, is 
+presented in figure 7-3 below.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+32
+March 2014
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+33
+March 2014
+7.2.1 Property Rock Units
+The  Gunman  property  is  underlain  by  sequence  of  Permian  carbonate  rocks 
+and  clastic  sediments  that  have  a  complex  depositional  history  and  several 
+major  angular  and  erosional  disconformities  between  rock  packages.  A 
+stratigraphic  section  for  the  property  is  presented  in  figure  7-4  below.  The 
+section  exposed  along  the  range  front  on  the  property  begins  with  a  lower 
+most  carbonaceous  limestone  –  dolomite  unit  that  is  only  locally  exposed  in 
+the southern portion of the property.
+A  silty  limestone  overlies  the  carbonaceous  unit  and  is  in  turn  overlain  by  a 
+more  massive  fossiliferous  limestone  unit.    This  unit  is  locally  complex  and 
+contains lenses of rounded clast, poly-lithic, carbonate cemented sandstones.  
+A sharp contact at the top of the fossilferous limestone marks the change to a 
+clastic  sediment  package  of  locally  calcareous  siltstone  and  sandstones.  
+These  are ubiquitously  oxidized  to  red  and orange  yellow  color.    All  of these 
+units together are folded into a north trending syncline with a fold axis located 
+in the western portion of the property.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+34
+March 2014
+Lying above a sub horizontal erosional or faulted surface developed at the top 
+of  the  folded  sequence  is  a  nearly  flat  lying  carbonate  conglomerate  unit  or 
+limestone  conglomerate.    The  unit  is  composed  of  dm-scale,  sub rounded  to 
+sub-angular clasts in a carbonate matrix.  The unit is matrix supported.  This 
+unit appears to have acted as a cap rock, trapping mineralizing, hydrothermal 
+fluids within the east flank of the Gunman syncline.
+A series of photos of rocks units at Gunman are presented below.
+Figure 7-5a
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+35
+March 2014
+Figures 7-5b, 7-5c and 7-5d
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+36
+March 2014
+7.2.2 Property Structure
+The  Permian  age  rocks  of  the  Gunman  property  are  impacted  by  both 
+Paleozoic age compression and by post mineral, mid Tertiary age  extension.  
+No penetrative foliation or other metamorphic effects are evident.
+A  well-developed  syncline  with  a  roughly  north-south  axis  traverses  the 
+property.  The mineralization at RH and adjacent zones all lie in the east flank 
+of the syncline.   The RH North Zone is hosted in a down dropped section of 
+the  silty  limestone  and  is  a  blind  discovery  below  recent  gravel  cover.    See 
+figure 7-6 below.
+Normal faulting and fracturing has occurred throughout the property.  It is likely 
+that  early  normal  faulting  and  fracturing  resulted  in  fluid  pathways  for 
+mineralizing  fluids.    More  recent  normal  faulting  associated  with  regional 
+extension  have  produced  the  range  front  fault  which  lies  just  east  of  the  RH 
+Zone and which also passes through the RH North Zone (Figure 7-3 above).
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+37
+March 2014
+The  main  extension  phase  and  resulting  normal  faults  are  very  likely  much 
+younger  than  mineralization  on  the  property  and  thus  have  likely  off-set  and 
+down  dropped  mineralization  into  positions  east  of  the  range  front  and 
+concealed  beneath  gravel  cover.   The  under  explored  RH  North  Zone  is  one 
+example of mineralization being offset by later faulting.
+The  amount  of  off-set  on  the  range  front  fault  that  passes  very  near  the  RH 
+Zone  is  unknown  but  outcrops  of  Permian  rocks  do  occur  on  the  down 
+dropped side of the fault in the northern portion of the property.  This mapped 
+geology indicated that off–set on this fault is <300 feet (figure 7-3 above).
+7.2.3 Alteration and Veining of Rock Units
+Property  scale  alteration-mineralization  of  both  the  host  silty  limestone  unit 
+and within clastic lenses within the overlying fossiliferous limestone.  Property 
+scale zonation of two distinct types of alteration-mineralization is recognized:
+lenses  of  carbonate  cemented  sandstone
+1.   Dolomitization  -  decalcification  and  jasperiod  development  is  seen  for  a 
+3000 foot  strike  length within  the  RH  Zone  host  silty  limestone  and  locally 
+within 
+the  overlying 
+fossiliferous  limestone.    The  alteration  is  most  intense  in  the  RH  South  – 
+RH  Zone  and  RH  North  area.    All  discovered  oxide  and  sulfide  zinc-silver 
+mineralization  is  within  this  alteration  type.    Surface  and  subsurface 
+jasperiod  alteration  zones  with  anomalous  gold  to  500  ppb  occur  directly 
+over known ore zones at Gunman.
+in
+2.  Tension gash quartz-carbonate veining is seen  as a halo around the  west 
+margin  of  the  dolomitization-decalcification-jasperiod  zone.    The  veining  is 
+best  developed  within  the  basal  clastic  unit  of  the  over  thrust  section.  
+Copper oxide mineralization is developed within this alteration type.
+7.3
+P R O P E R T Y   M I N E R A L I Z A T I O N
+Drilling  on  the  Gunman  property  has  discovered  the  presence  of  zinc  and 
+silver  mineralization  over  a  strike  length  of  over  2000  feet.    The  RH  Zone 
+contains the strongest mineralization found on the property to date.  Oxidized, 
+carbonate  replacement  zones  at  RH  can  produce  spectacular  assays  over 
+down hole intervals > 100 feet.   
+ 
+Determination  of  oxide  mineralization  at  Gunman  has  been  done  by  XRD 
+analysis of assay sample pulps from RH zone holes GM-26, GM-27 and GM-
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+38
+March 2014
+29.    The  work  was  carried  out  by  Cominco  Ltd.  in  2001  as  part  of  a  due 
+diligence  process  of  the  Cypress  Gunman  project.    The  XRD  work  identified 
+smithsonite  as  the  most  abundant  zinc  bearing  mineral  along  with  accessory 
+hemimorphite.    The  full  results  of  the  Cominco  XRD  study  are  presented  in 
+Table 1 below. 
+ 
+ 
+ 
+ 
+Table 2  Cominco XRD Data on Selected Gunman Assay Pulps
+Hole ID
+From
+To
+Dolomite   Quartz   Calcite
+Smithsonite
+Hemimorphite
+Mica
+Smectite
+Barite
+Sphalerite
+ml
+mo
+s
+mo
+s
+mo
+mo
+mo
+mo
+s
+mo
+mo
+s
+mo
+mo
+ml
+vm/?
+s
+s
+vm/?
+vm/?
+vm/?
+mo
+mo
+s
+mo
+mo
+s
+ml
+mo
+ml
+s
+ml
+mo
+mo
+mo
+ml
+ml
+mo
+ml
+ml
+vm
+vm/?
+ml
+ml
+ml
+vm
+vm
+mo
+mo
+ml
+s
+ml
+ml
+mo
+ml
+s
+s
+mo
+ml
+ml
+s
+s
+mo
+mo
+mo
+GM-26
+105
+110
+GM-26
+145
+150
+GM-26
+165
+170
+GM-26
+205
+210
+GM-26
+210
+215
+GM-27
+145
+150
+GM-27
+150
+155
+GM-27
+155
+160
+GM-27
+195
+200
+GM-29
+GM-29
+GM-29
+25
+45
+60
+30
+50
+65
+GM-29
+150
+155
+GM-29
+155
+160
+GM-29
+160
+165
+Mineral Abundance Code
+a=Aundant
+s=Significant
+ml=minor
+vm=very minor
+vm/?=uncertain
+vm/?
+vm/?
+vm/?
+vm/?
+vm/?
+vm/?
+vm/?
+vm/?
+vm
+?
+?
+?
+vm/?
+vm/?
+vm
+vm/?
+mo
+Assay highlights from drilling of the identified 2500 foot strike length zone are 
+presented in Table  2 below.   The orange shaded assay  intervals are all from 
+the RH Zone in the central portion of the Gunman property.  A plan view map 
+of  all  holes  drilled  at  the  project  is  shown  as  figure  7-7  below.    The  dashed 
+yellow lines mark the position of cross section maps presented in figures 7-9, 
+7-10 and 7-11 below.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+39
+March 2014
+Outcrop  samples  and  drill  intercepts  of  mineralization  >5%  zinc  has  been 
+found at RH South.  The RH North Zone has had very little exploration.  The 
+zone  lies  approximately  1500  feet  north  of  the  RH  Zone  and  has  shown 
+multiple  zones  of  zinc  and  silver  mineralization  over  a  200  foot  interval  from 
+145.8  feet  to  352  feet  below  surface  in  drill  hole  GD-15.    The  mineralization 
+was intersected below approximately 140 feet of recent gravel cover.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+40
+March 2014
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+41
+March 2014
+Table 3
+Significant Mineralized Intercepts
+While  the  zinc  grade  of  the  mineralization  in  North  RH  GD-15  is  2%  or  less, 
+the multi zone nature and combined zinc and silver grades are very similar to 
+those found on the flanks of the bonanza zones at RH. 
+ 
+As an indicator of the continuation of the mineralized trend to the NNE, GD-15 
+is  very  encouraging.    Figure  7-8,  below,  shows  the  location  of  the  RH  North 
+Zone  relative  to  the  RH  South  and  RH  Zones.    The  base  map  shows  the 
+results  of  a  2001  soil  sampling  program  that  failed  to  detect  the  presence  of 
+the gravel covered RH North Zone.   Cypress intends to explore in the area of
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+42
+March 2014
+hole GD-15 for higher grade mineralization as well as continue step out drilling 
+along the developing mineral trend at the property.
+Figure 7-8   RH North Zone Position Relative to MMIA Soil Sample Survey Results. 
+ 
+A  series  of three  east west  cross  sections  showing  hole  traces  and  Zn%  assay 
+results through the central portions of the RH South Zone, the RH Zone and the 
+RH North Zone are presented below.  The UTM grid cell size is 100 meters on all 
+three sections.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+43
+March 2014
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+44
+March 2014
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+45
+March 2014
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+46
+March 2014
+8 . 0   D E P O S I T   T Y P E
+The  origins  of  mineralization  at  the  Gunman  Property  and  in  surrounding 
+districts  is  of  epigenetic  origin,  is  of  Tertiary  age  and  has  resulted  from 
+epithermal, hydrothermal fluids which have caused the observed alteration and 
+metal deposition.  At Bald Mountain and Eureka, gold and base metal deposits 
+are genetically related to quartz monzonite intrusions.  No intrusions have yet 
+been found  on the  Gunman Property  but a quartz  monzonite  in  the  Diamond 
+Range NNW of Gunman is associated with copper – gold mineralization. 
+ 
+The  Tertiary  age  features  related  to  intrusion  and  hydrothermal  alteration  of 
+carbonate rich wall rocks forms a NW trending belt of approximate width of 15 
+miles.    This  belt  passes  through  the  exposed  jasperoid  alteration  and  zinc-
+silver-copper-gold mineralization at Gunman.   
+ 
+The  timing  of  jasperoid  development  and  carbonate  replacement  style 
+mineralization  at  the  Gunman  shares  many  important  characteristics  with 
+those seen at the nearby Bald Mountain mining area and it is very  likely that 
+they  share  a  common  NW  trending,  deep  seated  fault  system  control.  
+Potentially important differences also exist. The ore deposits at Bald Mountain 
+are more gold rich than the base metal – precious metal mineralized zones at 
+Gunman.  Additionally, the ore deposits at Bald Mtn. are hosted by Cambrian 
+to  Mississippian  age  stratigraphy,  while  the  mineralization  at  Gunman  is 
+hosted by carbonate rocks mapped as being Permian in age.   
+ 
+Despite  the  age  difference  of  the  host  rocks,  however,  both  areas  display 
+jasperoid  alteration,  decalcification  and mineralization  of  silty  limestone  units.  
+Both  areas  contain  graphitic  carbonate  units  in  areas  below  the  level  of 
+oxidation.    The  grade  of  the  RH  Zone  at  Gunman  certainly  makes  a  strong 
+statement  about  the  suitability  of  the  Permian  age  rocks  there  to  host  high 
+grade, epigenetic, epithermal mineralization.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+47
+March 2014
+9 . 0   E X P L O R A T I O N
+Exploration experience at Gunman has conclusively shown that drilling is the 
+only  trustworthy  exploration  tool.    Western  Mining  Corporation  tried  Induced 
+polarization (IP), drilled an IP target west of the RH Zone and found nothing.  
+Cypress has tried Titan and other down hole probe electrical methods and has 
+shown  that  strong  conductors  are  related  to  graphite  alteration  of  carbonate 
+rocks below the level of oxidation.
+A  geophysical  method  that  would  potentially  be  of  use  would  be  detailed 
+gravity  as  that  would  be  very  helpful  in  estimating  the  thickness  of  recent 
+gravel cover rocks as well as indicate the geometry of large-scale faults in the 
+lithologic section.
+The  results  of  past  geophysical  survey  conducted  on  the  property  are 
+adequately detailed in reports as referenced in section 6.1 of this report.
+Soil  sampling  with  MMIA  assay  methods  has  also  been  tried  at  Gunman  as 
+shown  on  figure  6-1  and  more  importantly,  on  figure  7.3-1.    The  RH  North 
+Zone  was  discovered  in  2007  by  drilling  blind  through  gravel  cover  in  a 
+position  along  the  strike  projection  of  known  zones  of  mineralization  to  the 
+SSW.    The  MMI  assay  method  failed  to  detect  the  zinc  and  silver 
+mineralization through the range front gravel cover materials.   This being said, 
+soil  sampling  in  the  northern  portion  of  the  Gunman  property  in  an  area  of 
+rubble  crop  or  locally  sourced  float  could  be  very  effective  in  detecting 
+additional  mineralization  and  drill  targets  in  that  unexplored  portion  of  the 
+property.
+Reverse  circulation  and  diamond  drill  exploration  of  the  Gunman  property  is 
+outlined in the following sections and detailed in the 6.0 History section and in 
+section 10.0 of this report.
+9.1
+R E V E R S E   C I R C U L A T I O N   D R I L L I N G
+Cypress  has  conducted  abundant  reverse  circulation  drilling  on  the  Gunman 
+project.  The drilling has been done in a relatively small portion of the property 
+around the known zones of mineralization.  No property wide reconnaissance 
+drilling of any kind has been done.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+48
+March 2014
+See details in the 6.0 History Section earlier in this report and in the following 
+section of the report.
+9.2
+D I A M O N D   D R I L L I N G
+Cypress conducted limited diamond drilling the property in 2007.  See details 
+in  the  History  Section earlier  in  this  report  and  in  the following  section  of  the 
+report.
+Cypress has implemented a quality assurance and quality control program to 
+ensure  that  the  sampling  and  analysis  of  all  samples  is  conducted  in 
+accordance with the best possible practices.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+49
+March 2014
+1 0 . 0   D R I L L I N G
+10.1  W M C
+WMC  completed  26  holes  on  the  property  for  total  of  9335  feet.    Significant 
+widths  of  oxide  zinc  and  silver  mineralization  intersected  resulting  in  the 
+discovery  of  a  sediment  hosted  base  metal  –  precious  metal  system 
+underlying  surface  jasperoids  along  the  east  flank  of  the  Diamond  Range.  
+Zinc  was  not  of  interest  to WMC at  that  time  and  the  claims  were  allowed  to 
+lapse in 1996.
+10.2
+C Y P R E S S   V E N T U R E S
+Cypress began an aggressive R-C drill program in May, 2000 centered around 
+the  jasperoid  area.    The  program  was  highly  successful,  Cypress  began  to 
+discover zinc grades >10% over down hole intervals exceeding 60 feet  Mutli 
+ounce  silver  values  were  found  with  the  zinc.    The  RH  Zone  was  partially 
+outlined  by  September  2000  and  additional  discoveries  of  mutli  percent  zinc 
+and local percent level lead were made at RH South, 800 feet south of the RH 
+Zone. 
+ 
+Late  in  the  2000  drill  program,  Cypress  returned  to  the  RH  and  began  close 
+spaced  drilling  aimed  at  both  extension  and  infill.    Hole  GM-26  intersected  a 
+210  foot  down  hole  interval  grading  13.1%  zinc  and  126  g/t  silver.    This 
+intercept  includes  a  100  foot  interval  starting  at  a  depth  115  feet  that  grades 
+22.72%  Zn and  231.43  ppm  Ag.    Five foot sample  intervals  of up  to  37%  Zn 
+and 497 ppm Ag  (16 oz/ton Ag) were recorded in the hole. 
+ 
+Hole  GM-32  was  the  final  hole  of  the  program  and  was  located  as  a  30  foot 
+northward  extension  of  the  developing  high  grade  RH  Zone.    Hole  GM-32 
+returned  a  115  foot  interval  of  9.1%  Zn  and  51.1  ppm  Ag  starting  a  vertical 
+depth  of  50  feet.    Cypress  completed  32  reverse  circulation  drill  holes  for  a 
+total of 17,370 feet at Gunman during 2000. 
+ 
+Cypress returned to the property in 2004 to continue the drill exploration of the 
+1000  foot  strike  length  containing  the  mineralized  RH  and  RH  South  zones 
+identified from the combined WMC and Cypress drilling programs.  The other 
+main  goal  of  the  2004  R-C  drill  program  was  to  test  the  RH  NW  Target 
+developed from the results of the MMIA soil sample grid done in 2001.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+50
+March 2014
+The  2004  drill  program  totaled  32  holes  and  a  total  footage  of  8565.    The 
+holes  were  of  shallow  depth  and  most  were  angled  at  targets  at  45  to  60 
+degrees.    Extension  drill  targets  on  the  N  and  NW  flank  of  the  RH  Zone 
+returned wide intervals of low grade zinc-silver mineralization but no extension 
+of the RH high grade zone was achieved.
+A  series  of  angle  holes  were  drilled  to  the  west  to  test  the  area  immediately 
+under the MMIA NW RH target.  These holes intersected low grade zinc and 
+silver  mineralization  in  the  upper  portion  but  underlying,  oxidized  carbonate 
+units  were  essentially  barren  in  positions  under  the  RH  NW  target  MMIA 
+anomaly.  Hole GM04-06 intersected 30 feet starting at surface grading 0.24% 
+Zn and 2.72 ppm Ag.
+Drilling in the RH South area in 2004 found several zones of moderately well-
+developed  mineralization  in  positions  along  the  south  and  east  flank  of  the 
+zone.  Hole GM04-24 intersected a 65 foot interval of 0.40% Zn and 140 ppm 
+Ag starting at 80 feet down hole. 
+ 
+ 
+Table  3,  below  presents  UTM  NAD83  collar  location,  collar  elevation,  hole 
+inclination,  hole  azimuth  and  hole  completion  depth  every  hole  drilled  on  the 
+property  by  WMC  and  Cypress  Development  Corp.    The  total  footage  is 
+summed by year.  Assay highlights from all completed drilling of the property 
+are presented in table one in section 7.3 of this report.
+Table 4: Gunman RC and Core Drill Hole Inventory 
+               WMC and Cypress Gunman Drill Exploration Programs 1990, 2000, 2004, 2007
+Easting
+Northing
+Elevation
+Year  Company  Hole No.  Drill Type
+nad83zone11
+nad83zone11
+1990
+1990
+1990
+1990
+1990
+1990
+1990
+1990
+1990
+1990
+1990
+1990
+1990
+1990
+WMC
+WMC
+WMC
+WMC
+WMC
+WMC
+WMC
+WMC
+WMC
+WMC
+WMC
+WMC
+WMC
+WMC
+BC-1
+BC-2
+BC-3
+BC-4
+BC-5
+BC-6
+BC-7
+BC-8
+BC-9
+BC-10
+BC-11
+BC-12
+BC-13
+BC-14
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+607162
+606781
+606651
+606676
+606611
+606670
+606730
+606717
+606713
+606775
+610885
+610193
+609121
+609113
+4414231
+4414344
+4414390
+4413941
+4413970
+4413978
+4413952
+4414112
+4413573
+4411758
+4415055
+4414815
+4418304
+4417170
+Feet
+6317
+6478
+6568
+6535
+6590
+6547
+6505
+6498
+6470
+6160
+6180
+6180
+6180
+6180
+Dip
+90
+45
+60
+90
+90
+90
+60
+90
+90
+90
+90
+90
+90
+90
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+51
+Az
+0
+290
+250
+0
+0
+0
+280
+0
+0
+0
+0
+0
+0
+0
+Depth ft
+500
+400
+400
+300
+300
+220
+200
+300
+300
+300
+500
+495
+400
+400
+March 2014
+1990
+1990
+1990
+1990
+1990
+1990
+1990
+1990
+1990
+1990
+1990
+1990
+WMC
+WMC
+WMC
+WMC
+WMC
+WMC
+WMC
+WMC
+WMC
+WMC
+WMC
+WMC
+BC-15
+BC-16
+BC-17
+BC-18
+BC-19
+BC-20
+BC-21
+BC-22
+BC-23
+BC-24
+BC-25
+BC-26
+2000
+Cypress
+GM-01
+2000
+Cypress
+GM-02
+2000
+Cypress
+GM-03
+2000
+Cypress
+GM-04
+2000
+Cypress
+GM-05
+2000
+Cypress
+GM-06
+2000
+Cypress
+GM-07
+2000
+Cypress
+GM-08
+2000
+Cypress
+GM-09
+2000
+Cypress
+GM-10
+2000
+Cypress
+GM-11
+2000
+Cypress
+GM-12
+2000
+Cypress
+GM-13
+2000
+Cypress
+GM-14
+2000
+Cypress
+GM-15
+2000
+Cypress
+GM-16
+2000
+Cypress
+GM-17
+2000
+Cypress
+GM-18
+2000
+Cypress
+GM-19
+2000
+Cypress
+GM-20
+2000
+Cypress
+GM-21
+2000
+Cypress
+GM-22
+2000
+Cypress
+GM-23
+2000
+Cypress
+GM-24
+2000
+Cypress
+GM-25
+2000
+Cypress
+GM-26
+2000
+Cypress
+GM-27
+2000
+Cypress
+GM-28
+2000
+Cypress
+GM-29
+2000
+Cypress
+GM-30
+2000
+Cypress
+GM-31
+2000
+Cypress
+GM-32
+2004
+Cypress
+GM04-01
+2004
+Cypress
+GM04-02
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+611493
+606740
+606752
+606685
+610214
+606781
+606774
+606742
+606667
+606667
+606717
+606680
+606737
+606737
+606644
+606644
+606431
+606464
+606735
+606734
+606733
+606761
+606732
+606735
+606704
+606703
+606636
+606636
+606669
+606701
+606608
+606607
+606682
+606682
+606725
+606729
+606728
+606727
+606726
+606719
+606719
+606722
+606718
+606719
+606684
+606686
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+52
+4417211
+4414358
+4414368
+4414228
+4416773
+4414344
+4414332
+4414301
+4414102
+4414102
+4414112
+4414188
+4414345
+4414345
+4414155
+4414155
+4413651
+4413668
+4414362
+4414378
+4414327
+4414331
+4414298
+4414410
+4414357
+4414391
+4414386
+4414386
+4414359
+4414300
+4414153
+4414128
+4414156
+4414156
+4414319
+4414337
+4414353
+4414369
+4414387
+4414378
+4414360
+4414342
+4414330
+4414395
+6180
+6505
+6495
+6465
+6180
+6478
+6478
+6478
+6545
+6545
+6498
+6510
+6505
+6505
+6539
+6539
+6730
+6705
+6517
+6510
+6504
+6487
+6478
+6510
+6527
+6535
+6578
+6578
+6547
+6495
+6570
+6595
+6510
+6510
+6496
+6505
+6515
+6523
+6522
+6522
+6518
+6510
+6507
+6525
+90
+90
+90
+90
+90
+60
+45
+60
+45
+90
+45
+90
+Total 
+1990
+90
+45
+90
+45
+45
+45
+90
+90
+90
+90
+90
+90
+90
+90
+90
+55
+90
+90
+90
+90
+90
+45
+90
+90
+90
+90
+90
+90
+90
+90
+90
+90
+4414438
+4414438
+6494.4
+6494.4
+Total 
+2000
+70
+50
+0
+0
+0
+0
+0
+290
+290
+280
+255
+0
+255
+0
+0
+270
+0
+270
+70
+70
+0
+0
+0
+0
+0
+0
+0
+0
+0
+365
+500
+425
+400
+150
+500
+300
+200
+440
+400
+400
+240
+9335 (ft)
+440
+525
+525
+545
+500
+480
+800
+505
+505
+805
+605
+745
+475
+705
+650
+90
+1005
+0
+0
+0
+0
+0
+270
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+705
+605
+705
+545
+345
+505
+345
+605
+340
+485
+200
+445
+505
+505
+405
+305
+75
+80
+17365 (ft)
+350
+280
+March 2014
+2004
+Cypress
+GM04-03
+2004
+Cypress
+GM04-04
+2004
+Cypress
+GM04-05
+2004
+Cypress
+GM04-06
+2004
+Cypress
+GM04-07
+2004
+Cypress
+GM04-08
+2004
+Cypress
+GM04-09
+2004
+Cypress
+GM04-10
+2004
+Cypress
+GM04-11
+2004
+Cypress
+GM04-12
+2004
+Cypress
+GM04-13
+2004
+Cypress
+GM04-14
+2004
+Cypress
+GM04-15
+2004
+Cypress
+GM04-16
+2004
+Cypress
+GM04-17
+2004
+Cypress
+GM04-18
+2004
+Cypress
+GM04-19
+2004
+Cypress
+GM04-20
+2004
+Cypress
+GM04-21
+2004
+Cypress
+GM04-22
+2004
+Cypress
+GM04-23
+2004
+Cypress
+GM04-24
+2004
+Cypress
+GM04-25
+2004
+Cypress
+GM04-26
+2004
+Cypress
+GM04-27
+2004
+Cypress
+GM04-28
+2004
+Cypress
+GM04-29
+2004
+Cypress
+GM04-30
+2004
+Cypress
+GM04-31
+2004
+Cypress
+GM04-32
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+2007
+Cypress
+GD-01
+NQ Core
+2007
+Cypress
+GD-02
+NQ Core
+2007
+Cypress
+GD-03
+NQ Core
+2007
+Cypress
+GD-04
+NQ Core
+2007
+Cypress
+GD-05
+NQ Core
+2007
+Cypress
+GD-06
+NQ Core
+2007
+Cypress
+GD-07
+NQ Core
+2007
+Cypress
+GD-08
+NQ Core
+2007
+Cypress
+GD-09
+NQ Core
+2007
+Cypress
+GD-10
+NQ Core
+2007
+Cypress
+GD-11
+NQ Core
+2007
+Cypress
+GD-12
+NQ Core
+2007
+Cypress
+GD-13
+NQ Core
+2007
+Cypress
+GD-14
+NQ Core
+2007
+Cypress
+GD-15
+NQ Core
+2007
+Cypress
+GD-16
+NQ Core
+2007
+Cypress
+GD-17
+NQ Core
+606699
+606680
+606703
+606693
+606680
+606696
+606681
+606681
+606645
+606644
+606691
+606680
+606682
+606681
+606718
+606717
+606734
+606745
+606750
+606773
+606690
+606690
+606708
+606710
+606611
+606708
+606729
+606734
+606656
+606727
+606734
+606722
+606722
+606722
+606722
+606722
+606722
+606721
+606704
+606704
+606704
+606727
+606736
+606733
+606724
+606724
+606719
+4414648
+4414643
+4414784
+4414776
+4414900
+6494.4
+6494.4
+6510.8
+6527.2
+6510.8
+4414908
+6500.96
+4414900
+4414900
+6510.8
+6510.8
+4414930
+6550.16
+4414930
+6550.16
+4414926
+6487.84
+4414643
+4414643
+4414643
+4414425
+4414425
+6494.4
+6494.4
+6494.4
+6510.8
+6510.8
+4414423
+6497.68
+4414318
+4414289
+4414116
+4414108
+4414108
+4414408
+4414408
+4414454
+4414415
+4414452
+4414602
+4414723
+4414374
+4414329
+4414141
+4413959
+4413851
+4413761
+4413566
+4413402
+4412970
+4414375
+4414375
+4414375
+4414402
+4414329
+4414329
+4414784
+4414784
+4414880
+6478
+6478
+6501
+6527
+6527
+6537
+6537
+6593
+6530
+6521
+6488
+6557
+6524
+6500
+6501
+6494
+6510
+6480
+6473
+6465
+6360
+6530
+6530
+6530
+6517
+6499
+6501
+6511
+6511
+6527
+60
+45
+45
+45
+45
+60
+90
+60
+90
+45
+45
+90
+45
+60
+90
+60
+60
+90
+90
+90
+90
+45
+90
+70
+90
+45
+90
+90
+45
+90
+Total 
+2004
+90
+90
+90
+90
+90
+90
+75
+65
+65
+70
+67
+45
+70
+50
+90
+60
+90
+270
+70
+270
+290
+270
+250
+0
+250
+0
+260
+260
+0
+260
+260
+0
+255
+260
+0
+0
+0
+0
+250
+0
+80
+0
+260
+0
+0
+260
+0
+0
+0
+0
+0
+0
+0
+185
+180
+280
+90
+131
+50
+270
+280
+0
+195
+0
+250
+200
+630
+470
+220
+195
+210
+180
+160
+590
+300
+200
+170
+90
+200
+200
+250
+400
+400
+320
+250
+150
+230
+280
+230
+200
+250
+300
+200
+210
+8565 (ft)
+1896
+538
+728
+554
+748
+348
+938
+1148
+646
+1158
+607
+322
+400
+177
+456
+443
+407
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+53
+March 2014
+Total 
+2007
+11516 (ft)
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+54
+March 2014
+1 1 . 0   S A M P L E   P R E P A R A T I O N ,   A N A L Y S I S   &
+S E C U R I T Y
+11.1
+S A M P L E   P R E P A R A T I O N   A N D   A S S A Y I N G
+For  reverse  circulation  drilling,  sampling  is  done  at  the  rig  by  continuously 
+running  all  drill  cutting  through  a  splitter  in  order  to  obtain  a  representative 
+sample of reasonable size for submission to the assay lab.  The drilling of the 
+RH  Zone  in  2000  was  done  dry,  without  the  injection  of  water,  as  is  not 
+required by OSHA.  The dry cutting for each 5 foot interval were dumped from 
+a  catchment  container  on  the  rig  through  a  standard  Gilson  splitter.    The 
+portion  of  the  cuttings  split  to  assayed  was  caught  in  a  metal  pan  below  the 
+splitter which was then emptied into a sample bag for shipment to the lab.
+When drilling with water injection in 2004, the muddy water  and cutting slurry 
+was continuously run through a rotating cyclone splitter attached to the rig and 
+the spit portion was caught directly into the sample shipment bag attached to 
+the cyclone.
+In  either  case,  series  of  5  foot  sample  splits  in  their  own  sealed  bags  were 
+then placed in larger rice bags to provide extra protection during shipment to 
+the sample prep lab in Elko.
+For NQ drill core in 2007 the following procedures were used.  Samples are all 
+less than or equal to 5 feet long.  Broken pieces of core are first fitted together 
+end  to  end,  and  a  cutting  reference  line  is  marked  along 
+the  core 
+perpendicular to bedding.  The sample start and end points are clearly marked 
+with  lumber  crayon.   The  core  is  transferred  to  the  cutting  room,  where  it  is 
+sawn  along  the  reference  line  and  both  halves  are  returned  to  the  core 
+box.  The technician then collects the samples by taking the back half of core 
+for each marked interval and placing the half core in standard plastic sample 
+bags.    A  unique  sample  tag  is  included  in  the  bag  with  each  sample.    The 
+sample number is also written on the outside of the plastic sample bag. 
+ 
+The  plastic  sample  bags  are  bundled  together  in  large  woven  polyethylene 
+sacks (rice bags) which are sealed at the cutting site.  The samples were then 
+taken to ALS Chemex in Reno by Cypress personnel.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+55
+March 2014
+11.2
+Q U A L I T Y   A S S U R A N C E   &   Q U A L I T Y   C O N T R O L
+Certified  reference  materials  were  used  by  Cypress  in  2004  and  2007  to 
+provide  assay  standards  as  part  of  the  QA/QC  procedures  for  the  Gunman 
+exploration programs.
+Standard reference samples of known precious and base metal concentration 
+are  inserted  by  Cypress  in  the  sample  sequences  at  a  rate  of  one  standard 
+sample per 30 core samples.  These standards are purchased in durable, pre-
+sealed  aluminum  packets.    The  assay  results  of  the  sample  standards  have 
+been  monitored  for  all  assay  batches  of  samples  from  the  property.      These 
+results  have  been  found  to  fall  within  the  expected  range  of  expected 
+variability,  as  provided  by  the  manufacturer  of  the  standards.    No  systematic 
+errors in sample assay results are apparent or suspected.
+Sample  repeats  are  carried  out  as  a  process  check  by  the  laboratory.    After 
+the sample has been crushed and pulverized, 2 subsamples are selected for 
+analysis.    Sample  duplicates  are  best  used  to  monitor  the  analytical  method 
+used  by  the  laboratory,  and  should  not  be  relied  upon  to  monitor  the  overall 
+quality  control  of  the  sampling  program.    The  variability  between  original 
+assays and repeat assays should be low.
+No  sample  duplicates  from  split  core  from  the  Gunman  have  been  done  but 
+the  remaining  half  of  core  from  the  2007  drill  program  is  available  for  any 
+future QA/QC programs which may be needed.
+11.3
+S E C U R I T Y
+All R-C drill samples were bagged for shipment right at the drill site and were 
+collected several times a week by the sample prep lab in Elko.  NQ drill core 
+was transported from the drill to the logging facility by Cypress personnel.  The 
+logging facility consisted of a large metal building in Eureka, Nevada.
+After geological logging of the core it is transferred to the cutting room, where 
+it  is  sawn  in  half.   The  technician  then  collects  the  samples  for  each  marked 
+interval  and  placing  the  half  core  in  standard  plastic  sample  bags.    A  unique 
+sample  tag  is  included  in  the  bag  with  each  sample.    The  sample  number  is 
+also written on the outside of the plastic sample bag.  The plastic sample bags 
+are  bundled  together  in  large  woven  polyethylene  sacks  (rice  bags)  which
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+56
+March 2014
+were sealed at cutting site in the building.  The samples were taken weekly by 
+truck to Reno for assay.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+57
+March 2014
+1 2 . 0   M I N E R A L   P R O C E S S I N G   &   M E T A L U R G I C A L
+T E S T I N G
+Cypress has not carried out any metallurgical work on the Gunman property.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+58
+March 2014
+1 3 . 0   M I N E R A L   R E S O U R C E   E S T I M A T E S
+No resource estimates have been done by Cypress for the Gunman property.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+59
+March 2014
+1 4 . 0   M I N E R A L   R E S E R V E   E S T I M A T E S
+This section is not applicable.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+60
+March 2014
+1 5 . 0   M I N I N G   M E T H O D S
+This section is not applicable.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+61
+March 2014
+1 6 . 0   R E C O V E R Y   M E T H O D S
+Cominco expressed interest in the Gunman project in early 2001.  As part of their due 
+diligence,  Cominco  ran  a  series  of  XRD  analysis  on  sample  pulps from  5 foot  RC  drill 
+cuttings  from  three  RH  Zone  drill  holes  to  determine  the  mineralogy  of  the  oxidized 
+mineralization at Gunman.  The XRD work showed that smithsonite was the main zinc 
+bearing  mineral  in  the  oxide  intercepts.    Another  zinc  oxide  mineral,  hemimorphite  is 
+also present.   
+ 
+Following  completion  of  the  XRD  study  Cominco  proceeded  with  a  leach  recovery 
+testing  on  5  foot  sample  rejects  from  a  long,  continuous  interval  from  high  grade  hole 
+GM-26. The samples were subjected to a bench scale acetic acid leach assay method.  
+The results are shown in Table 4 below in direct comparison to ICP assays of the same 
+samples.
+Acetic Acid Leach Test Results vs. ICP Assays
+Table 5
+Hole
+From(ft
+To(ft
+Assays
+ICP
+Acetic Acid
+Leach 
+Assays
+) 
+55 
+60 
+65 
+70 
+75 
+80 
+85 
+90 
+95 
+100 
+105 
+110 
+115 
+120 
+125 
+130 
+135
+Zn% 
+2.06 
+2.59 
+1.17 
+3.06 
+2.66 
+3.91 
+8.05 
+19.91 
+18.25 
+14.91 
+10.49 
+2.79 
+2.16 
+17.15 
+5.68 
+14.06 
+19.16
+Zn% 
+1.38 
+1.52 
+0.88 
+2.43 
+2.12 
+3.36 
+7.13 
+16.78 
+15.54 
+12.68
+9.5 
+2.48 
+1.68 
+13.95 
+5.09 
+12.52 
+16.48
+ID
+GM-26 
+GM-26 
+GM-26 
+GM-26 
+GM-26 
+GM-26 
+GM-26 
+GM-26 
+GM-26 
+GM-26 
+GM-26 
+GM-26 
+GM-26 
+GM-26 
+GM-26 
+GM-26 
+GM-26
+) 
+50 
+55 
+60 
+65 
+70 
+75 
+80 
+85 
+90 
+95 
+100 
+105 
+110 
+115 
+120 
+125 
+130
+Hole
+From(ft
+ID
+)
+GM-26 
+GM-26 
+GM-26 
+GM-26 
+GM-26 
+GM-26 
+GM-26 
+GM-26 
+GM-26 
+GM-26 
+GM-26 
+GM-26 
+GM-26 
+GM-26 
+GM-26 
+GM-26 
+Interval Averages
+135 
+140 
+145 
+150 
+155 
+160 
+165 
+170 
+175 
+180 
+185 
+190 
+195 
+200 
+205 
+210
+To(ft) 
+140 
+145 
+150 
+155 
+160 
+165 
+170 
+175 
+180 
+185 
+190 
+195 
+200 
+205 
+210 
+215
+ICP
+Assays
+Zn% 
+25.5 
+28.02 
+35.26 
+28.32 
+24.28 
+24.16 
+18.99 
+23.8 
+33.45 
+22.99 
+29.14 
+23.59 
+23.41 
+37.44 
+7.34 
+12.62
+Acetic Acid
+Leach
+Assays Zn%
+23.17 
+27.49 
+34.4 
+27.39 
+22.92 
+20.87 
+15.71 
+20.22 
+32.84 
+21.97 
+28.16 
+21.93 
+22.26 
+36.48 
+6.64 
+7.63
+16.56%
+15.02%
+The assay comparison between ICP methods and a simple acetic acid leach 
+clearly show that excellent recoveries of zinc could be obtained by acetic acid 
+treatment of zinc oxide mineralization at Gunman.  The average zinc grade in
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+62
+March 2014
+the  ICP  assays  is  16.56%  while  in  the  acetic  acid  leach  assay  method  the 
+average  grade  is  slightly  lower  at  15.02%.    The  comparison  sample  series 
+from  hole  GM-26  includes  lower  grade  zinc  mineralization,  <5%  zinc, 
+moderate  grade  zinc  mineralization,  <10%  zinc  and  high  grade  zinc 
+mineralization,  >10%  zinc.    The  relative  recovery  of  zinc  with  the  acetic  acid 
+method  v.  ICP  assays  is  more  erratic  for  the  lower  grade  material  vs.  the 
+higher grade material.
+The  data  indicate  that  a  simple  heap  leach  operation  could  very  likely  be 
+effective  in  recovering  zinc  from  oxide  mineralization  at  Gunman.    The  data 
+above  represent  only  a  simple  bench  scale  study  on  small  sample  sizes.    A 
+more  detailed  study  will  be  required  to  confirm  and  expand  upon  the  very 
+encouraging recovery data obtained by the simple acetic leach test.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+63
+March 2014
+1 7 . 0   P R O J E C T   I N F R A S T R U C T U R E
+Project  infrastructure  currently  consists  of  the  state  and  county  road  system, 
+which  allows  ready  access  to  the  property.    No  other  infrastructure  was 
+planned or required at the time this report was prepared.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+64
+March 2014
+1 8 . 0   M A R K E T   S T U D I E S
+This section is not applicable.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+65
+March 2014
+1 9 . 0   E N V I R O N M E N T A L   S T U D I E S ,   P E R M I T S ,   &
+S O C I A L   O R   C O M M U N I T Y   I M P A C T S
+Cypress has not carried out any environmental studies relevant to this report’s 
+content  nor  that  it  has  undertaken  any  studies  in  respect  of  any  social  or 
+community impacts that would relate to its past exploration of the property or 
+to  any  further  exploration  it  might  carry  out  pursuant  to  recommendations 
+contained  in  this  report.    Cypress  has  indicated  that  it  does  not  need  any 
+environmental  permits  that  relate  to  current  activities  on  its  properties  and  is 
+currently in compliance with all local and federal regulations and requirements 
+relating to its activities on the property.   
+ 
+Under  federal  regulations  and  requirements,  Cypress  does  not  need  to  carry 
+out  any  environmental,  social  or  community  impact  studies  or  acquire  any 
+related permits, permissions or agreements to continue with exploration of the 
+property pursuant to recommendations contained in this report.  
+ 
+Cypress  has  conducted  its  exploration  at  the  property  in  accordance  with 
+environmental  standards  and  compliance  requirements  and  is  not  aware  of 
+any environmental issues related to its activities at the site.   Cypress is in the 
+process  of  obtaining  a  routine  permit  to  conduct  the  drilling  activities 
+recommend in this report.  Cypress will be required to post a reclamation bond 
+in the amount of $11,500 that will be returned to Cypress once all reclamation 
+of disturbance is completed.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+66
+March 2014
+2 0 . 0   C A P I T A L   &   O P E R A T I N G   C O S T S
+This section is not applicable.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+67
+March 2014
+2 1 . 0   E C O N O M I C   A N A L Y S I S
+This section is not applicable.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+68
+March 2014
+2 2 . 0   A D J A C E N T   P R O P E R T I E S
+The  Gunman  is  surrounded  by  federal  lands  under  BLM  administration.  
+Cypress  has  not  done  a  detailed  land  status  study  recently  so  is  uncertain 
+whether areas surrounding the current 55 claim clock are claimed by others or 
+if  they  are  currently  open  to  location.    Barrick  Gold  had  much  of  the  area 
+surrounding  the  core  of  the  Cypress  claim  block  staked  from  2006  through 
+2012.    Barrick  allowed  portions  of  this  block  to  lapse  as  of  September  1st, 
+2012.  Cypress has been steadily adding to land position as targets evolve.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+69
+March 2014
+2 3 . 0   O T H E R   R E L E V A N T   D A T A   &   I N F O R M A T I O N
+Cypress's  Gunman  property  shares  many  similarities  with  nearby  precious-
+metal  producing  mines.    Many  of  the  current  mines  in  the  area  had  an  early 
+history  of  precious  metal  and  base  metal  production  from  high  grade, 
+carbonate  replacement  style  ore  bodies  followed  by  discovery  and  mining  of 
+more disseminated, gold rich zones within close proximity to the historic, high 
+grade, replacement style zones.   
+ 
+The  Gunman  project  is  currently  being  explored  for  zinc  and  silver  oxide 
+mineralization  based  on  the  exploration  success  for  these  metals  since 
+discovery  of  the  area  in  1990.    Cypress  intends  to  extend  this  type  of 
+mineralization  along  strike  while  also  closely  monitoring  gold  and  trace 
+element  data for  any  indications  of  a  potentially  more  gold  rich  portion  of  the 
+system.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+70
+March 2014
+2 4 . 0   I N T E R P R E T A T I O N   &   C O N C L U S I O N S
+Based  on  observations  made  from  outcrop  as  well  as  R-C  and  core  drill 
+exploration,  Cypress  is  confident  that  high  grade  zinc  and  silver  oxide 
+mineralization  on  the  Gunman  property  represents  the  oxidized  remains  of 
+original  carbonate  replacement  deposits. 
+  These  oxidized,  very  well 
+mineralized zones are very similar to high grade base metal  – precious metal 
+deposits  mined  historically  at  Eureka  and  Bald  Mountain.    The  presence  of 
+significant  gold  mineralization  at  Gunman  has  not  been  established.    Known 
+zones of >10% Zinc and multi ounce per ton Silver over intervals of >100 feet 
+do  not  contain  gold  values  >200  ppb  and  the  average  gold  grade  would  be 
+<15 ppb.  The Gunman appears to represent of very zinc and silver rich end 
+member  within  a  region  of  abundant,  high  grade  examples  of  the  carbonate 
+replacement class of ore deposits.
+The  pattern  of  the  of  Tertiary  age  intrusions,  large  sinter  mounds  and 
+jasperiod  alteration  strongly  suggests  a  district-scale,  NW  trending  zone  of 
+focused  paleo  hot  spring  activity,  hydrothermal  alteration  and  local  precious 
+metal  –  base  metal  mineralization  passes  through  the  Gunman  project  area 
+(Figure 24-1).  This pattern suggests that the northern portion of the Gunman 
+property should be explored for further evidence of mineralization.
+High  quality  exploration  targets  remain  on  the  property.    These  include 
+detailed  targets  in  the  RH  and  RH  North  areas.    The  area  around  north 
+extension hole GD-15 needs additional drilling to explore for high grade.  The 
+fault  –  fracture  zone  along  the  axis  of  the  syncline  west  of  the  RH  Zone 
+remains unexplored
+The NNE strike extension of the series of RH zones has barely been started 
+and a much larger extension target could exist along that trend clear into the 
+northeastern portion of the property.  Outcrops of the limestone conglomerate 
+cap  rock  in  the  far  northern  portion  of  the  property  at  the  very  least  indicate 
+that the target silty limestone stratigraphy is at very explore able levels in that 
+area.  No surface sampling of the northern area has ever been done by either 
+WMC in the early 1990’s or by Cypress.  This target area is shown on figure 
+24-2.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+71
+March 2014
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+72
+March 2014
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+73
+March 2014
+2 5 . 0   R E C O M M E N D A T I O N S
+The  very  high  grade  of  zinc  and  silver  mineralization  in  the  RH  Zone  is  a 
+compelling  reason  to  continue  exploration  on  the  Gunman  property.    Four 
+exploration  targets  and  one  resource  evaluation  target  have  been  identified 
+and drilling/exploration recommendations are made for each.  The five targets 
+are:
+1.  North  RH.    Hole  GD-15  intersected  multiple  zones  of  zinc-silver 
+mineralization in a position approximately 1300 feet north of the RH 
+Zone.  The  grade  of  the  mineralization  in  the  hole  is  from  0.5  to 
+2.0%  Zn  and  has  accompanying  Ag  mineralization  in  the  5  to  15 
+ppm  range.    This  low  grade  mineralization  is  very  similar  to  that 
+seen on both the east and west flanks of the RH Zone.  1500 feet of 
+RC drilling in a position north and east of GD-15 is recommended.
+2.  Confirmation drilling of the high grade RH Zone is recommended in 
+order  to  provide high quality  data for  a  resource  estimation and  to 
+obtain  large  samples  of  mineralization  for  metal  recovery  studies.  
+Approximately 1000 feet of RC drilling is needed.
+3.  Down-dip  exploration  of  the  east  limb  of  the  syncline.    No 
+systematic  exploration  of  the  deeper  extensions  of  the  RH  Zone 
+has been done.  It is recommended that an east-west fence of hole 
+be completed into the footwall carbonaceous shale which underlies 
+the known mineralization at RH.  A total of 1800 feet of RC drilling 
+is recommended.
+4.  Syncline  axis  exploration  west  of  the  RH  Zone.    Surface  mapping 
+and analysis of detailed DEM and satellite imagery indicate that the 
+axis of the syncline at Gunman is strongly fractured.  No drilling of 
+the  axis  of  the  fold  has  been  done.    Drill  testing  of  the  target  in  a 
+position down-dip of the RH Zone would require two holes totalling 
+1400 feet.
+5.  Surface sampling of carbonate rubble crop in the Far North Target 
+Area  is  strongly  recommended  as  preliminary  observations  made 
+during  the  staking  of  the  north  extension  claims  indicate  that 
+abundant, altered carbonate rock rubble crop or near source float is 
+present in a position roughly on strike with the known mineralization 
+to the south.  Identification of significant Zn or Ag mineralization in 
+the  north  portion  of  the  property  would  immediately  increase  the
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+74
+March 2014
+scope of the project.  The sampling could be  either by soil sample 
+grid, or abundant rock chip sampling, or both.
+A  phased  approach  to  the  recommended  work  is  the  most  efficient  way  to 
+proceed.    Phase  1  would  include  items  1  and  2  above,  the  very  important 
+exploration  drilling  around  RH  North  discovery  hole  GD-15  and 
+the 
+confirmation/  bulk sample drilling of the RH Zone.  This would amount to the 
+drilling  of  8  -  10  holes  and  a  total  of  2200  feet  of  R-C  drilling.    The  phase  1 
+program should also include surface sampling in the Far North Target Area as 
+this area has the potential to materially change the scope of the project with at 
+a very modest cost.
+Phase  1  drilling  and  surface  sampling  is  estimated  to  cost  approximately 
+$90,000 all in right through to a final report on results.
+The  drilling  of  the  down  dip  RH  target  and  the  syncline  axis  fracture  zone 
+target  along  with  follow-up  and  further  extension  drilling  at  RH  North  is 
+recommended  to  form  the  core  exploration  work  of  a  Phase  2  program.  
+Drilling  of  any  high  quality  targets  that  could  result  from  the  Phase  1  surface 
+sampling  at  the  Far  North  Target  area  could  also  be  added  to  Phase  2.  
+Priorities  will  be  identified  based  on  Phase  1  results.    The  Phase  2  program 
+would require 4000 feet of R-C drilling and is estimated to cost $135,000.
+A total expenditure in the Phase 1 and 2 programs of approximately $225,000 
+would advance the core RH South, RH and RH North portion of the property to 
+a  state  of  readiness  for  a  resource  calculation  as  well  as  conduct  important 
+extension exploration in the Far North Exploration area.
+Cypress  Development’s  Gunman  project  is  well  located  on  the  margin  of  the 
+Carlin  Trend  and  contains  zones  of  carbonate  replacement  style,  high  grade 
+zinc  and  silver  oxide  mineralization.    Cypress  intends  to  extend  this  type  of 
+mineralization  along  strike  while  also  closely  monitoring  gold  and  trace 
+element  data for  any  indications  of  a  potentially  more  gold  rich  portion  of  the 
+system.
+High  quality  exploration  targets  remain  on  the  property.    These  include 
+detailed  targets  in  the  RH  and  RH  North  areas.    The  area  around  north 
+extension hole GD-15 needs additional drilling to explore for high grade.  The 
+fault  –  fracture  zone  along  the  axis  of  the  syncline  west  of  the  RH  Zone 
+remains unexplored.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+75
+March 2014
+the  property  remains  essentially  unexplored.  
+The  northern  portion  of 
+Exploration of this area along the projection of the NNE mineral trend presents 
+a very attractive grass roots target (Figure 24-2).
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+76
+March 2014
+2 6 . 0   D A T E   &   S I G N A T U R E   P A G E
+This report titled “Gunman National Instrument 43-101 Compliant Technical Report” and
+dated March 2014, was prepared and signed by the following authors:
+Date effective as of March 17, 2014.
+Robert D. Marvin  PGeo - CPG
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+77
+March 2014
+C E R T I F I C A T E
+I reside at 35 Chuck Wagon Road, Reno Nevada.
+I, Robert David Marvin., do hereby certify that: 
+ 
+1. 
+ 
+2.
+I  am  Principle  of Red Rock Exploration  LLC  a firm  dealing in  economic  geology  consulting 
+and am Exploration Manager for Cypress Ventures Corp.
+3.
+4.
+5.
+6.
+7. 
+ 
+8. 
+ 
+9. 
+ 
+10.
+11.
+12.
+This  certificate  accompanies  the  report  titled  "Gunman  National  Instrument  43-101 
+Compliant Technical Report " dated March 17, 2014.
+I am a graduate from the University of New Mexico with a Bachelors Degree with Distinction 
+(1984), I completed 15 credit hours of post graduate education in geology at the University of 
+Nevada and I have practised my profession continuously since 1985.
+I  am  a  Practising  Member  in  good  standing  of  both  the  Association  of  Professional 
+Geologists  of  Ontario  (APGO)  (Registration  #2021)  and  Certified  Professional  Geologist 
+(CPG).
+I am a "Qualified Person" for the purpose of NI 43-101. My relevant experience includes 30 
+years of experience in mineral exploration and mine geology.  I have been on the ground as 
+a geologist on hundreds of exploration projects and producing mines,
+I directly managed the exploration of the Gunman property since 2001.
+I am responsible for all sections of this technical report.
+I am not independent of the issuer as described in Section 1.5 of NI 43-101.
+I  have  not  had  any  prior  involvement  with  the  property  that  is  the  subject  of  this  technical 
+report prior to being asked to manage the exploration in 2010.
+I have read NI 43-101, Form 43-101F1 and have prepared this technical report in compliance 
+with NI 43-101, Form 43-101F1 and generally accepted Canadian mining industry practice.
+As of the date of the technical report, to the best of my knowledge, information and belief, the 
+technical  report  contains  all  scientific  and  technical  information  that  is  required  to  be 
+disclosed to make the technical report not misleading.
+Robert D. Marvin 
+March 17th, 2014
+signed by
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+78
+March 2014
+R E F E R E N C E S
+Evaluation of the Gunman Project, Nevada, USA 
+Private Report Commissioned by Cypress Development Corporation
+Busch D. J. (2001)  
+ 
+ 
+ 
+Busch D. J. (2001)
+Gunman Project; Nevada; Report and Data 
+Private Report Commissioned by Cypress Development Corporation
+Big Canyon Project 
+White Pine County, Nevada 
+Termination Report 
+Private files WMC Corporation
+Clark Charles W.  
+ 
+ 
+ 
+ 
+ 
+Grauch V.J.S.’ Klein P. & Rodriguez B.D. (1998)
+Progress on Understanding the Crustal Structure Near the Battle Mountain-Eureka 
+Mineral Trend from Geophysical Constraints 
+USGS Open File Report 98-338
+Hose R., Blake M. C. and Smith R.  (1976) 
+ 
+ 
+ 
+ 
+Manns F.T. (2001)
+Geology and Mineral Resources of White Pine County, Nevada 
+Nevada Bureau of Mines and Geology 
+Bulletin 85
+Geochemical and Stratigraphic Aspects of the Gunman Zinc Occurrence. White Pine 
+County, Nevada 
+Private Report commissioned by Cypress Development Corp.
+Marvin Robert D.
+June 2001 Surface Prospecting Results and Recommendations   
+Private report for Cypress Development Corp.
+Xray Diffraction analysis on Gunman Samples 
+Private report for Cypress Development Corp. 
+By Cominco Ltd., Exploration Research Labs.
+O’Brian Neil 
+ 
+ 
+ 
+ 
+ 
+Western Mining Corp. (WMC) 
+ 
+             Copies graciously given to Cypress Development Corp.
+Complete reports, files, maps, plans, sections, and survey data.
+Cypress Development Corp. 
+Gunman Project  NI 43-101 Compliant Technical Report
+79
+March 2014

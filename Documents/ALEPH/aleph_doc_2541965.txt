@@ -1,0 +1,1301 @@
+
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ FvzfyHKKOjyV4npBJ/LdNwNev8+ei1S4xhPOMaTH62xLFzrvcuIDWLNDakDiiZFu
+ v7M1TSHBpx/59bAOr1wOmQ==
+<SEC-DOCUMENT>0000073779-05-000021.txt : 20051122
+<SEC-HEADER>0000073779-05-000021.hdr.sgml : 20051122
+<ACCEPTANCE-DATETIME>20051122141927
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+10QSB/A
+1
+20050930
+0000073779-05-000021
+20051122
+20051122
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: WHOLESALE-COMPUTER & PERIPHERAL
+OCG TECHNOLOGY INC
+0000073779
+EQUIPMENT & SOFTWARE [5045]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+132643655
+DE
+0630
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 000-05186
+FILM NUMBER:
+10QSB/A
+1934 Act
+051220890
+BUSINESS ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+56 HARRISON ST
+SUITE 501
+NEW ROCHELLE
+NY
+10801
+914-576-8457
+MAIL ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+56 HARRISON ST
+SUITE 501
+NEW ROCHELLE
+NY
+10801
+FORMER COMPANY:
+FORMER CONFORMED NAME: OCG TECHNOLOGIES INC
+DATE OF NAME CHANGE:
+19851217
+FORMER CONFORMED NAME: DATA DISPLAY SYSTEMS INC
+DATE OF NAME CHANGE:
+19730422
+FORMER COMPANY:
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10QSB/A
+<SEQUENCE>1
+<FILENAME>f10qsba905.txt
+<TEXT>
+                                UNITED STATES
+                      SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C. 20549
+FORM 10-QSB/A
+(Mark One)
+    [X] QUARTERLY REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+For the quarterly period ended September 30, 2005
+[ ] TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE EXCHANGE ACT
+For the transition period from          to
+                                                    ---------   ---------
+Commission file number            0-5186
+                                                                   -------
+OCG TECHNOLOGY, INC.
+       ----------------------------------------------------------------
+      (Exact name of small business issuer as specified in its charter)
+DELAWARE                            13-2643655
+        -------------------------------      -------------------------------
+        (State or other jurisdiction of     (IRS Employer Identification No.)
+         incorporation or organization)
+56 Harrison Street, New Rochelle, New York 10801
+               ------------------------------------------------
+                   (Address of principal executive offices)
+(914) 576- 8457
+                          -------------------------
+                         (Issuer's telephone number)
+- ----------------------------------------------------------------------------
+ (Former name, address and former fiscal year, if changed since last report)
+Check whether the issuer (1) filed all reports required to be filed by
+Section 13 or 15(d) of the Exchange Act during the past 12 months (or for
+such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days.
+[X] Yes   [   ] No
+State the number of shares outstanding of each of the issuer's classes of
+common equity, as of the latest practicable date:
+<TABLE>
+        Class                            Shares Outstanding at November 6, 2005
+        -----------------------------    --------------------------------------
+        <S>
+<C>
+Common Stock ($.01 par value)    49,901,121 Shares
+</TABLE>
+OCG TECHNOLOGY, INC. AND SUBSIDIARIES
+<TABLE>
+                            INDEX
+PART 1. FINANCIAL INFORMATION                     PAGE NUMBER
+        -----------------------------                     -----------
+        <S>                                              <C>
+        Item  1.  Financial Statements
+Consolidated Condensed Balance Sheets
+                  September 30, 2005 and June 30, 2005        1
+Consolidated Condensed Statements of
+                  Operations for the Three Months Ended
+                  September 30, 2005 and 2004                 2
+Consolidated Condensed Statements of
+                  Cash Flow for the Three Months Ended
+                  September 30, 2005 and 2004                 3
+Notes to Consolidated Condensed
+                  Financial Statements                        4
+Item  2.  Management's Discussion and
+                  Analysis of Financial Condition and
+                  Results of Operations                       6
+Item  3.  Controls and Procedures                    13
+PART II - OTHER INFORMATION
+Item 2.   Changes In Securities                      14
+Item 6.   Exhibits and Reports on Form 8-K           14
+</TABLE>
+OCG TECHNOLOGY, INC. AND SUBSIDIARIES
+                  CONSOLIDATED BALANCE SHEETS
+            September 30, 2005 and June 30, 2005
+                          (Unaudited)
+<TABLE>
+2005              
+2004
+                                                           -------------      
+--------
+<S>                                              <C>                <C>
+        ASSETS
+              Current Assets:
+               Cash                                         $   5,515         $ 
+6,104
+               Accounts receivable                                  0           
+787
+               Inventory                                        4,386          
+14,674
+                                                               ------          
+------
+              Total Current Assets                              9,901          
+21,565
+Property and equipment, net of accumulated
+               depreciation of $96,207 and $94,349              2,960           
+4,819
+Capitalized software costs, net of accumulated
+               amortization of $101,101 and $33,529            78,192          
+56,998
+Other assets                                      4,972           
+4,972
+                                                               ------          
+------
+                    TOTAL ASSETS                            $  96,025        $ 
+88,354
+LIABILITIES AND STOCKHOLDERS' DEFICIT
+              Current Liabilities                                          g
+$  60,000
+$
+Deferred revenue
+-
+Accounts payable and accrued liabilities        59,679
+55,011
+               Notes payable                                  193,251         
+194,352
+                                                              -------         
+-------
+              Total Current Liabilities                       312,930         
+249,363
+Notes payable, stockholders                     190,700         
+188,700
+Stockholders' Deficit
+               Series C Preferred stock, $0.10 par
+               value; 200,000 shares authorized,
+               issued and outstanding                          20,000          
+20,000
+Series E Preferred stock, $0.10 par
+               value; 100,000 shares authorized,
+               33,333 shares issued and outstanding             3,333           
+3,333
+Series F Preferred stock, $0.10 par
+               value, 400,000 shares authorized,
+               zero issued and outstanding                          -           
+-
+Common stock, $0.01 par value; 50,000,000
+               shares authorized, 49,901,120 issued and
+               outstanding                                    499,011
+499,011
+Additional paid-in capital                  26,696,445      
+26,696,445
+                 Less: treasury stock, at cost
+                 (12,500 shares)                              (62,500)       
+(62,500)
+Accumulated deficit                        (27,563,895)   
+(27,505,998)
+                                                           ----------     
+----------
+              Total Stockholders' Deficit                    (407,606)      
+(349,709)
+        TOTAL LIABILITIES AND STOCKHOLDERS' DEFICIT       $    96,024    $    
+88,354
+</TABLE>
+   See the accompanying notes to the financial statements.
+1
+OCG TECHNOLOGY, INC. AND SUBSIDIARIES
+       CONSOLIDATED CONDENSED STATEMENTS OF OPERATIONS
+    For the three months ended September 30, 2005 and 2004
+                         (UNAUDITED)
+<TABLE>
+2005               2004
+                                                       --------           
+--------
+Restated
+<S>                                                 <C>                 <C>
+  Revenues                                             $ 47,925            
+$82,145
+  Less: Cost of sales                                    27,843             
+43,089
+                                                         ------             
+------
+              Gross margin                               20,082             
+39,056
+                                                         ------             
+------
+  Expenses:
+              Marketing, general and administrative      33,224             
+27,839
+              Depreciation                                1,858              
+3,027
+              Amortization                                4,526              
+3,355
+              Impairment of capitalized software costs        0             
+21,878
+              Product development costs                  37,602             
+46,236
+                                                         ------             
+------
+  Total expenses                                         77,211            
+102,336
+                                                         ------            
+-------
+Gain (loss) from continuing operations                (57,129)           
+(63,280)
+Loss on sale of marketable securities                                    
+(41,300)
+  Interest - net                                           (767)             
+1,196
+                                                      ---------           
+--------
+  Net gain (loss)                                    ($  57,896)         
+($103,384)
+Weighted average number of shares outstanding during
+     the period                                       49,901,121        
+45,762,903
+Loss per Common Share - basic and diluted                   $-*               
+$-*
+  *Amounts less than ($.005)
+</TABLE>
+  See accompanying notes to consolidated condensed financial statements
+2
+OCG TECHNOLOGY, INC. AND SUBSIDIARIES
+                      STATEMENTS OF CASH FLOWS
+            Three Months Ended September 30, 2005 and 2004
+                             (UNAUDITED)
+<TABLE>
+                                                               2005             
+2004
+                                                              ------            
+--------
+Restated
+<S>                                                      <C>               <C>
+  Cash flows from operating activities:
+        Net gain (loss)                                    $ (57,896)        $  
+(103,381)
+        Adjustments to reconcile net loss to net cash used
+         in operating activities:
+        Depreciation                                           1,858            
+3,026
+        Amortization                                           4,526            
+3,354
+        Loss from sale of securities                               0            
+41,300
+Changes in assets and liabilities
+        Deferred income
+        Receivables                                              787            
+(8,254)
+60,000
+Inventory
+10,288
+(21)
+Accounts payable and accrued expenses                  4,668            
+14,744
+                                                              ------            
+------
+                    Net cash used in operating activities     24,231            
+(27,354)
+Cash flows from investing activities:
+        Decrease in note receivable                                0            
+0
+        Capitalized software development costs               (25,719)           
+(21,878)
+Proceeds from sale of marketable securities                0            
+5,000
+                                                             -------            
+------
+         
+(16,878)
+Net cash used in investing activities     (25,719)
+Cash flows from financing activities:
+        Increase in loans payable, shareholders                2,000
+        Increase in credit line                               (1,101)           
+9,883
+        Proceeds from issuance of common stock                     0            
+11,600
+                                                              ------            
+------
+         Net cash provided by financing                          899            
+21,483
+                                                              ------            
+------
+  Net decrease in cash                                          (589)           
+(22,749)
+Cash, beginning of period                                    6,104            
+29,257
+                                                              ------            
+------
+Cash, end of period                                         $5,515           $
+6,508
+                                                              ======           
+========
+</TABLE>
+  See accompanying notes to consolidated condensed financial statements
+3
+OCG TECHNOLOGY, INC.  AND SUBSIDIARIES
+        NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS
+                             (Unaudited)
+NOTE 1 - BASIS OF PRESENTATION
+The accompanying unaudited interim consolidated financial statements of OCG
+Technology, Inc. and subsidiaries ("OCG") have been prepared in accordance with
+accounting principles generally accepted in the United States of America and
+the rules of the Securities and Exchange Commission ("SEC"), and should be read
+in conjunction with the audited consolidated financial statements and notes
+thereto contained in OCG's Annual Report filed with the SEC on Form 10-KSB. In
+the opinion of management, all adjustments, consisting of normal recurring
+adjustments, necessary for a fair presentation of financial position and the
+results of operations for the interim periods presented have been reflected
+herein. The results of operations for the interim periods are not necessarily
+indicative of the results to be expected for the full year. Notes to the
+consolidated financial statements which would substantially duplicate the
+disclosure contained in the audited consolidated financial
+statements for 2005 as reported in the 10-KSB have been omitted.
+Restatement.  Restatements of fiscal 2005 were made.  See Note 2 for details.
+NOTE 2 - GOING CONCERN
+The accompanying consolidated financial statements have been prepared assuming
+that OCG will continue as a going concern. As shown in the accompanying
+financial statements, OCG has suffered recurring losses from operations.  These
+conditions raise substantial doubt as to OCG's ability to continue as a going
+concern. The financial statements do not include any adjustments that might be
+necessary if OCG is unable to continue as a going concern. Management's
+plans in regard to these matters are described below.
+OCG has experienced recurring losses from operations and has relied on the sale
+of its common and preferred stock and borrowings to fund its operations. If
+necessary, OCG intends to provide additional working capital through the sale
+of its equity securities. Although in the past OCG has been able to provide
+working capital through the sale of its equity securities and borrowings, there
+can be no assurances that it will succeed in its efforts, which creates doubt
+about OCG's ability to continue as a going concern.
+NOTE 3 - RESTATEMENT
+The consolidated financial statements for the three months ended September 30,
+2004 were restated as a result of the determination by management that 1)
+certain capitalized software development costs under Statement of Financial
+Accounting Standards No. 86, "Accounting for the Costs of Computer Software to
+Be Sold, Leased, or Otherwise Marketed" ("SFAS 86") were not realizable,
+2) that certain accounts receivable were uncollectible, and 3) that shares
+issued to non-employees for services should have been expensed in full upon
+issuance.  The accounting errors resulted in a misstatement in accounts
+receivable, prepaid expenses and other current assets, total current assets,
+capitalized software costs, total assets, accumulated deficit, total
+stockholders' equity, marketing, general and administrative expense,
+amortization expense, impairment of capitalized software costs, total expenses,
+net loss from operations, net loss, and net loss per share. There were also
+related adjustments to OCG's consolidated statement of cash flows.
+Effects on the consolidated balance sheet as of September 30, 2004:
+<TABLE>
+As Previously
+Reported
+---------- -----------
+Restated
+<S>                                    <C>               <C>
+Accounts receivable
+Other current assets
+Total current assets
+Capitalized software costs, net
+Total assets
+Accumulated deficit
+</TABLE>
+Effects on Consolidated statement of operations for the three months
+ended September 30, 2004:
+<TABLE>
+$    21,046 $     7,542
+     35,320
+     81,111      32,574
+            364,450
+462,614
+                (26,577,916) (26,947,257)
+93,273
+287
+43,646
+As Previously
+Reported
+---------- -----------
+Restated
+<S>                                    <C>               <C>
+Marketing, general and administrative
+Depreciation and amortization
+Impairment of capitalized software costs  -
+Total expenses
+Loss from operations
+Net loss
+</TABLE>
+31,419      6,380
+    21,878
+   125,493    102,333
+(86,437)
+(126,542)
+(103,381)
+$   47,839 $   27,839
+(63,277)
+4
+OCG TECHNOLOGY, INC. AND SUBSIDIARIES
+               MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+            FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+A SUMMARY OF INCREASES (DECREASES) IN THE ITEMS INCLUDED IN
+         THE CONSOLIDATED STATEMENTS OF LOSS IS SHOWN BELOW:
+General
+  The following discussion and analysis should be read in
+  conjunction with the Consolidated Financial Statements and Notes
+  thereto appearing elsewhere herein.  The following discussion
+  contains certain forward-looking statements within the meaning of
+  Section 27A of the Securities Act of 1933 and Section 21E of the
+  Securities Exchange Act of 1934 and the Company intends that such
+  forward-looking statements be subject to the safe harbors created
+  thereby.  These forward-looking statements include predictions,
+  estimates and other statements that involve a number of risks and
+  uncertainties.  While this outlook represents the Company's
+  current judgment on the future direction of the business, such
+  risks and uncertainties could cause actual results to differ
+  materially from any future performance suggested herein.
+The Company has experienced recurring losses from operations and
+  has relied on the sale of equity interests in the Company  and
+  loans from shareholders to fund its operations.  If necessary,
+  the Company intends to provide additional working capital through
+  the sale of equity interests in the Company.  Although, in the
+  past, the Company has been able to provide working capital
+  through the sale of equity interests in the Company and loans,
+  there can be no assurances that it will succeed in its efforts,
+  which creates a doubt about its ability to continue as a going
+  concern.
+Critical Accounting Policies and Estimates
+  The discussion and analysis of the Company's financial condition
+  and results of operations following are based upon its
+  consolidated financial statements, which have been prepared in
+  accordance with generally accepted accounting principles of the
+  United States of America.  The preparation of these financial
+  statements requires the use of estimates and judgements that
+  affect the reported amounts of assets, liabilities, revenues and
+  expenses, and related disclosure of contingent assets and
+  liabilities.  The Company believes that the estimates,
+  assumptions and judgements involved in the accounting policies
+  described below have the greatest potential impact on its
+  financial statements, so the Company considers these to be its
+  critical accounting policies.  Because of the uncertainty
+  inherent in these matters, actual results could differ from the
+  estimates used in applying the critical accounting policies.
+  Within the context of these critical accounting policies, we are
+  not currently aware of any reasonably likely events or
+  circumstances which would result in materially different amounts
+  being reported.
+Capitalized Software Costs
+  Capitalized software costs are amortized over the estimated
+  useful life.  Changes in circumstances, such as technological
+  advances or shortfalls in marketing estimates, can result in
+  differences between the actual and estimated useful life. In
+  accordance with Statement of Financial Accounting Standards
+  No. 86, "Accounting for the Costs of Computer Software to Be Sold,
+  Leased, or Otherwise Marketed," (SFAS No. 86), we compare the
+  unamortized capitalized cost of the software to the net realizable
+value of the software.  The amount, if any, by which the unamortized
+  capital costs exceed the net realizable value of the software is
+  written off.
+The Company had a write off of $21,878 of capitalized software
+  costs during the quarter ended September 30, 2004, and no write
+  off for the quarter ended September 30, 2005, respectively, in
+  compliance with the Company's policy relating to reevaluating the
+  value and useful life of this long-lived asset.
+5
+Revenue Recognition
+  The Company has four sources of income: (1) sale of inventoried
+  merchandise on our Web sites; (2) commissions received from
+  vendors who link to our Web sites; (3) advertising fees; and (4)
+  software license fees.
+  
+  Sale of inventoried merchandise.
+  This revenue stream is reported on a "gross" basis in compliance
+  with EITF 99-19, because the Company purchases the merchandise
+  from the source it selects; is at risk for the purchaser's
+  credit; and the Company ships the merchandise. The Company
+  reports the gross sales price as revenue and expenses the cost of
+  the merchandise and the shipping costs as "cost of sales".  The
+  Company is almost always paid by credit card at the time of
+  purchase and occasionally by check.  Sales are booked when the
+  merchandise is shipped.  The merchandise is not shipped until the
+  credit is approved.
+Commissions received from vendors
+  The Company acts as a commissioned broker by displaying a
+  vendor's products on the Company's Web sites.  When a consumer
+  indicates a desire to purchase an item, the order is collected
+  through the Web site and processed by the third party seller.
+  The Company receives a commission on such sale after it is
+  consummated.  When the Company is paid, it reports the
+  "commissions" on a "net" basis in compliance with EITF 99-19.
+  The Company reports commissions this way because: (a) it does not
+  have any direct costs; (b) it does not purchase the product sold;
+  and  (c) it does not have any credit risk on the sale, and it
+  does not handle or ship the product when sold.  The Company
+  notifies the seller of an interested buyer and it receives a
+  commission check from the seller upon the consummation of a sale.
+   At that time the Company reports the revenue on a "net" basis.
+Advertising fees
+  The Company receives fees for placing advertisements on its Web
+  sites. At the end of the month the Company sends an invoice to
+  the advertiser and enters it on its books as income from
+  advertising fees.
+Software license fees
+  The Company accounts for software license fees in accordance with
+  SOP 97-2.  Revenues are recognized when all of the following
+  criteria are met: (a) persuasive evidence of an arrangement
+  exists; (b) delivery has occurred; (c) the vendors fee is fixed
+  or determinable; and (d) collectiblity is probable.
+All licenses are evidenced by a written contract.  License fees,
+  paid for use of the software, are annual fees, generally payable
+  monthly, or quarterly, in advance, based on the number of
+  patients of the Healthcare Provider or are based on uses (per
+  patient visit), which are generally, purchased in advance.  The
+  license fee includes updates to the software  during the term of
+the license.  The software contains considerable medical
+  information and the Company keeps this medical content current
+  through periodic reviews and updates.  New updates are
+  incorporated automatically and at no cost to the customer. The
+  Company does not sell the software or any updates separately and
+  therefore, has not established VSOE.  The Company will recognize
+  income ratably over the license term.
+Results of Operations
+  Total revenues decreased from $82,145 for the three months ended
+  September 30, 2004 as compared to $47,925 for 2005, a decrease of
+  $34,221.  The Company's revenues for the three months ended
+  September 30, 2005, consisted of: $47,925 from the sale of
+  merchandise (a decrease of $25,981 for the same period in 2004);
+  and no income from commissions (a decrease of $7,610 for the same
+  period in 2004).  The decrease in merchandise sales occurred as a
+  result of changes made to the Web site on which our shopping cart
+  resides, making access to our shopping cart more difficult.  The
+  Company received $60,000 for granting  a license to use the
+  Company's software, PrimeCare Version Nine on September 29, 2005,
+  which was booked to deferred income as of September 30,2005.
+Cost of sales decreased from $43,089, for the three months ended
+  September 30, 2004, to $27,843, for the three months ended September
+  30, 2005, which resulted from the decrease in the sales of merchandise.
+Marketing, general and administrative expenses decreased $5,385
+  for the three months ended September 30, 2005, as compared to the
+  same period for 2004, primarily from the decrease of $6,000 in
+  sales related expenses.
+6
+Product development costs decreased $8,634 during the three months
+  ended September 30, 2005 compared to the same period in 2004 mainly
+  as a result of a decrease in payroll.
+  
+  Liquidity and Capital Resources
+  At September 30, 2005, the Company had a current ratio of .032 to 1
+  compared to .086 to 1 as of  September 30, 2004.  The net loss for
+  the three months ended September 30, 2005, was $57,896 compared to
+  $103,381 for the same quarter of 2004.  The calculation of loss for
+  the three months ended September 30, 2005, did not take into
+  consideration the receipt of $60,000.00 in license fees for
+  PrimeCareTM Version Nine, which was booked as deferred income.  The
+  decrease of $45,488 in the loss for the three months ended September
+  30, 2005, as compared to the same period for 2004, was primarily due
+  to the write off of capitalized costs of $21,878 as an impairment,
+  since there were no license fees for said period, and a loss from
+  the sale of marketable securities of $41,300, which occurred in the
+  2004 period.  The Company has experienced recurring
+  losses from operations and has been unable to provide sufficient
+  working capital from operations and has relied significantly on
+  the sale of equity interests in the Company, and the exercise of
+  warrants and loans from shareholders to fund its operations.
+Cash on hand, inventory and receivables were $9,901 at September
+  30, 2005.  Although, in the past, the Company's principal means
+  of overcoming its cash shortfalls from operations was from the
+  sale of the Company's stock, loans and the exercise of warrants,
+  there can be no assurances that the Company will succeed in its
+  efforts in the future, especially since 49,890,582 shares of
+  Common stock of the 50,000,000 authorized have been issued,
+  therefore the Company only has Preferred shares available for
+  issue.  However, in view of the license agreement recently
+  entered into, discussed in more detail under "Marketing" below
+and other continuing efforts of the Company, the Company believes
+  that it could obtain sufficient working capital from operations
+  through marketing PrimeCareTM Version Nine and its Internet
+  products.
+Marketable securities
+  The Company had advanced funds totaling $334,500, plus accrued
+  interest at 7% per annum, pursuant to a grid note, dated February
+  4, 2002 (the "Note").  The Company received a security interest
+  in accounts receivable of the borrower anticipated to be
+  generated under certain sales contracts which provide for
+  borrower to install and maintain the health care system for
+  certain countries. On October 10, 2004, the Company agreed to
+  accept 3,709,230 restricted (unregistered) shares of the
+  borrower's common stock, par value $0.0001 per share, (the
+  "Stock") in full payment of the Note ($334,500 of principal, plus
+  $36,423 of accrued interest, for the total amount of $370,923).
+  The market value on October 10, 2004, of the Stock received was
+  $704,753. The Company realized $167,761 from the sale of all of
+  the shares, which resulted in a total loss of $203,162, of
+  which $41,300 occurred during the September 2004 quarter.
+Products Overview.
+Although prior to the quarter ended September 30, 2005, the
+  Company's primary source of revenues have been derived from the
+  operation of the "shopping cart" on the fitness Web site known as
+  www.DeniseAustin.com, the Company believes that the PrimeCare(TM)
+  Patient Management System, Version Nine ("PrimeCareTM Version
+  Nine ) and its related Web sites will become the major source of
+  the Company's revenues.  This is more fully discussed below under
+   "Competition" and "Marketing".
+Competition:   PrimeCareTM Version Nine creates an electronic
+  medical record documenting the patient-physician encounter.
+  There are more than 200 EHR (electronic health records) on the
+  market today, according to the Fact Sheet, of the Health
+  Information Requests for Proposals, in the request for proposals
+  of the Office of the National Coordinator for Health Information
+  Technology of the Department of Health & Human Services, dated
+  June 6, 2005,
+  http://www.os.dhhs.gov/healthit/documents/RFPfactsheet.pdf.  To
+  date, market penetration by both the Company and its competitors
+  has been very small.   The consensus is that no more than 2% of
+  U.S. doctors use diagnostic software, according to an article
+  appearing in the May 23, 2005 edition of the Wall Street Journal
+  entitled "Software for Symptoms", which discusses the use of
+  computers in medicine.  It points out that use of software can be
+  cost prohibitive, time-consuming and cumbersome, and that there
+  are concerns regarding computerized mistakes.  Based on this and
+  other information, we do not believe that any competitor has a
+  significant share of the market.
+  
+  The article raises the question as to why  diagnostic software
+  has not found more of a market, stating that  "Some doctors say
+  it takes too much time to enter extensive patient data into some
+  systems." It then continues with, "If your HMO allows you 10 and
+  a half minutes to see a patient how are you going to do this?"
+  quoting David Goldmann,  a physician who serves as vice president
+  and editor in chief of the Physicians' Information and Education
+  Resource, a guide to clinical care published by the American
+  College of Physicians in Philadelphia.
+7
+However, unlike competitive electronic medical records ("EMR") or
+computerized patient records ("CPR"), PrimeCareTM Version Nine
+  can actually reduce the time needed to collect and organize the
+  patient-physician encounter documentation.  PrimeCareTM Version
+  Nine achieves this goal in several ways.  In particular,
+  PrimeCareTM Version Nine incorporates an authoritative and
+  comprehensive knowledge database of approximately 280 symptom and
+  problem oriented patient questionnaires ("Questionnaires") for
+  diagnostic and follow-up office visits.  During an office visit,
+  the patient responds to questions from appropriate
+  Questionnaires, prior to being seen by the physician, and without
+  requiring physician time or presence.  When the patient has
+  completed his or her Questionnaire(s), a preliminary diagnostic
+  report is generated for the physician to review prior to the
+  face-to-face encounter with the patient.  This report contains
+  all the patient's "positive" answers, pertinent "negative"
+  answers, and lists diagnostic possibilities triggered by the
+  patient's responses, in alphabetical order, together with those
+  responses which gave rise to diagnostic consideration.
+PrimeCareTM Version Nine does not make any decisions.  It
+  gathers, organizes,  and prepares information for the physician
+  to review as an aid in making the correct diagnosis.  As the
+  patient's responses to interview questions are recorded, there
+  are incorporated into the patient record, in real time, without
+  additional effort required on the part of either physician or
+  medical staff, and without requiring dictation and subsequent
+  transcription.  This characteristic is more fully discussed
+  below.
+Competitive systems, on the other hand, generally require that
+  the physician personally elicit the clinical information needed
+  to make the diagnosis directly from the patient, mainly by
+  verbally by asking the patient questions.   A physician may not
+  ask every patient the same questions for the same symptoms or
+  problems, nor will different physicians always ask the same
+  questions for the same problem.  Once the information has been
+  obtained, and frequently, after being recorded in temporary
+  hand-written notes, the physician then enters the data acquired
+  during the patient encounter into a system; in some cases, by
+  typing the data directly into a computer program; and in others
+  by selecting the physician's diagnosis from a computer program,
+  which then brings up on the computer, a list of symptoms relating
+  to that diagnosis, from which the physician checks off the
+  patient's symptoms, on then entering the data into that patient's
+  record.
+The Company believes that when the time savings and efficiencies
+  of PrimeCareTM Version Nine become more widely known, PrimeCareTM
+  Version Nine will make a significant penetration of the potential
+  market.  The Company has not identified any competitive patient
+  management system which embodies the patient-centric,
+  self-administered medical interview feature of PrimeCareTM
+  Version Nine.
+When the physician portion of the patient encounter commences,
+  the physician reviews the PrimeCareTM Version Nine preliminary
+  report, examines the patient, determines a diagnosis, treatment,
+  and follow-up plan.  The physician records his examination
+  findings and the results of his medical decision-making by  using
+  PrimeCareTM Version Nine, which contains problem-appropriate
+  selections of both abnormal and normal findings, relevant
+  diagnoses, medications and other treatment options, as well as
+  test, education, and follow-up selections.  The physician selects
+and prescribes medications, recording them all in the patient's
+  record by a click of the mouse or using the keyboard, all of
+  which is done in real time.
+Because the PrimeCareTM Version Nine encounter reports the
+  diagnostic possibilities, the physician is less apt to overlook
+  or forget an uncommon or unusual diagnostic possibility.
+  PrimeCareTM Version Nine makes a more complete record since it
+  contains every question asked, every answer, and the list of
+  associated diagnostic possibilities.  While competitive systems
+  increase the physicians' workload, PrimeCareTM Version Nine
+  reduces the paperwork burden imposed on the physician.  The
+  patient can answer the PrimeCareTM Version Nine Questionnaires in
+  the physicians office, or via the Internet from work or home,
+  prior to arriving at his or her appointment.
+  
+8
+    PrimeCare(TM) Version Nine
+PrimeCareTM Version Nine is a complete, ground-up redesign and
+  re-write of the Company's initial electronic medical record
+  ("EMR"). The overall system architecture has been changed to
+  simplify deployment and increase security; the supporting data
+  base structures have been enhanced; the client interface has been
+  redesigned to more accurately reflect the operational needs of
+  the end-users; user installation has been greatly simplified; and
+  end-user hardware costs dramatically reduced.
+PrimeCareTM Version Nine's overall system architecture
+  incorporates a robust three-tier client-provider-relational
+  database management system ("RDBMS") design, structured to
+  support geographically separated tiers. The client (end-user)
+  tier of PrimeCareTM Version Nine connects with the middle or
+  provider tier via secure Internet communications.  The provider
+  tier, in turn, connects with the data base tier, thereby
+  isolating and protecting the data base and protecting the
+  patients' medical data from uncontrolled exposure on the
+  internet. The provider and data base tiers are designed to
+  support multiple, distinct clients simultaneously. The client
+  application has been designed to allow easy internationalization
+  and localization (easy adaptation to local currency, date and
+  time conventions).
+The supporting databases have been redesigned to remove
+  unnecessary redundancies, including a major redesign of the
+  patient/physician encounter Questionnaires.  Provisions have been
+  added for support of an unlimited number of alternative
+  languages. Currently, language support is offered in English and
+  Spanish, which was substantially completed during September,
+  2005.  The terms of a recently signed license agreement provides
+  for the licensee to pay for development of a Portuguese version.
+  The addition of both French, and Simplified Chinese have been
+  started, but will not be completed in the near future. Italian,
+  German, Korean, Japanese have been identified as candidates for
+  translation as well.
+PrimeCare(TM) Version Nine is a Windows(TM) application.  The
+  client tier will run on Windows 98SE or any later Windows desktop
+  operating system,  such as Windows 2000, Windows NT, or Windows
+  XP.  It will not run on Unix or Linux.  The server (provider
+  tier) and data base tiers of PrimeCare(TM) Version Nine is hosted
+  on redundant Windows 2000 or Windows XP servers with appropriate
+  backup, and standby support.
+As a three-tier application, PrimeCareTM Version Nine requires
+only the client tier application to be installed at the end-user
+  location.  Although the client (end-user) tier uses the Internet
+  to communicate with the provider tier, it is not a browser-based
+  application, thereby eliminating the many compatibility and
+  security issues involved in supporting multiple browser
+  configurations. The PrimeCareTM Version Nine client is a
+  specially written front-end application, designed to be
+  downloaded by the client via a web connection, and then installed
+  at the client's location using normal Windows installation
+  procedures.
+The three-tier architecture of PrimeCareTM Version Nine provides
+  many advantages, including easy client installation; reduced
+  on-site hardware and support requirements; enhanced data
+  security; and maximum flexibility.  PrimeCareTM Version Nine's
+  reduced installation and maintenance costs and its flexibility
+  enables it to be adapted to a wide variety of health care
+  organizational uses, including national and local health care
+  systems, military organizations, correctional facilities, HMOs,
+  hospitals with outpatient services, clinics, group practices and
+  solo practitioners.
+9
+The PrimeCareTM Version Nine system can support multiple
+  reimbursement models, including free demo, no-charge use,
+  sponsored use, flat fee, periodic (monthly / annual) fee,
+  activity based fees, and option-based fees.
+  
+  Beyond simply being a user friendly, patient management system
+  that is patient, physician and staff, interactive, the
+  PrimeCareTM Version Nine system: (i) is Health Insurance
+  Portability Accountability Act ("HIPAA") compliant; (ii)
+  collectively contains over 100,000 complaint and disease state
+  questions, over 2,000 diagnoses, over 675 physician reference
+  articles, over 300 patient education articles; (iii) does not
+  require the patient to have computer or typing skills; (iv)
+  enables the physician to obtain their patients' detailed History
+  of Present Illness ("HPI") by having the patient answer the
+  Questionnaires without requiring physician or staff presence; (v)
+  allows the physician to interact directly with PrimeCareTM
+  Version Nine to select and document the normal and abnormal
+  physical findings, assessments, tests, prescriptions and
+  treatment plan for the patient; (vi) provides automatic (real
+  time) calculation of the Centers for Medicare & Medicaid Services
+  (formerly, Health Care Financing Administration) mandated
+  Evaluation and Management ("E&M") code, with a full audit trail,
+  used for determining the reimbursement level by Medicare, health
+  insurance  providers and other third party payers for the office
+  visit;  (vii) creates significant clinical and patient databases
+  for outcomes research.
+When the patient arrives at, or telephones, the doctor's office,
+  a staff member selects an appropriate Questionnaire or
+  questionnaries, based upon the patient's chief complaint and/or
+  symptoms, and if the patient is at the doctor's office, takes and
+  enters the patient's vital signs. The patient at the doctor's
+  office is then seated at a computer, or if at home or office then
+  via the Internet,  answers complaint-specific questions contained
+  in the Questionnaire, by using either the keyboard number keys or
+  mouse to indicate answers that apply to the patient.  No typing
+  or computer skills are required. When the patient completes his
+  or her Questionnaire(s), PrimeCareTM Version Nine prepares a
+  Preliminary Report (the "Report") for the physician to review
+  before examining the patient.
+This report contains any nursing notes, and patient's vital
+  signs, along with, most importantly, the patient's detailed HPI,
+  that includes all of the positive and significant negative
+  responses to the questions contained in the completed
+  Questionnaire(s), plus an alphabetical list of diagnostic
+  possibilities with the triggering patient responses annotated.
+  By freeing up the time physicians would normally have to spend
+  asking patient history questions and recording responses,
+  PrimeCareTM Version Nine permits physicians to see more patients
+  and/or to spend more quality time with each patient.  PrimeCareTM
+  Version Nine is also easy for physicians to understand and use.
+  The same simple key stroke or mouse click process used by the
+  patient allows the physician or appropriate staff member to
+  select and document physical findings (normal and abnormal),
+  assessments, tests, and treatment plan; to prescribe medications;
+  to select patient education handout materials; and to specify
+  follow-up instructions.
+By automatically collecting and electronically storing the
+  patient's encounter documentation, a permanent, unalterable
+  electronic record is of the visit is generated, and the need for
+  dictation and transcription, with their associated costs, is
+  virtually eliminated. The physician or appropriate staff member
+  can also enter additional comments that expands upon any answer
+  selected by the patient in the Questionnaire, a physical finding,
+  an assessment, a treatment plan, a prescription, or about any
+  subject that may be appropriate.  At the conclusion of the
+  encounter a final summary report of the visit that includes the
+  patient's HPI, physical findings, assessment, tests,
+  prescriptions, treatment plan, patient educational materials and
+  the scheduled follow-up visit, are stored electronically in the
+  patient's file.  A copy of the documentation can be printed for
+  the patient to keep in his or her own personal medical record, a
+  practice that has been shown to reduce the number of callbacks
+  from patients asking for clarification or repetition of the
+  physician's instructions to them, further reducing the time and
+  cost burden of both physician and medical staff.
+CodeComplierTM:
+The Company has also developed CodeComplierTM, an application
+  software program used in conjunction with the Company's
+  PrimeCareTM Version Nine and PrimeCareOnTheWebTM.  As each item
+  of information is entered into and collected by PrimeCareTM
+  during the patient encounter, the CodeComplierTM organizes the
+  data in the proper classification and using the Centers for
+  Medicare & Medicaid Services' (CMS, formerly, HCFA) Documentation
+  Guidelines, automatically calculates the Evaluation and
+  Management ('E&M") code level, with full audit trail, used for
+  determining the reimbursement level by Medicare and other third
+  party payers for the History, Physical Findings and Decision
+  Making sections of the office visit. It totally eliminates the
+  time and effort that would otherwise be required by the physician
+  or office personnel to complete this task. CodeComplierTM takes
+  the guesswork out of E&M and third party payer compliance.
+  CodeComplierTM is an integral part of PrimeCareTM Version Nine.
+  
+        PrimeCareOnTheWeb.com (the "PCW Site"):
+10
+The PCW Site is a unique physician and patient interactive Site
+  that: (i) uses PrimeCareTM Version Nine's unique Questionnaires
+  for diagnostic and follow-up office visits, physician reference
+  articles, patient education material, and the  CodeComplierTM for
+  real time calculation of E&M code; (ii) enables physicians to
+obtain their patient's detailed HPI by having the patient answer
+  Questionnaires via the Internet without requiring physician time;
+  (iii) saves the physician and staff the time required to obtain
+  the HPI, thus allowing them to give more attention to each
+  patient and/or see more patients; (iv) produces an extremely
+  comprehensive HPI that includes all of the "yes" answers,
+  pertinent negatives and a list of the diagnostic possibilities
+  with the answers repeated that support each diagnostic
+  consideration; (v) is HIPAA compliant; (vi) protects all Internet
+  communication and the confidentiality rights of every user
+  through a unique user ID and password per Questionnaire to be
+  answered and secure digital certificates (vii) encrypts all data
+  for storage; (viii) enables creating a significant database for
+  outcomes research; and (ix) automatically provides registered
+  physicians individual Web sites on YourOwnDoctorTM.
+YourOwnDoctor.com (the "YOD Site"):
+The YOD Site is a web community created, owned, operated and
+  maintained by the Company that: (i) provides free individual Web
+  sites for physicians, physician groups, and other health care
+  providers that register for PrimeCareOnTheWebTM; (ii) enables
+  physicians to promote their services through displaying
+  credentials, including photos of each physician and staff in the
+  office, listing specialties, office hours, directions, maps,
+  phone numbers, e-mail addresses, and accepted insurance plans;
+  (iii) provides useful links to other medical sites; (iv) provides
+  a direct link from physician site to PCW that enables patient to
+  access appropriate Questionnaire and complete; (v) provides
+  direct link to YourOwnHealthTM for use by patients.
+YourOwnHealth.com (the "YOH Site"):
+The YOH Site is a unique, free online health and wellness site
+  designed to empower health care consumers to be better prepared
+  for their next visit to the doctor. The YOH Site offers: (1) the
+  "Medical Interview" that: (i) enables visitors to securely and
+  anonymously select and complete from approximately 104 of the 280
+  Questionnaires contained in PrimeCareTM Version Nine; (ii)
+  generates and makes available to the visitor a detailed HPI
+  report based upon their responses; (iii) permits the visitor to
+  answer the Questionnaires in either English or Spanish; (iv)
+  encrypts all medical data and uses digital certificates for
+  Internet communication; (v) provides banner links to the YOD Site
+  and www.DeniseAustin.com. (2) "YourOwnHealthTM Notebook": (i) is
+  a secure depository for storage of personal and family medical
+  data for Registered Members; (ii) can be accessed only through
+  the use of registered IDs and Passwords; (iii) encrypts all
+  medical data and uses digital certificates from VeriSignTM for
+  Internet communication; (iv) provides a convenient way to keep
+  track of personal health issues such as allergies, immunizations,
+  medications and others that can be kept and edited on designated
+  lists; (v) allows the Member to save their completed HPI
+  Questionnaire reports and to add personal notes and reminders to
+  the record. (3) "YourOwnHealthTM Reference" provides extensive
+  health care consumer education material relating to diseases,
+  disease management, medical procedures and prescription and
+  common over the counter medications, including drug interaction.
+Revenue Sources and Marketing:  The principal markets for the
+  PrimeCareTM Version Nine are national and local health care
+  systems, military organizations, correctional facilities, HMOs,
+  hospitals with outpatient services, ambulatory/outpatient medical
+  facilities, group practices and individual practitioners
+(collectively, "Healthcare Providers").  PrimeCareTM Version Nine
+  is designed to support multiple reimbursement models, including
+  free demo, no charge use, sponsored use, flat fee, periodic
+  (monthly quarterly, semi-annual and annual) fee, activity based
+  fees and option based fees.  The Company intends to license
+  PrimeCareTM Version Nine to Healthcare Providers and to
+  organizations that will sub-license the software to Healthcare
+  Providers.
+11
+According to the American Medical Association, there are over
+  650,000 physicians in the U.S. creating a very large potential
+  market for the System. The Company estimates that as many as
+  250,000 of these physicians could use PrimeCareTM Version Nine
+  routinely.
+  
+  Licensing Fees:
+  Currently, the Company's license revenues from PrimeCareTM
+  Version Nine have not been substantial and no assurances can be
+  given that the marketing plan will succeed.  However, during the
+  quarter ending September 30, 2005, the Company entered into a ten
+  year license agreement with a company based in Argentina.  The
+  Medical Director of the Licensee, a prominent, highly regarded
+  physician in Argentina, has been using PrimeCareTM Version Nine
+  since November, 2004.  As part of the consideration for becoming
+  the exclusive licensee within the free trade association known as
+  Mercosur, whose members are Argentina, Brazil, Chile, Paraguay
+  and Uruguay, the Licensee paid the Company $60,000 and has agreed
+  to fund the translation and internationalization of PrimeCareTM
+  Version Nine in both Spanish and Portuguese.  The Spanish version
+  was substantially completed during September 2005.  The Licensee
+  will sub-license PrimeCareTM Version Nine to health care
+  providers in the Mercosur and train them in its use.   In the
+  event that the gross revenues derived by Licensee from sub
+  licensing PrimeCare V9, are less than two million five hundred
+  thousand U.S. dollars (US$2,500,000) for the third year of the
+  Term of the agreement, or any year thereafter, the Agreement will
+  become non-exclusive for the balance of the term.  The License
+  provides that the fee to be charged to a sub-licensee shall be
+  not less than four US dollars (US$4) per annum, per patient of
+  each sub-licensee, without regard to the number of patient uses
+  of the software during that year, unless the Company agrees, in
+  writing, to a lower fee.  The Licensee intends to begin
+  installation and training of PrimeCareTM Version Nine in January
+  of 2006, and anticipates that by the third quarter of 2006, there
+  will be a significant stream of revenues.
+Advertising Fees:
+  Advertising revenues are dependant upon the number of visitors
+  that use the Company's Web sites.  The Company believes that the
+  use of  PrimeCare(TM) Version Nine by licensees will increase
+  awareness and use of the Company's Web sites and thus result in
+  increased advertising fees.
+The Company has entered into an agreement with Hackensack
+  University Medical Center ("HUMC"). The agreement provides for
+  the use of the Company's Web sites by HUMC's medical services
+  organization ("MSO"), North Jersey Medical Management Services,
+  L.L.C. This MSO has over 1,000 physicians. HUMC, and its
+  Physicians Hospital Organization, have created www.HUMCMD.net, a
+  complete Physician/Patient Internet Service Provider ("ISP")
+  providing top quality Internet connectivity to members of its
+  physician network, plus access to key internal HUMC applications.
+The HUMCMD site has both a "Physician Portal" and "Patient
+Portal".  The site currently contains the Company's PCW Site and
+  YOH Site.  The Company's advertising revenues are dependent upon
+  HUMC's marketing efforts to its Staff Physicians and patients
+  which to date has been minimal.
+Outcomes Research.
+  Potentially, the Company could receive fees or grants for
+  conducting outcomes research for pharmaceutical companies,
+  teaching hospitals, governmental agencies and  philanthropic
+  organizations.  The Company anonymizes, encrypts and stores the
+  data from both the completed diagnostic and follow-up
+  Questionnaires. This ever-growing medical database can be
+  analyzed in various ways to determine the effectiveness of
+  treatment plans, medications, etc.
+Fitness Web Site:
+The Company has marketing arrangements with www.DeniseAustin.com
+  ("DeniseAustin.com"), currently the Company's primary source of
+  revenues.  The Company has entered into two agreements with the
+  manager of the Web site.  Under one agreement, the Company
+  provides and operates the "shopping cart" on the site and the
+  second agreement retains the Company as the exclusive seller of
+  Denise Austin videos and DVDs on the site.  The Manager markets
+  and promotes the site.  The fitness and wellness Web site known
+  as www.DeniseAustin.com features Denise Austin, a nationally
+  known fitness expert, who has had a daily fitness show on
+  television for over 15 years. The Company's shopping cart sells a
+  variety of Denise Austin products on the Web site. Visitors and
+  fans are able to shop online for their favorite Denise Austin
+  signature exercise videos, books, equipment, gear, private label
+  apparel and food supplements.
+  
+12
+           Competition:   There are a large number of sellers of
+  fitness  videotapes including those of Denise Austin, such as
+  retail stores and other Web sites.  However, the Company is the
+  exclusive seller of fitness videos and DVDs on DeniseAustin.com
+  which is promoted by Denise Austin, the host of Lifetime
+  Television's "Denise Austin's Fit & Lite" and "Denise Austin's
+  Daily Workout".   She is also a columnist for Prevention magazine
+  and has written many books, including "Fit and Fabulous After
+  40," "Lose Those Last 10 Pounds" and "Shrink Your Female Fat
+  Zones."  As a result of ads and other forms of promotion, people
+  come to the Web site, and pay to join, and become members of, and
+  participate in, Denise Austin's Fit Forever, all of which
+  generates visitors to the Web site and our shopping cart.
+Government Regulation
+The Company is operating in the medical field, which is
+  subject to extensive federal, state and local regulations.
+  Neither the PrimeCareTM Version Nine, nor the CodeComplierTM
+  require FDA filings or approval.  However, PrimeCareTM Version
+  Nine must be, and is, compliant with the Health Insurance
+  Portability Accountability Act ("HIPAA") to enable physicians to
+  use it.  HIPAA was enacted, in part, to establish national
+  standards for electronic health care transactions and it
+  addresses the security and privacy of health data during
+  electronic data interchange.  However, there can be no assurance
+  that new laws will not be passed, or current regulations changed,
+  the enactment of which could negatively effect, or prohibit, the
+  marketability of PrimeCareTM Version Nine.
+The Company believes that it can obtain sufficient working
+capital from operations through marketing PrimeCareTM Version
+  Nine and its other Internet products.
+Currently, the Company has lines of credit with RBC Centura Bank
+  for a maximum of borrowing of $20,000 and has no material
+  commitments for capital expenditures outstanding.
+Item 3.  Controls and Procedures
+An evaluation was carried out under the supervision and with the
+  participation of the Company's management, including the
+  President/Chief Financial Officer ("CFO"), of the effectiveness
+  of the Company's disclosure controls and procedures.  Based on
+  that evaluation, the President/CFO has concluded that as of the
+  end of the period covered by this report, the Company's
+  disclosure controls and procedures are effective to provide
+  reasonable assurance that information required to be disclosed by
+  the Company in reports that it files or submits under the
+  Securities Exchange Act of 1934 is recorded, processed,
+  summarized and timely reported as provided in the Securities and
+  Exchange Commission rules and forms.  The Company periodically
+  reviews the design and effectiveness of our internal controls
+  over financial reporting, including compliance with various laws
+  and regulations that apply to the Company's operations.  The
+  Company makes modifications to improve the design and
+  effectiveness of its internal control structure, and may take
+  other corrective action, if the Company's reviews identify
+  deficiencies or weaknesses in its controls.  No changes occurred
+  during the quarter ended September 30, 2005 in the Company's
+  internal controls over financial reporting that have materially
+  affected, or are reasonably likely to materially affect, the
+  Company's internal control over financial reporting.
+                                13
+                     PART II - OTHER INFORMATION
+Item 2.  Changes In Securities
+During the three months ended September 30, 2005, no shares of
+  the Company's Stock were sold and no warrants to purchase shares
+  were issued.
+Item 6.  Exhibits and Reports on Form 8-K
+                    (a)      31.1     Certification pursuant to
+  Rule 13a-14 AND 15d-14 of the Securities Exchange act of 1934, as
+  adopted pursuant to Section 302 of the Sarbanes-Oxley act of 2002
+32.1     Certification pursuant to 18
+  U.S.C. Section 1350, as adopted pursuant to Section 906 of the
+  Sarbanes-Oxley act of 2002
+(b)      Reports on Form 8-K
+                             No Report on Form 8-K was filed during
+  the quarter ended September 30, 2005.
+14
+SIGNATURES
+Pursuant to the requirements of Sections 13 or 15(d) the
+  Securities and Exchange Act of 1934, the registrant has duly
+  caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized.
+OCG TECHNOLOGY, INC.
+BY /s/Edward C. Levine
+                                    EDWARD C. LEVINE,
+                                    PRESIDENT
+                                    CHIEF FINANCIAL OFFICER)
+DATED: November 11, 2005
+Exhibit 31.1
+15
+302 CERTIFICATION  SMALL BUSINESS CERTIFICATION OF PRESIDENT
+I, Edward C. Levine, President of the Registrant, OCG Technology,
+  Inc. hereby certify that:
+I have reviewed this quarterly Form 10-QSB
+             for the periods ending September 30, 2005
+             and 2004 of OCG Technology, Inc.;
+2)       Based on my knowledge, this
+             quarterly report does not contain any
+             untrue statement of a material fact or
+             omit to state a material fact necessary to
+             make the statements made, in light of the
+             circumstances under which such statements
+             were made, not misleading with respect to
+             the period covered by this quarterly report;
+3)       Based on my knowledge, the
+             financial statements, and other financial
+             information included in this report,
+             fairly present in all material respects
+             the financial condition, results of
+             operations and cash flows of the
+             Registrant as of, and for, the periods
+             presented in this quarterly report;
+4)       I am solely responsible for
+             establishing and maintaining disclosure
+             controls and procedures (as defined in
+             Exchange Act Rules 13a-15(e) and
+             15d-15(e)) and internal control over
+             financial reporting (as defined in
+             Exchange Act Rules 13a - 15(f) and 15d-
+             15(f)) for the Registrant and I have:
+designed such disclosure controls
+                      and procedures or caused such
+                      disclosure controls and
+                      procedures to be designed under
+                      my supervision, to ensure that
+                      material information relating to
+                      the Registrant, including its
+                      consolidated subsidiaries, is
+                      made known to us by others within
+                      those entities, particularly
+during the period in which this
+                      quarterly report is being prepared;
+designed such internal control
+                      over financial reporting, or
+                      caused such internal control over
+                      financial reporting to be
+                      designed under my supervision, to
+                      provide reasonable assurance
+                      regarding the reliability of
+                      financial reporting and the
+                      preparation of financial
+                      statements for external purposes
+                      in accordance with generally
+                      accepted accounting procedures;
+evaluated the effectiveness of
+                      the Registrant's disclosure
+                      controls and procedures and
+                      presented in this report our
+                      conclusions about the
+                      effectiveness of the disclosure
+                      controls and procedures as of the
+                      end of the period covered by this
+                      quarterly report based on such
+                      evaluation; and
+disclosed in this quarterly
+                      report any change in the
+                      Registrant's internal control
+                      over financial reporting that
+                      occurred during the period ending
+                      September 30, 2005 that has
+                      materially affected, or is
+                      reasonably likely to materially
+                      affect, the Registrant's internal
+                      control over financial reporting;
+                      and
+5)       I have disclosed, based on my
+             most recent evaluation of internal control
+             over financial reporting, to the
+             Registrant's auditors and the audit
+             committee of the Registrant's board of
+             directors (or persons performing the
+             equivalent function):
+a)        all significant
+                      deficiencies and material
+                      weaknesses in the design or
+                      operation of internal control
+                      over financial reporting which
+                      are reasonably likely to
+                      adversely affect the Registrant's
+                      ability to record, process,
+                      summarize and report financial
+                      information; and
+b)       any fraud, whether or
+                      not material, that involves
+                      management or other employees who
+                      have a significant role in the
+                      Registrant's internal control
+                      over financial reporting.
+Date:  November 11, 2005
+                                By: /s/ Edward C. Levine
+                                    Edward C. Levine, President/Chief
+                                    Financial Officer
+16
+Exhibit 32.1
+CERTIFICATION OF PRESIDENT/CHIEF EXECUTIVE OFFICER
+Pursuant to section 906 of the Sarbanes-Oxley Act of
+              2002 (18 U.S.C. ss. 1350), the undersigned, Edward C.
+              Levine, President and Chief Executive Officer, of OCG
+              Technology, Inc., a Delaware corporation, (the
+              "Company"), does hereby certify, to his knowledge,
+              that :
+The Quarterly Report on Form 10-QSB for the period
+              ended September 30, 2005 of the Company (the "Report")
+              fully complies with the requirements of section 13(a)
+              or 15(d) of the Securities Exchange Act of 1934; and
+              the information contained in the report fairly
+              presents, in all material respects, the financial
+              condition and result of operations of the Company.
+By: /s/ Edward C. Levine
+                  Edward C. Levine,
+                  President/Chief Financial Officer
+November 11, 2005
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
+17

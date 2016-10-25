@@ -1,0 +1,3381 @@
+
+10-Q 1 form10q.htm FORM 10-Q Energy Fuels Inc.: Form 10-Q - Filed by newsfilecorp.com
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-Q
+[X] QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+1934
+For the quarterly period ended June 30, 2016
+OR
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+1934
+For the transition period from __________ to __________
+Commission file number: 001-36204
+Energy Fuels Inc.
+(Exact Name of Registrant as Specified in its Charter)
+(State or other jurisdiction of incorporation or
+(I.R.S. Employer Identification No.)
+Ontario
+98-1067994
+organization)
+225 Union Blvd., Suite 600
+Lakewood, Colorado
+(Address of Principal Executive Offices)
+80228
+(Zip Code)
+(Registrant’s Telephone Number, including Area Code)
+(303) 389-4130
+Indicate by checkmark whether the registrant (1) filed all reports required to be filed by Section 13 or 15(d) of
+the  Securities  Exchange  Act  of  1934  during  the  preceding  12  months  (or  for  such  shorter  period  that  the
+registrant was required to file such reports), and (2) has been subject to such filing requirements for the past
+90 days.
+Yes [X]     No [   ]
+Indicate by check mark whether the Registrant has submitted electronically and posted on its corporate Web
+site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation
+S-T (§ 229.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit and post such files).
+Yes [   ]     No [X]
+Indicate  by  check  mark  whether  the  registrant  is  a  large  accelerated  filer,  an  accelerated  filer,  or  a  non-
+accelerated filer. See definition of “Accelerated filer and large accelerated filer” in Rule 12b-2 of the Exchange
+Act (Check one):
+Large Accelerated Filer [   ] Accelerated Filer [X]
+Non-Accelerated Filer [   ]
+Smaller Reporting Company
+[   ]
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange
+Act): 
+Yes [   ]     No [X]
+Indicate the number of shares outstanding of each of the issuer’s classes of common stock, as of the latest
+practical date: 
+57,653,872 common shares, without par value, outstanding as of August 5, 2016.
+ENERGY FUELS INC.
+FORM 10-Q
+For the Quarter Ended June 30, 2016
+INDEX
+PART I – FINANCIAL INFORMATION
+ITEM 1. CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+ITEM 4. CONTROLS AND PROCEDURES
+PART II – OTHER INFORMATION
+ITEM 1. LEGAL PROCEEDINGS
+ITEM 1A. RISK FACTORS
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+ITEM 4. MINE SAFETY DISCLOSURE
+ITEM 5. OTHER INFORMATION
+ITEM 6. EXHIBITS
+SIGNATURES
+3
+Page
+7
+26
+38
+40
+41
+41
+41
+41
+41
+41
+41
+Cautionary Statement Regarding Forward-Looking Information
+This  Quarterly  Report  and  the  exhibits  attached  hereto  (the  “Quarterly  Report”)  contain  “forward-looking
+statements”  within  the  meaning  of  applicable  US  and  Canadian  securities  laws.  Such  forward-looking
+statements  concern  Energy  Fuels  Inc.’s  (the  “Company’s”  or  “Energy  Fuels’”)  anticipated  results  and
+progress of the Company’s operations in future periods, planned exploration, and, if warranted, development
+of  its  properties,  plans  related  to  its  business,  and  other  matters  that  may  occur  in  the  future.  These
+statements relate to analyses and other information that are based on forecasts of future results, estimates of
+amounts not yet determinable and assumptions of management.
+Any statements that express or involve discussions with respect to predictions, expectations, beliefs, plans,
+projections, objectives, schedules, assumptions, future events, or performance (often, but not always, using
+words  or  phrases  such  as  “expects”  or  “does  not  expect”,  “is  expected”,  “anticipates”  or  “does  not
+anticipate”, “plans”, “estimates” or “intends”, or stating that certain actions, events or results “may”, “could”,
+“would”, “might” or “will” be “taken, occur or be achieved”) are not statements of historical fact and may be
+forward-looking statements.
+Forward-looking  statements  are  based  on  the  opinions  and  estimates  of  management  as  of  the  date  such
+statements are made. Energy Fuels believes that the expectations reflected in this forward-looking information
+are reasonable, but no assurance can be given that these expectations will prove to be correct,  and  such
+forward-looking information included in, or incorporated by reference into, this Quarterly Report should not be
+unduly relied upon. This information speaks only as of the date of this Quarterly Report.
+Readers  are  cautioned  that  it  would  be  unreasonable  to  rely  on  any  such  forward-looking  statements  and
+information as creating any legal rights, and that the statements and information are not guarantees and may
+involve known and unknown risks and uncertainties, and that actual results are likely to differ (and may differ
+materially) and objectives and strategies may differ or change from those expressed or implied in the forward-
+looking statements or information as a result of various factors. Such risks and uncertainties include risks
+generally  encountered  in  the  exploration,  development,  operation,  and  closure  of  mineral  properties  and
+processing  facilities.  Forward-looking  statements  are  subject  to  a  variety  of  known  and  unknown  risks,
+uncertainties and other factors which could cause actual events or results to differ from those expressed or
+implied by the forward-looking statements, including, without limitation:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+risks  associated  with  mineral  reserves  and  resource estimates, including the risk of errors in assumptions or
+methodologies;
+risks  associated  with  estimating  mineral  extraction  and recovery,  forecasting  future  price  levels  necessary  to
+support mineral extraction and recovery, and the Company’s ability to increase mineral extraction and recovery
+in response to any increases in commodity prices or other market conditions;
+uncertainties  and  liabilities  inherent  to  conventional mineral  extraction  and  recovery  and/or  in-situ  uranium
+recovery operations;
+geological,  technical  and  processing  problems,  including unanticipated  metallurgical  difficulties,  less  than
+expected recoveries, ground control problems, process upsets, and/or equipment malfunctions;
+risks associated with labor costs, labor disturbances, and unavailability of skilled labor;
+risks associated with the availability and/or fluctuations in the costs of raw materials and consumables used in
+the Company's production processes;
+risks  associated  with  environmental  compliance  and permitting,  including  those  created  by  changes  in
+environmental legislation  and  regulation,  and  delays  in  obtaining  permits  and  licenses that  could  impact
+expected mineral extraction and recovery levels and costs;
+actions taken by regulatory authorities with respect to mineral extraction and recovery activities;
+risks associated with the Company’s dependence on third parties in the provision of transportation and other
+critical services;
+risks associated with the ability of the Company to negotiate access rights on certain properties on favorable
+terms or at all;
+risks associated with the ability of the Company to extend or renew land tenure, including mineral leases and
+surface use agreements, on favorable terms or at all;
+4
+the adequacy of insurance coverage;
+uncertainty as to reclamation and decommissioning liabilities;
+the  ability  of  the  Company’s  bonding  companies  to  require increases  in  the  collateral  required  to  secure
+reclamation obligations;
+the potential for, and outcome of, litigation and other legal proceedings, including potential injunctions pending
+the outcome of such litigation and proceedings;
+the ability of the Company to meet its obligations to its creditors;
+risks associated with paying off indebtedness at its maturity;
+risks associated with the Company’s relationships with its business and joint venture partners;
+failure to obtain industry partner, government, and other third party consents and approvals, when required;
+competition for, among other things, capital, mineral properties, and skilled personnel;
+failure to complete proposed acquisitions and incorrect assessments of the value of completed acquisitions;
+risks  posed  by  fluctuations  in  share  price  levels, exchange  rates  and  interest  rates,  and  general  economic
+conditions;
+risks inherent in the Company’s and industry analysts’ forecasts or predictions of future uranium and vanadium
+price levels;
+fluctuations in the market prices of uranium and vanadium, which are cyclical and subject to substantial price
+fluctuations;
+failure to obtain suitable uranium sales terms, including spot and term sale contracts;
+risks associated with asset impairment as a result of market conditions;
+risks associated with lack of access to markets and the ability to access capital;
+the market price of Energy Fuels’ securities;
+public resistance to nuclear energy or uranium extraction and recovery;
+uranium industry competition and international trade restrictions;
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+uranium industry competition and international trade restrictions;
+risks related to higher than expected costs related to our Nichols Ranch Project and Canyon Project;
+risks related to securities regulations;
+risks related to stock price and volume volatility;
+risks related to our ability to maintain our listing on the NYSE MKT and Toronto Stock Exchanges;
+risks related to our ability to maintain our inclusion in various stock indices;
+risks related to dilution of currently outstanding shares;
+risks related to our lack of dividends;
+risks related to recent market events;
+risks related to our issuance of additional common shares;
+risks related to acquisition and integration issues;
+risks related to defects in title to our mineral properties;
+risks related to our outstanding debt; and
+risks related to our securities.
+Although we have attempted to identify important factors that could cause actual results to differ materially
+from those described in forward-looking statements, there may be other factors that cause results not to be as
+anticipated, estimated or intended. Should one or more of these risks or uncertainties materialize, or should
+underlying assumptions prove incorrect, actual results may vary materially from those anticipated, believed,
+estimated,  or  expected.  We  caution  readers  not  to  place  undue  reliance  on  any  such  forward-looking
+statements, which speak only as of the date made. Except as required by law, we disclaim any obligation to
+subsequently revise any forward-looking statements to reflect events or circumstances after the date of such
+statements or to reflect the occurrence of anticipated or unanticipated events. Statements relating to “Mineral
+Reserves” or “Mineral Resources” are deemed to be forward-looking information, as they involve the implied
+assessment, based on certain estimates and assumptions that the Mineral Reserves and Mineral Resources
+described may be profitably extracted in the future.
+We qualify all the forward-looking statements contained in this Quarterly Report by the foregoing cautionary
+statements.
+Cautionary Note to United States Investors Concerning Disclosure of Mineral Resources
+5
+This Quarterly Report contains certain disclosure that has been prepared in accordance with the requirements
+of  Canadian  securities  laws,  which  differ  from  the  requirements  of  United  States’  securities  laws.  Unless
+otherwise  indicated,  all  reserve  and  resource  estimates  included  in  this  Quarterly  Report,  and  in  the
+documents  incorporated  by  reference  herein,  have  been  prepared  in  accordance  with  Canadian  National
+Instrument  43-101  - Standards of Disclosure for Mineral Projects (“NI 43-101”) and the Canadian Institute of
+Mining, Metallurgy and Petroleum (“CIM”) classification system. NI 43-101 is a rule developed by the Canadian
+Securities Administrators (the “CSA”) which establishes standards for all public disclosure an issuer makes
+of scientific and technical information concerning mineral projects. As a company incorporated in Canada, we
+estimate and report our resources and our current reserves according to the definitions set forth in NI 43-101.
+Canadian  standards,  including  NI  43-101,  differ  significantly  from  the  requirements  of  the  United  States
+Securities and Exchange Commission (the “SEC”), and reserve and resource information contained herein, or
+incorporated by reference in this Quarterly Report, and in the documents incorporated by reference herein,
+may  not  be  comparable  to  similar  information  disclosed  by  companies  reporting  under  only  United  States
+standards.  In  particular,  and  without  limiting  the  generality  of  the  foregoing,  the  term  “resource”  does  not
+equate to the term “reserve” under SEC Industry Guide 7. Under United States standards, mineralization may
+not  be  classified  as  a  “reserve”  unless  the  determination  has  been  made  that  the  mineralization  could  be
+economically and legally produced or extracted at the time the reserve determination is made. Under SEC
+Industry Guide 7 standards, a “final” or “bankable” feasibility study is required to report reserves; the three-
+year historical average price, to the extent possible, is used in any reserve or cash flow analysis to designate
+reserves; and the primary environmental analysis or report must be filed with the appropriate governmental
+authority.
+The SEC’s disclosure standards under Industry Guide 7 normally do not permit the inclusion of information
+concerning “measured mineral resources”, “indicated mineral resources” or “inferred mineral resources” or
+other descriptions of the amount of mineralization in mineral deposits that do not constitute “reserves” by
+United States standards in documents filed with the SEC. United States investors should also understand that
+“inferred mineral resources” have a great amount of uncertainty as to their existence and as to their economic
+and legal feasibility. It cannot be assumed that all or any part of an “inferred mineral resource” will ever be
+upgraded to a higher category. Under Canadian rules, estimated “inferred mineral resources” may not form
+the basis of feasibility or prefeasibility studies. United States investors are cautioned not to assume that all or
+any part of measured or indicated mineral resources will ever be converted into mineral reserves. Investors
+are cautioned not to assume that all or any part of an “inferred mineral resource” exists or is economically or
+legally mineable.
+Disclosure  of  “contained  pounds”  or  “contained  ounces”  in  a  resource  estimate  is  permitted  disclosure
+under  Canadian  regulations;  however,  the  SEC  normally  only  permits  issuers  to  report  mineralization  that
+does not constitute “reserves” by SEC standards as in-place tonnage and grade without reference to unit
+measures. The requirements of NI 43-101 for identification of “reserves” are also not the same as those of the
+SEC,  and  reserves  reported  by  the  Company  in  compliance  with  NI  43-101  may  not  qualify  as  “reserves”
+under SEC Industry Guide 7 standards. Accordingly, information concerning mineral deposits set forth herein
+may not be comparable to information made public by companies that report in accordance with United States
+standards.
+6
+PART I
+ITEM 1. CONDENSED CONSOLIDATED FINANCIAL STATEMENTS.
+ENERGY FUELS INC.
+Consolidated Statements of Operations and Comprehensive Loss
+(unaudited) (Expressed in thousands of US dollars, except per share amounts)
+2015
+2015
+2016
+2016
+June 30,
+June 30,
+For the three months ended     For the six months ended  
+ 
+ 
+ 
+ 
+   
+$
+23,705  $
+ 
+13,382 
+- 
+ 
+ 
+506 
+ 
+1,781 
+ 
+104 
+91 
+ 
+ 
+1,255 
+ 
+2,625 
+6,118 
+ 
+(2,157)
+ 
+   
+ 
+ 
+(388)
+(1,515)
+ 
+(4,060)
+25,002  $
+ 
+16,242 
+1,619 
+ 
+ 
+10,917 
+ 
+3,531 
+ 
+351 
+169 
+ 
+ 
+2,438 
+ 
+8,113 
+- 
+ 
+(18,378)
+ 
+ 
+ 
+ 
+(1,161)
+233 
+ 
+(19,306)
+7,006  $
+ 
+4,099 
+1,619 
+ 
+ 
+3,475 
+ 
+1,365 
+ 
+176 
+95 
+ 
+ 
+2,219 
+ 
+4,285 
+- 
+ 
+(10,327)
+ 
+ 
+ 
+ 
+(585)
+471 
+ 
+(10,441)
+31,305 
+17,226 
+- 
+702 
+3,320 
+207 
+159 
+1,800 
+5,336 
+6,587 
+(4,032)
+ 
+(766)
+(465)
+(5,263)
+Revenue (Note 11)
+ Costs and expenses applicable to revenue
+ Impairment of inventories (Note 4)
+ Development, permitting and land holding
+ Standby costs
+ Accretion of asset retirement obligation
+ Selling costs
+ Intangible asset amortization
+ General and administration
+ Costs directly attributable to acquisitions
+Total operating loss
+ 
+Interest expense
+Other income (expense) (Note 11)
+Net loss
+ 
+Items that may be reclassifed in the future to
+profit and loss
+   
+Foreign currency translation adjustment
+ 
+Unrealized gain (loss) on available-for-sale assets  
+Other comprehensive income (loss)
+ 
+Comprehensive loss
+$
+   
+ 
+Net loss attributable to:
+   
+$
+Owners of the Company
+ 
+Non-controlling interests
+$
+Comprehensive loss attributable to:
+327 
+34 
+361
+(10,080) $
+ 
+ 
+ (10,408) $
+ 
+ (10,441) $
+(33)
+284 
+(52)
+232
+(3,828) $
+   
+   
+ (4,060) $
+ 
+ (4,060) $
+-
+(474)
+117 
+(357)
+(19,663) $
+ 
+ 
+ (19,216) $
+ 
+ (19,306) $
+(90)
+1,518 
+(82)
+1,436 
+ (3,827)
+ 
+ 
+ (5,263)
+- 
+ (5,263)
+Comprehensive loss attributable to:
+Owners of the Company
+Non-controlling interests
+ 
+ 
+Basic and diluted loss per share (Note 9)
+$
+ 
+$
+(33)
+(10,047) $
+ 
+ (10,080) $
+($0.20)
+-
+(3,828) $
+ 
+ (3,828) $
+($0.18)
+(90)
+(19,573) $
+ 
+ (19,663) $
+($0.38)
+(3,827)
+- 
+ (3,827)
+ 
+($0.25)
+7
+ENERGY FUELS INC.
+Consolidated Balance Sheets
+(unaudited)(Expressed in thousands of US dollars, except per share amounts)
+ASSETS
+ 
+Current assets
+ Cash and cash equivalents
+ Trade and other receivables
+ Inventories (Note 4)
+ Prepaid expenses and other assets
+ Mineral properties held for sale
+Total current assets
+ 
+ Notes receivable and other
+ Plant and equipment (Note 5)
+ Mineral properties (Note 5)
+ Intangible assets
+ Restricted cash (Note 6)
+Total assets
+ 
+LIABILITIES & EQUITY
+ 
+Current liabilities
+ Accounts payable and accrued liabilities
+ Warrant liabilities (Note 8)
+ Current portion of asset retirement obligation (Note 6)
+ Current portion of loans and borrowings (Note 7)
+Total current liabilities
+ 
+ Deferred revenue
+ Asset retirement obligation (Note 6)
+ Loans and borrowings (Note 7)
+Total liabilities
+ 
+Equity
+ Share capital (Note 8) 
+     Common shares, without par value, unlimited shares authorized; shares
+issued and outstanding 
+     57,653,872 at June 30, 2016 and 46,519,132 at December 31, 2015
+ Accumulated deficit
+ Accumulated other comprehensive income
+Total shareholders' equity
+     Non-controlling interests
+Total equity
+Total liabilities and equity
+563 
+23,872 
+1,231 
+- 
+40,082 
+ 
+1,152 
+40,314 
+93,630 
+6,680 
+19,611
+June 30, 2016 
+   
+ 
+ 
+   
+   
+ 
+$
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+$
+   
+   
+   
+   
+$
+As at
+ 
+  December 31, 2015 
+   
+ 
+ 
+   
+   
+ 
+ 14,416  $
+ 12,965 
+ 
+2,617 
+30,671 
+ 
+1,433 
+ 
+ 
+1,301 
+48,987 
+ 
+   
+ 
+1,096 
+ 
+ 
+29,069 
+91,031 
+ 
+9,117 
+ 
+12,980 
+ 
+ 201,469  $
+ 192,280 
+ 
+   
+ 
+   
+ 
+   
+   
+ 
+ 7,051  $
+ 9,274 
+1,661 
+262 
+ 
+305 
+ 
+1,000 
+6,465 
+3,582 
+ 
+15,482 
+14,118 
+ 
+   
+ 
+ 
+2,422 
+2,165 
+ 
+13,375 
+7,573 
+ 
+25,745 
+28,937 
+ 
+57,024 
+52,793
+$
+398,555 
+(261,324)
+3,148 
+140,379 
+4,066 
+144,445
+201,469  $
+373,934 
+(242,108)
+3,505 
+135,331 
+4,156 
+139,487
+192,280
+Commitments and contingencies (Note 12)
+ Subsequent events (Note 7a, 15)
+See accompanying notes to the consolidated financial statements.
+8
+ENERGY FUELS INC.
+Consolidated Statements of Changes in Equity
+(unaudited)(Expressed in thousands of US dollars, except per share amounts)
+Common Stock
+  Shares     Amount    Deficit    
+ 46,519,132 $ 373,934 $ (242,108)$
+Accumulated    
+   
+   
+   
+   
+    comprehensive    shareholders'    Non-controlling
+other
+Total
+income
+3,505 $
+equity
+135,331 $
+interests
+4,156 $
+Total equity 
+ 139,487
+-  
+-
+-  
+-
+(19,216) 
+-
+-  
+(357)
+(19,216) 
+(357)
+(90) 
+-
+(19,306)
+(357)
+Balance at
+December 31,
+2015
+Net loss
+Other
+comprehensive
+income
+Shares issued
+for cash by at-
+the-market
+offering (Note
+8a)
+Shares issued
+for public
+offering (Note
+8b)
+Shares issued
+for exercise of
+stock options
+Shares issued
+for the vesting
+of restricted
+stock units
+Share
+issuance cost
+Share-based
+compensation
+(Note 10)
+Shares issed
+for acquistion
+of Alta Mesa
+(Note 3 and
+8d)
+Shares issued
+for acquisition
+of 40% Roca
+Honda (Note
+8c)
+Balance at
+June 30, 2016
+200,200
+539
+5,031,250   10,021
+1,200
+3
+-
+-
+-
+-
+-
+-
+138,633
+-
+-
+-
+(1,111)
+1,112
+4,551,284   11,378
+1,212,173
+2,679
+-
+-
+-
+-
+-
+-
+-
+-
+539
+-
+539
+10,021
+-
+10,021
+3
+(1,111)
+1,112
+11,378
+-
+-
+-
+-
+3
+(1,111)
+1,112
+11,378
+2,679
+-
+2,679
+57,653,872 $ 398,555 $ (261,324)$
+3,148 $
+140,379 $
+4,066 $
+144,445
+See accompanying notes to the consolidated financial statements.
+9
+ENERGY FUELS INC.
+Consolidated Statements of Cash Flows
+(unaudited)(Expressed in thousands of US dollars, except per share amounts)
+OPERATING ACTIVITIES
+ Net loss for the period
+ Items not involving cash:
+     Depletion, depreciation and amortization
+     Stock-based compensation (Note 10)
+     Change in value of convertible debentures (Note 7)
+     Accretion of asset retirement obligation (Note 6)
+     Unrealized foreign exchange losses
+     Impairment of inventories
+     Development expenditures
+     Miscellaneous non- cash (income) expenses
+ Changes in assets and liabilities
+     (Increase) decrease in inventories
+     (Increase) decrease in trade and other receivables
+     (Increase) decrease in prepaid expenses and other assets
+     Increase (decrease) in accounts payable and accrued liabilities
+ Changes in deferred revenue
+ Cash paid for reclamation and remediation activities (Note 6)
+INVESTING ACTIVITIES
+ Purchase of mineral properties and property, plant and equipment
+ Acquisition of Uranerz Energy Corporation, net of cash acquired
+ Acquisition of Alta Mesa, net of cash acquired (Note 3)
+ Acquisition of Roca Honda, net of cash acquired
+ Change in cash deposited with regulatory agencies for asset retirement
+obligations (Note 6)
+ Sale of mineral properties held for sale
+FINANCING ACTIVITIES
+ Issuance of common shares for cash
+ Option and warrant exercises
+ Repayment of loans and borrowings
+INCREASE IN CASH AND CASH EQUIVALENTS DURING THE PERIOD
+ Effect of exchange rate fluctuations on cash held in foreign currencies
+ Cash and cash equivalents - beginning of period
+CASH AND CASH EQUIVALENTS - END OF PERIOD
+ 
+Non-cash investing and financing transactions:
+ Issuance of secured notes for acquisition of mineral properties
+ Issuance of common shares, options and warrants for acquisition of Uranerz
+Energy Corporation
+ Issuance of common shares for acquisition of Alta Mesa (Note 3 and 8d)
+Issuance of common shares for acquisition of 40% Roca Honda (Note 8c)
+See accompanying notes to the consolidated financial statements.
+$
+$
+For the six months ended
+June 30,
+2016
+2015
+(19,306) $
+2,591 
+1,112 
+989 
+351 
+337 
+1,619 
+31 
+(1,165)
+ 
+7,681 
+2,206 
+508 
+(2,715)
+257 
+(698)
+(6,202)
+ 
+(42)
+- 
+(1,290)
+101
+(2,147)
+ 
+845 
+ 
+(2,533)
+ 
+ 
+ 
+11,503 
+ 
+3 
+ 
+(1,606)
+ 
+9,900 
+ 
+ 
+ 
+1,165 
+ 
+286 
+ 
+12,965 
+ 
+ 14,416  $
+-
+-
+11,378 
+2,679
+(5,263)
+ 
+1,848 
+497 
+890 
+207 
+517 
+- 
+- 
+3,955 
+ 
+4,131 
+(2,908)
+154 
+(51)
+183 
+(195)
+3,965 
+ 
+(1,319)
+2,457 
+- 
+-
+5,267 
+- 
+6,405 
+ 
+3 
+100 
+(25)
+78 
+ 
+10,448 
+(101)
+10,411 
+ 20,758 
+  
+  
+446
+110,268
+- 
+-
+10
+ENERGY FUELS INC.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE SIX MONTHS ENDED JUNE 30, 2016
+(Tabular amounts expressed in thousands of US Dollars except share and per share amounts)
+1.
+THE COMPANY AND DESCRIPTION OF BUSINESS
+Energy Fuels Inc. was incorporated under the laws of the Province of Alberta and was continued under the
+Business Corporations Act (Ontario, Canada).
+Energy Fuels Inc. and its subsidiary companies (collectively “the Company” or “EFI”) are engaged in uranium
+extraction,  recovery  and  sales  of  uranium  from  mineral  properties  and  the  recycling  of  uranium  bearing
+materials  generated  by  third  parties.  As  a  part  of  these  activities  the  Company  also  acquires,  explores,
+evaluates and, if warranted, permits uranium properties. The Company’s final uranium product, uranium oxide
+concentrates (“U3O8”  or  “uranium  concentrates”),  is  sold  to  customers  for  further  processing  into  fuel  for
+nuclear reactors.
+The Company is an exploration stage mining company as defined by the United States (“US”) Securities and
+Exchange Commission (“SEC”) Industry Guide 7 (the “SEC Industry Guide 7”) as it has not established the
+existence of proven or probable reserves on any of our properties.
+2.
+BASIS OF PRESENTATION
+The  consolidated  financial  statements  have  been  prepared  in  accordance  with  accounting  principles
+generally accepted in the United States (“US GAAP”) and are presented in thousands of US dollars (“USD”)
+except per share amounts. Certain footnote disclosures have share prices which are presented in Canadian
+dollars (“Cdn$”).
+The interim consolidated financial statements included herein have been prepared by the Company, without
+audit, pursuant to the rules and regulations of the SEC. Certain information and note disclosures normally
+included  in  financial  statements  prepared  in  accordance  with  US  GAAP  have  been  condensed  or  omitted
+pursuant  to  such  rules  and  regulations,  although  the  Company  believes  that  the  disclosures  included  are
+adequate to make the information presented not misleading.
+In  management’s  opinion,  these  unaudited  interim  financial  statements  reflect  all  adjustments,  consisting
+solely  of  normal  recurring  items,  which  are  necessary  for  the  fair  presentation  of  the  Company’s  financial
+position, results of operations and cash flows on a basis consistent with that of the Company’s prior audited
+consolidated  financial  statements.  However,  the  results  of  operations  for  the  interim  periods  may  not  be
+indicative  of  results  to  be  expected  for  the  full  fiscal  year.  Therefore  these  unaudited  interim  financial
+statements  should  be  read  in  conjunction  with  the  audited  financial  statements  and  notes  thereto  and
+summary of significant accounting policies included in the Company’s annual report on Form 10-K for the
+year ended December 31, 2015.
+The consolidated financial statements include the accounts of the Company and its subsidiaries. All inter-
+company accounts and transactions have been eliminated.
+11
+Recently Adopted Accounting Pronouncements
+Fair value measurement
+In  May  2015,  ASU  No.  2015-07  was  issued  related  to  investments  for  which  fair  value  is  measured,  or  are
+eligible  to  be  measured,  using  the  net  asset  value  per  share  practical  expedient.  This  update  removes  the
+requirement to categorize within the fair value hierarchy all investments for which fair value is measured using
+the  net  asset  value  per  share  practical  expedient.  The  amendment  also  removes  certain  disclosure
+requirements  for  these  investments.  This  update  will  impact  the  annual  disclosure  related  to  pension  plan
+assets measured at fair value. This update is effective in fiscal years, including interim periods, beginning after
+December 15, 2015. Adoption of this guidance effective January 1, 2016 had no impact on the Consolidated
+Financial Statements.
+Debt issuance costs
+In  April  2015,  ASU  No.  2015-03  was  issued  related  to  debt  issuance  costs.  This  update  simplifies  the
+presentation of debt issuance costs by requiring debt issuance costs to be presented as a deduction from the
+corresponding debt liability. The update is effective in fiscal years, including interim periods, beginning after
+December 15, 2015. Adoption of this guidance effective January 1, 2016 had no impact on the Consolidated
+Financial Statements.
+Consolidations
+In February 2015, ASU No. 2015-02 was issued related to consolidations. This update makes some targeted
+changes  to  current  consolidation  guidance  and  impacts  both  the  voting  and  the  variable  interest
+consolidation  models.  In  particular,  the  update  changes  how  companies  determine  whether  limited
+partnerships or similar entities are variable interest entities. The update is effective in fiscal years, including
+interim periods, beginning after December 15, 2015. The adoption of this guidance effective January 1, 2016
+had no impact on the Consolidated Financial Statements or disclosures.
+Recently Issued Accounting Pronouncements not yet adopted
+The FASB issued the following new and revised standards and amendments, which are not yet effective which
+may have future applicability to the Company:
+Investments
+In January 2016, ASU No. 2016-01 was issued related to financial instruments. The new guidance requires
+entities to measure equity investments that do not result in consolidation and are not accounted for under the
+equity method at fair value and recognize any changes in fair value in net income. This new guidance also
+updates  certain  disclosure  requirements  for  these  investments.  This  update  is  effective  in  fiscal  years,
+including  interim  periods,  beginning  after  December  15,  2017,  and  early  adoption  is  not  permitted.  The
+Company is currently evaluating this guidance and the impact it will have on the financial statements.
+Leases
+In February 2016, the FASB issued ASU 2016-02 which core principle is that a lessee should recognize the
+assets and the liabilities that arise from leases, including operating leases. Under the new requirements, a
+lessee will recognize in the balance sheet a liability to make lease payments (the lease liability) and the right-of-
+use asset representing the right to the underlying asset for the lease term. For leases with a term of twelve
+months or less, the lessee is permitted to make an accounting policy election by class of underlying asset not
+to recognize lease assets and lease liabilities. The recognition, measurement, and presentation of expenses
+and cash flows arising from a lease by a lessee have not significantly changed from the previous GAAP. The
+standard is effective for fiscal years beginning after December 15, 2018, including interim periods within such
+fiscal year, with early adoption permitted. The ASU requires a modified retrospective transition method with
+the option to elect a package of practical expedients. The Company is evaluating the effect of this amendment
+and the impact it will have on the Company’s financial statements.
+12
+Going Concern
+In  August  2014,  ASU  2014-15  guidance  was  issued  which  provides  guidance  about  management’s
+responsibility to evaluate whether there is substantial doubt about an entity’s ability to continue as a going
+concern  and  to  provide  related  footnote  disclosures.  The  amendments  require  management  to  assess  an
+entity’s ability to continue as a going concern by incorporating and expanding upon certain principles that are
+currently  in  US  auditing  standards.  Specifically,  the  amendments  (1)  provide  a  definition  of  the  term
+substantial  doubt,  (2)  require  an  evaluation  every  reporting  period  including  interim  periods,  (3)  provide
+principles for considering the mitigating effect of management’s plans, (4) require certain disclosures when
+substantial  doubt  is  alleviated  as  a  result  of  consideration  of  management’s  plans,  (5)  require  an  express
+statement and other disclosures when substantial doubt is not alleviated, and (6) require an assessment for a
+period  of  one  year  after  the  date  that  the  financial  statements  are  issued  (or  available  to  be  issued).  The
+amendments in this update shall be effective for annual periods ending after December 15, 2016, and interim
+periods  within  annual  periods  beginning  after  December  15,  2016,  with  early  application  permitted.  The
+Company is currently evaluating this guidance and the impact on the Company’s financial statements.
+Financial instruments
+In January 2016, ASU 2016-01 was issued related to financial instruments. The update intends to enhance the
+reporting model for financial instruments to provide users of financial instruments with more decision-useful
+information and addresses certain aspects of the recognition, measurement, presentation, and disclosure of
+financial instruments. The update is effective in fiscal years, including interim periods beginning on or after
+December  15,  2017.  The  Company  is  currently  evaluating  this  guidance  and  the  impact  it  will  have  on  the
+financial statements.
+3.
+ACQUISITION OF THE ALTA MESA ISR PROJECT
+On  June  16,  2016,  the  Company  acquired  100%  of  the  membership  interests  of  EFR  Alta  Mesa  LLC  (“Alta
+Mesa”)  (formerly  named  “Mesteña  Uranium,  LLC”)  and  its  related  companies,  together  referred  to  as  “Alta
+Mesa”. Under the terms of the acquisition agreement, the sellers of Alta Mesa received 4,551,824 common
+shares of the Company.
+Alta  Mesa’s  primary asset is the Alta Mesa ISR Project (the “Alta Mesa Project”) located in Texas. The Alta
+Mesa  Project  is  a fully-permitted  and  licensed  production  facility  that  is  not  currently  operating. The
+acquisition was accounted for as a purchase of assets as Alta Mesa does not meet the definition of a business
+under  ASC  Topic  805,  Business  Combinations because  the  assets  in  Alta  Mesa  do  not  have  developed
+wellfields  which  are  a key  process  for  extraction  of  uranium.  The  development  can  only  commence  once
+uranium prices improve and economic feasibility of the Alta Mesa Project is established. The measurement of
+the purchase consideration was based on the market price of the Company's common stock on June 16, 2016
+of  $2.50  per  share. The total transaction costs incurred through June 30, 2016 by the Company were $1.29
+million which were capitalized as part of the purchase consideration.
+The aggregate fair values of assets acquired and liabilities assumed were as follows on the acquisition date:
+13
+Issuance of 4,551,824 common shares
+Transaction costs
+Purchase consideration
+The purchase price was allocated as follows:
+Property, plant and equipment (a)
+Inventories
+Restricted cash
+Accounts payable and accrued liabilities
+Asset retirement obligation
+Net identifiable assets
+$
+ 
+$
+   
+$
+ 
+ 
+ 
+ 
+$
+11,378 
+1,290 
+ 12,668 
+ 
+ 13,680 
+177 
+4,478 
+(213)
+(5,454)
+ 12,668
+(a)
+The  Property,  plant  and  equipment  includes  the  value ascribed to the processing plant and equipment.
+The mineral properties acquired as part of the acquisition of Alta Mesa in 2016 do not have proven and
+probable reserves under SEC Industry Guide 7. Accordingly, all subsequent expenditures at the Alta Mesa
+Project and equipment, which do not have any alternative use, and expenditures on mineral properties are
+expensed as incurred.
+4.
+INVENTORIES
+Concentrates and work-in-progress (a)
+June 30,
+2016
+December 31,
+2015
+Concentrates and work-in-progress (a)
+   Inventory of ore in stockpiles
+   Raw materials and consumables
+$
+ 
+ 
+$
+8,798 
+3,063
+12,011  $
+ 
+ 
+ 23,872  $
+19,900 
+7,767 
+3,004 
+ 30,671
+(a) During  the  period  ended  June  30,  2016,  the  Company recorded  an  impairment  loss  of  $1.62  million  in
+profit and loss related to concentrates and work in progress inventories in the ISR segment.
+5.
+PLANT AND EQUIPMENT AND MINERAL PROPERTIES
+The following is a summary of plant and equipment:
+14
+Plant and equipment
+ Nichols Ranch
+ Alta Mesa (Note 3)
+ Equipment and other
+Plant and equipment
+total
+2016
+June 30,
+Accumulated    
+ 
+  Cost
+    Depreciation     Net Book Value     Cost
+   
+   
+$  29,210  $
+24,627  $  29,210  $
+13,680 
+ 
+2,007
+(4,583) $
+- 
+(11,144)
+13,680 
+13,151
+- 
+13,107
+2015
+December 31,
+Accumulated     Net Book  
+    Depreciation     Value
+(2,370) $  26,840 
+- 
+2,229
+- 
+(10,878)
+$  56,041  $
+(15,727) $
+40,314  $  42,317  $
+(13,248) $  29,069
+The following is a summary of mineral properties:
+Mineral properties
+ In-situ Recovery
+     Uranerz ISR properties
+In-situ Recovery total
+ Conventional
+     Sheep Mountain
+     Roca Honda (a)
+     Other
+ Conventional total
+Mineral Properties total
+$
+$
+   
+ 
+ 
+ 
+ 
+$
+June 30,
+2016
+2015
+December 31,  
+   
+ 
+   
+   
+ 36,065  $
+ 36,065  $
+   
+ 
+34,183 
+ 
+22,095 
+ 
+1,287 
+ 
+57,565 
+ 
+ 93,630  $
+36,096 
+ 36,096 
+ 
+34,183 
+19,465 
+1,287 
+54,935 
+ 91,031
+a)
+On  May  27,  2016,  the  Company  issued  1,212,173  shares  to acquire the remaining 40% interest of the Roca
+Honda project for consideration of $2.68 million as well as an additional $4.5 million in cash payable upon first
+commencement of commercial mineral extraction. The acquisition was accounted for as a purchase of assets as
+Roca Honda does not meet the definition of a business under ASC Topic 805, Business Combinations because
+the Company does not currently have the resources, both inputs and processes, to apply to the Roca Honda
+property in order to extract uranium.
+6.
+ASSET RETIREMENT OBLIGATIONS AND RESTRICTED CASH
+The following table summarizes the Company’s asset retirement obligations:
+Asset retirement obligation, beginning of period
+   Revision of estimate
+   Aquried in asset acquisitions or business combinations
+   Accretion of liabilities
+   Settlements
+Asset retirement obligation, end of period
+Asset retirement obligation:
+$
+ 
+ 
+ 
+ 
+$
+June 30,
+2016
+2015
+December 31,  
+   
+ 
+ 8,573  $
+ 
+ 
+ 
+ 
+ 13,680  $
+5,683 
+877 
+2,145 
+494 
+(626)
+ 8,573
+- 
+5,454 
+351 
+(698)
+Asset retirement obligation:
+   Current
+   Non-current
+Asset retirement obligation, end of period
+$
+ 
+$
+305  $
+13,375 
+ 
+ 13,680  $
+1,000 
+7,573 
+ 8,573
+15
+Revision of estimates is as a result of a change in estimates of the amount or timing of cash flows to settle
+asset retirement obligations. Changes to the asset retirement obligations are recorded in profit and loss.
+The asset retirement obligations of the Company are subject to legal and regulatory requirements. Estimates
+of  the  costs  of  reclamation  are  reviewed  periodically  by  the  applicable  regulatory  authorities.  The  above
+provision  represents  the  Company’s  best  estimate  of  the  present  value  of  future  reclamation  costs,
+discounted using credit adjusted risk-free interest rates ranging from 9.5% to 11.5% and an inflation rate of
+2.0% (December 31, 2015 – 2.0%). The total undiscounted decommissioning liability at June 30, 2016 is $41.23
+million (December 31, 2015 - $32.30 million). Reclamation costs are expected to be incurred between 2016 and
+2038  in  the  following  manner:  2016  –  2020  -  $4.67  million,  2021  –  2025  -  $9.41  million,  2026  –  2030  -  $2.69
+million, 2031 – 2035 - $8.78 million, 2036 – 2038 - $15.67 million.
+The following table summarizes the Company’s restricted cash:
+Restricted cash, beginning of period
+   Restricted cash from acquisitions
+   Refunds of collateral
+   Collateral posted
+Restricted cash, end of period
+$
+ 
+ 
+ 
+$
+June 30,
+2016
+2015
+December 31,  
+ 
+   
+ 12,980  $
+ 
+ 
+ 
+ 19,611  $
+16,148 
+2,100 
+(5,268)
+- 
+ 12,980
+4,478 
+- 
+2,153
+The Company has cash, cash equivalents and fixed income securities as collateral for various bonds posted
+in favor of the State of Utah, the State of Wyoming, the applicable state regulatory agencies in Colorado and
+Arizona and the U.S. Bureau of Land Management for estimated reclamation costs associated with the White
+Mesa  mill  and  mining  properties.  Cash  equivalents  are  short-term  highly  liquid  investments  with  original
+maturities of three months or less. The restricted cash will be released when the Company has reclaimed a
+mineral property or restructured the surety and collateral arrangements. See Note 12 for a discussion of the
+Company’s surety bond commitments.
+7.
+LOANS AND BORROWINGS
+The  contractual  terms  of  the  Company’s  interest-bearing  loans  and  borrowings,  which  are  measured  at
+amortized cost, and the Company’s convertible debentures which are measured at fair value, are as follows.
+Current portion of loans and borrowings:
+ Convertible debentures (a)
+ Secured note (b)
+ Wyoming Industrial Development Revenue Bond loan (c)
+ Finance leases and other
+Total current loans and borrowings
+Long-term loans and borrowings:
+ Convertible debentures (a)
+ Secured note (b)
+ Wyoming Industrial Development Revenue Bond loan (c)
+ Finance leases and other
+Total long-term loans and borrowings
+16
+$
+ 
+ 
+ 
+$
+   
+$
+ 
+ 
+ 
+$
+June 30,
+2016
+2015
+- 
+3,133 
+18
+December 31,  
+   
+ 
+   
+ 3,314  $
+ 
+ 
+ 
+ 6,465  $
+   
+ 13,256  $
+ 
+ 
+ 
+ 25,745  $
+- 
+250 
+3,291 
+41 
+ 3,582 
+ 
+ 14,624 
+224 
+14,078 
+11 
+ 28,937
+- 
+12,489 
+-
+(a) On July 24, 2012, the Company completed a bought deal public offering of 22,000 floating-rate convertible
+unsecured  subordinated debentures originally maturing June 30, 2017 (the “Debentures”), but amended
+August 4, 2016 to mature on December 31, 2020. The Debentures were issued at a price of Cdn$1,000
+per  Debenture  for  gross  proceeds  of  $21.55 million  (the  “Offering”).  The  Debentures  were  originally
+convertible into common shares at the option of the holder at a conversion price of Cdn$15.00 per common
+share, but was amended on August 4, 2016 to be a conversion price of Cdn$4.15 per common share.
+Interest  is  paid  in  cash  and  in  addition,  unless  an  event  of default  has  occurred  and  is  continuing,  the
+Company may elect, from time to time, subject to applicable regulatory approval, to satisfy its obligation to
+pay interest on the Debentures, on the date it is payable under the indenture (i) in cash; (ii) by delivering
+sufficient common shares to the debenture trustee, for sale, to satisfy the interest obligations in accordance
+with the indenture in which event holders of the Debentures will be entitled to receive a cash payment
+equal to the proceeds of the sale of such common shares; or (iii) any combination of (i) and (ii).
+ 
+The Debentures accrue interest, payable semi-annually in arrears on June 30 and December 31 of each
+year at a fluctuating rate, of not less than 8.5% and not more than 13.5%, indexed to the simple average
+spot  price  of  uranium  as  reported  on  the  UxC  Weekly  Indicator  Price. Interest  can  be  paid  in  cash  or
+issuance of the Company’s common shares. The Debentures may be redeemed in whole or part, at par
+plus  accrued interest  and  unpaid  interest  by  the  Company  between  June  30,  2015  and  June 30,  2017
+subject  to  certain  terms  and  conditions,  provided  the  volume weighted  average  trading  price  of  the
+common  shares  of  the  Company  on  the TSX  during  the  20  consecutive  trading  days  ending  five  days
+preceding  the date on which the notice of redemption is given is not less than 125% of the  conversion
+price.
+ 
+Upon redemption or at maturity, the Company will repay the indebtedness represented by the Debentures
+by paying to the debenture trustee in Canadian dollars an amount equal to the aggregate principal amount
+of the outstanding Debentures which are to be redeemed or which have matured, as applicable, together
+with accrued and unpaid interest thereon.
+ 
+Subject  to  any  required  regulatory  approval  and  provided no  event  of  default  has  occurred  and  is
+continuing, the Company has the option to satisfy its obligation to repay the Cdn$1,000 principal amount of
+the Debentures, in whole or in part, due at redemption or maturity, upon at least 40 days’ and not more
+than  60  days’  prior  notice,  by delivering  that  number  of  common  shares  obtained  by  dividing  the
+Cdn$1,000 principal amount of the Debentures maturing or to be redeemed as applicable, by 95% of the
+volume-weighted  average  trading  price  of  the common  shares  on  the  TSX  during  the  20  consecutive
+trading days ending five trading days preceding the date fixed for redemption or the maturity date, as the
+case may be.
+ 
+On August 4, 2016, the Company, by a vote of the Debentureholders, extended the maturity date of the
+Debentures from June 30, 2017 to December 31, 2020, reduced the conversion price of the Debentures
+from Cdn$15.00 to Cdn$4.15 per Common Share of the Company. In addition, a redemption provision was
+added that will enable the Company, upon giving not less than 30 days notice to Debentureholders,  to
+redeem the Debentures, for cash, in whole or in part at any time after June 30, 2019, but prior to maturity, at
+a price of 101% of the aggregate principal amount redeemed, plus accrued and unpaid interest (less any
+tax required by law to be deducted) on such Debentures up to but excluding the redemption date. A right
+(in favor of each Debentureholder) was also added to give the Debentureholders the option to require the
+Company  to  purchase,  for cash,  on  the  previous  maturity  date  of  June  30,  2017,  up  to  20%  of  the
+Debentures held by the Debentureholders at a price equal to 100% of the principal amount purchased plus
+accrued  and  unpaid  interest  (less  any  tax required  by  law  to  be  deducted).  In  addition,  certain  other
+amendments  were made  to  the  Indenture,  as  required  by  the  U.S.  Trust  Indenture  Act  of  1939,  as
+amended, and with respect to the addition of a U.S. Trustee in compliance therewith, as well as to remove
+provisions of the Indenture that no longer apply, such as U.S. securities law restrictions that are no longer
+relevant.
+In accordance with the revised terms approved on August 4, 2016, the Company has classified 20% of the
+principal amount of the debenture as a current liability.
+The debentures are classified as fair value through profit or loss where the debentures are measured at fair
+(b)
+(c)
+value  based  on the  closing  price  on  the  TSX  (a  level  1  measurement)  and  changes  are recognized  in
+earnings.  For  the  six  months  ended  June  30,  2016  the  Company recorded  a  loss  on  revaluation  of
+convertible debentures of $0.99 million (June 30, 2015 – $0.89 million).
+ 
+In February 2015 the Company issued a secured note in the amount of $0.45 million for a 50% interest in a
+joint venture with an effective interest rate of 7%. In February 2016 the Company amended the terms of the
+note to include a onetime payment of $0.05 million on February 13, 2016 and a payment of $0.45 million
+due on the date on which ore from the Wate Project is successfully processed through a mill into uranium
+concentrates.
+ 
+The  Company  through  its  acquisition  of  Uranerz  assumed  a loan  through  the  Wyoming  Industrial
+Development Revenue Bond program (the "Loan"). The Loan has an annual interest rate of 5.75% and is
+repayable over seven years, maturing on October 15, 2020. The Loan originated on December 3, 2013
+and required the payment of interest only for the first year, with the amortization of principal plus interest
+over  the  remaining six  years.  The  Loan  can  be  repaid  earlier  than  its  maturity  date  if  the Company  so
+chooses without penalty or premium. The Loan is secured by most of the assets of the Company’s wholly
+owned subsidiary, Uranerz, including mineral properties, the processing facility, and equipment as well as
+a n assignment  of  all  of  Uranerz’  rights,  title  and  interest  in  and  to  its product  sales  contracts  and  other
+agreements. Uranerz is also subject to dividend restrictions. Principal and interest are paid on a quarterly
+basis on the first day of January, April, July and October. At June 30, 2016 the loan had an outstanding
+balance of $15.62 million of which the current portion of the note was $3.13 million.
+8.
+CAPITAL STOCK
+Authorized capital stock
+17
+The Company is authorized to issue an unlimited number of Common Shares without par value, unlimited
+Preferred Shares issuable in series, and unlimited Series A Preferred Shares. The Series A Preferred shares
+are non-redeemable, non-callable, non-voting and with no right to dividends. The Preferred Shares issuable in
+series will have the rights, privileges, restrictions and conditions assigned to the particular series upon the
+Board of Directors approving their issuance.
+Issued capital stock
+The significant transactions relating to capital stock issued for the six months ended June 30, 2016 are:
+a)
+b)
+In the six months ended  June  30,  2016,  The  Company  issued 200,200 shares under the Company’s “at-the-
+market” offering (the “ATM”) for proceeds of $0.53 million.
+ 
+On March 14, 2016, the Company completed a public offering of 5,031,250 units at a price of $2.40 per unit for
+gross proceeds of $12.08 million. Each Unit consists of one common share and one half of one common share
+purchase  warrant,  or  a  total  of  5,031,250  Shares and  2,515,625  Warrants.  Each  warrant  is  exercisable  until
+March  14,  2019 and  entitles  the  holder  thereof  to  acquire  one  Share  upon  exercise  at  an exercise  price  of
+US$3.20 per share. These warrants are accounted for as a derivative liability, as the functional currency of the
+entity issuing the warrant is Cdn$.
+The  following  weighted  average  assumptions  were  used  for  the  Black-Scholes  option  pricing  model  to
+calculate the $2.09 million of fair value for the 2,515,625 warrants issued in connection with the public offering
+in March 2016.
+Risk-free rate
+Expected life
+Expected volatility
+Expected dividend yield
+1.15%
+3.0
+years
+61.2%*
+0.0%
+*
+Expected volatility is measured based on the Company’s historical share price volatility over the expected
+life of the warrants.
+c)
+d)
+On  May  27,  2016,  the  Company  issued  1,212,173  shares  to acquire the remaining 40% interest of the Roca
+Honda Joint Venture for share consideration of $2.68 million.
+ 
+On June 16, 2016 the Company issued 4,551,284 shares to acquire Alta Mesa with value of $11.38 million.
+Share Purchase Warrants
+The Company has share purchase warrants denominated in Canadian dollars and US dollars.
+The following table summarizes the Company’s share purchase warrants denominated in Cdn$:
+Month Issued
+June 2012(1)
+June 2013(1)
+Expiry Date    
+ 
+  June 22, 2017 
+  June 15, 2017
+Exercise Price     Warrants
+Cdn$
+13.25 
+9.50
+Outstanding  
+351,025 
+ 
+ 
+456,948
+(1)
+The expiration date for these warrants was extended by one year on March 24, 2016.
+The  following  table  summarizes  the  Company’s  share  purchase  warrants  denominated  in  USD.  These
+warrants are accounted for as derivative liabilities as the functional currency of the entity issuing the warrants
+is Cdn$.
+18
+Month Issued
+June 2015
+March 2016
+Expiry Date
+Exercise Price     Warrants
+Outstanding     June 30, 2016
+Fair value at
+USD$
+January 25,
+2017 
+March 14,
+2019
+6.28
+1,224,000  $
+3.20
+2,515,625
+$
+35
+1,626 
+ 1,661
+The US dollar based warrants are classified as Level 2 under the fair value hierarchy (Note 15).
+The  following  weighted  average  assumptions  were  used  for  the  Black-Scholes  option  pricing  model  to
+calculate the $1.63 million of fair value for the 2,515,625 warrants at June 30, 2016.
+Risk-free rate
+Expected life
+Expected volatility
+Expected dividend yield
+0.71%
+2.7
+years
+99.6%*
+0.0%
+The  following  weighted  average  assumptions  were  used  for  the  Black-Scholes  option  pricing  model  to
+calculate the $0.40 million of fair value for the 1,224,000 warrants at June 30, 2016.
+Risk-free rate
+Expected life
+Expected volatility
+Expected dividend yield
+0.36%
+0.6
+years
+56.0%*
+0.0%
+*
+Expected volatility is measured based on the Company’s historical share price volatility over the expected
+life of the warrants.
+9.
+BASIC AND DILUTED LOSS PER COMMON SHARE
+Basic and diluted loss per share
+The calculation of diluted earnings per share after adjustment for the effects of all potential dilutive common
+shares, calculated as follows:
+Loss attributable to shareholders
+Basic and diluted weighted average number
+of common shares outstanding
+Loss per common share
+June 30,
+Three months ended
+ 
+2016
+ 
+($10,408)
+ 
+ 
+   
+  53,043,512 
+($0.20)
+2015
+   
+($4,060)
+ 
+ 
+   
+  22,999,968 
+($0.18)
+2016
+   
+($19,216)
+ 
+ 
+   
+  50,282,647 
+($0.38)
+2015
+   
+($5,263)
+ 
+ 
+   
+  21,347,938 
+($0.25)
+Six months ended
+June 30,
+For  the  three  and  six  months  ended  June  30,  2016  and  2015,  6.76  million  and  3.84  million  options  and
+warrants, respectively, and the potential conversion of the uranium debentures have been excluded from the
+calculation as their effect would have been anti-dilutive.
+10. SHARE-BASED PAYMENTS
+The  Company,  under  the  2015  Omnibus  Equity  Incentive  Compensation  Plan  (the  “Compensation  Plan”),
+maintains a stock incentive plan for directors, executives, eligible employees and consultants. Stock incentive
+awards include employee stock options and restricted stock units (“RSUs”). The Company issues new shares
+of common stock to satisfy exercises and vesting under all of its stock incentive awards. At June 30, 2016, a
+total of 5,765,387 shares were authorized for stock incentive plan awards.
+19
+Employee Stock Options
+The  Company,  under  the  Compensation  Plan  may  grant  options  to  directors,  executives,  employees  and
+consultants  to  purchase  common  shares  of  the  Company.  The  exercise  price  of  the  options  is  set  as  the
+higher of the Company’s closing share price on the day before the grant date or the five-day volume weighted
+average price. Stock options granted under the Compensation Plan generally vest over a period of two years
+or more and are generally exercisable over a period of five years from the grant date not to exceed 10 years.
+The value of each option award is estimated at the grant date using the Black-Scholes Option Valuation Model.
+There were 0.42 million options granted in the six months ended June 30, 2016 (six months ended June 30,
+2015 – 0.13 million). At June 30, 2016, there were 2.21 million options outstanding with 1.96 million options
+exercisable, at a weighted average exercise price of $6.54, with a weighted average remaining contractual life
+of 4.27 years. The aggregate intrinsic value of the fully vested shares was $0.03 million.
+The fair value of the options granted under the Compensation Plan for the six months ended June 30, 2016
+was  estimated  at  the  date  of  grant,  using  the  Black-Scholes  Option  Valuation  Model,  with  the  following
+weighted-average assumptions:
+Risk-free interest rate
+Expected life
+Expected volatility
+Expected dividend yield
+Weighted-average expected life of option
+Weighted-average grant date fair value
+1.43%
+5.0
+years
+74.8*
+0.00%
+5.00
+$1.22
+*
+Expected  volatility  is  measured  based  on  the  Company’s historical  share  price  volatility  over  a  period
+equivalent to the expected life of the options.
+The summary of the Company’s stock options at June 30, 2016 and December 31, 2015, and the changes for
+the fiscal periods ending on those dates is presented below:
+Six Months ended
+June 30, 2016
+Year ended
+December 31, 2015
+Range of
+Weighted
+Average
+Range of     Weighted
+Average
+    Exercise
+Exercise Prices    Exercise Price    Number of     Prices
+Options
+$
+$
+Balance, beginning
+of period
+Transactions
+during the period:
+Granted
+Exercised
+Forfeited
+Expired
+Balance, end of
+period
+Restricted Share Units
+2.55 - 32.10
+6.54
+2,122,897
+2.12
+2.12
+2.12 - 19.60
+2.95 - 33.05
+2.12 - 15.61
+2.12
+2.12
+6.58
+8.06
+418,287
+(1,200)
+(223,829)
+(106,562)
+5.81
+2,209,593
+Exercise Price    Number of  
+   
+    Options
+$
+10.05
+905,413
+6.02
+2,176,330
+3.78
+7.29
+7.42
+(48,802)
+(574,486)
+(335,558)
+6.54
+2,122,897
+$
+6.55 -
+38.12
+2.55 -
+18.55 
+2.55 -
+4.48 
+4.44 -
+29.71 
+7.47 -
+32.10 
+2.55 -
+32.10
+The  Company  grants  RSUs  to  executives  and  eligible  employees.  Awards  are  determined  as  a  target
+percentage of base salary and vest over periods of three years. Prior to vesting, holders of restricted stock
+units do not have the right to vote the underlying shares. The restricted stock units are subject to forfeiture
+risk  and  other  restrictions.  Upon  vesting,  the  employee  is  entitled  to  receive  one  share  of  the  Company’s
+common stock for each restricted stock unit for no additional payment. During the three months ended June
+30, 2016, the Company’s Board of Directors approved the issuance of 948,047 RSUs under the Compensation
+Plan (2015 – 153,850).
+20
+A summary of the status and activity of non-vested stock options and RSUs at June 30, 2016 is as follows:
+Non-vested December 31, 2015
+   Granted
+   Vested
+   Forfeited
+Non-vested June 30, 2016
+Weighted
+Stock-option
+RSU
+    Weighted
+Date Fair Value     shares
+Number of     Average Grant-     Number of     Average Grant-  
+    Date Fair Value  
+  shares
+ 
+ 4.03 
+2.12 
+ 
+4.65 
+ 
+5.15 
+ 
+ 
+ 2.41
+272,866  $
+ 
+ 
+948,047 
+ 
+ 
+(138,608)
+ 
+ 
+(5,775)
+ 
+  1,076,530  $
+177,698  $
+ 
+418,287 
+ 
+(317,772)
+(28,045)
+ 
+250,168  $
+3.44 
+1.30 
+2.24 
+2.08 
+ 1.54
+The total intrinsic value and fair value of RSUs that vested and were settled for equity in the three months and
+six months ended June 30, 2016 was $0.30 million (2015 – Nil) and $0.6 million (2015 – Nil) respectively.
+At June 30, 2016, there was $0.18 million and $1.49 million of unrecognized compensation costs related to the
+unvested stock options and RSU awards, respectively. This cost is expected to be recognized over a period of
+approximately two years.
+In the six months ended June 30, 2016 the Company issued 1,200 shares upon exercise of stock options at an
+average exercise price of $2.12 for proceeds of less than $0.01 million. These options had an intrinsic value of
+less than $0.01 million.
+The share-based compensation recorded during the three and six months ended June 30, 2016 and 2015 is as
+follows:
+Three months ended
+June 30,
+Six months ended
+June 30,
+Share-based compensation
+Replacement of options from business combinations
+and asset acquisitions
+Value of stock options granted
+11. SUPPLEMENTAL FINANCIAL INFORMATION
+The components of revenues are as follows:
+Uranium concentrates
+Alternate feed materials processing and other
+Revenues
+$
+$
+$
+ 
+$
+2016
+445  $
+2015
+374  $
+2016
+1,112  $
+2015
+497
+-
+445  $
+-
+374  $
+-
+1,112  $
+3,683 
+ 4,180
+Three months ended
+June 30,
+2016
+6,999  $
+ 
+ 7,006  $
+7
+2015
+   
+ 23,641  $
+ 
+ 23,705  $
+64
+Six months ended
+June 30,
+2016
+   
+ 24,977  $
+ 
+ 25,002  $
+25
+2015
+ 30,636 
+669 
+ 31,305
+The components of other income (expense) are as follows:
+21
+Interest income
+Change in value of investments accounted at fair value
+Change in value of warrant liabilities
+Change in value of convertible debentures
+Other
+Other income (expense)
+12. COMMITMENTS AND CONTINGENCIES
+General legal matters
+White Mesa Mill
+2015
+June 30,
+June 30,
+Three months ended     Six months ended  
+ 
+ 
+  2016
+ 
+   
+$
+ 
+ 
+ 
+ 
+$
+2016
+   
+ 17  $
+38 
+ 
+ 
+- 
+ 
+(1,599)
+29 
+ 
+ (1,515) $
+20  $
+(69)
+ 
+448 
+ 
+(428)
+ 
+500 
+ 
+471  $
+40  $
+- 
+ 
+701 
+ 
+(989)
+ 
+481 
+ 
+ 233  $
+39 
+(38)
+- 
+(890)
+424 
+ (465)
+2015
+In November, 2012, the Company was served with a Plaintiff’s Original Petition and Jury Demand in the District
+Court  of  Harris  County,  Texas,  claiming  unspecified  damages  from  the  disease  and  injuries  resulting  from
+mesothelioma  from  exposure  to  asbestos,  which  the  Plaintiff  claims  was  contributed  by  being  exposed  to
+asbestos products and dust while working at the White Mesa Mill. The Company does not consider this claim
+to  have  any  merit,  and  therefore  does  not  believe  it  will  materially  affect  its  financial  position,  results  of
+operations or cash flows. In January, 2013, the Company filed a Special Appearance challenging jurisdiction
+and certain other procedural matters relating to this claim. No other activity involving the Company on this
+matter has occurred since that date.
+In  January,  2013,  the  Ute  Mountain  Ute  tribe  filed  a  Petition  to  Intervene  and  Request  for  Agency  Action
+challenging the Corrective Action Plan approved by the State of Utah Department of Environmental Quality
+(“UDEQ”) relating to nitrate contamination in the shallow aquifer at the White Mesa Mill site. This challenge is
+currently being evaluated, and may involve the appointment of an administrative law judge to hear the matter.
+The Company does not consider this action to have any merit. If the petition is successful, the likely outcome
+would be a requirement to modify or replace the existing Corrective Action Plan. At this time, the Company
+does not believe any such modification or replacement would materially affect our financial position, results of
+operations  or  cash  flows.  However,  the  scope  and  costs  of  remediation  under  a  revised  or  replacement
+Corrective Action Plan have not yet been determined and could be significant.
+In April 2014, the Grand Canyon Trust filed a citizen suit in federal district court for alleged violations of the
+Clean Air Act at the White Mesa Mill. In October 2014, the plaintiffs were granted leave by the court to add
+further purported violations to their April 2014 suit. The Complaint, as amended, alleges that radon from one of
+the Mill’s tailings impoundments exceeded the standard; that the mill is in violation of a requirement that only
+two tailings impoundments may be in operation at any one time; and that certain other violations related to the
+manner of measuring and reporting radon results from one of the tailings impoundments occurred in 2013.
+The Complaint asks the court to impose injunctive relief, civil penalties of up to $38,000 per day per violation,
+costs of litigation including attorneys’ fees, and other relief. The Company believes the issues raised in the
+Complaint are being addressed through the proper regulatory channels and is currently in compliance with all
+applicable  regulatory  requirements  relating  to  those  matters.  The  Company  intends  to  defend  against  all
+issues raised in the Complaint. Cross motions for summary judgement have been fully briefed, and a hearing
+is set for November 17, 2016.
+Canyon Project
+In March, 2013, the Center for Biological Diversity, the Grand Canyon Trust, the Sierra Club and the Havasupai
+Tribe (the “Canyon Plaintiffs”) filed a complaint in the U.S. District Court for the District of Arizona (the “District
+Court”) against the Forest Supervisor for the Kaibab National Forest and the United States Forest Service
+(“USFS”) seeking an order (a) declaring that the USFS failed to comply with environmental, mining, public
+land,  and  historic  preservation  laws  in  relation  to  our  Canyon  Project,  (b)  setting  aside  any  approvals
+regarding exploration and mining operations at the Canyon Project, and (c) directing operations to cease at
+the Project and enjoining the USFS from allowing any further exploration or mining-related activities at the
+Canyon Project until the USFS fully complies with all applicable laws. In April 2013, the Plaintiffs filed a Motion
+for Preliminary Injunction, which was denied by the District Court in September, 2013. On April 7, 2015, the
+District Court issued its final ruling on the merits in favor of the Defendants and the Company and against the
+Canyon Plaintiffs on all counts. The Canyon Plaintiffs appealed the District Court’s ruling on the merits to the
+Ninth  Circuit  Court  of  Appeals,  and  filed  motions  for  an  injunction  pending  appeal  with  the  District  Court.
+Those motions for an injunction pending appeal were denied by the District Court on May 26, 2015. Thereafter,
+Plaintiffs filed urgent motions for an injunction pending appeal with the Ninth Circuit Court of Appeals, which
+were  denied  on  June  30,  2015.  Briefing  on  the  appeal  on  the  merits  is  now  complete,  and  the  parties  are
+waiting for a hearing to be scheduled. If the Canyon Plaintiffs are successful on their appeal on the merits, the
+Company may be required to maintain the Canyon Project on standby pending resolution of the matter. Such
+a required prolonged stoppage of shaft sinking and mining activities could have a significant impact on our
+future operations.
+22
+Surety bonds
+The Company has indemnified third-party companies to provide surety bonds as collateral for the Company’s
+ARO. The Company is obligated to replace this collateral in the event of a default, and is obligated to repay
+any  reclamation  or  closure  costs  due.  The  Company  currently  has  $19.61  million  posted  against  an
+undiscounted ARO of $41.23 million (June 2015 - $12.98 million posted against undiscounted asset retirement
+obligation of $31.27 million). One of the Company’s surety bond holders has requested additional collateral to
+be posted at the following intervals: $1.76 million to be funded by July 31, 2016, $1.76 million to be funded by
+November 30, 2016, $1.76 million to be funded by February 28, 2017.
+13. SEGMENT INFORMATION
+The Company Is engaged in uranium extraction, recovery and sales of uranium from mineral properties and
+the  recycling  of  uranium  bearing  materials  generated  by  third  parties.  As  a  part  of  these  activities  the
+Company also acquires, explores, evaluates and, if warranted, permits uranium properties. The Company’s
+primary mining activities are in the United States.
+The reportable segments are those operations whose operating results are reviewed by the Chief Executive
+Officer  to  make  decisions  about  resources  to  be  allocated  to  the  segment  and  assess  its  performance
+provided  those  operations  pass  certain  quantitative  thresholds.  Operations  whose  revenues,  earnings  or
+losses or assets exceed 10% of the total consolidated revenue, earnings or losses or assets are reportable
+segments.  Information  about  assets  and  liabilities  of  the  segment  has  not  been  provided  because  the
+information is not used to assess performance.
+In  order  to  determine  reportable  operating  segments,  management  reviewed  various  factors,  including
+geographical location and managerial structure. It was determined by management that a reportable operating
+segment generally consists of an individual property managed by a single general manager and management
+team. Finance income (expense), other income (expenses) are managed on a consolidated basis and are not
+allocated to operating segments.
+Non-mining activities and other operations are reported in Corporate and other.
+The Company has two operating segments, the conventional uranium recovery segment (the “Conventional
+Uranium Segment”) and the in-situ uranium recovery segment (“ISR Uranium Segment”).
+The Conventional Uranium Segment
+The  Conventional  Uranium  Segment  consists  of  a  standalone  conventional  uranium  recovery  facility  (the
+“White Mesa Mill”), conventional mining projects in the vicinity of the White Mesa Mill located in the Colorado
+Plateau, Henry Mountains, Arizona Strip, and the Roca Honda Project (“Roca Honda”) in New Mexico, and the
+Sheep Mountain Project (“Sheep Mountain”) in Wyoming. At June 30, 2016 the conventional mining projects
+in the vicinity of the White Mesa Mill are on standby, being evaluated for continued mining activities and/or in
+process  of  being  permitted.  The  White  Mesa  Mill  also  processes  third  party  uranium  bearing  mineralized
+materials from mining and recycling activities.
+The ISR Uranium Segment
+The ISR Uranium Segment consists of an operating uranium recovery facility to recover concentrated uranium
+from wellfields of the Nichols Ranch Project located in Wyoming and a uranium recovery facility and wellfields
+maintained on standby as part of the Alta Mesa Project in Texas. The Nichols Ranch Project also includes the
+Jane Dough property and the Hank Project. Additionally, the segment includes other mineral properties in the
+vicinity on the Nichols Ranch Project and the Alta Mesa Project. The Nichols Ranch Project and surrounding
+assets were acquired as part of the Company’s 2015 acquisition of Uranerz Energy Corporation and the Alta
+Mesa Project was acquired in June of 2016.
+The following tables set forth operating results by reportable segment for the three months ended June 30,
+2016:
+23
+Three months ended June 30, 2016
+Revenue
+ Costs and expenses applicable to revenue
+ Impairment of inventories
+ Development, permitting and land holding
+ Standby costs
+ Accretion of asset retirement obligation
+ Selling costs
+ Intangible asset amortization
+ General and administration
+Total operating loss
+ 
+Interest Expense
+Other income (expense)
+Net loss
+Attributable to shareholders
+Non-controlling interests
+Net loss for the period
+Operating Segments
+ISR
+Conventional    
+$
+ 6  $
+ 
+- 
+ 
+ 
+ 
+- 
+2,423 
+ 
+ 
+ 
+1,365 
+ 
+ 
+129 
+ 
+ 
+95 
+ 
+ 
+- 
+ 
+ 
+ 
+- 
+(4,006)
+ 
+ 
+   
+ 
+   
+ 
+- 
+ 
+ 
+ 
+- 
+ (4,006) $
+$
+ (4,006) $
+$
+ 
+ 
+ (4,006) $
+$
+-
+Segments
+Non-Operating    
+   
+   
+   
+   
+    Corporate & Other    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ (3,942) $
+ (3,942) $
+ 
+ (3,942) $
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+3,828 
+(3,828)
+ 
+(585)
+471
+7,000  $
+ 
+4,099 
+ 
+1,619 
+1,052 
+ 
+ 
+- 
+ 
+47 
+ 
+- 
+2,219 
+ 
+ 
+457 
+(2,493)
+ 
+   
+ 
+- 
+ 
+ 
+- 
+ (2,493) $
+ (2,460) $
+ 
+ (2,493) $
+(33)
+-
+Total
+7,006 
+4,099 
+1,619 
+3,475 
+1,365 
+176 
+95 
+2,219 
+4,285 
+(10,327)
+ 
+(585)
+471 
+ (10,441)
+ (10,408)
+(33)
+ (10,441)
+The following tables set forth operating results by reportable segment for the six months ended June 30, 2016:
+24
+Six months ended June 30, 2016
+Revenue
+ Costs and expenses applicable to revenue
+ Impairment of inventories
+ Development, permitting and land holding
+ Standby costs
+ Accretion of asset retirement obligation
+ Selling costs
+ Intangible asset amortization
+ General and administration
+Total operating loss
+ 
+Interest Expense
+Other income (expense)
+Net loss
+Attributable to shareholders
+Non-controlling interests
+Net loss for the period
+14. FAIR VALUE ACCOUNTING
+Operating Segments
+Conventional    
+ 18,002  $
+$
+ 
+12,143 
+ 
+ 
+- 
+ 
+ 
+5,279 
+ 
+ 
+3,531 
+ 
+ 
+259 
+ 
+ 
+169 
+ 
+ 
+219 
+ 
+ 
+ 
+- 
+(3,598)
+ 
+ 
+   
+ 
+   
+ 
+- 
+ 
+ 
+- 
+ 
+ (3,598) $
+$
+ (3,598) $
+$
+ 
+ 
+ (3,598) $
+$
+-
+ISR
+Segments
+Non-Operating    
+   
+   
+   
+   
+    Corporate & Other    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ (8,245) $
+ (8,245) $
+ 
+ (8,245) $
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+7,317 
+(7,317)
+ 
+(1,161)
+233
+7,000  $
+ 
+4,099 
+1,619 
+ 
+ 
+5,638 
+ 
+- 
+ 
+92 
+- 
+ 
+ 
+2,219 
+ 
+796 
+(7,463)
+ 
+ 
+   
+ 
+- 
+ 
+- 
+ (7,463) $
+ (7,373) $
+ 
+ (7,463) $
+(90)
+-
+Total
+25,002 
+16,242 
+1,619 
+10,917 
+3,531 
+351 
+169 
+2,438 
+8,113 
+(18,378)
+ 
+(1,161)
+233 
+ (19,306)
+ (19,216)
+(90)
+ (19,306)
+Assets and liabilities measured at fair value on a recurring basis
+The following tables set forth the fair value of the Company's assets and liabilities measured at fair value on a
+recurring basis (at least annually) by level within the fair value hierarchy as at June 30, 2016. As required by
+accounting guidance, assets and liabilities are classified in their entirety based on the lowest level of input that
+is significant to the fair value measurement.
+As  at  June  30,  2016,  the  fair  values  of  cash  and  cash  equivalents,  restricted  cash,  short-term  deposits,
+receivables, accounts payable and accrued liabilities approximate their carrying values because of the short-
+term nature of these instruments.
+Investments
+Warrant liabilities (Note 8)
+Convertible debentures (Note 7)
+Level 1
+$
+ 
+ 
+$
+942  $
+ 
+- 
+(16,570)
+ 
+ (15,628) $
+Level 2
+Level 3
+-  $
+ 
+ 
+ (1,661) $
+(1,661)
+-
+- $ 
+- 
+- 
+ - $
+Total
+942 
+(1,661)
+(16,570)
+(17,289)
+The  Company's  investments  are  marketable  equity  securities  which  are  exchange  traded,  and  are  valued
+using  quoted  market  prices  in  active  markets  and  as  such  are  classified  within  Level  1  of  the  fair  value
+hierarchy. The fair value of the investments is calculated as the quoted market price of the marketable equity
+security multiplied by the quantity of shares held by the Company.
+15. SUBSEQUENT EVENTS
+Issuance of stock options and RSUs
+On July 1, 2016, the Company granted 0.04 million RSUs which vest as follows: 50% on January 27, 2017; 25%
+on January 27, 2018; and 25% on January 27, 2019. On July 5, 2016 the Company granted 0.03 million RSUs
+which vest as follows: 100% on January 27, 2017. On August 4, 2016 the Company granted 0.17 million RSUs
+which vest as follows: 100% on January 27, 2017. On August 4, 2016 the Company granted 0.03 million stock
+options and 0.01 million RSU’s to its employees, directors and consultants with an exercise price of $2.12. The
+options  carry  a  five-year  life  and  are  vested  as  follows:  50%  immediately;  25% on  August  4,  2017;  25%  on
+August 4, 2018. The RSU’s vest as follows: 50% on January 27, 2017; 25% on January 27, 2018; and 25% on
+January 27, 2019.
+25
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS.
+The  following  discussion  and  analysis  should  be  read  in  conjunction  with  our  unaudited  condensed
+consolidated financial statements for the three and six month periods ended June 30, 2016, and the related
+notes thereto, which have been prepared in accordance with generally accepted accounting principles in the
+United  States  (“U.S.  GAAP”).  Additionally,  the  following  discussion  and  analysis  should  be  read  in
+conjunction with Management’s Discussion and Analysis of Financial Condition and Results of Operations
+and the consolidated financial statements included in Part II of our Annual Report on Form 10-K for the year
+ended  December  31,  2015  filed  on  March  15,  2016.  This  discussion  and  analysis  contains  forward-looking
+statements  and  forward-looking  information  that  involve  risks,  uncertainties  and  assumptions.  Our  actual
+results may differ materially from those anticipated in these forward-looking statements and information as a
+result of many factors. See section “Note Regarding Forward-Looking Statements” below.
+All dollar amounts stated herein are in U.S. dollars, except per share amounts and currency exchange rates
+unless specified otherwise. References to Cdn$ refer to Canadian currency, and $ to United States currency.
+Overview
+Prior  to  June  2012,  Energy  Fuels  was  primarily  a  uranium  and  vanadium  exploration,  permitting,  and
+evaluation company with no revenue or operating properties. In June 2012, Energy Fuels acquired the US
+Mining Division of Denison Mines Corp. and began revenue producing activities from these properties. The
+activities of Energy Fuels, including support staff and expenditures, increased dramatically upon completion
+of  the  acquisition.  All  activities  of  the  Company  prior  to  the  June  18,  2015  acquisition  of  Uranerz  Energy
+Corporation (“Uranerz”) concerned the Conventional Uranium Segment.
+On June 18, 2015, Energy Fuels acquired all of the outstanding shares of Uranerz which had, among other
+properties, an active in situ (“ISR”) uranium extraction and recovery facility. These operations acquired from
+Uranerz are included in the consolidated financial statements as of June 18, 2015.
+On June 16, 2016, Energy Fuels acquired all the outstanding shares of Mesteña Uranium, LLC (“Mesteña”),
+and on July 8, 2016 changed the name of Mesteña to “EFR Alta Mesa LLC” (“Alta Mesa”). Alta Mesa’s primary
+asset is the Alta Mesa Project (the “Alta Mesa Project”), a fully-licensed ISR uranium production facility located
+in South Texas. In order for the Alta Mesa Project to be capable of uranium production, the Company will need
+to incur capital expenditures to develop wellfields. A decision to commence development will be made once
+uranium prices improve to a point where economic feasibility of the Alta Mesa Project is established.
+26
+The  operations  of  Uranerz  and  assets  acquired  in  the  Alta  Mesa  acquisition  represent  the  Company’s  ISR
+Uranium Segment.
+While the Company has uranium extraction and recovery activities and generates revenue, it is considered to
+be in the Exploration Stage (as defined by SEC Industry Guide 7) as it has no Proven or Probable Reserves
+within the meaning of SEC Industry Guide 7. Under US GAAP, for a property that has no Proven or Probable
+Reserves, the Company capitalizes the cost of acquiring the property (including mineral properties and rights)
+and  expenses  all  costs  related  to  the  property  incurred  subsequent  to  the  acquisition  of  such  property.
+Acquisition costs of a property are depreciated over its estimated useful life for a revenue generating property
+or expensed if the property is sold or abandoned. Acquisition costs are subject to impairment if so indicated.
+Outlook
+Uranium Market Update
+According to price data from TradeTech LLC (“TradeTech”), uranium spot prices are down from $34.20 per
+pound on December 31, 2015 to $25.90 per pound on July 28, 2016, or 24% for the year-to-date. Weekly spot
+prices reported by TradeTech reached a low of $25.00 per pound on July 15, 2016, which was the lowest value
+observed by TradeTech since April 22, 2005. TradeTech price data also indicate that long-term  U3O8
+  prices,
+which began 2016 at $44.00 per pound, dropped to $38.00 per pound by July 31, 2016.
+The  drop  in  uranium  prices  is  believed  to  be  caused  by  weaker  than  expected  demand  by  utilities  and
+persistent  over-supply.  Most  transactions  on  the  spot  market  in  2016  have  involved  traders  and
+intermediaries, though certain utilities have entered the market to opportunistically buy inexpensive material.
+The  Company  continues  to  believe  the  weak  uranium  markets  are  the  result  of  excess  uranium  supplies
+caused by large quantities of secondary uranium extraction, excess inventories and insufficient production
+cut-backs. The oversupply situation is further exacerbated by reduced demand due to the continued delays in
+the restart of Japanese reactors, premature reactor closures in the US, and general weakness in the global
+economy and energy sector. However, since the beginning of the year, certain announcements have been
+made which may lessen some of the oversupply now burdening the market, including Cameco Corporation’s
+April  21,  2016  announcement  that  it  is  reducing  production  by  approximately  4  million  pounds  per  year  in
+2016, with further production cuts going forward.
+As  a  result  of  the  expected  growth  of  nuclear  energy,  the  Company  continues  to  believe  the  long-term
+fundamentals of the uranium industry are positive. The Company believes prices must rise to higher levels to
+support new primary production that will be required to meet the increasing demand we expect to see as more
+nuclear  units  are  constructed  around  the  world.  According  to  TradeTech,  world  uranium  requirements
+continue to exceed primary mine production, with the gap being bridged by secondary supplies and excess
+uranium inventories in various forms that have already been mined. As excess inventories are drawn down
+and  as  production  from  existing  mines  declines,  the  Company  believes  primary  mine  production  will  be
+required to meet demand over the long-term.
+Despite current market uncertainty and recently falling prices, the Company continues to believe it has begun
+to see certain events which must occur for a market recovery to materialize, as previously described in the
+Company’s Form 10-K for the fiscal year ended December 31, 2015. Of note, China finalized its 13th Five-Year
+Plan, including a commitment to install 58 GW of nuclear capacity by 2020 (versus today’s 27 GW in installed
+capacity).  In  addition,  China  connected  eight  reactors  to  the  grid  in  2015  (World  Nuclear  News,  January  4,
+2016).  Japanese  utilities  are  also  making  slow  progress  in  restarting  their  nuclear  fleet.  Two  reactors  have
+restarted  (Sendai  1  and  2),  two  more  units  are  approved  to  restart  pending  resolution  of  an  injunction
+(Takahama 3 and 4), and one more reactor has completed the final regulatory step needed prior to approval
+for restart (Ikata 3). It is worth noting that 42 reactors in Japan are operable according to the World Nuclear
+Association, and, in addition to the five mentioned above, 19 have applied for approvals to restart. And, the
+Company expects to see certain utilities come to the market later in 2016 to take advantage of today’s low
+prices  through  spot  and  mid-term  purchases.  However,  these  positive  developments  have  not  yet  been
+sufficient to offset the downward pressure currently being observed in uranium markets.
+27
+Operations and Sales Outlook
+With the June 2015 acquisition of Uranerz, which includes the Nichols Ranch ISR Project, Energy Fuels has
+increased its flexibility to adjust its uranium production levels to respond to market conditions and to meet the
+requirements of its sales contracts. This allows the Company to efficiently fulfill its existing commitments and
+commit to new spot and term sales that will be sourced from uranium recovered from the Company’s facilities.
+The Company plans to extract and/or recover uranium from the following sources in 2016 (each of which is
+more fully described below):
+1)
+2)
+3)
+Nichols Ranch ISR Project;
+Alternate feed materials; and
+Pinenut Project material available for milling.
+In response to continued uranium price weakness and market uncertainty, the Company expects to continue
+cash  conservation  efforts  until  such  time  that  sustained  improvement  in  uranium  market  conditions  is
+observed.  In  addition,  the  Company  is  continuing  to  manage  its  activities  and  assets  conservatively,
+maintaining  its  substantial  uranium  resource  base  and  its  ISR  and  conventional  uranium  extraction  and
+recovery capabilities, and only scheduling recovery at the White Mesa Mill and the Nichols Ranch Project as
+market conditions, availability of mill feed, cash needs, and/or contract delivery requirements may warrant.
+Acquisition of Alta Mesa
+On June 16, 2016, the Company completed the acquisition of Alta Mesa (previously named “Mesteña Uranium,
+LLC”) which included the Alta Mesa Project. The Alta Mesa Project has a fully-licensed and constructed ISR
+uranium recovery plant, with a design capacity of 1.5 million pounds of uranium concentrate per year. In order
+for Alta Mesa to be capable of uranium production, the Company will need to incur capital expenditures to
+develop wellfields. A decision to commence development will be made once uranium prices improve to a point
+where economic feasibility of the Alta Mesa Project is established. The consideration paid by the Company for
+Alta Mesa was 4,551,284 common shares, which were issued at the closing of the transaction. The Alta Mesa
+properties are subject to a royalty equal to 3.125% of the value of the recovered U3O8 from the properties sold
+at  a  uranium  price  of  $65.00  or  less  per  pound  U3O8,  6.25%  of  the  value  of  the  recovered  U3O8  from  the
+properties sold at a uranium price greater than $65.00 and up to and including $95.00 per pound U3O8, and
+7.5% of the value of the recovered U3O8  from the properties sold at a uranium price greater than $95.00 per
+pound U3O8.
+The Company will continue to evaluate additional acquisition opportunities that may arise.
+Extraction and Recovery Activities – Overview
+The Company expects to recover approximately 950,000 pounds of U3O8 for the year ending December 31,
+2016, as further described below.
+The Company currently has finished goods inventory and uranium extraction and recovery capabilities that
+exceed  the  commitments  contained  in  its  existing  sales  contracts.  As  a  result,  both  ISR  and  conventional
+uranium extraction and/or recovery have been, and are expected to continue to be, maintained at conservative
+levels until such time as market conditions improve sufficiently and/or the Company requires cash to meet its
+business needs.
+Extraction and Recovery – ISR Uranium Segment
+We currently plan to extract and recover approximately 300,000 pounds of U3O8 from our ISR segment for the
+year ending December 31, 2016.
+28
+At June 30, 2016, the Nichols Ranch wellfields had eight header houses extracting uranium. The Company
+plans  to  complete  a  ninth  header  house  by  the  end  of  2016.  Further  header  houses  will  be  completed  as
+production needs and market conditions warrant.
+In February 2016, the Company completed construction of the elution circuit and began the elution process at
+the Nichols Ranch Plant. Yellowcake slurry from this circuit is being shipped to our White Mesa Mill for final
+yellowcake drying, packaging, and shipment to a conversion facility.
+Permitting of the adjacent Jane Dough Property is continuing and is expected to be completed in advance of
+our  need  to  begin  wellfield  construction.  Also,  the  Hank  Project  is  fully  permitted  to  be  constructed  as  a
+satellite facility to the Nichols Ranch Plant.
+Extraction and Recovery – Conventional Uranium Segment
+The  Company  expects  the  White  Mesa  Mill  to  recover  approximately  650,000  pounds  of  U3O8  for  the  year
+ending December 31, 2016.
+The  Company  is  planning  to  recover  approximately  425,000  pounds  of  U3O8  extracted  from  its  Pinenut
+Project. Shipment of this material to the Mill was completed in March 2016. The Pinenut Project is now fully
+depleted, and the Company has commenced reclamation activities.
+During 2016, the Company also expects to recover approximately 225,000 pounds of U3O8 from alternate feed
+materials.
+The White Mesa Mill has historically operated on a campaign basis, whereby uranium recovery is scheduled
+as mill feed, cash needs, contract requirements, and/or market conditions may warrant. Once the Pinenut ore
+processing for 2016 concludes (expected to be in late 2016), the Company expects to recover uranium from
+certain  alternate  feed  sources  and  process  certain  uranium  bearing  solutions  into  mid-2017.  Once  these
+processes are completed the Company expects to place uranium recovery activities at the Mill on standby
+until additional mill feed becomes available. The Mill will dry and package material from the Nichols Ranch
+Plant and continue to receive and stockpile alternate feed materials for future milling campaigns. Each future
+milling campaign will be subject to receipt of sufficient mill feed that would allow the Company to operate the
+Mill on a profitable basis and/or recover a portion of its standby costs.
+The Company is continuing shaft sinking activities at the Canyon Project and has completed the installation
+of new equipment and infrastructure to optimize shaft sinking rates and realize construction cost savings. The
+Company has also commenced additional underground drilling to further evaluate the deposit. The timing of
+The  Company’s  plans  to  extract  and  process  mineralized  materials  from  this  project  will  be  based  on  the
+results  of  this  additional  evaluation  work,  along  with  market  conditions,  available  financing,  and  sales
+requirements.
+The  Company  expects  to  continue  to  pursue  permitting  activities  at  certain  of  its  conventional  projects,
+including  the  Roca  Honda  Project  and  the  Sheep  Mountain  Project.  The  Company  will  also  continue  to
+evaluate the Bullfrog Property at its Henry Mountains Project. Expenditures for certain of these projects have
+been adjusted to coincide with expected dates of price recoveries based on our forecasts.
+Finally,  the  Company  plans  to  continue  to  maintain,  and  update  as  necessary,  all  permits  on  its  standby
+properties. These properties will remain on standby until market conditions improve such that the material can
+be  sold  at  prices  that  support  extraction.  The  Company  also  plans  to  continue  to  evaluate  its  non-core
+properties for sale or abandonment in order to reduce costs and/or receive value for these properties. The
+Company is continuing to monitor corporate and field overhead to reflect the lower levels of activity.
+29
+Sales
+For 2016, the Company forecasts sales under its existing long-term contracts to total approximately 550,000
+pounds of U3O8. Of this total, 400,000 pounds were delivered in the first half of the year with the remaining
+amount to be delivered in the third quarter of the year. The prices for material sold under the existing long-
+term contracts are either fixed or at floors. The average sales price under the Company’s long-term contracts
+is expected to be higher in 2016 than 2015 levels. The Company expects to complete these sales from U3O8
+already in inventory or expected to be recovered from its planned activities discussed above.
+The Company also sold 50,000 pounds of U3O8 to a utility based on spot prices at the time of the contract. The
+Company is currently monitoring market conditions for additional sales opportunities. The Company expects
+to sell an additional 200,000 pounds of U3O8 at spot prices in the second half of the year. Selective additional
+spot sales may be made as necessary to generate cash for operations and development activities.
+In  2017,  the  Company  expects  to  have  existing  inventory  or  expected  production  to  meet  all  of  its
+commitments to sell 620,000 pounds of uranium under its existing long-term contracts at average sales prices
+higher than 2016 levels.
+The Company also continues to pursue new sources of revenue, including expansion of its alternate feed
+business.
+Results of Operations
+The following table summarizes the results of operations for the three and six months ended June 30, 2016
+and 2015 (in thousands of dollars):
+Revenue
+Costs and expenses applicable to revenue
+Impairment of inventories
+Gross Profit
+$
+Three Months ended
+June 30,
+2016
+7,006  $
+ 
+4,099 
+1,619 
+ 
+1,288
+2015
+   
+ 23,705  $
+ 
+13,382 
+- 
+ 
+10,323
+Six Months ended
+June 30,
+2016
+   
+ 25,002  $
+ 
+16,242 
+1,619 
+ 
+7,141
+2015
+ 31,305 
+17,226 
+- 
+14,079
+Other operating costs and expenses
+         Development, permitting and land holding
+         Standby costs
+         Accretion of asset retirement obligation
+Total other operating costs and expenses
+ 
+Selling, general & administration
+         Selling costs
+         Intangible asset amortization
+         General and administration
+         Costs directly attributable to acquisitions
+Total selling, general & administration
+ 
+Total Operating Loss
+Interest expense
+Other (expense) income
+Net loss
+ 
+Basic and diluted loss per share
+$
+30
+3,475 
+1,365 
+176 
+5,016 
+ 
+ 
+95 
+2,219 
+4,285 
+- 
+6,599 
+ 
+(10,327)
+(585)
+471
+(10,441) $
+($0.20)
+506 
+ 
+1,781 
+ 
+104 
+2,391 
+ 
+   
+ 
+   
+ 
+ 
+91 
+ 
+1,255 
+ 
+2,625 
+ 
+6,118 
+10,089 
+ 
+   
+ 
+(2,157)
+ 
+ 
+(388)
+(1,515)
+ 
+ (4,060) $
+($0.18)
+10,917 
+3,531 
+351 
+14,799 
+ 
+ 
+169 
+2,438 
+8,113 
+- 
+10,720 
+ 
+(18,378)
+(1,161)
+233
+(19,306) $
+($0.38)
+702 
+3,320 
+207 
+4,229 
+ 
+ 
+159 
+1,800 
+5,336 
+6,587 
+13,882 
+ 
+(4,032)
+(766)
+(465)
+ (5,263)
+ 
+($0.25)
+For the three months ended June 30, 2016 the Company recorded a net loss of $10.44 million or $0.20 per
+share compared with a loss of $4.06 million or $0.18 per share for the three months ended June 30, 2015. For
+the six months ended June 30, 2016 the Company recorded a net loss of $19.31 million or $0.38 per share
+compared with a loss of $5.26 million or $0.25 per share for the six months ended June 30, 2015.
+Revenues
+The Company’s revenues from uranium are largely based on delivery schedules under long-term contracts,
+and selective spot sales, which can vary from quarter to quarter.
+Revenues for the three months ended June 30, 2016 totaled $7.01 million compared with $23.71 million in the
+three months ended June 30, 2015. Revenues for the six months ended June 30, 2016 totaled $25.00 million
+compared with $31.31 million in the six months ended June 30, 2015.
+Revenues for the three months ended June 30, 2016 totaled $7.01 million, of which $7.00 million were sales
+related  to  the  ISR  segment,  of  100,000  pounds  of  U3O8,  pursuant  to  term  contracts  at  an  average  price  of
+$70.00 per pound.
+Revenues for the three months ended June 30, 2015 totaled $23.71 million, of which $23.64 million were sales
+of 416,667 pounds of uranium concentrates, all of which were pursuant to term contracts at an average price
+of $56.74 per pound.
+Revenues for the six months ended June 30, 2016 totaled $25.00 million, of which $24.98 million were sales of
+450,000 pounds of U3O8. The 450,000 pounds of U3O8 included the sale of 300,000 pounds of U3O8 pursuant
+to term contracts at an average price of $54.19 per pound, the sale of 100,000 pounds of U3O8  pursuant to
+term contracts at an average price of $70.00 per pound and the sale of 50,000 pounds of U3O8 on the spot
+market  at  a  price  of  $34.40  per  pound.  For  the  six  months  ended  June  30,  2016  sales  related  to  the
+Conventional Uranium Segment were $18.00 million while sales related to the ISR segment were $7.00 million.
+Revenues for the six months ended June 30, 2015 totaled $31.31 million, of which $30.64 million were sales of
+533,334 pounds of uranium concentrates, all of which were pursuant to term contracts at an average price of
+$57.44 per pound.
+Operating Expenses
+Uranium recovered and costs and expenses applicable to revenue
+In  the  three  months  ended  June  30,  2016,  the  Company  recovered  80,000  pounds  of  U3O8  from  its  ISR
+Uranium  Segment  and  108,000  pounds  of  U3O8  from  the  Company’s  conventional  operations.  In  the  three
+months ended June 30, 2015, there was no production from the Company’s conventional operations and only
+12 days of production from the acquired ISR operations.
+Costs and expenses applicable to revenue for the three months ended June 30, 2016 totaled $4.10 million,
+compared with $13.38 million for the three months ended June 30, 2015. The decrease in the cost of sales was
+primarily attributable to the decrease in the quantity of U3O8 sold year over year as discussed above. Costs of
+goods sold averaged $40.99 per pound and $32.12 per pound for the three months ended June 30, 2016 and
+2015, respectively. Additionally, the Company recorded an impairment loss of $1.62 million in profit and loss
+related to concentrates and work in progress inventories in the ISR segment during the three months ended
+June 30, 2016.
+In the six months ended June 30, 2016, the Company recovered 165,000 pounds of U3O8 from its ISR Uranium
+Segment and 108,000 pounds of U3O8 from the Company’s conventional operations. In the six months ended
+June 30, 2015, the Company recovered approximately 200,000 pounds of U3O8, of which 110,000 pounds were
+from  alternate  feed  materials  and  other  processing  and  30,000  pounds  were  from  the  Company’s  Arizona
+mines, and 60,000 pounds of U3O8  were  processed  under  a  tolling  arrangement  for  the  account  of  a  third
+party.
+31
+Costs  and  expenses  applicable  to  revenue  for  the  six  months  ended  June  30,  2016  totaled  $16.24  million,
+compared with $17.23 million for the six months ended June 30, 2015. The decrease in the cost of sales was
+primarily attributable to the decrease in the quantity of U3O8 sold year over year as discussed above. Costs of
+goods sold averaged $36.09 per pound and $32.30 per pound for the six months ended June 30, 2016 and
+2015, respectively.
+Other operating costs and expenses
+Development, permitting and land holding
+For the three months ended June 30, 2016, the Company spent $3.48 million for development, permitting, and
+land  holding  primarily  related  to  wellfield  construction  and  shaft  sinking  at  the  Canyon  Project.  While  we
+expect the amounts expensed will add value to the Company, we expense these amounts as we do not have
+proven or probable reserves at the Nichols Ranch Project or the White Mesa asset group under SEC Industry
+Guide 7. For the three months ended June 30, 2015, we spent $0.50 million primarily on permitting and land
+holding for our conventional assets.
+For the six months ended June 30, 2016, the Company spent $10.92 million for development, permitting, and
+land  holding  primarily  related  to  wellfield  construction  and  completion  of  the  elution  circuit  at  the  Nichols
+Ranch Project, shaft sinking at the Canyon Project and for the replacement of five leach tanks at the White
+Mesa  Mill  in  preparation  for  the  campaign.  While  we  expect  the  amounts  expensed  will  add  value  to  the
+Company, we expense these amounts as we do not have proven or probable reserves at the Nichols Ranch
+Project or the White Mesa asset group under SEC Industry Guide 7. For the six months ended June 30, 2015,
+we spent $0.70 million primarily on permitting and land holding for our conventional assets.
+Standby expense
+The Company’s La Sal and Daneros Projects were placed on standby in the last quarter of calendar year 2012,
+as a result of market conditions. In February 2014, the Company placed its Arizona 1 Project on standby. In
+2015, the White Mesa Mill was operated at lower levels of uranium recovery, including prolonged periods of
+standby. Costs related to the care and maintenance of the standby mines, along with standby costs incurred
+while the White Mesa Mill was operating at low levels of uranium recovery or on standby, are expensed.
+For the three months ended June 30, 2016, standby costs totaled $1.37 million compared with $1.78 million in
+2015.  The  decrease  is  primarily  related  to  decreased  standby  costs  at  the  White  Mesa  Mill,  due  to  higher
+uranium recovery levels resulting from a decreased amount of time the Mill was on standby.
+For the six months ended June 30, 2016, standby costs totaled $3.53 million compared with $3.32 million in
+2015. The standby costs remained approximately the same for each period.
+Accretion
+Accretion  related  to  the  asset  retirement  obligation  for  the  Company’s  properties  increased  for  the  three
+months ended June 30, 2016 ($0.18 million) compared with 2015 ($0.10 million) primarily due to the increase in
+the amount of the asset retirement obligation added in connection with the Uranerz acquisition.
+32
+Accretion related to the asset retirement obligation for the Company’s properties increased for the six months
+ended June 30, 2016 ($0.35 million) compared with the 2015 ($0.21 million) primarily due to the increase in the
+amount of the asset retirement obligation added in connection with the Uranerz acquisition.
+General and Administrative
+General and administrative expense includes costs associated with marketing uranium, corporate general and
+administrative costs. General and administrative expenses consist primarily of payroll and related expenses
+for personnel, contract and professional services, stock-based compensation expense and other overhead
+expenditures. General and administrative expenses totaled $4.29 million for the three months ended June 30,
+2016 compared to $2.63 million for the three months ended June 30, 2015. This increase is due to additional
+general and administrative expenses of $0.8 million related to the acquired ISR uranium segment which was
+completed in June 2015 and increase in stock-based compensation of $0.6 million and one time payments
+totaling $0.53 million.
+General and administrative expenses totaled $8.11 million for the six months ended June 30, 2016 compared
+to  $5.34  million  for  the  six  months  ended  June  30,  2015.  This  increase  is  due  to  additional  general  and
+administrative expenses of $0.8 million related to the acquired ISR uranium segment which was completed in
+June 2015, and increase in stock-based compensation of $0.6 million and one-time expenses totaling $0.53
+million.
+Intangible asset amortization
+Intangible  asset  amortization  are  non-cash  costs  of  amortization  of  above-market  sales  contract  value
+associated with the acquisition of Denison’s US Mining Division in June 2012 and the Uranerz acquisition in
+June 2015. During the three months ended June 30, 2016 intangible asset amortization totaled $2.22 million
+compared with $1.26 million for the three months ended June 30, 2015. This increase was due to the contract
+sale of 100,000 pounds related to Uranerz as discussed above, causing additional contract amortization to be
+recorded.
+During the six months ended June 30, 2016 intangible asset amortization totaled $2.44 million compared with
+$1.80 million for the six months ended June 30, 2016. This increase was due to the contract sale of 100,000
+pounds related to Uranerz as discussed above, causing additional contract amortization to be recorded.
+Interest Expense and Other Income and Expenses
+Interest Expense
+Interest expense for the three months ended June 30, 2016 was $0.59 million compared with $0.39 million in
+the prior year. The increase is primarily due to interest on the $18.81 million in debt assumed from the June
+2015 Uranerz acquisition.
+Interest expense for the six months ended June 30, 2016 was $1.16 million compared with $0.77 million in the
+prior year. The increase is primarily due to interest on the $18.81 million in debt assumed from the June 2015
+Uranerz acquisition.
+Other income and expense
+33
+For the three months ended June 30, 2016, other income and expense totaled $0.47 million of income. These
+amounts  primarily  consist  of  a  gain  on  warrant  liabilities  of  $0.45  million  and  $0.50  million  of  gains  in
+miscellaneous  items  offset  by  a  loss  on  the  change  in  the  mark-to-market  values  of  the  Company's
+Convertible Debentures (the “Debentures”) of $0.43 million.
+Other income and expense for the three months ended June 30, 2015 totaled $1.52 million of expense and
+mainly consisted of a change in the mark-to-market values of the Company’s Debentures totaling $1.60 million
+offset by other miscellaneous items.
+For the six months ended June 30, 2016, other income and expense totaled $0.23 million of income. These
+amounts mainly consist of a gain on warrant liabilities of $0.70 million and gains in other miscellaneous items
+of  $0.48  million,  partially  offset  by  a  loss  on  the  change  in  the  mark-to-market  values  of  the  Company's
+Debentures of $0.99 million.
+Other  income  and  expense  for  the  six  months  ended  June  30,  2015  totaled  $0.47  million  of  expense  and
+mainly consisted of a change in the mark-to-market values of the Company’s Debentures totaling $0.89 million
+of expense partially offset by income from other miscellaneous items of $0.42 million.
+Liquidity and Capital Resources
+Funding of major business and property acquisitions
+Over  the  past  four  years  the  Company  has  funded  major  business  and  property  acquisitions  with  capital
+provided by issuance of its common shares. In 2012 Titan Uranium Inc. and the US Mining Division of Denison
+were acquired, in 2013 Strathmore Minerals Corp. was acquired and in 2015 Uranerz was acquired, each in
+exchange  for  newly  issued  shares.  The  Company  intends  to  continue  to  acquire  assets  utilizing  common
+shares when it can be done under attractive terms.
+On May 27, 2016, the Company completed the purchase of the 40% interest in Roca Honda from Sumitomo
+through the issuance of 1.21 million shares as well as an additional $4.5 million of cash payable upon first
+commencement of commercial mining extraction.
+Additionally, on June 16, 2016, the Company completed the acquisition of Alta Mesa through the issuance of
+4,155,824  shares.  The  total  transaction  costs  incurred  through  June  30,  2016  by  the  Company  were  $1.29
+million, which were capitalized as part of the purchase consideration.
+Cash proceeds received for shares and warrants
+In the six months ended June 30, 2016, the Company issued 0.20 million shares for net proceeds of $0.53
+million under the Company’s ATM Offering.
+Additionally, on March 14, 2016 an equity offering of 5,031,250 units (each unit consisting of one common
+share and one half of one common share purchase warrant) was closed for net proceeds of $10.98 million
+after commissions and estimated expenses of the offering.
+Working capital at June 30, 2016 and future requirements for funds
+At June 30, 2016, the Company had working capital of $24.60 million, including $14.42 million in cash and cash
+equivalents and 360,373 pounds of finished goods inventory. The Company believes it has sufficient cash
+and resources to carry out its base business plan beyond Q2 2017.
+The  Company  is  actively  focused  on  its  forward  looking  liquidity  needs,  especially  in  light  of  the  current
+depressed uranium markets. The Company is evaluating its ongoing fixed cost structure as well as decisions
+related to project retention, advancement and development. Significant development activities, if warranted,
+will  require  that  we  arrange  for  financing  in  advance  of  planned  expenditures.  We  expect  to  augment  our
+current financial resources with external financing as our long term business needs require.
+34
+The Company manages liquidity risk through the management of its capital structure.
+Additional Collateral to be Deposited as Collateral for Surety Bonds
+During  the  three  months  ended  June  30,  2016,  one  of  the  Company’s  surety  bond  holders  requested
+additional collateral to support surety bonds held in favor of our White Mesa Mill totaling $5.28 million to be
+deposited $1.76 million by July 31, 2016 (which was deposited on July 29, 2016), $1.76 million by November 30,
+2016 and $1.76 million by February 28, 2017.
+Debenture Maturity
+The  Company  currently  has  22,000  floating-rate  convertible  unsecured  subordinated  debentures  originally
+maturing  June  30,  2017  (the  “Debentures”)  (each  Debenture  having  a  principal  amount  of  Cdn$1,000).  On
+August 4, 2016, the following amendments were made to the Debentures:
+•
+•
+•
+•
+•
+the maturity date of the Debentures was extended from June 30, 2017 to December 31, 2020;
+the conversion price of the Debentures was reduced from Cdn$15.00 to Cdn$4.15 per common share of
+the Company;
+a redemption provision was added that enables the Company to redeem the Debentures, in cash, in whole
+or in part, at any time after June 30, 2019, but prior to maturity, at a price of 101% of the aggregate principal
+amount redeemed;
+a  right  in  favor  of  each Debentureholder  was  added  to  enable  the  Debentureholder  to  require  the
+Company to purchase, for cash, on June 30, 2017 (the original maturity date) up to 20% of the Debentures
+held by the Debentureholder at a price equal to 100% of the principal amount tendered; and
+certain other amendments were made to the Debenture Indenture as required by the U.S. Trust Indenture
+Act of 1939, along with certain other amendments to remove provisions of the Indenture that no longer
+apply.
+At maturity, the Company can repay the indebtedness represented by the remaining Debentures by paying to
+the  Debenture  trustee  in  Canadian  dollars  an  amount  equal  to  the  principal  amount  of  the  outstanding
+Debentures remaining at maturity together with accrued and unpaid interest thereon.
+Subject to any required regulatory approval and provided no event of default has occurred and is continuing,
+the Company has the option to satisfy its obligation to repay the Debentures, in whole or in part, at maturity,
+upon at least 40 days and not more than 60 days prior notice, by delivering that number of common shares
+obtained by dividing the principal amount of the Debentures maturing by 95% of the volume-weighted average
+trading price of the common shares on the TSX during the 20 consecutive trading days ending five trading
+days preceding the maturity date.
+Cash and cash flow
+Six months ended June 30, 2016
+Cash and cash equivalents were $14.42 million at June 30, 2016, compared to $12.97 million at December 31,
+2015. The increase of $1.45 million was due primarily to cash provided by financing activities of $9.90 million
+partially  offset  by  cash  used  by  investing  activities  of  $2.53  million  and  cash  used  in  operations  of  $6.20
+million and gain on foreign exchange on cash held in foreign currencies of $0.29 million.
+Net cash provided by financing activities totaled $9.90 million consisting primarily of $11.50 million proceeds
+from the issuance of stock in the March 2016 public offering and the ATM Offering partially offset by $1.61
+million to repay loans and borrowings.
+Net cash used by investing activities was $2.53 million, which was primarily related to expenditures for the Alta
+Mesa  acquisition  transaction  costs  of  $1.23  million  and  cash  expenditures  related  to  additional  cash
+deposited with regulatory agencies for asset retirement obligations related to the acquisition of Alta Mesa of
+$2.15 million and related reclamation costs offset by cash received from the sale of mineral properties held for
+sale of $0.85 million.
+Net  cash  used  in  operating  activities  of  $6.20  million  is  comprised  of  the  net  loss  of  $19.31  million  for  the
+period adjusted for non-cash items and for changes in working capital items. Significant items not involving
+cash  were  $2.59  million  of  depreciation  and  amortization  of  property,  plant  and  equipment,  $1.62  million
+impairment  on  inventory,  a  $7.68  million  decrease  in  inventories,  $2.21  million  decrease  in  trade  and  other
+receivables offset by a $2.72 million decrease in accounts payable and accrued liabilities and a $1.17 million
+miscellaneous non-cash income.
+35
+Six months ended June 30, 2015
+Cash and cash equivalents were $20.76 million at June 30, 2015, compared to $10.41 million at December 31,
+2014. The increase of $10.35 million was due primarily to cash from investing activities of $6.41 million, cash
+from operations of $3.97 million, cash from financing activities of $0.08 million and loss on foreign exchange
+on cash held of $0.10 million.
+Net  cash  from  investing  activities  was  $6.41  million,  which  was  primarily  related  to  the  release  of  cash
+deposited  with  regulatory  agencies  of  $5.27  million,  the  $2.46  million  cash  acquired  in  the  acquisition  of
+Uranerz offset by expenditures for property, plant and equipment of $1.32 million.
+Net  cash  from  financing  activities  was  $0.08  million,  which  primarily  consisted  of  payments  on  loans  and
+borrowings  of  $0.03  million offset  with  $0.10  million  of  proceeds  from  the  issue  of  shares  for  options  and
+warrant exercised.
+Net cash from operating activities of $3.97 million is comprised of the net loss of $5.26 million for the period
+adjusted for non-cash items and for changes in working capital items. Significant items not involving cash
+were  $1.85  million  of  depreciation  and  amortization  of  property,  plant  and  equipment,  $3.96  million
+miscellaneous non-cash expenses primarily related to the Uranerz acquisition completed in 2015, $4.13 million
+decrease in inventories, offset by a $2.91 million increase in trade and other receivables.
+Critical accounting estimates and judgments
+The preparation of these consolidated financial statements in accordance with US GAAP requires the use of
+certain  critical  accounting  estimates  and  judgments  that  affect  the  amounts  reported.  It  also  requires
+management  to  exercise  judgment  in  applying  the  Company’s  accounting  policies.  These  judgments  and
+estimates are based on management’s best knowledge of the relevant facts and circumstances taking into
+account previous experience. Although the Company regularly reviews the estimates and judgments made
+that affect these financial statements, actual results may be materially different.
+Significant estimates made by management include:
+a.
+Exploration stage
+SEC Industry Guide 7 defines a reserve as “that part of a mineral deposit which could be economically and
+legally extracted or produced at the time of the reserve determination”. The classification of a reserve must be
+evidenced by a bankable feasibility study using the latest three-year price average. While the Company has
+established  the  existence  of  mineral  resources  and  has  successfully  extracted  and  recovered  saleable
+uranium from certain of these resources, the Company has not established proven or probable reserves, as
+defined  under  SEC  Industry  Guide  7,  for  these  operations  or  any  of  its  uranium  projects.  As  a  result,  the
+Company is in the Exploration Stage as defined under Industry Guide 7. Furthermore, the Company has no
+plans to establish proven or probable reserves for any of its uranium projects.
+While  in  the  Exploration  Stage,  among  other  things,  the  Company  must  expense  all  amounts  that  would
+normally  be  capitalized  and  subsequently  depreciated  or  depleted  over  the  life  of  the  mining  operation  on
+properties that have proven or probable reserves. Items such as the construction of wellfields and related
+header houses, additions to our recovery facilities and advancement of properties will all be expensed in the
+period incurred. As a result, the Company’s consolidated financial statements may not be directly comparable
+to the financial statements of mining companies in the development or production stages.
+36
+b.
+Resource estimates
+The  Company  utilizes  estimates  of  its  mineral  resources  based  on  information  compiled  by  appropriately
+qualified persons. The information relating to the geological data on the size, depth and shape of the ore body
+requires complex geological judgments to interpret the data. The estimation of future cash flows related to
+resources  is  based  upon  factors  such  as  estimates  of  future  uranium  prices,  future  construction  and
+operating costs along with geological assumptions and judgments made in estimating the size and grade of
+the  resource.  Changes  in  the  mineral  resource  estimates  may  impact  the  carrying  value  of  mining  and
+recovery assets, goodwill, reclamation and remediation obligations and depreciation and impairment.
+c.
+Valuation of mining and recovery assets in a business combination
+We  value  assets  in  a  business  combination  based  on  our  estimates  of  the  fair  value  of  the  mining  and
+recovery assets acquired.
+For mining and recovery assets actively extracting and recovering uranium as well as those assets that we
+expect to extract uranium from, we value the assets based on the income approach. As we have not acquired
+proven or probable reserves in our business combinations the value ascribed to these assets is based on our
+estimates of value beyond proven and probable reserves. The value is calculated based, in part, on technical
+reports prepared under NI 43-101. Our estimates of extraction and recovery activities and related timing of
+extraction and recovery as well as the costs involved are demonstrated by at least a preliminary economic
+assessment.  We  then  adjust  the  results  of  the  technical  reports  to  include  the  effects  of  anticipated
+fluctuations in the future market price of uranium consistent with what we believe to be the expectations of
+other market participants as well as any expected operational or cost changes that we expect in the future
+operations of these mining assets. These cash flow estimates include the estimated cash outflows to develop,
+extract and recover the estimated saleable U3O8 from these operations.
+For  mining  assets  that  will  be  held  for  further  evaluation  or  for  sale,  we  use  the  market  approach  utilizing
+implied transaction multiples from historical uranium transactions.
+d.
+Valuation of mining assets acquired other than in a business combination
+The  costs  of  mining  assets  that  are  acquired  in  an  asset  purchase  transaction  are  recorded  as  plant  and
+equipment on the date of purchase based on the consideration given up for the assets. If multiple assets are
+involved  in  a  transaction,  the  consideration  is  allocated  based  on  the  relative  values  of  the  properties
+acquired.
+e.
+Depreciation of mining and recovery assets acquired
+For  mining  and  recovery  assets  actively  extracting  and  recovering  uranium  we  depreciate  the  acquisition
+costs of the mining and recovery assets on a straight line basis over our estimated lives of the mining and
+recovery  assets.  The  process  of  estimating  the  useful  life  of  the  mining  and  recovery  assets  requires
+significant  judgment  in  evaluating  and  assessing  available  geological,  geophysical,  engineering  and
+economic  data,  projected  rates  of  extraction  and  recovery,  estimated  commodity  price  forecasts  and  the
+timing of future expenditures, all of which are, by their very nature, subject to interpretation and uncertainty.
+Changes in these estimates may materially impact the carrying value of the Company’s mining and recovery
+assets and the recorded amount of depreciation.
+f.
+Business combinations
+Management uses judgment in applying the acquisition method of accounting for business combinations and
+in determining fair values of the identifiable assets and liabilities acquired. The value placed on the acquired
+assets and liabilities, including identifiable intangible assets, will have an effect on the amount of goodwill or
+bargain  purchase  gain  that  the  Company  may  record  on  an  acquisition.  Changes  in  economic  conditions,
+commodity prices and other factors between the date that an acquisition is announced and when it finally is
+consummated can have a material difference on the allocation used to record a preliminary purchase price
+allocation  versus  the  final  purchase  price  allocation  which  can  take  up  to  one  year  after  acquisition  to
+complete. See b. above for information related to the valuation of mining and recovery assets in this process.
+37
+g.
+Impairment testing of mining and recovery assets
+The Company undertakes a review of the carrying values of its mining and recovery assets whenever events
+or changes in circumstances indicate that their carrying values may exceed their estimated net recoverable
+amounts determined by reference to estimated future operating results and net cash flows. An impairment
+loss is recognized when the carrying value of a mining or recovery asset is not recoverable based on this
+analysis.  In  undertaking  this  review,  the  management  of  the  Company  is  required  to  make  significant
+estimates  of,  among  other  things,  future  production  and  sale  volumes,  forecast  commodity  prices,  future
+operating and capital costs and reclamation costs to the end of the mining asset’s life. These estimates are
+subject to various risks and uncertainties, which may ultimately have an effect on the expected recoverability
+of the carrying values of mining and recovery assets.
+h.
+Asset retirement obligations
+Asset  retirement  obligations  are  recorded  as  a  liability  when  an  asset  that  will  require  reclamation  and
+remediation  is  initially  acquired.  For  disturbances  created  on  a  property  owned  that  will  require  future
+reclamation and remediation the Company records asset retirement obligations for such disturbance when
+occurred. The Company has accrued its best estimate of its share of the cost to decommission its mining and
+milling properties in accordance with existing laws, contracts and other policies. The estimate of future costs
+involves a number of estimates relating to timing, type of costs, mine closure plans, and review of potential
+methods  and  technical  advancements.  Furthermore,  due  to  uncertainties  concerning  environmental
+remediation,  the  ultimate  cost  of  the  Company’s  decommissioning  liability  could  differ  from  amounts
+provided. The estimate of the Company’s obligation is subject to change due to amendments to applicable
+laws and regulations and as new information concerning the Company’s operations becomes available. The
+Company  is  not  able  to  determine  the  impact  on  its  financial  position,  if  any,  of  environmental  laws  and
+regulations  that  may  be  enacted  in  the  future.  Additionally,  the  expected  cash  flows  in  the  future  are
+discounted  at  the  Company’s  estimated  cost  of  capital  based  on  the  periods  the  Company  expects  to
+complete the reclamation and remediation activities. Differences in the expected periods of reclamation or in
+the discount rates used could have a material difference in the actual settlement of the obligations compared
+with the amounts provided.
+i.
+Determination whether an acquisition represents a business combination or asset purchase
+Management  determines  whether  an  acquisition  represent  a  business  combination  or  asset  purchase  by
+considering the stage of exploration and development and status of an acquired operation. Consideration is
+given  to  whether  the  acquired  properties  include  mineral  reserves  or  mineral  resources,  in  addition  to  the
+permitting required and results of economic assessments.
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+The  Company  is  exposed  to  risks  associated  with  commodity  prices,  interest  rates,  foreign  currency
+exchange rates and credit. Commodity price risk is defined as the potential loss that we may incur as a result
+of changes in the market value of uranium. Interest rate risk results from our debt and equity instruments that
+we issue to provide financing and liquidity for our business. The foreign currency exchange risk relates to the
+risk that the value of financial commitments, recognized assets or liabilities will fluctuate due to changes in
+foreign currency rates. Credit risk arises from the extension of credit throughout all aspects of our business.
+Industry-wide risks can also affect our general ability to finance exploration, and development of exploitable
+resources; such effects are not predictable or quantifiable. Market risk is the risk to the Company of adverse
+financial impact due to change in the fair value or future cash flows of financial instruments as a result of
+fluctuations in interest rates and foreign currency exchange rates.
+38
+Commodity Price Risk
+The Company is subject to market risk related to the market price of U3O8. Our four supply contracts contain
+favorable  pricing  above  current  spot  prices;  however,  these  long  term  prices  cover  only  a  portion  of  our
+planned uranium recovery. Revenue beyond our current contracts will be affected by both spot and long-term
+U3O8 price fluctuations which are affected by factors beyond our control, including: the demand for nuclear
+power;  political  and  economic  conditions;  governmental  legislation  in  uranium  producing  and  consuming
+countries;  and  production  levels  and  costs  of  production  of  other  producing  companies.  The  Company
+continuously monitors the market to determine its level of extraction and recovery of uranium in the future.
+Interest Rate Risk
+The Company is exposed to interest rate risk on its cash equivalents, deposits, restricted cash, and debt. Our
+interest  earned  is  not  material;  thus  not  subject  to  significant  risk.  Our  Wyoming  Industrial  Development
+Revenue Bond has a fixed interest rate over its remaining five-year life, removing variability. The Company is
+exposed to an interest rate risk associated with its convertible debentures (the “Debentures”), which is based
+on the spot market price of U3O8. These Debentures mature in December 2020. The Company does not expect
+the spot market price of U3O8 to exceed $54.99 prior to the Debentures’ maturity and, accordingly, does not
+believe  there  is  any  significant  interest  rate  risk  related  to  these  Debentures.  The  Company  does  not  use
+derivatives  to  manage  interest  rate  risk.  The  following  chart  displays  the  interest  rate  applicable  to  our
+Debentures at various U3O8 price levels.
+UxC U3O8 Weekly Indicator Price Annual Interest Rate
+Up to $54.99
+$55.00–$59.99
+$60.00–$64.99
+$65.00–$69.99
+$70.00–$74.99
+$75.00–$79.99
+$80.00–$84.99
+$85.00–$89.99
+$90.00–$94.99
+$95.00–$99.99
+$100 and above
+8.50%
+9.00%
+9.50%
+10.00%
+10.50%
+11.00%
+11.50%
+12.00%
+12.50%
+13.00%
+13.50%
+Currency Risk
+The foreign exchange risk relates to the risk that the value of financial commitments, recognized assets or
+liabilities will fluctuate due to changes in foreign currency rates. The Company does not use any derivative
+instruments to reduce its exposure to fluctuations in foreign currency exchange rates. As the US Dollar is the
+functional  currency  of  our  U.S.  operations,  the  currency  risk  has  been  reduced.  We  maintain  a  nominal
+balance in foreign currency, resulting in a low currency risk relative to our cash balances. Our Debentures are
+denominated in Canadian Dollars and, accordingly, are exposed to currency risk.
+The following table summarizes, in United States dollar equivalents, the Company’s major foreign currency
+(Cdn$) exposures as of June 30, 2016 ($000):
+39
+Cash and cash equivalents
+Accounts payable and accrued liabilities
+Loans and borrowings
+   Total
+$
+ 
+ 
+$
+2,645 
+(867)
+(16,570)
+ (14,792)
+The  table  below  summarizes  a  sensitivity  analysis  for  significant  unsettled  currency  risk  exposure  with
+respect to our financial instruments as at June 30, 2016 with all other variables held constant. It shows how net
+income would have been affected by changes in the relevant risk variables that were reasonably possible at
+that date.
+('000s)
+Strengthening net earnings
+ 
+Weakening net earnings
+Credit Risk
+Change for
+Sensitivity Analysis    
+   
+ 
++1% change in 
+ 
+   
+U.S. 
+dollar  $
+ 
+  -1% change in U.S. 
+   
+dollar  $
+Increase (decrease) in other
+comprehensive income
+(192)
+ 
+ 192
+Credit risk relates to cash and cash equivalents, trade, and other receivables that arise from the possibility
+that  any  counterparty  to  an  instrument  fails  to  perform.  The  Company  only  transacts  with  highly-rated
+counterparties and a limit on contingent exposure has been established for any counterparty based on that
+counterparty’s credit rating. The Company’s sales are attributable mainly to multinational utilities. As at June
+30,  2016,  the  Company’s  maximum  exposure  to  credit  risk  was  the  carrying  value  of  cash  and  cash
+equivalents, trade receivables and taxes recoverable.
+Disclosure Controls and Procedures.
+ITEM 4. CONTROLS AND PROCEDURES.
+At the end of the period covered by this quarterly report on Form 10-Q for the three and six month periods
+ended June 30, 2016, an evaluation was carried out under the supervision of and with the participation of our
+management,  including  the  Chief  Executive  Officer  (“CEO”)  and  Chief  Financial  Officer  (“CFO”),  of  the
+effectiveness of the design and operations of our disclosure controls and procedures (as defined in Rule 13a-
+15(e)  and  Rule  15d-15(e)  under  the  Exchange  Act).  Based  on  that  evaluation,  the  CEO  and  the  CFO  have
+concluded  that  as  of  the  end  of  the  period  covered  by  this  Quarterly  Report,  our  disclosure  controls  and
+procedures were effective in ensuring that: (i) information required to be disclosed by us in reports that we file
+or submit to the SEC under the Exchange Act is recorded, processed, summarized and reported within the
+time periods specified in applicable rules and forms and (ii) material information required to be disclosed in
+our reports filed under the Exchange Act is accumulated and communicated to our management, including
+our CEO and CFO, as appropriate, to allow for accurate and timely decisions regarding required disclosure.
+Changes in Internal Control over Financial Reporting
+There has been no change in our internal control over financial reporting during the quarter ended June 30,
+2016 that has materially affected, or is reasonably likely to materially affect, our internal control over financial
+reporting.
+40
+PART II
+ITEM 1. LEGAL PROCEEDINGS.
+We  are  not  aware  of  any  material  pending  or  threatened litigation  or  of  any  proceedings  known  to  be
+contemplated by governmental authorities that are, or would be, likely to have a material adverse effect upon
+us or our operations, taken as a whole that was not disclosed in the Company Form 10-K for the year ended
+December 31, 2015, as filed with the SEC on March 15, 2016.
+ITEM 1A. RISK FACTORS.
+There have been no material changes from the risk factors set forth in our Annual Report on Form 10-K for the
+year ended December 31, 2015 as filed with the SEC on March 15, 2016.
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS.
+None.
+None.
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES.
+ITEM 4. MINE SAFETY DISCLOSURE.
+The mine safety disclosures required by section 1503(a) of the Dodd-Frank Wall Street Reform and Consumer
+Protection Act and Item 104 of Regulation S-K are included in Exhibit 95.1 of this Quarterly Report.
+ITEM 5. OTHER INFORMATION.
+On August 4, 2016, Energy Fuels Inc. (the “Company”), Energy Fuels Resources (USA) Inc., and Stephen P.
+Antony  entered  into  an  Amended  and  Restated  Employment  Agreement  (the  “Amended  Employment
+Agreement”)  which  amends  and  restates  the  employment  agreement  entered  into  by  the  parties  effective
+October 1, 2015 (the “Original Employment Agreement”). The Amended Employment Agreement permits Mr.
+Antony to elect to receive the succession bonus on the appointment of a Chief Operating Officer, a President
+and a Chief Executive Officer, in restricted stock units (“RSUs”) or cash or a combination thereof, rather than
+all in cash as set out in the Original Employment Agreement, and the number of RSUs shall be based on 125%
+of the cash amount that would have been paid had the RSUs not been issued (the “RSU Value”). The number
+of RSUs to be issued will be equal to the RSU Value divided by the greater of (a) the value weighted average
+price of the Company’s common shares on the NYSE MKT for the five trading days ending on the last trading
+day prior to the date the payment is due (the “Payment Date”); and (b) the closing price of the Company’s
+common shares on the NYSE MKT on the last trading day prior to the Payment Date, and all RSUs issued will
+vest on the next regular vesting day for outstanding RSUs previously granted to Mr. Antony.
+The foregoing summary of the changes made to the Original Employment Agreement is subject to the full
+terms of the Amended Employment Agreement which is attached hereto as Exhibit 10.12.
+Exhibits
+The following exhibits are filed as part of this report:
+ITEM 6. EXHIBITS.
+Exhibit
+Number
+2.1
+2.2
+2.3
+3.1
+3.2
+3.3
+4.1
+4.2
+4.3
+4.4
+4.5
+4.6
+4.7
+4.8
+10.1
+10.2
+10.3
+10.4
+10.5
+10.6
+10.7
+10.8
+10.9
+10.10
+Description
+Agreement and Plan of Merger by and among Uranerz Energy Corporation, Energy Fuels, Inc. and EFR
+Nevada Corp., dated January 4, 2015 (1)
+Amendment to the Agreement and Plan of Merger, dated May 8, 2015 (1)
+Membership Interest Purchase Agreement by and among Energy Fuels Inc., Energy Fuels Holdings Corp.,
+Mesteña LLC, Jones Ranch Minerals Unproven, Ltd. And Mesteña Unproven Ltd. dated March 4, 2016 (2)
+Articles of Continuance dated September 2, 2005 (3)
+Articles of Amendment dated May 26, 2006 (4)
+Bylaws (5)
+The Amended and Restated Convertible Debenture Indenture dated August 4, 2016 between Energy
+Fuels Inc., BNY Trust Company of Canada and the Bank of New York Mellon providing for the issuance of
+debentures
+Financing Agreement between Uranerz Energy Corp. and Johnson County dated November 26, 2013 (6)
+Bond Purchase Agreement among the State of Wyoming, Johnson County and Uranerz Energy Corp.
+dated November 12, 2013 (7)
+Promissory Note dated November 26, 2013 (8)
+Mortgage and Security Agreement and Assignment between Uranerz Energy Corp. and the Trustee dated
+November 26, 2013 (9)
+41
+Shareholder Rights Plan (10)
+Warrant Indenture between Energy Fuels Inc. and CST Trust Co. providing for the issue of common share
+purchase warrants dated March 14, 2016 (11)
+First Supplemental Indenture among Energy Fuels Inc., CST Trust Company and American Stock
+Transfer & Trust Company, LLC dated April 14, 2016 (12)
+Energy Fuels 2013 Amended and Restated Stock Option Plan (13)
+Energy Fuels Omnibus Compensation Plan (14)
+Sales Agreement between Energy Fuels Inc. and Cantor Fitzgerald & Co. dated September 29, 2015 (15)
+Form of Indemnity Agreement between Energy Fuels and its officers and directors (16)
+Amended and Restated Employment Agreement among Energy Fuels Inc., Energy Fuels Resources
+(USA) Inc., and Stephen P. Antony dated August 4, 2016
+Employment Agreement between Energy Fuels Inc. and David C. Frydenlund dated March 11, 2016 (17)
+Employment Agreement between Energy Fuels Inc. and W. Paul Goranson dated March 11, 2016 (18)
+Employment Agreement between Energy Fuels Inc. and Harold R. Roberts dated March 11, 2016 (19)
+Employment Agreement between Energy Fuels Inc. and Daniel G. Zang dated March 11, 2016 (20)
+Underwriting Agreement dated March 9, 2016 (21)
+10.11
+31.1
+31.2
+32.1
+32.2
+Employment Agreement between Energy Fuels Inc. and Mark S. Chalmers dated April 14, 2016 (22)
+Certification of Chief Executive Officer pursuant to Rule 13a-14(a)) under the Securities Exchange Act of
+1934, as amended
+Certification of Chief Financial Officer pursuant to Rule 13a-14(a) under the Securities Exchange Act of
+1934, as amended
+Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to
+Section 906 of the Sarbanes-Oxley Act of 2002
+Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section
+906 of the Sarbanes-Oxley Act of 2002
+Mine Safety Disclosure
+XBRL Instance Document
+95.1
+101.INS
+101.SCH XBRL Taxonomy Extension – Schema
+101.CAL XBRL Taxonomy Extension – Calculations
+101.DEF XBRL Taxonomy Extension – Definitions
+101.LAB
+101.PRE XBRL Taxonomy Extension – Presentations
+XBRL Taxonomy Extension – Labels
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+(10)
+(11)
+(12)
+(13)
+Incorporated by reference to Schedule B of Exhibit 99.1 of Energy Fuels’ Form 6-K filed with the SEC on May
+26, 2015.
+Incorporated by reference to Exhibit 10.1 of Energy Fuels’ Form 8-K filed with the SEC on March 8, 2016.
+Incorporated by reference to Exhibit 3.1 of Energy Fuels’ Form F-4 filed with the SEC on May 8, 2015.
+Incorporated by reference to Exhibit 3.2 of Energy Fuels’ Form F-4 filed with the SEC on May 8, 2015.
+Incorporated by reference to Exhibit 3.3 of Energy Fuels’ Form F-4 filed with the SEC on May 8, 2015.
+Incorporated  by  reference  to  Exhibit  4.1  to  the  Form  8-K filed  on  December  3,  2013  by  Uranerz  Energy
+Corporation.
+Incorporated  by  reference  to  Exhibit  4.2  to  the  Form  8-K filed  on  December  3,  2013  by  Uranerz  Energy
+Corporation.
+Incorporated  by  reference  to  Exhibit  4.3  to  the  Form  8-K filed  on  December  3,  2013  by  Uranerz  Energy
+Corporation.
+Incorporated  by  reference  to  Exhibit  4.4  to  the  Form  8-K filed  on  December  3,  2013  by  Uranerz  Energy
+Corporation.
+Incorporated by reference to Exhibit 10.9 to Energy Fuels’ Form F-4 filed on May 8, 2015.
+Incorporated by reference to Exhibit 4.1 to Energy Fuels’ Form 8-K filed on March 14, 2016.
+Incorporated by reference to Exhibit 4.1 to Energy Fuels’ Form 8-K filed on April 20, 2016.
+Incorporated by reference from Schedule B of Exhibit 99.84 of Energy Fuels' registration statement on Form 40-F
+filed with the SEC on November 15, 2013.
+42
+(14)
+(15)
+(16)
+(17)
+(18)
+(19)
+(20)
+(21)
+(22)
+Incorporated by reference to Exhibit 4.1 to Energy Fuels’ Form S-8 filed on June 24, 2015.
+Incorporated by reference to Exhibit 99.1 to Energy Fuels’ Form 6-K filed on September 29, 2015.
+Incorporated by reference to Exhibit 10.4 of Energy Fuels’ Form 10-K filed with the SEC on March 15, 2016.
+Incorporated by reference to Exhibit 10.6 of Energy Fuels’ Form 10-K filed with the SEC on March 15, 2016.
+Incorporated by reference to Exhibit 10.7 of Energy Fuels’ Form 10-K filed with the SEC on March 15, 2016.
+Incorporated by reference to Exhibit 10.8 of Energy Fuels’ Form 10-K filed with the SEC on March 15, 2016.
+Incorporated by reference to Exhibit 10.9 of Energy Fuels’ Form 10-K filed with the SEC on March 15, 2016.
+Incorporated by reference to Exhibit 10.1 to Energy Fuels’ Form 8-K filed March 10, 2016.
+Incorporated by reference to Exhibit 10.11 to Energy Fuels’ Form 10-Q filed with the SEC on May 6, 2016.
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has
+duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+ENERGY FUELS INC. 
+(Registrant)
+Dated: August 5, 2016
+By:
+/s/ Stephen P. Antony
+Dated: August 5, 2016
+Stephen P. Antony
+Chief Executive Officer
+ 
+/s/ Daniel G. Zang
+Daniel G. Zang
+Chief Financial Officer
+By:
+43

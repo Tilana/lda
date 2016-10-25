@@ -1,0 +1,14273 @@
+
+TECHNICAL REPORT
+PITMAN PROPERTY
+SKEENA RIVER AREA
+OMINECA MINING DIVISION
+NORTHWESTERN BRITISH COLUMBIA
+NTS 1031/06 & 1031/09
+UTM (NAD 83, Zone 9) – 540724E  6067689N
+Latitude: 54° 45’ 17” North 
+Longitude: 128° 22’ 01” West
+Report Prepared for:
+Prepared by:
+and
+Date of Report:
+Casa Minerals Inc.
+310‐675 West Hastings Street 
+Vancouver, B. C., Canada, V6B 1N2
+Garry Payie, P. Geo. 
+Total Earth Science Services 
+80 Regina Avenue 
+Victoria, BC, V8Z 1J1
+Erik A. Ostensoe, P. Geo. 
+4306 West 3rd Avenue 
+Vancouver, BC, V6R 1M7
+May 4, 2011
+2.0
+3.0
+CONTENTS
+0.0
+1.0
+1.1
+1.2
+1.3
+1.4
+1.5
+2.1
+2.2
+2.3
+2.4
+2.5
+SUMMARY .................................................................................................................................. 1
+INTRODUCTION ........................................................................................................................ 2
+Introduction ......................................................................................................................... 2
+Reliance on other Experts ................................................................................................... 3
+Property Description and Location ..................................................................................... 4
+Accessibility, Climate, Local Resources, Infrastructure and Physiography ....................... 5
+History ................................................................................................................................. 11
+GEOLOGICAL SETTING ........................................................................................................... 16
+Introduction ....................................................................................................................... 16
+Regional Geology .............................................................................................................. 16
+Local Geology ..................................................................................................................... 17
+Regional Geochemistry ...................................................................................................... 18
+Regional Magnetic Data .................................................................................................... 22
+DEPOSIT TYPES ....................................................................................................................... 24
+3.1 West of Skeena River ......................................................................................................... 24
+East of Skeena River .......................................................................................................... 24
+3.2
+4.0 MINERALIZATION ................................................................................................................... 25
+4.1 West of Skeena River ......................................................................................................... 25
+East of Skeena River .......................................................................................................... 29
+4.2
+EXPLORATION ........................................................................................................................ 30
+5.0
+DRILLING ................................................................................................................................. 35
+6.0
+SAMPLING METHOD AND APPROACH ................................................................................. 35
+7.0
+SAMPLE PREPARATION, ANALYSES AND SECURITY ............................................................ 36
+8.0
+9.0
+DATA VERIFICATION .............................................................................................................. 37
+10.0 ADJACENT PROPERTIES ......................................................................................................... 37
+11.0 MINERAL PROCESSING AND METALLURGICAL TESTING ..................................................... 37
+12.0 MINERAL RESOURCE AND MINERAL RESERVE ESTIMATES ................................................. 37
+13.0 OTHER RELEVANT DATA AND INFORMATION .................................................................... 38
+Casa Minerals Inc. – Pitman Projects
+P a g e | i
+14.0
+INTERPRETATION AND CONCLUSIONS ................................................................................. 38
+14.1 Pitman Prospect ................................................................................................................. 39
+14.2 WoMo Prospect .................................................................................................................. 39
+14.3 Gold Dome Prospect .......................................................................................................... 39
+14.4
+Lynda Prospect ................................................................................................................... 40
+14.5 Clore River Prospect ........................................................................................................... 40
+14.6 Keap Creek Prospect .......................................................................................................... 40
+14.7 Paddy Mac Prospect ........................................................................................................... 40
+15.0 RECOMMENDATIONS ........................................................................................................ 40
+15.1 Pitman Molybdenite Zone ................................................................................................. 41
+15.2 Prospects West of Skeena River ........................................................................................ 41
+15.3 East of Skeena River .......................................................................................................... 43
+16.0 REFERENCES............................................................................................................................ 45
+17.0 CERTIFICATES OF AUTHORS .................................................................................................. 46
+17.1 GARRY PAYIE, P. Geo. ....................................................................................................... 46
+17.2 ERIK A. OSTENSOE, P. Geo. ............................................................................................... 48
+APPENDIX 1. GEOLOGICAL SURVEY BRANCH BEDROCK SAMPLING DATA (North) (South) ........ 50
+Historic Geochemical Data (ARIS Reports) ................................................................................... 57
+APPENDIX 2. Clore River Area – 2008 Rock and MMI Soil Geochemical Samples ......................... 64
+APPENDIX 3. Keap Creek Area 2008 and 2010 Rock and MMI Soil Geochemical Samples .......... 74
+APPENDIX 4. Pitman-Gold Dome Area MMI Soil Geochemical Samples ........................................ 83
+APPENDIX 5. CERTIFICATES OF ANALYSIS ........................................................................................ 89
+Casa Minerals Inc. – Pitman Projects
+P a g e  | ii
+ILLUSTRATIONS
+Figure 1-1 - Project Location in British Columbia .............................................................................. 9
+Figure 1-2: Tenure Map ..................................................................................................................... 10
+Figure 1-3: Historic Drill Hole Locations – Pitman Property ............................................................ 13
+Figure 1-4: Section A-A’ Assay Section – MoS2 – Pitman Property .................................................. 14
+Figure 1-5: Section B-B’ Assay Section – MoS2 – Pitman Property ................................................... 15
+Figure 2-1: Geology Map ................................................................................................................... 19
+Figure 2-1: Legend to the Geology Map .......................................................................................... 20
+Figure 2-2: MINFILE – Mineral Occurrences of the Pitman Project Area ........................................ 21
+Figure 2-5: Total Magnetic Intensity Terrace Area .......................................................................... 23
+Figure 5-1: Clore River Area – 2008 and 2010 Sample Locations ................................................... 32
+ABULATIONS
+TABLE 1:  Mineral Tenure .................................................................................................................... 7
+Casa Minerals Inc. – Pitman Projects
+P a g e  | iii
+0.0
+SUMMARY
+The  Pitman  property,  located  north  and  northeast  of  Terrace,  B.  C.,  comprises  39  mineral 
+tenures with total area 13,337.52 hectares.  Tenures are owned by Casa Minerals Inc., a junior 
+mineral  exploration  company,  which  company  has  entered  into  a  letter  of  intent  (LOI)  dated 
+May  2,  2011,  to  give  Metron  Capital  Corp.  the  optional  opportunity  to  acquire  an  undivided 
+50%  interest  in  the  tenures  by  making  cash  payments,  incurring  specified  expenditures  and 
+issuing  common  shares.    The  transaction  is  subject  to  its  acceptance  by  the  TSX  Venture 
+Exchange and other governing bodies and agencies.
+The  Pitman  tenures  include  several  historic  molybdenum  and  gold  prospects  that  have  been 
+explored  by  drilling  and,  in  some  case,  underground  development.  Other  prospects  have  not 
+been advanced beyond the earliest stages of trenching or technical surveys.  Important factors 
+that contribute to renewed interest in the Pitman-Borden area include an expanded geological 
+database due to work by provincial geoscientists, recent (2008) apparent exploration success at 
+the Zymo copper-gold porphyry property located east of Borden Glacier, and a province-wide 
+resurgence of mineral exploration due in part to robust prices for all mineral commodities.
+Casa  Minerals  Inc.  in  2008  conducted  field  work  on  most  parts  of  the  Pitman  property  and 
+continued  that  work  in  2010.    The  2008  work  included  magnetometer  surveys  and  MMI  soil 
+sampling  and  the  more  recent  work  was  directed  to  prospecting  and  rock  chip  sampling  in 
+selected parts of the property: the Pitman-Borden database was enhanced by analyses from 850 
+MMI  soil  samples  and  approximately  100  rock  chip  samples.    450  MMI  soil  samples  are  in 
+storage  and  will  be  analysed  when  funds  are  available.    Work  in  2010  was  directed  to  the 
+WoMo  prospect  area  located  at  high  elevation  west  of  Skeena  River  where  rock  sampling 
+returned strong gold, copper and molybdenum values, and to Clore River and Keap Creek areas 
+east  of  Skeena  River.  The  property  was  enlarged  to  include  the  Paddy  Mac  mineral  tenures 
+where  historic  work,  including  underground  workings,  has  returned  strong  gold  values.    The 
+company's  work  is  still  in  early  stages  but  has  resulted  in  identification  of  multiple  sites  that 
+warrant further examination.
+A program of work designed to further evaluate all of the Pitman tenures is presented in this 
+report.  Recommendations are presented in three parts:
+(1) High elevation work West of Skeena River – Stage 1 -
+(2) High elevation work West of Skeena River – Stage 2 -
+(3) Work East of Skeena River – Stage 1 -
+Total Estimated Cost of Proposed Programs of Work -
+$249,262
+$450,000
+$  92,920
+$792,982.
+Casa Minerals Inc. – Pitman Projects
+Page 1 of 92
+1.0
+INTRODUCTION
+1.1
+Introduction
+This  report  was  prepared  for  Casa  Minerals  Inc.,  a  Vancouver,  B.  C.  mineral  exploration 
+company, in order to provide information concerning that company’s mineral properties, their 
+history and geologic settings, and their exploration potential and to present recommendations 
+for  further  evaluation  work.    This  report  is  National  Instrument  43-101  and  Form  43-101F1 
+compliant and its authors are Qualified Persons as defined in the Instrument and both authors 
+have  examined  in  the  field  different  parts  of  the  properties.    The  report  was  initially  dated 
+January 25, 2011 and has been revised slightly to include a transaction pursuant to a Letter of 
+Intent dated May 2, 2011 to option a 50% undivided interest in the property to Metron Capital 
+Corp., a Capital Pool Company.
+The  Pitman  mineral  tenures,  located  north,  northeast  and  east  of  Terrace  in  the  Omineca 
+Mining Division, British Columbia, Canada, are owned by Casa Minerals Inc., a Vancouver-based 
+mineral exploration company.  The tenures cover several areas of historic prospecting interest, 
+including the Pitman and WoMo molybdenite prospects and the Gold Dome, Lynda, Lindy and 
+Paddy Mac base metal and gold sites.  Casa Minerals Inc. has completed programs of research 
+and field work in order to better define the mineral potential of its property.
+This  report  comprises  a  review  of  district  geology,  mineral  exploration  history,  detailed 
+drawings to illustrate layouts of Mobile Metal Ion geochemical surveys and rock sample data.  
+Magnetic  data  from  two  grids,  Pitman  and  Keap  are  included.    Information  has  been 
+integrated in order to plan further property work that will help determine the technical merits 
+of the various mineral zones and may lead to discovery of additional prospective areas.
+The report will be submitted in support of a listing application to allow the company's shares to 
+be  listed  on  a  national  stock  exchange  and  will  support  financing  initiatives  intended  to 
+provide funds to be used for furthering exploration work on the subject properties.  Much of 
+the current data included in this report has been included in separate reports submitted to the 
+British Columbia Ministry of Mines in support of Statements of Work to extend the expiry dates 
+of the mineral tenures.
+Casa Minerals Inc. – Pitman Projects
+Page 2 of 92
+1.1.1 TransactionTerms
+By  terms  of  a  Letter  of  Intent  (LOI)  dated  May  2,  2011,  Casa  Minerals  Inc.(Casa)  optioned  an 
+undivided 50% interest in the Pitman property to Metron Capital Corp. (Metron), a Capital Pool 
+Company  listed  on  the  TSX  Venture  Exchange..  The  LOI  includes  terms  and  conditions  that, 
+subject to TSX Venture Exchange approval, will constitute Metron’s Qualifying Transaction (QT) 
+and will qualify that company as a “Tier 2” issuer on the Exchange.  The TSX Venture Exchange 
+has in no way passed upon the merits of the proposed Qualifying Transaction.
+The  LOI  includes  the  following  terms:  Metron  will,  upon  signing  the  LOI,  make  a  non-
+refundable cash payment to Casa of $17,500 (paid) and on the closing date of the QT will make 
+a  second  cash  payment  to  Casa  of  $17,500  and  issue  to  Casa  400,000  shares  of  Metron.  
+Following the Closing Date, Metron may exercise the option by making further cash payments 
+totaling $700,000 and issuing a further 2,900,000 common shares over a period of four years 
+and incurring exploration expenditures totaling $3,200,000 over a period of five years.
+On exercise of the Option, Casa and Metron will form a 50%/50% joint venture, with funding 
+of further work on a proportional basis under the direction of a management committee with 
+voting rights proportional to ownership percentage.  Failure of a party to contribute in full to 
+funding  of  planned  programs  will  result  in  dilution  of  that  party’s  interest.    If  either  party  is 
+diluted to 10%, their interest will convert to a 10% net profits interest royalty.
+1.2
+RelianceonotherExperts
+The authors of this report have reviewed and incorporated data from several sources, including 
+publications  of  the  British  Columbia  Department  of  Energy,  Mines  and  Petroleum  Resources, 
+Geological Survey of Canada, technical textbooks, corporate websites, assessment reports, and 
+information  arising  from  the  work  in  recent  years  by  Casa  Minerals  Inc.    Where  appropriate, 
+acknowledgement of sources is included in the text.
+Garry Payie, P. Geo., the senior author of this report is a geoscientist formerly employed by the 
+Geological Survey Branch of the British Columbia Ministry of Energy and Mines.  He is familiar 
+with  the  geology  and  mineral  deposits  of  the  province  and  has  had  personal  experience 
+working  with  other  geoscientists,  both  in  government  and  in  industry.    In  advance  of  the 
+preparation  of  this  report,  the  senior  author  visited  the  property  from  September  26  to  28, 
+2007.    At  this  time  he  examined  rocks  near  Borden  glacier,  accessed  via  helicopter,  and  also 
+visited the Pitman areas via its network of roads.  From July 30 to 31, 2008 the senior author 
+visited  the  Clore  Creek  and  Pitman  areas  to  further  inspect  the  property  geology.    He  also 
+obtained data from the client and from MINFILE and other geoscience databases.  Mr. Payie is 
+“at  arm’s  length”  from  both  Metron  Capital  Corp.  and  Casa  Minerals  Inc.  and  as  such  is  an 
+Independent Qualified Person as defined in Section 1.4 of National Instrument 43-101.
+Casa Minerals Inc. – Pitman Projects
+Page 3 of 92
+Erik Ostensoe, P. Geo., consulting geologist, assisted the senior writer in preparation of the text 
+and offered input based on his work on both the Pitman and WoMo parts of Casa's property.  
+He  examined  parts  of  tenures  east  of  Skeena  River  during  July,  2008  and  the  Pitman  area 
+during early October, 2008, and worked in the WoMo part of the property during July, 2010.  
+Mr.  Ostensoe  is  a  director  of  Casa  Minerals  Inc.  and  as  such  is  not  an  “at  arm’s  length” 
+Independent Qualified Person with respect to this report.
+Terracad Geoscience Services Ltd., (formerly Terracad GIS Services Ltd.) of Vancouver, B. C., in 
+2007  generated  imagery  from  earth  satellite  databases  and  provided  photogrammetric 
+structural  and  spectral  analyses  which  were  included  in  a  report  of  assessment  work  (ARIS 
+#29151).    In  2008  and  2009  Terracad  generated  drawings  to  illustrate  historic  bedrock  and 
+geochemical  sampling  and  prepared  plots  of  MMI  and  magnetic  survey  data  to  illustrate  the 
+distribution  of  metal  factors  and  magnetic  intensity.    Software  programs  used  in  that  work 
+included:  AutoCAD, Map Info, MICRODEM, ArcGIS and Global Mapper.  Terracad Geoscience 
+provides  GIS  and  other  technical  support  services  to  the  mineral  exploration  industry  and  is 
+owned by Farshad Shirvani, president of Casa Minerals Inc.
+Work in the Skeena River area by Casa Minerals Inc. in 2008 benefited from advice from, and 
+discussions with,  J.  Nelson,  PhD.,  P.Geo.,  a senior  geoscientist  of  the  B. C.  Ministry  of  Energy, 
+Mines  and  Petroleum  Resources,  who  visited  crews  in  the  field  and  shared  her  abundant 
+knowledge of the tectonics and geologic history of the area.
+Geotronics  Consulting  Inc.  in  2008  provided  a  field  crew  that  laid  out  grids,  took  MMI  soil 
+samples and, in some areas, conducted magnetic surveys.
+Prospecting and geological reconnaissance and rock sampling work in 2010 was conducted by L. 
+Solkoski, geologist, and Daniel José de Almeida, a student of engineering geology from Brazil.
+1.3
+PropertyDescriptionandLocation
+The  Pitman  property  and  the  formerly  related  Borden  property  of  Casa  Minerals  Inc.  are 
+located  from  20  to  40  km  northeast  and  north  of  Terrace,  British  Columbia,  Canada,  in  the 
+Skeena  Mountains  of  the  Coast  Crystalline  Complex  (Figures  1-1,  1-2).    The  mineral  tenures 
+extend from south of Zymoetz River in the south, north northwesterly across the Skeena River 
+to Doreen flag stop on the CNR (Figures 1-2) and comprise 39 tenures as listed in Table 1. Total 
+area is 13,337.52 hectares.
+Mineral  titles  are  held  by  Casa Minerals  Inc.  and  may  be  maintained  for an  indefinite  period 
+provided only that assessment work (aka "annual labour") is filed, along with appropriate fees, 
+in  a  timely  fashion.    Tenures  bear  a  burden  of  expenditures  of  $4.00  per  hectare  per  year 
+during the initial three year period and $8.00 per hectare per year thereafter.  In the case of 
+the Pitman mineral tenures, the annual work requirement in the initial three years, which for 
+most will expire in 2011, is approximately $48,199; thereafter the annual work requirement will 
+be  approximately  $96,308.    If  qualifying  expenditures  are  insufficient,  tenures  may  be 
+maintained  by  payment  of  cash  in  lieu  of  work.    Work  expenditures  can  be  applied  as
+Casa Minerals Inc. – Pitman Projects
+Page 4 of 92
+assessment work to a maximum of ten years. All Pitman property tenures are in good standing 
+to  September  01,  2011  and  will  be maintained  in  good  standing  thereafter  by  application  of 
+exploration expenditures incurred during the 2011 and subsequent field seasons or by payment 
+of appropriate cash in lieu of work.
+Tenures  specifically  grant  access  to  minerals  and  other  natural  values  but  do  not  include 
+ownership rights to surface, land, water or  forests.  Extraction of minerals, et al., other than 
+for quality testing purposes, is governed by permits issued by the Ministry of Energy, Mines and 
+Petroleum  Resources.    Prospecting  and  other  early  stage  work  not  involving  road  building, 
+drilling, camp building and similar mechanical disturbances, requires filing of a Notice of Work.  
+More elaborate work may require consultation with First Nations and Forestry as a prerequisite 
+to permit applications.  As of the date of this report, no Notice of Work has been submitted 
+with respect to the 2011 program of work.
+Metron  Capital  Corp.,  by  agreement  dated  May  2,  2011,  between  Metron  and  Casa  Minerals 
+Inc., has been granted an option to acquire a 50% option in the Pitman property.
+1.4
+Accessibility,Climate,LocalResources,InfrastructureandPhysiography
+The  Pitman  tenures  extend  in  elevation  from  Skeena  River  (elevation  120  m)  to  high  alpine 
+terrain:  highest points are in excess of 2500 m.  The Pitman tenures located west of the Skeena 
+River  are  characterized  by  rugged  heavily  forested  slopes  that  rise  steeply  from  the  river.    A 
+legacy of logging roads suitable for use by four-wheel drive equipped vehicles provides access 
+to many of the Pitman tenures situated west of the river but helicopter deployment is essential 
+for positioning field crews at work sites or campsites at WoMo, Paddy Mac and other higher 
+elevation  locations.    In  addition  to  the  above-cited  Pitman  area,  the  mineral  tenures  extend 
+irregularly south to south of Zymoetz River.  Logging roads that lead easterly from Highway 16 
+provide  access  to  several  of  the  tenures,  notably  via  Zymoetz  River,  aka  "Copper  River", 
+Kleanza Creek and Legate Creek.
+The whole Skeena district lies within the Coast Mountains and is subject to West Coast Marine 
+climate conditions:  summers are pleasantly warm, with moderate rainfall, winters are gloomy 
+and  have  heavy  snow  and  rainfall.    Winter  field  work  is  severely  hampered  by  inclement 
+weather that interferes with helicopter supported operations:  ground-based winter operations 
+have  to  be  equipped  to  manage  snow  accumulations.    Annual  precipitation  recorded  at 
+Terrace, 27 km southwest of the main Pitman area, is 129.5 cm. but the mountains undoubtedly 
+receive greater amounts of both rainfall and snowfall.
+Terrace, B. C., population 11,320, is a reliable source of equipment, personnel and expediting 
+services  required  by  mineral  explorers.    A  full  service  airport  has  daily  connections  to 
+neighboring towns (Smithers, Prince Rupert) and to Vancouver.  Other factors of importance to 
+miners, including hydro-electric power, a water supply, good roads and family support concerns 
+such as schools and hospitals, are also present.
+Casa Minerals Inc. – Pitman Projects
+Page 5 of 92
+The  Pitman  area  is  in  the  Nass  Range  of  the  Coast  Mountains  physiographic  province  of  the 
+Canadian  Cordillera  (Bostock,  1948).    The  area  lies  immediately  east  of  the  main  Coast 
+Intrusions and has similar rugged topography governed by small, high energy streams that are 
+incised into the terrain.  Slopes above the treeline are gentler with a few prominent, sharply 
+sculpted arrêts that escaped glaciations.
+Casa Minerals Inc. – Pitman Projects
+Page 6 of 92
+TABLE 1:  Mineral Tenure
+Tenure No Claim Name
+Reg'd Owner
+Good To Date
+Area ha
+578026
+PADDY MAC
+Casa Minerals Inc.
+2011/sep/01
+546424
+RANDY3
+625643
+PADDY3
+Casa Minerals Inc.
+2011/sep/01
+Casa Minerals Inc.
+2011/sep/01
+525993
+WOMO MOLY SHOWING
+Casa Minerals Inc.
+2011/sep/01
+526195
+SHOWING
+Casa Minerals Inc.
+2011/sep/01
+532545
+PITMAN EXTENTION
+Casa Minerals Inc.
+2011/sep/01
+583347
+TIP TOP
+578715
+KEAPER 3
+578725
+LEGATE 2
+580034
+KEG 1
+Casa Minerals Inc.
+2011/sep/01
+Casa Minerals Inc.
+2011/sep/01
+Casa Minerals Inc.
+2011/sep/01
+Casa Minerals Inc.
+2011/sep/01
+588937
+CLORE CONNECTER
+Casa Minerals Inc.
+2011/sep/01
+588938
+CC 2
+Casa Minerals Inc.
+2011/sep/01
+588939
+KLEANZA CONECTER
+Casa Minerals Inc.
+2011/sep/01
+588941
+SKENA CONECTER
+Casa Minerals Inc.
+2011/sep/01
+588944
+KC 3
+Casa Minerals Inc.
+2011/sep/01
+525999
+TRAIN STATION
+Casa Minerals Inc.
+2011/sep/01
+578731
+WEST PIT
+589598
+WO EA
+563647
+THE LION
+588940
+KC 2
+Casa Minerals Inc.
+2011/sep/01
+Casa Minerals Inc.
+2011/sep/01
+Casa Minerals Inc.
+2011/sep/01
+Casa Minerals Inc.
+2011/sep/01
+578720
+SIR ROBERT SOUTH
+Casa Minerals Inc.
+2011/sep/01
+578729
+LEGATE 4
+Casa Minerals Inc.
+2011/sep/01
+578710
+CLORE CREEK 2
+Casa Minerals Inc.
+2011/sep/01
+588928
+WOMO NORTH
+Casa Minerals Inc.
+2011/sep/01
+578724
+LEGATE CREEK 1
+Casa Minerals Inc.
+2011/sep/01
+583339
+WOMO EAST
+Casa Minerals Inc.
+2011/sep/01
+317.38
+37.34
+18.67
+466.56
+111.96
+167.99
+316.85
+469.27
+467.08
+467.55
+470.01
+112.70
+468.75
+93.32
+187.14
+56.03
+466.54
+130.62
+354.48
+243.46
+466.80
+466.69
+470.06
+279.94
+467.36
+466.15
+Casa Minerals Inc. – Pitman Projects
+Page 7 of 92
+578708
+CLORE CREEK 1
+Casa Minerals Inc.
+2011/sep/01
+588929
+WOMO NORTH 2
+Casa Minerals Inc.
+2011/sep/01
+588930
+WOMO NORTH 1
+Casa Minerals Inc.
+2011/sep/01
+525992
+ACCESS
+578726
+LEGATE 3
+578728
+SNAGGED
+578714
+KEAPER 2
+525994
+LYNDA
+Casa Minerals Inc.
+2011/sep/01
+Casa Minerals Inc.
+2011/sep/01
+Casa Minerals Inc.
+2011/sep/01
+Casa Minerals Inc.
+2011/sep/01
+Casa Minerals Inc.
+2011/sep/01
+525997
+2ND ACCESS
+Casa Minerals Inc.
+2011/sep/01
+525858
+PITMAN MOLY RESOURCES
+Casa Minerals Inc.
+2011/sep/01
+578716
+KEAPER 4
+Casa Minerals Inc.
+2011/sep/01
+578712
+CLORE CREEK 3
+Casa Minerals Inc.
+2011/sep/01
+578713
+KEAPER 1
+Casa Minerals Inc.
+2011/sep/01
+451.37
+447.72
+167.81
+466.76
+466.85
+112.05
+469.00
+466.61
+429.31
+429.54
+469.39
+451.29
+469.13
+Total:
+13,337.52
+Casa Minerals Inc. – Pitman Projects
+Page 8 of 92
+140°0'0"W
+140°0'0"W
+50°0'0"N
+130°0'0"W
+120°0'0"W
+110°0'0"W
+.
+60°0'0"N
+"
+Stewart
+"
+[
+[
+Terrace
+Pitman
+"
+Smithers
+"
+Prince George
+"
+Williams Lake
+"
+Courtenay
+"
+Revelstoke
+"
+"
+50°0'0"N
+"
+Merritt
+"
+"
+Abbotsford
+"
+Penticton
+Nelson
+130°0'0"W
+80°0'0"W
+30°0'0"W
+Victoria
+Inuvik
+Whitehorse
+Iqaluit
+Yellowknife
+Pitman
+[[
+50°0'0"N
+Edmonton
+Vancouver
+Calgary
+Saskatoon
+0
+50
+100
+200
+300
+400
+Kilometers
+50°0'0"N
+Title:
+CASA MINERALS INC.
+PITMAN PROPERTY
+Project Location in
+British Columbia
+Regina
+Winnipeg
+Québec
+Halifax
+0
+500
+1,000
+2,000
+Kilometers
+130°0'0"W
+Sudbury
+Ottawa
+Toronto
+80°0'0"W
+Scale:
+Date:
+As Shown
+May, 2011
+Design:
+JP
+Drawing:
+120°0'0"W
+Terracad Geoscience
+Services Ltd.
+Figure:
+Datum:
+1 - 1
+Long./Lat.
+.
+540000
+550000
+560000
+570000
+583347
+588930
+583339
+0
+0
+0
+0
+7
+0
+6
+0
+0
+0
+0
+6
+0
+6
+0
+0
+0
+0
+5
+0
+6
+0
+0
+0
+0
+4
+0
+6
+0
+Title:
+588929
+525993
+588928
+563647
+526195
+532545
+525994
+546424
+578026
+625643
+589598
+578731
+588941
+525997
+525992
+525858
+525999
+578729
+578720
+578726
+578728
+578725
+578724
+580034
+588944
+588940
+578714
+578713
+578715
+588939
+578716
+588938
+588937
+578710
+578712
+578708
+2.5
+5
+10
+15
+Kilometers
+CASA MINERALS INC.
+PITMAN PROPERTY
+Tenure Map
+0
+0
+0
+0
+7
+0
+6
+0
+0
+0
+0
+6
+0
+6
+0
+0
+0
+0
+5
+0
+6
+0
+0
+0
+0
+4
+0
+6
+Scale:
+0
+0
+0
+0
+3
+0
+6
+Date:
+As Shown
+May, 2011
+Design:
+JP
+Drawing:
+Terracad Geoscience
+Services Ltd.
+540000
+Figure:
+Datum:
+1 - 2
+NAD 83/Zone 9
+550000
+560000
+0
+0
+0
+0
+3
+0
+6
+570000
+1.5
+History
+The  earliest  records  of  mineral  exploration  in  the  Terrace  area  are  found  in  reports  of  the 
+Provincial  Mineralogist  in  1884  who  was  aware of  gold-seekers  at  work  on  the  Skeena  River 
+and some of its tributaries.  Several streams yielded small quantities of fine gold and some were 
+sufficiently  "rich"  to  encourage  mining  by  simple  mechanized  methods.    Rewards  were 
+consistently  erratic  and  were  frequently  disrupted  by  floods  that  damaged  the  workings.  
+Prospectors have been at all times active in the area, searching for bedrock gold sources and for 
+base metal occurrences.
+The Pitman site was recognized as a molybdenite occurrence in 1957 by Joe Bell, a Terrace area 
+trapper and prospector, who staked the O'Molly 1 - 6 inclusive claims and attracted the interest 
+of Heustis Molybdenum Corporation.  Figure 1-3 illustrates the locations of historic drill holes 
+that  have  been  directed  to  the  Pitman  prospect  and  Figures  1-4  and  1-5  are  vertical  assay 
+sections
+Heustis  Molybdenum  Corporation  in  1958  conducted  geological  mapping,  trenching  and  a 
+small amount of x-ray-size diamond drilling work, (hole diameter 1 7/16 inches).  Records show 
+that  Heustis  defined  two  areas  of  molybdenum  mineralization:    the  upper  area  reportedly 
+included a 54 foot (16.46 m) wide zone that averaged 0.47% MoS2; the lower area was entirely 
+in an aplite formation and averaged 0.10% MoS2 with no width recorded (Kruchkowski, 1980, 
+p.  6).    Canex  Aerial  Exploration  in  1964  conducted  geological  mapping  and  geochemical 
+sampling and drilled six holes with total length 1621 feet (494 m) and in 1965, collected soil 
+samples and drilled a further 1939 feet (591 m) in four holes. Note that the foregoing data are 
+historic, cannot be verified and are not NI 43-101 compliant but are included in the interests of 
+full disclosure of property data.
+The  following  historic  information  is  believed  to  have  originated  in  a  1965  project  report 
+authored  by  W.  D.  T(h)ompson  (sic)  and  is  abstracted  verbatim  from  an  assessment  report 
+prepared in 1980 for E & B Explorations Ltd. that pre-dates adoption of National Instrument 43-
+101:  the data should not be relied upon as the sole reference in any evaluation of the Pitman 
+part of the Casa Minerals Inc. property.  Although not specified in the source report, it appears 
+from context that assay averages are measuring MoS2 not Mo.  Intervals are reported in feet 
+not metres.  The terms "indicated reserves" and "geologic reserves" are not compatible with NI 
+43-101 definitions and no longer have validity in technical reports.
+"Drill Hole No.
+Footage
+Interval(ft)
+Average Assay
+No. 6
+No. 7
+No. 8
+160 - 220
+60
+160 - 300
+180
+290 - 320
+290 - 330
+30
+40
+0.196%
+0.12  %
+0.123%
+0.122%
+Casa Minerals Inc. – Pitman Projects
+Page 11 of 92
+No. 9
+No. 10
+400 - 420
+60 - 70
+70 - 100
+20
+10
+30
+0.135%
+0.08  %
+0.096%.
+On the basis of their drilling Canex estimated non-NI43-101 compliant total indicated reserves 
+of approximately 2.5 million tons grading 0.14 percent molybdenite; geologic reserves totaling 
+about  1.2  million  tons  grading  0.14  percent  molybdenite"    (Kruchkowski,  1980,  p.  7,  ARIS 
+report #7993).
+[The foregoing figures are not NI 43-101 compliant and should not be relied upon exclusively in 
+any evaluation of the Pitman property]
+E & B Explorations Ltd. in 1980 drilled four inclined holes with total length 615.1 metres to test 
+"…depth  and  lateral  continuity  of  MoS2  mineralization  intersected  in  the  1965  Canex  No.  6 
+diamond drill hole……and the relationship of MoS2 mineralization to flat lying intrusive dykes" 
+(Kruchkowski,  op  cit.  p.1).    The  E  &  B  report  includes  a  discussion  of  the  regional  and  local 
+geology and complete and detailed drill core logs and assay certificates.  The author noted that 
+the  "best  section"  encountered  was  from  138  to  144  metres  in  DH  79P-1,  being  6  metres  of 
+0.119  percent  MoS2,  and  that  "The  MoS2  content  appears  to  increase  with  depth  in  all  the 
+holes" (Kruchkowski, op cit. p. 1).  The report recommended drilling two 700 metre long holes 
+to "…check for mineralization at depth and provide a better understanding of the geology" 
+(op cit. p. 2).
+The  Pitman  tenures,  in  addition  to  the  Pitman  molybdenite  prospect,  include  several  historic 
+properties that have attracted the attention of prospectors and other explorers at various times 
+in the past one hundred years.  Those properties are discussed elsewhere in this report.
+Casa Minerals Inc. – Pitman Projects
+Page 12 of 92
+542500
+543000
+500m
+.
+!.
+21
+!.
+20
+25
+!.
+!.
+24
+17
+!.
+!.
+16
+19
+!.
+!.
+18
+525858
+13
+!.
+!.
+12
+9
+!.
+8
+!.
+3
+!.
+7
+!.
+2
+10
+0
+11
+!.
+!.
+!.
+!.
+6
+4
+!.
+!.
+1
+!.
+5
+!.
+15
+!.
+!.
+14
+23
+!.
+!.
+22
+250m
+Sand Creek
+0
+50
+100
+200
+300
+400
+500
+Meters
+542500
+Title:
+Scale:
+Date:
+CASA MINERALS INC.
+PITMAN PROPERTY
+Pitman Property
+Historical Drill Hole Locations
+1 - 3
+As Shown
+Design:
+Figure:
+JP
+May, 2011
+543000
+Drawing:
+Terracad Geoscience
+Services Ltd.
+Datum:
+NAD 83/Zone 9
+0
+0
+5
+5
+6
+0
+6
+0
+0
+0
+5
+6
+0
+6
+0
+0
+5
+4
+6
+0
+6
+0
+0
+0
+4
+6
+0
+6
+0
+0
+5
+5
+6
+0
+6
+0
+0
+0
+5
+6
+0
+6
+0
+0
+5
+4
+6
+0
+6
+0
+0
+0
+4
+6
+0
+6
+4
+-
+P
+-
+9
+7
+E
+ 
+0
+0
+6
+2
+4
+5
+79-P-4
+150
+5 0  m
+50 m
+100
+1 0 0
+0
+25
+50
+100
+Meters
+150
+200
+7
+9
+-
+P
+-
+3
+1 5 0
+7 9- P -3
+Title:
+Scale:
+Date:
+E
+ 
+0
+0
+4
+2
+4
+5
+450 RL
+400 RL
+350 RL
+300 RL
+250 RL
+200 RL
+150 RL
+/
+-15 m
++15 m
+Plan View
+E
+ 
+0
+0
+8
+2
+4
+5
+450 RL
+400 RL
+350 RL
+300 RL
+250 RL
+CASA MINERALS INC.
+PITMAN PROPERTY
+Pitman Property
+Section A - A’ 6064550N
+ Assay Section - MoS2
+200 RL
+Design:
+.
+Drawing:
+TERRACAD LTD.
+6065500
+Figure:
+Datum:
+1 - 4
+150 RL
+NAD 83/Zone 9
+E
+0
+0
+8
+2
+4
+5
+As Shown
+Feb, 2009
+DDH-8
+450 RL
+400 RL
+350 RL
+300 RL
+250 RL
+200 RL
+150 RL
+E
+ 
+0
+0
+4
+2
+4
+5
+E
+ 
+0
+0
+4
+2
+4
+5
+2
+-
+P
+-
+9
+7
+E
+ 
+0
+0
+6
+2
+4
+5
+15079-P-2
+100
+Meters
+E
+ 
+0
+0
+6
+2
+4
+5
+0
+25
+50
+DDH-6
+7
+9
+-
+P
+-
+1
+E
+ 
+0
+0
+8
+2
+4
+5
+5 0  m
+50 m
+50 m
+100
+DDH-6
+1 0 0
+150
+200
+1 5 0
+7 9- P -1
+Title:
+Scale:
+Date:
+E
+0
+0
+8
+2
+4
+5
+As Shown
+Feb, 2009
+/
+-15 m
++15 m
+Plan View
+450 RL
+400 RL
+350 RL
+300 RL
+250 RL
+CASA MINERALS INC.
+PITMAN PROPERTY
+Pitman Property
+Section B - B’ 6064650N
+Assay Section - MoS2
+200 RL
+Design:
+.
+Drawing:
+TERRACAD LTD.
+6065500
+Figure:
+Datum:
+1 - 5
+150 RL
+NAD 83/Zone 9
+2.0
+GEOLOGICALSETTING
+2.1
+Introduction
+The  geology  of  the  general  Terrace  and  Skeena  River  areas  has  been  mapped  by  officers  of 
+both the Geological Survey of Canada, particularly S. Duffell and J. G. Souther in 1953 - 1955, 
+and  G.  Woodsworth,  et  al.,  in  1985,  and  the  British  Columbia  Ministry  of  Energy,  Mines  and 
+Petroleum Resources in 2006 to the present.  Mineral resources in the mid-1930s were studied 
+and reported by E. D. Kindle of the GSC (Kindle, 1937a, b).  Other studies have been conducted 
+by mining companies and prospectors.  The rugged terrain demands strenuous efforts on the 
+ground and helicopter support to gain access to upper slopes is essential.  Casa Minerals Inc., in 
+addition  to  ground  based  surveys,  has  used  satellite  imagery  and  computer  methods  to 
+investigate gross geologic features.
+2.2
+RegionalGeology
+Duffel  and  Souther  (1964)  established  the  regional  geologic  framework  of  the  Terrace  area.  
+Their pioneering work suffered from a lack of knowledge of the geologic history of the area, in 
+particular they gathered some of the first fossil collections to help clarify geologic successions.  
+Their work highlighted the presence of sedimentary and volcanic rocks of late Paleozoic to late 
+Mesozoic age and the complex configuration of the contacts of the dominant Coast Intrusions 
+and related smaller equivalent bodies.  Recent focused studies by British Columbia Geological 
+Survey Branch scientists benefited from the work of Duffel and Souther and the more recent 
+efforts  of  Woodsworth  and  they  have  been  fortunate  to  be  able  to  collaboratively  extend 
+information from the Interior Plateau physiographic province into the mountains.  Figures 2-1, 
+Geology Map and 2-1- Legend, of this report were copied in their entirety from a 2007 report 
+of regional mapping conducted in 2006 by J. Nelson, et al. (Nelson and Kennedy, 2007, p. 151).  
+This represents the first detailed geologic synthesis of the area that lies south of the Bowser 
+Basin (the Lower Cretaceous age units) and straddles the Skeena River fault zone.  Also shown 
+to the west are the Kitsumkalum graben structure, the Kleanza pluton of Early Jurassic age and 
+the Carpenter Creek and Newtown plutons of Eocene age, and numerous fractures that create 
+the  mosaic  pattern  exhibited  by  the  bedded  units.    Small  red  coloured  triangles  and  crossed 
+tool symbols on Figure 2-2 show an abundance of mineral showings and mines, of which only a 
+small number have actually achieved production.
+The  regional  tectonic  framework  reflects  the  transition  from  the  massive  uplift  event  that 
+emplaced the Coast Intrusions in the west to the more passive sedimentary-volcanic terrain of 
+the  western  Interior  Plateau.    Additionally,  the  epirogenic  subsidence  of  the  Bowser  Basin  is 
+witnessed by low angle normal fault(s) that are traced along the north edge of Figure 2-1.  The 
+Skeena  River  fault  zone  is  interpreted  as  a  north-northeast  thrust  with  at  least  3500  metres 
+stratigraphic throw (Nelson, et al., 2007, p. 155).  Significantly, Nelson, et al. do not discuss in 
+any  detail  the  so-called  Skeena  Arch,  formerly  defined  as  a  northeast  uplift  accompanied  by
+Casa Minerals Inc. – Pitman Projects
+Page 16 of 92
+relatively small plutons, collectively referred to as the Skeena Intrusions, and it is not apparent 
+if that concept has been abandoned or superceded by recent studies.
+Apart from the Early Jurassic Kleanza pluton and the post-kinematic (Nelson's term) Carpenter 
+Creek and Newtown Creek plutons of Eocene age, the region of the Pitman mineral tenures is 
+underlain by Telkwa Formation (Lower Jurassic age, principally flows and tuffs) and Smithers 
+Formation (Lower-Middle Jurassic, mostly sandstone) of the Hazelton Group bedded rocks that 
+pass  upward  into  the  Bowser  Lake  clastic  formation  with  arkose,  sandstone,  mudstone  and 
+similar  units.    The  Telkwa  and  equivalent  formations  elsewhere  in  the  Cordillera  are  host  to 
+many  of  the  province's  most  important  mineral  deposits,  including  the  majority  of  the 
+porphyry-style copper and copper-molybdenum deposits.
+2.3
+LocalGeology
+The  Pitman  tenures,  as  shown  in  Figures  1-2  and  2-1,  extend  awkwardly  over  a  north-south 
+distance  of  40  km  and  include  geologically  distinct  terrains  separated  by  the  Skeena  River 
+thrust fault.
+West  of  the  Skeena  River,  Bowser  Lake  group  sedimentary  rocks,  and  to  a  limited  extent 
+Telkwa  formation  volcaniclastic  rocks,  are  varyingly  metamorphosed  due  to  proximity  to  the 
+large granitic plutons.  Several significant mineral occurrences are found at the periphery of the 
+intrusions and also wholly within those bodies.  Vein-type deposits with gold values occur at 
+Gold  Dome  (MINFILE  103I  047),  and  porphyry-style  molybdenum  mineralization,  with  pyrite, 
+chalcopyrite,  magnetite  and  specularite, 
+is  found  at  Pitman  (MINFILE  no.  103I  046).  
+Molybdenite-bearing quartz veins occur in hornfelsed Bowser Lake Group sedimentary units at 
+WoMo (MINFILE 103I 122), and in quartz-pyrite veins at the Lynda prospect (MINFILE 103I 121).
+East of Skeena River, the intrusive bodies are mostly of Early Jurassic age and are emplaced in 
+volcanic members of the Lower Jurassic Telkwa formation.  The northern parts are dominantly 
+andesitic,  the  southern,  dacitic  in  composition  (Nelson  and  Kennedy,  2007).    Sedimentary 
+members to a great extent comprise re-worked volcanic strata and especially north of Mt. Sir 
+Robert, dark maroon coloured dykes are abundantly present.
+Figure 2-2 illustrates the distribution of mineral occurrences included in MINFILE.
+Casa Minerals Inc. – Pitman Projects
+Page 17 of 92
+2.4
+RegionalGeochemistry
+The  Pitman  tenures  are  located  in  NTS  map-sheet  103I  that  was  the  subject  of  a  Regional 
+Geochemical Survey project in 1978, with additional data added in 1995 and 2008.  Large areas 
+of particularly mountainous terrain were inaccessible to samplers.
+Geological  Survey  Branch  personnel,  led  by  Dr.  J.  Nelson,  have  been  conducting  mapping 
+projects in the Terrace area in recent years and have obtained multi-element analyses from a 
+large  number  of  bedrock  samples.    Analyses  have  been  published  in  various  reports  that 
+provide a library of data that is not specifically directed to mineral exploration.  Some bedrock 
+samples,  including  some  from  Pitman  tenures,  have  significant  to  spectacular  metal  analyses.  
+Figures 2-4-1 to 2-4-6 in Appendix 1 of this report illustrate the locations and metal analyses of 
+various of the GSB bedrock samples.
+Working with data obtained from the GSB database, Terracad Geoscience has plotted historic 
+geochemical  data  from  the  Pitman-Gold  Dome  tenures  and  from  tenure  no.  568616  (Borden 
+area).  Figures 2-4-7 to 2-4-12 in Appendix 2 of this report illustrate analytical data.  Sources of 
+data  are  principally  reports  of  assessment  work  filed  by  prospectors  and  mineral  exploration 
+company personnel and the quality of the data in terms of collection, handling and processing 
+is unknown.  The data plots show several areas with elevated levels of various metals and will 
+be used in the future as a guide for further geochemical sampling.
+Casa Minerals Inc. – Pitman Projects
+Page 18 of 92
+0
+0
+0
+0
+0
+1
+6
+525000
+Tgd
+Tgd
+LKgd
+LKgd
+lKS
+LKgd
+lKSH
+lKSH
+LKgd
+lKSH
+0
+0
+0
+5
+7
+0
+6
+ETSBE
+LKgd
+LKgd
+mJKB
+lKSH
+lKS
+uJBT
+LKgd
+LKPeqd
+Tgd
+0
+0
+0
+0
+5
+0
+6
+Tgd
+Tgd
+lKSH
+Eg
+550000
+lKSKC
+mJKB
+Eg
+Eg
+mJKB
+uJBT
+mJKB
+uJBT
+uJBT
+uJBT
+lJHT
+lJHK
+mJKB
+uJBT
+mJHSms
+uJBAm
+uJBAm
+lJHK
+uJBT
+uJBT
+uJBAm
+mJHSms
+mJKB
+uJBT
+uJBT
+uJBAm
+mJHSms
+lKSKC
+575000
+lKSKC
+lKSK
+ENg
+lKSRs
+lKSRs
+lKSRv
+lKSRs
+lKSRv
+lKSKC
+lKS
+lKS
+LKBg
+uKK
+lKSK
+lKSRs
+.
+lKSRv
+ENg
+lKSKC
+lKSKC
+LKBg
+uJBAm
+LKBg
+LKBg
+LKBg
+mJHvc
+lKSKC
+mJHSms
+lKSRv
+uJBAm
+mJHSms
+lJHE
+lJHNk
+lKSKC
+ENg
+ENg
+ENg
+ENg
+lJHT
+uKK
+lKSRs
+Pitman Property
+lJHT
+lJHT
+ENg
+ENg
+lJHT
+ENg
+ENg
+lJHE
+uJBAm
+uJBAm
+ENg
+mJHSms
+lJHE
+ENg
+ENg
+ENg
+lJHT
+lJHT
+0
+0
+0
+0
+5
+0
+6
+lJHT
+LKgd
+uJBAm
+lJHE
+Eg
+uJBAm
+uJBAm
+lJHK
+Eg
+lJHK
+lJHT
+Eg
+Eg
+Tgd
+DPSlm
+Jgd
+lJHT
+LKgd
+Jgd
+Jgd
+lJHT
+lJHT
+DPSlm
+DPSlm
+DPSlm
+DPSlm
+DPSlm
+DPSlm
+DPSvc
+lJHT
+Jgd
+DPSlm
+DPSvc
+DPSlm
+Jgd
+DPSvc
+DPSvc
+DPSlm
+LKgd
+lJHT
+DPSvc
+lJHT
+DPSlm
+DPSlm
+lJHT
+DPSlm
+lJHT
+Tgd
+DPSlm
+DPSlm
+Tgd
+DPSlm
+Tgd
+Title:
+EJTpgd
+lJHT
+uJBAm
+lJHE
+lJHE
+ENg
+lJHT
+lJHT
+Tgd
+ENg
+ENg
+ENg
+ENg
+0
+3.75
+7.5
+lJHT
+15
+22.5
+Kilometers
+0
+2.5
+5
+10
+15
+ENg
+Kilometers
+CASA MINERALS INC.
+PITMAN PROPERTY
+Geology Map
+lKSRs
+30
+lJHT
+20
+25
+lJHT
+0
+0
+0
+0
+0
+1
+6
+0
+0
+0
+5
+7
+0
+6
+0
+0
+0
+5
+2
+0
+6
+0
+0
+0
+0
+0
+0
+6
+LKgd
+lJHva
+DPSvc
+lJHva
+lJHT
+DPSlm
+Terrace
+LKgd
+lJHva
+DPSvc
+DPSvc
+LKPeqd
+ETSBE
+DPSvc
+lJHva
+lJHT
+ETSBE
+JKP
+JKP
+DPSvc
+lJHva
+DPSlm
+JKP
+EJCGog
+0
+0
+0
+5
+2
+0
+6
+EJCGog
+LKgd
+Tgd
+LKPeqd
+ETSBE
+ETSBE
+ETSBE
+EJCGog
+Tgd
+Eg
+JKP
+EJCGgs
+EJCGgs
+0
+0
+0
+0
+0
+0
+6
+ETgd
+lJHT
+525000
+Scale:
+Date:
+As Shown
+May, 2011
+550000
+Design:
+JP
+Drawing:
+Terracad Geoscience
+Services Ltd.
+575000
+Figure:
+Datum:
+2 - 1a
+NAD 83/Zone 9
+Legend
+" Communities
+Fault
+Normal Fault
+( Thrust
+Quaternary Unit
+UNIT
+DPSlm - Paleozoic - Stikine Assemblage limestone, marble, calcareous sedimentary rocks
+DPSvc - Paleozoic - Stikine Assemblage volcaniclastic rocks
+EJCGgs - Mesozoic - Central Gneiss Complex greenstone, greenschist metamorphic rocks
+EJCGog - Mesozoic - Central Gneiss Complex orthogneiss metamorphic rocks
+EJTpgd - Mesozoic - Topley Plutonic Suite granodioritic intrusive rocks
+EKdr - Mesozoic - Unnamed dioritic intrusive rocks
+ENg - Cenozoic - Nanika Plutonic Suite intrusive rocks, undivided
+ETSBE - Cenozoic - Strohn Creek, Mt Bolom and Ear Lake Plutons granite, alkali feldspar granite intrusive rocks
+ETgd - Cenozoic - Unnamed granodioritic intrusive rocks
+Eg - Cenozoic - Coast Plutonic Complex(?) intrusive rocks, undivided
+JKP - Mesozoic - Poison Pluton quartz dioritic intrusive rocks
+JTqd - Mesozoic to Cenozoic - Unnamed quartz dioritic intrusive rocks
+Jgd - Mesozoic - Unnamed granodioritic intrusive rocks
+LKBg - Mesozoic - Bulkley Plutonic Suite intrusive rocks, undivided
+LKPeqd - Mesozoic to Cenozoic - Unnamed quartz dioritic intrusive rocks
+LKgd - Mesozoic - Unnamed granodioritic intrusive rocks
+Tgd - Cenozoic - Unnamed granodioritic intrusive rocks
+lJHE - Mesozoic - Hazelton Group - Eagle Peak Formation volcaniclastic rocks
+lJHK - Mesozoic - Hazelton Group - Kistelas Volcanics rhyolite, felsic volcanic rocks
+lJHNk - Mesozoic - Hazelton Group - Nilkitkwa Formation undivided sedimentary rocks
+lJHT - Mesozoic - Hazelton Group - Telkwa Formation calc-alkaline volcanic rocks
+lJHva - Mesozoic - Hazelton Group andesitic volcanic rocks
+lKS - Mesozoic - Skeena Group undivided sedimentary rocks
+lKSH - Mesozoic - Skeena Group - Hanawald Conglomerate conglomerate, coarse clastic sedimentary rocks
+lKSK - Mesozoic - Skeena Group - Kitsumkalum Shale mudstone, siltstone, shale fine clastic sedimentary rocks
+lKSKC - Mesozoic - Skeena Group - Kitsuns Creek Formation coarse clastic sedimentary rocks
+lKSRs - Mesozoic - Skeena Group - Red Rose Formation coarse clastic sedimentary rocks
+lKSRv - Mesozoic - Skeena Group - Rocky Ridge Formation alkaline volcanic rocks
+mJHSms - Mesozoic - Hazelton Group - Smithers Formation undivided sedimentary rocks
+mJHvc - Mesozoic - Hazelton Group volcaniclastic rocks
+mJKB - Mesozoic - Bowser Lake Group undivided sedimentary rocks
+uJBAm - Mesozoic - Bowser Lake Group - Ashman Formation mudstone, siltstone, shale fine clastic sedimentary rocks
+uJBT - Mesozoic - Bowser Lake Group - Trout Creek Formation undivided sedimentary rocks
+uKK - Mesozoic - Kasalka Group andesitic volcanic rocks
+Title:
+CASA MINERALS INC.
+PITMAN PROPERTY
+Legend to accompany
+Geology Map
+Scale:
+Date:
+As Shown
+May, 2011
+Design:
+JP
+Drawing:
+Terracad Geoscience
+Services Ltd.
+Figure:
+Datum:
+2 - 1b
+.
+PATMORE
+#
+.
+540000
+#
+BRENTFORD
+555000
+ß
+FIDDLER
+#
+TWO GOAT
+#
+WOMO
+#
+GOLD DOME
+#
+LYNDA
+#
+PADDY MAC
+#
+SKEENA RIVER
+#
+HELEN
+ß
+PITMAN
+#
+ZYMO
+Legend
+Claim Boundary
+! Anomaly
+0
+0
+0
+5
+7
+0
+6
+Bordon
+#
+ß Developed Prospect
+ß Past Producer
+ß Producer
+#
+#
+Prospect
+Showing
+0
+0
+0
+5
+7
+0
+6
+0
+0
+0
+0
+6
+0
+6
+0
+0
+0
+0
+6
+0
+6
+0
+0
+0
+5
+4
+0
+6
+GROTTO
+ß
+POES
+#
+ß
+DIORITE
+#
+SHAN
+A - B
+#
+#
+RIDGE
+#
+SAK
+#
+DIADEM
+#
+ST. ELMO
+ß
+MAC SHANNON
+#
+GOLDEN CACHE
+#
+ALGOMA
+#
+COPPER DOLLAR
+#
+BRADLE BANE
+#
+INDEPENDENT
+#
+LITTLE WONDER
+#
+JACKIE
+#
+POOR BOY
+##
+TOULON
+MADDEN
+APRIL AND MAY
+#
+#
+#
+USK
+EMMA (L.71)
+#
+CORDILLERA
+#
+ß
+GOLD STAR
+ß
+#
+PAYSTREAK
+LUCKY LUKE (L.7424)
+FOUR ACES (L.166)
+BORNITE KING
+#
+#
+CONTINENTAL
+#
+SHENANDOAH
+#
+SILVER MITTS
+#
+GALENA
+IMPERIAL
+#
+UNITED ST. CROIX
+ZONA MAY
+#
+#
+#
+REGINA
+#
+HIDDEN
+#
+HALLIDAY
+#
+INDEPENDENCE
+#
+BULLION
+#
+CALENDAR
+#
+COPPER KING
+#
+GOLD STAR - 4A CREEK
+#
+NUGGET
+#
+BLOW
+#
+OLD HICKORY
+#
+SINGLEHURST
+#
+BANNER HOMESTAKE
+#
+COFFEE POT
+#
+SILVER BASIN
+#
+SILVER CROWN
+#
+GOLDEN CROWN
+KLEANZA CREEK
+#
+GOLDEN ERA
+#
+IBEX
+#
+ß
+FRISCO
+#
+LINDY
+ß
+M & K
+#
+M & M
+ß
+COLUMARIO
+#
+BIG BOY
+#
+#
+FIVE - MILE CREEK HYDRAULIC
+#
+ANNETTE 2
+ANNETTE
+SILVER BOW
+#
+TERRACE
+# #
+#
+BEANSTOCK
+VICTOR
+#
+KINO
+ß
+ALVIJA
+WHITE BLUFFS
+#
+ß
+#
+#
+BLACK BULL
+HARLEQUIN
+EXCELSIOR
+#
+ADELINE
+#
+ZYMOETZ
+#
+BRUNSING
+#
+ZYMOETZ RIVER
+ß
+TERRACE CALCIUM PRODUCTS
+#
+PROVIDENCE
+#
+LA LIBERTAD
+ß
+GOLDEN NIB
+#
+PTARMIGAN
+SOCIETY GIRL
+#
+ST. PAUL
+#
+ß
+DARDANELLE
+#
+DARDANELLE
+#
+AVON
+#
+COPPER KING
+#
+PEERLESS
+#
+WELLS
+#
+MONTANA
+#
+KEELER
+ß
+SNOW
+DF
+#
+ß
+LUCKY SEVEN
+#
+EUREKA
+#
+PORPH
+#
+COIN
+CASA MINERALS INC.
+PITMAN PROPERTY
+EIGHT MILE
+LEAD KING
+#
+#
+#
+CALONA
+#
+CHICKEN
+KELLY CREEK
+ß
+#
+EAST SIDE
+#
+GOAT BLUFF
+#
+T
+0
+0
+0
+5
+4
+0
+6
+Title:
+Minfile - Mineral Occurrences
+MT. ATTREE
+#
+of the Area
+Design:
+Drawing:
+JP
+Terracad Geoscience
+Services Ltd.
+Figure:
+Datum:
+2 - 2
+NAD 83/Zone 9
+540000
+0
+0
+0
+0
+3
+0
+6
+#
+MT. LAYTON
+Scale:
+Date:
+As Shown
+May, 2011
+BILL
+#
+STEPHEN
+MIKE
+#
+#
+#
+LA ZONE FAILLEE
+#
+CHLORE
+#
+ZYMOETZ RIVER ZEOLITE
+0
+0
+0
+0
+3
+0
+6
+0
+2.5
+5
+10
+15
+555000
+Kilometers
+2.5
+RegionalMagneticData
+Regional magnetic data for the Pitman area is illustrated in Figure 2-5, Total Magnetic Intensity 
+– Terrace Area.  Casa Minerals Inc. mineral tenures are also outlined in that Figure.
+Combined with geologic data (Figure 2-1) the magnetic patterns show that WoMo, Gold Dome, 
+Paddy Mac, Helen and Pitman mineral occurrences are located in and on the fringe of the very 
+strongly  magnetic  Carpenter  Creek  pluton.    The  northeastmost  extension  of  the  mineral 
+tenures are in proximity to the equally strongly magnetic terrane assigned to the Nanika and/or 
+Topley  Plutonic  Suites  of  granodioritic  intrusive  rocks  that  reportedly  host  the  Zymo  copper-
+gold-silver  porphyry-style  prospect  (discussed  in  section  10).    Casa’s  Keap  Creek  prospect  is 
+underlain by a very strongly magnetic granodiorite body that is similar to and almost certainly 
+related to the Coast Intrusions. Clore Creek, at the south end of Casa’s tenures, lies within a 
+broad  area  of  Lower  Jurassic  age  Hazelton  Group  volcaniclastic  rocks  that  are  only  weakly 
+magnetic.
+Casa Minerals Inc. – Pitman Projects
+Page 22 of 92
+0
+0
+0
+0
+8
+0
+6
+0
+0
+0
+0
+7
+0
+6
+0
+0
+0
+0
+6
+0
+6
+0
+0
+0
+0
+5
+0
+6
+0
+0
+0
+0
+4
+0
+6
+0
+0
+0
+0
+3
+0
+6
+0
+0
+0
+0
+2
+0
+6
+0
+2.5
+5
+10
+15
+20
+540000
+Kilometers
+550000
+Title:
+Scale:
+Date:
+CASA MINERALS INC.
+PITMAN PROPERTY
+Total Magnetic Intensity
+Terrace Area
+Design:
+Drawing:
+As Shown
+May, 2011
+560000
+JP
+Terracad Geoscience
+Services Ltd.
+570000
+Figure:
+Datum:
+2 - 5
+NAD 83/Zone 9
+540000
+550000
+560000
+570000
+0
+0
+0
+0
+8
+0
+6
+.
+0
+0
+0
+0
+7
+0
+6
+0
+0
+0
+0
+6
+0
+6
+0
+0
+0
+0
+5
+0
+6
+0
+0
+0
+0
+4
+0
+6
+0
+0
+0
+0
+3
+0
+6
+0
+0
+0
+0
+2
+0
+6
+3.0
+DEPOSITTYPES
+3.1 WestofSkeenaRiver
+Several molybdenum prospects located west of Skeena River and north of Terrace, B. C. have 
+been in recent years the object of exploration programs.  Favourable metal prices and available 
+financings  enabled  junior  companies  to  undertake  both  "grassroots"  exploration  and  more 
+advanced  technical  surveys  and  drill  programs  that  were  directed  to  historic  mineral 
+occurrences.    Mineralization  is  in  almost  all  instances  related  to  the  Carpenter  Creek granitic 
+pluton  and  includes  porphyry-style  molybdenum  or  molybdenum-copper  occurrences,  and 
+quartz veining and silicification near or at the hornfelsed contact aureole of that pluton with 
+volcanic and volcaniclastic formations.
+3.2
+EastofSkeenaRiver
+Although a large number of mineral occurrences are found east of Skeena River in the valleys 
+of Zymoetz River, Kleanza Creek, Chimdemash Creek, St. Croix Creek and Legate Creek, most 
+are  small  hornfels-related  pyritic  zones  with  trivial  amounts  of  copper  and  occasionally  zinc, 
+lead  and  silver  values  (Figure  2-2).    A  small  number  achieved  production  due  to  particularly 
+favourable circumstances, i.e. times of high metal prices and demand, but few were successful.  
+Local  prospectors  have  at  various  times  in  recent  years  carried  out  small  programs  of 
+prospecting  and  sampling.    Adverse  field  conditions,  including  steep  slopes  and  dense 
+vegetation,  undoubtedly  inhibited  such  investigations  but  roads  built  and  maintained  by 
+logging interests have facilitated access, bridged steeply incised streams and generally greatly 
+facilitated mineral exploration work.
+The following descriptions relate to two distinctly different types of mineral occurrences that 
+typify the contrasting metallogeny observed east of the Skeena River:
+Lindy prospect
+The Lindy copper silver prospect (MINFILE 103I 145), located at high elevation in the uppermost 
+Kleanza  Creek  area,  occurs  in  Telkwa  formation  red-coloured  andesitic  calc-alkaline  volcanic 
+rocks.    Chalcopyrite,  bornite  and  tetrahedrite  occur  in  sheared  andesite.  This  occurrence  is 
+classified as "LO1 - subvolcanic Cu-Ag-Au (As-Sb)" and "DO3 - volcanic redbed Cu".
+Dardanelle
+The  Dardanelle  property,  (MINFILE  No.  103I  107)  located  north  of  Zymoetz  River,  comprises 
+strong quartz veins in which sulphide lenses carry erratically distributed gold and copper values.  
+The sheared contact of a quartz-albite dyke in granodiorite provides the structural host of the 
+veins.    Historic  underground  workings  are  extensive  and  the  vein  is  reported  to  have  been 
+traced underground and on surface for more than 2 km (Burton, 2005, quoted by Nelson, et. 
+al., 2008).
+Casa Minerals Inc. – Pitman Projects
+Page 24 of 92
+4.0 MINERALIZATION
+Casa Minerals Inc. in 2007 acquired a large number of mineral tenures in an area that extends 
+both east and west from the Skeena River.  The Company's exploration strategy is to further 
+develop  known  sites  and  to  search  for  additional  mineral  occurrences.    The  awkward  claim 
+configuration  links  several  areas  where  sampling  as  part  of  regional  geochemical  and 
+geological  surveys  by  provincial  government  geoscientists  found  indications  of  high  metal 
+contents.
+Regional  mapping  and  sampling  by  government  scientists  provides  by  definition  a  very  thin 
+database  of  metal  analyses  but  serves  to  confirm  prospectors'  knowledge  that  the  Pitman 
+property lies in a geologic environment that is richly endowed with base and precious metals.  
+The  government-generated  historical  geochemical  data  and  the  regional  bedrock  sampling 
+show a very broad range of metal values over the large and geologically diverse expanse of the 
+Pitman property, including some samples with very high values.
+4.1 WestofSkeenaRiver
+Casa  Minerals  Inc.  tenures  located  west  of  the  Skeena  River  are  highly  prospective  for 
+molybdenum occurrences and Casa is but one of several companies pursuing the same type of 
+"target"  in  that  part  of  the  district.    The  prospecting,  et  al.,  model  is  of  a  molybdenite-rich 
+phase of the complex package of Coast Intrusions-related plutons and adjoining rock types that 
+is sufficiently large and well mineralized to constitute a "porphyry" deposit:  i.e. several tens or 
+hundreds of million tonnes.
+Local geology of the Casa Minerals Inc. tenures west of the Skeena River is influenced by their 
+location close to the Carpenter Creek granite pluton of Eocene age and by the complex Skeena 
+River zone of detachment and/or thrust faulting and dextral displacement (Nelson, et al., 2007, 
+p.155).    Bowser  Lake  Group  sedimentary  formations  lie  to  the  north,  separated  from  the 
+plutonic suite by low angle shearing/faulting typical of the margin of a subsiding sedimentary 
+basin.    Molybdenite  occurrences  have  been  classified  (in  MINFILE  mineral  inventory)  as 
+"Porphyry Mo (Low F-type)".
+The Pitman deposit
+The  Pitman  molybdenite  prospect  (MINFILE  No.103I  046)  has  been  explored  by  geological 
+mapping,  geochemical  sampling  and  diamond  drilling  (see  Figures  1-3  to  1-5).    Canex  Aerial 
+Exploration  in  1963  and  1964  drilled  ten  holes  and  estimated  a  non-NI  43-101-compliant
+resource  of  approximately  2.5  M  tons  grading  0.14%  Mo  and  1.2  M  tons  grading  0.14%  Mo 
+(quoted by Kruchkowski, 1980).  Four holes were drilled in 1979 by E & B Explorations Ltd.  All 
+holes intersected quartz monzonite, quartz diorite and andesitic and siliceous hornfels as well 
+as quartz veinlets (Kruchkowski, 1980).  Molybdenite occurs in fractures and, to a lesser extent, 
+in quartz veins, in association with chalcopyrite, magnetite and specular hematite.  The E & B 
+low  to  moderate  molybdenum  values  across  significant  widths  and 
+drilling  returned
+Casa Minerals Inc. – Pitman Projects
+Page 25 of 92
+unimportant tungsten values.  Their report of drilling only four holes includes the observation 
+that molybdenum values appear to consistently increase with depth.
+Drill Hole 79P-1 intersected the following MoS2 values:
+4.88 to 76.0 metres
+71.1m  0.014% MoS2
+76.0 to 90.0 metres
+14.0m  0.07 %  MoS2
+90.0 to 130.0 metres   40.0m  0.04 %  MoS2
+130.0 to 144.0 metres  14.0m  0.08 %  MoS2
+including
+138.0 to 144.0 metres    6.0m  0.119% MoS2
+144.0 to 158.0 metres  14.0m  0.019% MoS2
+Best intercept in DDH 79P-2  was
+36.0m  0.033% MoS2
+in DDH 79P-3  was
+in DDH 79P-4  was
+26.0m  0.014% MoS2
+26.0m  0.022% MoS2
+The Pitman location is plotted in Figure 2-2.  It lies close to a contact between the Carpenter 
+Creek  Pluton  and  a  pendant  of  Troy  Ridge  facies  of  Bowser  Lake  sedimentary  rocks.    The 
+molybdenite  association  with  hornfelsed  sedimentary  rocks  and  granitic  intrusions  is  a  very 
+common one world-wide.
+The Gold Dome prospect
+The  Gold  Dome  prospect  (MINFILE  No.  103I  047)  is  situated  at  high  elevation  south  of  Mt. 
+Knauss and in the headwaters area of Carpenter Creek.  Mineralization is described in historic 
+accounts  (MINFILE  Record  Summary)  as  "intrusion-related  Au  pyrrhotite  veins"  in  plutonic 
+rocks.  A 1945 Ministry of Mines Annual Report entry records a 36 cm sample from one of the 
+veins that assayed 17.5 g/tonne gold and 2085 g/tonne silver.  A grab sample from another vein 
+assayed 20.4 g/tonne gold, 1765 g/tonne silver, 1.76% copper, 1.32% lead and 5.2 % zinc (Geol. 
+Surv. Canada Memoir 329).  Nelson and Kennedy in 2006 (Nelson and Kennedy, 2007, p. 159) 
+took  seven  samples  of  bedrock  and  "float"  from  the  Gold  Dome  area.    Locations  and  major 
+metallic  element  analyses  are  plotted  in  inset  diagrams  in  Figures  4-1  to  4-3  of  this  report.  
+Separate from the gold, et al. occurrences, patches and streaks of scheelite occur in northeast 
+striking, southeast dipping, narrow quartz veins.  The MINFILE classification is two-fold:  IO5 - 
+polymetallic veins and IO2 - intrusion related Au pyrrhotite veins.
+Figures 2-1 and 2-2 show that Gold Dome is located entirely within the Carpenter Creek Pluton 
+and  in  proximity  to  WoMo  and  Lynda  prospects.    Further  work  may  reveal  some  common 
+factors  contributing  to  the  mineralization  and,  possibly,  continuity  from  site  to  site  of  the 
+mineralizing system.
+Casa Minerals Inc. – Pitman Projects
+Page 26 of 92
+Lynda prospect
+The Lynda prospect (MINFILE No. 103I 121) occurs west of Skeena River at the headwaters of a 
+tributary  of  Fiddler  Creek.    Molybdenite  and  minor  chalcopyrite  are  present  in  a  zone  with 
+dimensions  460  metres  by  150  metres  and  vertical  range  of  300  metres  that  lies  within  a 
+granitic  intrusion.    The  latter  is  emplaced,  similarly  to  the  Pitman  prospect,  at  the  contact 
+between  a  lobe  of  the  Carpenter  Creek  pluton  of  Eocene  age  and  metasedimentary  and 
+metavolcanic  members  of  Hazelton  and  Bowser  Lake  formations  of  Upper  Jurassic  age.  
+Regional magnetic data (see below and Figure 8) show that it is located in an area of intense 
+magnetic  response.    Mineralization,  comprising  molybdenite,  chalcopyrite  and  pyrite,  is 
+reported  (Schindler  and  Barker,  1966,  ARIS  report  #0866)  to  accompany  moderate  to  intense 
+sericitization, moderate amounts of feldspathization, and weakly expressed argillization.  The 
+assessment report describes a 100 foot long mineralized structure that was chip sampled in ten 
+foot  intervals  and  returned  on  a  weighted  average  basis  0.04%  MoS2  and  0.04%  Cu.    Float 
+samples from elsewhere in the intrusive "plug" assayed 0.23% MoS2, 1.30% MoS2 and 1.38% 
+MoS2.  The occurrence is classified as "Porphyry Mo (Low F-type). 
+Paddy Mac prospect
+The  Paddy  Mac  prospect  (MINFILE  No.  103I  154)  was  added  to  the  Pitman  mineral  tenure 
+package  in  November  2010.    A  quartz  vein  in  Bowser  Lake  Group  metasedimentary  rocks 
+mineralized  with  pyrite,  chalcopyrite,  galena,  arsenopyrite  and  pyrrhotite,  is  exposed  in  a 
+cirque wall for 430 metres.  Width varies from 10 to 76 cm and averages 60 cm.  The Minfile 
+summary includes non-NI 43-101 compliant sample assay data as follows:
+36 cm with 172 g/tonne gold and 122 g/tonne silver
+50 cm with 12.3 g/tonne gold and 185 g/tonne silver
+373.7 g/tonne gold and 253.7 g/tonne silver, 0.6% Cu, 0.38% Pb (no width given)
+97.2 cm with  77.74 g/tonne gold and 144.48 g/tonne silver – described as hangingwall
+vein, and
+67 cm with 1.03 g/tonne gold and 123.84 g/tonne silver – described as footwall vein
+21 chip samples with average width 36 cm with 19.54 g/tonne gold and 176.22 g/tonne
+silver.
+Although the data quoted above is not specific with respect to locations and is non-NI 43-101 
+compliant, they serve to illustrate that the Paddy Mac prospect over substantial widths carries 
+possibly important amounts of gold and silver.
+Dorreen prospect (aka Fiddler)
+The Dorreen prospect (MINFILE No. 103I 048) includes an historic mine that was developed in 
+several episodes.  Production as recorded in the Minfile entry includes
+Casa Minerals Inc. – Pitman Projects
+Page 27 of 92
+1924  –  80  tonnes  with  on  average  57.26  g/tonne  Au,  205.71  g/tonne  silver,  1.3%  Cu,
+6.2% Pb and 5.8% Zn
+1926 – 8 tonnes of similar metal content
+1952 – 476 tonnes from which were recovered 3226 g Au, 8118 g Ag, 3137 kg Pb, and
+1324 kg Zn.
+A quartz vein that occurs in a bedding plane fault in Hazelton Group argillite has been traced 
+for 100 metres with width up to 1.7 metres.  Minerals include chalcopyrite, covellite, galena, 
+pyrite, sphalerite, tetrahedrite and arsenopyrite (ref. GSC Mem. 212).  The property was actively 
+worked in 2008 but details are not available.
+Note that the above-quoted production figures are non-NI 43-101 compliant.
+WoMo prospect
+The WoMo prospect (MINFILE No.103I 122) lies at high elevation on the southern slopes of Mt. 
+Knauss and a ridge that separates the drainages of east flowing Carpenter Creek and north-
+northeast  flowing  Knauss  Creek.    East-west  striking  quartz  veins  occur  in  the  contact  zone 
+between  the  Carpenter  Creek  intrusion  of  the  Coast  Plutonic  Complex  quartz  diorite  and 
+granodiorite  and  Cretaceous  Bowser  Lake  Group  metasedimentary  rocks.    The  intensity  of 
+magnetic  response  is  moderate  to  weak.    Principal  minerals  of  interest  are  molybdenite  and 
+chalcopyrite that occur in fractured and altered portions of both terranes.  Historic work on the 
+property  by  a  Cominco  exploration  crew  in  1981  that  included  rock  and  soil  geochemical 
+sampling,  outlined  the  mineralization  that  was  already  defined  by  prospecting  and  returned 
+anomalous  copper  analyses  (defined  as  in  excess  of  250  ppm  Cu)  and  molybdenum  analyses 
+(defined  as  in  excess  of  25  ppm  Mo)  in  the  contact  area.    Rock  chip  samples  from  the  main 
+mineral zone exposures returned numerous values in excess of 400 ppm copper and 100 ppm 
+molybdenum. Notable sections referred to in the assessment report (ARIS No. 10,440) include
+485 ppm Mo across 2.4 metres
+285 ppm Mo across 3.9 metres
+5280 ppm Cu across 4.5 metres.
+Elevated  silver  and  weakly  elevated  gold  values  were  also  obtained.    Despite  the  property's 
+name, tungsten analyses were uniformly low.
+A  three  person  prospecting/sampling  crew  was  engaged  by  Casa  Minerals  Ltd.  in  2010  to 
+initiate  that  company’s  investigations  in  the  WoMo  prospect  area.    Their  work  located  the 
+principal mineral zone and followed it discontinuously for several hundreds of metres.  32 rock 
+chip  samples  were  analysed  by  ICP-MS  methods  and  several  returned  high  values  in 
+molybdenum,  copper  and  gold  and  substantiated  historic  and  more  recent  (Nelson  and 
+Kennedy  (2007))  descriptions  of  the  mineralization:    Nelson  and  Kennedy  in  2006  conducted 
+mapping traverses in the WoMo and nearby areas and found evidence of "…a classic porphyry 
+system  located  at  the  margin  of  the  Carpenter  Creek  pluton"  (p.  160).    Speculatively,  they
+Casa Minerals Inc. – Pitman Projects
+Page 28 of 92
+suggested that shearing in both the intrusives and country rocks (of Bowser Lake Group) may 
+extend  from  Dorreen  Mine  in  the  north  to  Paddy  Mac  and  Gold  Dome  in  the  south  and 
+"….represent  the  peripheral  Au-Ag-base  metal  enrichments  to  the  main  porphyry  system" 
+(ibid., p. 160).  They also described the 200 metre by 1000 metre zone of intense clay-sericite 
+alteration with chalcopyrite and molybdenite in quartz vein stockworks that was also sampled 
+in 2010.  The occurrence is classified as "Porphyry Mo (Low F-type)".
+Section  5  of  this  report  includes  descriptions  of  Casa’s  2010  program  of  work  on  the  WoMo 
+prospect.
+4.2
+EastofSkeenaRiver
+East of the Skeena River, tenures were prospected and sampled by Casa Minerals Inc. personnel 
+in  2008  in  anticipation  of  locating  additional  copper  and/or  copper-molybdenum  deposits, 
+possibly  with  important  amounts  of  gold  and  silver.    Elevated  gold  analyses  were  obtained 
+from several pyrite-in-quartz and pyritic hornfels zones, the latter being identified by gossan-
+type  weathering.    Provincial  geologists  had  reported  a  number  of  vein  clusters  in  Telkwa 
+formation  volcaniclastic  rocks  from  which  they  obtained  impressively  high  concentrations  of 
+copper, gold and silver (Nelson and Kennedy, 2007; Nelson, et al., 2008 and Figures 2-4-1 to 2-4-
+6 in Appendix 1).  Casa Minerals Inc. geologists and prospectors examined parts of that area 
+and observed veinlets of tetrahedrite-quartz-carbonate, with broad selvages of bleaching that 
+are  thought  to  be  feldspathization  and/or  carbonate  alteration.    Eastfield  Resources  Ltd.  in 
+partnership with Canadian Gold Hunter, was at that time exploring the Zymo property located 
+immediately  east  of  Casa  tenures  where  "at  least  two  large  copper-gold  porphyry,  intrusion 
+related" zones in Stikine Terrane were being investigated (Eastfield website).
+Rapid  recession  of  alpine  glaciers  in  recent  decades  has  exposed  large  areas  that  were 
+previously ice covered.
+The following descriptions are based in part on field observations by the authors and also on 
+information provided by prospectors and contractors employed by Casa Minerals Inc. and from 
+ARIS files and publications of the provincial government.
+Keap Creek Prospect Area
+Keap Creek is a north-flowing tributary of Kleanza Creek that falls steeply from the northeast 
+side  of  the  O.  K.  Range  [aka  the  Okay  Range].    The  entire  lower  slope  has  been  clear-cut 
+logged,  with  a  few  remnant  patches of  old-growth  timber  (mostly  hemlock  and  western  red 
+cedar), and has been re-forested in recent years.  Higher elevation parts, above a natural cliff 
+escarpment, are mostly forested.  Casa's interest arose from a rock sample taken by GSB crews, 
+05-TB-45-02,  that  returned  on  analysis  26.5  ppb  gold,  2,232,000  ppb  silver,  1.12%  copper, 
+1.28% lead, 10.94% zinc and 5.79 ppm Mo (location is shown on Figure 2-4-2 in Appendix 1) 
+but has not been confirmed in the field).
+Casa Minerals Inc. – Pitman Projects
+Page 29 of 92
+Clore River Prospect Area
+Clore River is a north-flowing tributary of Zymoetz River located at the south most extent of 
+Casa Minerals Inc. tenures (tenures no. 578708, 578710, shown in Figure 2).  Pyrite-sericite-silica 
+alteration zones occur with a large number of fractures hosted by metamorphosed (hornfelsed) 
+sedimentary members of the Lower Jurassic Telkwa formation.  Mineralization has been found 
+over  an  area  of  several  tens  of  square  metres  and  possible  extensions  are  obscured  by 
+vegetation.    Apart  from  reconnaissance  type  RGS  program  sampling  by  Geological  Survey 
+Branch  (GSB)  geoscientists,  there  is  no  record  of  work  prior  to  that  of  Casa  and  insufficient 
+work has been completed to enable estimation of the exploration potential in this area.  At the 
+stream-side  location  shown  in  Figure  2-4-4,  Nelson,  et  al.  of  the  GSB  reported  a  2  metre 
+discontinuous rock chip sample that returned analytical values of 3801 ppm copper, 0.43 ppm 
+molybdenum,  0.5  ppm  gold,  14,200  ppb  silver,  9.24  ppm  lead  and  295.3  ppm  zinc,  and  a  2 
+metre  continuous  chip  sample  with  13,500  ppm  copper,  0.38  ppm  molybdenum,  15,847  ppb 
+silver, 295.5 ppb gold, 4.43 ppm lead and 298.3 ppm zinc (Nelson, et al. 2008).
+Lindy Prospect (aka Frisco) (see also previous section)
+The Lindy copper-silver prospect is an historic occurrence that comprises quartz porphyry dykes 
+and sills in andesite in which a shear zone is locally mineralized with chalcopyrite, bornite and 
+tetrahedrite.  The location was not visited in the 2008 field season.
+5.0
+EXPLORATION
+Magnetometer
+Casa  Minerals  Inc.  personnel  during  summer  2008,  worked  with  a  six  person  contract  crew 
+employed by Geotronics Surveys Ltd. to conduct preliminary investigations of several parts of 
+the Pitman-Borden mineral tenures.  The crew was based in Terrace, B. C. and traveled to the 
+work sites daily by four-wheel drive equipped vehicles, and occasionally by helicopter.  Work 
+sites  were  determined  by  Casa's  field  manager  and  field  locations  were  recorded  by  GPS 
+measurements. 
+surveys  employed  a  Geometrics  Proton  Precession 
+Magnetometer,  Model  G-856,  and  field  observations  were  corrected  for  diurnal  and  other 
+aberrations by comparison with a base station instrument that periodically during the survey 
+recorded magnetic intensity at a fixed point.  Soil samples were taken as recommended by MMI 
+Technology,  developers  of  the  method:    samples  were  taken  from  approximately  a  constant 
+depth  below  the  interface  between  leaf  and  twig  litter  on  surface  and  the  underlying  soils.  
+Analyses were performed by SGS Laboratories of Lakefield, Ontario, following a procedure that 
+employs a proprietary mixture of leachate solutions to extract particular suites of metals.  The 
+MMI method measures loosely held metal ions that have been transported to the near-surface 
+environment  in  interparticle  fluids  that  move  by  capillary  action.    Analyses  for  46  elements 
+were reported and complete analytical data and UTM coordinates are included in Appendix 3 
+of this report.
+Casa Minerals Inc. – Pitman Projects
+Page 30 of 92
+Clore River
+Casa  Minerals  in  2008  on  the  Clore  River  part  of  the  Pitman-Borden  property  completed  a 
+program of MMI soil sampling on a grid of four parallel lines with total length four kilometers, 
+a two line partial grid and a 750 metre traverse in an area 1.5 km northeast (Figure 5-1).  [MMI 
+analyses  measure  the  readily  extracted  metal  ion  content  of  samples  and  differ  substantially 
+from conventional analyses that usually measure all or substantially all of the metal present in 
+the -80 mesh fraction of samples.]
+Figures  5-2  to  5-6  illustrate  MMI  sample  determinations  for  silver,  gold,copper,  molybdenum 
+and zinc.  Figure 5-7 illustrates the location of British Columbia Geological Survey samples and, 
+for  the  MMI  samples,  the  total  metallic  content,  the  sum  of  Ag+Au+Cu+Pb+Zn  contents.  
+Figures 5-2 to 5-7 inclusive are placed in Appendix 2 of this report.
+The  government  rock  chip  samples  and  Casa  Mineral's  MMI  samples  in  2008  provided 
+indications of strong metal enrichment in the Clore River area but coverage was too restricted 
+to show useful information concerning the nature and distribution of metal values.  Because 
+insufficient  work  had  been  done  to  determine  the  merits  of  the  area,  further  prospecting, 
+mapping,  sampling,  and,  possibly,  magnetometer  surveys  were  recommended.    In  2010  the 
+Casa  field  crew  returned  to  the  Clore  River  site  and  sampled  several  areas  where  pyrite  is 
+disseminated  in  felsic  alteration.    Eighteen  rock  samples  were  analysed  by  ICP  methods:  
+notable observations include the following:
+Molybdenum values are uniformly low, from 0.2 to 1.3 ppm.  This is in contrast to areas
+in proximity to the Carpenter Creek pluton that are generally enriched in molybdenum.
+Copper values vary from 21.7 to >10000 ppm; many samples contain >3000 ppm.
+Lead and zinc values are low.
+Silver values are high relative to most regional values:  the maximum, 56.4 ppm Ag, is
+from sample KK 10-10 that returned >10000 ppm copper.
+Gold values vary from <0.5 ppb to 660 ppb.
+The locations of 2010 bedrock samples, numbered KK 1 – 10 to KK 18 – 10 are shown in Figure 
+5-1  and  Figures  5-8a,  8b,  and  8c  show  rock  sample  analyses.    The  33  element  ICP-MS 
+determinations  are  reported  in  Certificate  of  Analysis  VAN10004822  that  is  included  as 
+Appendix 5 of this report.
+Casa Minerals Inc. – Pitman Projects
+Page 31 of 92
+0
+0
+0
+5
+3
+0
+6
+0
+0
+0
+4
+3
+0
+6
+562000
+563000
+KK 15-10
+!(!(
+!(
+2
+5
+0
+m
+578710
+T
+#
+!(
+KK 8-10
+Zymoetz River
+250 m
+5
+KK 17-10
+KK 16-10
+!(!(
+KK 18-10
+KK 14-10
+KK 7-10
+L-63600E-34250N
+KK 5-10
+L-63600E-33800N
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+0
+0
+0
+5
+3
+0
+6
+.
+L-63700E-34325N
+!(
+KK 6-10
+!(
+!(
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+L-63700E-34025N
+0
+0
+0
+4
+3
+0
+6
+7
+5
+0
+m
+M15
+M01
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+0
+0
+0
+3
+3
+0
+6
+!
+!
+!
+!
+!
+!
+!
+M30
+KK 4-10
+!(
+m
+500
+KK 1-10
+KK 2-10
+!(!(
+KK 3-10
+0
+200
+400
+600
+800
+1,000
+Meters
+!(
+0
+0
+0
+2
+3
+0
+6
+CASA MINERALS INC.
+PITMAN PROPERTY
+Clore River Area
+2008  and 2010 Sample Locations
+0
+0
+m
+L-33100N-61350E
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+L-33100N-62075E
+L-33000N-62000E
+578708
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! !
+! ! !
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+!!!!!!!!!!!!!!!!!!!!!
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! !
+0
+0
+0
+3
+3
+0
+6
+L-33000N-61150E
+L-32900N-61150E
+L-32800N-61150E
+! ! ! ! !
+L-32800N-62325E
+KK 11-10
+KK 12-10
+KK 13-10
+!(!(!(
+m
+0
+5
+2
+L-32900N-62375E
+KK 9-10
+KK 10-10
+!(!(
+Clore River
+Title:
+Legend
+0
+0
+0
+2
+3
+0
+6
+!
+!(
+2008 Sample Location
+2010 Rock Samples
+MinFile
+! Anomaly
+ß Developed Prospect
+ß Past Producer
+ß Producer
+# Prospect
+# Showing
+m
+500
+Tra p line Creek
+562000
+Scale:
+Date:
+As Shown
+May, 2011
+Design:
+Drawing:
+563000
+JP
+Terracad Geoscience
+Services Ltd.
+Figure:
+Datum:
+5 - 1
+NAD 83/Zone 9
+Keap Creek
+Keap  Creek  is  a  northeasterly  flowing  tributary  of  Kleanza  Creek,  a  large  stream  that  joins 
+Skeena  River  fifteen  kms  north  of  Terrace,  B.  C.    Access  from  Highway  16  is  by  the  Bornite 
+Mountain  Road  which  is  followed  to  km  15  and  thence  southerly  on  unmaintained  logging 
+roads.  Most of the Kleanza Creek drainage basin, including Keap Creek, has been logged and 
+re-forested.
+Government geologists in 2006 found evidence of strong pyritization in silicified volcanic rocks 
+east of Skeena River (Nelson and Kennedy, 2007, p. 161).  A sample from a road side location 
+near the upper part of Keap Creek returned 2,232,000 ppb silver, 26.5 ppb gold, 11,230 ppm 
+copper, 12,800 ppm lead and 109,400 ppm zinc.  Casa Minerals Inc. in 2008 conducted a limited 
+amount of follow-up work in the area, comprising roadside MMI sampling at 50 metre intervals 
+along  3.5  km  of  road,  and  at  25  metre  intervals  on  a  three  line  grid.    Locations  of  Casa 
+Mineral’s  2008  MMI  samples  and  2010  rock  samples  are  illustrated  in  Figure  5-9  and  total 
+metallic content is plotted in Figure 5-10.  Magnetometer observations on the small grid are 
+plotted in Figure 5-11. Figures 5-12 to 5-16 inclusive illustrate silver, gold, copper, molybdenum 
+and  zinc  values  obtained  from  MMI  soil  geochemical  samples.    Figures  5-12  to  5-16  inclusive 
+have been placed in Appendix 3.
+The  BCGS  rock  chip  sample  data  was  validated  by  the  road  side  MMI  sample  data  but  the 
+magnetic pattern shown in Figure 5-11 is not diagnostic.  Further prospecting was conducted in 
+the  Keap  Creek  area  in  2010  and  38  rock  samples  were  analysed.    Several  samples  returned 
+strongly  anomalous  metal  values,  (Figure  5-17a,-17b,  and  -17c  (included  in  Appendix  3)), 
+including  two  samples  with  more  than  3200  ppb  gold  and  five,  with  more  than  10000  ppm 
+copper.  Analytical results were received several weeks following the completion of field work 
+and there was no opportunity to conduct follow up work.  There is no confirmation that the 
+exact site of the strongly anomalous Nelson and Kennedy samples was re-visited.  As a general 
+observation,  the  apparent  “high”  copper  background  may  reflect  a  regional  or  formational 
+factor,  with the  strong  copper values  being  representative  of discrete  mineralized structures.  
+Keap Creek mineralization remains enigmatic and further work is recommended elsewhere in 
+this report.
+The 2010 Keap Creek rock samples are numbered KC 1-10 to KC 38-10 in Figures 5-17a to 5-17c 
+and their ICP-MS analyses are reported in Certificate of Analysis VAN10004822 that is included 
+in Appendix 5 of this report.
+Pitman-Gold Dome-WoMo Area
+The Pitman-Gold Dome-WoMo area comprises all tenures west of the Skeena River and includes 
+the Pitman molybdenum prospect, and the Gold Dome, Linda, Paddy Mac and WoMo gold and 
+molybdenum zones. MMI sampling in 2008 was conducted along a network of logging roads 
+and the survey extended from low elevation near the Skeena River to high elevation near the 
+Gold Dome. Figure 5-18 illustrates the locations of MMI samples taken in 2008 and rock samples 
+taken in 2010.  Figures 5-19 to 5-23 illustrate silver, gold, copper, molybdenum and zinc values
+Casa Minerals Inc. – Pitman Projects
+Page 33 of 92
+obtained from MMI geochemical soil samples. Figures 5-19 to 5-23 inclusive have been placed in 
+Appendix 4 of this report. Figure 5-24 illustrates total metallic content of MMI samples.  Also in 
+2008 a small grid in the area immediately west of the Pitman prospect was both MMI sampled 
+and surveyed using a proton precession magnetometer (Figure 5-25). The WoMo prospect part 
+of the area was neither examined nor worked on in 2008 but was examined in some detail in 
+2010.
+Magnetometer  observations  on  the  small  grid  plotted  in  Figure  5-25  present  an  incomplete 
+pattern  and  apart  from  showing  a  wide  range  of  magnetic  intensity  are  not  helpful.    Much 
+broader grid coverage in that area is required.  A helicopter-borne geophysical survey may be 
+useful.
+A  helicopter-supported  three  person  field  crew,  comprising  two  geologists  and  one  junior 
+geologist, in 2010 established a camp at high elevation close to the WoMo mineral zone and 
+examined and sampled an extensive zone of strong sulphide alteration. Strong molybdenum, 
+copper  and  gold  values  substantiated  historic  data  and  re-inforced  the  observations  of  the 
+provincial  geologists  who  suggested  that  the  broad  zone  of  alteration  and  sulphide 
+mineralization  represents  “…the  peripheral  Au-Ag-base  metal  enrichments  to  the  main 
+porphyry system" (Nelson and Kennedy, 2007, p. 160).  Figure 5-26a illustrates locations of 2010 
+program  talus  fines  and  rock  samples  along  with  gold  and  silver  analyses,  Figure  5-26b 
+illustrates  copper  and  molybdenum  values,  and  Figure  5-26c  illustrates  lead  and  zinc  values.  
+Sample  descriptions  and  33  element  ICP-MS  determinations  as  reported  in  Certificate  of 
+Analysis VAN10003509, are included in Appendix 5 of this report.
+The  analytical  data  from  the  various  2010  WoMo  samples  indicate  that  copper  and 
+molybdenum values are “high”, reflecting the samplers’ attempts to determine the merits of 
+the  area  and  the  fact  that  exposures  of  bedrock  in  stream  channels  are  almost  invariably 
+comprised  of  sulphide-altered  rock.    Intervening  areas  are  covered  by  soil  or  felsenmeer  and 
+were not sampled. No additional follow-up work has been directed to the WoMo part of the 
+Pitman  property  but  the  area  is  clearly  defined  as  “anomalous”  in  metals  of  interest  and 
+further work is recommended in a separate section of this report.
+The  Paddy-Mac  mineral  tenures  were  acquired  by  Casa  Minerals  Inc.  subsequent  to  the  2010 
+field season. The property is contiguous to the various Pitman tenures and comprises an area of 
+rugged topography typical of the Coast Mountains of British Columbia.  The property includes 
+two  adits:    an  upper  adit  35  feet  (10.7  metres)  in  length  that  followed  a  shear  zone,  and  a 
+lower adit 30 feet (10.5 metres) in length that followed a 12 inch quartz vein. Relevant historic 
+data from the period 1980 to 1986 includes several programs of chip sampling of a series of 
+quartz veins that are exposed in steep cliffs.  As reported in ARIS #20504, seven samples were 
+taken  in  1980  by  Holt  Engineering  Ltd.  ,  a  further  27  samples  were  taken  by  experienced 
+mountaineers  employed  by  Bema  Industries  Ltd.,  and  in  1986,  26  samples  were  taken  by 
+Canamax  Resources  Inc.  Burton  Consulting  Inc.  in  1990  conducted  geological  mapping  and 
+sampling  traverses  and  took  five  samples.    The  latter  group  reported  that  “Economic 
+mineralization within and immediately surrounding the quartz veins consists of visible galena
+Casa Minerals Inc. – Pitman Projects
+Page 34 of 92
+and  chalcopyrite  with  erratic  gold  and  silver  values  detected  by  assaying.    The  mode  of 
+occurrence of the gold and silver is not known.  Gold assays of up to 10.800 oz/ton have been 
+obtained from selected samples” (Symonds, 1990, p.13).
+The  Paddy  Mac  tenures  have  not  been  examined  by  the  authors  but  available  data,  which, 
+although not NI 43-101 acceptable, is believed to be reliable, includes selected samples that, as 
+cited  above,  assayed  as  high  as  10.800  oz/ton  gold  and  7.40  oz/ton  silver  over  0.30  metre 
+thickness.  Other  samples  returned  gold  assays  that  are,  given  current  gold  and  silver  prices, 
+highly attractive and that confirm that a gold enriched system is present, Sample locations and 
+descriptions are poorly documented but further work is recommended elsewhere in this report.
+6.0 DRILLING
+Casa Minerals Inc. has not undertaken any drilling on any of its mineral tenures.  The Pitman 
+molybdenum  prospect  was  in  the  past  explored  by  at  least  14  diamond  drill  holes  and  BC 
+Ministry of Energy, Mines and Petroleum Resources assessment report 07993 provides drill core 
+logs and brief descriptions of the historic drilling (Kruchkowski, 1980).  The mineral zone was 
+intersected  in  most  of  the  holes  but  the  extent  and  orientation  of  a  mineral  zone  was  not 
+determined.
+7.0
+SAMPLINGMETHODANDAPPROACH
+A  contract  field  crew  of,  variously,  between  four  and  seven  persons,  completed  the  2008 
+program of property work on the Pitman tenures.  Experience and skill levels of workers varied 
+but  crew  chiefs  were  observed  in  the  field  to  be  competent  to  organize,  supervise  and 
+implement the MMI soil sampling method and to complete the magnetic surveys.  824 samples 
+were  taken  from,  variously,  small  grids  or  traverses  and  many  samples  were  from  roadside 
+locations, some of which may have been disturbed by construction and traffic.
+MMI theory and methods are discussed in Section 5.0 of this report.  Casa's data are presumed 
+to  be  accurate  and  reliable  but  the  MMI  method  is  a  relatively  recent  innovation  that  was 
+developed in Australia where field conditions are quite unlike those in northern coastal British 
+Columbia.  It has been tried and demonstrated to be effective in many other parts of the world 
+but is not accepted by all geoscientists as a good alternative to conventional geochemical soil 
+survey practice.
+The Pitman samples are believed to be of good quality and reasonably representative of the 
+terrain.  Data were received long after the 2008 field season ended but follow-up work in the 
+field  to  confirm  or  expand  data  from  sites  that  gave  apparently  anomalous  results  was 
+recommended.
+Casa Minerals Inc. – Pitman Projects
+Page 35 of 92
+The great majority of MMI sample analyses returned very low metal values, in the single and 
+double digit ppb ranges.  The higher values are, according to MMI technology and experience, 
+significant as they represent the vertical migration of metal ions from a bedrock source.  They 
+cannot  however  be  reliably  correlated  with  conventional  historic  soil  sample  analyses  that 
+represent all soil components and are treated with a much more aggressive leach.  Note that 
+much of the MMI sampling followed roads and geographic contours and cannot with ease be 
+depicted in a report.  The MMI analytical data base was reviewed and areas of apparently high 
+metal occurrences were noted for future follow-up field inspection and sampling.
+8.0
+SAMPLEPREPARATION,ANALYSESANDSECURITY
+MMI soil samples in 2008 were accumulated at the base camp (motel) as recommended by MMI 
+Technology, until completion of the field work.  Soil samples were placed in standard 'ziplock' 
+type bags and then packed in an orderly manner in stout cardboard boxes.  At the end of the 
+job, all samples were shipped by commercial transport truck to the SGS Laboratory in Lakefield, 
+Ontario.  Due to the preliminary nature of the survey work and the fact that Casa Minerals Inc. 
+was  a  closely-held,  private,  non-trading  company,  the  project  did  not  attract  any  particular 
+interest in the community and there was no evidence of any interference of any kind with the 
+samples.
+The  Casa  Minerals  Inc.  project  supervisor,  Peter  Burjoski,  was  not  involved  in  any  aspect  of 
+sample gathering or processing, all of which were under the care of the contractor's party chief 
+and  there  were  no  opportunities  for  interference  of  any  kind  by  either  the  public  or  by 
+personnel identified with Casa Minerals Inc.
+The  SGS  Laboratory  in  Lakefield,  Ontario  processed  the  Casa  Minerals  Inc.  2008  MMI  soil 
+samples  following  that  laboratory's  standard  procedures.    SGS  has  offered  assaying,  analysis 
+and umpiring services for several decades and is an ISO 9002 accredited testing laboratory.  No 
+check assays, blanks, duplicates or standard samples were submitted to the laboratory but that 
+facility regularly performs and reports a number of internal quality control routines that ensure 
+the integrity of its instruments and procedures. 1241 samples were analysed.
+The  2010  rock  chip  samples  from  the  WoMo,  Keap  Creek  and  Clore  River  areas  were 
+accumulated at the respective base camp or motel sites until completion of field work and then 
+were transported by the field personnel directly to the analytical laboratory in Vancouver, B. C.  
+Samples were at no time exposed to interference by “outsiders”.  Laboratory procedures were 
+in accord with current practice and the laboratory employed adequate internal quality control 
+methods to ensure that satisfactory data were delivered to the client.
+In the authors' opinion, the chain of custody and the analytical services provided with respect 
+to  the  Casa  Minerals  Inc.  samples  are  entirely  appropriate  and  the  analytical  data  can  be 
+unhesitatingly accepted as adequate for purposes of evaluating grassroots-stage samples.
+Casa Minerals Inc. – Pitman Projects
+Page 36 of 92
+The MMI method of applied geochemistry was introduced to the mineral exploration industry 
+in 1992 and has found broad acceptance but, nonetheless, has to be implemented carefully.
+9.0
+DATAVERIFICATION
+As  discussed  in  the  preceding  section  of  this  report,  due  to  the  early-stage  nature  of  the 
+investigation  of  the  Pitman  mineral  tenures,  no  data  verification  procedures  were 
+implemented.    If  work  progresses  to  a  more  advanced  type  of  work,  such  as,  for  instance, 
+detailed chip sampling of mineral zones or diamond drilling, it will be necessary to attend to 
+security and quality assurance and quality control topics.
+10.0 ADJACENTPROPERTIES
+The Casa Minerals Inc. tenures are in many instances situated close to other "active" properties, 
+several of which may have been investigated by their owners during the 2008 and 2010 field 
+seasons.  No attempt was made to either identify or monitor such work.
+TTM Resources Ltd. in 2007 investigated a molybdenum property located west of Skeena River 
+and  southwest  of  the  Pitman  prospect.    TTM  Resources  Ltd.  is  a  molybdenum-seeking  junior 
+company with other advanced-stage exploration projects in British Columbia.  East of Skeena 
+River,  the  Dardanelle  property,  a  copper-gold  prospect  that  has  a  long  history,  was  being 
+explored by a New Westminster-based prospector-geoscientist.  Immediately east of the then 
+Borden part of Casa's claims, the 10,660 hectare Zymo copper-gold-silver porphyry property was 
+explored  in  2008  by  a  joint  venture  of  Eastfield  Resources  Ltd.  and  Canadian  Gold  Hunter 
+Resources Inc. that completed induced polarization surveys and a drilling program of 1,554.5 
+metres in six holes.  Drilling was directed to the Hobbes Zone and the j.v. reported success in 
+intersecting  "…significant  intervals  of  copper-gold  mineralization…"  in  all  drill  holes  (News 
+release, Jan. 19, 2009).  The Hobbes is closely associated with a strong magnetic anomaly with 
+dimensions  of  at  least  6  km  by  2  to  3  km.    A  second  area,  the  FM  Zone,  is  located  4.5  km 
+northeast of the Hobbes and is reported to be a porphyry-related high sulphidation gold-silver-
+zinc  replacement  occurrence  (Eastfield  website).    The  authors  are  not  aware  of  any  work  at 
+Zymo subsequent to the 2008 program of surveys and drilling.  Knauss Creek Mines Ltd. in 2009 
+performed  a  substantial  amount  of  work  on  the  Knauss  Mountain  property  located 
+immediately northeast of WoMo:  details of that work are not available.
+11.0 MINERALPROCESSINGANDMETALLURGICALTESTING
+No part of the Pitman group of mineral tenures has been advanced to a stage where mineral 
+processing or metallurgical testing would be appropriate.
+12.0 MINERALRESOURCEANDMINERALRESERVEESTIMATES
+No part of the Pitman group of mineral tenures has been advanced to a stage where mineral 
+resource and mineral reserve estimates can be proposed or calculated.
+Casa Minerals Inc. – Pitman Projects
+Page 37 of 92
+13.0 OTHERRELEVANTDATAANDINFORMATION
+This technical report includes all relevant data and information concerning the Pitman mineral 
+tenures.    The  operator,  Casa  Minerals  Inc.,  commenced  work  on  the  tenures  during  summer 
+2008 and continued that work in the 2010 field season.  Casa has attempted to locate and place 
+on record all available data, along with details of its 2008 and 2010 work.  A large amount of 
+additional information concerning the regional geological setting, which is quite complex due 
+to  its  location  at  the  transition  from  the  Coast  Crystalline  Belt  to  the  Intermontane 
+physiographic  belt,  is  available  in  publications  of  the  Geological  Survey  of  Canada,  the 
+Geological Survey  Branch  of  the  B. C.  Ministry  of  Energy, Mines  and  Petroleum  Resources,  in 
+theses, and in technical papers published in juried periodicals and elsewhere.  Such academic 
+and  technical  discussions  are  beyond the  scope  of  this  report which  is  intended  to  provide  a 
+description and evaluation of a series of mineral prospects that are at a "grassroots" or slightly 
+more advanced stage.  It is believed that the authors have presented a comprehensive technical 
+report that is relevant, understandable and not misleading.
+14.0
+INTERPRETATIONANDCONCLUSIONS
+Casa Minerals Inc. has begun what may become a lengthy process of evaluating a very large 
+and  diverse  array  of  mineral  tenures,  some  of  which  have  attractive  possibilities  of  hosting 
+worthwhile mineral deposits.  The evaluation has to date been focused on some of the most 
+accessible "target" areas and those with some history of exploration.  Metron Capital Corp. has 
+optioned  a  50%  interest  in  the  Pitman  property  and  will  provide  funding  to  enable  further 
+exploration.
+West of Skeena River, initial work by Casa in 2008 and 2010 was directed to several areas of 
+molybdenite  mineralization  and  to  polymetallic  vein  zones.    Additional  work  is  required  to 
+complete evaluation of the various areas. The authors have concluded that further work is fully 
+justified  and  have  outlined  in  general  terms  recommended  programs  of  work  to  better 
+evaluate  the  mineral  tenures.    Casa  Minerals  Inc.,  in  order  to  provide  funds  required  to 
+continue  exploration  of  the  Pitman  tenures,  optioned  a  50%  interest  in  those  tenures  to 
+Metron Capital Corp.  Following completion of the recommended work, Metron Capital Corp. 
+and Casa Minerals Inc. will be able to focus their future efforts on the most prospective mineral 
+zones.
+East  of  Skeena  River,  Casa  Minerals  Inc.  in  2008  completed  initial  work  in  the  form  of 
+reconnaissance, prospecting and rock and MMI soil sampling.  Two areas were partially gridded 
+and soil sampled:  Clore River and Keap Creek (a tributary of Kleanza Creek). The company has 
+received analytical data from those grids and although results were inconclusive, further work, 
+including geophysical surveys (induced polarization and resistivity surveys) was recommended.  
+Some  MMI  soil  geochemical  analyses  indicate  strong  metal  values  and  further  sampling  and 
+prospecting are required to determine their source(s).
+Casa Minerals Inc. – Pitman Projects
+Page 38 of 92
+In 2010, a field crew conducted geological reconnaissance and bedrock sampling in the WoMo, 
+Clore River and Keap Creek areas.  Geological work confirmed that mineral zones in the areas 
+comprise pyritization and other types of alteration similar to that found in proximity to granitic 
+intrusions  in  many  parts  of  the  Coast  Mountains.    Precious  metal  and  copper  analyses  are 
+mixed,  with  some  samples  having  high  values  that  warrant  more  detailed  follow-up  work  in 
+the  form  of  detailed  mapping  and  trenching.    Rugged  terrain  and  other  access  difficulties 
+demand  extra  caution  while  working  in  the  areas  and  also  in  the  past  have  inhibited 
+prospecting work.
+14.1 PitmanProspect
+The Pitman molybdenum prospect has two known mineral zones exposed in steep terrain.  One 
+zone  at  relatively  low  elevation  has  been  drilled  with  some  success  by  two  operators.  
+Mineralization  is  hosted  by  the  Carpenter  Creek  pluton  that  is  also  the  site  of  several  other 
+molybdenum  prospects  and  a  small  number  of  polymetallic  vein  occurrences.    Historic  work, 
+including prospecting, soil geochemistry and drilling, has not determined the size and limits of 
+the  mineralization,  nor  has  it  exhausted  the  possibilities  of  finding  extensions  to  the  known 
+zones  nor  the  possibility  of  finding  additional,  new,  similar  occurrences.  Sampling  in  2008  in 
+the  vicinity  of  the  historic  molybdenum  occurrences  demonstrates  strong  potential  for 
+expanding the zone beyond the area that was drilled in previous work campaigns.
+14.2 WoMoProspect
+The  WoMo  porphyry-style  molybdenite  zone  is,  speculatively,  in  the  opinion  of  government 
+geoscientists,  possibly  continuous  with  similar  prospects  exposed  in  nearby  stream  drainages.  
+The zone has apparent dimensions of 1000 by 800 metres (MINFILE data) and, on the basis of 
+Casa’s work in 2010, may be much larger, following the contact alteration halo adjacent to the 
+Carpenter Creek granodioritic pluton.  Mineralization comprises molybdenite and chalcopyrite 
+mineralization in disseminations and quartz veins at and near the sheared and altered contact 
+between  granodiorite  and  hornfelsed  sediments.   High  gold values  are  erratically  distributed 
+and include some that warrant further sampling. The mineralization has not been drilled.  The 
+showings  are  near  and  higher  than  tree  line  and  are  accessible,  for  practical  purposes,  by 
+helicopter.
+14.3 GoldDomeProspect
+The  Gold  Dome  prospect  has  not  been  examined  in  the  field  by  Casa  Minerals  personnel. 
+Quartz  veins  carry  gold,  silver  and  base  metal  mineralization  and  it  appears  that  past 
+exploration was focused on the individual veins, which are narrow:  exploration in search of a 
+larger  shear-related  mineral  zone  may  be  more  rewarding.    Geological  mapping  and 
+geochemical sampling will determine the overall dimensions of the zone that will then have to 
+be confirmed by diamond drilling.  Gold Dome is aligned geographically (and geologically) with 
+Paddy Mac, WoMo and Lynda prospects and there may be a subtle geologic structure that can 
+be used as an exploration tool.  
+Casa Minerals Inc. – Pitman Projects
+Page 39 of 92
+14.4 LyndaProspect
+The Lynda prospect has not been examined in the field by Casa Minerals personnel.  Available 
+information,  in  ARIS  reports  and  government  publications,  indicate  that  the  property  has 
+characteristics of a porphyry-style molybdenum-copper deposit.  It is situated in a complex of 
+granitic intrusions, and volcanic and sedimentary rocks and is host to molybdenite and minor 
+chalcopyrite in quartz-pyrite veins.  Prevailing alteration includes strong sericitization and local 
+feldspathization (MINFILE data) that extends onto adjoining mineral tenures.
+14.5 CloreRiverProspect
+The Clore River tenures are located in an area where strikingly high metal values were obtained 
+by  government  geologists  from  chip  samples.    Initial  prospecting  by  Casa  Minerals  personnel 
+found disseminated sulphide mineralization in andesitic volcanic rocks and an MMI soil sample 
+grid was placed over the principal area of interest.  Analytical results were mildly encouraging 
+and  it  was  determined  that  further  investigations  were  warranted.    Work  in  2010  included 
+further  prospecting  and  bedrock  sampling  of  and  near  the  mineral  zones  and  the  resulting 
+analyses indicate that some areas of strong copper mineralization are present and that other 
+metals of interest, including gold, are also present.
+14.6 KeapCreekProspect
+Keap Creek, a tributary of Kleanza Creek, features a number of fractures with quartz and pyrite 
+mineralization.  Regional work by government geologists identified high gold (26.5 ppb) and 
+extremely  high  silver  values  (2,232,000  ppb)  in  one  rock  sample.    Casa  Minerals  conducted 
+preliminary prospecting work and grid sampled part of the most prospective area.  Analytical 
+results  from  MMI-type  samples  were  mixed  and  further  work  was  recommended.      Work  in 
+2010  included  further  prospecting  and  bedrock  sampling  but  it  is  not  certain  that  the  zone 
+found and sampled by the government geologists was revisited.
+14.7 PaddyMacProspect
+The Paddy Mac Prospect lies at high elevation west of Skeena River and comprises several zones 
+of  gold  bearing  quartz  veining  hosted  by  hornfelsed  metasedimentary  rocks  of  the  Bowser 
+Lake  Group  and  mineralized  with  pyrite,  chalcopyrite,  galena,  arsenopyrite  and  pyrrhotite.
+The present owners, Casa and Metron, have not directed any work to the area.
+15.0 RECOMMENDATIONS
+The  following  recommendations  are  organized  in  three  parts:  (1)  Pitman  area  (2)  Prospects 
+West of Skeena River and (3) Prospects East of Skeena River.  Each part is divided into phases:  
+Phase  1  is  prospecting  and  technical  survey  work  that  will  have  as  its  objective  definition  of 
+drillable  targets;  Phase  2,  which  is  dependent  upon  a  positive  evaluation  of  Phase  1, 
+recommends either geophysical surveys or diamond drilling of one or more and, possibly all, of 
+the targets.
+Casa Minerals Inc. – Pitman Projects
+Page 40 of 92
+15.1 PitmanMolybdeniteZone
+Historic  drill  results  from  the  Pitman  molybdenite  occurrence  are  mildly  encouraging  and 
+strongly suggest that the area of molybdenite mineralization extends well beyond the area of 
+historic diamond drilling.  Further drilling to confirm historic data and to expand the zone of 
+known  mineralization  is  warranted.  It  is  recommended  that  in  a  Phase  1  program  the  area 
+should be further explored by prospecting, geochemical soil sampling, either conventional or 
+MMI-type,  and,  if  practical,  a  small  amount  of  induced  polarization  and  resistivity  surveying. 
+Geophysical work may require heavy line cutting.  Phase 2, if warranted by Phase 1 work, will 
+include four or five diamond drill holes that should be directed to the area of historic drilling in 
+order to confirm the old data and to expand the dimensions of the mineral zone or zones.
+Phase 1 work will require a budget of $25,000 and if geophysical surveys are included, $50,000.
+The Phase 2 program of diamond drilling is likely to include at least five drill holes with total 
+length 2000 metres.  Cost of drilling program @ estimated all-in cost of $150/metre -  $300,000.
+Total estimated cost of Phase 1 and Phase 2 programs on the Pitman zone -
+$350,000.
+15.2 ProspectsWestofSkeenaRiver
+Casa’s  mineral  tenures  located  west  of  the  Skeena  River  include,  in  addition  to  the  Pitman 
+molybdenite property, several historic prospects situated at high elevation, namely the Lynda, 
+Gold  Dome,  Paddy  Mac  and  WoMo prospects.    The  prospects  have  similar  characteristics  and 
+may have continuity along the contact area of the Carpenter Creek pluton with volcaniclastic 
+members of Hazelton Group units. The possible continuations should be prospected, sampled 
+and geologically mapped.  Magnetic, induced polarization and resistivity surveys, if they can be 
+applied  in  the  steep  mountainous  terrain,  may  be  useful  in  determining  the  relationship 
+between WoMo and nearby mineral zones.  Diamond drilling will almost certainly follow.
+Casa’s high elevation mineral showings and prospects, namely the WoMo, Paddy Mac, Gold Dome, 
+and Lynda areas, should be carefully prospected, geologically mapped, and sampled by suitably 
+trained  and  equipped  persons  to  further  outline  their  size  and  characteristics  and  possible 
+continuity.  As  necessary,  a  two  or  four  person  crew  equipped  with  complete  camp  gear  and 
+suitable  communications  should  be  positioned  in  a  temporary  camp  by  helicopter  near  each 
+prospect.  The crew will prospect, map and sample the mineral zones and then arrange to be 
+re-supplied,  if  necessary,  and  moved  to  another site.    Because  of  the  difficult  and  hazardous 
+field  conditions  in  the  area  it  will  be  desirable  to  have  an  expediter  or  other  company 
+representative in Terrace to maintain contact with the field crew.  Following assessment of the 
+prospecting  and  geological  work,  a  geophysical  survey  crew  should  complete,  where 
+warranted,  magnetic,  induced  polarization  and  resistivity  surveys  to  better  define  areas  of 
+apparent  merit.    All  property  data  should  then  be  reviewed  and,  again  where  warranted, 
+target areas should be explored by diamond drill holes.  The latter stage of work is described as 
+Phase 2 in the following paragraphs.
+Casa Minerals Inc. – Pitman Projects
+Page 41 of 92
+The following assumptions are used for planning purposes and the costs are estimates:  four 
+person crew, helicopter support, four areas to be worked, duration of program - one month, 
+with one week at each site:
+Proposed  budget  for  Phase  1  work  on  higher  elevation  parts  of  Casa’s  properties  west  of 
+Skeena River:
+Project planning, permitting and supervision -
+Mobilization and demobilization of field crew -
+Accommodation and living costs in Terrace -
+Expediter in Terrace -
+Rental vehicles as needed in Terrace -
+Camp equipment, tools, special gear -
+Camp costs - propane, groceries -four persons30 days @ $50/person/day
+Analyses - soil samples, rock samples -
+Helicopter service - 6 hours per week - four weeks- 24 hours @ 
+$1100/hour -
+Wages - geologist-party chief -40 days @ $500/day -
+Senior assistant - 35 days @ $350/day -
+Helpers -two for 30 days @ $200/day -
+Contract geophysical crew - assume induced polarization survey method 
+and allow 10 line kms at each of four sites - 40 line km @ $1500/line km 
+-
+Extra costs for geophysical survey, including extra helpers, helicopter 
+support, stand-by charges, reporting and evaluation -
+Data assembly and report preparation -
+$15,000
+$5,000
+$3,000
+$2,500
+$4,600
+$2,000
+$6,000
+$3,000
+$26,400
+$20,000
+$12,250
+$12,000
+$60,000
+$30,000
+$15,000
+Estimated cost of Phase 1 - west of Skeena River, not including Pitman -
+$216,750
+Contingency allowance for unscheduled costs @ 15% -
+Total Phase 1 - West of Skeena River -
+$32,512
+$249,262
+[Phase 2 will follow Phase 1 if results from that exploration work are sufficiently positive.]
+Casa Minerals Inc. – Pitman Projects
+Page 42 of 92
+Phase 2 - West of Skeena River
+Assume for planning purposes that three sites will be further explored by diamond drilling.
+Diamond drilling - allow 15 holes, each 100 metres = 1500 metres,drilling costs 
+including mob and demob - $100/metre
+$150,000
+Company costs - core processing, logging, sampling, analyses, etc. @ $50/metre
+$75,000
+Transportation costs - helicopter - 3 hr/day for 40 days @ $1100/hour
+Project management, evaluation and reporting
+Estimated cost of Phase 2
+Contingency allowance for unscheduled costs @ 15%
+Total Phase 2 - West of Skeena River
+Total Budget Amount - West of Skeena River - Phase 1 + Phase 2 -
+$132,000
+$35,000
+$392,000
+$58,800
+$450,800
+$700,062
+15.3 EastofSkeenaRiver
+Work  east  of  Skeena  River  may  be  organized  separately  from  work  west  of  the  River  and 
+operate either at the same time as the work is in progress west of the River or, using the same 
+crew,  sequentially.    If  done  at  the  same  time,  accommodation,  supervision  and  expediting 
+arrangements in Terrace will benefit both project areas.  Alternatively, the single crew could 
+complete  work  west  of  the  Skeena  River  and  then  proceed  to  the  east  side.    That  schedule 
+would ensure continuity and facilitate quality control at the cost of prolonging the field season 
+and increasing costs of supervision.
+Much, if not all, of the work on tenures located east of Skeena River can be conducted using 
+four wheel drive equipped vehicles on logging roads.  For planning purposes, it is assumed that 
+a  four  person  field  crew  with  a  FWD  vehicle  will  be  accommodated  at a motel  in  Terrace  or 
+nearby and travel daily to the work site.  A series of shallow bedrock trenches will provide fresh 
+material for sampling and expose unweathered rock that will enable better evaluation of the 
+mineral zone or zones.
+There is no provision in this estimate for Phase 2 work nor for diamond drilling work of any 
+kind but the latter option is, of course, available if dictated by results obtained in Phase 1.
+Phase  1  work  will  include  further  grassroots  type  prospecting,  geological  reconnaissance, 
+geochemical soil sampling, and trenching (contracted).  Four persons for one month.
+
+Project planning and supervision
+$5,000
+Casa Minerals Inc. – Pitman Projects
+Page 43 of 92
+Mobilization and demobilization of four person crew 
+Expediter in Terrace 
+Accommodation - motel with restaurant meals – allow four persons for 30 
+days @ $65/person/day  
+Trenching – contractor to drill and blast and help with mucking 
+Vehicle rental and operating costs 
+Equipment, tools and consumables  
+Assays and analyses 
+Wages -  party chief/geologist @ $450/day for forty days 
+prospector @$300/day for thirty days 
+two helpers @ $200/day for thirty days 
+Data assembly and report preparation 
+Estimated cost of work east of Skeena River - 
+Contingency allowance for unscheduled costs @ 15% 
+Total budget amount for Phase 1 work east of Skeena River 
+Total budget amount for Pitman, phase 1 and phase 2, West of Skeena River, 
+Phase 1and Phase 2, plus East of Skeena River Phase 1 work -
+$3,500 
+$2,500
+$7,800 
+$5,000 
+$4,000 
+$1,500 
+$2,500 
+$18,000 
+$9,000 
+$12,000 
+$10,000 
+$80,800 
+$12,120 
+$92,920
+$792,982
+Casa Minerals Inc. – Pitman Projects
+Page 44 of 92
+16.0 REFERENCES
+Cooke, D. L., 1982, Assessment Report, Rock Geochemistry, Trenching and Chip Sampling on the 
+WoMo  Claims,  Carpenter  Creek  Area,  Omineca  Mining  Division,  B.  C.,  54°47'  N;  128°22'W, 
+assessment report #10,440, ARIS, Geol. Surv. Branch, Ministry of Energy, Mines and Petroleum 
+Resources
+Duffell, S. and Souther, J. G., (1964) Geology of Terrace Map-Area, British Columbia (103I E1/2), 
+Geol. Surv. Canada, Memoir 329
+Kruchkowski, E. R., 1980, Drill Report on the Pit IV Claim, Omineca M. D., B. C., report to E & B 
+Explorations  Inc.  filed  as  assessment  report  #  07993,  ARIS,  Geol.  Surv.  Branch,  Ministry  of 
+Energy, Mines and Petroleum Resources
+McKeown, M., Nelson, J. L. and Friedman, R (2008):  Newly discovered volcanic-hosted massive 
+sulphide  potential  within  Paleozoic  volcanic  rocks  of  the  Stikine  assemblage,  Terrace  area, 
+northwestern  British  Columbia  (NTS  103I/08);  in  Geological  Fieldwork  2007,  B.  C.  Ministry  of 
+Energy, Mines and Petroleum Resources, Paper 2008-1, pp. 103 - 116
+MINFILE,  2009,  MINFILE  BC  mineral  deposits  database;  BC  Ministry  of  Energy,  Mines  and 
+Petroleum Resources, accessible from computer search services
+Nelson, J. and Kennedy, R., 2007, Terrace Regional Mapping Project Year 2:  New Geological 
+Insights  and  Exploration  Targets  (NTS  103I/16S,  10W),  West-Central  British  Columbia,  entry  in 
+Geological  Fieldwork  2006,  Paper  2007-1,  Geol.  Surv.  Branch,  Ministry  of  Energy,  Mines  and 
+Petroleum Resources, British Columbia
+Nelson, J., Kyba, J, McKeown, M., and Angen, J., 2008, Terrace Regional Mapping Project Year 
+3:    Contributions  to  Stratigraphic,  Structural  and  Exploration  Concepts,  Zymoetz  River  to 
+Kitimat River, East-Central British Columbia (NTS 103I/08), entry in Geological Fieldwork 2007, 
+Paper  2008-1,  Geol.  Surv.  Branch,  Ministry  of  Energy,  Mines  and  Petroleum  Resources,  British 
+Columbia
+Shirvani,  Farshad,  2007,  Technical  Report  of  Structural  Analysis,  Pitman  Molybdenite  Project, 
+Omineca  Mining  Division,  Skeena  River  Area,  Northwestern  British  Columbia,  ARIS  #29151, 
+Geol. Surv. Branch, B.C. Ministry of Energy, Mines and Petroleum Resources
+Symonds, D. F., 1990, Geological Assessment Report on the Paddy-Mac Gold Property, Omineca 
+Mining Division, Carpenter Creek Area, Terrace, B. C. technical report for Aattari Gold Ltd., by 
+Burton Consulting Inc., ARIS No. 20504
+Casa Minerals Inc. – Pitman Projects
+Page 45 of 92
+17.0 CERTIFICATESOFAUTHORS
+17.1 GARRYPAYIE,P.Geo.
+3714 Raymond Street South
+Victoria, B. C., V8Z 4K1
+I, Garry Payie, P. Geo., do hereby certify that
+1.
+I am a consulting geologist and principal of Total Earth Science Services.
+I graduated in 1983 with a Bachelor of Science degree in Geological Sciences from the
+2. 
+University of British Columbia, Vancouver, British Columbia.
+I  am  a  geoscientist  member  in  good  standing  of  the  Association  of  Professional
+3. 
+Engineers and Geoscientists of British Columbia, member no. 19009.
+I  have  worked  as  a  geologist  for  more  than  25  years  since  my  graduation  from
+4. 
+university.
+I have read the definition of "qualified person" set out in National Instrument 43-101 
+5. 
+("NI 43-101") and hereby certify that by reason of my education, affiliation with a professional 
+association  (as  defined  in  NI  43-101)  and  past  relevant  work  experience,  I  fulfill  the 
+requirements to be a "qualified person" for the purposes of NI 43-101.
+6. 
+I am responsible jointly with Erik A. Ostensoe, P. Geo. for the preparation of all sections 
+of the Technical Report titled “TECHNICAL REPORT, PITMAN PROPERTY, SKEENA RIVER AREA, 
+OMINECA  MINING  DIVISION,  NORTHWESTERN  BRITISH  COLUMBIA,  CANADA”  dated  May  4, 
+2011 and revised May 4, 2011.  I examined parts of the Casa Minerals Inc. mineral tenures from 
+September 26 to 28, 2007 and from July 30 to 31, 2008.
+I  have  had  prior  involvement  with  parts  of  the  Terrace,  B.  C.  area  mineral  properties 
+7. 
+that are the subject of the Technical Report through previous claim ownership: at one time I 
+owned tenures that are now covered by parts of the present tenures.  I am at "arm’s length" 
+from Casa Minerals Inc.
+8. 
+I  am  not  aware  of  any  material  fact  or  material  change  with  respect  to  the  subject 
+matter  of  the  Technical  Report  that  is  not  reflected  in  the  Technical  Report,  the  omission  to 
+disclose which makes the Technical Report misleading.
+I  am  independent  of  the  issuer  applying  all  of  the  tests  of  section  1.5  of  National
+9. 
+Instrument 43-101.
+I have read National Instrument 43-101 and Form 43-101F1, and the Technical Report
+10. 
+has been prepared in compliance with that instrument and form.
+11. 
+I  consent  to  the  filing  of  the  Technical  Report  with  any  stock  exchange  and  other 
+regulatory authority and any publication by them for regulatory purposes, including electronic
+Casa Minerals Inc. – Pitman Projects
+Page 46 of 92
+publication  in  the  public  company  files  on  their  websites  accessible  by  the  public,  of  the 
+Technical Report.
+Dated this 4th day of May, 2011.
+Garry Payie, P. Geo.
+Casa Minerals Inc. – Pitman Projects
+Page 47 of 92
+publication  in  the  public  company  files  on  their  websites  accessible  by  the  public,  of  the 
+Technical Report.
+Dated this 4th day of May, 2011.
+Garry Payie, P. Geo.
+Metron Capital Corp.
+Page 46 of 92
+17.2 ERIKA.OSTENSOE,P.Geo.
+4306 West 3rd Avenue
+Vancouver, B.C., V6R 1M7.
+I, Erik A. Ostensoe, P. Geo., do hereby certify that:
+1.
+I am a consulting geologist.
+2. 
+I graduated with a Bachelor of Science degree in Honours Geology from the University 
+of British Columbia in 1960.  In addition, in 1966 I completed course requirements for a Master 
+of Science degree in Geology at Queen's University, Kingston, Ontario,
+3. 
+I  am  a  member  in  good  standing  of  the  Association  of  Professional  Engineers  and 
+Geoscientists  of  the  Province  of  British  Columbia,  member  no.  18,727,  and  of  the  Northwest 
+Territories and Nunavut Association of Professional Engineers and Geoscientists, licensee L1943.
+I have worked as a geologist for more than forty-five years since my graduation from
+4. 
+university.
+5. 
+I have read the definition of "qualified person" set out in National Instrument 43-101 
+("NI 43-101") and hereby certify that by reason of my education, affiliation with a professional 
+association  (as  defined  in  NI  43-101)  and  past  relevant  work  experience,  I  fulfill  the 
+requirements to be a "qualified person" for the purposes of NI 43-101.
+6. 
+I am responsible jointly with Garry Payie, P. Geo. for the preparation of all sections of 
+the  Technical  Report  titled  “TECHNICAL  REPORT,  PITMAN  PROPERTY,  SKEENA  RIVER  AREA, 
+OMINECA  MINING  DIVISION,  NORTHWESTERN  BRITISH  COLUMBIA,  CANADA”  dated  May  4, 
+2011  and  revised  May  4,  2011. 
+I  examined  parts  of  the  Casa  Minerals  Inc.  mineral  tenures 
+located east of Skeena River on July 25 and October 5, 2008 and parts of the mineral tenures 
+located west of Skeena River on October 6, 2008 and I worked on the WoMo prospect part of 
+the tenures in the period July 17 through 22, 2010.
+7. 
+I have not had prior involvement with the Terrace, B. C. area mineral properties that are 
+the  subject  of  the  Technical  Report  and  I  do  not  own  any  mineral  tenures  in  the  Omineca 
+Mining Division of British Columbia.  I am a Director and shareholder of Casa Minerals Inc. and 
+as such am not at arm’s length from that Company.  I was engaged by Metron Capital Corp. to 
+assist Garry Payie, P. Geo. in preparing the accompanying technical report and I will receive a 
+professional  fee  for  geological  services  in  accordance  with  mineral  exploration  industry 
+practices.
+I  am  not  aware  of  any  material  fact  or  material  change  with  respect  to  the  subject 
+8. 
+matter  of  the  Technical  Report  that  is  not  reflected  in  the  Technical  Report,  the  omission  to 
+disclose which makes the Technical Report misleading.
+I  am  not,  due  to being a  Director  of Casa Minerals  Inc.,  fully  independent of  Metron
+9. 
+Capital Corp. the issuer, applying all of the tests of section 1.5 of National Instrument 43-101
+Casa Minerals Inc. – Pitman Projects
+Page 48 of 92
+I have read National Instrument 43-101 and Form 43-101F1, and the Technical Report
+10. 
+has been prepared in compliance with that instrument and form.
+11. 
+I  consent  to  the  filing  of  the  Technical  Report  with  any  stock  exchange  and  other 
+regulatory authority and any publication by them for regulatory purposes, including electronic 
+publication  in  the  public  company  files  on  their  websites  accessible  by  the  public,  of  the 
+Technical Report.
+Dated this 4th day of May, 2011.
+Erik A. Ostensoe, P. Geo.
+Casa Minerals Inc. – Pitman Projects
+Page 49 of 92
+I have read National Instrument 43-101 and Form 43-101F1, and the Technical Report
+10. 
+has been prepared in compliance with that instrument and form.
+11. 
+I  consent  to  the  filing  of  the  Technical  Report  with  any  stock  exchange  and  other 
+regulatory authority and any publication by them for regulatory purposes, including electronic 
+publication  in  the  public  company  files  on  their  websites  accessible  by  the  public,  of  the 
+Technical Report.
+Dated this 4th day of May, 2011.
+Erik A. Ostensoe, P. Geo.
+Metron Capital Corp.
+Page 48 of 92
+APPENDIX 1. GEOLOGICAL SURVEY BRANCH BEDROCK SAMPLING DATA
+(NORTH)(SOUTH)
+Casa Minerals Inc. – Pitman Projects
+Page 50 of 92
+ß
+FIDDLER CREEK
+#
+PATMORE
+540000
+Fiddler  Creek
+#
+BRENTFORD
+Gosling Creek
+C
+reek
+Knauss
+ß
+FIDDLER
+Oliver Creek
+Skeena River
+550000
+362.7, 111111
+XW
+#
+TWO GOAT
+L
+it
+tle
+O
+l
+i
+v
+e
+r
+C
+r
+e
+e
+k
+222.6, 12966
+166.5, 111111
+XWXW
+121.8, 20013
+XW
+XW
+XW
+21.1, 4375
+XW
+1, 3290
+65, 111111
+.
+R
+560000
+ed Cany
+o
+n
+C
+reek
+0.7, 455
+37, 2086
+XWXW
+0
+0
+0
+0
+7
+0
+6
+0
+0
+0
+0
+6
+0
+6
+WOMO
+#
+XW
+5.2, 5899
+XWXWXW
+XWXW
+#
+GOLD DOME
+Carpent
+e r  Creek
+#
+LYNDA
+#
+PADDY MAC
+1.2, 11162
+#
+HELEN
+Sand Creek
+ß
+PITMAN
+H a rdscrabble Creek
+0.7, 10983
+#
+XW XW
+SKEENA RIVER
+Legate Creek
+ß
+GROTTO
+ß
+#
+POES
+DIORITE
+#
+RIDGE
+#
+A - B
+#
+GOLDEN CACHE
+M
+T
+a
+n
+u
+m
+n
+i
+x
+b
+l
+i
+n
+g
+#
+ALGOMA
+Ste. Croix Creek
+#
+COPPER DOLLAR
+C
+r
+e
+e
+r
+#
+BRADLE BANE
+C
+k
+e
+e
+k
+#
+ST. ELMO
+#
+SHAN
+Shannon Creek
+#
+SAK
+DIADEM
+#
+Skeena River
+ß
+MAC SHANNON
+868.4, 111111
+XW
+1.1, 111111
+XW
+256.1, 161000
+227.3, 166000
+XWXW
+12.3, 270000
+XW
+Frisco Creek
+364.3, 10586
+185.5, 7714
+XWXW
+ß
+FRISCO
+#
+LINDY
+Legate Creek
+570000
+Legend
+#
+ZYMO
+XW
+BC Geological Survey 
+Bed Rock Samples Gold (ppb), 
+Silver (ppb); 111111 stands for 
+values higher than 100,000 ppb
+Minfile Status
+!
+ß
+ß
+ß
+#
+#
+Anomaly
+Zymoetz River
+Developed Prospect
+Past Producer
+Producer
+Prospect
+Showing
+0
+0
+0
+0
+7
+0
+6
+Zymoetz River
+#
+GSC 1971 - 20
+0
+0
+0
+0
+6
+0
+6
+#
+GSC 1971 - 19
+278.2, 35312
+#
+#
+TOULON
+MADDEN
+#
+UNITED ST. CROIX
+#
+ZONA MAY
+#
+REGINA
+#
+HIDDEN
+#
+M & M
+#
+INDEPENDENT
+#
+SHENANDOAH
+#
+IMPERIAL
+ß
+M & K
+#
+LITTLE WONDER
+4558.7, 28728
+Low r
+XW
+i e C r eek
+#
+POOR BOY
+XWXW
+1258.7, 28219
+#
+APRIL AND MAY
+#
+USK
+#
+EMMA (L.71)
+#
+JACKIE
+#
+GOLD STAR
+ß
+1
+2
+6, 281
+CORDILLERA
+XW
+5
+0
+m
+#
+FOUR ACES (L.166)
+#
+#
+BORNITE KING
+CONTINENTAL
+SILVER MITTS
+#
+#
+GALENA
+Chim
+de
+m
+ash Creek
+#
+HALLIDAY
+Title:
+#
+CALENDAR
+#
+INDEPENDENCE
+#
+BULLION
+ß
+LUCKY LUKE (L.7424)
+#
+#
+BLOW
+#
+OLD HICKORY
+9253, 53877
+Singlehurst Creek
+XW
+Kleanza Creek
+540000
+#
+#
+GOLDEN CROWN
+KLEANZA CREEK
+m
+1000
+#
+SINGLEHURST
+0
+1.25
+Kilometers
+BANNER HOMESTAKE
+5
+#
+2.5
+550000
+#
+COFFEE POT
+SILVER BASIN
+North Kleanza Creek
+#
+7.5
+10
+#
+SILVER CROWN
+Scale:
+Date:
+As Shown
+May, 2011
+560000
+CASA MINERALS INC.
+PITMAN PROPERTY
+Regional BC Geological Survey
+Bed Rock Sampling Map (North)
+Au (ppb), Ag (ppb)
+Treasu r e  C reek
+Design:
+JP
+Drawing:
+Terracad Geoscience
+Services Ltd.
+Black berry  C ree k
+2 - 4 - 1
+Miligit  C ree k
+NAD 83/Zone 9
+570000
+Figure:
+Datum:
+570000
+#
+GSC 1971 - 18
+580000
+Legend
+#
+GSC 1971 - 19
+XW
+BRADLE BANE
+#
+.
+S
+550000
+te. 
+Croix Creek
+#
+INDEPENDENT
+#
+SHENANDOAH
+560000
+364.3, 10586
+185.5, 7714
+XWXW
+ß
+FRISCO
+#
+LINDY
+#
+IMPERIAL
+ß
+M & K
+#
+MADDEN
+#
+UNITED ST. CROIX
+#
+ZONA MAY
+#
+#
+M & M
+#
+SILVER MITTS
+#
+GALENA
+HALLIDAY
+#
+HIDDEN
+REGINA
+#
+Legate Creek
+#
+CONTINENTAL
+Chimdemash Creek
+#
+CALENDAR
+#
+INDEPENDENCE
+#
+BULLION
+#
+SINGLEHURST
+#
+BANNER HOMESTAKE
+0
+0
+0
+0
+5
+0
+6
+#
+Kendal Creek
+BIG BOY
+#
+FIVE - MILE CREEK HYDRAULIC
+#
+#
+ANNETTE 2
+ANNETTE
+#
+KINO
+Kleanza Creek
+ß
+ALVIJA
+M
+i
+k
+e
+C
+r
+e
+e
+k
+K
+e
+a
+p
+C
+r
+e
+e
+26.5, 2232000
+XW
+k
+Simila Lake
+k
+e
+e
+O.K. Cr
+0
+0
+0
+0
+4
+0
+6
+#
+COFFEE POT
+#
+SILVER BASIN
+North Kleanza Creek
+#
+SILVER CROWN
+Kleanza Lake
+South Kleanza Creek
+AVON
+#
+Call Creek
+P
+e
+e
+rless
+#
+PEERLESS
+C
+ree
+k
+Kipulta Creek
+6.6, 19000
+XW
+e k
+Salmon Run Cr e
+Black be rry  C reek
+Treasu r e  C reek
+Zymoetz River
+M iligi t   C r e e k
+Nogold Creek
+e k
+e
+r   C r
+a
+y   B e
+n
+M a
+#
+COPPER KING
+M attock   C ree k
+#
+WELLS
+#
+MONTANA
+BC Geological Survey 
+SERB CREEK
+Bed Rock Samples Gold (ppb),
+Silver (ppb); 111111 stands for 
+values higher than 100,000 ppb
+Minfile Status
+ß
+!
+ß
+ß
+ß
+#
+#
+Many Bear Creek
+Anomaly
+Developed Prospect
+Milk Creek
+Past Producer
+0
+0
+0
+0
+5
+0
+6
+Producer
+Prospect
+Showing
+#
+ALLIE
+#
+LIMONITE
+Tauw Lake
+ß
+LIMONITE CREEK
+C r e e k
+n i
+t
+e
+L i m o
+Kilometers
+0
+0
+0
+0
+4
+0
+6
+reek
+McNeil C
+k
+e
+e
+r
+C
+e
+l
+l
+e
+n
+a
+d
+r
+a
+D
+#
+PORPH
+ß
+DARDANELLE
+#
+DARDANELLE
+Zymoetz River
+#
+CALONA
+Mattson Cree
+k
+#
+CHICKEN
+ß
+KELLY CREEK
+#
+EAST SIDE
+#
+GOAT BLUFF
+#
+KEELER
+ß
+SNOW
+#
+DF
+H
+a
+r
+v
+e
+y
+C
+r
+e
+e
+k
+Zymoetz River
+60.5, 4624
+XW
+#
+T
+0.5, 14200
+XW
+295.5, 15847
+XW
+Title:
+Scale:
+Date:
+#
+MT. ATTREE
+550000
+BILL
+#
+560000
+Clore River
+0
+1.25
+2.5
+5
+7.5
+10
+CASA MINERALS INC.
+PITMAN PROPERTY
+Ni la h   C reek
+Regional BC Geological Survey
+Bed Rock Sampling Map (South)
+Au (ppb), Ag (ppb)
+As Shown
+May, 2011
+570000
+Design:
+JP
+Drawing:
+Kitnayakw
+Terracad Geoscience
+Services Ltd.
+Figure:
+Datum:
+2 - 4 - 2
+NAD 83/Zone 9
+a
+ 
+R
+iv
+e
+r
+580000
+47.94, 248.68
+")")
+")
+")
+11111, 0.18
+")
+5257.86, 5.21
+")
+R
+560000
+ed Cany
+o
+n
+C
+reek
+.
+")")
+352.3, 6.89
+11111, 18.82
+")
+11111, 0.4
+")
+3509.05, 0.85
+570000
+Legend
+#
+ZYMO
+")
+BC Geological Survey 
+Bed Rock Samples Copper (ppm), 
+Molybdenum (ppm); 11111 stands 
+for values grater than 10,000 ppm
+Minfile Status
+!
+ß
+ß
+ß
+#
+#
+Anomaly
+Developed Prospect
+Zymoetz River
+Past Producer
+Producer
+Prospect
+Showing
+0
+0
+0
+0
+7
+0
+6
+45070, 8.27
+")")
+42800, 0.7
+")
+13410, 0.35
+Legate Creek
+Frisco Creek
+32000, 13.25
+")")
+32870, 13
+ß
+FRISCO
+#
+LINDY
+Zymoetz River
+#
+GSC 1971 - 20
+0
+0
+0
+0
+6
+0
+6
+GSC 1971 - 19
+#
+ß
+FIDDLER CREEK
+540000
+Fiddler  Creek
+#
+PATMORE
+#
+C
+reek
+Knauss
+ß
+FIDDLER
+BRENTFORD
+Gosling Creek
+WOMO
+")
+614.57, 424.83
+#
+Oliver Creek
+Skeena River
+550000
+")
+11111, 2.38
+#
+TWO GOAT
+L
+it
+tle
+O
+l
+i
+v
+e
+r
+C
+r
+e
+e
+k
+33.57, 1.61
+")")")
+")")
+#
+29.05, 215.07
+59.05, 5.4
+GOLD DOME
+#
+LYNDA
+#
+PADDY MAC
+#
+HELEN
+Sand Creek
+ß
+PITMAN
+") ")
+C
+a
+r
+p
+e
+n
+t
+e
+r
+C
+r
+e
+e
+k
+890.26, 0.68
+#
+SKEENA RIVER
+Legate Creek
+0
+0
+0
+0
+7
+0
+6
+H a rdscrabble Creek
+ß
+GROTTO
+ß
+POES
+#
+SHAN
+#
+A - B
+#
+RIDGE
+#
+0
+0
+0
+0
+6
+0
+6
+Shannon Creek
+#
+GOLDEN CACHE
+DIORITE
+#
+ALGOMA
+Ste. Croix Creek
+#
+COPPER DOLLAR
+M
+T
+a
+n
+u
+m
+n
+i
+x
+b
+l
+i
+n
+g
+C
+r
+e
+e
+r
+#
+C
+BRADLE BANE
+#
+SAK
+#
+DIADEM
+Skeena River
+MAC SHANNON
+ß
+k
+e
+e
+k
+#
+ST. ELMO
+#
+LITTLE WONDER
+Low r
+7895.49, 29.77
+")
+i e C r eek
+#
+JACKIE
+#
+POOR BOY
+")")
+831.44, 167.86
+USK
+#
+#
+APRIL AND MAY
+#
+#
+#
+TOULON
+MADDEN
+59.05, 5.4
+#
+GOLD STAR
+ß
+ß
+CORDILLERA
+")
+33.57, 1.61
+LUCKY LUKE (L.7424)
+EMMA (L.71)
+#
+FOUR ACES (L.166)
+BORNITE KING
+#
+")
+#
+#
+BLOW
+#
+OLD HICKORY
+Singlehurst Creek
+29.05, 215.07
+Kleanza Creek
+540000
+#
+GOLDEN CROWN
+KLEANZA CREEK
+#
+#
+CONTINENTAL
+#
+SINGLEHURST
+Chim
+de
+m
+ash Creek
+#
+INDEPENDENT
+#
+SHENANDOAH
+#
+UNITED ST. CROIX
+#
+IMPERIAL
+ß
+M & K
+#
+SILVER MITTS
+#
+GALENA
+#
+HALLIDAY
+#
+ZONA MAY
+#
+REGINA
+#
+HIDDEN
+#
+M & M
+#
+CALENDAR
+#
+INDEPENDENCE
+#
+BULLION
+Kilometers
+#
+BANNER HOMESTAKE
+#
+COFFEE POT
+#
+SILVER BASIN
+North Kleanza Creek
+Title:
+Scale:
+Date:
+0
+1.25
+2.5
+5
+7.5
+550000
+10
+#
+SILVER CROWN
+560000
+CASA MINERALS INC.
+PITMAN PROPERTY
+Regional BC Geological Survey
+Bed Rock Sampling Map (North)
+Treasu r e  C reek
+Cu (ppm), Mo (ppm)
+As Shown
+May, 2011
+Design:
+JP
+Drawing:
+Terracad Geoscience
+Services Ltd.
+Figure:
+Datum:
+Black berry  C ree k
+2 - 4 - 3
+Miligit  C ree k
+NAD 83/Zone 9
+570000
+32000, 13.25
+560000
+")")
+32870, 13
+ß
+FRISCO
+#
+LINDY
+570000
+#
+GSC 1971 - 18
+580000
+Legend
+#
+IMPERIAL
+ß
+M & K
+#
+GSC 1971 - 19
+")
+ß
+BC Geological Survey 
+SERB CREEK
+Bed Rock Samples Copper (ppm),
+Molybdenum (ppm); 11111 stands
+for values grater than 10,000 ppm
+Minfile Status
+! Anomaly
+ß Developed Prospect
+ß Past Producer
+ß Producer
+Prospect
+#
+Showing
+#
+Milk Creek
+0
+0
+0
+0
+5
+0
+6
+Many Bear Creek
+#
+ALLIE
+#
+LIMONITE
+Tauw Lake
+ß
+LIMONITE CREEK
+C r e e k
+n i
+t
+e
+L i m o
+Kilometers
+0
+0
+0
+0
+4
+0
+6
+Black be rry  C reek
+Treasu r e  C reek
+Zymoetz River
+M iligi t   C r e e k
+Nogold Creek
+e k
+e
+r   C r
+a
+y   B e
+n
+M a
+#
+COPPER KING
+M attock   C ree k
+#
+WELLS
+#
+MONTANA
+#
+KEELER
+ß
+SNOW
+#
+DF
+H
+a
+r
+v
+e
+y
+C
+r
+e
+e
+k
+Zymoetz River
+#
+.
+#
+#
+TOULON
+MADDEN
+S
+550000
+te. 
+Croix Creek
+#
+INDEPENDENT
+#
+SHENANDOAH
+#
+SILVER MITTS
+#
+GALENA
+HALLIDAY
+#
+#
+UNITED ST. CROIX
+#
+ZONA MAY
+#
+#
+M & M
+HIDDEN
+REGINA
+#
+Legate Creek
+#
+CONTINENTAL
+Chimdemash Creek
+#
+CALENDAR
+#
+INDEPENDENCE
+#
+BULLION
+#
+SINGLEHURST
+#
+BANNER HOMESTAKE
+0
+0
+0
+0
+5
+0
+6
+#
+Kendal Creek
+BIG BOY
+#
+FIVE - MILE CREEK HYDRAULIC
+#
+#
+ANNETTE 2
+ANNETTE
+#
+KINO
+Kleanza Creek
+ß
+ALVIJA
+M
+i
+k
+e
+C
+r
+e
+e
+k
+K
+e
+a
+")
+p Cre
+e
+11230, 5.79
+#
+COFFEE POT
+#
+SILVER BASIN
+North Kleanza Creek
+#
+SILVER CROWN
+Kleanza Lake
+South Kleanza Creek
+AVON
+#
+Call Creek
+P
+e
+e
+rless
+#
+PEERLESS
+C
+ree
+k
+Simila Lake
+k
+e
+e
+O.K. Cr
+0
+0
+0
+0
+4
+0
+6
+Skeena River
+k
+Kipulta Creek
+")
+33200, 1.45
+e k
+Salmon Run Cr e
+reek
+McNeil C
+k
+e
+e
+r
+C
+e
+l
+l
+e
+n
+a
+d
+r
+a
+D
+#
+PORPH
+ß
+DARDANELLE
+#
+DARDANELLE
+Zymoetz River
+#
+CALONA
+Mattson Cree
+k
+#
+CHICKEN
+ß
+KELLY CREEK
+#
+EAST SIDE
+#
+GOAT BLUFF
+")
+60.56, 9.61
+#
+T
+13500, 0.38
+")
+#
+MT. ATTREE
+550000
+#
+BILL
+#
+560000
+3801, 0.43
+")
+Clore River
+e  C r e e
+p li n
+a
+T r
+k
+0
+1.25
+2.5
+5
+7.5
+10
+CASA MINERALS INC.
+PITMAN PROPERTY
+Ni la h   C r eek
+Regional BC Geological Survey
+Bed Rock Sampling Map (South)
+Cu (ppm), Mo (ppm)
+Design:
+JP
+Kitn
+Drawing:
+aya
+Terracad Geoscience
+k
+w
+Services Ltd.
+Figure:
+Datum:
+a River
+2 - 4 - 4
+NAD 83/Zone 9
+580000
+Title:
+Scale:
+Date:
+k
+e
+e
+r
+C
+ 
+d
+r
+a
+w
+e
+t
+S
+As Shown
+May, 2011
+570000
+ß
+FIDDLER CREEK
+Fiddler  Creek
+#
+PATMORE
+#
+C
+reek
+Knauss
+ß
+FIDDLER
+540000
+550000
+BRENTFORD
+Gosling Creek
+Oliver Creek
+Skeena River
+!(
+3.07, 83.2
+11.03, 57.4
+#
+TWO GOAT
+L
+it
+tl
+e
+O
+l
+i
+v
+e
+r
+C
+r
+e
+e
+k
+0
+0
+0
+0
+7
+0
+6
+WOMO
+!(
+16.83, 36.3
+#
+4914.19, 11.9
+!(!(!(
+63.32, 73.6
+!(!(
+#
+GOLD DOME
+#
+LYNDA
+#
+PADDY MAC
+#
+HELEN
+Sand Creek
+ß
+PITMAN
+!( !(
+8.92, 108.8
+#
+SKEENA RIVER
+Legate Creek
+C
+a
+r
+p
+e
+n
+t
+e
+r
+C
+r
+e
+e
+k
+560000
+Red C
+anyon Creek
+!(!(
+5.24, 46.9
+11.33, 19.3
+!(!(
+3, 70
+!(
+!(
+10.35, 6.2
+!(
+!(
+!(
+114.38, 171.9
+!(
+9.55, 40.1
+Legend
+ZYMO
+#
+570000
+!(
+BC Geological Survey 
+Bed Rock Samples
+Lead (ppm), Zinc (ppm)
+Minfile Status
+! Anomaly
+ß Developed Prospect
+ß Past Producer
+Zymoetz River
+ß Producer
+Prospect
+#
+Showing
+#
+0
+0
+0
+0
+7
+0
+6
+H a r dscrabble Creek
+ß
+GROTTO
+ß
+#
+GOLDEN CACHE
+DIORITE
+POES
+#
+SHAN
+#
+A - B
+#
+RIDGE
+#
+0
+0
+0
+0
+6
+0
+6
+Shannon Creek
+#
+SAK
+#
+DIADEM
+Skeena River
+MAC SHANNON
+ß
+r
+e
+e
+k
+#
+ST. ELMO
+#
+LITTLE WONDER
+Lowr i e C reek
+2536.26, 851.1
+!(
+9976.23, 44.3
+#
+JACKIE
+#
+POOR BOY
+#
+#
+TOULON
+MADDEN
+!(!(
+217.02, 25.4
+T
+u
+m
+b
+l
+i
+n
+BRADLE BANE
+g
+#
+C
+#
+ALGOMA
+Ste. Croix Creek
+#
+COPPER DOLLAR
+Legate Creek
+#
+INDEPENDENT
+#
+SHENANDOAH
+#
+UNITED ST. CROIX
+#
+IMPERIAL
+ß
+M & K
+#
+SILVER MITTS
+#
+GALENA
+#
+HALLIDAY
+#
+ZONA MAY
+#
+REGINA
+#
+HIDDEN
+#
+M & M
+30.56, 129.2
+!(!(
+30.87, 130.8
+!(
+7.24, 22.9
+Frisco Creek
+ß
+FRISCO
+!(!(
+5000, 1677.3
+#
+LINDY
+#
+APRIL AND MAY
+#
+#
+USK
+EMMA (L.71)
+Chim
+de
+mash Creek
+#
+CONTINENTAL
+#
+FOUR ACES (L.166)
+BORNITE KING
+#
+#
+GOLD STAR
+ß
+ß
+CORDILLERA
+!(63.32, 73.6
+LUCKY LUKE (L.7424)
+#
+#
+BLOW
+#
+OLD HICKORY
+Singlehurst Creek
+!(
+4914.19, 11.9
+Kleanza Creek
+540000
+#
+#
+GOLDEN CROWN
+KLEANZA CREEK
+#
+SINGLEHURST
+0
+1.25
+2.5
+Kilometers
+#
+BANNER HOMESTAKE
+5
+550000
+#
+CALENDAR
+#
+INDEPENDENCE
+#
+BULLION
+#
+COFFEE POT
+#
+SILVER BASIN
+North Kleanza Creek
+7.5
+10
+#
+SILVER CROWN
+Title:
+Scale:
+Date:
+As Shown
+May, 2011
+Design:
+Drawing:
+JP
+Terracad Geoscience
+Services Ltd.
+Figure:
+Datum:
+C ree k
+2 - 4 - 5
+M i
+NAD 83/Zone 9
+g
+t
+l
+i
+i
+570000
+560000
+4400, 1640
+Zymoetz River
+#
+GSC 1971 - 20
+0
+0
+0
+0
+6
+0
+6
+GSC 1971 - 19
+#
+CASA MINERALS INC.
+PITMAN PROPERTY
+Regional BC Geological Survey
+Bed Rock Sampling Map (North)
+Treasure Creek
+Pb (ppm), Zn (ppm)
+Blackberry Creek
+#
+BRADLE BANE
+550000
+S
+t
+e.
+C
+roix Creek
+#
+INDEPENDENT
+#
+SHENANDOAH
+560000
+5000, 1677.3
+!(!(
+4400, 1640
+ß
+FRISCO
+#
+LINDY
+#
+IMPERIAL
+ß
+M & K
+#
+#
+TOULON
+MADDEN
+#
+UNITED ST. CROIX
+#
+ZONA MAY
+HALLIDAY
+#
+#
+SILVER MITTS
+#
+GALENA
+#
+M & M
+#
+REGINA
+#
+HIDDEN
+Legate Creek
+#
+CALENDAR
+#
+INDEPENDENCE
+#
+BULLION
+#
+COFFEE POT
+#
+SILVER BASIN
+North Kleanza Creek
+#
+SILVER CROWN
+570000
+#
+GSC 1971 - 19
+Black be rry  C reek
+Treasu r e  C reek
+Zymoetz River
+M iligi t   C r e e k
+580000
+Legend
+#
+GSC 1971 - 18
+!(
+ß
+SERB CREEK
+BC Geological Survey 
+Bed Rock Samples
+Lead (ppm), Zinc (ppm)
+Minfile Status
+! Anomaly
+ß Developed Prospect
+ß Past Producer
+ß Producer
+Prospect
+#
+Showing
+#
+Milk Creek
+0
+0
+0
+0
+5
+0
+6
+Many Bear Creek
+#
+ALLIE
+#
+LIMONITE
+Tauw Lake
+ß
+LIMONITE CREEK
+C r e e k
+n i
+t
+e
+L i m o
+Kilometers
+0
+0
+0
+0
+4
+0
+6
+#
+CONTINENTAL
+Chimdemash Creek
+#
+SINGLEHURST
+#
+BANNER HOMESTAKE
+0
+0
+0
+0
+5
+0
+6
+#
+Kendal Creek
+BIG BOY
+#
+FIVE - MILE CREEK HYDRAULIC
+#
+#
+ANNETTE 2
+ANNETTE
+#
+KINO
+Kleanza Creek
+ß
+ALVIJA
+M
+i
+k
+e
+C
+r
+e
+e
+k
+K
+e
+a
+!(
+p Cre
+e
+12800, 109400
+Simila Lake
+k
+e
+e
+O.K. Cr
+0
+0
+0
+0
+4
+0
+6
+Skeena River
+Kleanza Lake
+South Kleanza Creek
+AVON
+#
+Call Creek
+P
+e
+e
+rless
+#
+PEERLESS
+C
+ree
+k
+Nogold Creek
+e k
+e
+r   C r
+a
+y   B e
+n
+M a
+#
+COPPER KING
+M attock   C ree k
+#
+WELLS
+#
+MONTANA
+k
+Kipulta Creek
+!(
+7.25, 38.7
+e k
+Salmon Run Cr e
+reek
+McNeil C
+k
+e
+e
+r
+C
+e
+l
+l
+e
+n
+a
+d
+r
+a
+D
+#
+PORPH
+ß
+DARDANELLE
+#
+DARDANELLE
+Zymoetz River
+#
+KEELER
+ß
+SNOW
+#
+DF
+H
+a
+r
+v
+e
+y
+C
+r
+e
+e
+k
+Zymoetz River
+M i l e  C ree k
+#
+MT. ATTREE
+Eig h t
+550000
+#
+CALONA
+Mattson Cree
+k
+#
+CHICKEN
+ß
+KELLY CREEK
+#
+EAST SIDE
+#
+GOAT BLUFF
+!(
+338.3, 36
+#
+T
+!(
+4.43, 298.3
+!(
+9.24, 295.3
+560000
+Clore River
+0
+1.25
+2.5
+5
+7.5
+10
+Kitnayakwa River
+CASA MINERALS INC.
+PITMAN PROPERTY
+Ni la h   C r eek
+Title:
+Scale:
+Date:
+Regional BC Geological Survey
+Bed Rock Sampling Map (South)
+Pb (ppm), Zn (ppm)
+As Shown
+May, 2011
+570000
+Design:
+Drawing:
+JP
+Terracad Geoscience
+Services Ltd.
+Figure:
+Datum:
+2 - 4 - 6
+NAD 83/Zone 9
+580000
+HistoricGeochemicalData(ARISReports)
+Casa Minerals Inc. – Pitman Projects
+Page 57 of 92
+538000
+540000
+542000
+WOMO
+#
+. Legend
+544000
+XY Rock
+Soil
+Stream Sediment
+"
+!(
+7480
+XY
+56
+250158
+XY
+XYXY
+159
+1450
+#
+XY
+XY
+GOLD DOME
+0
+0
+0
+0
+7
+0
+6
+Minfile Status
+! Anomaly
+ß Developed Prospect
+ß Past Producer
+ß Producer
+# Prospect
+# Showing
+10
+346952414
+3691
+!( !( !( !( !( !( !( !( !( !( !( !( !( !(
+3
+XY
+Carpenter C r e e k
+8
+1
+!(!(!(!(!(
+15
+10
+3
+0
+0
+0
+0
+7
+0
+6
+0
+0
+0
+8
+6
+0
+6
+0
+0
+0
+6
+6
+0
+6
+Fig. 2-4-8
+PADDY MAC
+31.1
+3110
+155.539186
+19904
+133730
+73085
+XYXYXYXYXYXYXYXYXYXYXYXYXYXYXYXYXYXYXY XYXYXY XYXYXY XY
+31.1
+1244
+124.4
+839.7
+62.25909
+279.9
+124.4
+497.6
+342.1
+155.5
+>1000028767.5
+622
+746.4
+338990
+684.2
+#
+2985.6
+15705.5
+2674.6
+908 715
+>10000
+XYXYXYXY
+10
+XY
+8
+XY
+10
+XY
+9
+!(
+3
+!(
+8
+!(
+3
+!(
+8
+11
+2
+#
+!(
+XY
+!(
+50
+101
+XYXY
+HELEN
+7480
+XY
+0
+50
+100
+0
+0
+0
+4
+6
+0
+6
+158
+56
+250
+XY
+XYXY
+1450
+159
+XY
+XY
+#
+200
+Meters
+Sand Creek
+15
+1 2 4 1 3 2 3 5 3 1 7
+!(!(!(!(!(!(!(!(!(!(!(!(
+15
+5
+XYXY
+0
+0
+0
+8
+6
+0
+6
+0
+0
+0
+6
+6
+0
+6
+0
+0
+0
+4
+6
+0
+6
+14
+XY
+71
+3230
+XY XYXY
+!(
+49 1055 14 47
+!(
+!(
+!(
+!(
+1 5
+!(
+!(
+1 1 7 3
+!(
+!(
+!(!(
+ß
+XY
+PITMAN
+2121 12
+XY
+2
+1
+!(
+!(
+XY
+3
+!(
+1
+!(
+4
+!(
+5
+!(
+CASA MINERALS INC.
+PITMAN PROPERTY
+0
+250
+500
+1,000
+1,500
+2,000
+538000
+Hardscrabble Cree k
+Meters
+540000
+Title:
+Scale:
+Date:
+ß
+Historical Geochemical Data
+Gold (ppb)
+As Shown
+May, 2011
+542000
+Design:
+Drawing:
+JP
+Terracad Geoscience
+Services Ltd.
+Figure:
+Datum:
+Skeena River
+2 - 4 - 7
+NAD 83/Zone 9
+544000
+.
+539600
+539800
+540000
+1250 m
+PADDY MAC
+#
+0
+0
+4
+7
+6
+0
+6
+578026
+>10000
+XY
+908
+>10000
+XYXY
+715
+XY
+Legend
+Pitman_HistGeochem
+XY Rock
+Soil
+Stream Sediment
+"
+!(
+3110
+XY
+133730
+XY
+19904
+39186
+XYXY
+73085
+XY
+31.1
+XY
+31.1
+XY
+124.4
+155.5
+XY
+62.2
+497.6
+28767.5
+622
+746.4
+684.2
+XYXYXYXYXYXYXYXYXYXYXY XY XYXYXYXYXYXY
+839.7
+342.1
+1244
+5909
+155.5
+124.4
+279.9
+338990
+2674.6
+2985.6
+15705.5
+Minfile Status
+! Anomaly
+ß Developed Prospect
+ß Past Producer
+ß Producer
+# Prospect
+# Showing
+0
+0
+2
+7
+6
+0
+6
+0
+25
+50
+100
+Meters
+150
+200
+539600
+539800
+CASA MINERALS INC.
+PITMAN PROPERTY
+Title:
+Historical Geochemical Data
+Paddy Mac Area - Gold (ppb)
+Scale:
+Date:
+As Shown
+May, 2011
+Design:
+Drawing:
+JP
+Terracad Geoscience
+Services Ltd.
+540000
+Figure:
+Datum:
+2 - 4 - 8
+NAD 83/Zone 9
+0
+0
+4
+7
+6
+0
+6
+0
+0
+2
+7
+6
+0
+6
+.
+0
+0
+0
+0
+7
+0
+6
+0
+0
+5
+7
+6
+0
+6
+24600
+XY
+4400
+5300
+XYXY
+XY
+400
+GOLD DOME
+14600
+#
+XY
+XY
+4,600
+Fig 2-4-10
+1244
+PADDY MAC
+42300
+#
+XYXYXYXY
+4600
+144000
+12440
+104496
+100142
+72152
+75262
+37321866
+XYXYXYXYXYXYXYXYXYXYXYXYXYXYXYXYXYXYXY XYXYXY XYXYXY XY
+2488
+14306
+2488
+622622622
+3732
+4976
+104496
+14928
+4354
+6842
+230140
+6220
+3732
+46650
+128132
+622
+45100
+540000
+542500
+Legend
+XY Rock
+Soil
+Stream Sediment
+"
+!(
+0
+0
+0
+0
+7
+0
+6
+Minfile Status
+! Anomaly
+ß Developed Prospect
+ß Past Producer
+ß Producer
+# Prospect
+# Showing
+100
+100
+200
+!( !( !( !( !( !( !( !( !( !( !( !( !( !(
+800
+500
+100
+100
+100
+100
+400
+100
+100
+100
+200
+100
+XY
+WOMO
+#
+100 600 100
+100
+!(!(!(!(!(
+100
+1900
+XY
+Carpenter C r e e k
+2100
+XY
+400
+XY
+100
+!(
+100
+300
+!(
+!(
+100
+!(
+100
+5100
+100
+#
+!(
+XY
+!(
+XYXY
+6500 4800
+HELEN
+0
+0
+5
+7
+6
+0
+6
+0
+0
+0
+5
+6
+0
+6
+2700
+XY
+1000
+XY XYXY
+700
+700
+ß
+3100
+600
+XY
+PITMAN
+3100
+XY
+XY
+100
+100 100
+!(
+!(
+100
+!(
+!(
+100
+!(
+!(
+200 100 700
+!(!(
+100
+!(
+100
+!(
+0
+0
+0
+5
+6
+0
+6
+24600
+XY
+Sand Creek
+900 100 100
+!(!(!(!(!(!(!(!(!(!(!(!(
+200
+1100 1100
+100 100 200
+100
+100
+100
+100 100
+!(
+!(
+!(
+100
+100 100
+!(
+!(
+100 100
+!(
+!(
+400 5300
+XY
+XYXY
+4400
+4,600
+14600
+#
+XY
+XY
+0
+50
+100
+200
+Meters
+0
+250
+500
+1,000
+1,500
+2,000
+Meters
+Hardscr a bble Cree k
+540000
+0
+0
+5
+2
+6
+0
+6
+1000 1500
+XYXY
+Title:
+Scale:
+Date:
+GROTTO
+ß
+CASA MINERALS INC.
+PITMAN PROPERTY
+Historical Geochemical Data
+Silver (ppb)
+As Shown
+May, 2011
+Design:
+JP
+Drawing:
+542500
+Terracad Geoscience
+Services Ltd.
+Skeena River
+Figure:
+Datum:
+2 - 4 - 9
+NAD 83/Zone 9
+0
+0
+5
+2
+6
+0
+6
+.
+539600
+539800
+540000
+12440
+XY
+72152
+XY
+75262
+XY
+100142
+XYXY
+104496
+1244
+XY
+1866
+XY
+2488
+6842
+622
+6220
+3732
+XYXYXYXYXYXYXYXYXYXYXY XY XYXYXYXYXYXY
+622
+3732
+622
+46650
+128132
+104496
+4354
+14928
+230140
+2488
+14306
+3732
+XY
+622
+1250 m
+4976
+42300
+XY
+PADDY MAC
+#
+0
+0
+4
+7
+6
+0
+6
+578026
+45100
+XY
+4600
+XYXY
+144000
+Legend
+Sample Type
+XY Rock
+Soil
+Stream Sediment
+"
+!(
+Minfile Status
+! Anomaly
+ß Developed Prospect
+ß Past Producer
+ß Producer
+# Prospect
+# Showing
+0
+0
+2
+7
+6
+0
+6
+0
+25
+50
+100
+Meters
+150
+200
+539600
+539800
+0
+0
+4
+7
+6
+0
+6
+0
+0
+2
+7
+6
+0
+6
+CASA MINERALS INC.
+PITMAN PROPERTY
+Title:
+Historical Geochemical Data
+Paddy Mac Area - Silver (ppb)
+Scale:
+Date:
+As Shown
+May, 2011
+Design:
+Drawing:
+JP
+Terracad Geoscience
+Services Ltd.
+540000
+Figure:
+Datum:
+2 - 4 - 10
+NAD 83/Zone 9
+538000
+.
+540000
+542000
+544000
+2203
+XY
+2
+XYXY
+XY
+217
+30
+22
+GOLD DOME
+#
+XY
+XY
+272
+Fig. 2-4-12
+PADDY MAC
+3219
+#
+XYXYXYXY
+267
+6322
+100
+10004600
+100 800
+700100
+XYXYXYXYXYXYXYXYXYXYXYXYXYXYXYXYXYXYXY XYXYXY XYXYXY XY
+100100100100100600100500100100200100100300100
+5400
+1900
+1600
+100
+1755
+WOMO
+#
+33 18 24 72 81
+!(!(!(!(!(
+6
+XY
+0
+0
+0
+0
+7
+0
+6
+0
+0
+0
+8
+6
+0
+6
+0
+0
+0
+6
+6
+0
+6
+2203
+XY
+26
+23
+XY
+XY
+25
+!(
+20
+!(
+20
+!(
+18
+!(
+22
+5
+25
+#
+!(
+XY
+!(
+21
+335
+XYXY
+HELEN
+25
+24
+22
+!( !( !( !( !( !( !( !( !( !( !( !( !( !(
+16
+16
+13
+22
+30
+27
+24
+19
+30
+5
+22
+XY
+21
+Carpenter  C r e e k
+Legend
+Sample Type
+XY Rock
+Soil
+Stream Sediment
+"
+!(
+Minfile Status
+! Anomaly
+ß Developed Prospect
+ß Past Producer
+ß Producer
+# Prospect
+# Showing
+3
+XY
+41
+52
+XY XYXY
+191
+ß
+PITMAN
+1471
+XY
+XY
+538
+9
+XY
+13
+!(
+21 41
+!(
+!(
+24 25
+!(
+!(
+42 37
+!(
+!(
+31 50
+!(
+!(
+9
+!(!(
+22 16
+!(
+0
+0
+0
+0
+7
+0
+6
+0
+0
+0
+8
+6
+0
+6
+0
+0
+0
+6
+6
+0
+6
+0
+0
+0
+4
+6
+0
+6
+22
+2
+XY
+XYXY
+217
+Sand Creek
+42 19 53 31 34 40 58 29 47 36 17 82
+!(!(!(!(!(!(!(!(!(!(!(!(
+34
+!(
+242
+!(
+42 39 62
+!(
+!(
+!(
+30
+272
+XY
+XY
+0
+50
+100
+200
+Meters
+0
+0
+0
+4
+6
+0
+6
+0
+250
+500
+538000
+1,500
+1,000
+Hardscrabbl e   C r e
+Meters
+k
+e
+26
+57
+XYXY
+2,000
+540000
+Title:
+Scale:
+Date:
+ß
+CASA MINERALS INC.
+PITMAN PROPERTY
+Historical Geochemical Data
+Copper (ppm)
+As Shown
+Design:
+JP
+May, 2011
+542000
+Drawing:
+Terracad Geoscience
+Services Ltd.
+Figure:
+Datum:
+2 - 4 - 11
+NAD 83/Zone 9
+544000
+Skeena River
+.
+539600
+539800
+540000
+100
+XY
+1000
+XY
+100
+XY
+700
+XY
+4600
+800
+XYXY
+100
+XY
+100
+100
+500
+1900
+XYXYXYXYXYXYXYXYXYXYXY XY XYXYXYXYXYXY
+100
+100
+100
+100
+100
+100
+300
+200
+5400
+100
+1600
+600
+1250 m
+100
+3219
+XY
+PADDY MAC
+#
+0
+0
+4
+7
+6
+0
+6
+578026
+1755
+XY
+267
+XYXY
+6322
+Legend
+Sample Type
+XY Rock
+Soil
+Stream Sediment
+"
+!(
+Minfile Status
+! Anomaly
+ß Developed Prospect
+ß Past Producer
+ß Producer
+# Prospect
+# Showing
+0
+0
+2
+7
+6
+0
+6
+0
+25
+50
+100
+Meters
+150
+200
+539600
+539800
+100
+XY
+100
+CASA MINERALS INC.
+PITMAN PROPERTY
+Title:
+Historical Geochemical Data
+Paddy Mac Area - Copper (ppm)
+Scale:
+Date:
+As Shown
+May, 2011
+Design:
+Drawing:
+JP
+Terracad Geoscience
+Services Ltd.
+540000
+Figure:
+Datum:
+2 - 4 - 12
+NAD 83/Zone 9
+0
+0
+4
+7
+6
+0
+6
+0
+0
+2
+7
+6
+0
+6
+APPENDIX 2. CLORE RIVER AREA – 2008 ROCK AND MMI SOIL
+GEOCHEMICALSAMPLES
+Casa Minerals Inc. – Pitman Projects
+Page 64 of 92
+0
+0
+0
+5
+3
+0
+6
+0
+0
+0
+4
+3
+0
+6
+0
+0
+0
+3
+3
+0
+6
+0
+0
+0
+2
+3
+0
+6
+562000
+563000
+0
+0
+0
+5
+3
+0
+6
+.
+Zymoetz River
+250 m
+5
+0
+0
+m
+2
+5
+0
+m
+578710
+T
+#
+m
+0
+5
+2
+66
+7
+5
+0
+m
+295.5, 15847
+XW
+m
+500
+0
+0
+0
+4
+3
+0
+6
+0
+0
+0
+3
+3
+0
+6
+0
+0
+0
+2
+3
+0
+6
+70
+60
+578708
+67
+0.5, 14200
+XW
+Legend
+Soil Geochem (MMI)
+Ag (ppb)
+0 - 5
+6 - 13
+14 - 23
+24 - 35
+36 - 55
+56 - 81
+MinFile
+! Anomaly
+ß Developed Prospect
+ß Past Producer
+ß Producer
+# Prospect
+# Showing
+m
+500
+XW BC Geological Survey Rock [Au (ppb),Ag (ppb)]
+562000
+0
+200
+400
+600
+800
+1,000
+Clore River
+Title:
+Meters
+CASA MINERALS INC.
+PITMAN PROPERTY
+Clore River Area 2008
+MMI - Silver (ppb)
+Tra p line Creek
+Scale:
+Date:
+As Shown
+May, 2011
+Design:
+Drawing:
+563000
+JP
+Terracad Geoscience
+Services Ltd.
+Figure:
+Datum:
+5 - 2
+NAD 83/Zone 9
+0
+0
+0
+5
+3
+0
+6
+0
+0
+0
+4
+3
+0
+6
+0
+0
+0
+3
+3
+0
+6
+0
+0
+0
+2
+3
+0
+6
+Zymoetz River
+250 m
+5
+0
+0
+m
+562000
+563000
+2
+5
+0
+m
+578710
+T
+#
+m
+0
+5
+2
+0
+0
+0
+5
+3
+0
+6
+.
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+0
+0
+0
+4
+3
+0
+6
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+7
+5
+0
+m
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+295.5, 15847
+!
+XW
+!
+! ! ! ! ! ! !
+!
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+!
+! !
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! !
+! ! !
+! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+!
+! !
+!!!!!!!!!!!!!!!!!!!!!
+m
+500
+578708
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+! ! ! !
+0.5, 14200
+XW
+Legend
+Soil Geochem (MMI)
+Au (ppb)\
+!
+0.0 - 0.1
+! 0.2 - 0.5
+! 0.6 - 1.3
+! 1.4 - 62.1
+Claim Boundary
+MinFile
+! Anomaly
+ß Developed Prospect
+ß Past Producer
+ß Producer
+# Prospect
+# Showing
+XW BC Geological Survey Rock [Au (ppb),Ag (ppb)]
+m
+500
+562000
+0
+200
+400
+600
+800
+1,000
+Clore River
+Title:
+Meters
+CASA MINERALS INC.
+PITMAN PROPERTY
+Clore River Area 2008
+MMI - Gold (ppb)
+Tra p line Creek
+Scale:
+Date:
+As Shown
+May, 2011
+Design:
+Drawing:
+563000
+JP
+Terracad Geoscience
+Services Ltd.
+Figure:
+Datum:
+5 - 3
+NAD 83/Zone 9
+0
+0
+0
+3
+3
+0
+6
+0
+0
+0
+2
+3
+0
+6
+561500
+562000
+562500
+563000
+563500
+0
+0
+0
+5
+3
+0
+6
+.
+0
+0
+5
+4
+3
+0
+6
+0
+0
+0
+4
+3
+0
+6
+0
+0
+5
+3
+3
+0
+6
+0
+0
+0
+3
+3
+0
+6
+!
+Zymoetz River
+250 m
+5
+0
+0
+m
+2
+5
+0
+m
+578710
+T
+#
+m
+0
+5
+2
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+7
+5
+0
+m
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+295.5, 15847
+!
+XW
+!
+!(
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+0
+0
+0
+3
+3
+0
+6
+0
+0
+5
+2
+3
+0
+6
+0
+50
+100
+200
+300
+400
+500
+0
+0
+0
+5
+3
+0
+6
+0
+0
+5
+4
+3
+0
+6
+0
+0
+0
+4
+3
+0
+6
+0
+0
+5
+3
+3
+0
+6
+0
+0
+0
+2
+3
+0
+6
+0
+0
+5
+1
+3
+0
+6
+!
+!
+!
+! !
+!
+!
+! !
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!
+!
+! !
+!
+! !
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+!
+m
+500
+578708
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!(
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+0.5, 14200
+!
+XW
+0
+0
+5
+2
+3
+0
+6
+Legend
+Soil Geochem (MMI)
+Cu (ppb)
+!
+0 - 520
+521 - 1600
+!
+! 1601 - 4060
+!( 4061 - 10700
+!( 10701 - 26000
+MinFile
+! Anomaly
+ß Developed Prospect
+ß Past Producer
+ß Producer
+# Prospect
+# Showing
+Claim Boundary
+m
+500
+0
+0
+0
+2
+3
+0
+6
+0
+0
+5
+1
+3
+0
+6
+XW BC Geological Survey Rock [Au (ppb),Ag (ppb)]
+Clore River
+Title:
+Meters
+CASA MINERALS INC.
+PITMAN PROPERTY
+Clore River Area 2008
+MMI - Copper (ppb)
+561500
+562000
+562500
+563000
+Tra p line Creek
+Scale:
+Date:
+As Shown
+May, 2011
+Design:
+Drawing:
+JP
+Terracad Geoscience
+Services Ltd.
+5 - 4
+NAD 83/Zone 9
+Figure:
+Datum:
+563500
+0
+0
+0
+5
+3
+0
+6
+0
+0
+0
+4
+3
+0
+6
+0
+0
+0
+3
+3
+0
+6
+0
+0
+0
+2
+3
+0
+6
+Zymoetz River
+250 m
+5
+0
+0
+m
+562000
+563000
+2
+5
+0
+m
+578710
+T
+#
+m
+0
+5
+2
+0
+0
+0
+5
+3
+0
+6
+.
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+0
+0
+0
+4
+3
+0
+6
+7
+5
+0
+m
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+295.5, 15847
+!(
+!(
+XW
+!(
+!( !( !( !( !( !( !(
+!(
+!( !( !( !( !( !( !( !( !( !( !( !( !( !( !( !( !( !( !( !( !( !(
+!( !( !( !( !( !( !( !( !( !( !( !( !( !( !(
+!(
+!( !( !( !( !( !(
+!( !( !( !( !( !( !( !(
+!( !( !(
+!( !( !( !( !(
+!( !( !( !( !( !( !( !( !( !( !(
+!(
+!( !( !( !( !( !( !( !( !( !( !(
+!(
+!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(
+m
+500
+578708
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!( !( !( !( !( !( !( !( !( !( !( !( !( !( !(
+!(
+!( !( !( !( !(
+!(
+!( !( !( !( !(
+!( !( !( !( !( !( !( !( !( !( !( !( !( !(
+!(
+!(
+!( !( !( !(
+0.5, 14200
+XW
+Legend
+Soil Geochem (MMI)
+Mo (ppb)
+!(
+2 - 102
+!( 103 - 382
+!( 383 - 1030
+!( 1031 - 1810
+MinFile
+! Anomaly
+ß Developed Prospect
+ß Past Producer
+ß Producer
+# Prospect
+# Showing
+Claim Boundary
+m
+500
+XW BC Geological Survey Rock [Au (ppb),Ag (ppb)]
+Tra p line Creek
+0
+200
+400
+600
+800
+1,000
+Clore River
+Title:
+Meters
+CASA MINERALS INC.
+PITMAN PROPERTY
+Clore River Area 2008
+MMI - Molybdenum (ppb)
+Scale:
+Date:
+As shown
+May, 2011
+Design:
+Drawing:
+JP
+Terracad Geoscience
+Services Ltd.
+Figure:
+Datum:
+5 - 5
+NAD 83/Zone 9
+562000
+563000
+0
+0
+0
+3
+3
+0
+6
+0
+0
+0
+2
+3
+0
+6
+Zymoetz River
+250 m
+562000
+563000
+0
+0
+0
+5
+3
+0
+6
+.
+2
+5
+0
+m
+578710
+T
+#
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+0
+0
+0
+4
+3
+0
+6
+7
+5
+0
+m
+5
+0
+0
+m
+m
+0
+5
+2
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+295.5, 15847
+!(
+!(
+XW
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!( !(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!( !(
+!(
+!(
+!(
+!(
+!(
+!(!(!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+578708
+m
+500
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+0.5, 14200
+!(
+XW
+0
+0
+0
+5
+3
+0
+6
+0
+0
+0
+4
+3
+0
+6
+0
+0
+0
+3
+3
+0
+6
+0
+0
+0
+2
+3
+0
+6
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+Legend
+Soil Geochem (MMI)
+Zn (ppb)
+!(
+0 - 720
+!(
+721 - 2340
+!( 2341 - 5970
+!( 5971 - 11200
+Claim Boundary
+MinFile
+! Anomaly
+ß Developed Prospect
+ß Past Producer
+ß Producer
+# Prospect
+# Showing
+m
+500
+XW BC Geological Survey Rock [Au (ppb),Ag (ppb)]
+Traplin e
+562000
+0
+0
+0
+3
+3
+0
+6
+0
+0
+0
+2
+3
+0
+6
+0
+200
+400
+600
+800
+1,000
+Clore River
+Title:
+Meters
+CASA MINERALS INC.
+PITMAN PROPERTY
+Clore River Area 2008
+MMI - Zinc (ppb)
+Creek
+Scale:
+Date:
+As Shown
+May, 2011
+Design:
+Drawing:
+563000
+JP
+Terracad Geoscience
+Services Ltd.
+Figure:
+Datum:
+5 - 6
+NAD 83/Zone 9
+0
+0
+0
+5
+3
+0
+6
+0
+0
+0
+4
+3
+0
+6
+0
+0
+0
+3
+3
+0
+6
+Zymoetz River
+250 m
+5
+0
+0
+m
+562000
+563000
+0
+0
+0
+5
+3
+0
+6
+.
+2
+5
+0
+m
+578710
+T
+#
+m
+0
+5
+2
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+0
+0
+0
+4
+3
+0
+6
+7
+5
+0
+m
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+15847, 295.5, 13500, 4.43, 298.3
+")
+")
+XW
+")
+")
+")
+")
+")
+")
+")")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+578708
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+m
+500
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")")
+")
+")
+")
+")
+")
+14200, 0.5, 3801, 9.24, 295.3
+XW
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+")
+Legend
+Soil Geochem (MMI)
+Total MMI - Ag + Au + Cu + Pb + Zn
+0
+0
+0
+2
+3
+0
+6
+")
+0 - 1332
+") 1333 - 3861
+") 3862 - 9403
+") 9404 - 26571
+MinFile
+! Anomaly
+ß Developed Prospect
+ß Past Producer
+ß Producer
+# Prospect
+# Showing
+BC Geological Survey  Bed Rock Sample
+m
+500
+XW Ag(ppb), Au(ppb), Cu(ppm), Pb(ppm), Zn(ppm)
+Tra p line Creek
+562000
+0
+200
+400
+600
+800
+1,000
+Clore River
+Title:
+Meters
+CASA MINERALS INC.
+PITMAN PROPERTY
+Clore River Area 2008
+MMI - Total Metallic Content
+Scale:
+Date:
+As Shown
+May, 2011
+Design:
+Drawing:
+563000
+JP
+Terracad Geoscience
+Services Ltd.
+Figure:
+Datum:
+5 - 7
+NAD 83/Zone 9
+0
+0
+0
+3
+3
+0
+6
+0
+0
+0
+2
+3
+0
+6
+562000
+0
+0
+0
+5
+3
+0
+6
+.
+Zymoetz River
+250 m
+0
+0
+0
+4
+3
+0
+6
+0
+0
+0
+3
+3
+0
+6
+0
+0
+0
+2
+3
+0
+6
+563000
+KK 7-10, <0.5, <0.1
+!(
+KK 6-10, 2.1, 0.8
+!(
+!(
+KK 5-10, 3.3, 1.5
+7
+5
+0
+m
+KK 14-10, 21, 7.6
+KK 16-10, <0.5, 0.1
+KK 17-10, 0.8, <0.1
+!(!(
+KK 18-10, 1, 3.3
+KK 15-10, 9.2, 22.1
+!(!(
+!(
+2
+5
+0
+m
+578710
+T
+#
+m
+0
+5
+2
+578708
+!(
+KK 8-10, 44.5, 1.4
+5
+0
+0
+m
+KK 9-10, 1.8, 17.2
+KK 10-10, 3.3, 56.4
+!(!(
+!(
+KK 4-10, 10.3, 9.1
+KK 11-10, 0.7, 9.2
+KK 12-10, 660.3, 22.6
+KK 13-10, <0.5, 1.1
+!(!(!(
+!(!(
+KK 1-10, 4.6, 11.3
+KK 2-10, 3.3, 0.3
+KK 3-10, 16.2, 11.9
+Legend
+!( 2010 Rock Samples Au (ppb), Ag (ppm)
+MinFile
+! Anomaly
+ß Developed Prospect
+ß Past Producer
+ß Producer
+# Prospect
+# Showing
+Claim Boundary
+m
+500
+0
+50
+100
+200
+300
+400
+Meters
+T
+500
+ra
+pline Cree k
+562000
+Clore River
+Title:
+CASA MINERALS INC.
+PITMAN PROPERTY
+Clore River Area 2010
+Rock Samples Gold (ppb), Silver (ppm)
+Scale:
+Date:
+As Shown
+May, 2011
+Design:
+JP
+Drawing:
+m
+0
+0
+5
+563000
+Terracad Geoscience
+Services Ltd.
+Figure:
+Datum:
+5-8a
+NAD 83/Zone 9
+0
+0
+0
+5
+3
+0
+6
+0
+0
+0
+4
+3
+0
+6
+0
+0
+0
+3
+3
+0
+6
+!(
+0
+0
+0
+2
+3
+0
+6
+0
+0
+0
+5
+3
+0
+6
+.
+Zymoetz River
+562000
+563000
+KK 18-10, 2266.3, 0.8
+KK 16-10, 38.4, 1.3
+KK 17-10, 21.7, 0.7
+!(!(
+KK 15-10, 0, 0.1
+KK 14-10, 3820.4, 0.1
+!(!(
+!(
+2
+5
+0
+m
+578710
+250 m
+5
+T
+#
+!(
+KK 8-10, 738.9, 0.2
+0
+0
+m
+m
+0
+5
+2
+m
+500
+578708
+0
+0
+0
+5
+3
+0
+6
+0
+0
+0
+4
+3
+0
+6
+0
+0
+0
+3
+3
+0
+6
+!(
+0
+0
+0
+2
+3
+0
+6
+KK 7-10, 23.5, 0.3
+!(
+KK 6-10, 2929.9, 0.2
+!(
+!(
+KK 5-10, 4601.7, 0.2
+7
+5
+0
+m
+KK 4-10, 1364.5, 0.6
+!(
+KK 1-10, 6469.5, 0.2
+KK 2-10, 166.2, 0.1
+!(!(
+KK 3-10, 7413.2, 0.2
+0
+0
+0
+4
+3
+0
+6
+0
+0
+0
+3
+3
+0
+6
+0
+0
+0
+2
+3
+0
+6
+KK 9-10, 5797.9, 0.3
+KK 10-10, 0, 0.4
+!(!(
+Clore River
+KK 11-10, 3873.4, 0.2
+KK 12-10, 0, 0.4
+KK 13-10, 398.2, 0.3
+!(!(!(
+Legend
+!( 2010 Rock Samples Cu (ppm), Mo (ppm)
+MinFile
+! Anomaly
+ß Developed Prospect
+ß Past Producer
+ß Producer
+# Prospect
+# Showing
+Claim Boundary
+m
+500
+0
+50
+100
+200
+300
+400
+500
+Tr a pline Creek
+Meters
+562000
+CASA MINERALS INC.
+PITMAN PROPERTY
+Title:
+Clore River Area 2010 Rock Samples
+ Copper (ppm), Molybdenum (ppm)
+Scale:
+Date:
+As Shown
+May, 2011
+Design:
+Drawing:
+563000
+JP
+Terracad Geoscience
+Services Ltd.
+Figure:
+Datum:
+5-8b
+NAD 83/Zone 9
+0
+0
+0
+5
+3
+0
+6
+.
+Zymoetz River
+562000
+563000
+KK 17-10, 10.3, 7
+KK 15-10, 7.6, 29
+KK 16-10, 6.8, 6
+!(!(
+KK 18-10, 6.1, 80
+KK 14-10, 5.5, 41
+!(!(
+!(
+2
+5
+0
+m
+578710
+250 m
+5
+T
+#
+!(
+KK 8-10, 2.6, 48
+0
+0
+m
+m
+0
+5
+2
+m
+500
+578708
+0
+0
+0
+4
+3
+0
+6
+0
+0
+0
+3
+3
+0
+6
+0
+0
+0
+2
+3
+0
+6
+0
+0
+0
+5
+3
+0
+6
+0
+0
+0
+4
+3
+0
+6
+0
+0
+0
+3
+3
+0
+6
+!(
+0
+0
+0
+2
+3
+0
+6
+KK 7-10, 4.8, 50
+!(
+KK 6-10, 3.9, 15
+!(
+!(
+KK 5-10, 5.6, 49
+7
+5
+0
+m
+!(
+KK 4-10, 5.7, 138
+KK 1-10, 1.2, 152
+KK 2-10, 1.9, 53
+!(!(
+KK 3-10, 4.4, 143
+KK 9-10, 7.9, 360
+KK 10-10, 9.7, 518
+!(!(
+KK 11-10, 2.6, 93
+KK 12-10, 19.9, 259
+KK 13-10, 6, 102
+!(!(!(
+Legend
+!( 2010 Rock Samples Pb (ppm), Zn (ppm)
+MinFile
+! Anomaly
+ß Developed Prospect
+ß Past Producer
+ß Producer
+# Prospect
+# Showing
+Claim Boundary
+Clore River
+CASA MINERALS INC.
+PITMAN PROPERTY
+Title:
+Clore River Area 2010 Rock Samples
+Lead (ppm), Zinc (ppm)
+m
+500
+0
+50
+100
+200
+300
+400
+500
+Tra pline Creek
+Meters
+562000
+Scale:
+Date:
+As Shown
+May, 2011
+Design:
+Drawing:
+563000
+JP
+Terracad Geoscience
+Services Ltd.
+Figure:
+Datum:
+5-8c
+NAD 83/Zone 9
+APPENDIX 3. KEAP CREEK AREA 2008 AND 2010 ROCK AND MMI SOIL
+GEOCHEMICALSAMPLES
+Casa Minerals Inc. – Pitman Projects
+Page 74 of 92
+551000
+.
+750m
+0
+0
+0
+5
+4
+0
+6
+578714
+0
+0
+0
+4
+4
+0
+6
+0
+0
+0
+3
+4
+0
+6
+552000
+553000
+75 0 m
+588939
+0
+0
+0
+5
+4
+0
+6
+0
+0
+0
+4
+4
+0
+6
+0
+0
+0
+3
+4
+0
+6
+70
+81
+1000 m
+Legend
+Soil Geochem (MMI)
+Ag (ppb)
+0 - 5
+6 - 13
+14 - 23
+24 - 35
+36 - 55
+56 - 81
+MinFile
+578715
+! Anomaly
+ß Developed Prospect
+ß Past Producer
+ß Producer
+# Prospect
+# Showing
+578713
+76
+26.5, 2232000
+XW
+76
+XW BC Geological Survey Rock [Au (ppb),Ag (ppb)]
+50
+12
+m
+k
+e
+e
+r
+C
+ 
+p
+a
+e
+K
+500
+Meters
+0
+125
+250
+551000
+750
+1,000
+552000
+578716
+Title:
+CASA MINERALS INC.
+PITMAN PROPERTY
+Keap Creek Area 2008
+MMI - Silver (ppb)
+Scale:
+Date:
+As Shown
+May, 2011
+Design:
+Drawing:
+JP
+Terracad Geoscience
+Services Ltd.
+553000
+Figure:
+Datum:
+5 - 12
+NAD 83/Zone 9
+750
+m
+588939
+552000
+553000
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+551000
+.
+750m
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !!
+!
+! !
+!
+!
+!!!!
+!!
+!
+!
+!
+!
+!
+!
+!
+!
+578714
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+26.5, 2232000
+XW
+!
+!
+!
+!
+578713
+!
+!
+!
+!
+!
+!
+0
+0
+0
+5
+4
+0
+6
+0
+0
+0
+4
+4
+0
+6
+0
+0
+0
+3
+4
+0
+6
+k
+e
+e
+r
+C
+ 
+p
+a
+e
+K
+500
+Meters
+0
+125
+250
+551000
+0
+0
+0
+5
+4
+0
+6
+0 m
+0
+0
+1
+0
+0
+0
+4
+4
+0
+6
+0
+0
+0
+3
+4
+0
+6
+Legend
+Soil Geochem (MMI)
+Au (ppb)\
+!
+!
+0.0 - 0.1
+0.2 - 0.5
+! 0.6 - 1.3
+! 1.4 - 62.1
+Minfile Status
+578715
+! Anomaly
+ß Developed Prospect
+ß Past Producer
+ß Producer
+# Prospect
+# Showing
+XW BC Geological Survey Rock [Au (ppb),Ag (ppb)]
+12
+50
+m
+578716
+Title:
+CASA MINERALS INC.
+PITMAN PROPERTY
+Keap Creek Area 2008
+MMI - Gold (ppb)
+750
+1,000
+552000
+Scale:
+Date:
+As Shown
+May, 2011
+Design:
+Drawing:
+JP
+Terracad Geoscience
+Services Ltd.
+553000
+Figure:
+Datum:
+5 - 13
+NAD 83/Zone 9
+551000
+.
+750m
+!
+!
+!
+!
+!
+!
+0
+0
+0
+5
+4
+0
+6
+0
+0
+0
+4
+4
+0
+6
+!
+!
+!
+!
+!
+!
+!(
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+26.5, 2232000
+!
+XW
+!
+!
+!
+578713
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!(
+!!
+!(
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!(
+!
+!
+!
+0
+0
+0
+3
+4
+0
+6
+!
+INSET
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!(
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!(
+!
+!
+!(
+!
+!
+!
+!(
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!(
+!
+!
+!
+k
+!
+e
+e
+r
+C
+!
+ 
+p
+!
+a
+e
+K
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!(
+!
+!
+!
+!(
+!
+!
+!
+!
+!
+!
+!
+551000
+552000
+552000
+553000
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+578714
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+750
+m
+588939
+0
+0
+0
+5
+4
+0
+6
+0 m
+0
+0
+1
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!
+!
+!(
+!
+!
+!
+!
+!(
+!
+!
+!
+!
+!
+!(
+!
+!
+!
+!
+!
+!(!(
+!
+!
+!(
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!!
+!
+!
+!
+!
+!
+!(!(!
+!
+!
+!
+!(
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!(
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+0
+125
+250
+500
+Meters
+750
+1,000
+Legend
+Soil Geochem (MMI)
+Cu (ppb)
+!
+578715
+0 - 520
+521 - 1600
+!
+! 1601 - 4060
+!( 4061 - 10700
+!( 10701 - 26000
+Minfile Status
+! Anomaly
+ß Developed Prospect
+ß Past Producer
+ß Producer
+# Prospect
+# Showing
+XW BC Geological Survey Rock [Au (ppb),Ag (ppb)]
+578716
+50
+12
+m
+0
+0
+0
+4
+4
+0
+6
+0
+0
+0
+3
+4
+0
+6
+Title:
+CASA MINERALS INC.
+PITMAN PROPERTY
+Keap Creek Area 2008
+MMI - Copper (ppb)
+Scale:
+Date:
+As Shown
+May, 2011
+Design:
+Drawing:
+JP
+Terracad Geoscience
+Services Ltd.
+553000
+Figure:
+Datum:
+5 - 14
+NAD 83/Zone 9
+551000
+.
+750m
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+0
+0
+0
+5
+4
+0
+6
+0
+0
+0
+4
+4
+0
+6
+0
+0
+0
+3
+4
+0
+6
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+26.5, 2232000
+XW
+!(
+!(
+578713
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+750
+m
+588939
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+Legend
+Soil Geochem (MMI)
+Mo (ppb)
+!(
+2 - 102
+578715
+!( 103 - 382
+!( 383 - 1030
+!( 1031 - 1810
+Minfile Status
+! Anomaly
+ß Developed Prospect
+ß Past Producer
+ß Producer
+# Prospect
+# Showing
+XW BC Geological Survey Rock [Au (ppb),Ag (ppb)]
+50
+12
+m
+578716
+Title:
+CASA MINERALS INC.
+PITMAN PROPERTY
+Keap Creek Area 2008
+MMI - Molybdenum (ppb)
+0
+0
+0
+5
+4
+0
+6
+0 m
+0
+0
+1
+0
+0
+0
+4
+4
+0
+6
+0
+0
+0
+3
+4
+0
+6
+552000
+553000
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!( !(
+!(
+!(
+!(!(!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+578714
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+k
+e
+e
+r
+C
+ 
+p
+a
+e
+K
+500
+Meters
+0
+125
+250
+551000
+750
+1,000
+552000
+Scale:
+Date:
+As Shown
+May, 2011
+Design:
+JP
+Drawing:
+Terracad Geoscience
+Services Ltd.
+553000
+Figure:
+Datum:
+5 - 15
+NAD 83/Zone 9
+552000
+553000
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+578714
+!(
+!(
+!(
+!(
+551000
+.
+750m
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+0
+0
+0
+5
+4
+0
+6
+0
+0
+0
+4
+4
+0
+6
+0
+0
+0
+3
+4
+0
+6
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+26.5, 2232000
+XW
+!(
+!(
+578713
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+k
+!( !(
+e
+e
+r
+C
+!(
+ 
+!(
+p
+a
+e
+!(
+K
+!(
+!(
+!(
+!(
+!(
+!(
+!(!(
+!(
+!(
+!(
+INSET
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+551000
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+750
+m
+588939
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(!(
+!(
+!(
+!(!(!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+0
+125
+250
+500
+Meters
+750
+1,000
+Legend
+Soil Geochem (MMI)
+Zn (ppb)
+!(
+0 - 720
+578715
+!( 721 - 2340
+!( 2341 - 5970
+!( 5971 - 11200
+Minfile Status
+! Anomaly
+ß Developed Prospect
+ß Past Producer
+ß Producer
+# Prospect
+# Showing
+XW BC Geological Survey Rock [Au (ppb),Ag (ppb)]
+578716
+50
+12
+m
+Title:
+CASA MINERALS INC.
+PITMAN PROPERTY
+Keap Creek Area 2008
+MMI - Zinc (ppb)
+0
+0
+0
+5
+4
+0
+6
+0 m
+0
+0
+1
+0
+0
+0
+4
+4
+0
+6
+0
+0
+0
+3
+4
+0
+6
+Scale:
+Date:
+As Shown
+May, 2011
+552000
+Design:
+JP
+Drawing:
+Terracad Geoscience
+Services Ltd.
+553000
+Figure:
+Datum:
+5 - 16
+NAD 83/Zone 9
+0
+0
+0
+6
+4
+0
+6
+.
+KC 16-10, 205.9, 1.8
+KC 17-10, 28, 1.6
+KC 16-10, 205.9, 1.8
+KC 17-10, 28, 1.6
+KC 18-10, 2.3, <0.1
+KC 34-10, 9.3, 0.4
+KC 33-10, 8.7, 1.7
+!(!(
+!(!(
+!(
+KC 31-10, <0.5, 5.9
+KC 32-10, 85, 7.4
+KC 18-10, 2.3, <0.1
+KC 33-10, 8.7, 1.7
+KC 34-10, 9.3, 0.4
+KC 31-10, <0.5, 5.9
+!(!(
+KC 32-10, 85, 7.4
+551000
+750m
+552000
+Legend
+0 m
+5 0
+!(
+2010 Rock Samples Au (ppb), Ag (ppm)
+0
+0
+m
+5
+MinFile
+! Anomaly
+ß Developed Prospect
+ß Past Producer
+ß Producer
+# Prospect
+# Showing
+KC 19-10, 2.4, <0.1
+KC 20-10, 0.6, <0.1
+KC 20-10, 0.6, <0.1
+KC 19-10, 2.4, <0.1
+!(!(
+KC 1-10, <0.5, <0.1
+KC 2-10, <0.5, <0.1
+KC 2-10, <0.5, <0.1
+KC 1-10, <0.5, <0.1
+KC 3-10, <0.5, <0.1
+!(!(
+0
+0
+0
+5
+4
+0
+6
+578714
+7
+5
+0
+m
+KC 23-10, 549.6, 5.1
+!(!(!(
+KC 21-10, 3224.6, 40.7
+KC 22-10, 36, 4.6
+KC 23-10, 549.6, 5.1
+KC 22-10, 36, 4.6
+KC 21-10, 3224.6, 40.7
+KC 24-10, 20.3, 0.5
+!(
+KC 24-10, 20.3, 0.5
+KC 3-10, <0.5, <0.1
+!(
+KC 4-10, <0.5, <0.1
+KC 5-10, <0.5, <0.1
+KC 4-10, <0.5, <0.1
+!(
+KC 5-10, <0.5, <0.1
+!(
+KC 6-10, 3.5, <0.1
+!(
+KC 7-10, <0.5, <0.1
+KC 8-10, <0.5, <0.1
+KC 6-10, 3.5, <0.1
+!(!(
+KC 8-10, <0.5, <0.1
+KC 7-10, <0.5, <0.1
+0
+0
+0
+6
+4
+0
+6
+0
+0
+0
+5
+4
+0
+6
+KC 9-10, <0.5, 1.9
+KC 10-10, 35.5, 14
+KC 11-10, 0.9, 0.4
+KC 12-10, 0.7, <0.1
+KC 10-10, 35.5, 14
+KC 12-10, 0.7, <0.1
+KC 9-10, <0.5, 1.9
+KC 13-10, 0.8, 0.2
+KC 13-10, 0.8, 0.2
+KC 15-10, <0.5, <0.1
+KC 14-10, <0.5, 0.1
+!(!(!(!(!(
+KC 11-10, 0.9, 0.4
+!(!(
+KC 14-10, <0.5, 0.1
+KC 15-10, <0.5, <0.1
+K
+e
+a
+p
+C
+r
+e
+e
+k
+KC 35-10, 321, 15.2
+!(
+KC 35-10, 321, 15.2
+KC 25-10, 61.5, 1.5
+KC 26-10, 3929.1, 20.7
+!(!(
+KC 25-10, 61.5, 1.5
+KC 26-10, 3929.1, 20.7
+KC 38-10, 8.2, 0.5
+KC 38-10, 8.2, 0.5
+!(
+KC 37-10, 0.6, 5.1
+!(
+KC 37-10, 0.6, 5.1
+0 0 0 m
+1
+578713
+KC 36-10, 2.3, 0.3
+KC 36-10, 2.3, 0.3
+!(
+KC 28-10, 4.4, 2.1
+!(!(!(
+KC 30-10, 10.1, >100.0
+KC 28-10, 4.4, 2.1
+KC 29-10, 16.1, >100.0
+KC 29-10, 16.1, >100.0
+KC 30-10, 10.1, >100.0
+KC 27-10, 3.2, <0.1
+!(
+KC 27-10, 3.2, <0.1
+0
+125
+250
+500
+Meters
+750
+1,000
+578715
+0
+0
+0
+4
+4
+0
+6
+0
+0
+0
+3
+4
+0
+6
+1
+2
+5
+0
+m
+0
+0
+0
+4
+4
+0
+6
+0
+0
+0
+3
+4
+0
+6
+Title:
+CASA MINERALS INC.
+PITMAN PROPERTY
+Keap Creek Area 2010
+Rock Samples Gold (ppb), Silver (ppm)
+Scale:
+Date:
+As Shown
+May, 2011
+Design:
+Drawing:
+JP
+Terracad Geoscience
+Services Ltd.
+Figure:
+Datum:
+5 - 17a
+NAD 83/Zone 9
+551000
+552000
+0
+0
+0
+6
+4
+0
+6
+.
+KC 16-10, 2036, 0.6
+KC 17-10, 1930.3, 1.2
+KC 33-10, 76.1, 0.1
+KC 34-10, 88.2, 0.2
+!(!(
+!(!(
+!(
+KC 18-10, 11.7, 0.2
+!(!(
+KC 31-10, 60.8, 0.2
+KC 32-10, 6287.5, 2.4
+KC 19-10, 6.1, 0.2
+KC 20-10, 1.9, 0.1
+!(!(
+551000
+750m
+KC 1-10, 14.4, 69.9
+KC 2-10, 15.4, 1.1
+!(!(
+KC 3-10, 97.8, 0.5
+0
+0
+0
+5
+4
+0
+6
+57871
+7
+5
+0
+m
+KC 21-10, 0, 3.8
+KC 22-10, 4901.5, 2.2
+!(!(!(
+KC 23-10, 7651.9, 6.9
+KC 24-10, 541.7, 0.2
+!(
+!(
+KC 4-10, 29.5, 0.9
+!(
+KC 5-10, 110.3, 1.5
+!(
+K
+e
+a
+p
+C
+r
+e
+e
+k
+!(
+KC 25-10, 896, 0.2
+KC 35-10, 8850.3, 2.5
+!(!(
+KC 38-10, 342.7, 0.2
+KC 26-10, 0, 9.3
+!(
+!(
+KC 37-10, 488.7, 12.7
+0 0 0 m
+1
+552000
+Legend
+0 m
+5 0
+!(
+2010 Rock Samples Cu (ppm), Mo (ppm)
+0
+0
+m
+5
+MinFile
+! Anomaly
+ß Developed Prospect
+ß Past Producer
+ß Producer
+# Prospect
+# Showing
+0
+0
+0
+6
+4
+0
+6
+0
+0
+0
+5
+4
+0
+6
+KC 6-10, 39.1, 2.4
+KC 7-10, 42, 1.6
+!(
+!(!(
+KC 8-10, 15.2, 7.2
+KC 9-10, 63.6, 12.4
+KC 10-10, 141, 93.2
+KC 11-10, 26.7, 35.7
+KC 12-10, 3, 4.9
+KC 13-10, 11.4, 43.2
+!(!(!(!(!(
+!(!(
+KC 14-10, 165.3, 15.7
+KC 15-10, 38.3, 1.3
+578715
+0
+0
+0
+4
+4
+0
+6
+0
+0
+0
+3
+4
+0
+6
+57871
+KC 36-10, 50, 0.4
+!(
+KC 28-10, 57.5, 3.2
+KC 29-10, 0, 18.7
+KC 30-10, 3261.1, 2.2
+!(!(!(
+KC 27-10, 39.1, 0.6
+!(
+0
+125
+250
+500
+Meters
+750
+1,000
+CASA MINERALS INC.
+PITMAN PROPERTY
+0
+0
+0
+4
+4
+0
+6
+0
+0
+0
+3
+4
+0
+6
+1
+2
+5
+0
+m
+Keap Creek Area 2010 Rock Samples
+Copper (ppm), Molybdenum (ppm)
+5 - 17b
+As Shown
+Design:
+Figure:
+JP
+Title:
+Scale:
+Date:
+May, 2011
+Drawing:
+Terracad Geoscience
+Services Ltd.
+Datum:
+NAD 83/Zone 9
+551000
+552000
+0
+0
+0
+6
+4
+0
+6
+.
+KC 16-10, 2.5, 56
+KC 17-10, 3.5, 46
+KC 33-10, 12.6, 40
+KC 34-10, 5.9, 41
+!(!(
+!(!(
+!(
+!(!(
+KC 31-10, 59.6, 162
+KC 32-10, 54, 93
+551000
+552000
+Legend
+0 m
+5 0
+!(
+2010 Rock Samples Pb (ppm), Zn (ppm)
+0
+0
+5
+m
+KC 18-10, 0.7, 18
+750m
+MinFile
+! Anomaly
+ß Developed Prospect
+ß Past Producer
+ß Producer
+# Prospect
+# Showing
+KC 19-10, 1.4, 19
+KC 20-10, 0.6, 88
+!(!(
+0
+0
+0
+5
+4
+0
+6
+57871
+7
+5
+0
+m
+KC 1-10, 1.9, 44
+KC 2-10, 2.1, 29
+!(!(
+KC 3-10, 1, 70
+KC 4-10, 1.1, 103
+KC 5-10, 5, 36
+!(
+!(
+!(
+KC 8-10, 1.3, 29
+KC 7-10, 1.9, 27
+KC 6-10, 1.7, 30
+!(!(
+!(
+KC 21-10, 9.2, 89
+KC 22-10, 8.7, 123
+KC 23-10, 4.3, 64
+!(!(!(
+KC 24-10, 2.1, 96
+!(
+K
+e
+a
+p
+C
+r
+e
+e
+k
+KC 35-10, 125.3, 66
+!(
+KC 25-10, 1.1, 44
+KC 26-10, 5.1, 37
+!(!(
+!(
+KC 38-10, 2.3, 54
+KC 37-10, 23.2, 29
+!(
+1 0 00m
+KC 9-10, 9, 30
+KC 10-10, 53.7, 36
+KC 11-10, 17, 56
+KC 12-10, 2.4, 24
+KC 13-10, 7.6, 26
+!(!(!(!(!(
+!(!(
+KC 14-10, 2.8, 28
+KC 15-10, 1.9, 104
+0
+0
+0
+4
+4
+0
+6
+0
+0
+0
+3
+4
+0
+6
+57871
+KC 36-10, 12, 73
+!(
+KC 28-10, 14.1, 145
+KC 29-10, 0, 0
+KC 30-10, 0, 0
+!(!(!(
+KC 27-10, 3.3, 9
+!(
+0
+125
+250
+500
+Meters
+750
+1,000
+CASA MINERALS INC.
+PITMAN PROPERTY
+0
+0
+0
+6
+4
+0
+6
+0
+0
+0
+5
+4
+0
+6
+0
+0
+0
+4
+4
+0
+6
+0
+0
+0
+3
+4
+0
+6
+1
+2
+5
+0
+m
+Title:
+Keap Creek Area 2010 Rock Samples
+Lead (ppm), Zinc (ppm)
+Scale:
+Date:
+As Shown
+May, 2011
+Design:
+Drawing:
+JP
+Terracad Geoscience
+Services Ltd.
+Figure:
+Datum:
+5 - 17c
+NAD 83/Zone 9
+551000
+552000
+APPENDIX 4. PITMANǦGOLD DOME AREA MMI SOIL GEOCHEMICAL
+SAMPLES
+Casa Minerals Inc. – Pitman Projects
+Page 83 of 92
+.
+542000
+588930
+544000
+5
+0
+0
+m
+583339
+1
+2
+5
+0
+m
+0
+0
+0
+2
+7
+0
+6
+1
+5
+0
+0
+m
+5.2, 5899
+XW
+588929
+m
+0
+5
+7
+1000
+0
+0
+0
+0
+7
+0
+6
+m
+7
+5
+0
+m
+563647
+7
+5
+0
+m
+589598
+546000
+Legend
+Soil Geochem (MMI)
+Ag (ppb)
+0 - 5
+6 - 13
+14 - 23
+24 - 35
+36 - 55
+56 - 81
+Minfile Status
+! Anomaly
+ß Developed Prospect
+ß Past Producer
+ß Producer
+# Prospect
+# Showing
+XW BC Geological Survey Rock [Au (ppb),Ag (ppb)]
+Skeena River
+0
+0
+0
+2
+7
+0
+6
+0
+0
+0
+0
+7
+0
+6
+525993
+0
+0
+0
+8
+6
+0
+6
+588928
+C arpen ter Creek
+578731
+58
+525997
+79
+588941
+5
+0
+0
+m
+m
+0
+5
+2
+Skeena River
+0
+0
+0
+8
+6
+0
+6
+525992
+58
+578026
+0
+0
+0
+6
+6
+0
+6
+HELEN
+#
+525858
+PITMAN
+ß
+Sand Creek
+57
+542000
+544000
+1.2, 11162
+XW
+0.7, 10983
+XW
+SKEENA RIVER
+#
+0
+250
+500
+1,000
+Meters
+1,500
+2,000
+0
+0
+0
+6
+6
+0
+6
+525999
+CASA MINERALS INC.
+Skeena River
+PITMAN PROPERTY
+25 0 m
+Title:
+Pitman-Gold Dome Area 2008
+MMI - Silver (ppb)
+Scale:
+Date:
+As Shown
+May, 2011
+Design:
+JP
+Drawing:
+0 0
+5
+Terracad Geoscience
+546000
+Services Ltd.
+Figure:
+m
+Datum:
+5 - 19
+NAD 83/Zone 9
+7 5 0 m
+542000
+588930
+!!!!!!!!!!!!!! !!!!!!!!!!!!!!!!
+!!!!! !!!!!!!!!!!!!
+544000
+583339
+1
+2
+5
+0
+m
+.
+0
+0
+0
+2
+7
+0
+6
+1
+5
+0
+0
+m
+5.2, 5899
+XW
+588929
+m
+0
+5
+7
+7
+5
+0
+m
+563647
+1000
+0
+0
+0
+0
+7
+0
+6
+m
+546000
+Legend
+Soil Geochem (MMI)
+Au (ppb)\
+!
+0.0 - 0.1
+! 0.2 - 0.5
+! 0.6 - 1.3
+!( 1.4 - 62.1
+Minfile Status
+! Anomaly
+ß Developed Prospect
+ß Past Producer
+ß Producer
+# Prospect
+# Showing
+XW BC Geological Survey Rock [Au (ppb),Ag (ppb)]
+Skeena River
+!!
+!!!
+!
+!!
+!
+!!!!
+!!
+!!!
+!!!!
+!!
+!!!!!!!
+!
+!!!!!!!!
+0
+0
+0
+2
+7
+0
+6
+0
+0
+0
+0
+7
+0
+6
+7
+5
+0
+m
+589598
+!
+!
+! !!!!!!!!!!!!!!!!!!!!! !!!!!!!!!!!!!!!!!!!!!!!!!!!!
+588928
+!!!!!!!!!!!!!!
+C arpen ter Creek
+!!
+!
+!!
+!!
+!!
+!
+578731
+!!!!!!!!!!!!!!!!!!!!!
+!! !!!!!! !!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!! !!!! !!!!!!!!
+525858
+!!!!!!!! !!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!! !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Sand Creek
+!
+!
+PITMAN
+!
+!!!!! !!!!!!
+!
+!
+ß
+!!!!!!!!!!!!! !!!
+!!
+!!!!!!!!!!!!!!!!!!!!!!!!!
+!!
+!!
+!!
+!
+!
+!
+!!
+!!
+!!! !! !!! !!!!!!!!!!
+!
+!
+!!
+!!
+!!
+!
+!
+!
+!
+!
+!
+!
+542000
+544000
+0
+250
+500
+1,000
+Meters
+1,500
+2,000
+0
+0
+0
+6
+6
+0
+6
+525999
+CASA MINERALS INC.
+Skeena River
+PITMAN PROPERTY
+25 0 m
+Title:
+Pitman-Gold Dome Area 2008
+MMI - Gold (ppb)
+!
+Scale:
+Date:
+As Shown
+May, 2011
+Design:
+JP
+Drawing:
+5
+0 0
+Terracad Geoscience
+546000
+Services Ltd.
+Figure:
+m
+Datum:
+5 - 20
+NAD 83/Zone 9
+7 5 0 m
+525993
+0
+0
+0
+8
+6
+0
+6
+525997
+!!!!!!!!!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!(
+!!
+! !
+!!!!!!!!!
+!!!! ! !
+!
+! !!!!!! !
+!!!!!!!!!
+!!
+!
+! !
+!
+!!
+62.1
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!!
+!!
+!
+!
+!
+!!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!!!
+!!
+!
+!
+!
+!
+!
+!
+!
+!
+m
+!
+0
+0
+5
+!
+!
+!
+!
+!
+!
+!!
+!
+!
+!
+!!!!!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+525992
+!
+!
+!!
+!!
+!
+!
+!
+!
+!
+!
+!!
+!!
+!
+578026
+0
+0
+0
+6
+6
+0
+6
+HELEN
+#
+!!!!
+!
+!!!!!
+!
+!
+!
+!!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!!
+!
+!
+!
+!
+!
+588941
+5
+0
+0
+m
+m
+0
+5
+2
+Skeena River
+0
+0
+0
+8
+6
+0
+6
+1.2, 11162
+XW
+0.7, 10983
+XW
+SKEENA RIVER
+#
+1
+2
+5
+0
+m
+.
+542000
+544000
+588930
+!
+!
+!
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+0
+0
+0
+2
+7
+0
+6
+1
+5
+0
+0
+m
+!
+!
+!
+!
+!
+5.2, 5899
+XW
+588929
+m
+0
+5
+7
+583339
+7
+5
+0
+m
+563647
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+1000
+0
+0
+0
+0
+7
+0
+6
+m
+525993
+0
+0
+0
+8
+6
+0
+6
+7
+5
+0
+m
+589598
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!!
+588928
+C arpen ter Creek
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+546000
+Legend
+Soil Geochem (MMI)
+Cu (ppb)
+!
+0 - 520
+0
+0
+0
+2
+7
+0
+6
+! 521 - 1600
+! 1601 - 4060
+!( 4061 - 10700
+!( 10701 - 26000
+Minfile Status
+! Anomaly
+ß Developed Prospect
+ß Past Producer
+ß Producer
+# Prospect
+# Showing
+XW BC Geological Survey Rock [Au (ppb),Ag (ppb)]
+Skeena River
+0
+0
+0
+0
+7
+0
+6
+578731
+588941
+5
+0
+0
+m
+m
+0
+5
+2
+Skeena River
+0
+0
+0
+8
+6
+0
+6
+1.2, 11162
+XW
+0.7, 10983
+XW
+SKEENA RIVER
+#
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+62.1
+!!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+!
+!
+!!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+525997
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+m
+!
+0
+0
+5
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+525992
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+578026
+0
+0
+0
+6
+6
+0
+6
+HELEN
+#
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!!!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+!
+!
+!!
+!
+!
+!
+!
+!!
+!
+!
+!
+!
+! ! !
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!
+!
+!!
+! !
+!
+!
+!
+525858
+0
+250
+500
+1,000
+1,500
+2,000
+0
+0
+0
+6
+6
+0
+6
+Meters
+525999
+CASA MINERALS INC.
+Skeena River
+PITMAN PROPERTY
+25 0 m
+Title:
+Pitman-Gold Dome Area 2008
+MMI - Copper (ppb)
+!
+Scale:
+Date:
+As Shown
+May, 2011
+Design:
+JP
+Drawing:
+0 0
+Terracad Geoscience
+5
+Services Ltd.
+546000
+Figure:
+m
+Datum:
+5 - 21
+NAD 83/Zone 9
+7 5 0 m
+!
+!
+!!
+!
+!
+!!
+!
+!
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!
+! !
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! ! !
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+Sand Creek
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!(
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!!
+!
+!
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+!
+!!
+!
+! !
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!!
+!
+PITMAN
+!!
+!!
+!!
+!
+!
+!
+!
+!
+!
+!
+!
+!!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+ß
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+542000
+544000
+1
+2
+5
+0
+m
+.
+542000
+588930
+!(!(!(!( !(!(!(!(!( !(!(!( !(!( !(!(!(!(!( !(!(!( !(!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(!(!(!(!( !( !( !(!(!(
+!( !(
+!(
+0
+0
+0
+2
+7
+0
+6
+1
+5
+0
+0
+m
+5.2, 5899
+XW
+588929
+m
+0
+5
+7
+544000
+583339
+7
+5
+0
+m
+563647
+546000
+Legend
+Soil Geochem (MMI)
+Mo (ppb)
+!(
+2 - 102
+!( 103 - 382
+!( 383 - 1030
+!( 1031 - 1810
+Minfile Status
+! Anomaly
+ß Developed Prospect
+ß Past Producer
+ß Producer
+# Prospect
+# Showing
+XW BC Geological Survey Rock [Au (ppb),Ag (ppb)]
+Skeena River
+0
+0
+0
+2
+7
+0
+6
+0
+0
+0
+0
+7
+0
+6
+!(!(
+!(!(!(
+!(!(
+!(
+!(
+!(
+!(!(
+!(
+!(!(
+!(!(!(
+!(
+!(
+!(!(
+!(
+!(
+!(
+!(!(
+!(
+!(!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+7
+5
+0
+m
+589598
+!(
+!(
+!( !(
+!(!( !( !(!(!(!( !(!(!(!(!( !(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!(!( !(!(!( !(!(!(!(!(!(!(!(!(!(
+!(
+!(
+!(
+!(
+!(
+!(
+588928
+C arpen ter Creek
+!(!(!(!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(!(
+!(
+!(
+!(
+!(!(
+!(
+!(
+!(
+!(
+!(
+578731
+1000
+0
+0
+0
+0
+7
+0
+6
+m
+525993
+0
+0
+0
+8
+6
+0
+6
+!(
+!(!(
+!(!(!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+62.1
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!( !(!(!(!( !(
+!(!(!(!(
+!(
+!( !(!(!(!(!(!(!(
+!(
+!( !(!(!(!( !(
+!(!(!(!(!(!(!(!(!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(!(
+!(
+!(
+!(
+!(
+!(
+!(
+525997
+!(
+!(
+!(
+!(!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+m
+!(
+0
+0
+5
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+578026
+0
+0
+0
+6
+6
+0
+6
+HELEN
+#
+!(
+!(!(
+!(
+!(
+!(
+!(
+!(!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!( !( !(!( !( !(!( !(
+!( !(
+!( !(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(!(
+!(
+!(
+!(
+!(!(!(!(!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+525992
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(!(
+!(
+525858
+588941
+5
+0
+0
+m
+m
+0
+5
+2
+Skeena River
+0
+0
+0
+8
+6
+0
+6
+1.2, 11162
+XW
+0.7, 10983
+XW
+SKEENA RIVER
+#
+0
+250
+500
+1,000
+Meters
+1,500
+2,000
+0
+0
+0
+6
+6
+0
+6
+525999
+CASA MINERALS INC.
+Skeena River
+PITMAN PROPERTY
+25 0 m
+Title:
+Pitman-Gold Dome Area 2008
+MMI - Molybdenum (ppb)
+!(
+!( !(!(!( !(!( !( !( !(
+!( !( !(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(!(!(
+!(!(
+!(
+!(
+!(
+!(!(!( !(
+!( !(
+!(!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(!(!( !(!( !(!(
+!(
+!(
+!( !(
+!(
+!(
+!(
+!(
+!(
+!(
+!( !(
+!(
+!(!(
+!(
+!(!(!(!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!( !(
+!(
+!(
+!(
+!(!(
+!( !(
+!( !(
+!(
+!(
+!(!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!( !( !(!(!(!(
+!( !(
+!(
+!(
+!(
+!(
+!(
+Sand Creek
+!(
+!(
+!(
+!(
+!(
+!(
+!(!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(!(
+!(!(!(
+!( !(
+!(
+!(
+!(
+!(
+!(
+!(
+!( !(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(!(!(!(!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(!(!(
+PITMAN
+!(
+!(
+!(
+!(
+ß
+!( !(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!( !(
+!(
+!(
+!(
+!(
+!(
+!(
+!( !(
+!(
+!(
+!( !( !(!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!( !(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+Scale:
+Date:
+As Shown
+May, 2011
+Design:
+JP
+Drawing:
+0 0
+Terracad Geoscience
+5
+Service Ltd.
+Figure:
+m
+Datum:
+5 - 22
+NAD 83/Zone 9
+542000
+544000
+546000
+7 5 0 m
+1
+2
+5
+0
+m
+.
+542000
+588930
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+0
+0
+0
+2
+7
+0
+6
+1
+5
+0
+0
+m
+5.2, 5899
+XW
+588929
+m
+0
+5
+7
+544000
+583339
+7
+5
+0
+m
+563647
+546000
+Legend
+Soil Geochem (MMI)
+Zn (ppb)
+!(
+0 - 720
+!( 721 - 2340
+!( 2341 - 5970
+!( 5971 - 11200
+Minfile Status
+! Anomaly
+ß Developed Prospect
+ß Past Producer
+ß Producer
+# Prospect
+# Showing
+XW BC Geological Survey Rock [Au (ppb),Ag (ppb)]
+Skeena River
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!( !(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+0
+0
+0
+2
+7
+0
+6
+0
+0
+0
+0
+7
+0
+6
+1000
+0
+0
+0
+0
+7
+0
+6
+m
+525993
+0
+0
+0
+8
+6
+0
+6
+7
+5
+0
+m
+589598
+!(
+!(
+!(
+!(
+!(
+!( !(
+!(
+!(
+!( !(
+!(
+!(
+!(
+!( !(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!( !(
+!(
+!(
+!(
+!(!(
+!(
+!(
+!(
+!(
+!(
+!(!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+588928
+!(
+!(!(
+!(
+C arpen ter Creek
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+62.1
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!( !(
+!(
+!( !(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+578731
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+525997
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+m
+!(
+0
+0
+5
+!(
+588941
+5
+0
+0
+m
+m
+0
+5
+2
+Skeena River
+0
+0
+0
+8
+6
+0
+6
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+525992
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+578026
+0
+0
+0
+6
+6
+0
+6
+HELEN
+#
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!( !(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!( !(
+!(
+!(
+!(
+!(
+!(
+!( !(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!( !(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+525858
+!(
+!(
+!(
+!(
+!(
+!(
+!( !(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+Sand Creek
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+PITMAN
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(!(
+ß
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!( !(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(!(
+!(
+!( !(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(!(
+!(
+!(
+!(
+!(
+!(
+!( !(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(!(
+!( !(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+!(
+542000
+544000
+1.2, 11162
+XW
+0.7, 10983
+XW
+SKEENA RIVER
+#
+0
+250
+500
+1,000
+Meters
+1,500
+2,000
+0
+0
+0
+6
+6
+0
+6
+525999
+CASA MINERALS INC.
+Skeena River
+PITMAN PROPERTY
+25 0 m
+Title:
+Pitman-Gold Dome Area 2008
+MMI - Zinc (ppb)
+!(
+Scale:
+Date:
+As Shown
+May, 2011
+Design:
+JP
+Drawing:
+5
+0 0
+Terracad Geoscience
+546000
+Services Ltd.
+Figure:
+m
+Datum:
+5 - 23
+NAD 83/Zone 9
+7 5 0 m
+APPENDIX5.CERTIFICATESOFANALYSIS
+TO102648
+TO102657
+TO102658
+TO102659
+TO102660
+TO102661
+TO102662
+TO102663
+TO102664
+TO102669
+TO102670
+TO102671
+TO102672
+TO102673
+TO102674
+TO102675
+TO103849
+TO103850
+TO103851
+TO103852
+TO103856
+TO104234
+Casa Minerals Inc. – Pitman Projects
+Page 89 of 92

@@ -1,0 +1,388 @@
+
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ TMevgUUb5b+BJQWltURKmV5mp3IHklVdsli1AdC6ePcbYovQHLBt+LOegZCpWMtq
+ bUSAQPBPLE8VUcGmPljSlg==
+<SEC-DOCUMENT>0001171264-05-000111.txt : 20051025
+<SEC-HEADER>0001171264-05-000111.hdr.sgml : 20051025
+<ACCEPTANCE-DATETIME>20051024202359
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+6-K
+1
+20051013
+0001171264-05-000111
+20051024
+20051025
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: BITUMINOUS COAL & LIGNITE MINING
+BHP BILLITON PLC
+0001171264
+[1220]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+000000000
+X0
+0630
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 001-31714
+FILM NUMBER:
+6-K
+1934 Act
+051153106
+BUSINESS ADDRESS:
+STREET 1:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+8TH FLOOR - NEATHOUSE PLACE
+LONDON
+X0
+SW1V 1BH
+011442078024054
+MAIL ADDRESS:
+STREET 1:
+CITY:
+STATE:
+ZIP:
+8TH FLOOR - NEATHOUSE PLACE
+LONDON
+X0
+SW1V 1BH
+FORMER COMPANY:
+FORMER CONFORMED NAME: BHP BILLITON PLC/ADR
+DATE OF NAME CHANGE:
+20020416
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>gomplc.htm
+<DESCRIPTION>BHP BILLITON UPDATE ON US GULF OF MEXICO OPERATIONS
+<TEXT>
+<HTML>
+<HEAD>
+<META NAME="Generator" CONTENT="Microsoft FrontPage 4.0">
+<TITLE>Organisational</TITLE>
+<META NAME="Template" CONTENT="C:\DOCUME~1\aamenv\LOCALS~1\Temp\BHPBilliton News
+Release-15.dot">
+</HEAD>
+<BODY LINK="#0000ff">
+<FONT FACE="Arial">
+<FONT FACE="Arial" SIZE=3>
+<font SIZE="2">
+<hr NOSHADE>
+&nbsp;
+<p align="center"><font size="+1">UNITED STATES<br>
+SECURITIES AND EXCHANGE COMMISSION<br>
+Washington, D.C. 20549</p>
+<p><center><font SIZE="+2" FACE="Arial"><b>Form 6-K</b></font><br>
+</center></p>
+<p><center>REPORT OF FOREIGN PRIVATE ISSUER<br>
+PURSUANT TO RULE 13a-16 OR 15d-16<br>
+UNDER THE SECURITIES EXCHANGE ACT OF 1934</center></p>
+</font></font>
+<p><center><font size="+1">October </font>
+</FONT><font size="+1" face="Arial">13</font></FONT><FONT FACE="Arial" 
+SIZE=3><FONT FACE="Arial"><font SIZE="2"><font size="+1">, 2005</center></p>
+<table CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <tr>
+    <td VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5"><b><font 
+SIZE="+2">BHP
+      Billiton</font></b> </font><b><font size="+2">Plc</font></b><font 
+size="+1"><br>
+    </font></td>
+</tr>
+<tr>
+  <td VALIGN="CENTER" ALIGN="CENTER" WIDTH="100%" COLSPAN="5"><font SIZE="-
+1">(Translation
+    of registrant</font></font><font size="-1">'s
+  name into English)</font></td>
+</tr>
+<tr>
+  <td VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">&nbsp;</td>
+</tr>
+<tr>
+  <td VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5"><font 
+face="Courier" size="+0">Neathouse
+    Place London SW1V 1BH United Kingdom</font></td>
+</tr>
+<tr>
+  <td VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5"><br>
+    <font SIZE="-1">(Address of principal executive office)</font></td>
+</tr>
+<tr>
+  <td VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">&nbsp;</td>
+</tr>
+</table>
+<!-- End Cover Page Registrant -->
+<!-- Checkboxes Page -->
+<table CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <tr>
+    <td VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%" COLSPAN="5">Indicate by check
+      mark whether the registrant files or will file annual reports under cover
+      of Form 20-F or Form 40-F:&nbsp;&nbsp;[<font 
+FACE="Courier">x</font>]&nbsp;Form
+      20-F&nbsp;&nbsp;&nbsp;[&nbsp; ]&nbsp;Form 40-F</td>
+  </tr>
+<tr>
+    <td VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">&nbsp;</td>
+  </tr>
+  <tr>
+    <td VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">Indicate by check
+      mark if the registrant is submitting the Form 6-K in paper as permitted by
+      Regulation S-T Rule 101(b)(1):&nbsp;&nbsp;[<font 
+FACE="Courier">&nbsp;</font>]</td>
+  </tr>
+  <tr>
+    <td VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">&nbsp;</td>
+  </tr>
+  <tr>
+    <td VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">Indicate by check
+      mark if the registrant is submitting the Form 6-K in paper as permitted by
+      Regulation S-T Rule 101(b)(7):&nbsp;&nbsp;[<font 
+FACE="Courier">&nbsp;</font>]</td>
+  </tr>
+  <tr>
+    <td VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">&nbsp;</td>
+  </tr>
+  <tr>
+    <td VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">Indicate by check
+      mark whether the registrant by furnishing the information contained in
+      this Form is also thereby furnishing the information to the Commission
+      pursuant to Rule 12g3-2(b) under the Securities Exchange Act of 
+1934:&nbsp;&nbsp;[<font 
+FACE="Courier">&nbsp;</font>]&nbsp;Yes&nbsp;&nbsp;&nbsp;&nbsp;[<font 
+FACE="Courier">x</font>]&nbsp;No</td>
+  </tr>
+  <tr>
+    <td VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">&nbsp;</td>
+  </tr>
+</table>
+<table CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <tr>
+    <td VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">If &quot;Yes&quot; is marked,
+      indicate below the file number assigned to the registrant in connection
+      with Rule 12g3-2(b):&nbsp;&nbsp;&nbsp;<font 
+FACE="Courier"><u>&nbsp;n/a&nbsp;</u></font></td>
+  </tr>
+  <tr>
+    <td VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">&nbsp;</td>
+  </tr>
+</table>
+<HR NOSHADE>
+<!-- End Checkboxes Page -->
+<!-- HR Page Break  -->
+</FONT>
+<P ALIGN="left">13 October 2005<br>
+Number 39/05</P>
+<P ALIGN="center"><BR>
+</FONT><B><FONT FACE="Arial">BHP BILLITON UPDATE ON US GULF OF MEXICO 
+OPERATIONS</FONT></B></P>
+<P ALIGN="left">&nbsp;</P>
+<P ALIGN="left"><FONT FACE="Arial" SIZE=3>BHP Billiton's petroleum exploration 
+and production operations in the US Gulf of Mexico (GoM) have recommenced 
+following Hurricane Rita.  After completing necessary inspections, both the Mad 
+Dog and Genesis fields have safely resumed production.  The West Cameron 76, 
+Starlifter, Green Canyon 18-Ewing Bank 988, and Green Canyon 60 fields are in 
+various stages of start-up and are expected to resume in the next few days and 
+weeks.  This schedule is dependent on the resumption of third-party downstream
+infrastructure, including pipelines, onshore terminals and other facilities.</P>
+<P>BHP Billiton's share of production from the GoM for the 12-month period ended
+June 30, 2005 was approximately 25,000 barrels of oil equivalent per day 
+(boe/d).  As of October 10, the company's production level had returned to about
+forty percent of this rate.    </P>
+<P>As previously disclosed, the Typhoon facility was heavily damaged by 
+Hurricane Rita. The timing of production resumption from the Typhoon and Boris 
+oil and gas fields is unclear.  For the 12-month period ending June 30, 2005, 
+4.3 million barrels of oil and 7.1 billion cubic feet of natural gas were 
+produced through the Typhoon facility (BHP Billiton share: equivalent to 
+approximately 15,000 boe/d).  In the current financial year, production through 
+Typhoon was expected to be less than 5 percent of the company's total oil and 
+gas production.</P>
+<P>The operator of the Typhoon field (Chevron) has formed two teams; an 
+investigation team has been charged with determining why the facility was lost 
+and a restoration team will recommend how best to restore Typhoon-Boris 
+production.  It is too early to speculate on the findings and recommendations 
+from either team.  We expect the investigation team to take several weeks and 
+the restoration team to take several months to complete their work.</P>
+<P>The company holds both property damage and business interruption insurance in
+relation to the assets in the GoM.  The likely recovery from insurance is not 
+known at this stage.</P>
+<P>Among other activities, the company's GoM exploration and development 
+drilling operations have resumed.  As a result of Hurricanes Katrina and Rita, 
+all well schedules have been delayed by 4-6 weeks. The effect that these delays 
+will have on production in future years is difficult to assess at this time. 
+</P>
+<P>The company does not currently see any impact on the first-oil schedules for 
+its Atlantis or Neptune developments.  The Atlantis field is the next BHP 
+Billiton development to come on-stream.  This is still anticipated during the 
+third quarter of 2006. However, flow-on effects from further delays with third-
+party service providers to other projects or unusually severe marine conditions 
+over the next 12 months cannot be ruled out.</P>
+<P>For the current financial year, BHP Billiton's net oil and gas production is 
+likely to be as much as 10 million boe lower than previous guidance. 
+Approximately 4.5 million boe of this is associated with GoM operations, which 
+assumes loss of production from Typhoon for the balance of the fiscal year.  
+Unplanned outages in Australia account for 1.5 million boe of lower production. 
+The balance relates to our Production Sharing and Risk Sharing Contracts, 
+whereby increasing oil prices reduce the company's production share.</P>
+<p>&nbsp;</p>
+ </FONT><font size="3">
+<p>Further information on BHP Billiton can be found on our Internet site:
+http://www.bhpbilliton.com<br>
+<br>
+</p>
+</font>
+<table cellSpacing="0" cellPadding="9" width="750" border="0">
+      <tr>
+      <td vAlign="top" width="50%"><b><font size="1">
+        <p align="justify">Australia<br>
+        </font></b><font size="1">Jane Belcher, Investor Relations<br>
+        Tel: +61 3 9609 3952 Mobile: +61 417 031 653<br>
+        email: Jane.H.Belcher@bhpbilliton.com</font></p>
+      </td>
+      <td vAlign="top" width="50%"><b><font size="1">
+        <p>United Kingdom</font></b><font size="1"><a name="OLE_LINK4"><br>
+        Mark Lidiard, Investor &amp; Media Relations<br>
+        Tel: +44 20 7802 4156 Mobile: +44 7769 934 942<br>
+        email: </a>Mark.Lidiard@bhpbilliton.com<br>
+        </font></p>
+      </td>
+    </tr>
+<tr>
+      <td vAlign="top" width="50%"><font size="1">
+        <p>Tania Price, Media Relations<br>
+        Tel: +61 3 9609 3815 Mobile: +61 419 152 780<br>
+        email: Tania.Price@bhpbilliton.com</font></p>
+        <b><font size="1">
+        <p>United States<br>
+        </font></b><font size="1">Tracey Whitehead, Investor &amp; Media
+        Relations<br>
+        Tel: US +1 713 599 6100 or UK +44 20 7802 4031<br>
+        Mobile: +44 7917 648 093<br>
+        email: Tracey.Whitehead@bhpbilliton.com</font></p>
+      </td>
+      <td vAlign="top" width="50%"><font size="1">
+        <p>Ariane Gentil, Media Relations<br>
+        Tel: +44 20 7802 4177 Mobile: +44 78 81 51 8715<br>
+        email: Ariane.Gentil@bhpbilliton.com</font></p>
+        <font size="1"><b>
+        <p>South Africa</b><br>
+        Michael Campbell, Investor &amp; Media Relations<br>
+        Tel: +27 11 376 3360 Mobile: +27 82 458 2587<br>
+        email: Michael.J.Campbell@bhpbilliton.com</font></p>
+      </td>
+    </tr>
+  </table>
+<p>&nbsp;</p>
+<table cellSpacing="0" cellPadding="9" width="890" border="0">
+      <tr>
+      <td vAlign="top" width="422" colSpan="2"><b><font face="Arial" size="1">
+        <p>BHP Billiton Limited ABN 49 004 028 077<br>
+        </font></b><font face="Arial" size="1">Registered in Australia<br>
+        Registered Office: Level 27, 180 Lonsdale Street Melbourne Victoria 
+3000<br>
+        Telephone +61 1300 554 757 Facsimile +61 3 9609 3015</font></p>
+      </td>
+      <td vAlign="top" width="428"><b><font face="Arial" size="1">
+        <p>BHP Billiton Plc Registration number 3196209<br>
+        </font></b><font face="Arial" size="1">Registered in England and 
+Wales<br>
+        Registered Office: Neathouse Place London SW1V 1BH United Kingdom<br>
+        Telephone +44 20 7802 4000 Facsimile +44 20 7802 4111</font></p>
+      </td>
+    </tr>
+  </table>
+<font face="Arial" size="1"><i><b>
+<p 
+align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
+sp;&nbsp;&nbsp;
+The BHP Billiton Group is headquartered in Australia</p>
+</b></i></font>
+<p align="left">&nbsp;</p>
+<i>
+<hr noShade>
+<div style="PAGE-BREAK-BEFORE: always" align="left">
+  <!-- Page Break  -->
+</i>
+<div style="PAGE-BREAK-BEFORE: always" align="left">
+  <!-- End Page Break -->
+  <!-- Signatures Page Header -->
+  <font size="+1"><center>SIGNATURES</center></font>
+<table cellSpacing="0" cellPadding="0" width="100%" border="0">
+          <tr>
+        <td vAlign="bottom" align="left" width="100%">&nbsp;</td>
+      </tr>
+      <tr>
+        <td vAlign="bottom" align="left" width="100%">Pursuant to the
+          requirements of the Securities Exchange Act of 1934, the registrant
+          has duly caused this report to be signed on its behalf by the
+          undersigned, thereunto duly authorized.</td>
+      </tr>
+      <tr>
+        <td vAlign="bottom" align="left" width="100%">&nbsp;</td>
+      </tr>
+      </table>
+  <i><!-- End Signatures Page Header -->
+  <!-- Signatures Page Details -->
+  </i>
+  <table cellSpacing="0" cellPadding="0" width="100%" border="0">
+          <tr>
+        <td vAlign="bottom" align="left" width="40%">&nbsp;</td>
+        <td vAlign="bottom" align="left" width="4%">&nbsp;</td>
+        <td vAlign="bottom" align="left" width="56%">BHP Billiton Plc</td>
+      </tr>
+      <tr>
+        <td vAlign="bottom" align="left" width="40%">&nbsp;</td>
+        <td vAlign="bottom" align="left" width="4%">&nbsp;</td>
+        <td vAlign="bottom" align="left" width="56%">&nbsp;</td>
+      </tr>
+      <tr>
+        <td vAlign="top" align="left" width="40%">Date: 13 October 2005</td>
+        <td vAlign="top" align="left" width="4%">By:</td>
+        <td vAlign="top" align="left" width="56%">
+          <p align="left">Karen Wood<br>
+          <i>
+          <hr align="left" width="30%" noShade>
+          </i></td>
+      </tr>
+      <tr>
+        <td vAlign="bottom" align="left" width="40%">&nbsp;</td>
+        <td vAlign="bottom" align="left" width="4%">Name:&nbsp;</td>
+        <td vAlign="bottom" align="left" width="56%">Karen Wood</td>
+      </tr>
+      <tr>
+        <td vAlign="bottom" align="left" width="40%">&nbsp;</td>
+        <td vAlign="bottom" align="left" width="4%">Title:</td>
+        <td vAlign="bottom" align="left" width="56%">Company Secretary</td>
+      </tr>
+      </table>
+</div>
+</div>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

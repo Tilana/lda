@@ -1,0 +1,616 @@
+
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ UAYCco5+UbdGQNUt/RF7a66xvHHzZ+OMWXPOLukiQKGf6w965d0N4ypL2oa//wxJ
+ d7ZfpXFzeRhN3VG1hJqr+g==
+<SEC-DOCUMENT>0001140361-05-009907.txt : 20051118
+<SEC-HEADER>0001140361-05-009907.hdr.sgml : 20051118
+<ACCEPTANCE-DATETIME>20051118125256
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+6-K
+6
+20051117
+0001140361-05-009907
+20051118
+20051118
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: MINING, QUARRYING OF NONMETALLIC
+AURORA METALS BVI LTD
+0001117073
+MINERALS (NO FUELS) [1400]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+133945947
+D8
+1231
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 000-30816
+FILM NUMBER:
+6-K
+1934 Act
+051214605
+BUSINESS ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+MAIL ADDRESS:
+PO BOX 3711, STN TERMINAL
+349 WEST GEORGIA STREET,
+VANCOUVER
+A1
+V6B 3Z1
+6046874701
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+POST OFFICE BOX 3711, STN TERMINAL
+349 WEST GEORGIA ST
+VANCOUVER
+A1
+V6B 3Z1
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>body.txt
+<DESCRIPTION>AURORA METALS 6-K 11-17-2005
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+Form 6-K
+Report of Foreign Private Issuer Pursuant to Rule 13a-16 or 15d-16 Under the
+                         Securities Exchange Act of 1934
+For the month of: November 2005
+                         Commission File Number: 0-30816
+AURORA METALS (BVI) LIMITED
+                               (Name of Registrant)
+P.O. Box 3711 Station Terminal, 349 West Georgia Street,
+                         Vancouver, B.C., Canada V6B 3Z1
+                     (Address of Principal Executive Offices)
+                             Telephone: 303-727-8609
+Indicate by check mark whether the registrant files or will file annual reports
+under cover of Form 20-F or Form 40-F:
+Form 20-F [X]          Form 40-F [_]
+Indicate by check mark if the registrant is submitting the Form 6-K in paper as
+permitted by Regulation S-T Rule 101(b)(1): [_]
+NOTE: Regulation S-T Rule 101(b)(1) only permits the submission in paper of a
+Form 6-K if submitted solely to provide an attached annual report to security
+holders.
+Indicate by check mark if the registrant is submitting the Form 6-K in paper as
+permitted by Regulation S-T Rule 101(b)(7): [_]
+NOTE: Regulation S-T Rule 101(b)(7) only permits the submission in paper of a
+Form 6-K if submitted to furnish a report or other document that the registrant
+foreign private issuer must furnish and make public under the laws of the
+jurisdiction in which the registrant is incorporated, domiciled or legally
+organized (the registrant's "home country"), or under the rules of the home
+country exchange on which the registrant's securities are traded, as long as the
+report or other document is not a press release, is not required to be and has
+not been distributed to the registrant's security holders, and, if discussing a
+material event, has already been the subject of a Form 6-K submission or other
+Commission filing on EDGAR.
+Indicate by check mark whether the registrant by furnishing the information
+contained in this Form, is also thereby furnishing the information to the
+Commission pursuant to Rule 12g3-2(b) under the Securities Exchange Act of 1934.
+Yes [_] No [X]
+If "Yes" is marked, indicate below the file number assigned to the registrant in
+connection with Rule 12g3-2(b): 82-
+<PAGE>
+                                   SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+AURORA METALS (BVI) LIMITED
+Date: November 17, 2005                     BY:  /s/ John A.A. James
+      -----------------                          -------------------
+                                                    John A.A. James
+                                                    President and Director
+Date: November 17, 2005                     BY:  /s/ A. Cameron Richardson
+      -----------------                          -------------------------
+A. Cameron Richardson
+                                            Chief Financial Officer and Director
+EXHIBIT INDEX
+Exhibit   Description  of  Exhibit:
+99.1      Aurora  Metals  (BVI) Limited third Quarter Report for 2005, including
+          the  Comparative Unaudited Financial Statements prepared in accordance
+          with the U.S. generally accepted accounting principles ("US GAAP") and
+          the  notes  thereto  for  the  quarter  ended  September  30,  2005.
+12.1      Certification  of  Chief  Executive Officer pursuant to Section 302 of
+          the  Sarbanes-Oxley  Act  of  2002.
+12.2      Certification  of  Chief  Financial Officer pursuant to Section 302 of
+          the  Sarbanes-Oxley  Act  of  2002
+13.1      Certification of Chief Executive Officer pursuant to 18 U.S.C. Section
+          1350  as  adopted pursuant to Section 906 of the Sarbanes-Oxley Act of
+          2002.
+13.2      Certification of Chief Financial Officer pursuant to 18 U.S.C. Section
+          1350  as  adopted pursuant to Section 906 of the Sarbanes-Oxley Act of
+          2002.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-12.1
+<SEQUENCE>2
+<FILENAME>ex12_1.txt
+<DESCRIPTION>EXHIBIT 12.1
+<TEXT>
+EXHIBIT 12.1
+CERTIFICATIONS
+            SECTION 302 CERTIFICATION OF THE CHIEF EXECUTIVE OFFICER
+I, John A.A. James, President and Chief Executive Officer of Aurora Metals (BVI)
+Limited, certify that:
+1)   I have reviewed this interim Report on Form 6-K of Aurora Metals (BVI)
+     Limited;
+2)   Based on my knowledge, this report does not contain any untrue statement of
+     a material fact or omit to state a material fact necessary to make the
+     statements made, in light of the circumstances under which such statements
+     were made, not misleading with respect to the period covered by this
+     interim report;
+3)   Based on my knowledge, the financial statements, and other financial
+     information included in this interim report, fairly present in all material
+     respects the financial condition, results of operations and cash flows of
+     the Company as of, and for, the periods presented in this interim report;
+4)   The Company's other certifying officers and I are responsible for
+     establishing and maintaining disclosure controls and procedures (as defined
+     in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the Company and have:
+a)   designed such disclosure controls and procedures, or caused such
+          disclosure controls and procedures to be designed under our
+          supervision, to ensure that material information relating to the
+          Company, including its consolidated subsidiaries, is made known to us
+          by others within those entities, particularly during the period in
+          which this report is being prepared;
+b)   evaluated the effectiveness of the Company's disclosure controls and
+          procedures and presented in this report our conclusions about the
+          effectiveness of the disclosure controls and procedures, as of the end
+          of the period covered by this report based on such evaluation; and
+c)   disclosed in this report any change in the Company's internal control
+          over financial reporting that occurred during the period covered by
+          this interim report that has materially affected, or is reasonably
+          likely to materially affect, the Company's internal control over
+          financial reporting; and
+5)   The Company's other certifying officers and I have disclosed, based on our
+     most recent evaluation of internal control over financial reporting, to the
+     Company's auditors and the audit committee of the Company's board of
+     directors (or persons performing the equivalent functions):
+a)   All significant deficiencies in the design or operation of internal
+          controls over financial reporting which are reasonably likely to
+          adversely affect the Company's ability to record, process, summarize
+          and report financial information; and
+b)   Any fraud, whether or not material, that involves management or other
+          employees who have a significant role in the Company's internal
+          control over financial reporting.
+Date: November17, 2005                     BY: /s/ John A.A. James
+      ----------------                         -------------------
+                                                   John A.A. James
+                                                   President
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-12.2
+<SEQUENCE>3
+<FILENAME>ex12_2.txt
+<DESCRIPTION>EXHIBIT 12.2
+<TEXT>
+EXHIBIT 12.2
+CERTIFICATIONS
+SECTION 302 CERTIFICATION OF THE CHIEF FINANCIAL OFFICER
+I, A. Cameron Richardson, Chief Financial Officer of Aurora Metals (BVI)
+Limited, certify that:
+1)   I have reviewed this interim Report on Form 6-K of Aurora Metals (BVI)
+     Limited;
+2)   Based on my knowledge, this report does not contain any untrue statement of
+     a material fact or omit to state a material fact necessary to make the
+     statements made, in light of the circumstances under which such statements
+     were made, not misleading with respect to the period covered by this
+     interim report;
+3)   Based on my knowledge, the financial statements, and other financial
+     information included in this interim report, fairly present in all material
+     respects the financial condition, results of operations and cash flows of
+     the Company as of, and for, the periods presented in this interim report;
+4)   The Company's other certifying officers and I are responsible for
+     establishing and maintaining disclosure controls and procedures (as defined
+in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the Company and have:
+a)   designed such disclosure controls and procedures, or caused such
+          disclosure controls and procedures to be designed under our
+          supervision, to ensure that material information relating to the
+          Company, including its consolidated subsidiaries, is made known to us
+          by others within those entities, particularly during the period in
+          which this report is being prepared;
+b)   evaluated the effectiveness of the Company's disclosure controls and
+          procedures and presented in this report our conclusions about the
+          effectiveness of the disclosure controls and procedures, as of the end
+          of the period covered by this report based on such evaluation; and
+c)   disclosed in this report any change in the Company's internal control
+          over financial reporting that occurred during the period covered by
+          this interim report that has materially affected, or is reasonably
+          likely to materially affect, the Company's internal control over
+          financial reporting; and
+5)   The Company's other certifying officers and I have disclosed, based on our
+     most recent evaluation of internal control over financial reporting, to the
+     Company's auditors and the audit committee of the Company's board of
+     directors (or persons performing the equivalent functions):
+a)   All significant deficiencies in the design or operation of internal
+          controls over financial reporting which are reasonably likely to
+          adversely affect the Company's ability to record, process, summarize
+          and report financial information; and
+b)   Any fraud, whether or not material, that involves management or other
+          employees who have a significant role in the Company's internal
+          control over financial reporting.
+Date: November 17, 2005                  BY: /s/ A. Cameron Richardson
+      -----------------                      ---------------------------
+                                                 A. Cameron Richardson
+                                                 Chief Financial Officer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13.1
+<SEQUENCE>4
+<FILENAME>ex13_1.txt
+<DESCRIPTION>EXHIBIT 13.1
+<TEXT>
+EXHIBIT 13.1
+SECTION 906 CERTIFICATION
+                                       of
+                            Periodic Financial Report
+      Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, 18 U.S.C.
+  (Subsection (a) and (b) of Section 1350, Chapter 63 of Title 18, United States
+                                      Code)
+I, John A.A. James, President and Chief Executive Officer of Aurora Metals (BVI)
+Limited, hereby certify that the Quarterly Report on Form 6-K for the period
+ended September 30, 2005 fully complies with the requirements of Section 13(a)
+or 15(d) of the Securities Exchange Act of 1934 and that the information
+contained in the periodic report fairly presents, in all material respects, the
+financial condition and results of operations of Aurora Metals (BVI) Limited
+Date: November 17, 2005                      BY: /s/ John A.A. James
+                                                 -------------------
+                                                     John A.A. James
+                                                     President
+This certification is made solely for the purposes of 18 U.S.C. Section 1350,
+subject to the knowledge standard set forth therein, and not for any other
+purpose. It is not being filed as part of the Annual Report or as a separate
+disclosure document.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13.2
+<SEQUENCE>5
+<FILENAME>ex13_2.txt
+<DESCRIPTION>EXHIBIT 13.2
+<TEXT>
+EXHIBIT 13.2
+SECTION 906 CERTIFICATION
+                                       of
+                            Periodic Financial Report
+      Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, 18 U.S.C.
+  (Subsection (a) and (b) of Section 1350, Chapter 63 of Title 18, United States
+                                      Code)
+I, A. Cameron Richardson, Chief Financial Officer of Aurora Metals (BVI)
+Limited, hereby certify that the Quarterly Report on Form 6-K for the period
+ended September 30, 2005 fully complies with the requirements of Section 13(a)
+or 15(d) of the Securities Exchange Act of 1934 and that the information
+contained in the periodic report fairly presents, in all material respects, the
+financial condition and results of operations of Aurora Metals (BVI) Limited.
+Date: November 17, 2005                  BY: /s/ A.  Cameron  Richardson
+      -----------------                      ---------------------------
+                                                 A.  Cameron  Richardson
+                                                 Chief Financial Officer
+This certification is made solely for the purposes of 18 U.S.C. Section 1350,
+subject to the knowledge standard set forth therein, and not for any other
+purpose. It is not being filed as part of the Annual Report or as a separate
+disclosure document.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>6
+<FILENAME>ex99_1.txt
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+Exhibit 99.1
+AURORA METALS (BVI) LIMITED
+This quarterly report contains statements that plan for or anticipate the future
+and  are  not  historical facts. In this Report these forward looking statements
+are  generally  identified  by  words  such  as "anticipate", "plan", "believe",
+"expect",  "estimate",  and the like. Because forward looking statements involve
+future  risks  and  uncertainties,  these  are  factors  that could cause actual
+results  to differ materially from the estimated results. Additional factors are
+discussed  in  Aurora Metals (BVI) Limited's materials filed with the securities
+regulatory  authorities  in  the  United States from time to time. Aurora Metals
+(BVI)  Limited  disclaims  any  intention  or obligation to update or revise any
+forward-looking  statements.
+The  Private  Securities  Litigation  Reform Act of 1995, which provides a "safe
+harbor"  for  such  statements,  may  not  apply  to  this  Report.
+<TABLE>
+<CAPTION>
+<S>                                         <C>
+Financial Statements:
+Consolidated Balance Sheets                 - September 30, 2005 and December 
+31, 2004
+Consolidated Statements of Operations       - Nine Months Ended September 30, 
+2005
+Consolidated Statements of Cash Flows       - Nine Months Ended September 30, 
+2005
+Notes to Consolidated Financial Statements
+</TABLE>
+2
+<PAGE>
+<TABLE>
+<CAPTION>
+AURORA METALS (BVI) LIMITED AND SUBSIDIARY
+(An exploration stage enterprise)
+Consolidated Balance Sheets
+September 30, 2005 and December 31, 2004
+(Expressed in U.S. Dollars)                               September 30    
+December 31
+(Unaudited)                                                   2005           
+2004
+- 
+--------------------------------------------------------------------------------
+------
+<S>                                                      <C>             <C>
+ASSETS
+Current assets
+  Cash and cash equivalents                              $       7,814   $     
+32,695
+  Accounts receivable                                                           
+106
+- 
+--------------------------------------------------------------------------------
+------
+Total current assets                                             7,814         
+32,801
+Mineral properties                                                   -          
+-
+- 
+--------------------------------------------------------------------------------
+------
+  Total assets                                           $       7,814   $     
+32,801
+- 
+--------------------------------------------------------------------------------
+------
+LIABILITIES AND STOCKHOLDERS' (DEFICIENCY)
+Current liabilities
+Accounts payable and accrued liabilities                        16,885         
+80,077
+- 
+--------------------------------------------------------------------------------
+------
+Total Liabilities                                        $      16,885   $     
+80,077
+- 
+--------------------------------------------------------------------------------
+------
+STOCKHOLDERS' EQUITY (DEFICIENCY)
+Share Capital
+Authorized
+50,000,000 common shares, with par value $0.01each
+Issued
+18,081,473 (December 2004 - 17,548,073) common shares          180,815        
+175,481
+Additional paid-in capital                                   1,539,049      
+1,464,373
+Accumulated deficit during the exploration stage            (1,728,935)    
+(1,687,130)
+- 
+--------------------------------------------------------------------------------
+------
+Stockholders' equity (deficiency)                               (9,071)       
+(47,276)
+- 
+--------------------------------------------------------------------------------
+------
+Total liabilities and stockholders' equity (deficiency)  $       7,814   $     
+32,801
+- 
+--------------------------------------------------------------------------------
+------
+<FN>
+The accompanying notes are an integral part of these financial statements
+</TABLE>
+3
+<PAGE>
+<TABLE>
+<CAPTION>
+AURORA METALS (BVI) LIMITED AND SUBSIDIARY
+(An exploration stage enterprise)
+Consolidated Statement of Operations           Cumulative     Three months     
+Three months      Nine months      Nine months
+(Expressed in U.S. Dollars)                 June 17, 1997            ended      
+ended            ended            ended
+(Unaudited)                                (inception) to     September 30     
+September 30     September 30     September 30
+                                             September 30  
+------------------------------------------------------------------
+                                                     2005             2005      
+2004             2005             2004
+- 
+--------------------------------------------------------------------------------
+---------------------------------------------
+<S>                                       <C>              <C>              <C> 
+<C>              <C>
+General and administrative expenses
+Administrative and general                $      142,536   $          422   $   
+4,756   $       16,580   $       21,959
+Professional fees - accounting and audit          76,671           10,755       
+480           10,942            7,270
+Professional fees - legal                        127,875              543       
+239            1,158            1,739
+Consulting fees                                  143,530            3,104       
+-            7,198                -
+Stock based compensation                           9,500                -       
+-                -                -
+- 
+--------------------------------------------------------------------------------
+---------------------------------------------
+                                                 500,112           14,824       
+5,475           35,878           30,968
+Project development expenses                     217,962              215       
+20,630              215           42,618
+Exploration expenses                             916,041            5,712       
+-            5,712                -
+Project finders' fees                             72,750                -       
+-                -           12,750
+Lease maintenance fee                             22,070                -       
+-                -                -
+- 
+--------------------------------------------------------------------------------
+---------------------------------------------
+Net (loss) for the period                     (1,728,935)         (20,751)      
+(26,105)         (41,805)         (86,336)
+- 
+--------------------------------------------------------------------------------
+---------------------------------------------
+Earnings per share data
+Loss per share, basic and diluted                                   (0.00)      
+(0.00)           (0.00)           (0.00)
+- 
+--------------------------------------------------------------------------------
+---------------------------------------------
+Weighted average common
+  Shares outstanding - basic and diluted                       17,753,981       
+17,181,666       17,753,981       17,181,666
+- 
+--------------------------------------------------------------------------------
+---------------------------------------------
+<FN>
+The accompanying notes are an integral part of these financial statements
+</TABLE>
+4
+<PAGE>
+<TABLE>
+<CAPTION>
+AURORA METALS (BVI) LIMITED AND SUBSIDIARY
+(An exploration stage enterprise)
+Nine months            Nine months
+                                                               Cumulative       
+ended                  ended
+Consolidated Statement of Cash Flows                         June 17, 1997
+September 30           September 30
+(Expressed in U.S. Dollars)                                 (inception) to   
+------------------------------------------
+(Unaudited)                                             September 30, 2005      
+2005                   2004
+- 
+--------------------------------------------------------------------------------
+---------------------------------------
+<S>                                                    <C>                   <C>
+<C>
+Cash flows from (used in) operating activities
+Net loss for the period                                $        (1,728,935)  $  
+(41,805)  $           (86,336)
+Adjustments to reconcile net loss to net cash used
+in operating activities:
+    -  stock based compensation                                      9,500      
+-                     -
+    -  issuance of stock for services                              336,135      
+80,010                12,750
+Changes in assets and liabilities
+    -  prepaid expenses and deposits                                     -      
+106                     -
+    -  accounts payable and accrued liabilities                    116,885      
+(63,192)              (23,203)
+- 
+--------------------------------------------------------------------------------
+---------------------------------------
+Net cash used in operating activities                           (1,266,415)     
+(24,881)              (96,789)
+- 
+--------------------------------------------------------------------------------
+---------------------------------------
+Cash flows from (used in) financing activities
+Proceeds from issuance of common stock                           1,274,229      
+-               150,000
+- 
+--------------------------------------------------------------------------------
+---------------------------------------
+Net increase (decrease) in cash and cash equivalents
+equivalents                                                          7,814      
+(24,881)               53,211
+Cash and cash equivalents, beginning of period                           -      
+32,695                   737
+- 
+--------------------------------------------------------------------------------
+---------------------------------------
+Cash and cash equivalents, end of period               $             7,814   $  
+7,814   $            53,948
+- 
+--------------------------------------------------------------------------------
+---------------------------------------
+<FN>
+The accompanying notes are an integral part of these financial statements
+</TABLE>
+Notes  to  the  September  30,  2005  Consolidated  Financial  Statements
+- -------------------------------------------------------------------------
+Common  Shares  Outstanding
+As at September 30, 2005, the Corporation's authorized capital stock consists of
+50,000,000  common  shares  with  a  par  value  of  $0.01 per share. There were
+18,081,473  common  shares  issued  and  outstanding  at  September  30,  2005.
+Stock  Options  Outstanding
+At  September 30, 2005 the Company had 1,000,000 (December 31, 2004 - 1,100,000)
+options  outstanding  with  an  exercise  price  of  $0.05  per  common  share.
+Application  of  Critical  Accounting  Policies
+The preparation of its consolidated financial statements requires the Company to
+use  estimates  and  assumptions  that affect the reported amounts of assets and
+liabilities  as well as revenues and expenses. The Company's accounting policies
+are  described  in  note  2  to  its  December  31,  2004 consolidated financial
+statements.  The  Company's  accounting  policies  relating  to depreciation and
+amortization  of
+5
+<PAGE>
+property,  plant and equipment are critical accounting policies that are subject
+to  estimates  and  assumptions  regarding  future  activities.
+See  note  2  (d)  Significant  Accounting  Policies  -  Mineral  Properties and
+Exploration  Expenses  described in its December 31, 2004 consolidated financial
+statements  for  the  Company's  policy  on  exploration  costs  and  expenses.
+Generally  accepted accounting principles require the Company to consider at the
+end of each accounting period whether or not there has been an impairment of the
+capitalized  property,  plant and equipment. This assessment is based on whether
+factors  that may indicate the need for a write-down are present. If the Company
+determines  there  has been an impairment, then the Company would be required to
+write-down  the  recorded value of its property, plant and equipment costs which
+would  reduce  the  Company's  earnings  and  net  assets.
+Off-balance  Sheet  Arrangements  and  Contractual  Obligations
+The  Company  does  not  have  any off-balance sheet arrangements or contractual
+obligations  that are likely to have or are reasonably likely to have a material
+current  or  future  effect  on  the  Company's  financial condition, changes in
+financial  condition,  revenues  or  expenses, results of operations, liquidity,
+capital  expenditures  or  capital resources that have not been disclosed in the
+Company's  financial  statements.
+Market  Risk  Disclosures
+The  Company  has not entered into derivative contracts either to hedge existing
+risks  or  for  speculative  purposes.
+Controls  and  Procedures
+The  principal  executive  and  principal financial officers of the Company have
+evaluated  the effectiveness of our disclosure controls and procedures as of the
+end  of  the  period covered by this report (evaluation date) and have concluded
+that  the  disclosure  controls  and procedures are adequate and effective based
+upon  their  evaluation  as  of  the  evaluation  date.
+There were no significant changes in our controls or in other factors that could
+significantly  affect these internal controls subsequent to the date of the most
+recent  evaluation.
+6
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

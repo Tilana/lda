@@ -1,0 +1,550 @@
+
+<SEC-DOCUMENT>0001102624-16-003263.txt : 20160811
+<SEC-HEADER>0001102624-16-003263.hdr.sgml : 20160811
+<ACCEPTANCE-DATETIME>20160811113139
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+6-K
+3
+20160811
+0001102624-16-003263
+20160811
+20160811
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: GOLD & SILVER ORES [1040]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+REPLICEL LIFE SCIENCES INC.
+0001205059
+000000000
+1231
+A1
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 000-50112
+FILM NUMBER:
+6-K
+1934 Act
+161823531
+BUSINESS ADDRESS:
+STREET 1:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+MAIL ADDRESS:
+STREET 1:
+CITY:
+STATE:
+ZIP:
+FORMER COMPANY:
+SUITE 900 - 570 GRANVILLE STREET
+VANCOUVER BC
+A1
+V6C 3P1
+604-248-8693
+SUITE 900 - 570 GRANVILLE STREET
+VANCOUVER BC
+A1
+V6C 3P1
+FORMER CONFORMED NAME: NEWCASTLE RESOURCES LTD.
+DATE OF NAME CHANGE:
+20081128
+FORMER COMPANY:
+FORMER CONFORMED NAME: PAN AMERICAN GOLD CORP
+DATE OF NAME CHANGE:
+20040521
+FORMER COMPANY:
+FORMER CONFORMED NAME: TRI LATERAL VENTURE CORP
+DATE OF NAME CHANGE:
+20021109
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>replicel6k.htm
+<DESCRIPTION>REPLICEL LIFE SCIENCES 6-K
+<TEXT>
+<html>
+<head>
+<title></title>
+<!--Licensed to: Marketwired
+    Document created using EDGARfilings PROfile 4.0.0.0
+    Copyright 1995 - 2016 Summit Financial Printing, LLC.  All rights 
+reserved.-->
+</head>
+<body style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" 
+bgcolor="#ffffff" text="#000000">
+<div>
+<hr style="BORDER-BOTTOM: black 1px solid; TEXT-ALIGN: center; BACKGROUND-COLOR:
+#ffffff; HEIGHT: 10px; COLOR: #ffffff; MARGIN-LEFT: auto; BORDER-TOP: black 4px 
+solid; MARGIN-RIGHT: auto">
+</div>
+<div>&#160;</div>
+<div><font style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10pt">&#160; 
+</font>
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt; MARGIN-TOP: 12pt; FONT-
+FAMILY: 'Times New Roman'; FONT-SIZE: 10pt; FONT-WEIGHT: bold">UNITED 
+STATES</div>
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt; FONT-FAMILY: 'Times New 
+Roman'; FONT-SIZE: 10pt; FONT-WEIGHT: bold">SECURITIES AND EXCHANGE 
+COMMISSION</div>
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt; FONT-FAMILY: 'Times New 
+Roman'; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Washington, D.C.&#160; 20549</div>
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt; MARGIN-TOP: 12pt; FONT-
+FAMILY: 'Times New Roman'; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Form 6-K</div>
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt; MARGIN-TOP: 12pt; FONT-
+FAMILY: 'Times New Roman'; FONT-SIZE: 10pt; FONT-WEIGHT: bold">REPORT OF FOREIGN
+PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE 
+ACT OF 1934</div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 13.7pt; MARGIN-TOP: 12pt; FONT-
+FAMILY: 'Times New Roman'; FONT-SIZE: 10pt">For the month of&#160;<font 
+style="FONT-VARIANT: normal; FONT-STYLE: normal; FONT-FAMILY: 'Times New Roman';
+FONT-SIZE: 10pt; FONT-WEIGHT: normal"><u>August 2016</u></font></div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 12.55pt; MARGIN-TOP: 12pt; FONT-
+FAMILY: 'Times New Roman'; FONT-SIZE: 10pt">Commission File Number <u>000-
+</u><u>50112</u></div>
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt; MARGIN-TOP: 12pt; FONT-
+FAMILY: 'Times New Roman'; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><u>RepliCel Life 
+Sciences Inc.</u></div>
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt; FONT-FAMILY: 'Times New 
+Roman'; FONT-SIZE: 10pt">(Translation of registrant&#8217;s name into 
+English)</div>
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt; MARGIN-TOP: 12pt; FONT-
+FAMILY: 'Times New Roman'; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><u>Suite 2020 
+&#8211; 401 West Georgia Street, Vancouver, British Columbia&#160; V6B 
+5A1</u></div>
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt; FONT-FAMILY: 'Times New 
+Roman'; FONT-SIZE: 10pt">(Address of principal executive office)</div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 13.7pt; MARGIN-TOP: 12pt; FONT-
+FAMILY: 'Times New Roman'; FONT-SIZE: 10pt">Indicate by check mark whether the 
+registrant files or will file annual reports under cover of Form 20-F or Form 
+40-F.&#160; &#160;&#160; Form 20-F&#160;&#160;[X]&#160; Form 40-F&#160;&#160;
+[&#160; ]</div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 13.7pt; MARGIN-TOP: 12pt; FONT-
+FAMILY: 'Times New Roman'; FONT-SIZE: 10pt">Indicate by check mark if the 
+registrant is submitting the Form 6-K in paper as permitted by Regulation S-T 
+Rule 101(b)(1) &#160;[&#160; ]</div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 13.7pt; MARGIN-TOP: 12pt; FONT-
+FAMILY: 'Times New Roman'; FONT-SIZE: 10pt"><font style="FONT-WEIGHT: 
+bold">Note:&#160; </font>Regulation S-T Rule 101(b)(1) only permits the 
+submission in paper of a Form 6-K if submitted solely to provide an attached 
+annual report to security holders.</div>
+</div>
+<div style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10pt">&#160;</div>
+<div style="MARGIN-TOP: 10pt; FONT-FAMILY: 'Times New Roman'; MARGIN-BOTTOM: 
+10pt; CLEAR: both; FONT-SIZE: 10pt" id="DSPFPageBreakArea">
+<div style="PAGE-BREAK-AFTER: always" id="DSPFPageBreak">
+<hr style="BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: #000000; MARGIN: 4px 0px; 
+WIDTH: 100%; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 2px; 
+COLOR: #000000; CLEAR: both; BORDER-LEFT-WIDTH: 0px" noshade="noshade">
+</div>
+</div>
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 12.55pt; MARGIN-TOP: 12pt; FONT-
+FAMILY: Calibri, sans-serif; FONT-SIZE: 11pt; FONT-WEIGHT: bold"><u><br>
+<font style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10pt">SUBMITTED 
+HEREWITH</font></u><br style="LINE-HEIGHT: 12.55pt">
+</div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 12.55pt; MARGIN-TOP: 12pt"><a 
+href="exh99_1.htm#Exhibit99.1">99.1&#160;</a>&#160;&#160;&#160;&#160;&#160;&#160
+;&#160;&#160; RepliCel Life Sciences Announces Completion of the Final Injection
+in its Tendon Repair Clinical Trial
+<div id="DSPFPageFooter"></div>
+<div style="LINE-HEIGHT: 12.55pt">&#160;</div>
+</div>
+<div style="MARGIN-TOP: 10pt; FONT-FAMILY: 'Times New Roman'; MARGIN-BOTTOM: 
+10pt; CLEAR: both; FONT-SIZE: 10pt" id="DSPFPageBreakArea">
+<div style="PAGE-BREAK-AFTER: always" id="DSPFPageBreak">
+<hr style="BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: #000000; MARGIN: 4px 0px; 
+WIDTH: 100%; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 2px; 
+COLOR: #000000; CLEAR: both; BORDER-LEFT-WIDTH: 0px" noshade="noshade">
+</div>
+</div>
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 12.55pt; MARGIN-TOP: 12pt; FONT-
+FAMILY: 'Times New Roman'; FONT-SIZE: 10pt; FONT-WEIGHT: bold">SIGNATURES</div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 12.55pt; MARGIN-TOP: 12pt; FONT-
+FAMILY: 'Times New Roman'; FONT-SIZE: 10pt">Pursuant to the requirements of the 
+Securities Exchange Act of 1934, the registrant has duly caused this report to 
+be signed on its behalf by the undersigned, thereunto duly authorized.</div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 12.55pt; MARGIN-TOP: 12pt; FONT-
+FAMILY: 'Times New Roman'; FONT-SIZE: 10pt; FONT-WEIGHT: bold">RepliCel Life 
+Sciences Inc.<br style="LINE-HEIGHT: 12.55pt">
+</div>
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 12.55pt; FONT-FAMILY: 'Times New 
+Roman'; FONT-SIZE: 10pt"><u>/s/ Lee 
+Buckler&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&
+#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#1
+60;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160
+;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </u></div>
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 12.55pt; FONT-FAMILY: 'Times New 
+Roman'; FONT-SIZE: 10pt">Lee Buckler, President &amp; CEO</div>
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 12.55pt; FONT-FAMILY: 'Times New 
+Roman'; FONT-SIZE: 10pt">Date:&#160; August 11, 2016</div>
+<div style="LINE-HEIGHT: 12.55pt; MARGIN-TOP: 12pt"><br style="LINE-HEIGHT: 
+12.55pt">
+<hr style="BORDER-BOTTOM: black 4px solid; TEXT-ALIGN: center; BACKGROUND-COLOR:
+#ffffff; HEIGHT: 10px; COLOR: #ffffff; MARGIN-LEFT: auto; BORDER-TOP: black 1px 
+solid; MARGIN-RIGHT: auto">
+</div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>exh99_1.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<html>
+<head>
+<title></title>
+<!--Licensed to: Marketwired
+    Document created using EDGARfilings PROfile 4.0.0.0
+    Copyright 1995 - 2016 Summit Financial Printing, LLC.  All rights 
+reserved.-->
+</head>
+<body style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" 
+bgcolor="#ffffff" text="#000000">
+<div>&#160;</div>
+<div>
+<hr style="BORDER-BOTTOM: black 1px solid; TEXT-ALIGN: center; BACKGROUND-COLOR:
+#ffffff; HEIGHT: 10px; COLOR: #ffffff; MARGIN-LEFT: auto; BORDER-TOP: black 4px 
+solid; MARGIN-RIGHT: auto">
+</div>
+<div style="TEXT-ALIGN: right; FONT-WEIGHT: bold"><a id="Exhibit99.1" 
+name="Exhibit99.1"><!--Anchor--></a>Exhibit 99.1</div>
+<div>
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; 
+COLOR: #404040; FONT-SIZE: 14pt; FONT-WEIGHT: bold"><img 
+src="image00001.jpg"></div>
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; 
+COLOR: #595959; FONT-SIZE: 10pt; FONT-WEIGHT: bold">NEWS RELEASE</div>
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; 
+COLOR: #404040; FONT-SIZE: 14pt; FONT-WEIGHT: bold">&#160;</div>
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; 
+COLOR: #000000; FONT-SIZE: 14pt; FONT-WEIGHT: bold">RepliCel Life Sciences 
+Announces Completion of the Final Injection in its <br>
+ Tendon Repair Clinical Trial</div>
+<div style="COLOR: #000000"><br>
+</div>
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; 
+COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Initial Safety and Clinical 
+Efficacy Data from the RCT-01 Trial is Expected to be Available for <br>
+ Analysis in December</div>
+<div style="COLOR: #000000"><br>
+</div>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; 
+COLOR: #000000; FONT-SIZE: 10pt"><font style="FONT-FAMILY: 'Times New Roman', 
+Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">VANCOUVER, BC &#8211; August 
+11, 2016 &#8211; RepliCel Life Sciences Inc. ("RepliCel" or the "Company") 
+(OTCQB: REPCF)</font>&#160;<font style="FONT-FAMILY: 'Times New Roman', Times, 
+serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">(TSX.V: RP) (Frankfurt: P6P1)</font>,
+a clinical stage regenerative medicine company focused on the development of 
+autologous cell therapies,<font style="FONT-FAMILY: 'Times New Roman', Times, 
+serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">&#160;</font>announced today that it 
+has performed the final injection in its clinical trial of RCT-01 treating 
+patients with chronic achilles tendinopathy. The last scheduled patient visit to
+collect treatment follow-up data will be in late November.</div>
+<div style="COLOR: #000000"><br>
+</div>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; 
+COLOR: #000000; FONT-SIZE: 10pt">Clinical safety and 6-month efficacy data from 
+the trial is expected to be un-blinded and made available for analysis and 
+dissemination near year-end. Numerous measures of efficacy are being recorded in
+the post-injection follow-up of the patients including function and pain scores 
+as well as ultrasound imaging of the treated tendon.</div>
+<div style="COLOR: #000000"><br>
+</div>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; 
+COLOR: #000000; FONT-SIZE: 10pt">"This trial is a phase 1 safety trial designed 
+to observe and measure certain signs of efficacy but not statistically powered 
+for efficacy data.&#160; What we are looking for is a convincing signal, in at 
+least some of the treated patients, that the product has clinically relevant 
+outcomes in terms of restoration of function, reduction of pain, and/or 
+regeneration of the tendon structure as measured by ultrasound imaging," stated 
+RepliCel's Chief Medical Officer, Dr. Rolf Hoffmann.</div>
+<div style="COLOR: #000000"><br>
+</div>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; 
+COLOR: #000000; FONT-SIZE: 10pt">Data pertaining to the treatment's effects will
+inform and guide the Company's product development and clinical trial strategy 
+not only for achilles tendinopathy but also for numerous other tendon repair 
+applications including the treatment of jumper's knee, golfer's elbow, tennis 
+elbow, and rotator cuff.</div>
+<div style="COLOR: #000000"><br>
+</div>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; 
+COLOR: #000000; FONT-SIZE: 10pt">"We are confident the safety and preliminary 
+efficacy data obtained by year-end will provide a signal of the product's 
+potential to regenerate chronically injured tendons that have failed to respond 
+to other treatments. This will allow our team to effectively plan the next-steps
+for this asset both clinically and commercially," said R. Lee Buckler, 
+RepliCel's President &amp; CEO.</div>
+<div style="COLOR: #000000"><br>
+</div>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; 
+COLOR: #000000; FONT-SIZE: 10pt">"Positive safety data and a signal of efficacy 
+from this trial will support the Company in moving forward with a next-phase 
+trial in 2017 and may also carry with it an opportunity to enter into a 
+licensing and/or co-development agreement with a larger partner," Buckler 
+concluded.</div>
+<div style="COLOR: #000000"><br>
+</div>
+<div style="COLOR: #000000"><br>
+</div>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; 
+COLOR: #000000; FONT-SIZE: 10pt"><u>RCT-01: Tendon Repair</u></div>
+<div style="COLOR: #000000"><br>
+</div>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; 
+COLOR: #000000; FONT-SIZE: 10pt">RCT-01 is a proprietary cell-therapy product 
+comprised of non-bulbar dermal sheath (NBDS) cells which are type 1 collagen-
+expressing fibroblasts derived from the hair follicle. The phase 1/2, single-
+centre trial currently ongoing in Vancouver, British Columbia, is investigating 
+the use of RCT-01 as a treatment for chronically injured ankle (Achilles) 
+tendons otherwise called Achilles tendinopathy or tendinosis.</div>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; 
+COLOR: #000000; FONT-SIZE: 10pt">&#160;</div>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; 
+COLOR: #000000; FONT-SIZE: 10pt">&#160;</div>
+<div style="MARGIN-TOP: 10pt; MARGIN-BOTTOM: 10pt; COLOR: #000000; CLEAR: both" 
+id="DSPFPageBreakArea">
+<div style="PAGE-BREAK-AFTER: always" id="DSPFPageBreak">
+<hr style="BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: #000000; MARGIN: 4px 0px; 
+WIDTH: 100%; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 2px; 
+CLEAR: both; BORDER-LEFT-WIDTH: 0px" noshade="noshade">
+</div>
+</div>
+<div>
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; 
+COLOR: #000000; FONT-SIZE: 10pt">RepliCel Life Sciences Inc.</div>
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; 
+COLOR: #000000; FONT-SIZE: 10pt">News Release / 2</div>
+</div>
+<div style="COLOR: #000000">&#160;</div>
+<div style="COLOR: #000000">&#160;</div>
+<div style="COLOR: #000000"><br>
+ &#160;</div>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif;
+COLOR: #000000; FONT-SIZE: 10pt"><u>About RepliCel's NBDS Fibroblast 
+Platform</u></div>
+<div style="COLOR: #000000"><br>
+</div>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; 
+COLOR: #000000; FONT-SIZE: 10pt"><font style="FONT-FAMILY: 'Times New Roman', 
+Times, serif; FONT-SIZE: 10pt">RepliCel's NBDS fibroblast platform has the 
+potential to address numerous indications where impaired tissue healing has been
+stalled due to a deficit of active fibroblast cells required for tissue 
+remodeling and repair. RepliCel's proprietary&#160; NBDS fibroblast cells, 
+isolated from healthy hair follicles, are a rich source of fibroblasts unique in
+their high-level expression of the necessary proteins, such as Type I collagen, 
+required to jump-start the stalled healing cycle. The company is developing a 
+series of products from this platform that have the potential to address large 
+commercial markets in the areas of musculoskeletal and skin-related conditions. 
+To learn more about RepliCel's RCT-01 treatment for chronic tendinosis please 
+</font><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 
+10pt"><u>watch our video</u></font><font style="FONT-FAMILY: 'Times New Roman', 
+Times, serif; FONT-SIZE: 10pt">: </font><font style="FONT-FAMILY: 'Times New 
+Roman', Times, serif; FONT-SIZE: 10pt"><u>www.youtube.com/watch?
+t=23&amp;v=kaa0hiJyeV4</u></font></div>
+<div style="TEXT-ALIGN: justify; COLOR: #000000"><br>
+</div>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; 
+COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><u>About RepliCel Life 
+Sciences</u></div>
+<div style="COLOR: #000000"><br>
+</div>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; 
+COLOR: #000000; FONT-SIZE: 10pt">RepliCel is a regenerative medicine company 
+focused on developing autologous cell therapies that address conditions caused 
+by a deficit of healthy cells required for normal healing and function. The 
+Company's product pipeline is comprised of two ongoing clinical trials (RCT-01: 
+tendon repair and RCS-01: skin rejuvenation) as well as its RCH-01: hair 
+restoration product under exclusive license by Shiseido Company for certain 
+Asian countries.</div>
+<div style="COLOR: #000000"><br>
+</div>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; 
+COLOR: #000000; FONT-SIZE: 10pt"><font style="FONT-FAMILY: 'Times New Roman', 
+Times, serif; FONT-SIZE: 10pt">All product candidates are based on RepliCel's 
+innovative technology, utilizing cell populations isolated from a patient's 
+healthy hair follicles. The Company has also developed a proprietary injection 
+device (RCI-02) optimized for the administration of its products and licensable 
+for use with other dermatology applications. Please visit&#160;</font><font 
+style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 
+10pt"><u>www.replicel.com</u></font><font style="FONT-FAMILY: 'Times New Roman',
+Times, serif; FONT-SIZE: 10pt"> for additional information.</font></div>
+<div style="COLOR: #000000"><br>
+</div>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; 
+COLOR: #000000; FONT-SIZE: 10pt">For more information, please contact:</div>
+<div style="COLOR: #000000"><br>
+</div>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; 
+COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: bold">CONTACT:</div>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; 
+COLOR: #000000; FONT-SIZE: 10pt">Lee Buckler, CEO and President</div>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; 
+COLOR: #000000; FONT-SIZE: 10pt"><font style="FONT-FAMILY: 'Times New Roman', 
+Times, serif; FONT-SIZE: 10pt">Telephone: 604-248-8693 / </font><font 
+style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 
+10pt"><u>lee@replicel.com</u></font></div>
+<div style="COLOR: #000000"><br>
+</div>
+<div style="COLOR: #000000"><br>
+</div>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; 
+COLOR: #000000; FONT-SIZE: 10pt">Neither TSX Venture Exchange nor its Regulation
+Services Provider (as that term is defined in policies of the TSX Venture 
+Exchange) accepts responsibility for the adequacy or accuracy of this 
+release.</div>
+<div style="COLOR: #000000"><br>
+</div>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; 
+COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Forward-Looking 
+Statements</div>
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: 'Times New Roman', Times, serif; 
+COLOR: #000000; FONT-SIZE: 10pt; MARGIN-RIGHT: 9.35pt"><font style="FONT-STYLE: 
+italic; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">This 
+press release contains forward-looking information that involve various risks 
+and uncertainties regarding future events. Such forward-looking information can 
+include without limitation statements based on current expectations involving a 
+number of risks and uncertainties and are not guarantees of future performance 
+of RepliCel, such as statements regarding the Company's</font><font style="FONT-
+STYLE: italic; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt"> 
+ability to move forward with a next phase trial in 2017and </font><font 
+style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">enter into
+a licensing and/or co-development agreement with a larger partner</font><font 
+style="FONT-STYLE: italic; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+SIZE: 10pt">. Such forward-looking statements and information are based on 
+current expectations involving a number of risks and uncertainties and are not 
+guarantees of future performance of RepliCel. There are numerous risks and 
+uncertainties that could cause actual results and RepliCel's plans and 
+objectives to differ materially from those expressed in the forward-looking 
+information, including: failure to obtain CE mark clearance or necessary 
+regulatory approvals; delays enrolling clinical trial participants; negative 
+results from the Company's trials; the effects of government regulation on the 
+Company's business; risks associated with the Company's ability to obtain and 
+protect rights to its intellectual property; risks and uncertainties associated 
+with the Company's ability to raise additional capital; and other factors beyond
+the Company's control. Actual results and future events could differ materially 
+from those anticipated in such information. These and all subsequent written and
+oral forward-looking information are based on estimates and opinions of 
+management on the dates they are made and are expressly qualified in their 
+entirety by this notice. Except as required by law, RepliCel does not intend to 
+update these forward-looking statements.</font></div>
+<div><br>
+</div>
+<div><br>
+</div>
+<div><br>
+</div>
+<div style="TEXT-ALIGN: center; FONT-STYLE: italic; FONT-FAMILY: 'Times New 
+Roman', Times, serif; COLOR: #404040; FONT-SIZE: 10pt">##</div>
+<div style="TEXT-ALIGN: center; FONT-STYLE: italic; FONT-FAMILY: 'Times New 
+Roman', Times, serif; COLOR: #404040; FONT-SIZE: 10pt">&#160;</div>
+<div style="TEXT-ALIGN: center; FONT-STYLE: italic; FONT-FAMILY: 'Times New 
+Roman', Times, serif; COLOR: #404040; FONT-SIZE: 10pt">
+<hr style="BORDER-BOTTOM: black 4px solid; TEXT-ALIGN: center; BACKGROUND-COLOR:
+#ffffff; HEIGHT: 10px; COLOR: #ffffff; MARGIN-LEFT: auto; BORDER-TOP: black 1px 
+solid; MARGIN-RIGHT: auto">
+</div>
+</div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>image00001.jpg
+<TEXT>
+begin 644 image00001.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  8$!08%! 8&!08'!P8("A *"@D)
+M"A0.#PP0%Q08&!<4%A8:'24?&ALC'!86("P@(R8G*2HI&1\M,"TH,"4H*2C_
+MVP!# 0<'!PH("A,*"A,H&A8:*"@H*"@H*"@H*"@H*"@H*"@H*"@H*"@H*"@H
+M*"@H*"@H*"@H*"@H*"@H*"@H*"@H*"C_P  1" !8 *\# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+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
+M987S3"XU&3RX D98$Y Y/;EA4OB/78=!MH9[BUO+A)95A'V:,.0S$!0>1U)
+M'N:X#XL_\CWX$_Z^_P#VI'7I>HV%MJ,"0WD?F1I(DP&2,,C!E/'H0* ,&#QQ
+MI$UU%;#[0MS)?'3_ "FCPRR 9)//"]L^O%=16(OA;1EU#[<MDHN_,\SS=S9W
+M;S)GK_>8G].E;=( HHHH \%\.VOB*Z^(_C!?"U_:64ZW+F9KF/>&7S&P!P>^
+M:6:TUCQ+X[3PMX\UEECAQ-%';QJD=R<9X.!@E=W)!Z$<&NI^&^FWUI\1_&5S
+M=6=S#;SRL8I9(RJR#S&/RD]>*L_&3PU=ZA8V>MZ(DAUC3) R>2I+NF<\ =2I
+MP<>F:JXC>^(O^A?#K6DM!Y:QV;1HJ\;5QMP/PKB?AUJ/BRS\&Z;%HOAFRN;'
+M8S).U\L9DRQR2N.#G-=]ILC>+/!A34[2>SEO+=H;B&6,HT;$%6P#VSR/PKSC
+MPUK?B+X=6KZ)K.@7FHV,4C&WNK12PVDY],8SS@X(SBD@-C3=)\47WQ,TWQ#J
+MFBV^G0Q0/;SF*Z63<-K8)[]2!^%5_C4 ?$?@@$9'VT_^AQ5TOA'Q?J?B+5C&
+MWAN^T_31$S&ZNOE)?(PH&![^M<K\=C.-7\(&S"-="Y<PJ_W2^Z/:#[9Q36X'
+MKIY'->3? ]1;ZSXRM(>+>*]&P#H/FD'\@/RJU>?$G6([=[5?!VKIK&-@0QEH
+M@WJ& Y'^<UJ?"+PQ>>'="N9M6&-3U";SYESDH.P.._))^M+9 8U]_P G"Z=_
+MV#S_ .@R5T_Q9_Y)UKG_ %P'_H0K"O=/O6^.MA?+:7!L5L2C7 C/EAMK\;NF
+M>171?$ZVGN_ 6LP6D,D\[PX2.-2S,=PZ =: &_"S_DGF@_\ 7L/YFN(^$'[G
+MXB>-().)?-8X/H)7S_,5WGPVMYK3P)HL%U#)#/';@/'(I5E.3P0>E<3XST#7
+M?#?C4^+?"EJ;V.<8N[5022< -P.2#@'(Y!'2@#UNN$^-\LD7PYU 1D@.\2-C
+M^Z7&:Q4^*FIW"^3:>"]5>](P$.[;GZ[,XKL];TN7Q5X(EL;^/[)=WELI9#SY
+M,N V/H&%&PSDO"^J>,K7PWI<.G>%+&2S2VC$3_V@J[UVC#$8X)Z_C4GA#1O$
+M8^)%]K^KZ5!IUO=VGE2)%<+("XVX/'/.WTK'\.>+_$'@W3(M%\0^&=1N1:CR
+MX;BU4N&0=!G&#CH#GIVKN/!GB;4_$5U<M=>'[O2[!$4Q2W)PTK9.1C P,8H8
+MCE?BS_R/?@3_ *^__:D=>JUYI\3M.O;SQKX+FM+.XGA@NMTLD<998QOCY8CI
+MT/Y5Z70QA1112 **** "BBB@ HHHH *Y7QGX07Q-J.B7;7K6QTR;S@HC#>9R
+MIQG(Q]W]:** .JHHHH **** "BBB@ HHHH **** "BBB@ HHHH **** /__9
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

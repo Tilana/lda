@@ -1,0 +1,1275 @@
+
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>g8282.txt
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+Form 10-Q
+(Mark One)
+[X] QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+    ACT OF 1934
+For the quarterly period ended June 30, 2016
+or
+[ ] TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+    ACT OF 1934
+For the transition period from ____________ to ____________
+Commission File Number 333-144944
+U.S. LITHIUM, CORP.
+             (Exact name of registrant as specified in its charter)
+Nevada                                                 98-0514250
+(State or other jurisdiction of                               (I.R.S. Employer
+ incorporation or organization)                              Identification No.)
+2360 Corporate Circle, Suite 4000 Henderson, NV                   89074-7722
+   (Address of principal executive offices)                       (Zip Code)
+(702) 866-2500
+              (Registrant's telephone number, including area code)
+ROSTOCK VENTURES CORP.
+              (Former name, former address and former fiscal year,
+                          if changed since last report)
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the  preceding 12 months (or for such  shorter  period that the  registrant  was
+required  to file  such  reports),  and  (2) has  been  subject  to such  filing
+requirements for the past 90 days. [X] YES [ ] NO
+Indicate by check mark whether the registrant has submitted  electronically  and
+posted on its corporate Web site, if any, every  Interactive  Data File required
+to be submitted and posted pursuant to Rule 405 of Regulation S-T (ss.232.405 of
+this chapter)  during the  preceding 12 months (or for such shorter  period that
+the registrant was required to submit and post such files). [X] YES [ ] NO
+Indicate by check mark whether the registrant is a large  accelerated  filer, an
+accelerated filer, a non-accelerated  filer, or a small reporting  company.  See
+the definitions of "large accelerated  filer",  "accelerated filer" and "smaller
+reporting company" in Rule 12b-2 of the Exchange Act.
+Large accelerated filer [ ]                        Accelerated filer [ ]
+Non-accelerated filer [ ]                          Smaller reporting company [X]
+(Do not check if a smaller reporting company)
+Indicate by check mark whether the  registrant is a shell company (as defined in
+Rule 12b-2 of the Exchange Act) [ ] YES [X] NO
+APPLICABLE ONLY TO ISSUERS INVOLVED IN BANKRUPTCY
+                   PROCEEDINGS DURING THE PRECEDING FIVE YEARS
+Check whether the registrant has filed all documents and reports  required to be
+filed by Sections 12, 13 or 15(d) of the Exchange Act after the  distribution of
+securities under a plan confirmed by a court. [ ] YES [ ] NO
+APPLICABLE ONLY TO CORPORATE ISSUERS
+Indicate the number of shares  outstanding  of each of the  issuer's  classes of
+common stock, as of the latest practicable date.
+90,512,559 common shares issued and outstanding as of August 11, 2016.
+<PAGE>
+                               U.S. LITHIUM, CORP.
+TABLE OF CONTENTS
+PART I - FINANCIAL INFORMATION
+Item 1.  Financial Statements............................................  3
+Item 2.  Management's Discussion and Analysis of Financial Condition
+            or Plan of Operation............................................ 12
+Item 3.  Quantitative and Qualitative Disclosures About Market Risk...... 19
+Item 4.  Controls and Procedures......................................... 19
+PART II - OTHER INFORMATION
+Item 1.  Legal Proceedings............................................... 19
+Item 1A. Risk Factors.................................................... 19
+Item 2.  Unregistered Sales of Equity Securities and Use of Proceeds..... 19
+Item 3.  Defaults Upon Senior Securities................................. 19
+Item 4.  Mine Safety Disclosures......................................... 20
+Item 5.  Other Information............................................... 20
+Item 6.  Exhibits........................................................ 20
+SIGNATURES ................................................................. 23
+2
+<PAGE>
+                         PART I - FINANCIAL INFORMATION
+ITEM 1. FINANCIAL STATEMENTS
+The  unaudited  financial  statements  of our  company  have  been  prepared  in
+accordance with accounting  principles  generally  accepted in the United States
+("US GAAP") and are expressed in U.S. dollars.
+U.S. LITHIUM, CORP.
+                        (formerly Rostock Ventures Corp.)
+Financial Statements
+For the Period Ended June 30, 2016 (unaudited) and December 31, 2015
+Balance Sheets (unaudited)................................................... 4
+Statements of Operations (unaudited)......................................... 5
+Statements of Cash Flows (unaudited)......................................... 6
+Notes to the Financial Statements (unaudited)................................ 7
+3
+<PAGE>
+U.S. LITHIUM, CORP.
+(formerly Rostock Ventures Corp.)
+Balance Sheets
+(unaudited)
+<TABLE>
+<CAPTION>
+<S> <C>
+June 30,             December 31,
+                                                                                
+2016                   2015
+                                                                                
+------------           ------------
+                                                                                
+$                     $
+ASSETS
+Current assets
+  Cash                                                                          
+22,327                  1,389
+  Prepaid expenses                                                              
+20,833                     --
+                                                                                
+------------           ------------
+Total current assets                                                            
+43,160                  1,389
+Non-current assets
+  Mineral property                                                              
+13,500                     --
+                                                                                
+------------           ------------
+Total assets                                                                    
+56,660                  1,389
+                                                                                
+============           ============
+LIABILITIES
+Current liabilities
+  Accounts payable and accrued liabilities                                      
+67,561                 67,779
+  Due to related parties                                                        
+83,864                 84,464
+  Notes payable, net of unamortized discount of $94,354 and $18,269, 
+respectively            86,367                 57,452
+  Notes payable - related party, net of unamortized discount of $nil            
+9,500                     --
+                                                                                
+------------           ------------
+Total current liabilities                                                       
+247,292                209,695
+Non-current liabilities
+  Notes payable - related party, net of unamortized discount of $nil
+   and $nil, respectively                                                       
+--                  9,500
+                                                                                
+------------           ------------
+Total liabilities                                                               
+247,292                219,195
+                                                                                
+------------           ------------
+STOCKHOLDERS' DEFICIT
+  Preferred Stock
+    Authorized: 10,000,000 preferred shares with a par value of $0.001 per share
+    Issued and outstanding: nil preferred shares                                
+--                     --
+  Common Stock
+    Authorized: 500,000,000 common shares with a par value of $0.001 per share
+    Issued and outstanding: 90,712,559 common shares                            
+90,712                 90,512
+  Additional paid-in capital                                                    
+857,481                742,681
+  Deficit                                                                       
+(1,138,825)            (1,050,999)
+                                                                                
+------------           ------------
+Total stockholders' deficit                                                     
+(190,632)              (217,806)
+                                                                                
+------------           ------------
+Total liabilities and stockholders' deficit                                     
+56,660                  1,389
+                                                                                
+============           ============
+</TABLE>
+Organization and Nature of Operations (note 1)
+Subsequent events (note 5)
+(The accompanying notes are an integral part of these financial statements)
+4
+<PAGE>
+U.S. LITHIUM, CORP.
+(formerly Rostock Ventures Corp.)
+Statements of Operations
+(unaudited)
+<TABLE>
+<CAPTION>
+<S> <C>
+                                           For the three       For the three    
+For the six         For the six
+                                           months ended        months ended     
+months ended        months ended
+                                             June 30,            June 30,       
+June 30,            June 30,
+                                               2016                2015         
+2016                2015
+------------        ------------     
+------------        ------------
+                                                $                   $           
+$                   $
+Expenses
+  Consulting expenses                             9,167                  --     
+9,167                  --
+  General and administrative                     11,160               3,929     
+14,610               4,880
+  Management fees                                 6,000               6,000     
+12,000              12,000
+  Professional fees                              10,257               7,648     
+17,365              18,496
+                                           ------------        ------------     
+------------        ------------
+Total expenses                                   36,584              17,577     
+53,142              35,376
+                                           ------------        ------------     
+------------        ------------
+Loss before other expense                       (36,584)            (17,577)    
+(53,142)            (35,376)
+                                           ------------        ------------     
+------------        ------------
+Other income (expense)
+  Interest and accretion expense                (26,335)            (18,273)    
+(34,684)            (28,267)
+  Gain on settlement of debt                         --              18,000     
+--              18,000
+                                           ------------        ------------     
+------------        ------------
+Total other income (expense)                    (26,335)               (273)    
+(34,684)            (10,267)
+                                           ------------        ------------     
+------------        ------------
+Net loss                                        (62,919)            (17,850)    
+(87,826)            (45,643)
+                                           ============        ============     
+============        ============
+Net loss per share, basic and diluted                --                  --     
+--                  --
+                                           ============        ============     
+============        ============
+Weighted average shares outstanding          90,653,218          76,203,768     
+90,582,889          60,987,295
+                                           ============        ============     
+============        ============
+</TABLE>
+(The accompanying notes are an integral part of these financial statements)
+5
+<PAGE>
+U.S. LITHIUM, CORP.
+(formerly Rostock Ventures Corp.)
+Statements of Cash Flows
+(unaudited)
+<TABLE>
+<CAPTION>
+<S> <C>
+                                                              For the six       
+For the six
+                                                              months ended      
+months ended
+                                                                June 30,        
+June 30,
+                                                                  2016          
+2015
+                                                               ----------       
+----------
+                                                                   $            
+$
+Operating Activities
+  Net loss                                                        (87,826)      
+(45,643)
+  Adjustments to reconcile net loss to net
+   cash used in operating activities:
+     Accretion expense                                             28,915       
+19,260
+     Imputed interest                                                  --       
+1,155
+     Gain on settlement of debt                                        --       
+(18,000)
+  Changes in operating assets and liabilities:
+     Prepaid expenses                                             (20,833)      
+--
+     Accounts payable and accrued liabilities                        (218)      
+21,861
+     Due to related party                                            (600)      
+12,000
+                                                               ----------       
+----------
+Net Cash Used In Operating Activities                             (80,562)      
+(9,367)
+                                                               ----------       
+----------
+Investing Activities
+  Acquisition of mineral property                                  (3,500)      
+--
+                                                               ----------       
+----------
+Net Cash Used In Investing Activities                              (3,500)      
+--
+                                                               ----------       
+----------
+Financing Activities
+  Proceeds from note payable - related party                           --       
+9,500
+  Proceeds from note payable                                      105,000       
+--
+                                                               ----------       
+----------
+Net Cash Provided By Financing Activities                         105,000       
+9,500
+                                                               ----------       
+----------
+Increase in Cash                                                   20,938       
+133
+Cash - Beginning of Period                                          1,389
+256
+                                                               ----------       
+----------
+Cash - End of Period                                               22,327       
+389
+                                                               ==========       
+==========
+Non-cash investing and financing activities:
+  Shares issued for acquisition of mineral property                10,000
+  Debt discount                                                   105,000       
+--
+  Shares issued to settle related party notes payable                  --       
+134,500
+  Shares issued to settle notes payable                                --       
+90,000
+                                                               ==========       
+==========
+Supplemental Disclosures
+  Interest paid                                                        --       
+--
+  Income tax paid                                                      --       
+--
+                                                               ==========       
+==========
+</TABLE>
+(The accompanying notes are an integral part of these financial statements)
+6
+<PAGE>
+U.S. LITHIUM, CORP.
+(formerly Rostock Ventures Corp.)
+Notes to the Financial Statements
+For the period ended June 30, 2016
+(unaudited)
+1. ORGANIZATION AND NATURE OF OPERATIONS
+U.S.  Lithium,  Corp.  (formerly  Rostock  Ventures  Corp.) (the  "Company") was
+incorporated  in the  State of  Nevada  on  November  2,  2006 and is a  natural
+resource   exploration  and  production  company  engaged  in  the  exploration,
+acquisition,  and  development of mineral  properties in the United  States.  On
+April 27,  2016,  the  Company  incorporated  and merged  with its  wholly-owned
+subsidiary,  U.S.  Lithium Corp.  for the sole purpose of enacting a name change
+and acquired 100% of the titles,  interest, and rights to four mineral claims in
+Esmeralda County, Nevada.
+GOING CONCERN
+These financial  statements  have been prepared on a going concern basis,  which
+implies that the Company will  continue to realize its assets and  discharge its
+liabilities  in the normal course of business.  As at June 30, 2016, the Company
+has not  earned  revenue,  has a working  capital  deficit of  $204,132,  and an
+accumulated  deficit of $1,138,825.  The  continuation of the Company as a going
+concern is dependent upon the continued  financial  support from its management,
+and its  ability to  identify  future  investment  opportunities  and obtain the
+necessary debt or equity financing,  and generating  profitable  operations from
+the Company's future operations. These factors raise substantial doubt regarding
+the Company's ability to continue as a going concern. These financial statements
+do not include any  adjustments  to the  recoverability  and  classification  of
+recorded asset amounts and classification of liabilities that might be necessary
+should the Company be unable to continue as a going concern.
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+(a) Basis of Presentation
+The financial  statements  of the Company have been prepared in accordance  with
+accounting  principles  generally  accepted in the United States ("US GAAP") and
+are expressed in U.S. dollars. The Company's fiscal year end is December 31.
+(b) Use of Estimates
+The  preparation  of financial  statements in  conformity  with US GAAP requires
+management to make estimates and assumptions that affect the reported amounts of
+assets and  liabilities  and disclosure of contingent  assets and liabilities at
+the date of the financial  statements  and the reported  amounts of revenues and
+expenses during the reporting period. The Company regularly  evaluates estimates
+and assumptions related to the recoverability of mineral properties, share based
+compensation,  and deferred income tax asset valuation  allowances.  The Company
+bases its estimates and assumptions on current facts,  historical experience and
+various other factors that it believes to be reasonable under the circumstances,
+the  results  of which form the basis for making  judgments  about the  carrying
+values of assets and  liabilities and the accrual of costs and expenses that are
+not readily apparent from other sources.  The actual results  experienced by the
+Company may differ materially and adversely from the Company's estimates. To the
+extent  there are  material  differences  between the  estimates  and the actual
+results, future results of operations will be affected.
+(c) Cash and Cash Equivalents
+The Company  considers  all highly liquid  instruments  with a maturity of three
+months or less at the time of  issuance to be cash  equivalents.  As of June 30,
+2016 and December 31, 2015, there were no cash equivalents.
+7
+<PAGE>
+U.S. LITHIUM, CORP.
+(formerly Rostock Ventures Corp.)
+Notes to the Financial Statements
+For the period ended June 30, 2016
+(unaudited)
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued)
+(d) Mineral Property Costs
+The Company has been in the exploration stage since its formation on November 2,
+2006 and has not yet realized any revenues from its planned operations.  Mineral
+property acquisition and exploration costs are expensed as incurred. When it has
+been  determined  that a mineral  property  can be  economically  developed as a
+result of  establishing  proven and  probable  reserves,  the costs  incurred to
+develop such property are  capitalized.  Such costs will be amortized  using the
+units-of-production  method over the estimated life of the probable reserve.  If
+mineral properties are subsequently abandoned or impaired, any capitalized costs
+will be charged to operations.
+(e) Asset Retirement Obligations
+The  Company   follows  the  provisions  of  ASC  410,   ASSET   RETIREMENT  AND
+ENVIRONMENTAL   OBLIGATIONS,   which  establishes   standards  for  the  initial
+measurement and subsequent accounting for obligations  associated with the sale,
+abandonment  or other  disposal of long-lived  tangible  assets arising from the
+acquisition,  construction  or  development  and for normal  operations  of such
+assets.
+(f) Loss per Share
+The Company  computes net income  (loss) per share in  accordance  with ASC 260,
+EARNINGS  PER SHARE.  ASC 260  requires  presentation  of both basic and diluted
+earnings  per share  ("EPS") on the face of the income  statement.  Basic EPS is
+computed  by  dividing  net  income  (loss)  available  to  common  shareholders
+(numerator) by the weighted average number of shares  outstanding  (denominator)
+during the period.  Diluted EPS gives  effect to all dilutive  potential  common
+shares  outstanding  during  the  period  using the  treasury  stock  method and
+convertible  preferred stock using the if-converted method. In computing diluted
+EPS, the average stock price for the period is used in determining the number of
+shares  assumed to be purchased  from the exercise of stock options or warrants.
+Diluted EPS  excludes  all  dilutive  potential  shares if their  effect is anti
+dilutive.
+(g) Foreign Currency Translation
+The Company's  functional  and reporting  currency is the United States  dollar.
+Foreign  currency  transactions  are primarily  undertaken in Canadian  dollars.
+Foreign  currency  transactions  are  translated  to United  States  dollars  in
+accordance  with  ASC 830,  FOREIGN  CURRENCY  TRANSLATION  MATTERS,  using  the
+exchange rate prevailing at the balance sheet date.  Gains and losses arising on
+translation  or  settlement  of foreign  currency  denominated  transactions  or
+balances are included in the determination of income.
+(h) Financial Instruments
+Pursuant  to ASC 820,  FAIR VALUE  MEASUREMENTS  AND  DISCLOSURES,  an entity is
+required  to  maximize  the use of  observable  inputs and  minimize  the use of
+unobservable  inputs when measuring fair value. ASC 820 establishes a fair value
+hierarchy based on the level of independent,  objective evidence surrounding the
+inputs used to measure  fair  value.  A  financial  instrument's  categorization
+within the fair value  hierarchy is based upon the lowest level of input that is
+significant to the fair value  measurement.  ASC 820 prioritizes the inputs into
+three levels that may be used to measure fair value:
+Level 1
+Level 1 applies to assets or  liabilities  for which there are quoted  prices in
+active markets for identical assets or liabilities.
+8
+<PAGE>
+U.S. LITHIUM, CORP.
+(formerly Rostock Ventures Corp.)
+Notes to the Financial Statements
+For the period ended June 30, 2016
+(unaudited)
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued)
+(h) Financial Instruments (continued)
+Level 2
+Level 2 applies to assets or  liabilities  for which there are inputs other than
+quoted  prices that are  observable  for the asset or  liability  such as quoted
+prices for similar assets or liabilities  in active  markets;  quoted prices for
+identical  assets  or  liabilities  in  markets  with  insufficient   volume  or
+infrequent  transactions (less active markets);  or model-derived  valuations in
+which significant  inputs are observable or can be derived  principally from, or
+corroborated by, observable market data.
+Level 3
+Level 3 applies to assets or liabilities for which there are unobservable inputs
+to the valuation methodology that are significant to the measurement of the fair
+value of the assets or liabilities.
+The  Company's  financial  instruments  consist  principally  of cash,  accounts
+payable  and  accrued  liabilities,  note  payables,  and amounts due to related
+parties.  Pursuant  to ASC 820,  the fair value of cash is  determined  based on
+"Level 1" inputs, which consist of quoted prices in active markets for identical
+assets. The recorded values of all other financial instruments approximate their
+current fair values  because of their nature and  respective  maturity  dates or
+durations.
+(i) Income Taxes
+The Company  accounts for income taxes using the asset and  liability  method in
+accordance  with ASC 740,  ACCOUNTING FOR INCOME TAXES.  The asset and liability
+method  provides that deferred tax assets and liabilities are recognized for the
+expected future tax consequences of temporary  differences between the financial
+reporting and tax bases of assets and  liabilities,  and for operating  loss and
+tax credit carryforwards. Deferred tax assets and liabilities are measured using
+the  currently  enacted  tax rates  and laws  that  will be in  effect  when the
+differences are expected to reverse.  The Company records a valuation  allowance
+to reduce  deferred  tax assets to the amount that is believed  more likely than
+not to be realized.
+(j) Comprehensive Loss
+ASC 220,  COMPREHENSIVE  INCOME,  establishes  standards  for the  reporting and
+display of comprehensive loss and its components in the financial statements. As
+at June 30, 2016 and December 31,  2015,  the Company has no items  representing
+comprehensive income or loss.
+(k) Stock-based Compensation
+The  Company  records  stock-based  compensation  in  accordance  with  ASC 718,
+COMPENSATION - STOCK  COMPENSATION using the fair value method. All transactions
+in which goods or services  are the  consideration  received for the issuance of
+equity   instruments   are  accounted  for  based  on  the  fair  value  of  the
+consideration  received  or the fair  value  of the  equity  instrument  issued,
+whichever is more reliably  measurable.  Equity  instruments issued to employees
+and the  cost  of the  services  received  as  consideration  are  measured  and
+recognized based on the fair value of the equity instruments  issued. As at June
+30, 2016 and December 31, 2015, the Company did not grant any stock options.
+(l) Recent Accounting Pronouncements
+The  Company  has  implemented  all new  accounting  pronouncements  that are in
+effect.  These  pronouncements did not have any material impact on the financial
+statements  unless  otherwise  disclosed,  and the Company does not believe that
+there are any other new  accounting  pronouncements  that have been  issued that
+might have a material impact on its financial position or results of operations.
+9
+<PAGE>
+U.S. LITHIUM, CORP.
+(formerly Rostock Ventures Corp.)
+Notes to the Financial Statements
+For the period ended June 30, 2016
+(unaudited)
+3. MINERAL PROPERTY
+On April 27, 2016,  the Company  acquired a 100% interest in four mineral claims
+located in Esmeralda  County,  Nevada in exchange for $3,500 and the issuance of
+200,000 common shares of the Company with a fair value of $10,000. Refer to Note
+5.
+4. NOTES PAYABLE
+(a)  As at June 30, 2016,  the Company owes $9,500  (December 31, 2015 - $9,500)
+     in notes  payable to  shareholders  of the Company.  The amounts  owing are
+     unsecured,  due interest at 10% per annum,  and is due by March 4, 2017. As
+     at June 30, 2016,  accrued  interest of $8,586 (December 31, 2015 - $8,113)
+     has been recorded in accounts payable and accrued liabilities.
+(b)  As at June 30, 2016,  the Company owes $3,015  (December 31, 2015 - $3,015)
+     of notes payable to a non-related party. The amount owing is unsecured, due
+     interest at 10% per annum, is due on demand, and is convertible into shares
+     of common  stock of the Company at $0.005 per share.  As at June 30,  2016,
+     the notes  payable  has a carrying  value of $3,015  (December  31,  2015 -
+     $2,916) and has recorded accrued  interest of $10,291  (December 31, 2015 -
+     $10,141),   which  has  been  recorded  in  accounts  payable  and  accrued
+     liabilities.
+(d)  As at June 30, 2016, the Company owes $47,706 (December 31, 2015 - $47,706)
+     of notes payable to non-related  parties.  The amounts owing are unsecured,
+     due  interest  between  6-10%  per  annum,  are  due  on  demand,  and  are
+     convertible into shares of common stock of the Company at $0.005 per share.
+     As at June 30,  2016,  accrued  interest  of $39,843  (December  31, 2015 -
+     $37,582) has been recorded in accrued liabilities.
+(e)  On September 22, 2015,  the Company  entered into a loan  agreement  with a
+     non-related  party for proceeds of $25,000.  The amount owing is unsecured,
+     bears  interest at 10% per annum,  is due on  September  22,  2016,  and is
+     convertible  into shares of common stock of the Company at $0.01 per share.
+     During the year ended December 31, 2015, the Company  recorded a beneficial
+     conversion  feature of $25,000.  During the period ended June 30, 2016, the
+     Company recorded accretion expense of $12,432 (June 30, 2015 - $nil). As at
+     March 31, 2016,  the carrying  value of the note payable is $19,262 (2015 -
+     $6,830) and accrued  interest of $1,931 (December 31, 2015 - $685) has been
+     recorded in accounts payable and accrued liabilities.
+(f)  On  April  8,  2016,  the  Company  entered  into a loan  agreement  with a
+     non-related  party for proceeds of $10,000.  The amount owing is unsecured,
+     bears  interest  at 10%  per  annum,  is  due  on  April  8,  2017,  and is
+     convertible  into  shares of common  stock of the  Company at  $0.0125  per
+     share.  During  the period  ended June 30,  2016,  the  Company  recorded a
+     beneficial conversion feature of $10,000, and recorded accretion expense of
+     $2,274 (June 30, 2015 - $nil).  As at June 30, 2016,  the carrying value of
+     the note  payable  is $2,274  (2015 - $nil) and  accrued  interest  of $227
+     (December  31,  2015 - $nil) has been  recorded  in  accounts  payable  and
+     accrued liabilities.
+(g)  On April  21,  2016,  the  Company  entered  into a loan  agreement  with a
+     non-related  party for proceeds of $5,000.  The amount owing is  unsecured,
+     bears  interest  at 10%  per  annum,  is  due on  April  21,  2017,  and is
+     convertible into shares of common stock of the Company at $0.015 per share.
+     During the period  ended June 30, 2016,  the Company  recorded a beneficial
+     conversion  feature of $5,000, and recorded accretion expense of $959 (June
+     30,  2015 - $nil).  As at June 30,  2016,  the  carrying  value of the note
+     payable is $959 (2015 - $nil) and  accrued  interest of $96  (December  31,
+     2015 - $nil) has been recorded in accounts payable and accrued liabilities.
+10
+<PAGE>
+U.S. LITHIUM, CORP.
+(formerly Rostock Ventures Corp.)
+Notes to the Financial Statements
+For the period ended June 30, 2016
+(unaudited)
+4. NOTES PAYABLE (continued)
+(h)  On  May  5,  2016,  the  Company  entered  into  a  loan  agreement  with a
+     non-related  party for proceeds of $50,000.  The amount owing is unsecured,
+     bears interest at 10% per annum,  is due on May 5, 2017, and is convertible
+     into shares of common stock of the Company at $0.0275 per share. During the
+     period ended June 30, 2016,  the Company  recorded a beneficial  conversion
+     feature of $50,000, and recorded accretion expense of $7,671 (June 30, 2015
+     - $nil).  As at June 30, 2016,  the  carrying  value of the note payable is
+     $7,671  (2015 - $nil) and  accrued  interest of $767  (December  31, 2015 -
+     $nil) has been recorded in accounts payable and accrued liabilities.
+(i)  On  May  11,  2016,  the  Company  entered  into a  loan  agreement  with a
+     non-related  party for proceeds of $40,000.  The amount owing is unsecured,
+     bears interest at 10% per annum, is due on May 11, 2017, and is convertible
+     into shares of common stock of the Company at $0.035 per share.  During the
+     period ended June 30, 2016,  the Company  recorded a beneficial  conversion
+     feature of $40,000, and recorded accretion expense of $5,480 (June 30, 2015
+     - $nil).  As at June 30, 2016,  the  carrying  value of the note payable is
+     $5,480  (2015 - $nil) and  accrued  interest of $548  (December  31, 2015 -
+     $nil) has been recorded in accounts payable and accrued liabilities.
+5. COMMON SHARES
+On April 27, 2016, the Company issued 200,000 common shares with a fair value of
+$10,000 for the acquisition of the mineral claims,  as noted in Note 3. The fair
+value of common shares was determined  based on the end-of-day  trading price of
+the Company's common shares on the date of the agreement.
+6. RELATED PARTY TRANSACTIONS
+(a)  As at June 30, 2016, the Company owed $78,864 (December 31, 2015 - $84,464)
+     to the  President  and  Director  of  the  Company.  The  amount  owing  is
+     unsecured, non-interest bearing, and due on demand. During the period ended
+     June 30, 2016,  the Company  incurred  $12,000 (June 30, 2015 - $12,000) of
+     management fees to the President and Director of the Company.
+(b) As at June 30, 2016, the Company owed $5,000 (December 31, 2015 - $nil) to a
+director of the Company for services rendered.
+7. SUBSEQUENT EVENTS
+We have  evaluated  subsequent  events  through to the date of  issuance  of the
+financial  statements,  and did not have any  material  recognizable  subsequent
+events after June 30, 2016.
+11
+<PAGE>
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION OR PLAN OF
+        OPERATION
+FORWARD-LOOKING STATEMENTS
+This quarterly  report contains  forward-looking  statements.  These  statements
+relate to future events or our future financial performance.  In some cases, you
+can identify forward-looking  statements by terminology such as "may", "should",
+"expects",  "plans",   "anticipates",   "believes",   "estimates",   "predicts",
+"potential"  or  "continue"  or the negative of these terms or other  comparable
+terminology. These statements are only predictions and involve known and unknown
+risks,  uncertainties  and other  factors  that may cause our or our  industry's
+actual results, levels of activity, performance or achievements to be materially
+different  from  any  future  results,   levels  of  activity,   performance  or
+achievements expressed or implied by these forward-looking statements.  Although
+we believe that the expectations reflected in the forward-looking statements are
+reasonable, we cannot guarantee future results, levels of activity,  performance
+or achievements.  Except as required by applicable law, including the securities
+laws of the United States, we do not intend to update any of the forward-looking
+statements to conform these statements to actual results.
+Our unaudited financial statements are stated in United States Dollars (US$) and
+are prepared in accordance  with United  States  Generally  Accepted  Accounting
+Principles.  The following  discussion  should be read in  conjunction  with our
+financial  statements  and the  related  notes  that  appear  elsewhere  in this
+quarterly report. The following discussion contains  forward-looking  statements
+that reflect our plans,  estimates and beliefs.  Our actual results could differ
+materially from those discussed in the forward-looking statements.  Factors that
+could cause or contribute to such differences  include,  but are not limited to,
+those discussed below and elsewhere in this quarterly report.
+Unless  otherwise  specified in this  quarterly  report,  all dollar amounts are
+expressed in United States dollars and all references to "common stock" refer to
+shares of our common stock.
+As used in this quarterly report,  the terms "we", "us", "our" and "our company"
+mean U.S. Lithium Corp., unless otherwise indicated.
+CORPORATE HISTORY
+We were incorporated on November 2, 2006, under the laws of the State of Nevada.
+The original  business plan of our company was to engage in the  acquisition and
+exploration  of  mineral  properties.  We are  currently  an  exploration  stage
+company.
+On September 30, 2015, our board of directors and a majority of our stockholders
+approved an increase of our authorized capital from 100,000,000 shares of common
+stock,  par value  $0.0001  to  500,000,000  shares of common  stock,  par value
+$0.0001.
+A Certificate of Amendment to effect the increase to our authorized  capital was
+filed with the Nevada  Secretary of State on October 20, 2015, with an effective
+date of October 20, 2015.
+On April 25,  2016,  our board of  directors  approved the change of our name to
+"U.S.  Lithium  Corp.".  The  change of name  became  effective  with the Nevada
+Secretary  of State on May 10,  2016 by way of a  merger  with our  wholly-owned
+subsidiary,  U.S. Lithium Corp.,  which was formed solely for the purpose of the
+change of name.  The change of name became  effective  with  Financial  Industry
+Regulatory Authority ("FINRA"),  on June 13, 2016. In connection with our change
+of name,  our trading  symbol was changed to "LITH".  Our CUSIP number is 90351E
+105.
+CURRENT BUSINESS
+Effective  March 12, 2014, we entered into a patent,  technical  information and
+trade mark license  agreement with Windward  International LLC pursuant to which
+our company  acquired an  exclusive  license to use certain  patents,  technical
+12
+<PAGE>
+information  and trademarks  for a term of 500 years,  in exchange for 4,000,000
+shares of our  company's  common stock and a 2% royalty on all net sales derived
+from the use of the patents,  technical information and trademark.  The business
+focus was the operation of a technology  platform  designed to connect consumers
+with cannabis vendors.
+Under the license agreement,  our company acquired an exclusive license to make,
+use, sell and offer for sale  licensed  products  during the term.  The licensed
+products  include  the domain  names  www.iWeeds.com,  and  www.iWeedz.com,  the
+platform  that  powers  iWeedz.com,  the Apple  Developer  license,  Google Play
+license,  iWeedz  trademark,   self-serve  ad  platform  and  augmented  reality
+platform.  Further,  our  company  acquired  an  exclusive  license  to use  the
+technical  information during the term to make licensed products.  The technical
+information   includes  any  and  all   unpublished   research  and  development
+information,   the  formulation  of  proprietary  products,  method,  unpatented
+inventions,  know-how,  trade  secrets,  and technical data in the possession of
+Windward  at the  effective  date of the  license  agreement,  or  generated  or
+developed  at any time prior to the  termination  or  expiration  of the license
+agreement.
+We operate  iWeedz.com,  a technology  platform  that we acquired  from Windward
+pursuant to the license agreement to connect consumers with cannabis vendors and
+promote  local  marijuana  commerce.  We will  operate our  technology  platform
+through our website located at www.iWeedz.com and through our mobile application
+for Apple iOS and Android operating  systems.  We will strive for simplicity and
+ease of use in our iWeedz website and mobile application,  which we believe will
+set us apart from our competition. As of the date of this report, our website is
+not fully  functional and our  application  for Apple iOS and Android  operating
+systems has not been released.
+Our company has moved away from the technology sector and is actively  searching
+for additional  projects  particularly in the exploration of mineral properties.
+These new areas have been  narrowed  down to graphite and lithium.  With this in
+mind, on February 10, 2016,  our company  appointed  Eric Allison as a member of
+our board of  directors.  Mr.  Allison  has over 35 years of  experience  in the
+natural resource industry working in various technical, business development and
+management  roles.  He currently  provides  consulting  services to a variety of
+companies,  funds,  project  developers and  individuals  on a global basis.  He
+formerly served, from 2012-2015, as CEO and COO of Brazahav Resources, a private
+entity developing a brownfield gold mine project in Mato Grosso,  Brazil.  Prior
+to this, he was the Director of Research and Chief  Geologist at Casimir Capital
+LP specializing  in junior mining  companies.  Previously,  he was a Director at
+Sempra Commodities from 1999-2009 where his  responsibilities  included Metals &
+Concentrates  and Energy.  Over his career,  he has also served in various roles
+for Cyprus Amax Minerals,  Amax Energy,  SPG Exploration and Texaco. Mr. Allison
+received a BS in Geology from Brown University (1978) and a MS in Marine Geology
+from the University of Georgia (1980).
+On April 4, 2016, we entered into a letter of intent with Rangefront  Consulting
+LLC.  Pursuant  to the  letter  of  intent,  we are to enter  into a  definitive
+agreement with Rangefront whereby Rangefront will grant us the option to acquire
+100% of the title,  interest and right in and to four mineral  claims,  the ELON
+Claims, in Esmerelda County,  Nevada. In exchange for the grant of the option by
+Rangefront, we shall:
+1.   pay $3,500 to Rangefront on signing of a definitive agreement; and
+     2.   issue an  aggregate of 200,000  common  shares of our company to Brian
+          Goss as the authorized representative of Rangefront.
+On April 25, 2016,  we entered into a material  definitive  agreement and issued
+200,000  restricted  common  shares as outlined in the letter of intent.  We now
+hold a 100% interest in the ELON claims in Clayton Valley, Nevada.
+The ELON claim block  consists of four 20-acre  placer  claims and is located in
+Esmerelda County,  Nevada,  and is contiguous to claims held by both PURE Energy
+and Lithium X in Clayton  Valley.  Clayton Valley is home to Albemarle's  Silver
+Peak Lithium Mine, the only mine producing  lithium from brine in North America.
+Both PURE Energy and Lithium X are actively  exploring  their  respective  claim
+blocks  in  Clayton  Valley.  The  Clayton  Valley  area has  been the  focus of
+significant  levels of exploration and acreage  acquisition in recent months and
+is  considered  to be one of the best  places for lithium  exploration  in North
+America.
+13
+<PAGE>
+The company  looks to  capitalize  on  opportunities  within the lithium  sector
+including  providing  lithium  to the ever  expanding  next  generation  battery
+market.  Lithium  demand is projected to triple by the year 2025  according to a
+recent  report by Goldman  Sachs and for many  analysts  is  considered  the new
+gasoline of the future.  Our current focus is in the Basin and Range province of
+Nevada where the only producing lithium brine mine in North America, Albemarle's
+Silver Peak Project, is located.  Elon, our first project, is located in Clayton
+Valley  and is in close  proximity  to  Silver  Peak and  several  other  active
+explorers and developers.
+On April 8, 2016, we entered into a securities  purchase  agreement  with Robert
+Seeley,  whereupon we agreed to sell to Mr. Seeley,  for an aggregate of $10,000
+in cash,  a  convertible  promissory  note for the  aggregate  principal  sum of
+$10,000,  which includes  simple interest at a rate of 10% and is convertible in
+common  shares of our company for  $0.0125 per share.  This note  matures in one
+year from issuance.
+Additionally,  we entered into a securities  purchase  agreement dated April 21,
+2016  with  Mr.  Seeley,  whereupon  we  agreed  to sell to Mr.  Seeley,  for an
+aggregate of $5,000 in cash, a  convertible  promissory  note for the  aggregate
+principal sum of $5,000,  which includes simple interest at a rate of 10% and is
+convertible  in common  shares of our  company  for $0.015 per share.  This note
+matures in one year from issuance.
+On May 5, 2016,  we entered into a  securities  purchase  agreement  with Robert
+Seeley,  whereupon we agreed to sell to Mr. Seeley,  for an aggregate of $50,000
+in cash,  a  convertible  promissory  note for the  aggregate  principal  sum of
+$50,000, which includes simple interest at a rate of 10% and is convertible into
+common share of our company at $0.0275 per share.  This note matures in one year
+from issuance.
+On May 11, 2016,  we entered into a securities  purchase  agreement  with Robert
+Seeley,  whereupon we agreed to sell to Mr. Seeley,  for an aggregate of $40,000
+in cash,  a  convertible  promissory  note for the  aggregate  principal  sum of
+$40,000,  which  includes  simple  interest  at a rate of 10% per  annum  and is
+convertible  in common  shares of our  company  for $0.035 per share.  This note
+matures in one year from issuance.
+RESULTS OF OPERATIONS
+THREE AND SIX MONTHS  ENDED JUNE 30,  2016  COMPARED TO THE THREE AND SIX MONTHS
+ENDED JUNE 30, 2015.
+Our  operating  expenses for the three and six month periods ended June 30, 2016
+and 2015 are outlined in the table below:
+Three months  Three months  Six months  Six months
+                                 ended         ended        ended       ended
+                                June 30,      June 30,     June 30,    June 30,
+                                  2016          2015         2016        2015
+                                --------      --------     --------    --------
+Consulting fees                 $  9,167      $    Nil     $  9,167    $    Nil
+General and administrative      $ 11,160      $  3,929     $ 14,610    $  4,880
+Management fees                 $  6,000      $  6,000     $ 12,000    $ 12,000
+Professional fees               $ 10,257      $  7,648     $ 17,365    $ 18,496
+Interest and accretion expense  $ 26,335      $ 18,273     $ 34,684    $ 28,267
+Gain on settlement of debt      $    Nil      $(18,000)    $    Nil    $(18,000)
+Net Loss                        $(62,919)     $(17,850)    $(87,826)   $(45,643)
+OPERATING REVENUES
+From November 2, 2006 (date of inception) to June 30, 2016,  our company did not
+record any revenues.
+OPERATING EXPENSES AND NET LOSS
+Operating  expenses  for the three  months  ended  June 30,  2016  were  $36,584
+compared with $17,577 for the three months ended June 30, 2015.  The increase in
+operating expenses were attributed to consulting fees of $9,167 to a third-party
+consultant,  an increase of $2,609 for legal and professional fees incurred with
+the  Company's  acquisition  of mineral  property in Nevada,  and an increase of
+14
+<PAGE>
+$7,231  in  general  and  administrative  expense  relating  to an  increase  in
+day-to-day  operations  including transfer agent and filing fees for issuance of
+common shares and SEC news releases during the period.
+Operating  expenses for the six months ended June 30, 2016 were $53,142 compared
+with $35,376 for the six months  ended June 30, 2015.  The increase in operating
+expenses  were  attributed  to an  increase  in  consulting  fees of $9,167 to a
+third-party consultant,  and an increase of $9,730 in general and administrative
+expense for an increase in day-to-day activities during the current year.
+Net loss for the six  months  ended  June 30,  2016 was  $87,826  compared  with
+$45,643  for the six months  ended  June 30,  2015.  In  addition  to  operating
+expenses,  our company incurred  interest and amortization  accretion of $34,684
+(2015 - $28,267)  relating to interest  incurred on the  outstanding  debt,  and
+amortization  of the  discount  for the  convertibility  feature of  convertible
+debentures. In the prior year, our company also recorded a gain on settlement of
+debt of $18,000.
+LIQUIDITY AND CAPITAL RESOURCES
+WORKING CAPITAL
+As at            As at
+                                                     June 30,       December 31,
+                                                       2016            2015
+                                                    ----------      ----------
+Current Assets                                      $   43,160      $    1,389
+Current Liabilities                                 $  247,292      $  209,695
+                                                    ----------      ----------
+Working Capital (deficiency)                        $ (204,132)     $ (208,306)
+                                                    ==========      ==========
+CASH FLOWS
+Six Months      Six Months
+                                                      Ended           Ended
+                                                     June 30,        June 30,
+                                                       2016            2015
+                                                    ----------      ----------
+Net cash used in operating activities               $  (80,562)     $   (9,367)
+Net cash used in investing activities               $   (3,500)     $      Nil
+Net cash provided by financing activities           $  105,000      $    9,500
+                                                    ----------      ----------
+Net increase in cash                                $   20,938      $      133
+                                                    ==========      ==========
+As at June 30, 2016, our cash balance was $22,327 compared to $1,389 at December
+31, 2015 and total  assets were  $56,660  compared to $1,389 as at December  31,
+2015. The increase in cash was due to the fact that we received  $105,000 during
+the  current  year for  operating  activities  whereas in the prior year we only
+received  $9,500,  which  resulted  in an increase in  operating  and  investing
+activities  and an increase in cash at during fiscal 2016. The increase in total
+assets in addition to cash was due to the  acquisition of mineral  properties in
+the state of Nevada for $13,500 and prepaid  consulting  fees of $20,833  during
+the period ended June 30, 2016.
+As at June 30, 2016, we had total  liabilities  of $247,292  compared with total
+liabilities  of  $209,695  as at  December  31,  2015.  The  increase  in  total
+liabilities  was due to an increase in notes payable of $28,915 for the issuance
+of $105,000 of  non-related  notes  payable,  less discount of $88,616,  and the
+accretion of $12,432 of notes payables issued in fiscal 2015.
+As at June 30, 2016, we had a working capital deficit of $204,132  compared with
+a working  capital  deficit of $208,306 as at December 31,  2015.  The change in
+working capital deficit is consistent from prior year.
+CASHFLOW FROM OPERATING ACTIVITIES
+During the six months ended June 30, 2016, we used $80,562 of cash for operating
+activities compared to the use of $9,367 of cash for operating activities during
+the six months ended June 30, 2015.  The increase in the cash used for operating
+activities  was due to the fact that the Company had more  operating  activities
+15
+<PAGE>
+during the current  period with the  acquisition  of the mineral  properties  in
+Nevada and was supported  financially  by an increase in proceeds  received from
+financing  activities  which helped pay for  operating  activities  as they were
+incurred.
+CASHFLOW FROM INVESTING ACTIVITIES
+During the six months ended June 30, 2016,  we used $3,500 of cash for investing
+activities as part of the payment for the acquisition of the mineral  properties
+in  Nevada.  During  the six months  ended  June 30,  2015,  we did not have any
+investing activities.
+CASHFLOW FROM FINANCING ACTIVITIES
+During the six months ended June 30, 2016, we received proceeds of $105,000 from
+the issuance of notes  payables  from a non-related  party,  which is unsecured,
+bears interest at 10% per annum, and is due within one year from the issuance of
+the note.  During the six months  ended June 30, 2015,  we received  proceeds of
+$9,500  from  the  issuance  of a note  payable  to a  related  party,  which is
+unsecured, bears interest at 10% per annum, and is due on March 4, 2017.
+GOING CONCERN
+We have not attained  profitable  operations  and are dependent  upon  obtaining
+financing  to  pursue  any  extensive  acquisitions  and  activities.  For these
+reasons, our auditors stated in their report on our audited financial statements
+that they have  substantial  doubt that we will be able to  continue  as a going
+concern without further financing.
+OFF-BALANCE SHEET ARRANGEMENTS
+We have no off-balance sheet  arrangements that have or are reasonably likely to
+have a current or future effect on our financial condition, changes in financial
+condition,  revenues or  expenses,  results of  operations,  liquidity,  capital
+expenditures or capital resources that are material to stockholders.
+FUTURE FINANCINGS
+We will  continue  to rely on  equity  sales of our  common  shares  in order to
+continue to fund our business  operations.  Issuances of additional  shares will
+result in dilution to existing stockholders.  There is no assurance that we will
+achieve any  additional  sales of the equity  securities  or arrange for debt or
+other financing to fund our operations and other activities.
+CRITICAL ACCOUNTING POLICIES
+Our financial statements and accompanying notes have been prepared in accordance
+with  United  States  generally  accepted  accounting  principles  applied  on a
+consistent  basis.  The  preparation of financial  statements in conformity with
+U.S.  generally  accepted  accounting  principles  requires  management  to make
+estimates  and  assumptions  that  affect  the  reported  amounts  of assets and
+liabilities,  the disclosure of contingent assets and liabilities at the date of
+the  financial  statements  and the  reported  amounts of revenues  and expenses
+during the reporting periods.
+We regularly  evaluate the  accounting  policies  and  estimates  that we use to
+prepare our financial statements.  In general,  management's estimates are based
+on historical experience, on information from third party professionals,  and on
+various other assumptions that are believed to be reasonable under the facts and
+circumstances.  Actual  results  could  differ  from  those  estimates  made  by
+management. Our fiscal year end is December 31.
+USE OF ESTIMATES
+The  preparation  of financial  statements in  conformity  with US GAAP requires
+management to make estimates and assumptions that affect the reported amounts of
+assets and  liabilities  and disclosure of contingent  assets and liabilities at
+16
+<PAGE>
+the date of the financial  statements  and the reported  amounts of revenues and
+expenses during the reporting period. Our company regularly  evaluates estimates
+and assumptions related to the recoverability of mineral properties, share based
+compensation,  and deferred income tax asset valuation  allowances.  Our company
+bases our estimates and assumptions on current facts,  historical experience and
+various other factors that we believe to be reasonable under the  circumstances,
+the  results  of which form the basis for making  judgments  about the  carrying
+values of assets and  liabilities and the accrual of costs and expenses that are
+not readily apparent from other sources.  The actual results  experienced by our
+company may differ materially and adversely from our company's estimates. To the
+extent  there are  material  differences  between the  estimates  and the actual
+results, future results of operations will be affected.
+CASH AND CASH EQUIVALENTS
+Our company  considers  all highly liquid  instruments  with a maturity of three
+months or less at the time of  issuance to be cash  equivalents.  As of June 30,
+2016 and December 31, 2015, there were no cash equivalents.
+ASSET RETIREMENT OBLIGATIONS
+Our  company   follows  the  provisions  of  ASC  410,   ASSET   RETIREMENT  AND
+ENVIRONMENTAL   OBLIGATIONS,   which  establishes   standards  for  the  initial
+measurement and subsequent accounting for obligations  associated with the sale,
+abandonment  or other  disposal of long-lived  tangible  assets arising from the
+acquisition,  construction  or  development  and for normal  operations  of such
+assets.
+BASIC AND DILUTED NET LOSS PER SHARE
+Our company  computes net income  (loss) per share in  accordance  with ASC 260,
+EARNINGS  PER SHARE.  ASC 260  requires  presentation  of both basic and diluted
+earnings  per share  ("EPS") on the face of the income  statement.  Basic EPS is
+computed  by  dividing  net  income  (loss)  available  to  common  shareholders
+(numerator) by the weighted average number of shares  outstanding  (denominator)
+during the period.  Diluted EPS gives  effect to all dilutive  potential  common
+shares  outstanding  during  the  period  using the  treasury  stock  method and
+convertible  preferred stock using the if-converted method. In computing diluted
+EPS, the average stock price for the period is used in determining the number of
+shares  assumed to be purchased  from the exercise of stock options or warrants.
+Diluted  EPS  excludes  all  dilutive   potential  shares  if  their  effect  is
+anti-dilutive.
+FOREIGN CURRENCY TRANSLATION
+Our company's  functional  and reporting  currency is the United States  dollar.
+Foreign  currency  transactions  are primarily  undertaken in Canadian  dollars.
+Foreign  currency  transactions  are  translated  to United  States  dollars  in
+accordance  with  ASC 830,  FOREIGN  CURRENCY  TRANSLATION  MATTERS,  using  the
+exchange rate prevailing at the balance sheet date.  Gains and losses arising on
+translation  or  settlement  of foreign  currency  denominated  transactions  or
+balances are included in the determination of income.
+FINANCIAL INSTRUMENTS
+Pursuant  to ASC 820,  FAIR VALUE  MEASUREMENTS  AND  DISCLOSURES,  an entity is
+required  to  maximize  the use of  observable  inputs and  minimize  the use of
+unobservable  inputs when measuring fair value. ASC 820 establishes a fair value
+hierarchy based on the level of independent,  objective evidence surrounding the
+inputs used to measure  fair  value.  A  financial  instrument's  categorization
+within the fair value  hierarchy is based upon the lowest level of input that is
+significant to the fair value  measurement.  ASC 820 prioritizes the inputs into
+three levels that may be used to measure fair value:
+Level 1: Level 1 applies  to assets or  liabilities  for which  there are quoted
+prices in active markets for identical assets or liabilities.
+17
+<PAGE>
+Level 2: Level 2 applies  to assets or  liabilities  for which  there are inputs
+other than quoted prices that are  observable for the asset or liability such as
+quoted prices for similar assets or liabilities in active markets; quoted prices
+for  identical  assets or  liabilities  in markets with  insufficient  volume or
+infrequent  transactions (less active markets);  or model-derived  valuations in
+which significant  inputs are observable or can be derived  principally from, or
+corroborated by, observable market data.
+Level  3:  Level 3  applies  to  assets  or  liabilities  for  which  there  are
+unobservable  inputs to the valuation  methodology  that are  significant to the
+measurement of the fair value of the assets or liabilities.
+Our  company's  financial  instruments  consist  principally  of cash,  accounts
+payable  and  accrued  liabilities,  note  payables,  and amounts due to related
+party. Pursuant to ASC 820, the fair value of cash is determined based on "Level
+1"  inputs,  which  consist of quoted  prices in active  markets  for  identical
+assets. The recorded values of all other financial instruments approximate their
+current fair values  because of their nature and  respective  maturity  dates or
+durations.
+IMPAIRMENT OF LONG-LIVED ASSETS
+Long-lived assets and certain identifiable intangible assets to be held and used
+are reviewed for impairment whenever events or changes in circumstance  indicate
+that the carrying amount of such assets may not be recoverable. Determination of
+recoverability  is  based on an  estimate  of  undiscounted  future  cash  flows
+resulting from the use of the asset and its eventual disposition. Measurement of
+an impairment  loss for long-lived  assets and certain  identifiable  intangible
+assets that management expects to hold and use is based on the fair value of the
+asset.  Long-lived  assets  and  certain  identifiable  intangible  assets to be
+disposed  of are  reported  at the lower of  carrying  amount or fair value less
+costs to sell.
+INCOME TAXES
+Our company  accounts for income taxes using the asset and  liability  method in
+accordance  with ASC 740,  ACCOUNTING FOR INCOME Taxes.  The asset and liability
+method  provides that deferred tax assets and liabilities are recognized for the
+expected future tax consequences of temporary  differences between the financial
+reporting and tax bases of assets and  liabilities,  and for operating  loss and
+tax credit carryforwards. Deferred tax assets and liabilities are measured using
+the  currently  enacted  tax rates  and laws  that  will be in  effect  when the
+differences are expected to reverse.  Our company records a valuation  allowance
+to reduce  deferred  tax assets to the amount that is believed  more likely than
+not to be realized.
+COMPREHENSIVE LOSS
+ASC 220,  COMPREHENSIVE  INCOME,  establishes  standards  for the  reporting and
+display of comprehensive loss and its components in the financial statements. As
+at March 31, 2016 and December 31, 2015,  our company has no items  representing
+comprehensive income or loss.
+STOCK-BASED COMPENSATION
+Our  company  records  stock-based  compensation  in  accordance  with  ASC 718,
+COMPENSATION - STOCK  COMPENSATION using the fair value method. All transactions
+in which goods or services  are the  consideration  received for the issuance of
+equity   instruments   are  accounted  for  based  on  the  fair  value  of  the
+consideration  received  or the fair  value  of the  equity  instrument  issued,
+whichever is more reliably  measurable.  Equity  instruments issued to employees
+and the  cost  of the  services  received  as  consideration  are  measured  and
+recognized based on the fair value of the equity instruments issued. As at March
+31, 2016 and December 31, 2015, our company did not grant any stock options.
+18
+<PAGE>
+RECENTLY ISSUED ACCOUNTING PRONOUNCEMENTS
+Our  company  has  implemented  all new  accounting  pronouncements  that are in
+effect.  These  pronouncements did not have any material impact on the financial
+statements  unless  otherwise  disclosed,  and our company does not believe that
+there are any other new  accounting  pronouncements  that have been  issued that
+might have a material impact on its financial position or results of operations.
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+As a "smaller reporting company", we are not required to provide the information
+required by this Item.
+ITEM 4. CONTROLS AND PROCEDURES
+MANAGEMENT'S REPORT ON DISCLOSURE CONTROLS AND PROCEDURES
+We maintain  disclosure controls and procedures that are designed to ensure that
+information  required to be disclosed in our reports filed under the  Securities
+Exchange  Act of 1934,  as  amended,  is  recorded,  processed,  summarized  and
+reported  within the time  periods  specified  in the  Securities  and  Exchange
+Commission's  rules and forms,  and that such  information  is  accumulated  and
+communicated to our management, including our president (our principal executive
+officer,  principal financial officer and principal accounting officer) to allow
+for timely decisions regarding required disclosure.
+As of the  end of  our  quarter  covered  by  this  report,  we  carried  out an
+evaluation,  under the supervision and with the  participation  of our president
+(our principal  executive  officer,  principal  financial  officer and principal
+accounting  officer),  of the  effectiveness  of the design and operation of our
+disclosure controls and procedures.  Based on the foregoing,  our president (our
+principal   executive  officer,   principal   financial  officer  and  principal
+accounting  officer) concluded that our disclosure  controls and procedures were
+not  effective  in providing  reasonable  assurance  in the  reliability  of our
+reports as of the end of the period covered by this quarterly report.
+CHANGES IN INTERNAL CONTROL OVER FINANCIAL REPORTING
+During the period  covered by this report  there were no changes in our internal
+control over financial  reporting that  materially  affected,  or are reasonably
+likely to materially affect, our internal control over financial reporting.
+PART II - OTHER INFORMATION
+ITEM 1. LEGAL PROCEEDINGS
+We know of no  material,  existing  or pending  legal  proceedings  against  our
+company,  nor are we involved  as a  plaintiff  in any  material  proceeding  or
+pending litigation.  There are no proceedings in which our director,  officer or
+any affiliates, or any registered or beneficial shareholder, is an adverse party
+or has a material interest adverse to our interest.
+ITEM 1A. RISK FACTORS
+As a "smaller reporting company", we are not required to provide the information
+required by this Item.
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+None.
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+None.
+19
+<PAGE>
+ITEM 4. MINE SAFETY DISCLOSURES
+Not Applicable.
+ITEM 5. OTHER INFORMATION
+None.
+ITEM 6. EXHIBITS
+Exhibit
+Number                              Description
+------                              -----------
+(3)      ARTICLES OF INCORPORATION; BYLAWS
+3.1      Articles  of   Incorporation   (incorporated   by   reference   to  our
+         Registration Statement on Form SB-2 filed on July 30, 2007)
+3.2      Bylaws (incorporated by reference to our Registration Statement on Form
+         SB-2 filed on July 30, 2007)
+3.3      Certificate  of Amendment  filed with the Nevada  Secretary of State on
+October 20, 2015  (incorporated  by reference to our Current  Report on
+         Form 8-K filed on October 21, 2015)
+3.4      Articles of Merger  filed with the Nevada  Secretary of State on May 9,
+         2016 with an effective date of May 11, 2016  (incorporated by reference
+         to our Current Report on Form 8-K filed on June 13, 2016)
+(10)     MATERIAL CONTRACTS
+10.1     Promissory   Note  with  Pop  Holdings   Ltd.   Dated  April  25,  2012
+         (incorporated  by reference to our Quarterly  Report on Form 10-Q filed
+         on May 11, 2012)
+10.2     Promissory   Note  with  Pop  Holdings   Ltd.   dated  April  25,  2012
+         (incorporated  by reference to our Quarterly  Report on Form 10-Q filed
+         on May 11, 2012)
+10.3     Promissory Note with Pop Holdings Ltd. dated May 14, 2012 (incorporated
+         by  reference to our  Quarterly  Report on Form 10-Q filed on September
+         12, 2012)
+10.4     Promissory  Note  with  Pop  Holdings  Ltd.  dated  November  16,  2012
+         (incorporated  by reference to our Quarterly  Report on Form 10-Q filed
+         on November 19, 2012)
+10.5     Promissory Note with Robert Seeley dated February 4, 2013 (incorporated
+         by reference to our Annual Report on Form 10-K filed on April 15, 2013)
+10.6     Promissory  Note  with  Pop  Holdings  Ltd.  dated  February  13,  2013
+         (incorporated  by reference to our Annual  Report on Form 10-K filed on
+         April 15, 2013)
+10.7     Promissory  Note  with  Pop  Holdings  Ltd.  dated  May 29,  2013  2013
+         (incorporated  by reference to our Quarterly  Report on Form 10-Q filed
+         on August 12, 2013)
+10.8     Promissory   Note  with  Aspir   Corporation   dated   August  2,  2013
+         (incorporated  by reference to our Quarterly  Report on Form 10-Q filed
+         on November 8, 2013)
+10.9     Promissory  Note  with  Aspir   Corporation  dated  September  5,  2013
+         (incorporated  by reference to our Quarterly  Report on Form 10-Q filed
+         on November 8, 2013)
+10.10    Convertible  Promissory  Note with Robert Seeley dated November 8, 2013
+         (incorporated  by reference to our Annual  Report on Form 10-K filed on
+         April 4, 2014)
+10.11    Convertible  Promissory  Note with Robert Seeley dated February 5, 2014
+         (incorporated  by reference to our Annual  Report on Form 10-K filed on
+         April 4, 2014)
+10.12    Advisory  Board  Agreement  with Todd Ellison  dated  February 12, 2014
+         (incorporated  by reference to our Annual  Report on Form 10-K filed on
+         April 4, 2014)
+10.13    Patent,  Technical  Information  and Trade Mark License  Agreement with
+         Windward  International  LLC dated  March  12,  2014  (incorporated  by
+         reference to our Annual Report on Form 10-K filed on April 4, 2014)
+20
+<PAGE>
+Exhibit
+Number                              Description
+------                              -----------
+10.14    Convertible  Promissory  Note with Robert  Seeley  dated April 25, 2014
+         (incorporated  by reference to our Quarterly  Report on Form 10-Q filed
+         on May 20, 2014)
+10.15    Convertible  Promissory  Note with  Robert  Seeley  dated May 15,  2014
+         (incorporated  by reference to our Quarterly  Report on Form 10-Q filed
+         on August 15, 2014)
+10.16    Convertible  Promissory  Note with  Robert  Seeley  dated May 15,  2014
+         (incorporated  by reference to our Annual  Report on Form 10-K filed on
+         April 13, 2015)
+10.17    Convertible  Promissory Note with Pop Holdings Ltd. dated July 30, 2014
+         (incorporated  by reference to our Annual  Report on Form 10-K filed on
+         April 13, 2015)
+10.18    Convertible  Promissory Note with Pop Holdings Ltd. dated July 30, 2014
+(incorporated  by reference to our Annual  Report on Form 10-K filed on
+         April 13, 2015)
+10.19    Convertible  Promissory Note with Pop Holdings Ltd. dated July 30, 2014
+         (incorporated  by reference to our Annual  Report on Form 10-K filed on
+         April 13, 2015)
+10.20    Convertible Promissory Note with H.E. Capital, S.A. dated March 4, 2015
+         (incorporated  by reference to our Quarterly  Report on Form 10-Q filed
+         on May 20, 2015)
+10.21    Convertible  Promissory  Note Amendment  Agreement  dated April 2, 2015
+         with H.E. Capital (incorporated by reference to our Quarterly Report on
+         Form 10-Q filed on May 20, 2015)
+10.22    Convertible  Promissory  Note Amendment  Agreement  dated April 2, 2015
+         with Seeley  (incorporated by reference to our Quarterly Report on Form
+         10-Q filed on May 20, 2015)
+10.23    Convertible  Promissory  Note Amendment  Agreement  dated April 2, 2015
+         with Pop Holdings (incorporated by reference to our Quarterly Report on
+         Form 10-Q filed on May 20, 2015)
+10.24    Partial Debt  Settlement  Agreement dated April 30, 2015 with Robert W.
+         Seeley  (incorporated  by  reference  to our  Quarterly  Report on Form
+         10-Q/A filed on July 23, 2015)
+10.25    Partial  Debt  Settlement  Agreement  dated  April 30, 2015 with Tucker
+         Investments  (incorporated by reference to our Quarterly Report on Form
+         10-Q/A filed on July 23, 2015)
+10.26    Partial  Debt  Settlement  Agreement  dated  April  30,  2015  with Pop
+         Holdings Ltd.  (incorporated  by reference to our  Quarterly  Report on
+         Form 10-Q/A filed on July 23, 2015)
+10.27    Partial  Debt  Settlement  Agreement  dated  April 30,  2015 with Aspir
+         Corporation  (incorporated by reference to our Quarterly Report on Form
+         10-Q/A filed on July 23, 2015)
+10.28    Partial  Debt  Settlement  Agreement  dated  April  30,  2015 with H.E.
+         Capital,  S.A.  (incorporated  by reference to our Quarterly  Report on
+         Form 10-Q/A filed on July 23, 2015)
+10.29    Promissory  Note  with HE  Capital  S.A.  executed  on April  25,  2012
+         (incorporated  by reference to our Current  Report on Form 8-K filed on
+         March 17, 2016)
+10.30    Promissory  Note  with HE  Capital  S.A.  executed  on April  25,  2012
+         (incorporated  by reference to our Current  Report on Form 8-K filed on
+         March 17, 2016)
+10.31    Promissory  Note with Vlasta  Heinzova  effective  October 29, 2008 and
+         restated on June 10, 2015  (incorporated  by  reference  to our Current
+         Report on Form 8-K filed on March 17, 2016)
+10.32    Promissory Note with Collin Sinclair  effective  September 30, 2009 and
+         restated on June 10, 2015  (incorporated  by  reference  to our Current
+         Report on Form 8-K filed on March 17, 2016)
+10.33    Promissory Note with Tucker  Investment Corp.  effective March 12, 2010
+         and restated on June 10, 2015 (incorporated by reference to our Current
+         Report on Form 8-K filed on March 17, 2016)
+10.34    Promissory Note with Tucker Investment Corp.  effective May 4, 2010 and
+         restated on June 10, 2015  (incorporated  by  reference  to our Current
+         Report on Form 8-K filed on March 17, 2016)
+21
+<PAGE>
+Exhibit
+Number                              Description
+------                              -----------
+10.35    Letter of Intent  with  Rangefront  Consulting  LLC dated April 4, 2016
+         (incorporated  by reference to our Current  Report on Form 8-K filed on
+         April 13, 2016)
+10.36    Agreement  with   Rangefront   Consulting  LLC  dated  April  25,  2016
+         (incorporated  by reference to our Current  Report on Form 8-K filed on
+         April 27, 2016)
+10.37    Securities  Purchase  Agreement dated April 8, 2016 between our company
+and Robert Seeley  (incorporated  by reference to our Current Report on
+         Form 8-K filed on May 4, 2016)
+10.38    Form of  convertible  promissory  note  between  our company and Robert
+         Seeley  (incorporated  by reference  to our Current  Report on Form 8-K
+         filed on May 4, 2016)
+10.39    Securities  Purchase Agreement dated April 21, 2016 between our company
+         and Robert Seeley  (incorporated  by reference to our Current Report on
+         Form 8-K filed on May 4, 2016)
+10.40    Form of  convertible  promissory  note  between  our company and Robert
+         Seeley  (incorporated  by reference  to our Current  Report on Form 8-K
+         filed on May 4, 2016)
+10.41    Securities  Purchase  Agreement  dated May 11, 2016 between our company
+         and Robert Seeley  (incorporated  by reference to our Current Report on
+         Form 8-K filed on May 12, 2016)
+10.42    Form of  convertible  promissory  note  between  our company and Robert
+         Seeley  (incorporated  by reference  to our Current  Report on Form 8-K
+         filed on June 20, 2016)
+(14)     CODE OF ETHICS
+14.1     Code of Ethics  (incorporated by reference to our Annual Report on Form
+         10-K filed on March 29, 2011)
+(31)     RULE 13A-14(A) / 15D-14(A) CERTIFICATIONS
+31.1*    Certification pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+         of the Principal  Executive  Officer,  Principal  Financial Officer and
+         Principal Accounting Officer
+(32)     SECTION 1350 CERTIFICATIONS
+32.1*    Certification pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+         of the Principal  Executive  Officer,  Principal  Financial Officer and
+         Principal Accounting Officer
+101**    INTERACTIVE DATA FILE
+101.INS  XBRL Instance Document
+101.SCH  XBRL Taxonomy Extension Schema Document
+101.CAL  XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF  XBRL Taxonomy Extension Definition Linkbase Document
+101.LAB  XBRL Taxonomy Extension Label Linkbase Document
+101.PRE  XBRL Taxonomy Extension Presentation Linkbase Document
+----------
+* Filed herewith.
+22
+<PAGE>
+                                   SIGNATURES
+In  accordance  with  Section 13 or 15(d) of the Exchange  Act,  the  registrant
+caused this report to be signed on its behalf by the undersigned, thereunto duly
+authorized.
+U.S. LITHIUM, CORP.
+                                    (Registrant)
+Dated: August 15, 2016            By: /s/ Gregory Rotelli
+                                      -----------------------------------------
+                                      Gregory Rotelli
+                                      President, Chief Executive Officer,
+                                      Chief Financial Officer,
+                                      Chief Accounting  Officer, Secretary,
+                                      Treasurer and Director
+                                      (Principal Executive Officer,
+                                      Principal Financial Officer and
+                                      Principal Accounting Officer)
+23
+</TEXT>
+</DOCUMENT>

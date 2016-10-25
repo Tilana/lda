@@ -1,0 +1,938 @@
+
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ RJZ+hkuAaCE+vb2hcfIDFP5tFOPQADledhYkKDSSAricTS5iFDDaC4VPLS33Yfck
+ bMDNMPkGJgmVHNLQsVO0Dw==
+<SEC-DOCUMENT>0001062993-05-002482.txt : 20051019
+<SEC-HEADER>0001062993-05-002482.hdr.sgml : 20051019
+<ACCEPTANCE-DATETIME>20051018183959
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+6-K
+5
+20051014
+0001062993-05-002482
+20051018
+20051019
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: GOLD & SILVER ORES [1040]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+NOVAGOLD RESOURCES INC
+0001173420
+000000000
+1130
+A5
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 001-31913
+FILM NUMBER:
+6-K
+1934 Act
+051143965
+BUSINESS ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+PO BOX 24, SUITE 2300
+200 GRANVILLE STREET
+VANCOUVER
+A1
+V6C 1S4
+604-669-6227
+MAIL ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+PO BOX 24, SUITE 2300
+200 GRANVILLE STREET
+VANCOUVER
+A1
+V6C 1S4
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>form6k.htm
+<DESCRIPTION>REPORT OF FOREIGN PRIVATE ISSUER
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Filed by Automated Filing Services Inc. (604) 609-0244 - NovaGold 
+Resources Inc. - Form 6-K</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" style="font-size: 10pt;">
+<hr noshade align="center" width="100%" size=3 color="black">
+<p align="center"><font size="5"><strong>UNITED STATES<br>
+  SECURITIES AND EXCHANGE COMMISSION</strong></font><br>
+  Washington, D.C. 20549</p>
+<p align="center"><b><font size="5">FORM 6-K</font></b></p>
+<p align="center"><b>REPORT OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16
+  OR 15d-16 <br>
+  UNDER THE SECURITIES EXCHANGE ACT OF 1934</b></p>
+<p align="center">For the month of <b>October, 2005</b></p>
+<p align="center">Commission File Number: <b>001-31913</b></p>
+<p align="center"><b><u><font size=5>NOVAGOLD RESOURCES INC.</font></u></b><br>
+  (Translation of registrant's name into English) </p>
+<p align="center"><b>Suite 2300 &#8211; 200 Granville Street, PO Box 24<br>
+  <u>Vancouver, BC Canada V6C 1S4 </u></b><br>
+  (Address of principal executive offices) </p>
+<p align="center">Indicate by check mark whether the registrant files or will 
+file annual reports under cover Form 20-F or Form 40-F.</p>
+<p align="center"> <font size="3" face="WINGDINGS">&#168;</font> Form 20-F 
+&nbsp;&nbsp;<font size="3" face="WINGDINGS">&#120;</font>
+  Form 40-F</p>
+<p align="center">Indicate by check mark if the registrant is submitting the 
+Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(1): <font size="3" 
+face="WINGDINGS">&#168;</font>
+</p>
+<p align="center"> Indicate by check mark if the registrant is submitting the 
+Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(7): <font size="3" 
+face="WINGDINGS">&#168;</font>
+</p>
+<p align="center">Indicate by check mark whether by furnishing the information
+  contained in this Form, the registrant is also thereby furnishing the 
+information
+  to the Commission pursuant to Rule 12g3-2(b) under the Securities Exchange Act
+  of 1934.</p>
+<p align="center">Yes <font size="3" face="WINGDINGS">&#168;</font> No <font 
+size="3" face="WINGDINGS">&#120;</font></p>
+<p align="center"> If &quot;Yes&quot; is marked, indicate below the file number
+  assigned to the registrant in connection with Rule 12g3-2(b): 82- _________
+</p>
+<HR noshade align="center" width="100%" size=5 color="black" style="page-break-
+after:always;">
+<p align="center"><img src="novalogo.jpg" width="113" height="104"></p>
+<p align="center"><b><u>SUBMITTED HEREWITH</u></b></p>
+<p align="left"><u>Exhibits</u></p>
+<table style="font-size: 10pt;" width="100%" border="0" cellspacing="0" 
+cellpadding="0">
+  <tr>
+    <td width="5%" valign="top" bgcolor="#EEEEEE">&nbsp;</td>
+<td width="5%" valign="top" bgcolor="#EEEEEE"><a href="exhibit99-
+1.htm">99.1</a></td>
+    <td bgcolor="#EEEEEE"><a href="exhibit99-1.htm">Press Release dated October
+      18, 2005</a></td>
+  </tr>
+  <tr>
+    <td valign="top">&nbsp;</td>
+    <td valign="top">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top" bgcolor="#EEEEEE"><a href="exhibit99-2.htm"></a></td>
+    <td valign="top" bgcolor="#EEEEEE"><a href="exhibit99-2.htm">99.2</a></td>
+    <td bgcolor="#EEEEEE"><a href="exhibit99-2.htm">Confirmation of Mailing 
+dated
+      October 14, 2005</a></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<hr noshade align="center" width="100%" size=5 color="black" style="page-break-
+after:always;">
+<p align="center"><strong><u>SIGNATURES</u></strong></p>
+<p align="justify">Pursuant to the requirements of the Securities Exchange Act
+  of 1934, the registrant has duly caused this report to be signed on its behalf
+  by the undersigned, thereunto duly authorized.</p>
+<table style="font-size: 10pt;" width="100%" border="0" cellspacing="0" 
+cellpadding="0">
+<tr>
+<td width="50%" valign="top">&nbsp;</td>
+<td colspan="2" valign="top"><b>NovaGold Resources, Inc.</b></td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td valign="top">&nbsp;</td>
+<td colspan="2" valign="top">(Registrant)</td>
+<td valign="top">&nbsp;</td>
+<td valign="top">&nbsp;</td>
+<td>&nbsp;</td>
+<td valign="top">Date:&nbsp;&nbsp;October 18, 2005</td>
+<td valign="top">By:</td>
+<td><I>/s/ Elaine Sanders</I></td>
+</tr>
+<tr>
+</td>
+</tr>
+<tr>
+<td valign="top">&nbsp;</td>
+<td valign="top">&nbsp;</td>
+<td><hr noshade align="center" width="100%" size=1 color="black">
+<td valign="top">&nbsp;</td>
+<td valign="top">&nbsp;</td>
+<td>Elaine Sanders</td>
+</tr>
+<tr>
+<td width="50%" valign="top">&nbsp;</td>
+<td width="5%" valign="top">Title:</td>
+<td>Controller</td>
+</tr>
+</table>
+<p>&nbsp; </p>
+<hr noshade align="center" width="100%" size=5 color="Black"></BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>exhibit99-1.htm
+<DESCRIPTION>PRESS RELEASE DATED OCTOBER 18, 2005
+<TEXT>
+<!DOCTYPE HTML PUBLIC "NG18Oct05NR.pdf">
+<HTML>
+<HEAD>
+   <TITLE>Filed by Automated Filing Services Inc. (604) 609-0244 - NovaGold 
+Resources Inc. - Exhibit 99.1</TITLE>
+   <META name="HandheldFriendly" content="true">
+</HEAD>
+<BODY style="font-size:10pt;">
+<HR noshade align="center" width=100% size=3 color="black">
+<A name=page_1></A> <br>
+<table style="font-size: 10pt;" width="100%" border="0" cellspacing="0" 
+cellpadding="0">
+  <tr>
+    <td width="33%" valign="top"><img src="novalogo.jpg" width="113" 
+height="104"></td>
+    <td width="33%" align="center" valign="middle"> <font size="5"><b>News 
+Release</b></font></td>
+    <td width="33%" align="right" valign="top"><b>AMEX, TSX Symbol: NG</b></td>
+  </tr>
+</table>
+<P align=center><B><font size="3">Pioneer Lawsuit on Grace Property Without 
+Merit
+  </font></B></P>
+<P align=justify><B>18 October 2005 </B></P>
+<P align=justify>NovaGold Canada Inc. (NovaGold), a wholly owned subsidiary of
+NovaGold Resources Inc., was served on Monday with a writ of summons by Pioneer
+Metals Corporation (Pioneer) related to NovaGold&#146;s option to earn 60% of 
+the
+Grace claims located in Northwestern British Columbia, one kilometer from the
+northernmost extension of NovaGold&#146;s Galore Creek property resources.</P>
+<P align=justify>The lawsuit seeks to rescind the option agreement on 
+Pioneer&#146;s
+Grace Property, based in part on an assumption that NovaGold has not made
+required expenditures on the property, and it claims certain damages for
+purported misrepresentation and breach of fiduciary duty. Pioneer also claimed
+in its news release that use of the surface area at Grace should be for the sole
+benefit of Pioneer.</P>
+<P align=justify>NovaGold asserts that: </P>
+<UL style="TEXT-ALIGN: justify">
+<LI>Despite significant exploration on the Grace property in 2004 and 2005,
+  with considerable input from Pioneer, no resource has so far been discovered
+  on the Grace claims.
+  <LI>NovaGold has significantly exceeded the expenditure requirements to date
+  under the option agreement, as Pioneer has been fully informed.
+  <LI>Pioneer did not object to or dispute any expenditures incurred on the
+  project during the review period allowed under the option agreement.
+  <LI>The Pioneer option agreement relates to sub-surface rights only. Subject
+  to mining legislation, the surface rights related to the Grace claims rest
+  with the Province of British Columbia, not with Pioneer. </LI></UL>
+<P align=justify>Mr. Rick Van Nieuwenhuyse, President and CEO of NovaGold 
+stated:
+  &#147;The claim by Pioneer is completely without merit and baseless. NovaGold
+  has diligently carried out two seasons of exploration on the Grace property
+  with significant input from Pioneer. NovaGold will vigorously defend its 
+rights
+  under the terms of the option agreement to continue to explore and develop the
+  property.&#148; </P>
+<P align=justify>NovaGold has engaged Barry Kirkham, Q.C. of the firm Owen Bird,
+  for legal representation in this matter.</P>
+<P align=justify><B>For more information contact:</B></P>
+<P align=justify><B>Don MacDonald</B>, CA, <I>Senior</I> <I>VP &amp;
+CFO<BR>
+  </I>E-mail: Don.MacDonald@NovaGold.net<BR>
+  (604)
+669-6227 Toll Free 1-866-669-6227 </P>
+<P align=justify><B>Greg Johnson</B>, <I>Vice President,<BR></I><I>Corporate
+Communications and Strategic Development<BR>
+  </I>E-mail: Greg.Johnson@NovaGold.net<BR>
+  (604)
+669-6227 Toll Free 1-866-669-6227 </P>
+<P align=justify><I>Forward Looking Statements: This press release contains
+forward-looking statements within the meaning of the United States Private
+Securities Litigation Reform Act of 1995. Forward looking statements are
+statements that are not historical facts and are subject to a variety of risks
+and uncertainties which could cause actual events or results to differ
+materially from those reflected in the forward-looking statements, including,
+risks related to exploration stage of the Company&#146;s projects; market
+fluctuations in prices for securities of exploration stage companies;
+uncertainties about the availability of additional financing; uncertainties
+related to fluctuations in gold prices and other risks and uncertainties
+described in the Company&#146;s registration statement on Form 40-F and Reports 
+on
+Form 6-K filed with the Securities and Exchange Commission. Although we believe
+the expectations reflected in our forward looking statements are reasonable,
+results may vary, and we cannot guarantee future results, levels of activity,
+performance or achievements.</I> </P>
+<HR align=center width="100%" color=black noShade SIZE=5>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>3
+<FILENAME>exhibit99-2.htm
+<DESCRIPTION>CONFIRMATION OF MAILING DATED OCTOBER 14, 2005
+<TEXT>
+<!DOCTYPE HTML PUBLIC "Computershare Confirmation of Mailing-
+NovaGoldQuaterly.pdf">
+<HTML>
+<HEAD>
+   <TITLE>Filed by Automated Filing Services Inc. (604) 609-0244 - NovaGold 
+Resources Inc. - Exhibit 99.2</TITLE>
+   <META name="HandheldFriendly" content="true">
+</HEAD>
+<BODY style="font-size:10pt;">
+<HR noshade align="center" width=100% size=3 color="black">
+<A name=page_1></A> <br>
+<img src="computershare-logo.gif" width="322" height="53">
+<P align=justify><B>Computershare Investor Services Inc.<BR></B>510 Burrard
+Street, Vancouver, BC V6C 3B9 Tel.: (604) 661-9400 Fax: (604) 661-9401</P>
+<P align=justify><B>October 14, 2005</B></P>
+<TABLE
+style="FONT-SIZE: 10pt; BORDER-LEFT-COLOR: black; BORDER-BOTTOM-COLOR: black; 
+BORDER-TOP-COLOR: black; BORDER-COLLAPSE: collapse; BORDER-RIGHT-COLOR: black"
+cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TR vAlign=top>
+    <TD align=left>To: </TD>
+    <TD align=left width="90%" colSpan=2>All Applicable Commissions and Stock
+      Exchanges &nbsp;</TD></TR>
+  <TR>
+    <TD align=left >&nbsp;</TD>
+    <TD align=left width="90%"  colSpan=2>&nbsp;</TD></TR>
+  <TR vAlign=top>
+    <TD align=left>Dear Sirs: &nbsp; </TD>
+    <TD align=left width="90%" colSpan=2>&nbsp; &nbsp;</TD></TR>
+  <TR>
+    <TD align=left >&nbsp;</TD>
+    <TD align=left width="90%"  colSpan=2>&nbsp;</TD></TR>
+  <TR vAlign=top>
+    <TD align=left>Subject: </TD>
+    <TD align=left width="90%" colSpan=2>NovaGold Resources
+Inc</TD></TR></TABLE>
+<P align=justify>We confirm that the following material was sent by pre-paid
+mail on October 13, 2005, to those registered and non-registered shareholders of
+the subject Corporation who completed and returned a supplemental mail list card
+requesting receipt of Interim Financial Statements.</P>
+<TABLE
+style="FONT-SIZE: 10pt; BORDER-LEFT-COLOR: black; BORDER-BOTTOM-COLOR: black; 
+BORDER-TOP-COLOR: black; BORDER-COLLAPSE: collapse; BORDER-RIGHT-COLOR: black"
+cellSpacing=0 cellPadding=0 width="100%" border=0 BCLLIST>
+<TR>
+    <TD vAlign=top width="5%">1. </TD>
+    <TD>
+      <P align=justify><B>2005 Quarter Report to Shareholders including
+      Consolidated Financial Statements for August 31, 2005 / Management
+      Discussion and Analysis</B></P></TD></TR></TABLE>
+<P align=justify>In compliance with regulations made under the Securities Act,
+we are providing this material to you in our capacity as agent for the subject
+Corporation.</P>
+<P align=justify>Yours truly,</P>
+<P align=justify>COMPUTERSHARE INVESTOR SERVICES INC.</P>
+<P align=justify><B>&#148;Karen Patrus&#148;<BR>Mailing 
+Specialist<BR></B><B>Stock
+Transfer, Client Services<BR>Telephone: (604) 661-9400 (ext 4504)<BR>Fax: (604)
+661-9401</B></P>
+<HR align=center width="100%" color=black noShade SIZE=5>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>novalogo.jpg
+<TEXT>
+begin 644 novalogo.jpg
+M_]C_X``02D9)1@`!`0$`2`!(``#_VP!#``8$!`0%!`8%!08)!@4&"0L(!@8(
+M"PP*"@L*"@P0#`P,#`P,$`P.#Q`/#@P3$Q04$Q,<&QL;'"`@("`@("`@("#_
+MVP!#`0<'!PT,#1@0$!@:%1$5&B`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("#_P``1"`!H`'$#`1$``A$!`Q$!_\0`
+M'````04!`0$```````````````(#!`4&!P$(_\0`/Q```0,#`00&!0H$!P``
+M`````@$#!``%$1(&$R$Q(C)!46%Q!P@4(T450E*!D9*3H;'!,T-BT188)%5S
+M@N'_Q``;`0`!!0$!`````````````````0(#!`4&!__$`#<1``(!`P(#!@0$
+M!04!```````!`@,$$1(Q!2%!!A,447&!(C)AL15"P=$S4F*1X0<C-&.A<O_:
+M``P#`0`"$0,1`#\`^J:`"@`H`*`"@`H`*`"@!".CO-';W]E+@!=(`4`%`!0`
+M4`%`!0`4`%`!0`4`>$J"BJO)*`(L>9O'515X%U*<T(/O.;L,]J\!I$*1_FX3
+MK)QSXTX0E-FA@A?;3!15`!0`4`%`!0`4`%`!0!X1((J1<$3BJT`0[9=HUP!P
+MF?Y9**I^]04+B%7Y>@^=-QW(=^N0LHD85Z1<3\JMP1&V5+=P5%147BG%*DP-
+MR7'MWM&ESDF."?K4>,"Y%;_QH`CQMHK:C[C3;R/*G71OI87SY55O+NG069O!
+M)3@Y;$E+TI+T&N'BM94>.0D^463^%9):N`EUQ4/'FE:-&\C/Z$4J;1*145,I
+MQ2K1&>T`%`!0`4`%`%#M3<5:C>R-+[QWK^`USW:#B:MZ>A?/+[%RSH:Y9Z(S
+M5JN)6J1O^;6,.#WUS_9^_EXA07-2+MY26C/D5\J\.2I)OFO$US]5>FJ)@Y)%
+MO=*0\@_-3B2TC`T(R$1,=B5'@<<^OVU$_:"^?(%J=5F"VN)DD.98ZR(O=4'$
+M;N-E;NM+=;>HM*#J3THUEJ@QH4<(\<$!L?S\5KR:5Y4N:CJ5'ELWU34%A%Y&
+M1*W[)%:9:-"&FNHH0C@IR8,/;IY`^8?Y+4M&O\6D9.'4GU=(@H`*`"@!J3(;
+MCL&\XN!!,K4=:K&G%RELA4LF"ESEE2#>/F2_E7B_%+Z=S7=1^WH=!0BH1P9F
+M_P!W!'4C-KU>)^?=7H?8OA#A3\1/YI;>AE<2N<O0NA6-S5541.:UW>#+-9;,
+M1XZ(O7+B50R'H1M%=BAV*=)!>FVT6GS7A1".6#9C_1<R.)4@N+BX15\^*UQ/
+M^H59JG3CT;-#A,>;9TADJ\_MJAL218L.UT=K7P5)Q)H2>%;<+SD5W3&G'\K4
+M+N_C7J+HY&@!<@B]Z5V1G'M`!0`4`8S;2^)O4M[1<`XO8[^Q*XWM1?<NXC[E
+MFWY/)C+G>`@PS?)>/($[UKG."\(=W<*'Y5S?H6*MSIB80KD3CA&:Y(ERJU[5
+M"DH145LC%<LEWL_[QSV@^H'5\Z28J-,,SQJ'`XAW_5,LDR,/6<:7'ZTZ')B,
+MS7HRNH-2RB.+IWR83/TDKE>W7#W6M-<=Z;S[%WAE73/'F=0`L5X_2JX.A:)3
+M;U:M&Y(7$>215Y79'H'8J')DMM#VKQ\JO\+3N+B,>BYLBK/3$UB)A,5Z08X4
+M`%`%;M!>&K3;'91KTD3#8]Y+RJO=7"I4W)B-G'W;@X^\;SA9,UU$OG7F]92J
+M3<GNQ55,)M1M#[7.W+9>Y8X)XEVK7IW9[A7A:&7\\N;(*M34RMB/&^\+0<R6
+MMYHB-K%?!AD6@Y"E5V/)0SO&FX%'AG>-&`,?>K=)M\Y;E`SN5+68CS`N_P`J
+MEY3CID-VYFSV9](EMFM`Q/<1B4G#6O5+^U>4]H.Q-6G)U+9:H/\`+U1N6O$H
+MM8GR9KVYD8QU`\!#WH25Q#H5H/#C)/T9IZXOJ!72(/\`.%?)<_I6K8<(N[EX
+MC!I>;Y(@JW%.&[-M9(#+$<7A)'#=1%UIW+W5Z7PGA,;.&-YO=F17KNH_H65:
+MQ`%`!0!QSTB;5)<+LL1@\Q8BZ>'(C[5KF.+UN\EI6R,^M<<\'/-IMH4M]O5`
+M+_4/]%O]UJ;@'"N^JZY?+'[B0J9.?I-\:]#P.-%8S1EK?G_$<ZO@/_M13'(N
+M0N/C4>D</A<?&DTBY'PN'C28#(\,]%I,!DAR+9:)1:C9027F0=&G*3#`J-9[
+M6RO15U4^BKA8_+%,ESWP*BZ8D--#I;1!'N2FX%.F^C?:49+16MXO>M])C/:/
+M:GU55KPZDD&;JJQ(%`&1])6U@6&Q$+98FR\ML)VHG:7U5!<U-,?J4KZY[J'U
+M9P(IZ)J<<+AQ(R7\UKGXV[G+"W9S\*NIG-K[?RN5Q-[/NAZ+*?TI_>O0[&S5
+M"DH(V8+"&8![U[I+[H.D:^'=5ICR]&ZY7GA.Q*BTC\CX7/QI-(9)`7/QIND7
+M)("Y>-)I%R2`N7C28`?"Y>-)I`?"X^-)@4?"X^-)I#)8VC:%ZWSV9C)8<9)%
+M\^]*9*&14SZ*LEVC7:V,3XZY;>'/DO:E9<XX>"RGDG4T4PNU_HN#::Z>W2KF
+MZT@CH:8$4412HJE%3W,R[X;WTM3DS-S_`%>+=+B'&^67VT<X$0@.<=U26L(T
+M9ZMV-H<*C3><ME'_`)2[#_OLG\,*U/Q)^1<\.A\/56L@-;L;Y)1,Y)=V'&D_
+M$7Y"^'%#ZK5F3XY)_#"D_$7Y!W`XGJP6=/C<G\,*3\0?D+W`XGJS6A/C4C\,
+M*/'OR#N!:>K7:4^,R/PPI/'OR%[D<3U<+4GQB1]P:/'/R#N1:>KM:T^,/_<&
+MD\:_(.Y'$]7NV)\7?^X-)XU^0=T+3T`6U/BS_P!P:/&/R%[H6GH%MR?%7ON#
+M2>,?D'=&RV,V/79B*[%":<IAQ=0@:(FE>W&.^H*M76/C'!HZB'!0!1_+S[%W
+M*#+0%:11%'@11PI#J3**15RD./5*=\[:OIT\DI)-<VLK.9/T-!V:E2UQSGR/
+M;_=[E;WHP1T9<]K-&FA-"3!$0@FHD+ED^ZK]]=W,+JG2@X::NK>+;6E9_G6<
+M^Q%2IP<')Y^'Z^?L6B2VAT!(<;:D$B:FM:+TNU!SI54^JM2=W2C+3*45)],K
+M)75.36</`.3X+1J#DEH#3F)&*+]BK4=7B%O3EIG4A&7DY),6-&;YI/\`L.$Z
+MT'6,1X:N*XX)S7\ZL2K0CNTN6=^GG_ZABBV):E17246G@<(>L(DBJGGBHZ5W
+M2J-J$XR:WPTQTJ<ENFBNF7W1<!MT5I7I1<U^:/#/'ER3FO[U2?$7.X="DOB@
+MLR;V6=E]63*AB&N6SV&W;Q<(!PPN;32^V/(P)1U)40C)!#KXYYRODO.E[^XA
+M6A3DE.,\YE%-:<+KSEOLN8FB#BVN371]?L6IRHP&C9O`+B\@4D1?LJY.[I1E
+MIE**D^F5DB5.36</!5[2RYD.,W(C/J"J:`H8!1Y$N>**N>'?7/\`:>\KVU*-
+M6E-QS)1QB+6S>>:SGWP7+"G&<M,ET^I)@W$)%IA2)#H,/3&&W."H/2<!%Z"'
+MGM7ASKH+BO3@L2FH.7)<UGVS_DIP@WLLE;:+Q/=V@D6YYQ'6`!XA)11"]TX`
+M)U<)Q0^/"L'@-]6JUJ\*DM:IRPN2\Y>27D6[NE&,8-+&5^QHJZ8HA0`4`9*3
+M#2=M=,B&N!.*1CW(8[A!+'AJ7[:X^?#H7=S=TY?]6'Y/0^9I*LZ<*;7]7W&E
+MN#@R(4>5A)4,G6A1>"*1"B,_:?*LJG?UIUZ-.7_(HJLO7X/A?OC]>I8E2BH2
+MDODEI^_,D;*0&)#$N5-:1T]\HM$YTNCNTR29SA54R15[:W^S5.$[#XN>O5JS
+MUYO?V*E])JKRZ8P083#]TMDAE1UG!TDP2]HGG4U]2#FN?L[*K<\-C47\6C)N
+M'HL<OV]"Y4JQIU\?EDN99'/@2K,C1!B.TQ[V.UD$R*B*#D<:>..7[5O3XM3K
+MVG?M:H02;C_7E87LUZ8>2HK=PJ:5N^OT*6Z7!Q+8S<8C3<30LA6$:'2N6=(J
+MI+GI<1QR[*R;^O5G7LZLM*[R65A;)Z-WGGR?DBQ2C%0J16>2_<NK?$=9VPD&
+MXO`FG5#QWA@2?8@JE:G"(.CQ"XA+>>)+TR_MG'L5[AZJ,&NG(DW*\S(=R&(2
+MM*#P*K1:5$M1:A;'.I4RI(B<J=>\4N:5YX=:)*4)27)I[2POF?6.^/82E;PE
+M3U\^32^Q"V4@,2&)<J:TCI[Y1:)SI='=IDDSG"JIDBKVT[LU3A.P^+GKU:L]
+M>;W]@OI-5>73&"J69(>LI,.95IA]O=&O]0.9#_KA/MKD+BI.7!X:NE;"]-,O
+M\FE&*5R\?R_J6$!EJY;1N*\V+]O!I3;$L$WA%#<\.2IH522NJX1/7?W/>?,L
+M)?\`SS_P_<S[CE1AC;]0L>G_`!E)T]7=2L8Y8W[50]F<>*N\;=Y^LQ;[^'3]
+M/V-?78F:%`!0!4,;.HQ/68W<):*1ZC:4FR`D^@604E3'#BN?&L^APNC2J=Y'
+M5K>[US>?7,N?TSL33KRDL/&/1#EPL$.=-CS'#<;<CF!X;TX-6R0QUY$EX*G9
+MBGRX=1==5W'_`'4L9Y_;;J(JTM.C\H2;#'>-2;?>C(:ZGFV2'0>>>H2$TXTV
+M7"Z#;^'&K=)M)Y\XIX?NA?$3_L2;=;8=O8W,4-`JNHU5<D1+VDJ\5JY3IQA%
+M1BL)$4I-O+&X]F@,'+,0S[:OO17&,8ZJ=N,JJ_74$+*E&#@HK1+.5Z[CW5DW
+MG/-$9=FHI-*T4A]41<QUU#J9_P"-=/ZYJL^#6SBHN/*.W.65Z/.5[,D\54SG
+M._H2SM;+K#3;SCCCK*="4JH+OGD$%/RJU5M*=3&I9T[/JO??_P!(XU91VZE:
+MNR+!RVI+T^8^3+@.`+A-DGNSUBF=WJQE.^JT.$T(U55PW4CLW*4ONWYCW<3<
+M=/3T1+DV&.\:DV^]&0UU/-LD.@\\]0D)IQI\N%T&W\.-6Z3:3SYQ3P_=">(G
+M_88D[*PGHS,8)$EAEC5@0-"15)<Y7>BYQRJ\L5'<\'MJZ49Q^&.RS))>R:7N
+M+"YG%Y3YL\<V4B.MB+\J2\X*_P`<U;WBC]!50$14^K/CRIM3@EI-ISAJ<>K;
+M;]VWS]\BQNZBV>!R/LVS&F^U1IDII,BIL:P(#QSUZP(RSQSDL]U2T.%T*51U
+>()J4GE_%+#]5G'7RY=!LKB<HZ7LO0MZT"$*`/__9
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>5
+<FILENAME>computershare-logo.gif
+<TEXT>
+begin 644 computershare-logo.gif
+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
+7>9\7>J-7>J>7>JO7>J\7>[.71@,"`#L_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

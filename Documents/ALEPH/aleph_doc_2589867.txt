@@ -1,0 +1,4381 @@
+
+10-Q 1 io-06302016x10q.htm 10-Q Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+ 
+FORM 10-Q
+ý
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+FOR THE QUARTERLY PERIOD ENDED JUNE 30, 2016
+OR
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+¨
+EXCHANGE ACT OF 1934
+COMMISSION FILE NUMBER: 1-12691
+ION GEOPHYSICAL CORPORATION
+(EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+ 22-2286646
+DELAWARE
+(State or other jurisdiction of
+ (I.R.S. Employer
+incorporation or organization) Identification No.)
+  
+2105 CityWest Blvd.
+  
+Suite 400
+Houston, Texas
+ 77042-2839
+(Address of principal executive offices) (Zip Code)
+REGISTRANT’S TELEPHONE NUMBER, INCLUDING AREA CODE: (281) 933-3339
+ 
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by
+Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or
+for such shorter period that the registrant was required to file such reports), and (2) has been
+subject to such filing requirements for the past 90 days.    Yes  ý    No  ¨
+Indicate by check mark whether the registrant has submitted electronically and posted on its
+corporate Web site, if any, every Interactive Data File required to be submitted and posted
+pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter
+period that the registrant was required to submit and post such files).    Yes  ý    No  ¨
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a
+non-accelerated filer, or a smaller reporting company. See the definitions of “large accelerated
+filer,” “accelerated filer” and “smaller reporting company” in Rule 12b-2 of the Exchange Act.
+(Check one): 
+Large accelerated filer o
+ 
+  
+o  (Do not check if a smaller reporting
+company)
+Accelerated filer
+ý
+Non-accelerated filer
+Smaller reporting companyo
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the
+Exchange Act).
+Yes ¨    No  ý
+At July 25, 2016, there were 11,786,220 shares of common stock, par value $0.01 per share,
+outstanding.
+1
+ION GEOPHYSICAL CORPORATION AND SUBSIDIARIES
+TABLE OF CONTENTS FOR FORM 10-Q
+FOR THE QUARTER ENDED JUNE 30, 2016
+ 
+ 
+PART I. Financial Information
+Item 1. Financial Statements
+Condensed Consolidated Balance Sheets as of June 30, 2016 and December 31, 2015
+Condensed Consolidated Statements of Operations for the three- and six-months ended
+June 30, 2016 and 2015
+Condensed Consolidated Statements of Comprehensive Income (Loss) for the three- and
+six-months ended June 30, 2016 and 2015
+Condensed Consolidated Statements of Cash Flows for the six months ended June 30,
+2016 and 2015
+Footnotes to Unaudited Condensed Consolidated Financial Statements
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of
+Operations
+Item 3. Quantitative and Qualitative Disclosures about Market Risk
+Item 4. Controls and Procedures
+ 
+PART II. Other Information
+Item 1. Legal Proceedings
+Item 1A. Risk Factors
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+Item 5. Other Information
+Item 6. Exhibits
+PAGE
+ 
+ 
+3
+4
+5
+6
+7
+25
+40
+40
+ 
+ 
+41
+42
+43
+43
+44
+2
+PART I. FINANCIAL INFORMATION
+Item 1. Financial Statements
+ION GEOPHYSICAL CORPORATION AND SUBSIDIARIES
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(UNAUDITED)
+ASSETS
+Current assets:
+December 31,
+ 
+2015
+June 30,
+2016
+(In thousands, except share data)
+$ 52,433
+20,094
+22,011
+34,377
+17,461
+146,376
+58,412
+118,547
+24,025
+3,947
+2,514
+$ 353,821
+ 
+ 
+$ 20,371
+26,969
+27,284
+23,473
+7,666
+105,763
+145,130
+44,051
+294,944
+$ 84,933
+ 44,365
+ 19,937
+ 32,721
+ 14,807
+ 196,763
+ 72,027
+ 132,237
+ 26,274
+ 4,810
+ 2,977
+ $ 435,088
+  
+  
+ $ 7,912
+ 29,799
+ 34,287
+ 25,045
+ 6,560
+ 103,603
+ 175,080
+ 44,365
+ 323,048
+Cash and cash equivalents
+Accounts receivable, net
+Unbilled receivables
+Inventories
+Prepaid expenses and other current assets
+Total current assets
+Property, plant, equipment and seismic rental equipment, net
+Multi-client data library, net
+Goodwill
+Intangible assets, net
+Other assets
+Total assets
+LIABILITIES AND EQUITY
+Current liabilities:
+Current maturities of long-term debt
+Accounts payable
+Accrued expenses
+Accrued multi-client data library royalties
+Deferred revenue
+Total current liabilities
+Long-term debt, net of current maturities
+Other long-term liabilities
+Total liabilities
+Equity:
+Common stock, $0.01 par value; authorized 26,666,667 shares;
+outstanding 11,786,220 and 10,702,689 shares at June 30,
+2016 and December 31, 2015, respectively, net of treasury
+stock
+Additional paid-in capital
+Accumulated deficit
+Accumulated other comprehensive loss
+Treasury stock, at cost, zero and 353,124 shares at June 30,
+2016 and December 31, 2015 respectively
+Total stockholders’ equity
+Noncontrolling interest
+Total equity
+Total liabilities and equity
+See accompanying Footnotes to Unaudited Condensed Consolidated Financial Statements.
+894,715
+) (759,531
+) (14,781
+(8,551
+111,959
+ 81
+ 112,040
+ $ 435,088
+118
+107
+897,476
+(819,887
+(18,980
+—
+58,727
+150
+58,877
+$ 353,821
+3
+ION GEOPHYSICAL CORPORATION AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(UNAUDITED)
+Three Months Ended
+June 30,
+Six Months Ended
+ 
+June 30,
+)
+)
+)
+Service revenues
+Product revenues
+Total net revenues
+Cost of services
+Cost of products
+Gross profit (loss)
+Operating expenses:
+Research, development and engineering
+Marketing and sales
+General, administrative and other operating
+expenses
+Total operating expenses
+Loss from operations
+Interest expense, net
+Other income (expense), net
+Income (loss) before income taxes
+Income tax expense, net
+Net income (loss)
+Net (income) loss attributable to noncontrolling
+interests
+Net income (loss) attributable to ION
+Net income (loss) per share:
+Basic
+Diluted
+Weighted average number of common shares
+outstanding:
+Basic
+Diluted
+2016
+2015
+2015
+2016
+(In thousands, except per share data)
+$ 25,430
+10,722
+36,152
+27,175
+4,124
+4,853
+ 
+4,761
+4,684
+$38,586
+ 20,231
+ 58,817
+ 53,012
+ 9,882
+) (4,077
+  
+ 10,370
+ 8,694
+$ 23,323
+ 13,472
+ 36,795
+ 38,817
+ 8,113
+ (10,135
+  
+ 7,239
+ 8,638
+$ 43,403
+ 33,970
+ 77,373
+ 84,351
+ 18,945
+) (25,923
+  
+ 14,959
+ 16,471
+11,996
+14,677
+23,576
+30,025
+21,441
+(16,588
+(4,702
+(1,717
+(23,007
+2,256
+(25,263
+30,554
+) (40,689
+) (4,607
+) 101,600
+) 56,304
+ 532
+) 55,772
+42,640
+) (46,717
+) (9,436
+ (1,597
+ (57,750
+ 2,549
+ (60,299
+61,455
+) (87,378
+) (9,232
+) 98,381
+) 1,771
+ 1,515
+) 256
+(79
+) 297
+(57
+) 549
+$ (25,342 ) $ 56,069
+ 
+$ (2.22
+$ (2.22
+) $ 5.11
+) $ 5.11
+$(60,356 ) $ 805
+  
+ $(5.48
+ $(5.48
+) $ 0.07
+) $ 0.07
+11,415
+11,415
+10,979
+ 10,980
+11,008
+ 11,008
+10,975
+ 10,977
+)
+)
+)
+See accompanying Footnotes to Unaudited Condensed Consolidated Financial Statements.
+4
+ION GEOPHYSICAL CORPORATION AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS)
+(UNAUDITED)
+Net income (loss)
+Other comprehensive income (loss), net of taxes, as
+Three Months Ended
+June 30,
+2016
+(In thousands)
+$(25,263 ) $55,772  $(60,299 ) $ 256
+Six Months Ended
+ 
+June 30,
+ 2016
+2015
+2015
+appropriate:
+Foreign currency translation adjustments
+Total other comprehensive income (loss), net of
+taxes
+Comprehensive net income (loss)
+Comprehensive (income) loss attributable to
+noncontrolling interest
+Comprehensive net income (loss) attributable to
+ION
+(2,737
+(2,737
+) 1,953
+) 1,953
+(4,199
+(4,199
+(28,000
+) 57,725
+(64,498
+(79
+) 297
+(57
+) 608
+) 608
+) 864
+) 549
+$(28,079 ) $58,022  $(64,555 ) $ 1,413
+See accompanying Footnotes to Unaudited Condensed Consolidated Financial Statements.
+Six Months Ended June
+30,
+2016
+(In thousands)
+ 
+$(60,299 ) $256
+2015
+5
+ION GEOPHYSICAL CORPORATION AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(UNAUDITED)
+Cash flows from operating activities:
+Net income (loss)
+Adjustments to reconcile net income (loss) to cash used in operating
+activities:
+Depreciation and amortization (other than multi-client data library)
+Amortization of multi-client data library
+Stock-based compensation expense
+Reduction of accrual for loss contingency related to legal proceedings —
+Loss on extinguishment of debt
+Deferred income taxes
+Change in operating assets and liabilities:
+Accounts receivable
+Unbilled receivables
+Inventories
+Accounts payable, accrued expenses and accrued royalties
+Deferred revenue
+Other assets and liabilities
+Net cash used in operating activities
+Cash flows from investing activities:
+Cash invested in multi-client data library
+Purchase of property, plant, equipment and seismic rental assets
+Other investing activities
+Net cash used in investing activities
+Cash flows from financing activities:
+13,015
+ 10,440
+ 3,047
+ (101,978
+ —
+ (24
+  
+ 87,796
+) 9,198
+ (739
+) (40,649
+ 2,405
+) (5,262
+) (22,495
+  
+) (13,598
+) (17,213
+ 257
+) (30,554
+)
+)
+)
+)
+)
+)
+)
+)
+)
+11,416
+14,244
+1,610
+2,182
+381
+ 
+23,980
+(2,042
+1,329
+(5,518
+1,151
+(773
+(12,339
+ 
+(8,648
+(340
+—
+(8,988
+Borrowings under revolving line of credit
+Repurchase of common stock
+Payments on notes payable and long-term debt
+Costs associated with issuance of debt
+Payment to repurchase bonds
+Other financing activities
+Net cash used in financing activities
+Effect of change in foreign currency exchange rates on cash and cash
+equivalents
+Net decrease in cash and cash equivalents
+Cash and cash equivalents at beginning of period
+Cash and cash equivalents at end of period
+See accompanying Footnotes to Unaudited Condensed Consolidated Financial Statements.
+—
+) —
+) (3,560
+) —
+) —
+ 22
+) (3,538
+15,000
+(964
+(4,786
+(6,174
+(15,000
+13
+(11,911
+(32,500
+84,933
+$52,433
+) (56,548
+ 173,608
+ $117,060
+738
+39
+)
+)
+)
+6
+ION GEOPHYSICAL CORPORATION AND SUBSIDIARIES
+FOOTNOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(1)    Basis of Presentation
+The condensed consolidated balance sheet of ION Geophysical Corporation and its subsidiaries
+(collectively referred to as the “Company” or “ION,” unless the context otherwise requires) at
+December 31, 2015 has been derived from the Company’s audited consolidated financial
+statements at that date. The condensed consolidated balance sheet at June 30, 2016, and the
+condensed consolidated statements of operations and comprehensive income (loss) for the three
+and six months ended June 30, 2016 and 2015 and the condensed consolidated statements of
+cash flows for the six months ended June 30, 2016 and 2015, are unaudited. In the opinion of
+management, all adjustments (consisting of normal recurring accruals) considered necessary for
+a fair presentation have been included. The share numbers have been retroactively adjusted to
+reflect the one-for-fifteen reverse stock split completed on February 4, 2016. The results of
+operations for the three and six months ended June 30, 2016 are not necessarily indicative of the
+operating results for a full year or of future operations.
+These condensed consolidated financial statements have been prepared using accounting
+principles generally accepted in the United States for interim financial information and the
+instructions to Form 10-Q and applicable rules of Regulation S-X of the Securities and Exchange
+Commission (the “SEC”). Certain information and footnote disclosures normally included in
+annual financial statements presented in accordance with accounting principles generally
+accepted in the United States have been omitted. The accompanying condensed consolidated
+financial statements should be read in conjunction with the Company’s Annual Report on Form
+10-K for the year ended December 31, 2015 and on Form 10-K/A  Amendment No. 2, which was
+filed on June 27, 2016 and contains the separate consolidated financial statements of INOVA
+Geophysical Equipment Limited (“INOVA Geophysical”) for its fiscal year ended December 31,
+2015.
+(2)    Restructurings and Special Items
+The recent decline in crude oil prices to five-year lows and the depressed level of natural gas
+prices have negatively impacted the economic outlook of the Company’s exploration and
+production (“E&P”) customers, which has also negatively impacted the outlook for the Company’s
+seismic contractor customers. In response to the decline in crude oil prices, E&P companies
+have reduced their capital expenditures and shifted their spending from exploration activities to
+production-related activities on existing assets. Because seismic spending is discretionary, E&P
+companies have disproportionately cut their spending on seismic-related services and products.
+In April, 2016, the Company implemented additional cost saving initiatives by reducing its current
+workforce by over 12%. Additional reductions were needed to further streamline the organization
+and bring it in line with the Company’s current revenue stream, while maintaining the necessary
+core capabilities to continue our operations and strategic initiatives. During the three and six
+months ended June 30, 2016, the Company recognized the following pre-tax charges (in
+thousands):
+ 
+Cost of goods sold $
+Operating expenses932
+Other expense
+—
+Consolidated total $
+(a) Represents severance charges related to the second quarter 2016 restructurings.
+(b) Represents a loss on exchange of bonds during the second quarter 2016.
+Severance Charges(a) Loss on Bond Exchange(b) Total
+$ —
+ —
+ 2,182
+ $
+$1,077
+ 932
+ 2,182
+ $4,191
+2,182
+1,077
+2,009
+7
+(3)    Segment Information
+The Company operates through four business segments – Solutions, Systems, Software and
+Ocean Bottom Services. The Company measures segment operating results based on income
+(loss) from operations. In addition, the Company has an equity ownership interest in its INOVA
+Geophysical joint venture. As of December 31, 2014, the Company wrote down its investment in
+INOVA Geophysical to zero and has suspended recording its share of losses in the joint venture.
+If at a future date, the Company’s cumulative share of earnings during the period of suspension
+becomes greater than its share of losses during the same period, the Company will begin to
+record its share of earnings in the joint venture as long as its net equity method investment
+remains greater than zero.
+On August 4, 2016, the Company announced it plans to realign its four business segments into
+three. See further discussion at Footnote 18 “Subsequent Event” of Footnotes to Consolidated
+Financial Statements.”
+The following table is a summary of segment information (in thousands):
+ 
+ 
+Net revenues:
+Solutions:
+New Venture
+Data Library
+Total multi-client revenues
+Data Processing
+Total
+Systems
+Three Months Ended June 30, Six Months Ended June 30,
+2016
+ 
+ 
+$ 4,579
+6,275
+10,854
+7,764
+$ 18,618
+$ 6,626
+2015
+  
+  
+ $ 3,636
+ 7,509
+ 11,145
+ 11,205
+ $ 22,350
+ $ 7,674
+2016
+  
+  
+ $7,885
+ 10,547
+ 18,432
+ 13,204
+ $31,636
+ $11,985
+2015
+  
+  
+ $8,665
+ 9,646
+ 18,311
+ 23,038
+ $41,349
+ $20,443
+$ 4,096
+379
+$ 4,475
+$ 6,433
+$ 36,152
+Software:
+Software Systems
+Services
+Total
+Ocean Bottom Services
+Total
+Gross profit (loss):
+Solutions
+Systems
+Software
+Ocean Bottom Services
+Total
+Gross margin:
+Solutions
+Systems
+Software
+Ocean Bottom Services
+Total
+Income (loss) from operations:
+Solutions
+Systems
+Software
+Ocean Bottom Services
+)
+Corporate and other
+)
+Loss from operations
+)
+Interest expense, net
+Other income (expense), net
+)
+Income (loss) before income taxes$ (23,007 )
+$ (3,533
+1,358
+2,761
+4,267
+$ 4,853
+ 
+(19
+20
+62
+66
+13
+ 
+$ (8,649
+(1,843
+899
+2,884
+(9,879
+(16,588
+(4,702
+(1,717
+)
+)
+)
+)%  (35
+ %  20
+ %  62
+ %  —
+ %  (28
+)%  (42
+ %  23
+ %  60
+ %  19
+)%  (7
+  
+ $(24,126 )
+ (4,352
+)
+ 1,895
+)
+ (1,330
+)
+ (18,804
+)
+ (46,717
+)
+ (9,436
+ (1,597
+)
+ $(57,750 )
+)
+)
+)
+)
+$ (19,756 )
+ (2,379
+)
+ 2,095
+ (10,008
+ (10,641
+ (40,689
+ (4,607
+ 101,600
+ $ 56,304
+$ 5,798
+ 973
+ $ 6,771
+ $ —
+ $ 36,795
+$8,246
+ 517
+ $8,763
+ $6,433
+ $58,817
+)
+$ (7,856
+ 1,500
+ 4,208
+ (7,987
+)
+ $ (10,135 )
+$(13,306 )
+ 2,721
+ 5,287
+ 1,221
+ $(4,077 )
+$13,527
+ 2,054
+ $15,581
+ $—
+ $77,373
+ 
+ $(18,248 )
+ 6,059
+ 9,798
+ (23,532
+)
+ $(25,923 )
+)%  (44
+ %  30
+ %  63
+ %  —
+)%  (34
+)%
+ %
+ %
+ %
+)%
+$(41,534 )
+ (1,365
+)
+ 5,430
+ (27,567
+ (22,342
+ (87,378
+ (9,232
+ 98,381
+ $1,771
+)
+)
+)
+)
+8
+(4)    Long-term Debt
+The following table is a summary of long-term debt obligations, net (in thousands):
+Obligations (in thousands)
+Senior secured second-priority notes (maturing December 15,
+2021)
+Senior secured third-priority notes (maturing May 15, 2018)
+Revolving line of credit
+Equipment capital leases
+Other debt
+Costs associated with issuances of debt (1)
+Total
+June 30,
+ 
+2016
+December 31,
+ 
+2015
+$ 120,569
+$ —
+28,497
+ 15,000
+ 6,068
+ 685
+ (5,318
+ 165,501
+175,000
+ —
+ 9,762
+ 1,558
+) (3,328
+ 182,992
+)
+)
+•
+•
+•
+(20,371
+ $ 145,130
+) (7,912
+ $ 175,080
+Represents debt issuance costs presented as a direct deduction from the carrying amount of
+the associated debt liability.
+Current portion of long-term debt and lease obligations
+Non-current portion of long-term debt and lease obligations
+(1) 
+Revolving Credit Facility
+In August 2014, ION and its material U.S. subsidiaries, ION Exploration Products (U.S.A.), Inc.,
+I/O Marine Systems, Inc. and GX Technology Corporation (collectively, the “Subsidiary
+Borrowers”), and together with the Company, collectively, the “Borrowers”) entered into a
+Revolving Credit and Security Agreement with PNC Bank, National Association (“PNC”), as
+agent (the “Original Credit Agreement”), which was amended by the First Amendment to
+Revolving Credit and Security Agreement in August 2015 (the “First Amendment”) and the
+Second Amendment (as defined below) (the Original Credit Agreement, as amended by the First
+Amendment, and the Second Amendment, the “Credit Facility”). For a complete discussion of the
+terms, available credit and security of this Credit Facility, prior to the effectiveness of the Second
+Amendment, see Footnote 4 to the Financial Statements included in the Company’s Annual
+Report on Form 10-K for the year ended December 31, 2015.
+The Credit Facility is available to provide for the Borrowers’ general corporate needs, including
+working capital requirements, capital expenditures, surety deposits and acquisition financing.
+The maximum amount of the revolving line of credit under the Credit Facility is the lesser of $40.0
+million or a monthly borrowing base (which may be recalculated more frequently under certain
+circumstances).
+On April 28, 2016, the Borrowers and PNC entered into a second amendment (the “Second
+Amendment”) to the Credit Facility. The Second Amendment, among other things:
+increases the applicable margin for loans by 0.50% per annum (from 2.50% per annum to 3.00%
+per annum for alternate base rate loans and from 3.50% per annum to 4.00% per annum for
+LIBOR-based loans);
+increases the minimum excess availability threshold to avoid triggering the agent’s rights to
+exercise dominion over cash and deposit accounts and increases certain of the thresholds upon
+which such dominion ceases;
+increases the minimum liquidity threshold to avoid triggering the Company’s obligation to
+calculate and comply with the existing fixed charge coverage ratio and increases certain of the
+thresholds upon which such required calculation and compliance cease;
+establishes a reserve that reduces the amount available to be borrowed by the aggregate
+amount owing under all Third Lien Notes that remain outstanding (if any) on or after February
+14, 2018 (i.e., 90 days prior to the stated maturity of the Third Lien Notes);
+increases the maximum amount of certain permitted junior indebtedness to $200.0 million (from
+$175.0 million);
+incorporates technical and conforming changes to reflect that the Second Lien Notes and the
+remaining Third Lien Notes (and any permitted refinancing thereof or subsequently incurred
+replacement indebtedness meeting certain requirements) constitute permitted indebtedness;
+clarifies the circumstances and mechanics under which the Company may prepay, repurchase
+or redeem the Second Lien Notes, the remaining Third Lien Notes and certain other junior
+indebtedness;
+modifies the cross-default provisions to incorporate defaults under the Second Lien Notes, the
+remaining Third Lien Notes and certain other junior indebtedness; and
+eliminates the potential early commitment termination date and early maturity date that would
+otherwise have occurred ninety (90) days prior the maturity date of the Third Lien Notes if any of
+the Third Lien Notes then remained outstanding.
+•
+•
+•
+•
+•
+•
+The borrowing base under the Credit Facility will increase or decrease monthly using a formula
+based on certain eligible receivables, eligible inventory and other amounts, including a
+percentage of the net orderly liquidation value of the Borrowers’ multi-client data library (not to
+exceed $15.0 million for the multi-client data library data component).  As of June 30, 2016, the
+borrowing
+9
+base under the Credit Facility was $26.9 million, and there was $15.0 million of indebtedness
+under the Credit Facility. The Credit Facility is scheduled to mature on August 22, 2019.
+The obligations of Borrowers under the Credit Facility are secured by a first-priority security
+interest in 100% of the stock of the Subsidiary Borrowers and 65% of the equity interest in ION
+International Holdings L.P. and by substantially all other assets of the Borrowers.
+The Credit Facility contains covenants that, among other things, limit or prohibit the Borrowers,
+subject to certain exceptions and qualifications, from incurring additional indebtedness (including
+capital lease obligations), repurchasing equity, paying dividends or distributions, granting or
+incurring additional liens on the Borrowers’ properties, pledging shares of the Borrowers’
+subsidiaries, entering into certain merger transactions, entering into transactions with the
+Company’s affiliates, making certain sales or other dispositions of the Borrowers’ assets, making
+certain investments, acquiring other businesses and entering into sale-leaseback transactions
+with respect to the Borrowers’ property.
+The Credit Facility, requires that ION and the Subsidiary Borrowers maintain a minimum fixed
+charge coverage ratio of 1.1 to 1.0 as of the end of each fiscal quarter during the existence of a
+covenant testing trigger event. The fixed charge coverage ratio is defined as the ratio of (i) ION’s
+EBITDA, minus unfunded capital expenditures made during the relevant period, minus
+distributions (including tax distributions) and dividends made during the relevant period, minus
+cash taxes paid during the relevant period, to (ii) certain debt payments made during the relevant
+period. A covenant testing trigger event occurs upon (a) the occurrence and continuance of an
+event of default under the Credit Facility or (b) the failure to maintain a measure of liquidity
+greater than (i) $7.5 million for five consecutive business days or (ii) $6.5 million on any given
+business day. Liquidity, as defined in the Credit Facility, is the Company’s excess availability to
+borrow ($11.9 million at June 30, 2016) plus the aggregate amount of unrestricted cash held by
+ION, the Subsidiary Borrowers and their domestic subsidiaries.
+At June 30, 2016, the Company was in compliance with all of the covenants under the Credit
+Facility.
+The Credit Facility contains customary event of default provisions (including a “change of control”
+event affecting ION), the occurrence of which could lead to an acceleration of the Company’s
+obligations under the Credit Facility as amended.
+Senior Secured Notes
+In May 2013, the Company sold $175.0 million aggregate principal amount of 8.125% Senior
+Secured Second-Priority Notes due 2018 (the “Third Lien Notes”) in a private offering pursuant to
+an Indenture dated as of May 13, 2013 (the Third Lien Notes Indenture”). Prior to the completion
+of the Exchange Offer (as defined below) and Consent Solicitation (as defined below) on April
+28, 2016, the Third Lien Notes were senior secured second-priority obligations of the Company.
+After giving effect to the Exchange Offer and Consent Solicitation, the remaining aggregate
+principal amount of approximately $28.5 million of outstanding Third Lien Notes became senior
+secured third-priority obligations of the Company subordinated to the liens securing all senior
+and second priority indebtedness of the Company, including under the Credit Facility and
+Second-Priority Lien Notes (defined below).
+Pursuant to the Exchange Offer and Consent Solicitation, the Company (i) issued approximately
+$120.6 million in aggregate principal amount of the Company’s new 9.125% Senior Secured
+Second Priority Notes due 2021 (the “Second Lien Notes,” and collectively with the Third Lien
+Notes, the “Notes”) and 1,205,477 shares of the Company’s common stock in exchange for
+approximately $120.6 million in aggregate principal amount of Third Lien Notes, and (ii)
+purchased approximately $25.9 million in aggregate principal amount of Third Lien Notes in
+exchange for aggregate cash consideration totaling approximately $15.0 million, plus accrued
+and unpaid interest on the Third Lien Notes from the applicable last interest payment date to, but
+not including, April 28, 2016.
+After giving effect to the Exchange Offer and Consent Solicitation, the aggregate principal
+amount of the Third Lien Notes remaining outstanding was approximately $28.5 million and the
+aggregate principal amount of Second Lien Notes outstanding was approximately $120.6 million.
+See “Exchange Offer” below.
+The Third Lien Notes are guaranteed by the Company’s material U.S. subsidiaries, GX
+Technology Corporation, ION Exploration Products (U.S.A.), Inc. and I/O Marine Systems, Inc.
+(the “Guarantors”), and mature on May 15, 2018. Interest on the Third Lien Notes accrues at the
+rate of 8.125% per annum and will be payable semiannually in arrears on May 15 and November
+15 of each year during their term. In May 2014, the holders of the Third Lien Notes exchanged
+their Third Lien Notes for a like principal amount of registered Third Lien Notes with the same
+terms. For a complete discussion of the terms and security the Third Lien Notes in effect prior to
+the completion of the Exchange Offer and Consent Solicitation on April 28, 2016, see Footnote 4
+to the Financial Statements included in the Company’s Annual Report on Form 10-K for the year
+ended December 31, 2015.
+10
+Prior to the completion of the Exchange Offer and Consent Solicitation, the Third Lien Notes
+Indenture contained certain covenants that, among other things, limited or prohibited the
+Company’s ability and the ability of its restricted subsidiaries to take certain actions or permit
+certain conditions to exist during the term of the Third Lien Notes, including among other things,
+incurring additional indebtedness, creating liens, paying dividends and making other
+distributions in respect of the Company’s capital stock, redeeming the Company’s capital stock,
+making investments or certain other restricted payments, selling certain kinds of assets, entering
+into transactions with affiliates, and effecting mergers or consolidations. These and other
+restrictive covenants contained in the Third Lien Notes Indenture are subject to certain
+exceptions and qualifications. After giving effect to the Exchange Offer and Consent Solicitation,
+the Third Lien Notes Indenture was amended to, among other things, provide for the release of
+the second priority security interest in the collateral securing the remaining Third Lien Notes and
+the grant of a third priority security interest in the collateral, subordinate to liens securing all
+senior and second priority indebtedness of the Company, including the Credit Facility and the
+Second Lien Notes, and eliminate substantially all of the restrictive covenants and certain events
+of default pertaining to the remaining Third Lien Notes.
+As of June 30, 2016, the Company was in compliance with the covenants with respect to the
+Third Lien Notes.
+On or after May 15, 2015, the Company may on one or more occasions redeem all or a part of the
+Third Lien Notes at the redemption prices set forth below, plus accrued and unpaid interest and
+special interest, if any, on the Third Lien Notes redeemed during the twelve-month period
+beginning on May 15th of the years indicated below:
+ Percentage
+Date
+ 104.063%
+2015
+2016
+ 102.031%
+2017 and thereafter 100.000%
+The Second Lien Notes are senior secured second-priority obligations guaranteed by the
+Guarantors. The Second Lien Notes mature on December 15, 2021. Interest on the Second Lien
+Notes accrues at the rate of 9.125% per annum and is payable semiannually in arrears on June
+15 and December 15 of each year during their term, beginning June 15, 2016, except that the
+interest payment otherwise payable on June 15, 2021 will be payable on December 15, 2021.
+The indenture dated April 28, 2016 governing the Second Lien Notes (the “Second Lien Notes
+Indenture”) contains certain covenants that, among other things, limits or prohibits the Company’s
+ability and the ability of its restricted subsidiaries to take certain actions or permit certain
+conditions to exist during the term of the Second Lien Notes, including among other things,
+incurring additional indebtedness, creating liens, paying dividends and making other
+distributions in respect of the Company’s capital stock, redeeming the Company’s capital stock,
+making investments or certain other restricted payments, selling certain kinds of assets, entering
+into transactions with affiliates, and effecting mergers or consolidations. These and other
+restrictive covenants contained in the Second Lien Notes Indenture are subject to certain
+exceptions and qualifications. All of the Company’s subsidiaries are currently restricted
+subsidiaries.
+As of June 30, 2016, the Company was in compliance with the covenants with respect to the
+Second Lien Notes.
+On or after December 15, 2019, the Company may on one or more occasions redeem all or a part
+of the Second Lien Notes at the redemption prices set forth below, plus accrued and unpaid
+interest and special interest, if any, on the Second Lien Notes redeemed during the twelve-month
+period beginning on December 15th of the years indicated below:
+ Percentage
+Date
+ 105.500%
+2019
+2020
+ 103.500%
+2021 and thereafter 100.000%
+For additional information regarding the terms and security of the Third Lien Notes and related
+Third Lien Notes Indenture and intercreditor agreement in effect prior to the completion of the
+Exchange Offer and Consent Solicitation, see the Company’s Current Report on Form 8-K filed
+with the SEC on May 13, 2013. For additional information regarding the terms and security of the
+Third Lien Notes after giving effect to the Exchange Offer and Consent Solicitation, the
+amendments to the Third Lien Notes Indenture, the terms and security of the Second Lien Notes,
+the Second Lien Notes Indenture and the related intercreditor agreement, see the Company’s
+Current Report on Form 8-K filed with the SEC on April 28, 2016.
+11
+Exchange Offer
+On April 28, 2016, the Company successfully completed the previously announced exchange
+offer (the “Exchange Offer”) and consent solicitation (the “Consent Solicitation”) related to the
+Third Lien Notes. The Company did not receive any cash proceeds in connection with the
+Exchange Offer and Consent Solicitation.
+Under the terms of the Exchange Offer, for each $1,000 principal amount of Third Lien Notes
+validly tendered for exchange and not validly withdrawn by an eligible holder (an “Exchange
+Participant”) prior to 11:59 P.M., New York City time, on April 25, 2016, and accepted for
+exchange by the Company, the Company offered the consideration (the “Exchange
+Consideration”) of (i) $1,000 principal amount of Second Lien Notes plus (ii) either (a) for Third
+Lien Notes tendered at or prior to 4:59 P.M., New York City time, on April 15, 2016 (the “Extended
+Early Tender Deadline”), ten (10) shares of the Company’s common stock (the “Early Stock
+Consideration”), or (b) for Third Lien Notes tendered after the Extended Early Tender Deadline,
+seven (7) shares of the Company’s common stock (the “Stock Consideration”) (such shares
+issued as the Early Stock Consideration or the Stock Consideration, together with the Second
+Lien Notes, the “Exchange Securities”), upon the terms and subject to the conditions set forth in
+the Company’s confidential Offer to Exchange and related Consent and Letter of Transmittal,
+each dated March 28, 2016 (the “Offer Documents”).
+As part of the Exchange Offer, each Exchange Participant had the opportunity to tender all or a
+portion of its Third Lien Notes for a cash payment in lieu of the Exchange Consideration upon the
+terms and subject to the conditions set forth in the Offer Documents (the “Cash Tender Option”).
+The aggregate amount of cash consideration that could be paid by the Company for tendered
+Third Lien Notes accepted for purchase pursuant to the Cash Tender Option was approximately
+$15.0 million plus accrued and unpaid interest to, but not including, the settlement date of the
+Exchange Offer (collectively, the “Cash Tender Cap”).
+Concurrently with the Exchange Offer, the Company solicited consents from eligible holders to
+proposed amendments to the Third Lien Notes Indenture (the “Proposed Amendments”). The
+Proposed Amendments, among other things, provide for the release of the second priority
+security interest in the collateral securing the Third Lien Notes and the grant of a third priority
+security interest in the collateral, subordinate to liens securing all the Company’s senior and
+second priority indebtedness, including the Credit Facility and the Second Lien Notes, and
+eliminate substantially all of the restrictive covenants and certain events of default pertaining to
+the Third Lien Notes.
+The Exchange Offer, including the Cash Tender Option, and the Consent Solicitation expired at
+11:59 P.M., New York City time, on April 28, 2016. In total, the Company accepted for exchange
+approximately $146.5 million in aggregate principal amount of the Third Lien Notes, or
+approximately 83.72% of the $175 million outstanding aggregate principal amount of the Third
+Lien Notes, validly tendered and not withdrawn in the Exchange Offer. The Third Lien Notes
+validly tendered and not withdrawn in the Exchange Offer were accepted by the Company.
+Because the Company received the necessary consents to effect the Proposed Amendments,
+any Third Lien Notes not validly tendered pursuant to the Exchange Offer remain outstanding
+and the holders are subject to the terms of the supplemental indenture implementing the
+Proposed Amendments. No consideration was paid to holders of Third Lien Notes in connection
+with the Consent Solicitation. After giving effect to the Exchange Offer and Consent Solicitation,
+the aggregate principal amount of the Third Lien Notes remaining outstanding was approximately
+$28.5 million as of April 25, 2016, and such Third Lien Notes are secured on a third priority basis
+subordinated to the liens securing all senior and second priority indebtedness of the Company,
+including under the Credit Facility and Second Lien Notes.
+In exchange for approximately $120.6 million in aggregate principal amount of Third Lien Notes,
+the Company issued approximately $120.6 million aggregate principal amount of Second Lien
+Notes and 1,205,477 shares of common stock, including 1,204,980 shares issued as Early Stock
+Consideration and 497 shares issued as Stock Consideration. The Company utilized 508,464 of
+treasury shares towards the total 1,205,477 shares issued. The securities issued in the
+Exchange Offer were issued in reliance on an exemption from registration set forth in Section
+4(a)(2) of the Securities Act. The Company received no cash consideration in exchange for the
+issuance of the Exchange Securities.
+The Cash Tender Option was fully subscribed. Pursuant to the terms of the Exchange Offer, the
+Company accepted for purchase tendered Third Lien Notes at the lowest bid prices until the
+Cash Tender Cap was reached, subject to proration. In exchange for aggregate cash
+consideration totaling approximately $15.0 million, the Company purchased approximately $25.9
+million in aggregate principal amount of Third Lien Notes. The Company also paid in cash
+accrued and unpaid interest on Third Lien Notes accepted for purchase in the Exchange Offer
+from the applicable last interest payment date to, but not including, April 28, 2016.
+12
+(5)    Net Income (Loss) per Share
+Basic net income (loss) per common share is computed by dividing net income (loss) applicable
+to common shares by the weighted average number of common shares outstanding during the
+period. Diluted net income (loss) per common share is determined based on the assumption that
+dilutive restricted stock and restricted stock unit awards have vested and outstanding dilutive
+stock options have been exercised and the aggregate proceeds were used to reacquire common
+stock using the average price of such common stock for the period. The total number of shares
+issued or reserved for future issuance under outstanding stock options at June 30, 2016 and
+2015 was 900,623 and 621,443, respectively, and the total number of shares of restricted stock
+and shares reserved for restricted stock units outstanding at June 30, 2016 and 2015 was
+293,709 and 98,054, respectively. The foregoing share numbers have been retroactively
+adjusted to reflect the one-for-fifteen reverse stock split completed on February 4, 2016. All
+outstanding stock options for the three and six months ended June 30, 2016 were anti-dilutive.
+The following table summarizes the computation of basic and diluted net income (loss) per
+common share (in thousands, except per share amounts):
+Net income (loss) attributable to ION
+Weighted average number of common shares
+outstanding
+Effect of dilutive stock awards
+Three Months Ended
+June 30,
+2016
+ 2015
+$(25,342 ) $ 56,069  $ (60,356 ) $ 805
+Six Months Ended
+ 
+June 30,
+ 2016
+2015
+11,415
+10,979
+11,008
+10,975
+—
+1
+—
+2
+11,415
+10,980
+11,008
+10,977
+$(2.22
+$(2.22
+$ (5.48
+ $ (5.48
+) $ 5.11
+) $ 5.11
+) $ 0.07
+) $ 0.07
+Weighted average number of diluted common
+shares outstanding
+ 
+Basic net income (loss) per share
+Diluted net income (loss) per share
+(6)    Income Taxes
+The Company maintains a valuation allowance for substantially all of its deferred tax assets. The
+valuation allowance is calculated in accordance with the provisions of the Financial Accounting
+Standards Board’s (“FASB”) Accounting Standard Codification (“ASC”) Topic 740 “Income
+Taxes,” which requires that a valuation allowance be established or maintained when it is “more
+likely than not” that all or a portion of deferred tax assets will not be realized. In the event the
+Company’s expectations of future operating results change, the valuation allowance may need to
+be adjusted downward. As of June 30, 2016, the Company has no unreserved U.S. deferred tax
+assets.
+The provision for the six months ended June 30, 2016 has been calculated based on the actual
+tax expense incurred for those periods. Given the current uncertainty in expected income
+generated in various foreign jurisdictions, where tax rates can vary greatly, the Company’s actual
+tax rate is the best estimate of year-to-date tax expense. The Company’s effective tax rates for the
+three months ended June 30, 2016 and 2015 were (9.8)% and 0.9%, respectively, and for the six
+months ended June 30, 2016 and 2015 were (4.4)% and 85.5% respectively. The Company’s
+effective tax rates for the three and six months ended June 30, 2016 was impacted by the change
+in valuation allowance related to operating losses for which the Company cannot currently
+recognize a tax benefit. The Company’s income tax expense for the six months ended June 30,
+2016 of $2.5 million primarily relates to income from the Company’s non-U.S. businesses. This
+foreign tax expense has not been offset by the tax benefits on losses within the U.S. and other
+jurisdictions, from which the Company cannot currently benefit; therefore negatively impacting
+the Company’s effective tax rate.
+The Company has approximately $1.3 million of unrecognized tax benefits and does not expect
+to recognize significant increases in unrecognized tax benefits during the next 12-month period.
+Interest and penalties, if any, related to unrecognized tax benefits are recorded in income tax
+expense.
+As of June 30, 2016, the Company’s U.S. federal tax returns for 2012 and subsequent years
+remain subject to examination by tax authorities. The Company is no longer subject to U.S.
+Internal Revenue Service (“IRS”) examination for periods prior to 2012, although carryforward
+attributes that were generated prior to 2012 may still be adjusted upon examination by the IRS if
+they either have been or will be used in an open year. In the Company’s foreign tax jurisdictions,
+tax returns for 2010 and subsequent years generally remain open to examination.
+13
+(7)    Litigation
+WesternGeco
+In June 2009, WesternGeco L.L.C. (“WesternGeco”) filed a lawsuit against the Company in the
+United States District Court for the Southern District of Texas, Houston Division. In the lawsuit,
+styled WesternGeco L.L.C. v. ION Geophysical Corporation, WesternGeco alleged that the
+Company had infringed several method and apparatus claims contained in four of its United
+States patents regarding marine seismic streamer steering devices.
+The trial began in July 2012. A verdict was returned by the jury in August 2012, finding that the
+Company infringed the claims contained in the four patents by supplying its DigiFIN® lateral
+streamer control units and the related software from the United States and awarded
+WesternGeco the sum of $105.9 million in damages, consisting of $12.5 million in reasonable
+royalty and $93.4 million in lost profits.
+In June 2013, the presiding judge entered a Memorandum and Order, ruling that WesternGeco is
+entitled to be awarded supplemental damages for the additional DigiFIN units that were supplied
+from the United States before and after the trial that were not included in the jury verdict due to
+the timing of the trial. In October 2013, the judge entered another Memorandum and Order, ruling
+on the number of DigiFIN units that are subject to supplemental damages and also ruling that the
+supplemental damages applicable to the additional units should be calculated by adding
+together the jury’s previous reasonable royalty and lost profits damages awards per unit,
+resulting in supplemental damages of $73.1 million.
+In April 2014, the judge entered another Order, ruling that lost profits should not have been
+included in the calculation of supplemental damages in the October 2013 Memorandum and
+Order and reducing the supplemental damages award in the case from $73.1 million to $9.4
+million. In the Order, the judge also further reduced the damages award in the case by $3.0
+million to reflect a settlement and license that WesternGeco entered into with a customer of the
+Company that had purchased and used DigiFIN units that were also included in the damage
+amounts awarded against the Company.
+In May 2014, the judge signed and entered a Final Judgment in the amount of $123.8 million
+related to the case. The Final Judgment also included an injunction that enjoins the Company, its
+agents and anyone acting in concert with it, from supplying in or from the United States the
+DigiFIN product or any parts unique to the DigiFIN product, or any instrumentality no more than
+colorably different from any of these products or parts, for combination outside of the United
+States. The Company has conducted its business in compliance with the district court’s orders in
+the case, and the Company has reorganized its operations such that it no longer supplies the
+DigiFIN product or any parts unique to the DigiFIN product in or from the United States.
+The Company and WesternGeco each appealed the Final Judgment to the United States Court
+of Appeals for the Federal Circuit in Washington, D.C. On July 2, 2015, the Court of Appeals
+reversed in part the judgment, holding the district court erred by including lost profits in the Final
+Judgment. Lost profits were $93.4 million and prejudgment interest was approximately $10.9
+million of the $123.8 million Final Judgment. Pre-judgment interest on the lost profits portion will
+be treated in the same way as the lost profits. Post-judgment interest will likewise be treated in
+the same fashion. On July 29, 2015, WesternGeco filed a petition for rehearing en banc before
+the Court of Appeals. On October 30, 2015 the Court of Appeals denied WesternGeco’s petition
+for rehearing en banc.
+On February 26, 2016, WesternGeco filed a petition for writ of certiorari by the Supreme Court.
+The Company filed its response on April 27, 2016. On June 20, 2016, the Supreme Court refused
+to disturb the Court of Appeals ruling finding no lost profits as a matter of law.  Separately, in light
+of the changes in case law regarding the standard of proof for willfulness in the Halo and Stryker
+cases, the Supreme Court indicated that the case should be remanded to the Federal Circuit for a
+determination of whether or not the willfulness determination by the District Court was
+appropriate.
+On May 4, 2016, after referral from the district court, a Magistrate Judge issued an order and
+report and recommendation in the litigation.  The order and report recommended entry of a final
+judgment against the Company on the royalty obligation plus interest, subject to final calculation
+upon entry of judgment, which is expected to be approximately $22 million and recommended
+the district court deny our motion to stay any obligation to pay the remaining $22 million that is
+not related to lost profits. The district court has not yet decided whether to adopt the
+recommendation of the magistrate.  The Company will pursue all available objections and
+appeals to the order and report and recommendation.
+As previously disclosed, the Company had taken a loss contingency accrual of $124 million. As
+a result of the reversal by the Court of Appeals, as of June 30, 2015, the Company reduced the
+loss contingency accrual to its current amount of $22 million. The Company’s assessment of its
+potential loss contingency may change in the future due to developments in the case and other
+events, such as changes in applicable law, and such reassessment could lead to the
+determination that no loss contingency is probable or that a greater or lesser loss contingency is
+probable. Any such reassessment could have a material effect on the Company’s financial
+condition or results of operations.
+14
+Prior to the reduction in damages by the Court of Appeals, the Company arranged with sureties
+to post an appeal bond at the trial court. The appeal bond is uncollateralized, but the terms of the
+appeal bond arrangements provide the sureties the contractual right for as long as the bond is
+outstanding to require the Company to post cash collateral. The Company has received a
+request for $11 million in collateral and has exchanged correspondence with the sureties in
+connection with this request. In July 2016, the sureties renewed their request for collateral and
+the Company is continuing to discuss terms and options with them. The appeal bond will remain
+outstanding during the pendency of appeals.
+Other
+The Company has been named in various other lawsuits or threatened actions that are incidental
+to its ordinary business. Litigation is inherently unpredictable. Any claims against the Company,
+whether meritorious or not, could be time-consuming, cause the Company to incur costs and
+expenses, require significant amounts of management time and result in the diversion of
+significant operational resources. The results of these lawsuits and actions cannot be predicted
+with certainty. Management currently believes that the ultimate resolution of these matters will not
+have a material adverse impact on the financial condition, results of operations or liquidity of the
+Company.
+(8)    Other Income (Expense), Net
+The following table is a summary of other income (expense), net (in thousands):
+Reductions of loss contingency related to legal
+proceedings (Footnote 7)
+Facility restructuring charges
+Loss on bond exchange
+Other income (expense), net
+Total other income (expense), net
+(9)    Details of Selected Balance Sheet Accounts
+Three Months Ended
+June 30,
+2016
+2015
+Six Months Ended
+ 
+June 30,
+ 2016
+2015
+$—
+$101,978  $—
+$101,978
+—
+ —
+(2,182 ) —
+465
+$(1,717 ) $101,600  $(1,597 ) $98,381
+—
+ (2,182 ) —
+) 585
+(378
+(1,913
+(1,684
+)
+)
+Inventories
+The following table is a summary of inventories (in
+thousands):
+June 30, 2016 December 31, 2015
+Raw materials and subassemblies
+Work-in-process
+Finished goods
+Reserve for excess and obsolete inventories
+Total
+Other Long-term Liabilities
+The following table is a summary of other long-term liabilities (in
+thousands):
+Accrual for loss contingency related to legal proceedings
+(Footnote 7)
+Deferred rents
+Facility restructuring accrual
+Deferred income tax liability
+Other long-term liabilities
+Total
+$ 34,430
+9,442
+14,577
+(24,072
+$ 34,377
+$ 34,949
+ 8,478
+ 13,769
+)  (24,475
+ $ 32,721
+)
+June 30,
+2016
+December 31,
+ 
+2015
+$ 22,000
+$ 22,000
+13,297
+2,410
+5,186
+1,158
+$ 44,051
+13,394
+ 3,006
+ 4,734
+ 1,231
+ $ 44,365
+15
+(10)    Accumulated Other Comprehensive Loss
+The following table is a summary of changes in accumulated other comprehensive loss by
+component (in thousands):
+Foreign currency translation
+ 
+adjustments
+Total
+$
+(14,781
+(4,199
+$
+(18,980
+)
+)
+)
+$(14,781)
+(a)(4,199
+)
+$(18,980)
+Accumulated other comprehensive loss at
+December 31, 2015
+Net current-period other comprehensive loss
+Accumulated other comprehensive loss at June
+30, 2016
+(a)
+Represents the impact of foreign currency translation adjustments, primarily due to the
+devaluation of the British Pound Sterling (“GBP”) following the vote by the British people to
+leave the European Union (“Brexit”) on the Company’s GBP-denominated balances, including
+£15.7 million of goodwill.
+(11)    Supplemental Cash Flow Information and Non-cash Activity
+The following table is a summary of cash paid for Interest and Income taxes and non-cash items
+from investing and financing activities (in thousands):
+Cash paid during the period for:
+Interest
+Income taxes (refunds)
+Six Months Ended June
+30,
+2016
+ 
+$ 8,149
+(6
+2015
+ 
+$ 7,843
+9,649
+)
+Non-cash items from investing and financing activities:
+Purchases of computer equipment financed through capital leases —
+Investment in multi-client data library financed through accounts
+payable
+Bond exchange
+Transfer of inventory to property, plant, equipment and seismic rental
+equipment
+(a) This represents the non cash portion of the bond exchange.
+—
+10,740
+—
+1,178
+6,706
+(a)  —
+15,936
+(b)
+(b)
+This transfer of inventory to property, plant, equipment and seismic rental equipment relates to
+ocean bottom seismic equipment manufactured by the Company to be deployed in the
+acquisition of ocean bottom seismic data.
+(12)    Fair Value of Financial Instruments
+Authoritative guidance on fair value measurements defines fair value, establishes a framework
+for measuring fair value and stipulates the related disclosure requirements. The Company
+follows a three-level hierarchy, prioritizing and defining the types of inputs used to measure fair
+value.
+The carrying amounts of the Company’s long-term debt as of June 30, 2016 and December 31,
+2015 were $165.5 million and $183.0 million, respectively, compared to its fair values of $95.6
+million and $104.3 million as of June 30, 2016 and December 31, 2015, respectively. The fair
+value of the long-term debt was calculated using an active market price, based on Level 1 inputs
+defined as quoted prices for identical instruments in active markets.
+Fair Value of Other Financial Instruments. Due to their highly liquid nature, the amount of the
+Company’s other financial instruments, including cash and cash equivalents, accounts and
+unbilled receivables, notes receivable, accounts payable, and accrued multi-client data library
+royalties, represent their approximate fair value.
+(13)    Stock-based Compensation and Repurchase Plan
+Stock Appreciation Rights
+16
+On March 1, 2016, the Company issued 1,210,000 Stock Appreciation Rights (“SARs”) awards to
+15 individuals with an exercise price of $3.10. The vesting of these SARs is achieved through
+both a market condition and a service condition. The market condition is achieved, in part or in
+full, in the event that during the four-year period beginning on the date of grant the 20-day trailing
+volume-weighted average price of a share of common stock is (i) greater than 120% of the
+exercise price for the first 1/3 of the awards, (ii) greater than 125% of the exercise price for the
+second 1/3 of the awards and (iii) greater than 130% of the exercise price for the final 1/3 of the
+awards. The exercise condition restricts the ability of the holders to exercise awards until certain
+service milestones have been reached such that (i) no more than 1/3 of the awards may be
+exercised, if vested, on and after the first anniversary of the date of grant, (ii) no more than 2/3 of
+the awards may be exercised, if vested, on and after the second anniversary of the date of grant
+and (iii) all of the awards may be exercised, if vested, on and after the third anniversary of the
+date of grant. For the six months ended June 30, 2016, the Company recorded $0.2 million of
+share-based compensation expense attributable to SAR awards.
+Pursuant to ASC 718, “Compensation – Stock Compensation,” the SARs are considered liability
+awards and as such, these amounts are accrued in the liability section of the balance sheet. The
+70.99%
+March 1, 2016
+Company calculated the fair value of each SAR award on the date of grant using a Monte Carlo
+simulation model. The following assumptions were used:
+ 
+Risk-free interest rates 1.81%
+Expected lives (in years)4.0
+Expected dividend yield —%
+Expected volatility
+Stock Repurchase Program
+On November 4, 2015, the Company’s board of directors approved a stock repurchase program
+authorizing the Company to repurchase, from time to time from November 10, 2015, through
+November 10, 2017, up to $25.0 million in shares of the Company’s outstanding common stock.
+The stock repurchase program may be implemented through open market repurchases or
+privately negotiated transactions, at management’s discretion. The actual timing, number and
+value of shares repurchased under the program will be determined by management at its
+discretion and will depend on a number of factors, including the market price of the shares of the
+Company’s common stock and general market and economic conditions, applicable legal
+requirements and compliance with the terms of the Company’s outstanding indebtedness. The
+repurchase program does not obligate the Company to acquire any particular amount of common
+stock and may be modified or suspended at any time and could be terminated prior to
+completion. Since the program’s inception on November 10, 2015, through June 30, 2016, the
+Company had repurchased 451,792 shares of its common stock under the repurchase program
+at an average price per share of $6.54, and the Company has approximately $22.0 million of
+remaining authorized capacity available pursuant to the repurchase program. The number of
+shares repurchased and the average price per repurchased share have been retroactively
+adjusted to reflect the one-for-fifteen reverse stock split completed on February 4, 2016. On June
+30, 2016, the closing sale price for the Company’s common stock was $6.23 on the NYSE.
+(14)    Related Party Transactions
+BGP Inc. (“BGP”) owned approximately 13.5% of the Company’s outstanding common stock as
+of June 30, 2016. For the six months ended June 30, 2016 and 2015, the Company recorded
+revenues from BGP of $2.0 million and $4.9 million, respectively. Total receivables from BGP
+were $0.3 million at June 30, 2016.
+(15)    Recent Accounting Pronouncements
+Revenue Recognition — In May 2014, the FASB and the International Accounting Standards
+Board (“IASB”) jointly issued new accounting guidance for recognition of revenue. This new
+guidance replaces virtually all existing U.S. GAAP and IFRS guidance on revenue recognition.
+On July 9, 2015, the FASB voted to defer the effective date for its new revenue standard for
+public and nonpublic entities reporting under U.S. GAAP by one year. As a result, the new
+guidance is now effective for fiscal years beginning after December 15, 2017. This new guidance
+applies to all periods presented. Therefore, when the Company issues its financial statements on
+Forms 10-Q and 10-K for periods included in its year ended December 31, 2018, its comparative
+periods that are presented from the years ended December 31, 2016 and 2017 must be
+retrospectively presented in compliance with this new guidance. The new guidance requires
+companies to make more estimates and use more judgment than under current accounting
+guidance. Public entities will be permitted to adopt the standard as early as the original public
+entity effective date (i.e., annual reporting periods beginning after December 15, 2016 and interim
+periods therein). Early adoption prior to that date will not be permitted.
+17
+The FASB and IASB (collectively, the “Boards”) have discussed clarifying the guidance in their
+new revenue standards for: (1) licenses of intellectual property, (2) identifying performance
+obligations, (3) noncash consideration and (4) collectability. The Boards have also discussed
+whether to add practical expedients for the accounting for contract modifications at transition and
+the presentation of sales taxes, and the FASB separately discussed several technical
+corrections. The FASB and the IASB did not agree on the nature and breadth of all of the
+changes to be proposed. The Boards are expected to issue separate exposure drafts later this
+year.
+The Company continues to evaluate (i) the two allowed adoption methods to determine which
+method it plans to use for retrospective presentation of comparative periods, (ii) the impact of
+proposed clarifications to the guidance on timing of the recognition of revenue within the
+Company’s various revenue streams, (iii) the Company’s option to adopt the new guidance either
+as of the originally proposed effective date or the proposed deferred effective date and (iv)
+whether the implementation of this new guidance will have a material impact on the Company’s
+consolidated financial position or results of operations for the periods presented.
+In February 2016, the FASB issued ASU 2016-02, “Leases (Topic 842)” which introduces the
+recognition of lease assets and lease liabilities by lessees for those leases classified as
+operating leases under previous guidance. The guidance will be effective for annual reporting
+periods beginning after December 15, 2018 and interim periods within those fiscal years with
+early adoption permitted. We are evaluating the effect of ASU 2016-002 on our consolidated
+financial statements.
+In March 2016, the FASB issued ASU 2016-09, "Compensation - Stock Compensation (Topic
+718): Improvements to Employee Share-Based Payment Accounting," that will change how
+companies account for certain aspects of share-based payments to employees. Entities will be
+required to recognize the income tax effects of awards in the statement of income when the
+awards vest or are settled, the guidance on employers’ accounting for an employee’s use of
+shares to satisfy the employer’s statutory income tax withholding obligation and for forfeitures is
+changing and the update requires companies to present excess tax benefits as an operating
+activity on the statement of cash flows rather than as a financing activity. The amendments in this
+update will be effective for annual periods beginning after December 15, 2016 and interim
+periods within those annual periods. Early adoption is permitted. We are evaluating the effect of
+ASU 2016-09 on our consolidated financial statements.
+In June 2016, the FASB issued ASU 2016-13, "Measurement of Credit Losses on Financial
+Instruments” that will change how companies measure credit losses for most financial assets and
+certain other instruments that aren’t measured at fair value through net income. The standard will
+replace today’s “insured loss” approach with and “expected loss” model for instruments
+measured at amortized cost. For available-for-sale debt securities, entities will be required to
+record allowances rather than reduce the carrying amount. It also simplifies the accounting model
+for purchased credit-impaired debt securities and loans. The amendments in this update will be
+effective for annual periods beginning after December 15, 2019 and interim periods within those
+annual periods. Early adoption is permitted for annual periods beginning after December 15,
+2018. We are evaluating the effect of ASU 2016-13 on our consolidated financial statements.
+(16) Acquisition of In-process Research and Development
+In March 2016, the Company acquired Global Dynamics Incorporated, an Ontario-based
+company that designs and develops marine towing systems and equipment, including its
+proprietary SailWings technology. SailWings configurations are designed to optimize towed
+source arrays and augment towed streamer deployment systems, and yield significantly less
+drag, faster towing, improved fuel efficiency, and safer operations through their flexible and
+smaller footprint.
+The Company acquired the SailWings technology (in-process R&D) for a one-time expenditure
+of $1.0 million, which was recorded as a research, development and engineering expense within
+operating expenses. The acquisition agreement also contemplates cash payments (earn-outs) up
+to a total of $2.3 million for successful commercialization of this technology over the next ten
+years.
+(17)    Condensed Consolidating Financial Information
+The Notes were issued by ION Geophysical Corporation and are guaranteed by the Guarantors,
+all of which are 100-percent-owned subsidiaries. The Guarantors have fully and unconditionally
+guaranteed the payment obligations of ION Geophysical Corporation with respect to the Notes.
+The following condensed consolidating financial information presents the results of operations,
+financial position and cash flows for:
+ION Geophysical Corporation and the Guarantors (in each case, reflecting investments in
+subsidiaries utilizing the equity method of accounting).
+•All other subsidiaries of ION Geophysical Corporation that are not Guarantors.
+The consolidating adjustments necessary to present ION Geophysical Corporation’s results on
+a consolidated basis.
+•
+•
+18
+This condensed consolidating financial information should be read in conjunction with the
+accompanying consolidated financial statements and footnotes. For additional information
+pertaining to the Notes, See Item 2. “Management’s Discussion and Analysis of Financial
+Condition and Results of Operations Liquidity and Capital Resources Exchange Offer” in Part II
+of this Form 10-Q.
+The
+ 
+Guarantors
+All Other
+ 
+Subsidiaries
+Consolidating
+ 
+Adjustments
+Total
+ 
+Consolidated
+$—
+ 7,295
+ 16,766
+ 10,210
+994
+$ 26,450
+ 10,320
+ 5,245
+ 24,167
+12,768
+35,265
+78,950
+15,616
+40,179
+$—
+ —
+ —
+ —
+—
+—
+—
+$ 52,433
+ 20,094
+ 22,011
+ 34,377
+17,461
+146,376
+58,412
+Balance Sheet
+ASSETS
+Current assets:
+Cash and cash equivalents $ 25,983
+Accounts receivable, net
+Unbilled receivables
+Inventories
+Prepaid expenses and
+other current assets
+Total current assets
+Property, plant, equipment
+and seismic rental
+2,479
+—
+—
+32,161
+June 30, 2016
+ION
+Geophysical
+Corporation
+(In thousands)
+3,699
+2,617
+10,625
+ —
+ 24,025
+ 181
+ —
+ 234
+107,922
+ 241,166
+ —
+ 3,766
+ —
+ 145
+ $403,880  $ 154,194
+118,547
+) —
+ 24,025
+ 3,947
+) —
+ 2,514
+—
+ (889,997
+ —
+ —
+ (303,615
+ —
+ $(1,193,612 ) $ 353,821
+$ 15,053
+$4,896
+$ 422
+$—
+—
+ —
+—
+—
+ —
+—
+12,358
+ 10,223
+23,435
+6,026
+ 56,938
+1,382
+128,422
+ 33,639
+ 220,381
+  
+ 290,460
+ 180,700
+10,044
+ 7,969
+38
+1,640
+ 20,113
+—
+175,193
+ 9,914
+ 205,220
+  
+ 19,138
+ 232,590
+$ 20,371
+26,969
+ 27,284
+23,473
+7,666
+ 105,763
+145,130
+(1,061,289 ) —
+ 44,051
+ —
+ (1,061,289 ) 294,944
+  
+ (309,598
+ (413,290
+) 118
+) 897,476
+—
+—
+—
+4,567
+9,092
+2,135
+$ 989,359
+equipment, net
+Multi-client data library, net —
+Investment in subsidiaries 648,831
+Goodwill
+Intangible assets, net
+Intercompany receivables 303,615
+Other assets
+Total assets
+LIABILITIES AND EQUITY  
+Current liabilities:
+ 
+Current maturities of long-
+term debt
+Accounts payable
+Accrued expenses
+Accrued multi-client data
+library royalties
+Deferred revenue
+Total current liabilities
+Long-term debt, net of
+current maturities
+Intercompany payables
+Other long-term liabilities
+Total liabilities
+Equity:
+Common stock
+Additional paid-in capital
+Accumulated earnings
+(deficit)
+Accumulated other
+comprehensive income
+(loss)
+Due from ION Geophysical
+Corporation
+Total stockholders’ equity 58,727
+Noncontrolling interests —
+Total equity
+Total liabilities and equity $ 989,359
+757,674
+498
+930,632
+ 
+118
+897,476
+—
+28,712
+143,748
+58,727
+(819,887
+(18,980
+—
+)  202,061
+(20,569
+) (181,492
+) (819,887
+)  4,420
+(18,803
+) 14,383
+(18,980
+)
+)
+(494,142 ) (263,532
+) 757,674
+—
+183,499
+ —
+ 183,499
+ $403,880  $ 154,194
+(51,176
+ 150
+ (51,026
+) (132,323
+ —
+) (132,323
+ $(1,193,612 ) $ 353,821
+) 58,727
+ 150
+) 58,877
+19
+Balance Sheet
+ASSETS
+December 31, 2015
+ION
+Geophysical
+Corporation
+(In thousands)
+The
+ 
+Guarantors
+All Other
+ 
+Subsidiaries
+Consolidating
+ 
+Adjustments
+Total
+ 
+Consolidated
+4,521
+—
+—
+5,435
+39,169
+Current assets:
+Cash and cash equivalents $ 33,734
+Accounts receivable, net —
+—
+Unbilled receivables
+Inventories
+—
+Prepaid expenses and
+other current assets
+Total current assets
+Property, plant, equipment
+and seismic rental
+equipment, net
+Multi-client data library, net —
+Investment in subsidiaries 680,508
+Goodwill
+Intangible assets, net
+Intercompany receivables 75,641
+1,724
+Other assets
+Total assets
+$ 801,563
+LIABILITIES AND EQUITY  
+Current liabilities:
+ 
+Current maturities of long-
+term debt
+Accounts payable
+Accrued expenses
+Accrued multi-client data
+library royalties
+Deferred revenue
+Total current liabilities
+Long-term debt, net of
+current maturities
+Intercompany payables
+Other long-term liabilities
+Total liabilities
+Equity:
+Common stock
+Additional paid-in capital
+Accumulated earnings
+(deficit)
+Accumulated other
+comprehensive income
+(loss)
+Due from ION Geophysical
+Corporation
+Treasury stock
+Total stockholders’ equity 111,959
+Noncontrolling interests —
+Total equity
+Total liabilities and equity $ 801,563
+503,621
+540
+689,604
+ 
+107
+894,715
+2,086
+11,199
+—
+13,771
+(759,531
+171,672
+(14,781
+—
+(8,551
+111,959
+$ 486
+—
+$—
+ 35,133
+ 19,046
+ 10,939
+1,458
+$ 51,199
+ 9,232
+ 891
+ 21,782
+7,914
+66,576
+91,018
+21,072
+46,434
+$ —
+ —
+ —
+ —
+—
+—
+—
+11,687
+ —
+ 26,274
+ 287
+ —
+ 1,107
+120,550
+ 243,319
+ —
+ 4,523
+ —
+ 146
+ $456,186  $ 176,807
+$6,856
+19,839
+ 16,200
+25,045
+5,071
+ 73,011
+3,408
+68,286
+ 33,305
+ 178,010
+  
+ 290,460
+ 180,700
+$ 570
+7,874
+ 6,888
+—
+1,489
+ 16,821
+—
+7,355
+ 10,520
+ 34,696
+  
+ 19,138
+ 234,234
+—
+ (923,827
+ —
+ —
+ (75,641
+ —
+ $ (999,468
+$ —
+—
+ —
+—
+—
+ —
+—
+(579,262
+ —
+ (579,262
+  
+ (309,598
+ (414,934
+$ 84,933
+ 44,365
+ 19,937
+ 32,721
+14,807
+196,763
+72,027
+132,237
+) —
+ 26,274
+ 4,810
+) —
+ 2,977
+) $ 435,088
+$ 7,912
+29,799
+ 34,287
+25,045
+6,560
+ 103,603
+175,080
+) —
+ 44,365
+) 323,048
+  
+) 107
+) 894,715
+)  231,208
+(21,729
+) (209,479
+) (759,531
+)  4,420
+(14,604
+) 10,184
+(14,781
+(428,612 ) (75,009
+) 503,621
+—
+)  —
+ 278,176
+ —
+ 278,176
+ $456,186  $ 176,807
+—
+ 142,030
+ 81
+ 142,111
+—
+ (420,206
+ —
+ (420,206
+ $ (999,468
+(8,551
+) 111,959
+ 81
+) 112,040
+) $ 435,088
+)
+)
+)
+20
+Income Statement
+(9,791
+(4,641
+(8,976
+(2,112
+(25,301
+41
+(25,342
+Net revenues
+Cost of sales
+Gross profit (loss)
+Total operating expenses
+Income (loss) from
+operations
+Interest expense, net
+Intercompany interest, net 219
+Equity in earnings (losses)
+of investments
+Other income (expense)
+Net income (loss) before
+income taxes
+Income tax expense
+Net income (loss)
+Net income attributable to
+noncontrolling interests
+Net income (loss)
+attributable to ION
+Comprehensive net loss
+Comprehensive income
+attributable to
+noncontrolling interest
+Comprehensive net income
+(loss) attributable to ION
+—
+—
+(25,342
+$ (28,057
+$ (28,057
+$ (2
+ (2
+ —
+ —
+—
+—
+ —
+3,044
+—
+3,044
+—
+ 3,044
+)  —
+)  $ 36,152
+)  31,299
+ 4,853
+ 21,441
+(16,588
+(4,702
+ —
+—
+(1,717
+(23,007
+2,256
+ (25,263
+(79
+)  (12,005
+) 5,208
+)  (77
+ (1,095
+)  5,932
+)  182
+) 16
+) 876
+—
+213
+)  (7,063
+) 6,313
+496
+)  (7,559
+—
+1,719
+) 4,594
+(79
+)  (7,559
+) 4,515
+3,044
+(25,342
+)  $ (7,559 ) $ 1,800
+$ 5,816
+$ (28,000
+—
+(79
+)  —
+(79
+)  $ (7,559 ) $ 1,721
+$ 5,816
+$ (28,079
+All Other
+ 
+Subsidiaries
+Consolidating
+ 
+Adjustments
+Total
+ 
+Consolidated
+The
+ 
+Guarantors
+Three Months Ended June 30, 2016
+ION
+Geophysical
+Corporation
+(In thousands)
+$ —
+—
+—
+9,791
+$ 18,564
+ 8,391
+) 10,173
+ 4,965
+$ 17,590
+ 22,910
+ (5,320
+ 6,685
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+Income Statement
+Net revenues
+Cost of sales
+Gross loss
+Total operating expenses 6,466
+(6,466
+Loss from operations
+Interest expense, net
+(4,506
+Intercompany interest, net 143
+All Other
+ 
+Subsidiaries
+The
+ 
+Guarantors
+Three Months Ended June 30, 2015
+ION
+Geophysical
+Corporation
+(In thousands)
+$ —
+—
+—
+$ 22,465
+ 28,227
+ (5,762
+ 12,805
+)  (18,567
+)  (100
+ (745
+$ 14,765
+ 19,138
+) (4,373
+ 11,283
+) (15,656
+) (1
+) 602
+Consolidating
+ 
+Adjustments
+Total
+ 
+Consolidated
+$ (435
+ (435
+) —
+ —
+) —
+) —
+ —
+)  $ 36,795
+)  46,930
+ (10,135
+ 30,554
+ (40,689
+ (4,607
+ —
+)
+)
+)
+Equity in earnings (losses)
+of investments
+Other income (expense)
+Net income (loss) before
+income taxes
+Income tax expense
+Net income (loss)
+Net loss attributable to
+noncontrolling interests
+Net income (loss)
+attributable to ION
+Comprehensive net income
+(loss)
+Comprehensive loss
+attributable to
+noncontrolling interest
+Comprehensive net income
+(loss) attributable to ION
+21
+Income Statement
+Net revenues
+Cost of sales
+Gross profit (loss)
+Total operating expenses
+Income (loss) from
+operations
+Interest expense, net
+Intercompany interest, net 451
+Equity in earnings (losses)
+of investments
+Other income (expense)
+Net income (loss) before
+income taxes
+Income tax expense
+Net income (loss)
+Net income attributable to
+noncontrolling interests
+Net income (loss)
+attributable to ION
+—
+(17,202
+(9,334
+(32,111
+(2,086
+(60,282
+74
+(60,356
+The
+ 
+Guarantors
+Six Months Ended June 30, 2016
+ION
+Geophysical
+Corporation
+(In thousands)
+$ —
+—
+—
+17,202
+$28,752
+ 44,337
+ (15,585
+ 14,501
+$ 30,065
+ 18,557
+) 11,508
+ 10,937
+)  (30,086
+) 571
+)  (147
+ (2,112
+)  4,124
+)  (177
+) 45
+) 1,661
+—
+) 666
+)  (28,398
+) 2,943
+749
+)  (29,147
+1,726
+) 1,217
+—
+(57
+)  —
+(60,356
+)  (29,147
+) 1,160
+27,987
+(60,356
+66,986
+(29
+56,128
+59
+56,069
+—
+56,069
+(14,028
+) —
+(52,958
+)  —
+)  101,954
+(325
+) —
+101,600
+68,514
+(15,380
+) (52,958
+)  56,304
+123
+ 68,391
+350
+ (15,730
+—
+) (52,958
+—
+297
+—
+532
+)  55,772
+297
+68,391
+(15,433
+) (52,958
+)  56,069
+$ 58,022
+$ 70,390
+$ (13,731 ) $ (56,956
+)  $ 57,725
+—
+—
+297
+—
+297
+$ 58,022
+$ 70,390
+$ (13,434 ) $ (56,956
+)  $ 58,022
+All Other
+ 
+Subsidiaries
+Consolidating
+ 
+Adjustments
+Total
+ 
+Consolidated
+$ —
+ —
+ —
+ —
+—
+—
+ —
+$ 58,817
+ 62,894
+ (4,077
+ 42,640
+(46,717
+(9,436
+ —
+27,987
+—
+—
+27,987
+—
+ 27,987
+(1,597
+(57,750
+2,549
+ (60,299
+(57
+)
+)
+)
+)
+)
+)
+)
+)
+$ (64,555
+)  $(29,147 ) $ (3,039
+)  $ 32,243
+$ (64,498
+—
+—
+(57
+)  —
+(57
+$ (64,555
+)  $(29,147 ) $ (3,096
+)  $ 32,243
+$ (64,555
+)
+)
+)
+Consolidating
+ 
+Adjustments
+Total
+ 
+Consolidated
+All Other
+ 
+Subsidiaries
+The
+ 
+Guarantors
+Six Months Ended June 30, 2015
+ION
+Geophysical
+Corporation
+(In thousands)
+$ —
+—
+—
+Comprehensive net loss
+Comprehensive income
+attributable to
+noncontrolling interest
+Comprehensive net loss
+attributable to ION
+Income Statement
+(58
+24,129
+Net revenues
+Cost of sales
+Gross loss
+Total operating expenses 14,382
+(14,382
+Loss from operations
+Interest expense, net
+(9,057
+Intercompany interest, net 282
+Equity in earnings (losses)
+of investments
+Other income (expense)
+Net income (loss) before
+income taxes
+Income tax expense
+Net income (loss)
+Net loss attributable to
+noncontrolling interests
+Net income (loss)
+applicable to ION
+Comprehensive net income
+(loss)
+Comprehensive loss
+attributable to
+noncontrolling interest
+Comprehensive net income
+(loss) attributable to ION
+109
+805
+914
+805
+—
+—
+$ 1,413
+$ 1,413
+22
+Statement of Cash Flows
+$ 41,314
+ 53,002
+ (11,688
+ 25,885
+)  (37,573
+)  (172
+(1,402
+$ 36,900
+ 51,135
+) (14,235
+ 21,188
+) (35,423
+) (3
+) 1,120
+(32,950
+) —
+$ (841
+ (841
+) —
+ —
+) —
+) —
+ —
+8,821
+)  101,969
+(3,530
+) —
+29,872
+(37,836
+) 8,821
+174
+ 29,698
+1,232
+ (39,068
+—
+) 8,821
+—
+549
+—
+29,698
+(38,519
+) 8,821
+)  $ 77,373
+)  103,296
+ (25,923
+ 61,455
+ (87,378
+ (9,232
+ —
+)
+)
+)
+—
+98,381
+1,771
+1,515
+ 256
+549
+805
+$ 30,337
+$ (38,429 ) $ 7,543
+$ 864
+—
+549
+—
+549
+$ 30,337
+$ (37,880 ) $ 7,543
+$ 1,413
+Six Months Ended June 30, 2016
+ION
+Geophysical
+Corporation
+(In thousands)
+The
+ 
+Guarantors
+All Other
+ 
+Subsidiaries
+Total
+ 
+Consolidated
+$ 11,112
+—
+—
+(433
+(964
+Cash flows from operating activities:
+Net cash provided by (used in) operating
+activities
+Cash flows from investing activities:
+Cash invested in multi-client data library —
+Purchase of property, plant, equipment
+and seismic rental equipment
+Net cash used in investing activities
+Cash flows from financing activities:
+Borrowings under revolving line of credit 15,000
+Repurchase of common stock
+Payments on notes payable and long-
+term debt
+Costs associated with issuance of debt
+Intercompany lending
+Payment to repurchase bonds
+Other financing activities
+Net cash provided by (used in) financing
+activities
+Effect of change in foreign currency
+exchange rates on cash and cash
+equivalents
+Net decrease in cash and cash
+equivalents
+Cash and cash equivalents at beginning
+of period
+Cash and cash equivalents at end of
+period
+(6,174
+(11,305
+(15,000
+13
+(18,863
+33,734
+(7,751
+—
+$ 25,983
+$ 7,580
+$ (31,031 ) $ (12,339
+(8,648
+(340
+(8,988
+  
+ —
+)  —
+)  —
+)  —
+)  —
+  
+ —
+ —
+(8,648
+(340
+(8,988
+  
+ 15,000
+ (964
+)  (3,986
+)  (367
+) (4,786
+)  —
+)  5,394
+)  —
+ —
+)  1,408
+—
+ 5,911
+ —
+ —
+5,544
+(6,174
+ —
+ (15,000
+ 13
+(11,911
+—
+)  —
+—
+738
+738
+(24,749
+) (32,500
+51,199
+84,933
+$ —
+$ 26,450
+$ 52,433
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+Statement of Cash Flows
+Cash flows from operating activities:
+Net cash provided by (used in) operating
+activities
+Cash flows from investing activities:
+Investment in multi-client data library
+Purchase of property, plant, equipment
+and seismic rental equipment
+Other investing activities
+Net cash used in investing activities
+Cash flows from financing activities:
+Payments on notes payable and long-
+term debt
+Intercompany lending
+Other financing activities
+Net cash provided by (used in) financing
+Six Months Ended June 30, 2015
+ION
+Geophysical
+Corporation
+(In thousands)
+The
+ 
+Guarantors
+All Other
+ 
+Subsidiaries
+Total
+ 
+Consolidated
+$ (78,847
+)  $ 46,942
+$ 9,410
+$ (22,495
+—
+(347
+—
+(347
+—
+29,755
+22
+(12,728
+) (870
+)  (13,598
+)  (774
+) (16,092
+)  (17,213
+257
+)  (13,245
+—
+) (16,962
+(2,927
+) (633
+(30,770
+ —
+) 1,015
+ —
+257
+)  (30,554
+)  (3,560
+—
+ 22
+)
+)
+)
+)
+)
+activities
+Effect of change in foreign currency
+exchange rates on cash and cash
+equivalents
+Net decrease in cash and cash
+equivalents
+Cash and cash equivalents at beginning
+of period
+Cash and cash equivalents at end of
+period
+29,777
+(33,697
+) 382
+(3,538
+—
+(49,417
+109,514
+—
+)  —
+—
+39
+39
+(7,131
+)  (56,548
+64,094
+173,608
+)
+)
+$ 60,097
+$ —
+$ 56,963
+$ 117,060
+23
+(18)    Subsequent Events
+•
+On August 4, 2016, the Company announced it plans to realign its four business segments into
+three. The new segments will be E&P Operations Optimization, E&P Technology and Services,
+and Ocean Bottom Services. Beginning in the third quarter of 2016, the Company changed its
+reportable segments as described below:
+E&P Operations Optimization will now be comprised of Systems (to be renamed Devices), and
+Software. The manufacturing, engineering, research and development of ocean bottom systems
+will no longer be a part of Devices, and they will be within Ocean Bottom Services as noted
+below.
+E&P Technology and Services, formerly Solutions, will continue to be comprised of the groups
+that support our New Venture and Data Library (together multi-client) revenues and Imaging
+Services group (Data Processing revenues).
+Ocean Bottom Services (currently OceanGeo) will also include: the manufacturing, engineering,
+research and development of ocean bottom systems.
+This realignment of the business segments will allow the Company to better direct its resources
+and simplify its operations. The Company will recast 2015 segment results on a quarterly basis
+for comparability purposes starting in the third quarter of 2016.
+•
+•
+24
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Executive Summary
+Our Business
+In this Form 10-Q, “ION Geophysical,” “ION,” “the company” (or, “the Company”), “we,” “our,”
+“ours” and “us” refer to ION Geophysical Corporation and its consolidated subsidiaries, except
+where the context otherwise requires or as otherwise indicated.
+The information contained in this Quarterly Report on Form 10-Q contains references to
+trademarks, service marks and registered marks of ION and our subsidiaries, as indicated.
+Except where stated otherwise or unless the context otherwise requires, the terms “DigiFIN,”
+“VectorSeis,” “Orca,” “GATOR,” “Calypso,” and “WiBand,” refer to DigiFIN®, VECTORSEIS®,
+ORCA®, GATOR®, Calypso® and WiBand® registered marks owned by ION, and the terms
+“VSO,” “Narwhal,” “Marlin” and “MexicoSPAN” refer to VSO™, Narwhal™, Marlin™ and
+MexicoSPAN™ trademarks and service marks owned by ION.
+We provide geoscience technology, services and solutions to the global oil and gas industry. Our
+offerings are designed to allow oil and gas companies to obtain higher resolution images of the
+Earth’s subsurface to reduce their risk and optimize assets across the exploration and production
+lifecycle. Seismic imaging plays a fundamental role in hydrocarbon exploration and reservoir
+development by delineating structures, rock types and fluid locations in the subsurface. The high-
+resolution images of the Earth’s subsurface can be used to reduce uncertainty associated with
+identifying sources of hydrocarbons and pinpointing drilling locations for wells, which can be
+costly and risky.
+We acquire and process seismic data on a proprietary or multi-client basis. The multi-client
+seismic surveys for our data library business are pre-funded, or underwritten, in part by our
+customers, and, with the exception of our ocean bottom seismic (“OBS”) data acquisition
+company, OceanGeo B.V. (“OceanGeo”), we utilize an “asset lite” strategy by contracting with
+third party seismic data acquisition companies to acquire the seismic data, all of which is
+intended to minimize our risk exposure. We serve customers in most major energy producing
+regions of the world from strategically located offices across six continents.
+We provide our services and products through four business segments – Solutions, Systems,
+Software and Ocean Bottom Services. Our Ocean Bottom Services segment is comprised of
+OceanGeo, in which we increased our ownership to 100% in 2014. In addition, we have a 49%
+ownership interest in our INOVA Geophysical Equipment Limited joint venture (“INOVA
+Geophysical,” or “INOVA”). As of December 31, 2014, we wrote down our investment in INOVA
+Geophysical to zero, and therefore no longer record our share of losses in the joint venture. For
+details of our suspension of recording equity method losses, see Footnote 3 “Segment
+Information” of Footnotes to Consolidated Financial Statements.
+On August 4, 2016, the we announced our plans to realign our four business segments into three.
+See further discussion at Footnote 18 “Subsequent Event” of Footnotes to Consolidated
+Financial Statements.”
+For decades, we have provided innovative seismic data acquisition technology, such as
+multicomponent imaging with VectorSeis products, the ability to record seismic data from basins
+below ice, and cableless seismic techniques. The advanced technologies we currently offer
+include our Orca and Gator command and control software systems, WiBand broadband data
+processing technology, Calypso OBS acquisition system, and other technologies, each of which
+is designed to deliver improvements in both image quality and productivity. In 2015, we
+introduced our Marlin solution for optimizing simultaneous operations offshore. We have
+approximately 500 patents and pending patent applications in various countries around the
+world. Approximately 49% of our employees are involved in technical roles and over 25% of our
+employees have advanced degrees.
+Solutions. Our Solutions business provides three distinct service activities that often work
+together.
+Our Solutions business focuses on providing services for challenging environments, such as the
+Arctic frontier; complex and hard-to-image geologies, such as deepwater subsurface salt
+formations in the Gulf of Mexico and offshore West Africa and Brazil; unconventional reservoirs,
+such as those found in shale, tight gas and oil sands formations; and offshore basin-wide seismic
+data and imaging programs. Since 2002, our basin exploration seismic data programs have
+resulted in a substantial data library that covers significant portions of many of the frontier basins
+in the world, including offshore East and West Africa, India, South America, the Arctic, the
+deepwater Gulf of Mexico and Australia.
+Our Ventures services are designed to manage the entire seismic process, from survey planning
+and design to data acquisition and management, to final subsurface imaging and reservoir
+characterization. Our Ventures group focuses on the technologically intensive components of the
+image development process, such as survey planning and design, and data processing and
+interpretation, outsourcing the logistics components (such as field acquisition) to experienced
+seismic and other geophysical contractors.
+25
+Our Imaging Services group offers data processing and imaging services designed to help our
+E&P customers reduce exploration and production risk, evaluate and develop reservoirs, and
+increase production. Imaging Services develops a series of subsurface images by applying its
+processing technology to data owned or licensed by its customers. We maintain approximately
+15 petabytes of digital seismic data information storage in 4 global data centers, including two
+core data centers located in Houston and in the U.K.
+Our E&P Advisors group partners with operators, energy industries and capital institutions to
+capture and monetize E&P opportunities worldwide. This group provides technical, commercial
+and strategic advice across the E&P value chain, working at basin, prospect and field scales.
+Software. Our Software business provides command and control software systems, related
+software and services for towed marine streamer and seabed operations, as well as survey
+design. Our Orca software is installed on towed streamer marine vessels worldwide, and our
+Gator software is used by many re-deployable and permanent seabed acquisition systems.
+Systems. Our Systems business is engaged in the manufacture and repairs of (i) re-deployable
+ocean bottom cable seismic data acquisition systems and shipboard recorders (for OceanGeo’s
+use in OBS data acquisition); (ii) marine towed streamer positioning and control systems; and
+(iii) analog geophone sensors.
+Ocean Bottom Services. Through our experienced OceanGeo team, we offer a fully integrated
+OBS solution that includes survey design, planning, and acquisition services to maximize image
+quality, operational efficiency and safety. In addition, our team provides superior imaging via
+OceanGeo’s exclusive use of our seabed acquisition systems; and data processing,
+interpretation and reservoir services, by our Imaging Services group.
+INOVA Geophysical. Historically, we have conducted our land seismic equipment business
+through INOVA Geophysical, which is a joint venture with BGP Inc. (“BGP”). BGP is a subsidiary
+of China National Petroleum Corporation, and is generally regarded as the world’s largest land
+geophysical service contractor. BGP owns a 51% equity interest in INOVA Geophysical, and we
+own the remaining 49% interest. INOVA manufactures cable-based and cableless seismic data
+acquisition systems, digital sensors, vibroseis vehicles (i.e., vibrator trucks) and source
+controllers for energy source business lines. As of December 31, 2014, we wrote down our
+investment in INOVA Geophysical to zero.
+Macroeconomic Conditions
+Demand for our services and products is cyclical and dependent on activity levels in the oil and
+gas industry, particularly our customers’ willingness to invest capital in the exploration for oil and
+gas. Our customers’ capital spending programs are generally based on their outlook for near-
+term and long-term commodity prices, which are impacted by a number of factors including
+economic growth, commodity supply and demand, and geopolitical developments. As a result,
+demand for our services and products is largely sensitive to expected oil and gas prices.
+In the past few years, crude oil prices have been volatile due to global economic uncertainties.
+Significant downward crude oil price volatility began early in the fourth quarter of 2014 and prices
+declined through the first quarter of 2015, followed by a partial recovery during the second
+quarter of 2015. Oil prices continued to decline from the third quarter of 2015 through the first
+quarter of 2016, before improving to approximately $50 per barrel by the end of the second
+quarter of 2016 followed by modest declines in July 2016. The material decrease in crude oil
+prices can be attributed principally to high levels of global crude oil inventories resulting from
+significant production growth in the U.S. shale plays, the strengthening of the U.S. dollar relative
+to other foreign currencies, and the Organization of Petroleum Exporting Companies (OPEC)
+increasing its production. OPEC has demonstrated throughout 2015 and to date in 2016 an
+unwillingness to cut its production. The current collapse represents a devaluation of over
+investment in unconventional oil because of cheap capital, a classic bubble scenario. It is part of
+a larger structural adjustment of the global economy to unprecedented debt levels and prolonged
+low interest rates. After a period of decline in the first quarter of 2016, oil and gas prices improved
+during the second quarter of 2016 caused by unexpected supply outages from Nigeria, Canada,
+Libya and Venezuela. However, uncertainty about demand in China, surging oil exports in Iran
+and lower than expected recent draws on oil inventories have stalled further improvements to oil
+prices heading into July 2016. The average prices for West Texas Intermediate (“WTI”) and
+Intercontinental Exchange Brent (“Brent”) crude oil increased to an average of $45 per barrel and
+$46 per barrel, respectively, in the second quarter of 2016 from an average of $33 per barrel and
+$34 per barrel, respectively, in the first quarter of 2016. These data points compare to an average
+of $49 per barrel and $52 per barrel, respectively, for the full year 2015, and an average price of
+$101 per barrel and $109 per barrel, respectively, in the first nine months of 2014.
+26
+Given the historical volatility of crude prices, there is a continued risk that prices could remain low
+or continue to deteriorate due to high levels of crude oil production, slowing growth rates in
+various global regions and/or the potential for ongoing supply/demand imbalances. Alternatively,
+if the global supply of oil were to decrease due to reduced capital investment by E&P companies,
+government instability in a major oil-producing nation or energy demand continues to increase in
+the U.S. and countries such as China and India, a recovery in WTI and Brent crude oil prices
+could occur. Regardless of the driver, crude oil price improvements will not occur without a re-
+balancing of global supply and demand, the timing of which is difficult to predict. If commodity
+prices do not improve or if they decline further, demand for our services and products could
+continue to decline.
+Prices for natural gas in the U.S. averaged $2.06 per mmBtu in the first half of 2016 compared to
+$2.62 per mmBtu for the full year 2015 and $4.57 per mmBtu in the first nine months of 2014.
+Natural gas prices declined due to strong production and a mild winter this year as compared to
+last year resulting in significant increases in natural gas inventories in the U.S. during 2016. As a
+result of natural gas production growth outpacing demand in the U.S., natural gas prices continue
+to be weak relative to prices experienced from 2006 through 2008 and are expected to remain
+below levels considered economical for new investments in numerous natural gas fields. For the
+first half of 2016, natural gas inventories ended this winter withdrawal season at a near record
+high of 3,179 Bcf, however, US producers removed another 29 rigs from service during the
+quarter, bringing the total US rig count to 78% below the peak of 1931 rigs in the fourth quarter of
+2014.  The US rig count declined from 450 to 421 during June 2016.  If natural gas production
+continues to surpass U.S. natural gas demand, prices could remain constrained for an extended
+period.
+Impact to Our Business
+During 2015, E&P capital expenditures remained low as budgets were approximately 25% lower
+than the previous year, and E&P capital expenditures declined an additional 25% during 2016,
+as a result of the steep oil price decline that began in the fourth quarter of 2014. These declines
+in capital expenditure budgets are the first back-to-back declines of this magnitude since the
+1980s. Certain E&P companies are evaluating near-term oil prices, and how these prices will
+affect their return on new and existing projects before committing to spend substantial sums from
+their capital expenditure budgets. We believe E&P companies perceive projects with a longer
+time to payback, or profitability, as less attractive in the short-term. E&P companies have
+announced their intention to protect dividend payments even if that means reducing capital
+expenditures. Therefore, E&P companies are increasingly likely to reduce capital expenditures
+for projects in the early stages, or exploration phase, of the E&P lifecycle. In low oil price
+environments, oil companies tend to prioritize production-related activities and existing assets
+over exploration, and disproportionately cut spending on seismic services and products, which
+has a negative impact on the seismic industry, including our Company.
+The sustained reduction in exploration spending has had a significant impact on our results of
+operations for the first half of 2016 in all of our segments. In our Solutions segment, we have
+seen continued softness in customer underwriting of our new venture programs and reductions in
+our data processing business. We continue to maintain high standards for underwriting new
+projects, and have delayed certain new venture programs accordingly. We invested $8.6 million
+in our multi-client data library during the first half of 2016, compared to $13.6 million in the same
+period in 2015.
+Our business has traditionally been seasonal, with the strongest demand for our services and
+products often in the fourth quarter of our fiscal year. As of June 30, 2016, our Solutions segment
+backlog, which consists of commitments for (i) data processing work and (ii) both multi-client new
+venture projects and proprietary projects by our Ventures group underwritten by our customers,
+was $29.9 million, compared with backlog of $19.2 million at December 31, 2015 and $54.1
+million at June 30, 2015. As of June 30, 2016 our Ocean Bottom Services segment backlog,
+which consists of ocean bottom proprietary projects, was $28.6 million compared to a backlog of
+zero at both December 31, 2015 and June 30, 2015. As a result of the weakness in exploration
+spending by E&P companies, our backlog over the last four quarters has been lower than
+historical levels, however, backlog has increased a combined $39.8 million since the first quarter
+2016 due to several new-multi client new venture projects and an OBS survey, which began
+acquiring data offshore Nigeria during the second quarter. We anticipate that the majority of our
+current backlog will be recognized as revenue in the remainder of 2016. We expect our full year
+investment in our multi-client data library to be in the range of $10 to $20 million in 2016.
+For the majority of the first half of 2016, our OBS segment was affected by potential E&P
+customers delaying or canceling decisions to commit capital to OBS projects, causing our
+vessels to remain idle.  However, as communicated previously, we mobilized our ocean bottom
+vessels and crew during the second quarter of 2016 to conduct an OBS survey offshore Nigeria.
+We began acquiring data in late June and expect to complete demobilization by late third quarter
+of 2016. Despite the extended market downturn and uncertainty, we see significant long-term
+potential for OceanGeo and our technologies to improve ocean bottom survey productivity, and
+we expect long-term demand for ocean bottom surveys to increase. We believe that our
+technology is well suited for additional opportunities in West Africa, and we continue to pursue
+active tenders and leads for projects in the area.
+27
+Our traditional seismic contractor customers are also experiencing weakened demand due to the
+reduction in seismic spending by their customers. Since early 2014, seismic contractors have
+taken 35 seismic vessels, or about 29% of the fleet, out of the market. As a result, our Systems
+segment continued to experience weak year-over-year sales as our revenues fell due to lower
+demand for spare parts and repairs.
+The marine seismic vessel market contraction has also negatively impacted the vessel software
+market. Our Software segment net revenues decreased for the first half of 2016 compared to the
+same period of 2015, primarily driven by reduced sales of Orca software licenses.
+We continue to monitor the global economy, the demand for crude oil and natural gas and the
+resulting impact on the capital spending plans and operations of our E&P customers to plan our
+business. We remain confident that, despite current marketplace challenges described above,
+we have positioned ourselves to take advantage of the next upturn in the energy cycle by
+reducing our cost structure, shifting our focus toward E&P solutions and away from equipment
+sales, and by diversifying our offerings across the E&P lifecycle.
+It is our view that technologies that provide a competitive advantage through improved imaging,
+lower costs or higher productivity will continue to be valued in our marketplace. We believe that
+our newest technologies, such as Calypso, WiBand, and Marlin, will continue to attract customer
+interest, because those technologies are designed to deliver enhanced image quality, efficiency,
+and cost savings.
+Cost Reduction Initiatives
+During the second quarter of 2016, we implemented additional cost saving initiatives by reducing
+our current workforce by over 12%. Additional reductions were needed to further streamline our
+organization and right-size our company to bring it in line with our current revenue stream, while
+maintaining the necessary core capabilities to continue our operations and strategic initiatives.
+These additional reductions are expected to result in approximately $15.0 million of annualized
+savings, (an estimated $9.0 million in 2016), in addition to the $80.0 million of expected annual
+savings from prior cost reduction initiatives. We expect to begin realizing the vast majority of
+these savings in the third quarter of this year.
+WesternGeco Litigation
+On July 2, 2015, the United States Court of Appeals for the Federal Circuit in Washington, D.C.
+reversed in part the district court’s judgment, holding the district court erred by including lost
+profits in the Final Judgment. Lost profits were $93.4 million and prejudgment interest was
+approximately $10.9 million of the $123.8 million Final Judgment. Pre-judgment interest on the
+lost profits portion will be treated in the same way as the lost profits. Post-judgment interest will
+likewise be treated in the same fashion. On July 29, 2015, WesternGeco filed a petition for
+rehearing en banc before the Court of Appeals. On October 30, 2015 the Court of Appeals denied
+WesternGeco’s petition for rehearing en banc.
+On February 26, 2016, WesternGeco filed a petition for writ of certiorari by the Supreme Court.
+We filed our response on April 27, 2016. On June 20, 2016, the Supreme Court refused to disturb
+the Court of Appeals ruling finding no lost profits as a matter of law.  Separately, in light of the
+changes in case law regarding the standard of proof for willfulness in the Halo and Stryker cases,
+the Supreme Court indicated that the case should be remanded to the Federal Circuit for a
+determination of whether or not the willfulness determination by the District Court was
+appropriate.
+On May 4, 2016, after referral from the district court, a Magistrate Judge issued an order and
+report and recommendation in the litigation.  The order and report recommended entry of a final
+judgment against us on the royalty obligation plus interest, subject to final calculation upon entry
+of judgment, which is expected to be approximately $22 million and recommended the district
+court deny our motion to stay any obligation to pay the remaining $22 million that is not related to
+lost profits. The district court has not yet decided whether to adopt the recommendation of the
+magistrate.  We will pursue all available objections and appeals to the order and report and
+recommendation.
+As a result of the reversal by the Court of Appeals, as of June 30, 2015, we reduced our prior loss
+contingency accrual by approximately $102 million, resulting in a current loss contingency
+accrual of $22 million. Prior to the reduction in damages by the Court of Appeals, we arranged
+with sureties to post an appeal bond at the trial court. The appeal bond is uncollateralized, but
+the terms of the appeal bond arrangements provide the sureties the contractual right for as long
+as the bond is outstanding to require us to post cash collateral. We have received a request for
+$11 million in collateral and have exchanged correspondence with the sureties in connection
+with this request. In July 2016, the sureties renewed their request for collateral and we are
+continuing to discuss terms and options with them. The appeal bond will remain outstanding
+during the pendency of appeals. See Footnote 7 “Litigation” of Footnotes to Consolidated
+Financial Statements.
+28
+Exchange Offer
+On April 28, 2016, we successfully completed an exchange offer (the “Exchange Offer”) and
+consent solicitation (the “Consent Solicitation”) related to the Third Lien Notes. The Company did
+not receive any cash proceeds in connection with the Exchange Offer and Consent Solicitation.
+Under the terms of the Exchange Offer, for each $1,000 principal amount of Third Lien Notes
+validly tendered for exchange and not validly withdrawn by an eligible holder (an “Exchange
+Participant”) prior to 11:59 P.M., New York City time, on April 25, 2016, and accepted for
+exchange by us, we offered the consideration (the “Exchange Consideration”) of (i) $1,000
+principal amount of our new 9.125% Senior Secured Second Priority Notes due 2021 (the
+“Second Lien Notes” and collectively with the Third Lien Notes, the “Notes”) plus (ii) either (a) for
+Third Lien Notes tendered at or prior to 4:59 P.M., New York City time, on Friday, April 15, 2016
+(the “Extended Early Tender Deadline”), ten (10) shares of our common stock (the “Early Stock
+Consideration”), or (b) for Third Lien Notes tendered after the Extended Early Tender Deadline,
+seven (7) shares of our common stock (the “Stock Consideration”) (such shares issued as the
+Early Stock Consideration or the Stock Consideration, together with the Second Lien Notes, the
+“Exchange Securities”), upon the terms and subject to the conditions set forth in our confidential
+Offer to Exchange and related Consent and Letter of Transmittal, each dated March 28, 2016 (the
+“Offer Documents”).
+As part of the Exchange Offer, each Exchange Participant had the opportunity to tender all or a
+portion of its Third Lien Notes for a cash payment in lieu of the Exchange Consideration upon the
+terms and subject to the conditions set forth in the Offer Documents (the “Cash Tender Option”).
+The aggregate amount of cash consideration that could be paid by us for tendered Third Lien
+Notes accepted for purchase pursuant to the Cash Tender Option was approximately $15.0
+million plus accrued and unpaid interest to, but not including, the settlement date of the
+Exchange Offer (collectively, the “Cash Tender Cap”).
+Concurrently with the Exchange Offer, we solicited consents from eligible holders to proposed
+amendments to the Third Lien Notes Indenture (the “Proposed Amendments”). The Proposed
+Amendments, among other things, provide for the release of the second priority security interest
+in the collateral securing the Third Lien Notes and the grant of a third priority security interest in
+the collateral, subordinate to liens securing all our senior and second priority indebtedness,
+including the Credit Facility (as defined below) and the Second Lien Notes, and eliminate
+substantially all of the restrictive covenants and certain events of default pertaining to the Third
+Lien Notes.
+The Exchange Offer, including the Cash Tender Option, and the Consent Solicitation expired at
+11:59 P.M., New York City time, on April 25, 2016. In total, we accepted for exchange
+approximately $146.5 million in aggregate principal amount of the Third Lien Notes, or
+approximately 83.72% of the $175.0 million outstanding aggregate principal amount of the Third
+Lien Notes, validly tendered and not withdrawn in the Exchange Offer. The Third Lien Notes
+validly tendered and not withdrawn in the Exchange Offer were accepted by us.
+Because we received the necessary consents to effect the Proposed Amendments, any Third
+Lien Notes not validly tendered pursuant to the Exchange Offer remain outstanding and the
+holders are subject to the terms of the supplemental indenture implementing the Proposed
+Amendments. No consideration was paid to holders of Third Lien Notes in connection with the
+Consent Solicitation. After giving effect to the Exchange Offer and Consent Solicitation, the
+aggregate principal amount of the Third Lien Notes remaining outstanding was approximately
+$28.5 million as of April 28, 2016, and such Third Lien Notes are secured on a third priority basis
+subordinated to the liens securing all senior and second priority indebtedness of the Company,
+including under the Credit Facility and Second Lien Notes.
+In exchange for approximately $120.6 million in aggregate principal amount of Third Lien Notes,
+we issued approximately $120.6 million aggregate principal amount of Second Lien Notes and
+1,205,477shares of our common stock, including 1,204,980 shares issued as Early Stock
+Consideration and 497 shares issued as Stock Consideration. The Company utilized 508,464 of
+treasury shares towards the total 1,205,477 shares issued. The securities issued in the
+Exchange Offer were issued in reliance on an exemption from registration set forth in Section
+4(a)(2) of the Securities Act. The Company received no cash consideration in exchange for the
+issuance of the Exchange Securities.
+The Cash Tender Option was fully subscribed. Pursuant to the terms of the Exchange Offer, we
+accepted for purchase tendered Third Lien Notes at the lowest bid prices until the Cash Tender
+Cap was reached, subject to proration. In exchange for aggregate cash consideration totaling
+approximately $15.0 million, we purchased approximately $25.9 million in aggregate principal
+amount of Third Lien Notes. We also paid in cash accrued and unpaid interest on Third Lien
+Notes accepted for purchase in the Exchange Offer from the applicable last interest payment date
+to, but not including, April 28, 2016.
+The following table is a summary of the loss on extinguishment of debt associated with our
+second quarter bond exchange (in thousands):
+29
+Total debt extinguished
+$146,503  
+Carrying amount of debt issuance cost
+(2,376
+) 
+Net carrying amount of debt
+144,127  
+ 
+ 
+ 
+New Second Lien Notes issued in exchange120,569  
+ 
+Cash paid
+Common stock issued
+(a)
+Total consideration issued in exchange
+ 
+Loss on extinguishment of debt
+15,000
+10,740
+146,309  
+ 
+ 
+$(2,182 )
+(a) 1,205,477 shares issued at $8.91 per share.
+30
+Key Financial Metrics
+Our results of operations have been materially affected by, restructuring charges and other
+special charges and credits, which affect the comparability of certain of the financial information
+contained in this Form 10-Q. In order to assist with the comparability to our historical results of
+operations, certain of the financial metrics tables and the discussion below exclude charges and
+credits related to restructuring and other special items. The gross profit (loss), income (loss) from
+operations, costs and expenses below that are identified as “As Adjusted” reflect the exclusion of
+the restructuring and other charges shown and described in the tables below. We believe that the
+non-GAAP presentation of results of operations excluding these items provides a more
+meaningful comparison of reporting periods.
+The table below provides an overview of key financial metrics for our company as a whole and
+our four business segments for the three and six months ended June 30, 2016, compared to the
+same period of 2015 (in thousands). 
+Three Months Ended June 30, Six Months Ended June 30, 
+ 
+ 
+2016
+ 
+ 
+ 
+Net revenues:
+ 
+ 
+Solutions:
+ 
+$ 4,579
+New Venture
+ 
+Data Library
+6,275
+Total multi-client revenues10,854
+ 
+ 
+7,764
+Data Processing
+ 
+$ 18,618
+Total
+Systems
+$ 6,626
+ 
+ 
+ 
+Software:
+2015
+  
+  
+ $ 3,636
+ 7,509
+ 11,145
+ 11,205
+ $ 22,350
+ $ 7,674
+2016
+  
+  
+ $7,885
+ 10,547
+ 18,432
+ 13,204
+ $31,636
+ $11,985
+2015
+  
+  
+ $8,665
+ 9,646
+ 18,311
+ 23,038
+ $41,349
+ $20,443
+Software Systems
+Services
+Total
+Ocean Bottom Services
+Total
+Gross profit (loss):
+Solutions
+Systems
+Software
+Ocean Bottom Services
+Total
+Gross margin:
+Solutions
+Systems
+Software
+Ocean Bottom Services
+Total
+$ 4,096
+379
+$ 4,475
+$ 6,433
+$ 36,152
+ 
+$ (3,533
+1,358
+2,761
+4,267
+$ 4,853
+ 
+(19
+20
+62
+66
+13
+31
+Income (loss) from operations:
+Solutions
+Systems
+Software
+Ocean Bottom Services
+Corporate and other
+Loss from operations
+Operating margin:
+Solutions
+Systems
+Software
+Ocean Bottom Services
+Corporate and other
+Total
+Net income (loss) attributable to ION
+Net income (loss) per share:
+Diluted
+ 
+Special Items
+Net income (loss) attributable to ION as
+adjusted
+Net income (loss) per share as
+adjusted:
+$ 5,798
+ 973
+ $ 6,771
+ $ —
+ $ 36,795
+  
+ $ (7,856
+ 1,500
+ 4,208
+ (7,987
+ $ (10,135
+)
+)
+)
+$8,246
+ 517
+ $8,763
+ $6,433
+ $58,817
+  
+ $(13,306 )
+ 2,721
+ 5,287
+ 1,221
+ $(4,077 )
+)
+$13,527
+ 2,054
+ $15,581
+ $—
+ $77,373
+  
+ $(18,248 )
+ 6,059
+ 9,798
+ (23,532
+)
+ $(25,923 )
+)%  (35
+ %  20
+ %  62
+ %  —
+ %  (28
+)%  (42
+ %  23
+ %  60
+ %  19
+)%  (7
+)%  (44
+ %  30
+ %  63
+ %  —
+)%  (34
+)%  
+ %  
+ %  
+ %  
+)%
+2015
+ 
+  $(19,756)
+(2,379
+ 
+)
+  2,095
+(10,008 )
+ 
+ 
+(10,641 )
+  $(40,689)
+ 
+ 
+)% 
+(88
+)% 
+(31
+ %  31
+ %  —
+)% 
+(29
+(111
+)%
+Three Months Ended
+June 30,
+2016
+ 
+$(8,649 )
+(1,843
+)
+899
+2,884
+(9,879
+)
+$(16,588)
+ 
+(46
+(28
+20
+45
+(27
+(46
+$(25,342)
+ 
+$(2.22
+ 
+4,191
+$56,069
+ 
+  $5.11
+ 
+(a)(100,804)
+)
+Six Months Ended June
+30,
+2016
+ 
+  $(24,126)
+(4,352
+ 
+)
+  1,895
+(1,330
+ 
+)
+ 
+(18,804 )
+  $(46,717)
+ 
+ 
+)% 
+(76
+)% 
+(36
+ %  22
+(21
+ % 
+)% 
+(32
+(79
+)%
+$(60,356)
+ 
+  $(5.48
+ 
+(b)4,191
+)
+2015
+ 
+  $(41,534)
+(1,365
+ 
+)
+  5,430
+(27,567 )
+ 
+ 
+(22,342 )
+  $(87,378)
+ 
+ 
+)% 
+(100
+)% 
+(7
+ %  35
+)%  —
+)% 
+(29
+(113
+)% 
+  $805
+ 
+  $0.07
+ 
+(a)(97,052 )
+)% 
+)% 
+ % 
+ % 
+)% 
+)% 
+ 
+ 
+ 
+ 
+(c)
+$(21,151)
+$(44,735)
+$(56,165)
+$(96,247)
+Diluted
+(a)
+Represents severance charges of $2.0 million and $2.2 million loss on extinguishment of debt
+associated with our second quarter bond exchange. See footnote 2 “Restructurings and
+Special Items” of Footnotes to Consolidated Financial Statements.”
+$(4.07
+$(5.10
+)
+$(8.77
+$(1.85
+)
+)
+)
+(b)    Represents $1.3 million of vacated facility charges offset by $102.0 million reduction in the
+WesternGeco legal contingency.
+(c)
+In addition to note (b), the six months ended June 30, 2015 includes severance and facility
+charges related to the first quarter 2015.
+We intend that the following discussion of our financial condition and results of operations will
+provide information that will assist in understanding our consolidated financial statements, the
+changes in certain key items in those financial statements from period to period, and the primary
+factors that accounted for those changes.
+For a discussion of factors that could impact our future operating results and financial condition,
+see (i) Item 1A. “Risk Factors” in our Annual Report on Form 10-K for the year ended
+December 31, 2015, and (ii) Item 1A. “Risk Factors” in Part II of this Form 10-Q.
+Results of Operations
+Three Months Ended June 30, 2016 Compared to Three Months Ended June 30, 2015
+Our consolidated net revenues of $36.2 million for the three months ended June 30, 2016 (the
+“Current Quarter”) decreased by $0.6 million, or (2)%, compared to total net revenues of $36.8
+million for the three months ended June 30, 2015 (the “Comparable Quarter”). Our overall gross
+profit (loss) percentage was 13% in the Current Quarter, as compared to (28)% in the
+Comparable Quarter. For the Current Quarter, our loss from operations was $16.6 million,
+compared to loss from operations of $40.7 million for the Comparable Quarter.
+Net loss for the Current Quarter was $25.3 million, or $(2.22) per share, compared to net income
+of $56.1 million, or $5.11 per diluted share, for the Comparable Quarter. The Current Quarter
+result was negatively impacted by special items totaling $4.2 million which included severance
+expense and a loss on the bond exchange. The Comparable Quarter results were positively
+impacted by special items totaling $100.8 million, primarily related to an additional partial
+reversal of a litigation reserve. Excluding these impacts, our net loss for the Current Quarter was
+$21.2 million or $(1.85) per share, as adjusted and our net loss for the Comparable Quarter was
+$44.7 million, or $(4.07) per share, as adjusted.
+32
+Net Revenues, Gross Profits and Gross Margins
+Solutions — Net revenues for the Current Quarter decreased by $3.8 million, or (17)%, to $18.6
+million, compared to $22.4 million for the Comparable Quarter. The decrease in revenues was
+primarily due to continued slowdown in customers’ exploration spending impacting all
+businesses within the Solutions segments. Despite the decrease in our revenues, gross loss
+decreased by $4.4 million to $(3.5) million, representing a (19)% gross margin, compared to
+$(7.9) million, which represented a (35)% gross margin in the Comparable Quarter due to our
+cost control initiative implemented in 2014 and continued through 2016.
+Systems — Net revenues for the Current Quarter decreased by $1.1 million, or (14)%, to $6.6
+million, compared to $7.7 million for the Comparable Quarter. The decrease in revenues in the
+Current Quarter was principally due to reduced activity by seismic contractors as they have taken
+vessels out of service resulting in reduced demand for repairs and spare parts. Gross profit
+decreased by $0.1 million to $1.4 million, representing a 20% gross margin for the Current
+Quarter, compared to $1.5 million, representing a 20% gross margin, for the Comparable Quarter.
+The decrease in gross profit and margin was the result of lower revenues and the change in the
+sales mix of products sold during the Current Quarter, partially offset by our cost control initiative
+implemented in 2014 and continued through 2016.
+Software — Net revenues for the Current Quarter decreased $2.3 million, or (34)%, to $4.5
+million, compared to $6.8 million for the Comparable Quarter. The decrease in revenues was due
+to a decrease in Orca licensing revenues as a result of a low utilization rate for vessels deploying
+our command and control software and unfavorable impact of foreign currency exchange rates
+impacted by Brexit. Gross profit for the Current Quarter decreased $(1.4) million to $2.8 million,
+compared to $4.2 million, for the Comparable Quarter. The decrease in Gross profit was due to
+declines in revenue partially offset by our cost control initiative implemented in 2014 and
+continued through 2016. Gross margin was 62% in the Current and Comparable Quarter.
+Ocean Bottom Services — Net revenues for the current period increased $6.4 million, or 100%,
+as compared to the Comparable Quarter. Gross profit for the Current Quarter was $4.3 million,
+representing a 66% gross margin for the Current Quarter, compared to a gross loss of $8.0
+million, representing 0% gross margin for the Comparable Quarter. Gross margin for the current
+period was favorably impacted by lease amendments executed with the vessel owners which
+reduced a portion of our idle vessel expenses previously accrued. During the second quarter of
+2016, our ocean bottom vessels and crew began acquiring data for an OBS survey offshore
+Nigeria which generated $6.4 million of revenue during the current period.   During 2015, our
+ocean bottom vessels and crew were idle. 
+Operating Expenses
+Research, Development and Engineering — Research, development and engineering expense
+decreased $2.4 million, or (33)%, to $4.8 million, for the Current Quarter, compared to $7.2 million
+for the Comparable Quarter. During the current down-cycle in E&P exploration spending, we
+have been selective in spending on research and development (“R&D”) projects in order to
+reduce expenses without sacrificing our ability to develop our technologies. As discussed above,
+despite the extended market downturn and uncertainty, we see significant long-term potential for
+OceanGeo and our technologies to improve ocean bottom survey productivity, and we expect
+long-term demand for ocean bottom production surveys (4D) to increase.
+Marketing and Sales — Marketing and sales expense decreased $3.9 million, or (45)%, to $4.7
+million, for the Current Quarter, compared to $8.6 million, for the Comparable Quarter. During the
+current down-cycle in oil and gas exploration spending, we have also reduced our payroll and
+marketing expenses.
+General, Administrative and Other Operating Expenses — General, administrative and other
+operating expenses decreased $2.7 million, or (18)%, to $12.0 million, for the Current Quarter,
+compared to $14.7 million for the Comparable Quarter. This decrease was primarily related to
+reduced expenses in the Current Quarter due to restructuring actions taken in 2014 and
+continued through 2016.
+Other Items
+Interest Expense, net — Interest expense, net, was $4.7 million for the Current Quarter consistent
+with $4.6 million for the Comparable Quarter. Interest expense in both quarters is primarily
+related to the Notes. For additional information, please refer to “Liquidity and Capital Resources
+— Sources of Capital” below.
+Income Tax Expense — Income tax expense for the Current Quarter was $2.3 million compared
+to $0.5 million for the Comparable Quarter. Our effective tax rates for the Current Quarter and
+Comparable Quarter were (9.8)% and 0.9%, respectively. Income tax expense incurred for the
+Current Quarter primarily relates to taxable income generated by our non-U.S. businesses, which
+we are not able to offset with U.S. sourced operating losses. The effective tax rate was also
+negatively impacted by the change in valuation allowance related to operating losses for which
+we cannot currently recognize a tax benefit.
+33
+Other Income (Expense), Net — Other expense for the Current Quarter was $1.7 million
+compared to other income of $102 million for the Comparable Quarter. This difference was
+primarily related to a loss of $2.2 million on the exchange of bonds during the Current Quarter
+compared to a reduction in our loss contingency accrual related to the WesternGeco legal
+proceedings recorded in the Comparable Quarter.
+The following table reflects the significant items of other income (expense), net as follows (in
+thousands):
+Reductions of loss contingency related to legal proceedings
+(Footnote 7)
+Loss on bond exchange
+Other income (expense), net
+Total other income (expense), net
+Three Months Ended June
+30,
+2016
+2015
+$ —
+(2,182
+465
+$ (1,717
+$ 101,978
+) —
+ (378
+) $ 101,600
+)
+Six Months Ended June 30, 2016 Compared to Six Months Ended June 30, 2015
+Our consolidated total net revenues of $58.8 million for the six months ended June 30, 2016 (the
+“Current Period”) decreased by $18.6 million, or 24%, compared to total net revenues of $77.4
+million for the six months ended June 30, 2015 (the “Comparable Period”). Our overall gross
+profit (loss) percentage for the Current Period was (7)%, compared to (34)%, for the Comparable
+Period. For the Current Period, our income (loss) from operations was $(46.7) million, compared
+to $(87.4) million, for the Comparable Period.
+Net loss for the Current Period was $60.4 million, or $(5.48) per share, compared to a net income
+of $0.8 million, or $0.07 per diluted share, in the Comparable Period. The Current Period results
+were negatively impacted by special items totaling $4.2 million which included severance
+expense and a loss on exchange of bonds. The Comparable Period results were positively
+impacted by special items totaling $97.0 million, primarily related to an additional partial reversal
+of a litigation reserve. Excluding the impact of these special items, adjusted net loss for Current
+Period was $56.2 million, or $(5.10) per share compared to adjusted net income of $96.2 million,
+or $(8.77) per share, in the Comparable Period.
+Net Revenues, Gross Profits and Gross Margins
+Solutions — Net revenues for the Current Period decreased by $9.7 million, or 23%, to $31.6
+million, compared to $41.3 million for the Comparable Period. Revenues for our multi-client
+businesses within Solutions decreased due to the continued softness of exploration spending.
+Despite the decrease in our revenues, gross loss decreased by $4.9 million to a gross loss of
+$(13.3) million, representing a (42)% gross margin, compared to a gross loss of $(18.2) million,
+representing a (44)% gross margin, in the Comparable Period due to our cost control initiatives
+started in 2014 and continued in 2016.
+Systems — Net revenues for the Current Period decreased by $8.4 million, or 41%, to $12.0
+million, compared to $20.4 million for the Comparable Period. Gross profit decreased by $3.4
+million to $2.7 million, representing a 23% gross margin, for the Current Period compared to $6.1
+million, representing a 30% gross margin, for the Comparable Period. This decrease in revenues
+in the Current Period was principally due to reduced activity by seismic contractors as they have
+taken vessels out of service resulting in a reduction in repairs and purchases of spares. Gross
+profits and gross margin decreased due to the significant reduction in revenues in the Current
+Period compared to the Comparable Period, partially offset by our cost control initiatives started
+in 2014 and continued in 2016.
+Software — Net revenues for the Current Period decreased by $6.8 million, or 44%, to $8.8
+million, compared to $15.6 million for the Comparable Period. Gross profit for the Current Period
+decreased by $4.5 million to $5.3 million, compared to $9.8 million in the Comparable Period.
+The decrease in revenues was due to a decrease in Orca licensing revenues occurring in the
+Current Period and, and the unfavorable impact of foreign currency exchange rates impacted by
+Brexit. Gross margin of 60% in the Current Period decreased from the 63% gross margin in the
+Comparable Period primarily due to the decline in revenues in the Current Period, partially offset
+by our cost control initiatives started in 2014 and continued in 2016.
+Ocean Bottom Services — Net revenues for the Current Period increased $6.4 million, or 100%
+compared to zero for the Comparable Period. Gross profit for the Current Period was $1.2 million
+compared to gross profit of $(23.5) million for the Comparable Period. During the second quarter
+of 2016, our ocean bottom vessels and crew began acquiring data for an OBS survey offshore
+Nigeria which generated $6.4 million of revenue during the current period.   During 2015, our
+ocean bottom vessels and crew were idle.
+34
+Operating Expenses
+Research, Development and Engineering — Research, development and engineering expense
+was $10.4 million for the Current Period, a decrease of $4.6 million, or (31)%, compared to $15.0
+million for the Comparable Period. During the current down-cycle in E&P exploration spending,
+we have been selective in spending on research and development (“R&D”) projects in order to
+reduce expenses without sacrificing our ability to develop our technologies, including a one-time
+spend of $1.0 million related to the acquisition of Sailwings (in-process R&D). As discussed
+above, despite the extended market downturn and uncertainty, we see significant long-term
+potential for OceanGeo and our technologies to improve ocean bottom survey productivity, and
+we expect long-term demand for ocean bottom production surveys (4D) to increase.
+Marketing and Sales — Marketing and sales expense was $8.7 million for the Current Period, a
+decrease of $7.8 million, or (47)%, compared to $16.5 million, for the Comparable Period. During
+the current down-cycle in E&P exploration spending, we have also reduced our payroll and
+marketing expenses.
+General, Administrative and Other Operating Expenses — General, administrative and other
+operating expenses were $23.6 million for the Current Period, a decrease of $6.4 million, or
+(21)%, compared to $30.0 million for the Comparable Period. This decrease was primarily the
+result of the restructuring actions taken in 2014 and 2015 that reduced expenses in the Current
+Period.
+Other Items
+Interest Expense, net — Interest expense, net, was $9.4 million for the Current Period compared
+to $9.2 million for the Comparable Period. Interest expense in both quarters is primarily related to
+the Notes. For additional information, please refer to “— Liquidity and Capital Resources —
+Sources of Capital” below.
+Other Income, Net — Other expense for the Current Period was $1.6 million compared to other
+income of $98.4 million for the Comparable Period. This difference was primarily related to a loss
+of $2.2 million on the exchange of bonds during the Current Period compared to a $102.0 million
+reduction in our loss contingency accrual related to the WesternGeco legal proceedings, partially
+offset by $1.9 million of facility restructuring charges recorded in the Comparable Quarter.
+The following table reflects the significant items of other income (expense), net as follows (in
+thousands):
+Six Months Ended June
+30,
+2016
+2015
+$ —
+$ 101,978
+Reductions of loss contingency related to legal proceedings (Footnote
+7)
+Facility restructuring charges
+Loss on bond exchange
+Other income (expense), net
+Total other income (expense), net
+Income Tax Expense — Income tax expense for the Current Period was $2.5 million compared to
+$1.5 million for the Comparable Period. Our effective tax rates for the Current Period and
+Comparable Period were (4.4)% and 85.5%, respectively. Our income tax expense for the
+Current Period primarily relates to income from our non-US businesses. Our effective tax rate for
+the Current Period was negatively impacted by the change in valuation allowance related to
+operating losses for which we cannot currently recognize a tax benefit. See further discussion of
+establishment of the deferred tax valuation allowance at Footnote 6 “Income Taxes” of Notes to
+Unaudited Condensed Consolidated Financial Statements.
+(1,913
+) —
+ (1,684
+) $ 98,381
+—
+(2,182
+585
+$ (1,597
+)
+)
+35
+Liquidity and Capital Resources
+Sources of Capital
+As of June 30, 2016, we had $52.4 million of cash on hand and $11.9 million of undrawn
+borrowing base availability under the Credit Facility. Our cash requirements include working
+capital requirements and cash required for our debt service payments, multi-client seismic data
+acquisition activities and capital expenditures. As of June 30, 2016, we had working capital of
+$40.6 million. Working capital requirements are primarily driven by our investment in our (i) multi-
+client data library ($8.6 million in the Current Period) and, (ii) working capital requirements on our
+OBS survey in our Ocean Bottom Services segment, and (iii) our inventory purchase obligations.
+Also, our headcount has traditionally been a significant driver of our working capital needs.
+Because a significant portion of our business is involved in the planning, processing and
+interpretation of seismic data services, one of our largest investments is in our employees, which
+involves cash expenditures for their salaries, bonuses, payroll taxes and related compensation
+expenses. As previously noted, since December 2014, we have reduced our workforce by over
+50%, and reduced salaries by 10% for a majority of our employees and closed selected facilities.
+These actions to result in annualized cash savings of approximately $80.0 million which we
+began to fully benefit from these savings in the fourth quarter of 2015. In April, 2016, we
+implemented additional cost saving initiatives by reducing our current workforce by over 12%.
+These further reductions are expected to result in approximately $15.0 million of additional
+annualized savings, with an estimated $9.0 million in 2016. We expect to begin realizing the vast
+majority of these savings in the third quarter of this year.
+Our working capital requirements may change from time to time depending upon many factors,
+including our operating results and adjustments in our operating plan in response to industry
+conditions, competition and unexpected events. In recent years, our primary sources of funds
+have been cash flows generated from operations, existing cash balances, debt and equity
+issuances and borrowings under our revolving credit facilities.
+Credit Facility, including Revolving Line of Credit
+In August 2014, we and our material U.S. subsidiaries, GX Technology Corporation, ION
+Exploration Products (U.S.A.), Inc. and I/O Marine Systems, Inc. (collectively, the “Subsidiary
+Borrowers”) entered into a Revolving Credit and Security Agreement with PNC Bank, National
+Association (“PNC”), as agent (the “Original Credit Agreement”), which was amended by the First
+Amendment to Revolving Credit and Security Agreement in August 2015 (the “First Amendment”)
+and the Second Amendment to Revolving Credit and Security Agreement in April 2016 (the
+“Second Amendment”; the Original Credit Agreement, as amended by the First Amendment and
+the Second Amendment, the “Credit Facility”).
+The Credit Facility is available to provide for the Borrowers’ general corporate needs, including
+working capital requirements, capital expenditures, surety deposits and acquisition financing.
+The maximum amount of the revolving line of credit under the Credit Facility is the lesser of $40.0
+million and a monthly borrowing base (which may be recalculated more frequently under certain
+circumstances).
+The borrowing base under the Credit Facility will increase or decrease monthly using a formula
+based on certain eligible receivables, eligible inventory and other amounts, including a
+percentage of the net orderly liquidation value of our multi-client data library (not to exceed $15.0
+million for the multi-client data library data component). As of June 30, 2016, the borrowing base
+under the Credit Facility was $26.9 million, and there was $15.0 million of outstanding
+indebtedness under the Credit Facility.
+The Credit Facility requires us to maintain compliance with various covenants. At June 30, 2016,
+we were in compliance with all of the covenants under the Credit Facility. For further information
+regarding our Credit Facility, see Footnote 4 “Long-term Debt” of Footnotes to Consolidated
+Financial Statements.
+Senior Secured Notes
+In May 2013, we sold $175.0 million aggregate principal amount of 8.125% Senior Secured
+Second-Priority Notes due 2018 (the “Third Lien Notes”) in a private offering pursuant to an
+indenture dated as of May 13, 2013 (the “Third Lien Notes Indenture”). Prior to the completion of
+the Exchange Offer and Consent Solicitation on April 28, 2016, the Third Lien Notes were our
+senior secured second-priority obligations. After giving effect to the Exchange Offer and Consent
+Solicitation, the remaining aggregate principal amount of approximately $28.5 million of
+outstanding Third Lien Notes became our senior secured third-priority obligations subordinated
+to the liens securing all of our senior and second priority indebtedness, including under the
+Credit Facility and Second Lien Notes.
+Pursuant to the Exchange Offer and Consent Solicitation, we (i) issued approximately $120.6
+million in aggregate principal amount of our new Second Lien Notes and 1,205,477 shares of
+common stock, (utilizing 508,464 of treasury shares) in exchange for approximately $120.6
+million in aggregate principal amount of Third Lien Notes, and (ii) purchased approximately
+$25.9 million in aggregate principal amount of Third Lien Notes in exchange for aggregate cash
+consideration totaling approximately $15.0 million, plus accrued and unpaid interest on the Third
+Lien Notes from the applicable last interest payment date to, but not including, April 28, 2016.
+36
+After giving effect to the Exchange Offer and Consent Solicitation, the aggregate principal
+amount of the Third Lien Notes remaining outstanding was approximately $28.5 million and the
+aggregate principal amount of Second Lien Notes outstanding was approximately $120.6 million.
+See Item 2. “Management’s Discussion and Analysis of Financial Condition and Results of
+Operations-Liquidity and Capital Resources-Exchange Offer” in Part II of this Form 10-Q.
+The Third Lien Notes are guaranteed by our material U.S. subsidiaries, GX Technology
+Corporation, ION Exploration Products (U.S.A.), Inc. and I/O Marine Systems, Inc. (the
+“Guarantors”). The Third Lien Notes mature on May 15, 2018. Interest on the Third Lien Notes
+accrues at the rate of 8.125% per annum and is payable semiannually in arrears on May 15 and
+November 15 of each year during their term. In May 2014, the holders of the Third Lien Notes
+exchanged their Third Lien Notes for a like principal amount of registered Third Lien Notes with
+the same terms. For a complete discussion of the terms and security of the Third Lien Notes in
+effect prior to the completion of the Exchange Offer and Consent Solicitation on April 28, 2016,
+see Footnote 6 to the Financial Statements included in our Annual Report on Form 10-K for the
+year ended December 31, 2015.
+On or after May 15, 2015, we may on one or more occasions redeem all or a part of the Third Lien
+Notes at the redemption prices set forth below, plus accrued and unpaid interest and special
+interest, if any, on the Third Lien Notes redeemed during the twelve-month period beginning on
+May 15th of the years indicated below:
+Date
+ Percentage
+2015
+ 104.063%
+2016
+ 102.031%
+2017 and thereafter 100.000%
+The Third Lien Notes Indenture requires us to maintain compliance with various covenants. At
+June 30, 2016, we were in compliance with all of the covenants under the Third Lien Notes
+Indenture. For further information regarding the Third Lien Notes, see Footnote 3 “Long-term
+Debt” of Footnotes to Unaudited Condensed Consolidated Financial Statements.
+The Second Lien Notes are senior secured second-priority obligations guaranteed by the
+Guarantors. The Second Lien Notes mature on December 15, 2021. Interest on the Second Lien
+Notes accrues at the rate of 9.125% per annum and is payable semiannually in arrears on June
+15 and December 15 of each year during their term, beginning June 15, 2016, except that the
+interest payment otherwise payable on June 15, 2021 will be payable on December 15, 2021.
+The indenture dated April 28, 2016 governing the Second Lien Notes (the “Second Lien Notes
+Indenture”) contains certain covenants that, among other things, limits or prohibits our ability and
+the ability of our restricted subsidiaries to take certain actions or permit certain conditions to exist
+during the term of the Second Lien Notes, including among other things, incurring additional
+indebtedness, creating liens, paying dividends and making other distributions in respect of our
+capital stock, redeeming our capital stock, making investments or certain other restricted
+payments, selling certain kinds of assets, entering into transactions with affiliates, and effecting
+mergers or consolidations. These and other restrictive covenants contained in the Second Lien
+Notes Indenture are subject to certain exceptions and qualifications. At June 30, 2016, we were
+in compliance with all of the covenants under the Second Lien Notes Indenture. All of our
+subsidiaries are currently restricted subsidiaries.
+On or after December 15, 2019, we may on one or more occasions redeem all or a part of the
+Second Lien Notes at the redemption prices set forth below, plus accrued and unpaid interest
+and special interest, if any, on the Second Lien Notes redeemed during the twelve-month period
+beginning on December 15th of the years indicated below:
+ Percentage
+Date
+ 105.500%
+2019
+2020
+ 103.500%
+2021 and thereafter 100.000%
+37
+For additional information regarding the terms of the Third Lien Notes and related Third Lien
+Notes Indenture and intercreditor agreement in effect prior to the completion of the Exchange
+Offer, see our Current Report on Form 8-K filed with the SEC on May 13, 2013. For additional
+information regarding the terms and security of the Third Lien Notes after giving effect to the
+Exchange Offer and Consent Solicitation, the amendments to the Third Lien Notes Indenture, the
+terms and security of the Second Lien Notes, the Second Lien Notes Indenture and the related
+intercreditor agreement, see our Current Report on Form 8-K filed with the SEC on April 28,
+2016.
+Meeting our Liquidity Requirements
+As of June 30, 2016, our total outstanding indebtedness (including capital lease obligations) was
+approximately $165.5 million, consisting of approximately $120.6 million outstanding Second
+Lien Notes, $28.5 million Third Lien Notes, $15.0 million outstanding indebtedness under our
+Credit Facility, $6.1 million of equipment capital leases, and $0.7 million of other debt. In
+addition, we have recorded an unamortized debt issuance costs of $5.3 million related to the
+Second and Third Lein Notes.
+For the Current Period, total capital expenditures, including the investments in our multi-client
+data library, were $8.9 million. We began investing in MexicoSPAN early in the third quarter of
+2015. This project is well funded by several of our major E&P customers. We expect investments
+in our multi-client data library this year to be in the range of $10.0 million to $20.0 million. Our full
+year investment in our multi-client data library has been significantly reduced in 2016 compared
+to 2015 due to the uncertainty in the E&P industry and their reduced capital expenditures
+budgets for 2016.
+In late April, we completed our Exchange Offer, retiring approximately $25.9 million of our $175.0
+million Third Lien Notes, using approximately $15.0 million of our cash. We believe that the
+consummation of the Exchange Offer will ultimately improve our liquidity position and give us
+more flexibility in how we invest cash into our businesses. See “Executive Summary –
+Macroeconomic Conditions” above.
+Subject to a payment obligation in the amount of the loss contingency we have established with
+respect to our ongoing WesternGeco litigation (as discussed below), we believe that our existing
+cash balance, and positive cash to be generated from operations through increased revenues
+expected in the second half of 2016 and our borrowing availability under our Credit Facility will
+be sufficient to meet our anticipated cash needs for at least the next 12 months. However, as set
+forth below, a potential future requirement to satisfy a payment obligation with respect to the
+WesternGeco litigation in excess of our loss contingency accrual could have a material adverse
+effect on our liquidity and, as a result, our business, financial condition and results of operations.
+Loss Contingency – WesternGeco Lawsuit
+As of June 30, 2016, we have a loss contingency of $22 million accrued related to the legal
+proceedings with WesternGeco. As described at Part II, Item 1. “Legal Proceedings,” there are
+possible scenarios involving an outcome in the WesternGeco lawsuit that could materially and
+adversely affect our liquidity. Prior to the reduction in damages by the Court of Appeals, we
+arranged with sureties to post an appeal bond at the trial court. The appeal bond is
+uncollateralized, but the terms of the appeal bond arrangements provide the sureties the
+contractual right for as long as the bond is outstanding to require us to post cash collateral. We
+have received a request for $11 million in collateral and have exchanged correspondence with
+the sureties in connection with this request.
+On May 4, 2016, after referral from the district court, a Magistrate Judge issued an order and
+report and recommendation in the litigation.  The order and report recommended entry of a final
+judgment against us on the royalty obligation plus interest, subject to final calculation upon entry
+of judgment, which is expected to be approximately $22 million and recommended the district
+court deny our motion to stay any obligation to pay the remaining $22 million. The district court
+has not yet decided whether to adopt the recommendation of the magistrate.  We will pursue all
+available objections and appeals to the order and report and recommendation.
+We may not ultimately prevail in the final appeals process and we could be required to pay
+damages up to the amount of the loss contingency accrual plus any additional amount ordered
+by the court. Our assessment of our potential loss contingency may change in the future due to
+developments at the appellate court and other events, such as changes in applicable law, and
+such reassessment could lead to the determination that no loss contingency is probable or that a
+greater loss contingency is probable, which could have a material effect on our business,
+financial condition and results of operations. Amounts of estimated loss contingency accruals as
+disclosed in this Quarterly Report on Form 10-Q or elsewhere are based on currently available
+information and involve elements of judgment and significant uncertainties. Actual losses may
+exceed or be less than these accrual amounts.
+38
+Cash Flow from Operations
+In the six months ended June 30, 2016 (the “Current Period”), we consumed $12.3 million of cash
+from operating activities compared to a net consumption of $22.5 million for the six months ended
+June 30, 2015 (the “Comparable Period”). The decrease in net cash used in operations was due
+to improved operating results. Although revenues declined 24% as compared to prior year, the
+impact of our cost reduction measures helped reduce our loss from operations by 59% as
+compared to the prior year period. In addition, cash from operations received during the Current
+Quarter also benefited from collections of cash from our accounts receivable generated in the
+fourth quarter of 2015, partially offset by payments of accounts payable.
+Cash Flow from Investing Activities
+Cash used in investing activities was $9.0 million, in Current Period compared to $30.6 million
+for the Comparable Period. The principal uses of cash in our investing activities during the
+Current Period were $8.6 million invested in our multi-client data library and $0.3 million of
+capital expenditures on property, plant, equipment and seismic rental equipment.
+The principal use of cash in our investing activities during the Comparable Period were $13.6
+million invested in our multi-client data library, and $17.2 million for capital expenditures related
+to property, plant and equipment.
+Cash Flow from Financing Activities
+Net cash used in financing activities was $11.9 million, in the Current Period, compared to $3.5
+million of cash used in the Comparable Period. The primary use of cash in our financing activities
+during the Current Period were $4.8 million for payments on equipment capital leases, $6.2
+million of debt issuance costs and $1.0 million of stock repurchases. In addition, we borrowed
+$15.0 million on our revolving line of credit offset by a payment of $15.0 million to repurchase
+bonds.
+The net cash used in financing activities during the Comparable Period was primarily related to
+$3.6 million of repayments of long-term debt.
+Inflation and Seasonality
+Inflation in recent years has not had a material effect on our costs of goods or labor, or the prices
+for our products or services. Traditionally, our business has been seasonal, with strongest
+demand often occurring in the fourth quarter of our fiscal year.
+Critical Accounting Policies and Estimates
+Refer to our Annual Report on Form 10-K for the year ended December 31, 2015 for a complete
+discussion of our significant accounting policies and estimates. There have been no material
+changes in the Current Period regarding our critical accounting policies and estimates. For
+discussion of recent accounting pronouncements, see Footnote 15 “Recent Accounting
+Pronouncements” of Footnotes to Unaudited Condensed Consolidated Financial Statements.
+Foreign Sales Risks
+The majority of our foreign sales are denominated in United States dollars. Product revenues are
+allocated to geographical locations on the basis of the ultimate destination of the equipment, if
+known. If the ultimate destination of such equipment is not known, product revenues are
+allocated to the geographical location of initial shipment. Service revenues, which primarily relate
+to our Ventures and Data Processing divisions, are allocated based upon the billing location of
+the customer. For the Current Period and Comparable Period, international sales comprised 79%
+and 78%, respectively, of total net revenues. The total percentage of sales from foreign countries
+increased in the Current Period compared to the Comparable Period due to our revenues in
+North America decreasing at a higher rate than the decrease in revenues that we experienced in
+the international markets.
+39
+The following table is a summary of net revenues by geographic area (in
+thousands):
+ 
+Net revenues by geographic area:
+Europe
+Six Months Ended June
+30,
+2016
+ 
+$ 17,092
+2015
+  
+ $ 28,610
+12,272
+9,269
+7,506
+6,172
+5,443
+1,063
+$ 58,817
+16,843
+ 7,039
+ 7,667
+ 9,182
+ 7,015
+ 1,017
+ $ 77,373
+North America
+Africa
+Latin America
+Asia Pacific
+Middle East
+Other
+Total
+Credit Risks
+At June 30, 2016, we had two customers (one integrated major oil company and one national oil
+company) with balances greater than 10% (23% and 16%, respectively) of our total combined
+accounts and unbilled receivable balances.
+The loss of either of these customers or deterioration in our relationship with these customers
+could have a material adverse effect on our results of operations and financial condition.
+Item 3. Quantitative and Qualitative Disclosures about Market Risk
+Refer to Item 7A of our Annual Report on Form 10-K for the year ended December 31, 2015 for a
+discussion regarding our quantitative and qualitative disclosures about market risk. There have
+been no material changes to those disclosures during the Current Period.
+Item 4. Controls and Procedures
+Disclosure Controls and Procedures. Disclosure controls and procedures are designed to ensure
+that information required to be disclosed in the reports we file with or submit to the SEC under the
+Securities Exchange Act of 1934, as amended (the “Exchange Act”) is recorded, processed,
+summarized and reported within the time period specified by the SEC’s rules and forms.
+Disclosure controls and procedures are defined in Rule 13a-15(e) under the Exchange Act, and
+they include, without limitation, controls and procedures designed to ensure that information
+required to be disclosed under the Exchange Act is accumulated and communicated to
+management, including the principal executive officer and the principal financial officer, as
+appropriate, to allow timely decisions regarding required disclosure.
+Our management carried out an evaluation of the effectiveness of the design and operation of our
+disclosure controls and procedures as of June 30, 2016. Based upon that evaluation, our
+principal executive officer and principal financial officer have concluded that our disclosure
+controls and procedures were effective as of June 30, 2016.
+Changes in Internal Control over Financial Reporting. There was not any change in our internal
+control over financial reporting that occurred during the three months ended June 30, 2016,
+which has materially affected, or is reasonably likely to materially affect, our internal control over
+financial reporting.
+40
+PART II — OTHER INFORMATION
+Item 1. Legal Proceedings
+WesternGeco
+In June 2009, WesternGeco L.L.C. (“WesternGeco”) filed a lawsuit against us in the United
+States District Court for the Southern District of Texas, Houston Division. In the lawsuit, styled
+WesternGeco L.L.C. v. ION Geophysical Corporation, WesternGeco alleged that we had
+infringed several method and apparatus claims contained in four of its United States patents
+regarding marine seismic streamer steering devices.
+The trial began in July 2012. A verdict was returned by the jury in August 2012, finding that we
+infringed the claims contained in the four patents by supplying our DigiFIN® lateral streamer
+control units and the related software from the United States and awarded WesternGeco the sum
+of $105.9 million in damages, consisting of $12.5 million in reasonable royalty and $93.4 million
+in lost profits.
+In June 2013, the presiding judge entered a Memorandum and Order, ruling that WesternGeco is
+entitled to be awarded supplemental damages for the additional DigiFIN units that were supplied
+from the United States before and after the trial that were not included in the jury verdict due to
+the timing of the trial. In October 2013, the judge entered another Memorandum and Order, ruling
+on the number of DigiFIN units that are subject to supplemental damages and also ruling that the
+supplemental damages applicable to the additional units should be calculated by adding
+together the jury’s previous reasonable royalty and lost profits damages awards per unit,
+resulting in supplemental damages of $73.1 million.
+In April 2014, the judge entered another Order, ruling that lost profits should not have been
+included in the calculation of supplemental damages in the October 2013 Memorandum and
+Order and reducing the supplemental damages award in the case from $73.1 million to $9.4
+million. In the Order, the judge also further reduced the damages award in the case by $3.0
+million to reflect a settlement and license that WesternGeco entered into with a customer of ours
+that had purchased and used DigiFIN units that were also included in the damage amounts
+awarded against us.
+In May 2014, the judge signed and entered a Final Judgment in the amount of $123.8 million.
+The Final Judgment also included an injunction that enjoins us, our agents and anyone acting in
+concert with us, from supplying in or from the United States the DigiFIN product or any parts
+unique to the DigiFIN product, or any instrumentality no more than colorably different from any of
+these products or parts, for combination outside of the United States. We have conducted our
+business in compliance with the district court’s orders in the case, and we have reorganized our
+operations such that we no longer supply the DigiFIN product or any part unique to the DigiFIN
+product in or from the United States.
+We and WesternGeco each appealed the Final Judgment to the United States Court of Appeals
+for the Federal Circuit in Washington, D.C. On July 2, 2015, the Court of Appeals reversed in part
+the district court’s judgment, holding the district court erred by including lost profits in the Final
+Judgment. Lost profits were $93.4 million and prejudgment interest was approximately $10.9
+million of the $123.8 million Final Judgment. Pre-judgment interest on the lost profits portion will
+be treated in the same way as the lost profits. Post-judgment interest will likewise be treated in
+the same fashion. On July 29, 2015, WesternGeco filed a petition for rehearing en banc before
+the Court of Appeals. On October 30, 2015 the Court of Appeals denied WesternGeco’s petition
+for rehearing en banc.
+On February 26, 2016, WesternGeco filed a petition for writ of certiorari by the Supreme Court.
+We filed our response on April 27, 2016. On June 20, 2016, the Supreme Court refused to disturb
+the Court of Appeals ruling finding no lost profits as a matter of law.  Separately, in light of the
+changes in case law regarding the standard of proof for willfulness in the Halo and Stryker cases,
+the Supreme Court indicated that the case should be remanded to the Federal Circuit for a
+determination of whether or not the willfulness determination by the District Court was
+appropriate.
+On May 4, 2016, after referral from the district court, a Magistrate Judge issued an order and
+report and recommendation in the litigation.  The order and report recommended entry of a final
+judgment against us on the royalty obligation plus interest, subject to final calculation upon entry
+of judgment, which is expected to be approximately $22 million and recommended the district
+court deny our motion to stay any obligation to pay the remaining $22 million that is not related to
+lost profits. The district court has not yet decided whether to adopt the recommendation of the
+magistrate. We will pursue all available objections and appeals to the order and report and
+recommendation.
+As previously disclosed, we had taken a loss contingency accrual of $124 million. As a result of
+the reversal by the Court of Appeals, as of June 30, 2015, we have reduced our loss contingency
+accrual to its current amount of $22 million as of June 30, 2015. Our assessment of our potential
+loss contingency may change in the future due to developments in the case and other events,
+such as changes in applicable law, and such reassessment could lead to the determination that
+no loss contingency is probable or that a greater or lesser loss contingency is probable. Any such
+reassessment could have a material effect on our financial condition or results of operations.
+41
+Prior to the reduction in damages by the Court of Appeals, we arranged with sureties to post an
+appeal bond at the trial court. The appeal bond is uncollateralized, but the terms of the appeal
+bond arrangements provide the sureties the contractual right for as long as the bond is
+outstanding to require us to post cash collateral. We have received a request for $11 million in
+collateral and have exchanged correspondence with the sureties in connection with this request.
+In July 2016, the sureties renewed their request for collateral and we are continuing to discuss
+terms and options with them. The appeal bond will remain outstanding during the pendency of
+appeals.
+For additional discussion about the effect of posting an appeal bond on our liquidity, financial
+condition and results of operations, see Item 2. “Management’s Discussion and Analysis of
+Financial Condition and Results of Operations – Liquidity and Capital Resources – Loss
+Contingency – WesternGeco Lawsuit” in Part I of this Form 10-Q.
+Other Litigation
+We have been named in various other lawsuits or threatened actions that are incidental to our
+ordinary business. Litigation is inherently unpredictable. Any claims against us, whether
+meritorious or not, could be time-consuming, cause us to incur costs and expenses, require
+significant amounts of management time and result in the diversion of significant operational
+resources. The results of these lawsuits and actions cannot be predicted with certainty. We
+currently believe that the ultimate resolution of these matters will not have a material adverse
+effect on our financial condition or results of operations.
+Item 1A. Risk Factors
+This report contains or incorporates by reference statements concerning our future results and
+performance and other matters that are “forward-looking” statements within the meaning of
+Section 27A of the Securities Act of 1933, as amended (“Securities Act”), and Section 21E of the
+Securities Exchange Act of 1934, as amended (“Exchange Act”). These statements involve
+known and unknown risks, uncertainties, and other factors that may cause our or our industry’s
+results, levels of activity, performance, or achievements to be materially different from any future
+results, levels of activity, performance, or achievements expressed or implied by such forward-
+looking statements. In some cases, you can identify forward-looking statements by terminology
+such as “may,” “will,” “would,” “should,” “intend,” “expect,” “plan,” “anticipate,” “believe,” “estimate,”
+“predict,” “potential,” or “continue” or the negative of such terms or other comparable terminology.
+Examples of other forward-looking statements contained or incorporated by reference in this
+•
+•
+•
+•
+•
+•
+report include statements regarding:
+the expected outcome of the WesternGeco litigation and future potential adverse effects on our
+liquidity;
+•future oil and gas commodity prices;
+•future levels of capital expenditures of our customers for seismic activities;
+the effects of current and future worldwide economic conditions (particularly in developing
+countries) and demand for oil and natural gas and seismic equipment and services;
+•future borrowing capacity on our Credit Facility based on future levels of our borrowing base;
+the effects of current and future unrest in the Middle East, North Africa and other regions,
+including Ukraine;
+the timing of anticipated revenues and the recognition of those revenues for financial accounting
+purposes;
+the effects of ongoing and future industry consolidation, including, in particular, the effects of
+consolidation and vertical integration in the towed marine seismic streamers market;
+the timing of future revenue realization of anticipated orders for multi-client survey projects and
+data processing work in our Solutions segment;
+•future levels of our capital expenditures;
+•future government regulations, particularly in the Gulf of Mexico;
+•expected net revenues, income from operations and net income;
+•expected gross margins for our services and products;
+•our Ocean Bottom Services chartered vessels remaining idle for an extended period;
+future seismic industry fundamentals, including future demand for seismic services and
+equipment;
+•future benefits to our customers to be derived from new services and products;
+future benefits to be derived from our investments in technologies, joint ventures and acquired
+companies;
+•future growth rates for our services and products;
+•the degree and rate of future market acceptance of our new services and products;
+•
+•
+42
+•
+•
+•
+expectations regarding E&P companies and seismic contractor end-users purchasing our more
+technologically-advanced services and products;
+anticipated timing and success of commercialization and capabilities of services and products
+under development and start-up costs associated with their development;
+•future cash needs and future availability of cash to fund our operations and pay our obligations;
+•potential future acquisitions;
+future opportunities for new services and products and projected research and development
+expenses;
+•expected continued compliance with our debt financial covenants;
+•expectations regarding realization of deferred tax assets; and
+•anticipated results with respect to certain estimates we make for financial accounting purposes.
+These forward-looking statements reflect our best judgment about future events and trends based
+on the information currently available to us. Our results of operations can be affected by
+inaccurate assumptions we make or by risks and uncertainties known or unknown to us.
+Therefore, we cannot guarantee the accuracy of the forward-looking statements. Actual events
+and results of operations may vary materially from our current expectations and assumptions.
+Information regarding factors that may cause actual results to vary from our expectations, referred
+to as “risk factors,” appears in our Annual Report on Form 10-K for the year ended December 31,
+2015 in Part I, Item 1A. “Risk Factors,” as previously filed with the SEC.
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+(c) During the three months ended June 30, 2016, in connection with the vesting of (or lapse of
+restrictions on) shares of our restricted stock held by certain employees, we acquired shares of
+our common stock in satisfaction of tax withholding obligations that were incurred on the vesting
+date. The date of acquisition, number of shares and average effective acquisition price per share
+were as follows:
+Period
+(a)
+ 
+Total Number of
+Shares Acquired
+(b)
+ 
+Average Price
+Paid Per Share
+(c)
+Total Number of
+Shares Purchased as
+ 
+Part of Publicly
+Announced Plans or
+Program
+(d)
+Maximum Number (or
+Approximate Dollar Value) of
+ 
+Shares That
+May Yet Be Purchased
+Under the Plans or Program
+$ —
+—
+—
+77
+77
+$ —
+$ 6.97
+Not applicable
+$ 6.97
+Not applicable
+Not applicable
+Not applicable
+Not applicable
+Not applicable
+April 1,
+2016 to
+April 30,
+2016
+May 1,
+2016 to
+May 31,
+2016
+June 1,
+2016 to
+June 30,
+2016
+Total
+On November 4, 2015, our board of directors approved a stock repurchase program authorizing
+us to repurchase, from time to time from November 10, 2015 through November 10, 2017, up to
+$25.0 million in shares of our outstanding common stock. The stock repurchase program may be
+implemented through open market repurchases or privately negotiated transactions, at
+management’s discretion. The actual timing, number and value of shares repurchased under the
+program will be determined by management at its discretion and will depend on a number of
+factors including the market price of the shares of our common stock and general market and
+economic conditions, applicable legal requirements and compliance with the terms of our
+outstanding indebtedness. The repurchase program does not obligate us to acquire any
+particular amount of common stock and may be modified or suspended at any time and could be
+terminated prior to completion. Since the program’s inception on November 10, 2015 through
+June 30, 2016, we had repurchased 451,792 shares our common stock at an average price per
+share of $6.54, and we have approximately $22.0 million of remaining authorized capacity
+available pursuant to the repurchase program. The number of shares repurchased and the
+average price per repurchased share has been retroactively adjusted to reflect the one-for-fifteen
+reverse stock split completed on February 4, 2016. On June 30, 2016, the closing sale price for
+our common stock was $6.23 on the NYSE.
+For additional information regarding the issuance and sale of unregistered securities pursuant to
+the exchange offer we completed on April 28, 2016, see our Current Report on Form 8-K filed
+with the SEC on April 28, 2016.
+Item 5. Other Information
+None.
+43
+Item 6. Exhibits
+Indenture, dated as of April 28, 2016, among ION Geophysical Corporation, the subsidiary
+guarantors named therein, Wilmington Savings Fund Society, FSB, as trustee and collateral
+agent filed on April 28, 2016 as Exhibit 4.1 to the Company’s Current Report on Form 8-K
+and incorporated by reference.
+4.1
+Form of Second Lien Note (included in Exhibit 4.1).
+4.2
+First Supplemental Indenture, dated as of April 28, 2016, to the Indenture, dated May 13,
+2013, among ION Geophysical Corporation, the subsidiary guarantors named therein,
+Wilmington Savings Fund Society, FSB, as trustee, and U.S. Bank National Association, as
+collateral agent, filed on April 28, 2016 as Exhibit 4.3 to the Company’s Current Report on
+Form 8-K and incorporated by reference.
+4.3
+Second Amendment to the Revolving Credit and Security Agreement, dated as of April 28,
+2016, among ION Geophysical Corporation and the subsidiary co-borrowers named therein,
+as borrowers, the financial institutions party thereto, as lenders, and PNC Bank, National
+Association, as agent for the lenders, filed on April 28, 2016 as Exhibit 10.2 to the
+Company’s Current Report on Form 8-K and incorporated by reference.
+10.1
+Intercreditor Agreement, dated as of April 28, 2016, by and among PNC Bank, National
+Association, as first lien representative and first lien collateral agent for the first lien secured
+parties, and Wilmington Savings Fund Society, FSB, as second lien representative and
+second lien collateral agent for the second lien secured parties and as  third lien
+representative for the third lien secured parties, and U.S. Bank National Association as third
+lien collateral agent for the third lien secured parties and acknowledged and agreed to by
+ION Geophysical Corporation and the other grantors named therein, filed on April 28, 2016
+as Exhibit 10.1 to the Company’s Current Report on Form 8-K and incorporated by
+reference.
+10.2
+31.1 Certification of Chief Executive Officer Pursuant to Rule 13a-14(a).
+ 
+31.2 Certification of Chief Financial Officer Pursuant to Rule 13a-14(a).
+ 
+32.1 Certification of Chief Executive Officer Pursuant to 18 U.S.C. §1350.
+32.2 Certification of Chief Financial Officer Pursuant to 18 U.S.C. §1350.
+The following materials are formatted in Extensible Business Reporting Language (XBRL):
+(i) Condensed Consolidated Balance Sheets as of June 30, 2016 and December 31, 2015,
+(ii) Condensed Consolidated Statements of Operations for the three- and six-months ended
+June 30, 2016 and 2015, (iii) Condensed Consolidated Statements of Comprehensive
+Income (Loss) for the three- and six-months ended June 30, 2016 and 2015, (iv) Condensed
+Consolidated Statements of Cash Flows for the six months ended June 30, 2016 and 2015,
+(v) Footnotes to Unaudited Condensed Consolidated Financial Statements.
+101
+44
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly
+caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+ 
+  
+ ION GEOPHYSICAL CORPORATION
+  
+ By /s/ Steven A. Bate
+  
+  
+Date: August 4, 2016
+Steven A. Bate
+ Executive Vice President and Chief Financial Officer
+45
+EXHIBIT INDEX
+ 
+Exhibit No. Description
+4.1
+4.2
+4.3
+Indenture, dated as of April 28, 2016, among ION Geophysical Corporation, the
+subsidiary guarantors named therein, Wilmington Savings Fund Society, FSB, as
+ 
+trustee and collateral agent filed on April 28, 2016 as Exhibit 4.1 to the Company’s
+Current Report on Form 8-K and incorporated by reference.
+  
+ Form of Second Lien Note (included in Exhibit 4.1).
+  
+First Supplemental Indenture, dated as of April 28, 2016, to the Indenture, dated May
+13, 2013, among ION Geophysical Corporation, the subsidiary guarantors named
+therein, Wilmington Savings Fund Society, FSB, as trustee, and U.S. Bank National
+ 
+Association, as collateral agent, filed on April 28, 2016 as Exhibit 4.3 to the
+Company’s Current Report on Form 8-K and incorporated by reference.
+  
+Second Amendment to the Revolving Credit and Security Agreement, dated as of
+April 28, 2016, among ION Geophysical Corporation and the subsidiary co-borrowers
+named therein, as borrowers, the financial institutions party thereto, as lenders, and
+ 
+PNC Bank, National Association, as agent for the lenders, filed on April 28, 2016 as
+Exhibit 10.2 to the Company’s Current Report on Form 8-K and incorporated by
+reference.
+  
+Intercreditor Agreement, dated as of April 28, 2016, by and among PNC Bank,
+National Association, as first lien representative and first lien collateral agent for the
+first lien secured parties, and Wilmington Savings Fund Society, FSB, as second lien
+representative and second lien collateral agent for the second lien secured parties
+ 
+and as  third lien representative for the third lien secured parties, and U.S. Bank
+National Association as third lien collateral agent for the third lien secured parties
+and acknowledged and agreed to by ION Geophysical Corporation and the other
+grantors named therein, filed on April 28, 2016 as Exhibit 10.1 to the Company’s
+Current Report on Form 8-K and incorporated by reference.
+  
+ Certification of Chief Executive Officer Pursuant to Rule 13a-14(a).
+  
+ Certification of Chief Financial Officer Pursuant to Rule 13a-14(a).
+  
+ Certification of Chief Executive Officer Pursuant to 18 U.S.C. §1350.
+  
+ Certification of Chief Financial Officer Pursuant to 18 U.S.C. §1350.
+  
+The following materials are formatted in Extensible Business Reporting Language
+(XBRL): (i) Condensed Consolidated Balance Sheets as of June 30, 2016 and
+December 31, 2015, (ii) Condensed Consolidated Statements of Operations for the
+three- and six-months ended June 30, 2016 and 2015, (iii) Condensed Consolidated
+ 
+Statements of Comprehensive Income (Loss) for the three- and six-months ended
+June 30, 2016 and 2015, (iv) Condensed Consolidated Statements of Cash Flows for
+the six months ended June 30, 2016 and 2015, (v) Footnotes to Unaudited
+Condensed Consolidated Financial Statements.
+10.1
+10.2
+31.1
+ 
+31.2
+ 
+32.1
+ 
+32.2
+101
+46

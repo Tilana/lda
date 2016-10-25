@@ -1,0 +1,1042 @@
+
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ G+V3UAqrMJCNIljXV4f/GnAuvMQbGXVbJ0il+wpH/SiwbhPfbQAaxzBQbesiHC/b
+ QnATybxGmA8+ZLh5gAuV1Q==
+<SEC-DOCUMENT>0001070876-05-000123.txt : 20051223
+<SEC-HEADER>0001070876-05-000123.hdr.sgml : 20051223
+<ACCEPTANCE-DATETIME>20051223142821
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+10QSB/A
+5
+20030331
+0001070876-05-000123
+20051223
+20051223
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: DRILLING OIL & GAS WELLS [1381]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+VINEYARD OIL & GAS CO
+0000777582
+251349204
+1231
+PA
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 000-13871
+FILM NUMBER:
+10QSB/A
+1934 Act
+051285075
+BUSINESS ADDRESS:
+STREET 1:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+10299 W MAIN RD
+NORTH EAST
+PA
+16428
+8147258742
+MAIL ADDRESS:
+STREET 1:
+CITY:
+STATE:
+ZIP:
+10299 WEST MAIN ROAD
+NORTH EAST
+PA
+16428
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10QSB/A
+<SEQUENCE>1
+<FILENAME>vineyard10qsba033103.htm
+<DESCRIPTION>AMENDED QUARTERLY REPORT
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>vineyard10qsba033103</TITLE>
+</HEAD>
+<BODY>
+<PRE>
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-QSB/A
+(Amendment #2)
+Quarterly Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act
+of 1934
+For the quarterly period ended March 31, 2003
+Commission File Number          0-13871
+<U>Vineyard Oil &amp; Gas Company</U>
+       (Exact name of small business issuer as specified in its charter)
+Pennsylvania                               25-1349204
+(State or other jurisdiction of                   (I.R.S. Employer
+  incorporation or organization)                 Identification No.)
+10299 West Main Road, North East, Pennsylvania 16428-0391
+                    (Address of principal executive offices)
+(814) 725-8742
+                          (Issuer's telephone number)
+Check whether the issuer (1) filed all reports required to be filed by
+Section 13 or 15 (d) of the Exchange Act during the past 12 months (or for such
+shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days.
+YES [X] NO [ ]
+Indicate by check mark whether the registrant is a shell company (as
+defined in Rule 12b-2 of the Exchange Act)
+YES [ ] NO [X]
+State the number of shares outstanding of each of the issuer's classes 
+of
+common stock, as of the latest practicable date:
+Common Stock, No Par Value - 5,325,562.50 shares as of December 23, 2005
+1
+<B>Statement Regarding This Amendment
+We are amending our Form 10-QSB for the period ended March 31, 2003, as
+originally filed on August 21, 2003 and amended on November 28, 2003, as a
+result of comments received from the staff of the Securities and Exchange
+Commission in connection with the filing of our Sch 13E-3 and Pre14A. We have
+expanded the footnote disclosure related to SFAS 143 and made other
+modifications to the footnotes. In addition, we have restated the manner in
+which we accounted for our asset retirement obligation/well plugging reserve. In
+all other material respects, this Amended Quarterly Report on Form 10-QSB/A is
+unchanged from the Quarterly Report on Form 10-QSB previously filed by the
+Company on November 28, 2003.</B>
+2
+PART 1 - ITEM 1.             FINANCIAL STATEMENTS
+                            CONDENSED BALANCE SHEETS
+                           VINEYARD OIL &amp; GAS COMPANY
+                               (As Restated)
+March 31,  December 31,
+                                                           2003          2002
+(unaudited)
+ASSETS
+Current Assets
+Cash                                                 $1,528,714  $  612,457
+  Accounts receivable                                   8,387,690   5,795,859
+  Inventories                                              54,742      51,825
+  Prepaid expenses                                    <U>    191,599 </U> <U>   
+134,711 </U>
+Total Current Assets                                   10,162,745   6,594,852
+Property, Plant and Equipment
+  Land and land improvements                              193,680     193,680
+  Building and improvements                               267,659     267,618
+  Oil and gas properties                                5,885,063   5,482,134
+  Drilling and other equipment                        <U>  1,239,353 </U> <U> 
+1,239,353 </U>
+                                                        7,585,755   7,182,785
+Less accumulated depreciation                       <U> (7,105,625)</U> 
+<U>(6,811,637)</U>
+                                                      <U>    480,130 </U> <U>   
+371,148</U>
+Leased Property
+  Vehicle, less accumulated depreciation              <U>     30,000 </U> <U>   
+33,750 </U>
+Other Assets
+  Long term trade receivable                              150,000     150,000
+  Cash restricted for well plugging                       252,592     252,195
+  Investment in jointly-owned company                 <U>    104,577 </U> <U>   
+85,245 </U>
+                                                      <U>    507,169 </U> <U>   
+487,440 </U>
+TOTAL ASSETS                                          $11,180,044  $7,487,190
+                                                      ============ ===========
+3
+March 31,  December 31,
+                                                           2003          2002
+                                                      (unaudited)
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current Liabilities
+  Accounts Payable
+    Trade                                              $9,233,606   $5,043,120
+    Production distribution payable                       363,876      610,190
+  Accrued expenses                                         31,027       41,090
+  Current portion of obligation under capital lease   <U>     10,657 </U> <U>   
+10,470 </U>
+Total Current Liabilities                               9,639,166    5,704,870
+Long-term liabilities
+  Obligation under capital lease                           37,244       39,979
+  Accrued well plugging liability                     <U>    987,993 </U> <U>   
+- </U>
+Total Liabilities                                     <U> 10,664,403 </U> <U>  
+5,744,849 </U>
+Shareholders' Equity
+  Common Stock, authorized 15,000,000 shares
+  without par value, issued 5,325,562.5 shares
+  at March 31, 2003 and December 31, 2002
+  at stated value of $.05                                 266,278      266,278
+Additional paid-in capital                            <U>  4,965,430 </U> <U>  
+4,965,430 </U>
+                                                        5,231,708    5,231,708
+Retained earnings (deficit)                           <U> (4,491,147)</U> <U> 
+(3,264,447)</U>
+                                                          740,561    1,967,261
+Less: cost of 67,944 shares held in treasury          <U>   (224,920)</U> <U>   
+(224,920)</U>
+                                                      <U>    515,641 </U> <U>  
+1,742,341 </U>
+TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY            <U>$11,180,044 </U> <U>$ 
+7,487,190 </U>
+See notes to condensed financial statements.
+4
+CONDENSED STATEMENTS OF INCOME (UNAUDITED)
+                           FOR THE THREE MONTHS ENDED
+                             MARCH 31, 2003 AND 2002
+                           VINEYARD OIL &amp; GAS COMPANY
+                                  (As Restated)
+3 Months     3 Months
+                                                          Ended        Ended
+                                                          March        March
+                                                       31, 2003     31, 2002
+Earned Revenues
+   Gas marketing                                     $13,454,799 $ 6,848,918
+   Well services                                          10,815      24,921
+   Production and royalties                              132,028      94,478
+   Equipment rental and service income               <U>     57,567 </U> <U>   
+264,785 </U>
+                                                      13,655,209   7,233,102
+Other Income
+   Rent and other income                                  18,463      14,819
+   Equity in earnings of jointly-
+   owned company                                     <U>     32,165 </U> <U>    
+9,103 </U>
+                                                     <U> 13,705,837 </U> <U> 
+7,257,024 </U>
+Cost and Expenses
+   Direct costs of earned revenues
+     Gas marketing                                    13,742,194   6,526,084
+     Well services                                        29,999      19,903
+     Production                                           50,117      26,771
+     Equipment expenses                                   56,970     216,676
+     Accretion expense                                    16,993           -
+     Depreciation/amortization                       <U>     18,714 </U> <U>    
+11,547 </U>
+                                                      13,914,987   6,800,981
+General and Administrative                            169,022     212,398
+   Depreciation                                            3,334       5,135
+   Interest                                          <U>      1,108 </U> <U>    
+2,274 </U>
+                                                     <U> 14,088,451 </U> <U> 
+7,020,788 </U>
+Net (loss) income before cumulative
+effect of change in accounting principle             <U>   (382,614)</U> <U>   
+236,236 </U>
+Cumulative effect of change in
+accounting principle
+         Depreciation                                    275,691       -0-
+         Accretion                                   <U>    568,070 </U> <U>    
+-0-   </U>
+                                                         843,761       -0-
+Net (loss)income before income taxes                 <U> (1,226,375)</U> <U>   
+236,236 </U>
+Income taxes (Note 3)                                <U>        325 </U> <U>    
+5,031 </U>
+Net (loss) income                                    <U> (1,226,700)</U> <U>   
+231,205 </U>
+Basic(loss)earnings per common share                       <U>(.230)</U>       
+<U>.043</U>
+Diluted(loss)earnings per common share                     <U>(.230)</U>       
+<U>.043</U>
+See notes to condensed financial statements
+5
+CONDENSED STATEMENTS OF CASH FLOWS
+                     VINEYARD OIL &amp; GAS COMPANY (UNAUDITED)
+           FOR THE THREE MONTHS ENDED MARCH 31, 2003 AND 2002
+                                  (As Restated)
+3 Months    3 Months
+                                                          Ended       Ended
+                                                          March       March
+                                                       31, 2003    31, 2002
+Cash flow from operating activities:
+(Loss) income from operations                      $ (1,226,700)  $ 231,205
+Adjustments To Reconcile Net
+Income to Net Cash Provided by
+Operating Activities:
+ Depreciation and amortization                          297,739      16,682
+ Accretion                                              585,063           -
+ Provision for losses on
+  accounts receivable and inventories                     7,577       6,000
+ Income from investment in jointly-owned
+   company                                              (32,165)     (9,103)
+ Changes in operating assets
+ and liabilities providing
+ (using) cash:
+   Accounts receivable                               (2,599,409)    636,117
+   Inventories                                           (2,917)     (6,171)
+   Prepaid expenses                                     (56,888)     37,029
+   Accounts payable                                   3,944,172    (868,658)
+   Other current liabilities                            (10,063)    (35,729)
+   Deferred revenue                                 <U>          - </U>  <U>    
+658 </U>
+ Net cash provided by
+   operating activities                             <U>    906,410 </U>  <U>    
+8,030 </U>
+Cash flow from investing activities:
+  Capital expenditures                                      (41)        -0-
+Distributions from
+  investment in jointly-owned company               <U>     12,833 </U>  <U>   
+24,455 </U>
+Net cash provided by investing activities           <U>     12,792 </U>  <U>   
+24,455 </U>
+Cash flow from financing activities:
+  Principal payments on borrowings                       (2,548)     (2,374)
+  Proceeds from bank loans                          <U>       -0-  </U>  <U>  
+150,000 </U>
+Net cash (used in)provided by financing activities  <U>     (2,548)</U>  <U>  
+147,626 </U>
+Increase in cash                                        916,654     180,111
+Cash at beginning of period                         <U>    864,652 </U>  <U>  
+531,955 </U>
+Cash at end of period                               $ 1,781,306   $  712,066
+                                                    ============  ===========
+See notes to condensed financial statements.
+6
+VINEYARD OIL &amp; GAS COMPANY
+                            NOTES TO CONDENSED FINANCIAL STATEMENTS
+                                        MARCH 31, 2003
+1.  BASIS OF PRESENTATION
+The accompanying unaudited condensed financial statements of Vineyard 
+Oil
+and Gas (the "Company") have been prepared in accordance with generally accepted
+accounting principles for interim financial information and in accordance with
+the instructions to Form 10-QSB and Article 10 of Regulation S-X. Accordingly,
+they do not include all of the information and footnotes required by generally
+accepted accounting principles for complete financial statements. In the opinion
+of management, all adjustments (consisting of normal recurring accruals)
+considered necessary for a fair presentation have been included. Operating
+results for the three-month period ended March 31, 2003 are not necessarily
+indicative of the results that may be expected for the year ending December 31,
+2003. For further information, refer to the financial statements and footnotes
+included in the Company's Annual Report on Form 10-KSB for the year ended
+December 31, 2002.
+2. RESTATEMENT AND NEW ACCOUNTING PRONOUCEMENTS
+In June 2001, the FASB issued SFAS 143, "Accounting for Asset Retirement
+Obligations". SFAS 143 addresses obligations associated with the retirement of
+tangible, long lived assets and the associated asset retirement costs. This
+statement amends SFAS 19, "Financial Accounting and Reporting by Oil and Gas
+Producing Companies." This statement requires the Company to recognize a
+liability for the fair value of its plugging and abandoning liability (excluding
+salvage value) with the associated costs included as part of the Company's oil
+and gas properties balance. As a result of a review of the Company's periodic
+filings by the staff of the Division of Corporation Finance of the U.S.
+Securities and Exchange Commission (the "Staff"), the Company has restated its
+financial statements for the quarter ended March 31, 2003 to expand its
+disclosure of the effects of adopting SFAS 143 as of January 1, 2003, and to
+recognize the effects of the adoption of SFAS 143. The material unaudited
+affects of the adoption, as of January 1, 2003, are as follows:
+<U>Unaudited</U>
+                                                  March 31, 2003
+                                             As
+                                         Originally                As
+                                          Reported                 restated
+         Cummulative
+         effect of accounting change          -0-              $    843,761
+Total Expenses                  14,066,481              14,932,537
+         Net Income (Loss)                 (360,965)             (1,226,700)
+         Earning (Loss) per share
+                  Basic                      (0.068)                 (0.230)
+                  Diluted                    (0.068)                 (0.230)
+         Total Assets                    11,058,107              11,180,044
+         Total Liabilities               10,071,053              10,664,403
+         Total Shareholders' Equity         987,054                 515,641
+On January 1, 2003, the Company adopted SFAS 145, "Rescission of FASB
+Statements No. 4, 44, and 64, Amendment of FASB statement No. 13, and Technical
+Corrections." SFAS 145 rescinds SFAS 4, "Reporting Gains and Losses from
+Extinguishment of Debt, " SFAS 44, "Accounting for Intangibe Assets of Motor
+Carriers" and SFAS 64, "Extinguishments of Debt made to Satisfy Sinking-Fund
+Requirements" and amends SFAS No. 13, "Accounting for Leases." Statement 145
+7
+also makes technical corrections to other existing pronouncements. SFAS 4
+required gains and losses from extinguishment of debt to be classified as an
+extraordinary item, net of the related income tax effect. As a result of the
+rescission of SFAS 4, the criteria for extraordinary items in Accounting
+Principles Board Opinion No. (APB) 30, "Reporting the Results of Operations -
+Reporting the Effects of Disposal of a Segment of a Business, and Extraordinary,
+Unusual and Infrequently Occurring Events and Transactions," now will be used
+to classify those gains and losses. The adoption of SFAS 145 did not have any
+effect on the Company's financial position, results of operations or cash flows.
+In June 2002, the FASB issued SFAS 146, "Accounting for Costs Associated
+with Exit or Disposal Activities." SFAS 146 is effective for the Company for
+disposal activities initiated after December 31, 2002. The adoption of this
+standard did not have any effect on the Company's financial position, results of
+operations or cash flows.
+In November 2002, the FASB issued FASB Interpretation No. (FIN) 45,
+"Guarantor's Accounting and Disclosure Requirements for Guarantees, Including
+Indirect Guarantees of Indebtedness of Others". FIN 45's disclosure requirements
+are effective for the Company's interim and annual financial statements for
+periods ended after December 15, 2002. The initial recognition and measurement
+provisions are applicable on a prospective basis to guarantees issued or
+modified after December 31, 2002. FIN 45 requires certain guarantees to be
+recorded at fair value, which is different from current practice, which is
+generally to record a liability only when a loss is probable and reasonably
+estimable. FIN 45 also requires a guarantor to make significant new disclosures
+even when the likelihood of making any payments under the guarantee is remote.
+Adoption of FIN 45 did not have any effect on the Company's financial statement
+disclosures, financial position, results of operations or cash flows.
+In December 2002, the FASB issued SFAS 148, "Accounting for Stock-Based
+Compensation - Transition and Disclosure." SFAS 148 amends FASB 123, "Accounting
+for Stock-Based Compensation," to provide alternative methods of transition for
+a voluntary change to the fair value based method of accounting for stock-based
+employee compensation. In addition, SFAS 148 amends the disclosure requirements
+of SFAS 123 to require prominent disclosures in both annual and interim
+financial statements about the method of accounting for stock-based employee
+compensation and the effect of the method used on the reported results. The
+provisions of SFAS 148 are effective for financial statements for fiscal years
+ended after December 15, 2002. The adoption of SFAS 148 did not have any effect
+on the Company's financial position, results of operations or cash flow.
+In January 2003, the FASB issued FIN 46, "Consolidation of Variable
+Interest Entities - An Interpretation of Accounting Research Bulletin (ARB) 51."
+FIN 46 is an interpretation of ARB 51, "Consolidated Financial Statements," and
+addresses consolidation by business enterprises of variable interest entities
+(VIEs). The primary objective of FIN 46 is to provide guidance on the
+identification of, and financial reporting for, entities over which control is
+achieved through means other than voting rights; such entities are known as
+VIEs. FIN 46 requires an enterprise to consolidate a VIE if that enterprise has
+a variable interest that will absorb a majority of the entity's expected losses
+if they occur, receive a majority of the entity's expected residual returns if
+8
+they occur or both. An enterprise shall consider the rights and obligations
+conveyed by its variable interests in making this determination. This guidance
+applies immediately to VIEs created after January 31, 2003, and to VIEs in which
+an enterprise obtains an interest after that date. It applies in the first
+fiscal year or interim period beginning after June 15, 2003, to VIEs in which an
+enterprise holds a variable interest that it acquired before February 1, 2003.
+Adoption of FIN 46 did not have any effect on the Company's financial statement
+disclosures, financial position, results of operations or cash flows.
+3. PRIOR PERIOD ADJUSTMENTS
+Since 1990, the Company, as general partner, has withheld from prior 
+years'
+quarterly partnership distributions an estimated fee for future well plugging
+charges. The plugging fees were recorded as deferred revenue until the actual
+plugging costs had been incurred by the partnerships. However, under SFAS 19,
+the Company estimated that the salvage values of its properties were sufficient
+to offset its liabilities with respect to plugging the wells and as a result the
+Company has now determined that the deferral of this revenue was not
+appropriate. As such, the Company has restated its January 1, 2001 retained
+earnings and equity by $362,776 to account for the cumulative effect of this
+restatement as of December 31, 2000. In addition, the Company has restated its
+financial statements for 2002 to account for the affect of amounts received in
+2002 that should have been recorded as income during 2002. The following sets
+forth the affects of the restatement on 2002 as well as years prior to January
+1, 2001 where there would have been a material effect of this restatement:
+<U>December 31, 2002</U>               <U>December 31,
+2000</U>
+As originally    As restated    As originally  As restated
+                         reported          (1)           reported        (2)
+Revenues               24,579,812      24,611,358      21,370,872    21,437,907
+Net income (loss)         (71,887)        (40,341)       (283,115)     (216,080)
+Earnings (loss)
+per share
+- -Basic                      (0.13)          (.007)          (.055)        
+(.042)
+- -Diluted                    (0.13)          (.007)          (.053)        
+(.040)
+Total liabilities       6,139,171       5,744,848       8,787,752     8,424,975
+Total shareholders'     1,348,019       1,742,342       1,293,705     1,656,482
+   equity
+<U>December 31, 1995</U>            <U>December 31, 
+1994</U>
+As originally   As restated   As originally   As restated
+                        reported         (3)         reported          (1)
+Revenues               4,394,565      4,477,373      4,009,524      4,068,672
+Net income (loss)         76,654        159,462         48,786        107,934
+Earnings (loss)
+per share
+- -Basic                      .015           .031           .010           .022
+- -Diluted                    .015           .031           .010           .022
+Total liabilities      2,206,157      1,910,415      1,956,943      1,744,009
+Total shareholders'    1,222,656      1,518.398      1,143,865      1,356,799
+   equity
+9
+<U>December 31, 1993</U>            <U>December 31, 
+1991</U>
+As originally    As restated    As originally  As restated
+                      reported           (5)           reported        (6)
+Revenues              3,660,426       3,798,439       1,022,099     1,037,872
+Net income (loss)        20,029         158,042        (158,106)     (142,333)
+Earnings (loss)
+per share
+ - Basic                   .003            .025           (.025)        (.022)
+ - Diluted                 .003            .025           (.025)        (.022)
+Total liabilities     2,028,744       1,874,958       2,525,428     2,509,655
+Total                 1,095,078       1,248,864         376,554       392,327
+shareholders'
+equity
+(1) The restatement affected the 4th quarter of 2002
+(2) The restatement affected the 4th quarter of 2000
+(3) The restatement affected the 4th quarter of 1995
+(4) The restatement affected the 4th quarter of 1994
+(5) The restatement affected the 4th quarter of 1993
+(6) The restatement affected the 4th quarter of 1991
+4.       PRIMARY EARNINGS PER SHARE
+Primary earnings per share are determined by dividing net income by the
+weighted average number of common shares outstanding (5,325,562.50 in 2003 and
+2002).
+5.       INCOME TAX
+No federal income tax was due or paid during the periods ended March 31,
+2003, and 2002, due to available operating loss carry forwards.
+6.       REVENUE RECOGNITION
+Oil and gas production is recognized as production and delivery takes 
+place. Gas
+marketing revenues are recognized, inclusive of transportation costs, when title
+passes. Field service revenues are recognized when the goods or services have
+been provided.
+7.       CASH FLOW INFORMATION
+For purposes of the statement of cash flows, cash includes demand 
+deposits,
+certificates of deposit, and short-term investments with original maturities of
+three months or less.
+Short-term investments consist of money market funds, and are reported
+at market value, which equals cost.
+The Company's cash payments for interest and income taxes were as
+follows:
+Cash paid during the three month period ended March 31, for:
+<U>2003</U>          <U>2002</U>
+Interest            1,108         2,274
+                Income taxes          325         5,031
+10
+Cash consists of the following as of the dates indicated:
+March 31, 2003        December 31, 2002
+Cash in bank                    $1,528,714              $  612,457
+     Cash restricted for well
+       plugging                      <U>   252,592</U>              <U>
+252,195</U>
+                                     <U>$1,781,306</U>              <U>$  
+864,652</U>
+8.  CAPITAL LEASE OBLIGATION
+                                     March 31, 2003        December 31, 2002
+      Payable in monthly
+        installments to April, 2005     $ 47,901                $ 50,449
+      Less current portion              <U> (10,657)</U>               <U> 
+(10,470)</U>
+                                        <U>  37,244 </U>               <U>  
+39,979 </U>
+7.125% lease obligation, secured by vehicle, payable in monthly installments of
+$1,143 including interest to April 2005, with a final payment of $25,956.
+Maturities of long term portion are as follows:
+Year ending
+                March 31             Principal
+2004                   $11,440
+                2005                   <U> 25,804</U>
+                                       <U>$37,244</U>
+9. BUSINESS SEGMENT INFORMATION
+Description of the types of products and services from which each
+reportable segment derives its revenue:
+The Company's three reportable business segments are gas marketing, well
+services and equipment rental and oil and gas production.
+The Company's gas marketing operation involves marketing gas from local
+producers and interstate pipeline sources, as well as marketing gas from the
+Company's managed limited partnerships, and selling that gas to industrial gas
+users through transportation arrangements on intrastate and interstate pipeline
+systems.
+In the well services and equipment rental operation, the Company rents
+well service equipment (e.g. for use in water hauling, pipeline installation,
+and welding) and provides workover and well tending services for producing
+wells.
+Revenues from oil and gas production operations are primarily derived
+from working and royalty interests in the sale of oil and gas production and
+for the transmission of such production.
+11
+Measurement of segment profit or loss and segment assets
+The accounting policies of the segments are the same as those described 
+in
+the summary of significant accounting policies included in the Company's Annual
+Report on Form 10-KSB for the year ended December 31, 2002 and in Notes 1 and 2
+to the Condensed Financial Statements included in Item 1. of this Report. The
+Company evaluates performance based on profit and loss from operations before
+income taxes not including nonrecurring gains and losses.
+The Company accounts for intersegment sales and transfers as if the
+sales or transfers were to third parties, that is, at current market prices.
+Factors management used to identify the Company's reportable segments
+The Company's reportable segments are strategic business units that offer
+different products and services.  They are managed separately because each
+segment requires different technology and marketing strategies.
+The Company's segment profit or loss and assets are as follows:
+Well Services
+               Gas            and Equipment  Oil &amp; Gas    All
+               Marketing      Rental         Production   Others    Totals
+March 31,
+<u>2003</u>
+Revenues
+from
+external
+customers     13,454,799      68,382        132,028         -0-    13,655,209
+Intersegment
+revenues           -0-         -0-           -0-            -0-         -0-
+Other
+revenue            -0-         -0-           -0-           50,628      50,628
+Depreciation,
+accretion and
+amortization       -0-         5,912        873,556         3,334     882,802
+Segment (loss)
+profit          (287,395)    (24,499)      (791,645)     (123,161) (1,226,700)
+Segment
+assets         8,208,385     237,871       837,260      1,896,528  11,180,044
+Expenditures
+for segment
+assets             -0-          -0-         -0-                41     402,971
+12
+Well Services
+Gas            and Equipment  Oil &amp; Gas    All
+               Marketing      Rental         Production   Others    Totals
+March 31,
+<U>2002</U>
+Revenues
+from
+external
+customers       6,848,918    289,706        94,478            -0-    7,233,102
+Intersegment
+revenues            -0-        -0-            -0-             -0-         -0-
+Other
+revenue             -0-        -0-            -0-           23,922      23,922
+Depreciation
+and
+amortization        -0-       5,547          6,000          5,135       16,682
+Segment profit   322,834     47,580         61,707       (200,916)     231,205
+Segment
+assets         4,409,719    265,271        528,451        949,512    6,152,953
+Expenditures
+for segment
+assets              -0-        -0-           -0-            -0-        -0-
+Revenue from segments below quantitative thresholds are attributed to
+the Company's equity in earnings of its jointly-owned company and unallocated
+revenues such as interest income and gains recognized on the disposition of
+assets.  General and administrative expenses are not allocated to the
+Company's three business segments.  This activity is reported as "All Others".
+10.  CONTINGENCIES
+In February 2003, the Company's marketing segment underdelivered a small
+percentage of its customers' natural gas requirements. As a result of abnormally
+high gas consumption combined with related production constraints, the local gas
+utility company, National Fuel Distribution Company ("NFDC") supplied the 
+customers'
+needs. The Company was invoiced $505,307 by NFDC for the underdelivered amount.
+Additional charges were incurred by Vineyard's customers in the amount of
+$187,687. These charges are a contracted responsibility of the Company's
+"pooled" producers, who market natural gas through the Company by yearly
+contract.
+The Company filed a complaint with the Pennsylvania Public Utility Commission,
+disputing the amount invoiced by NFDC. In an effort to settle the dispute, NFDC
+made a settlement offer, reducing the charged amount by over 40%. At March 31,
+2003, Vineyard included in accounts payable an estimate of the liability of
+$432,417 and simultaneously recorded a receivable from the pool producers
+associated with the charges.
+Negotiations have continued during 2003 and, as of September 30, 2003, Vineyard
+had revised the estimated liability to $254,621. Subsequently, the Company made
+a partial good-faith payment of $150,000. In January 2004, a final settlement
+was reached with all parties involved. A final payment of $104,621 was made by
+the Company and all amounts receivable from the pool producers have been
+recovered.
+On May 19, 2003, the Company filed suit against one of its customers for
+breach of contract. The Company's complaint involves three unpaid invoices
+totaling $108,334 for natural gas deliveries that occurred in compliance with
+the contractual agreement executed with the customer. The customer has filed a
+counterclaim alleging "cost to cover" issues in the amount of $183,238. Total
+exposure to the Company could be as high as $291,572, the combination of the
+possible negative impact of both claims. In the opinion of management, the suit
+should result in a settlement or award by the court in favor of the Company and
+adequate provision has been made for any loss that management currently
+anticipates may be incurred in settlement. At this time, however, no estimate
+can be made as to the timing of the settlement of this matter.
+13
+ITEM 2.
+MANAGEMENT'S DISCUSSION AND ANALYSIS OR PLAN OF OPERATION
+                          QUARTER ENDED MARCH 31, 2003
+Material Changes in Financial Condition
+Vineyard Oil &amp; Gas Company's cash position increased $916,654 during
+the quarter ended March 31, 2003, primarily as a result of net cash provided by
+operating activities of $906,410. Of that amount, accounts receivable and
+accounts payable increases resulted in a net increase of $1,344,763. The
+quarter's net loss of $1,226,700 which included non-cash charges for
+depreciation, amortization and accretion of $882,802, reduced operational cash
+flow.
+Revenues increased $6,448,813 for the three month period ended March 31,
+2003, over the same three month period in 2002. Gas marketing revenue increased
+by $6,605,881 in this period, by far the most significant change of all the
+business segments. The increase in gas marketing revenue resulted from a
+combination of price and volume increases. Market prices in the three month
+period ended March 31, 2003 were significantly higher (in excess of two to three
+times higher) than market prices for the same period in 2002. The price increase
+was coupled with a volume increase of approximately 30% in 2003 over the same
+period in 2002. Well services and equipment rental and service income decreased
+a total of $221,324 over the same period last year. The most significant reason
+for the decline in revenue was a large pipeline project that was completed in
+the first quarter of 2002. This significant project accounted for approximately
+$230,000 in gross revenue in 2002. Production and Royalties increased $37,550
+over the prior period due mainly to a combination of price and volume. In order
+to take advantage of the price increases noted above, the Company increased gas
+and oil production. Equity in earnings of a jointly-owned company (Northern
+Pipeline, LLC.) increased by $23,062 in 2003. The increase is attributable to an
+increase in the gathering fee charged and an increase in volume through the
+pipeline.
+Cost of revenues increased $7,067,663 over the similar period in 2002. 
+Gas
+purchases increased by $7,216,110. Significant increases in expenses are related
+to the increase in gas prices noted above. The profit margin deteriorated in
+2003 resulting in a business segment loss of $287,395. The decrease in margin is
+related to unscheduled demand. Below normal temperatures for the period sparked
+higher than anticipated consumption, forcing the Company to cover volume demand
+by purchasing gas in the cash market. These prices were significantly higher and
+in most cases exceeded contracted prices with the customers. Well services and
+Equipment Rental expenses decreased $149,610 from the prior year. The decrease
+is directly related with the pipeline project explained above. Production
+expenses increased by $23,346 in 2003. As mentioned, to take advantage of
+increased prices the Company increased production, which resulted in higher
+expenses.
+14
+The effects of SFAS 143 totaled $866,056 as of March 31, 2003 (see Note 
+2
+to the Condensed Financial Statements included in Item 1 of this Report).
+Accretion expense in 2003 totaled $585,063 with $16,993 affecting the current
+period and the balance of $568,070 reported as the cumulative effect.
+Depreciation expenses totaled $280,993 for the same period with $5,302 affecting
+the current period and the balance of $275,691 reported as the cumulative
+effect.
+General and administrative expenses decreased $43,376 from the similar
+period in 2002. The majority of these expenses reflected reductions from the
+same period in 2002. The more significant decreases related to accounting fees,
+salaries, payroll taxes and travel/entertainment.
+A net loss of $1,226,700 represents a decrease of $1,457,905 over the
+income of $231,205 in the same period in 2002. The schedule of segment profit
+and loss shows the changes by business segment. The gas marketing segment
+suffered a loss of $287,395 as a result of a margin decrease of $610,229 from
+the same period in 2002. As explained above, the deterioration in margin was due
+to higher then normal costs to purchase gas. Well services and equipment rental
+produced a segment loss of $24,499 as margins decreased by $72,079 from 2002.
+Removing the profit impact of the large pipeline project (approximately $67,000)
+explained above, an increase in several overhead expenses is the reason for the
+decrease in margin. Production reported a segment loss of $791,645 down $853,352
+from the prior year. Predominately, the cumulative effects of FASB 143 are
+responsible for the margin loss (see note 2 to the Condensed Financial
+Statements included in Item 1 of this Report). All other costs, net of other
+revenue, resulted in a segment loss of $123,161 for 2003. This shows a margin
+improvement of $77,755 from 2002. The improvement is the result of increased
+other revenue and control of expenses.
+ITEM 3.  CONTROLS AND PROCEDURES
+As of the end of the period covered by this quarterly report, the 
+Company
+carried out an evaluation, under the supervision and with the participation of
+the Company's management, including the Company's Chief Executive Officer and
+Chief Financial Officer, of the effectiveness of the design and operation of
+the Company's disclosure controls and procedures pursuant to Exchange Act Rule
+13a-15.  Based upon the evaluation, the Chief Executive Officer and Chief
+Financial Officer concluded that the Company's disclosure controls and
+procedures were effective as of the end of the period covered by this quarterly
+report.  During the quarter ended March 31, 2003, there have been no changes in
+the Company's internal controls over financial reporting, identified in
+connection with our evaluation thereof, that have materially affected, or are
+reasonably likely to materially affect, our internal control over financial
+reporting.
+15
+PART II.   OTHER INFORMATION
+<U>ITEM 1. LEGAL PROCEEDINGS</U>
+NOT APPLICABLE
+<U>ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS</U>
+NOT APPLICABLE
+<U>ITEM 3. DEFAULTS UPON SENIOR SECURITIES</U>
+NOT APPLICABLE
+<U>ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS</U>
+NOT APPLICABLE
+<U>ITEM 5. OTHER INFORMATION</U>
+NOT APPLICABLE
+<U>ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K</U>
+(a)  <U>EXHIBITS</U>
+31.1           Certification by Chief Executive Officer pursuant to
+                     Rule 13a - 14(a) or 15d-14(a), as adopted pursuant to
+                     Section 302 of the Sarbanes-Oxley Act of 2002
+31.2           Certification by Chief Financial Officer pursuant to
+                     Rule 13a - 14(a) or 15d-14(a), as adopted pursuant to
+                     Section 302 of the Sarbanes-Oxley Act of 2002
+32.1           Certification by Chief Executive Officer pursuant to 18
+                     U.S.C. Section 1350, as adopted pursuant to Section 906
+                     of the Sarbanes-Oxley Act of 2002.
+32.2           Certification by Chief Financial Officer pursuant to 18
+                     U.S.C. Section 1350, as adopted pursuant to Section 906
+                     of the Sarbanes-Oxley Act of 2002.
+(b)  <U>REPORTS ON FORM 8-K</U>
+NONE.
+16
+SIGNATURES
+In accordance with the requirements of the Exchange Act, the registrant caused
+this report to be signed on its behalf by the undersigned, thereunto duly
+authorized.
+Date: December 23, 2005
+VINEYARD OIL &amp; GAS COMPANY
+/s/ Stephen B. Millis
+STEPHEN B. MILLIS           President
+/s/ James M. Reynard
+JAMES M. REYNARD            Secretary/Treasurer
+17
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31.1
+<SEQUENCE>2
+<FILENAME>vineyard311exhibit.htm
+<DESCRIPTION>MILLIS CERTIFICATION
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>vineyard311exhibit</TITLE>
+</HEAD>
+<BODY>
+<PRE>
+                                                               <U><I>Exhibit 
+31.1 </I></U>
+CERTIFICATION
+I, Stephen B. Millis, certify that:
+1. I have reviewed this quarterly report on Form 10-QSB of Vineyard Oil and Gas
+   Company;
+2. Based on my knowledge, this report does not contain any untrue statement of
+   a material fact or omit to state a material fact necessary to make the
+   statements made, in light of the circumstances under which such statements
+   were made, not misleading with respect to the period covered by this
+   report;
+3. Based on my knowledge, the financial statements, and other financial
+   information included in this report, fairly present in all material
+   respects the financial condition, results of operations and cash flows of
+   the small business issuer as of, and for, the periods presented in this
+   report;
+4. The small business issuer's other certifying officer(s) and I are
+   responsible for establishing and maintaining disclosure controls and
+   procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and
+   internal control over financial reporting (as defined in Exchange Act Rules
+   13a-15(f) and 15d-15(f)) for the small business issuer and have:
+(a) Designed such disclosure controls and procedures, or caused such
+            disclosure controls and procedures to be designed under our
+            supervision, to ensure that material information relating to the 
+small
+            business issuer, including its consolidated subsidiaries, is made
+            known to us by others within those entities, particularly during the
+            period in which this report is being prepared;
+(b) Designed such internal control over financial reporting, or caused
+            such internal control over financial reporting to be designed under
+            our supervision, to provide reasonable assurance regarding the
+            reliability of financial reporting and the preparation of financial
+            statements for external purposes in accordance with generally 
+accepted
+            accounting principles;
+(c) Evaluated the effectiveness of the small business issuer's 
+disclosure
+            controls and procedures and presented in this report our conclusions
+            about the effectiveness of the disclosure controls and procedures, 
+as
+            of the end of the period covered by this report based on such
+            evaluation; and
+1
+(d) Disclosed in this report any change in the small business issuer's
+            internal control over financial reporting that occurred during the
+            small business issuer's most recent fiscal quarter (the small 
+business
+            issuer's fourth fiscal quarter in the case of an annual report) that
+            has materially affected, or is reasonably likely to materially 
+affect,
+            the small business issuer's internal control over financial 
+reporting;
+5. The small business issuer's other certifying officer(s) and I have
+   disclosed, based on our most recent evaluation of internal control over
+   financial reporting, to the small business issuer's auditors and the audit
+   committee of the small business issuer's board of directors (or persons
+   performing the equivalent functions):
+(a) All significant deficiencies and material weaknesses in the design 
+or
+            operation of internal control over financial reporting which are
+            reasonably likely to adversely affect the small business issuer's
+ability to record, process, summarize and report financial
+            information; and
+(b) Any fraud, whether or not material, that involves management or 
+other
+            employees who have a significant role in the small business issuer's
+            internal control over financial reporting.
+Date:December 23, 2005
+<U>/s/ Stephen B. Mills</U>
+                                                   Stephen B. Millis
+                                                   President
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31.2
+<SEQUENCE>3
+<FILENAME>vineyard312exhibit.htm
+<DESCRIPTION>REYNARD CERTIFICATION
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>vineyard312exhibit</TITLE>
+</HEAD>
+<BODY>
+<PRE>
+                                                               <U><I>Exhibit 
+31.2 </I></U>
+CERTIFICATION
+I, James M. Reynard, certify that:
+1. I have reviewed this quarterly report on Form 10-QSB of Vineyard Oil and Gas
+   Company;
+2. Based on my knowledge, this report does not contain any untrue statement of
+   a material fact or omit to state a material fact necessary to make the
+   statements made, in light of the circumstances under which such statements
+   were made, not misleading with respect to the period covered by this
+   report;
+3. Based on my knowledge, the financial statements, and other financial
+   information included in this report, fairly present in all material
+   respects the financial condition, results of operations and cash flows of
+   the small business issuer as of, and for, the periods presented in this
+   report;
+4. The small business issuer's other certifying officer(s) and I are
+   responsible for establishing and maintaining disclosure controls and
+   procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and
+internal control over financial reporting (as defined in Exchange Act Rules
+   13a-15(f) and 15d-15(f)) for the small business issuer and have:
+(a) Designed such disclosure controls and procedures, or caused such
+            disclosure controls and procedures to be designed under our
+            supervision, to ensure that material information relating to the 
+small
+            business issuer, including its consolidated subsidiaries, is made
+            known to us by others within those entities, particularly during the
+            period in which this report is being prepared;
+(b) Designed such internal control over financial reporting, or caused
+            such internal control over financial reporting to be designed under
+            our supervision, to provide reasonable assurance regarding the
+            reliability of financial reporting and the preparation of financial
+            statements for external purposes in accordance with generally 
+accepted
+            accounting principles;
+(c) Evaluated the effectiveness of the small business issuer's 
+disclosure
+            controls and procedures and presented in this report our conclusions
+            about the effectiveness of the disclosure controls and procedures, 
+as
+            of the end of the period covered by this report based on such
+            evaluation; and
+1
+(d) Disclosed in this report any change in the small business issuer's
+            internal control over financial reporting that occurred during the
+            small business issuer's most recent fiscal quarter (the small 
+business
+            issuer's fourth fiscal quarter in the case of an annual report) that
+            has materially affected, or is reasonably likely to materially 
+affect,
+            the small business issuer's internal control over financial 
+reporting;
+5. The small business issuer's other certifying officer(s) and I have
+   disclosed, based on our most recent evaluation of internal control over
+   financial reporting, to the small business issuer's auditors and the audit
+   committee of the small business issuer's board of directors (or persons
+   performing the equivalent functions):
+(a) All significant deficiencies and material weaknesses in the design 
+or
+            operation of internal control over financial reporting which are
+            reasonably likely to adversely affect the small business issuer's
+            ability to record, process, summarize and report financial
+            information; and
+(b) Any fraud, whether or not material, that involves management or 
+other
+            employees who have a significant role in the small business issuer's
+            internal control over financial reporting.
+Date: December 23, 2005
+<U>/s/ James M. Reynard</U>
+                                                   James M. Reynard
+                                                   Treasurer
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-32.1
+<SEQUENCE>4
+<FILENAME>vineyard321exhibit.htm
+<DESCRIPTION>MILLIS CERTIFICATION
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>vineyard321exhibit</TITLE>
+</HEAD>
+<BODY>
+<PRE>
+                                                             <I><U>Exhibit 
+32.1</U>
+<U>Certification Pursuant to</U>
+                             <U>18 U.S.C. Section 1350</U>
+                             <U>as Adopted Pursuant to</U>
+                  <U>Section 906 of the Sarbanes-Oxley Act of 2002</U></I>
+In connection with the Quarterly Report of Vineyard Oil &amp; Gas, Inc.
+(the "Company") on Form 10-QSB for the period ended March 31, 2003 as filed with
+the Securities and Exchange Commission on the date hereof (the "Report"), I,
+Stephen B. Millis, as Chief Executive Officer of the Company, certify, pursuant
+to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002, that:
+(1) The Report fully complies with the requirements of section 13(a) or
+15(d) of the Securities Exchange Act of 1934; and
+(2) The information contained in the Report fairly presents, in all
+material respects, the financial condition and results of operations of the
+Company.
+December 23, 2005                                    By   /s/  Stephen B. Millis
+Stephen B. Millis
+                                                     Chief Executive Officer
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-32.2
+<SEQUENCE>5
+<FILENAME>vineyard322exhibit.htm
+<DESCRIPTION>REYNARD CERTIFICATION
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>vineyard322exhibit</TITLE>
+</HEAD>
+<BODY>
+<PRE>
+                                                             <I><U>Exhibit 
+32.2</U>
+<U>Certification Pursuant to</U>
+                             <U>18 U.S.C. Section 1350</U>
+                             <U>as Adopted Pursuant to</U>
+                  <U>Section 906 of the Sarbanes-Oxley Act of 2002</U></I>
+In connection with the Quarterly Report of Vineyard Oil &amp; Gas, Inc.
+(the "Company") on Form 10-QSB for the period ended March 31, 2003 as filed with
+the Securities and Exchange Commission on the date hereof (the "Report"), I,
+James M. Reynard, as Treasurer of the Company, certify, pursuant to 18 U.S.C.
+Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of
+2002, that:
+(1) The Report fully complies with the requirements of section 13(a) or
+15(d) of the Securities Exchange Act of 1934; and
+(2) The information contained in the Report fairly presents, in all
+material respects, the financial condition and results of operations of the
+Company.
+December 23, 2005                                    By   /s/  James M. Reynard
+James M. Reynard
+                                                     Treasurer
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

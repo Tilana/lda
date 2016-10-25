@@ -1,0 +1,517 @@
+
+<SEC-DOCUMENT>0001143313-12-000052.txt : 20120706
+<SEC-HEADER>0001143313-12-000052.hdr.sgml : 20120706
+<ACCEPTANCE-DATETIME>20120706134555
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+CONFIRMING COPY:
+PUBLIC DOCUMENT COUNT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+0001143313-12-000052
+20120706
+20120706
+25-NSE
+2
+SUBJECT COMPANY:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CHINA NORTH EAST PETROLEUM
+HOLDINGS LTD
+[1311]
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: CRUDE PETROLEUM & NATURAL GAS
+0000787251
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+870638750
+NV
+1231
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 001-34378
+25-NSE
+1934 Act
+BUSINESS ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+445 PARK AVENUE
+10TH FLOOR
+NEW YORK
+NY
+10022
+212-307-3568
+MAIL ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+445 PARK AVENUE
+10TH FLOOR
+NEW YORK
+NY
+10022
+FORMER COMPANY:
+FORMER CONFORMED NAME: DRACO HOLDING CORP/NV
+DATE OF NAME CHANGE:
+20000420
+FORMER COMPANY:
+FORMER CONFORMED NAME: DRACO CORP
+DATE OF NAME CHANGE:
+20000420
+FILED BY:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+IRS NUMBER:
+FILING VALUES:
+FORM TYPE:
+25-NSE
+NYSE MKT LLC
+0001143313
+522127241
+BUSINESS ADDRESS:
+STREET 1:
+CITY:
+STATE:
+20 BROAD STREET, 17TH FLOOR
+NEW YORK
+NY
+ZIP:
+BUSINESS PHONE:
+10005
+212-656-5024
+MAIL ADDRESS:
+STREET 1:
+CITY:
+STATE:
+ZIP:
+FORMER COMPANY:
+20 BROAD STREET, 17TH FLOOR
+NEW YORK
+NY
+10005
+FORMER CONFORMED NAME: NYSE Amex
+DATE OF NAME CHANGE:
+20090402
+FORMER COMPANY:
+FORMER CONFORMED NAME: NYSE Alternext US LLC
+DATE OF NAME CHANGE:
+20081009
+FORMER COMPANY:
+FORMER CONFORMED NAME: AMERICAN STOCK EXCHANGE LLC
+DATE OF NAME CHANGE:
+20010620
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>25-NSE
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<notificationOfRemoval>
+<schemaVersion>X0203</schemaVersion>
+<exchange>
+        <cik>0001143313</cik>
+        <entityName>NYSE MKT LLC</entityName>
+    </exchange>
+<issuer>
+        <cik>0000787251</cik>
+        <entityName>CHINA NORTH EAST PETROLEUM HOLDINGS LTD</entityName>
+        <fileNumber>001-34378</fileNumber>
+        <address>
+            <street1>445 Park Avenue</street1>
+            <street2></street2>
+            <city>New York</city>
+            <stateOrCountryCode>NY</stateOrCountryCode>
+            <stateOrCountry>NEW YORK</stateOrCountry>
+            <zipCode>10022</zipCode>
+        </address>
+        <telephoneNumber>(212) 307-3568</telephoneNumber>
+    </issuer>
+<descriptionClassSecurity>Common Stock, $0.001 par 
+value</descriptionClassSecurity>
+<ruleProvision>17 CFR 240.12d2-2(b)</ruleProvision>
+<signatureData>
+        <signatureName>Janice O'Neill</signatureName>
+        <signatureTitle>Senior Vice President, Corporate 
+Compliance</signatureTitle>
+        <signatureDate>2012-07-06</signatureDate>
+    </signatureData>
+</notificationOfRemoval>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.25
+<SEQUENCE>2
+<FILENAME>neplform2507062012.htm
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>AMERICAN STOCK EXCHANGE LLC</TITLE>
+<META NAME="author" CONTENT="mmcsweeny">
+<META NAME="date" CONTENT="07/06/2012">
+</HEAD>
+<BODY style="line-height:12pt; font-family:Times New Roman; font-size:10pt; 
+color:#000000">
+<DIV style="width:439.2pt"><P style="line-height:13pt; margin:0pt; padding-
+right:-13.5pt; font-size:11pt" align=center><B><U>NYSE MKT LLC</U></B></P>
+<P style="margin:0pt" align=center><BR></P>
+<P style="line-height:13pt; margin:0pt; padding-right:-13.5pt; font-size:11pt" 
+align=center>DETERMINATION AND NOTIFICATION OF REMOVAL FROM LISTING</P>
+<P style="line-height:13pt; margin:0pt; padding-right:-13.5pt; font-size:11pt" 
+align=center>AND/OR REGISTRATION UNDER SECTION 12(b) OF THE</P>
+<P style="line-height:13pt; margin:0pt; padding-right:-13.5pt; font-size:11pt" 
+align=center>SECURITIES EXCHANGE ACT OF 1934</P>
+<P style="line-height:13pt; margin:0pt; padding-right:-13.5pt; font-size:11pt" 
+align=center>Attachment to Form 25</P>
+<P style="margin:0pt" align=center><BR></P>
+<P style="line-height:13pt; margin:0pt; padding-right:-13.5pt; font-size:11pt" 
+align=center><U>July 6, 2012</U></P>
+<P style="margin:0pt"><BR></P>
+<P style="line-height:13pt; margin:0pt; text-indent:36pt; font-size:11pt" 
+align=justify>Pursuant to Section 12(d) of the Securities Exchange Act of 1934 
+and Rule 12d2-2(b) promulgated thereunder, NYSE MKT LLC (&#147;NYSE MKT&#148; or
+the &#147;Exchange&#148;), has determined to strike from listing and 
+registration on the Exchange the following:</P>
+<P style="margin:0pt"><BR></P>
+<P style="line-height:13pt; margin:0pt; font-size:11pt" align=center><B>China 
+North East Petroleum Holdings Limited</B></P>
+<P style="line-height:13pt; margin:0pt; font-size:11pt" align=center><U>Common 
+Stock, $0.001 Par Value</U></P>
+<P style="line-height:13pt; margin:0pt; font-size:11pt" 
+align=center><U>Commission File Number &#150; 001-34378</U></P>
+<P style="margin:0pt"><BR></P>
+<P style="line-height:13pt; margin-top:0pt; margin-bottom:-13pt; font-size:11pt"
+align=justify>1.</P>
+<P style="line-height:13pt; margin:0pt; text-indent:36pt; font-size:11pt" 
+align=justify>The standards of the Exchange provide, among other things, that 
+consideration may be given to the removal of a security when: (i) the financial 
+condition and/or operating results of the issuer appear to be unsatisfactory; 
+(ii) the issuer has failed to comply with its listing agreements with the 
+Exchange; or (iii) any other event shall occur or any condition shall exist 
+which makes further dealings on the Exchange unwarranted.</P>
+<P style="margin:0pt" align=justify><BR></P>
+<P style="line-height:13pt; margin:0pt; text-indent:36pt; font-size:11pt" 
+align=justify>In applying these standards, the Exchange gives consideration to 
+delisting the securities of a company that is not in compliance with or is 
+subject to: </P>
+<P style="margin:0pt" align=justify><BR></P>
+<P style="line-height:13pt; margin-top:0pt; margin-bottom:-13pt; padding-
+left:56.15pt; text-indent:-18.75pt; font-size:11pt" align=justify>(a)</P>
+<P style="line-height:13pt; margin:0pt; padding-left:56.15pt; font-size:11pt" 
+align=justify>Section 120 of the NYSE MKT Company Guide (the &#147;Company
+Guide&#148;) which requires listed companies to subject related party 
+transactions to appropriate review and oversight by the Company&#146;s audit 
+committee or a comparable body of the board of directors;</P>
+<P style="margin:0pt" align=justify><BR></P>
+<P style="line-height:13pt; margin-top:0pt; margin-bottom:-13pt; padding-
+left:56.15pt; text-indent:-18.75pt; font-size:11pt" align=justify>(b)</P>
+<P style="line-height:13pt; margin:0pt; padding-left:56.15pt; font-size:11pt" 
+align=justify>Section 127 of the Company Guide which grants the Exchange the 
+discretion to delist a company when the issuer and/or an individual associated 
+with the issuer has a history of regulatory misconduct;</P>
+<P style="margin:0pt" align=justify><BR></P>
+<P style="line-height:13pt; margin-top:0pt; margin-bottom:-13pt; padding-
+left:56.15pt; text-indent:-18.75pt; font-size:11pt" align=justify>(c)</P>
+<P style="line-height:13pt; margin:0pt; padding-left:56.15pt; font-size:11pt" 
+align=justify>Section 132(e) of the Company Guide which provides that the 
+Exchange may request any additional information or documentation, public or non-
+public, deemed necessary to make a determination regarding a security&#146;s 
+continued listing, including but not limited to, any material provided to or 
+received from the Securities and Exchange Commission (the &#147;SEC&#148; or 
+&#147;Commission&#148;) or other appropriate regulatory authority. A listed 
+company may be delisted if it fails to provide such information within a 
+reasonable period of time or if any communication (including communications made
+in connection with an initial listing application) to the Exchange contains a 
+material misrepresentation or omits material information necessary to make the 
+communication to the Exchange not misleading;</P>
+<P style="margin:0pt"><BR></P>
+<P style="line-height:13pt; margin-top:0pt; margin-bottom:-13pt; padding-
+left:56.15pt; text-indent:-18.75pt; font-size:11pt" align=justify>(d)</P>
+<P style="line-height:13pt; margin:0pt; padding-left:56.15pt; font-size:11pt" 
+align=justify>Sections 134 and 1101 of the Company Guide which requires listed 
+issuers to comply with applicable SEC requirements with respect to the filing of
+reports and other documents through the SEC's Electronic Data Gathering Analysis
+and Retrieval (&quot;EDGAR&quot;) system;</P>
+<P style="margin:0pt"><BR></P>
+<P style="line-height:13pt; margin-top:0pt; margin-bottom:-13pt; padding-
+left:56.15pt; text-indent:-18.75pt; font-size:11pt" align=justify>(e)</P>
+<P style="line-height:13pt; margin:0pt; padding-left:56.15pt; font-size:11pt" 
+align=justify>Section 803(B)(2)(a) of the Company Guide which states that each 
+issuer must have, and certify that it has and will continue to have, an audit 
+committee comprised of at least three members;</P>
+<P style="margin:0pt"><BR></P>
+<P style="line-height:13pt; margin-top:0pt; margin-bottom:-13pt; padding-
+left:56.15pt; text-indent:-18.75pt; font-size:11pt" align=justify>(f)</P>
+<P style="line-height:13pt; margin:0pt; padding-left:56.15pt; font-size:11pt" 
+align=justify>Section 1003(d) of the Company Guide which states that the 
+securities of an issuer failing to comply with its listing or other agreements 
+with the Exchange and/or SEC requirements in any material respect (<I>e.g.</I>, 
+failure to distribute annual reports when due, failure to report interim 
+earnings, failure to observe Exchange policies regarding timely disclosure of 
+important corporate developments, failure to solicit proxies, issuance of 
+additional shares of a listed class without prior listing thereof, failure to 
+obtain shareholder approval of corporate action where required by Exchange rules
+or policies, failure to provide requested information within a reasonable period
+of time or providing information that contains a material misrepresentation or 
+omits material information necessary to make the communication to the Exchange 
+not misleading, etc.) are subject to suspension from dealings and, unless prompt
+corrective action is taken, removal from listing; and</P>
+<P style="margin:0pt"><BR></P>
+<P style="line-height:13pt; margin-top:0pt; margin-bottom:-13pt; padding-
+left:56.15pt; text-indent:-18.75pt; font-size:11pt" align=justify>(g)</P>
+<P style="line-height:13pt; margin:0pt; padding-left:56.15pt; font-size:11pt" 
+align=justify>Section 1003(f)(iii) of the Company Guide which provides that the 
+Exchange will normally consider suspending dealings in, or removing from the 
+list, a security if the issuer or its management shall engage in operations
+which, in the opinion of the Exchange, are contrary to the public interest.</P>
+<P style="margin:0pt"><BR></P>
+<P style="line-height:13pt; margin-top:0pt; margin-bottom:-13pt; padding-
+left:36pt; text-indent:-36pt; font-size:11pt" align=justify>2.</P>
+<P style="line-height:13pt; margin:0pt; padding-left:36pt; font-size:11pt" 
+align=justify>The common stock of China North East Petroleum Holdings Limited 
+(the &#147;Company&#148;) does not qualify for continued listing for the 
+following reasons:</P>
+<P style="margin:0pt" align=justify><BR></P>
+<P style="line-height:13pt; margin-top:0pt; margin-bottom:-13pt; padding-
+left:54pt; text-indent:-18pt; font-size:11pt" align=justify>(a)</P>
+<P style="line-height:13pt; margin:0pt; padding-left:54pt; font-size:11pt" 
+align=justify>The Company is subject to delisting pursuant to Section 120 of the
+Company Guide in that the Company or its management has failed to adequately 
+control related party transactions. &nbsp;Specifically, Section 120 of the 
+Company Guide requires listed companies to &#147;subject related party 
+transactions to appropriate review and oversight by the Company&#146;s Audit 
+Committee or a comparable body of the Board of Directors.&#148; &nbsp;In that 
+regard, the Company failed to provide proof of board and audit committee 
+approvals in connection with various related party transactions including 
+transactions totaling approximately $39 million in 2009 that were previously 
+identified by John Lees &amp; Associates Limited (&#147;JLA&#148;).</P>
+<P style="margin:0pt"><BR></P>
+<P style="line-height:13pt; margin:0pt; padding-left:54pt; font-size:11pt" 
+align=justify>Despite certain remedial actions announced by the Company after 
+the revelations contained in the JLA report, the Company has repeatedly failed 
+to have adequate board and committee control.</P>
+<P style="margin:0pt" align=justify><BR></P>
+<P style="line-height:13pt; margin-top:0pt; margin-bottom:-13pt; padding-
+left:54pt; text-indent:-18pt; font-size:11pt" align=justify>(b)</P>
+<P style="line-height:13pt; margin:0pt; padding-left:54pt; font-size:11pt" 
+align=justify>The activity described above also subjects the Company to 
+delisting pursuant to Section 127 of the Company Guide, which grants the 
+Exchange the discretion to delist a company when &#147;the issuer and/or an 
+individual associated with the issuer has a history of regulatory 
+misconduct.&#148; &nbsp;Staff believes that, especially in light of its 
+continuing nature, the regulatory misconduct described above raises public 
+interest concerns warranting delisting under Section 127 of the Company 
+Guide.</P>
+<P style="margin:0pt" align=justify><BR></P>
+<P style="line-height:13pt; margin-top:0pt; margin-bottom:-13pt; padding-
+left:54pt; text-indent:-18pt; font-size:11pt" align=justify>(c)</P>
+<P style="line-height:13pt; margin:0pt; padding-left:54pt; font-size:11pt" 
+align=justify>The Company is subject to delisting pursuant to Section 132(e) of 
+the Company Guide in that it has failed to provide requested information to the 
+Exchange within a reasonable time frame and/or has provided information to the 
+Exchange that omitted material information. &nbsp;Notwithstanding reasonable 
+extensions of time, the Company has only responded to two of seventeen requests 
+in Staff&#146;s February 9, 2012 letter (the &#147;February 9 Request&#148;), 
+has refused to provide any information with respect certain categories of 
+requests in the February 9 Request, and has stated with respect to the remaining
+categories of information that it &#147;is unable to specify exactly when&#148; 
+it would be able to respond. &nbsp;The Company&#146;s refusal to provide the 
+requested information has impaired Staff&#146;s ongoing assessment of the 
+Company&#146;s continued listing eligibility. &nbsp;The Company has had more 
+than a reasonable period of time to respond to the February 9 Request, and its 
+failure to do so is an independent ground for delisting under Section 
+132(e).</P>
+<P style="margin:0pt"><BR></P>
+<P style="line-height:13pt; margin-top:0pt; margin-bottom:-13pt; padding-
+left:54pt; text-indent:-18pt; font-size:11pt" align=justify>(d)</P>
+<P style="line-height:13pt; margin:0pt; padding-left:54pt; font-size:11pt" 
+align=justify>Staff has determined that the Company is not in compliance with 
+Sections 134 and 1101 of the Company Guide based on its failure to file its Form
+10-K for the year ended December 31, 2011. &nbsp;Due to the unavailability of 
+reliable financial information and the uncertainty of when the Company will make
+its required filing, Staff has determined that continued listing of the Company 
+would be inconsistent with applicable Exchange listing standards.</P>
+<P style="margin:0pt"><BR></P>
+<P style="line-height:13pt; margin-top:0pt; margin-bottom:-13pt; padding-
+left:54pt; text-indent:-18pt; font-size:11pt" align=justify>(e)</P>
+<P style="line-height:13pt; margin:0pt; padding-left:54pt; font-size:11pt" 
+align=justify>The Company is also subject to delisting pursuant to Section 
+1003(d) which authorizes Staff to initiate delisting proceedings when a listed 
+Company fails &#147;to comply with its listing or other agreements with the 
+Exchange and/or SEC Requirements in any material respect.&#148; 
+&nbsp;Specifically, the Company or its management has failed to accurately and 
+adequately disclose certain related party transactions in its public filings 
+including the business reasons for or the risks associated with corporate funds 
+flowing through personal bank accounts of company executives to pay for expenses
+..
+<STRIKE>;</STRIKE>
+</P>
+<P style="margin:0pt" align=justify><BR></P>
+<P style="line-height:13pt; margin:0pt; padding-left:54pt; font-size:11pt" 
+align=justify>The Company also failed to comply with Staff information requests 
+as described above. &nbsp;Therefore, Staff believes that the Company has failed 
+to comply with its listing agreement and/or other agreements with the Exchange, 
+as well as with relevant SEC requirements.</P>
+<P style="margin:0pt"><BR></P>
+<P style="line-height:13pt; margin-top:0pt; margin-bottom:-13pt; padding-
+left:54pt; text-indent:-18pt; font-size:11pt" align=justify>(f)</P>
+<P style="line-height:13pt; margin:0pt; padding-left:54pt; font-size:11pt" 
+align=justify>The Company is also subject to delisting pursuant to Section 
+1003(f)(iii) of the Company Guide in that the Company or its management has 
+engaged in operations, which, in the opinion of the Exchange, are contrary to 
+the public interest. &nbsp;In this regard, Staff believes that the actions 
+(including, but not limited to, inaction) of the Company and/or its management 
+and/or its agents raise significant public interest concerns. &nbsp;As outlined 
+above, the JLA Report found transactions totaling approximately $39 million in 
+2009, without appropriate board approval, including transfers into and through 
+the personal bank accounts of Mr. Hongjun Wang, the Company&#146;s then chief 
+executive officer, and Ms. Guizhi Ju, mother of Mr. Wang and a then director of 
+the Company. &nbsp;Further, even after the Company&#146;s announcement of 
+certain remedial actions taken in response to the JLA report, there appeared to 
+have been a continued lack of internal controls, allowing activities that raise 
+public interest concerns to occur.</P>
+<P style="margin:0pt" align=justify><BR></P>
+<P style="line-height:13pt; margin:0pt; padding-left:54pt; font-size:11pt" 
+align=justify>These actions by the Company and/or its management and/or its 
+agents cast material doubt on the integrity of the Company&#146;s financial 
+statements. &nbsp;Further, the decision by the SEC to temporarily suspend 
+trading in the Company&#146;s securities
+in March 2012
+casts additional doubt on whether the Company&#146;s financial performance is 
+accurately portrayed by its financial statements. &nbsp;Thus, continued listing 
+of the Company&#146;s securities on the Exchange would not be in the public 
+interest.</P>
+<P style="line-height:13pt; margin-top:0pt; margin-bottom:-13pt; font-size:11pt"
+align=justify>3.</P>
+<P style="line-height:13pt; margin:0pt; text-indent:36pt; font-size:11pt" 
+align=justify>In reviewing the eligibility of the Company&#146;s common stock
+for continued listing, the Exchange has complied with its standards and 
+procedures as follows: </P>
+<P style="margin:0pt" align=justify><BR></P>
+<P style="line-height:13pt; margin-top:0pt; margin-bottom:-13pt; padding-
+left:54pt; text-indent:-18pt; font-size:11pt" align=justify>(a)</P>
+<P style="line-height:13pt; margin:0pt; padding-left:54pt; font-size:11pt" 
+align=justify>On December 5, 2011, the Exchange notified the Company that, as a 
+result of the retirement of Mr. Edward Rule as a member of the audit committee, 
+it was not in compliance with Section 803(B)(2)(a) in that it only had two out 
+of the requisite three members on its audit committee. &nbsp;</P>
+<P style="line-height:13pt; margin:0pt; padding-left:54pt; font-size:11pt" 
+align=justify>&nbsp;&nbsp;</P>
+<P style="line-height:13pt; margin-top:0pt; margin-bottom:-13pt; padding-
+left:54pt; padding-right:-2.7pt; text-indent:-18pt; font-size:11pt" 
+align=justify>(b)</P>
+<P style="line-height:13pt; margin:0pt; padding-left:54pt; padding-right:-2.7pt;
+font-size:11pt" align=justify>The Company has not cooperated with Staff&#146;s 
+review of the Company&#146;s ongoing suitability for continued listing. &nbsp;To
+date, the Company has failed to provide Staff with the information and materials
+requested in a series of information requests issued pursuant to Section 132(e) 
+of the Company Guide since February 9, 2012. &nbsp;</P>
+<P style="margin:0pt" align=justify><BR></P>
+<P style="line-height:13pt; margin-top:0pt; margin-bottom:-13pt; padding-
+left:54pt; text-indent:-18pt; font-size:11pt" align=justify>(c)</P>
+<P style="line-height:13pt; margin:0pt; padding-left:54pt; font-size:11pt" 
+align=justify>On April 4, 2012, the Exchange notified the Company that it is 
+subject to delisting pursuant to Sections 132(e) and 1003(d) of the Company 
+Guide, as the Company failed to comply with its listing agreement and/or other 
+agreements with the Exchange by not providing the requested information to the 
+Exchange within a reasonable time frame.&nbsp; Furthermore, in light of the 
+nature and severity of the Company&#146;s continued listing deficiencies, Staff 
+has determined in accordance with Section 1009(a)(ii) that it was necessary and 
+appropriate for the protection of investors to truncate the continued listing 
+evaluation and follow-up procedures and move to immediate delisting proceedings 
+(the &#147;Staff Determination&#148;). &nbsp;The Exchange&#146;s letter dated 
+April 4, 2012 also notified the Company of additional deficiencies with respect 
+to Sections 120, 127, 134, 1003(f)(iii) and 1101 of the Company Guide.</P>
+<P style="margin:0pt" align=justify><BR></P>
+<P style="line-height:13pt; margin-top:0pt; margin-bottom:-13pt; padding-
+left:56.1pt; text-indent:-18pt; font-size:11pt" align=justify>(d)</P>
+<P style="line-height:13pt; margin:0pt; padding-left:56.1pt; text-indent:-2.1pt;
+font-size:11pt" align=justify>Pursuant to Sections 1203 and 1009(d) of the 
+Company Guide, the Company was given the right to request a hearing before a 
+Listing Qualifications Panel (the &#147;Panel&#148;) within seven calendar days 
+of the Staff Determination, or by April 11, 2012. &nbsp;</P>
+<P style="margin:0pt"><BR></P>
+<P style="line-height:13pt; margin-top:0pt; margin-bottom:-13pt; padding-
+left:54pt; text-indent:-18pt; font-size:11pt" align=justify>(e)</P>
+<P style="line-height:13pt; margin:0pt; padding-left:54pt; font-size:11pt" 
+align=justify>On April 10, 2012, the Company requested, pursuant to Sections 
+1203 and 1009(d) of the Company Guide, an oral hearing to appeal the Staff 
+Determination. &nbsp;</P>
+<P style="margin:0pt" align=justify><BR></P>
+<P style="line-height:13pt; margin-top:0pt; margin-bottom:-13pt; padding-
+left:54pt; text-indent:-18pt; font-family:CG Times; font-size:11pt" 
+align=justify><FONT FACE="CG Times">(f)</FONT></P>
+<P style="line-height:13pt; margin:0pt; padding-left:54pt; font-family:CG Times;
+font-size:11pt" align=justify>On June 12, 2012, a hearing, at which the 
+Company&#146;s representatives were present, was conducted before the Panel. 
+&nbsp;By letter dated June 19, 2012, the Exchange notified the Company of the 
+Panel&#146;s decision to deny the Company&#146;s appeal for continued listing of
+its Common Stock on NYSE MKT and to authorize delisting proceedings. &nbsp;The 
+letter also informed the Company of its right, in accordance with Section 1205 
+of the Company Guide, to request that the Exchange&#146;s Committee on
+Securities review the Panel&#146;s decision within fifteen days.</P>
+<P style="margin:0pt" align=justify><BR></P>
+<P style="line-height:13pt; margin-top:0pt; margin-bottom:-13pt; padding-
+left:56.1pt; text-indent:-18pt; font-family:CG Times; font-size:11pt" 
+align=justify>(g)</P>
+<P style="line-height:13pt; margin:0pt; padding-left:56.1pt; text-indent:-2.1pt;
+font-family:CG Times; font-size:11pt" align=justify>The Company did not appeal 
+the Panel&#146;s decision to the Committee on Securities within the requisite 
+time period or at all and has not otherwise regained compliance with the 
+continued listing standards.</P>
+<P style="margin:0pt" align=justify><BR></P>
+<P style="line-height:13pt; margin:0pt; font-size:11pt" align=justify><FONT 
+FACE="Times New Roman">Accordingly, the Exchange, having complied with all of 
+its procedures, is authorized to file this application in accordance with 
+Section 12 of the Securities Exchange Act of 1934 and the rules promulgated 
+thereunder. </FONT></P>
+<P style="margin:0pt" align=justify><BR></P>
+<P style="line-height:13pt; margin-top:0pt; margin-bottom:-13pt; font-size:11pt"
+align=justify>4.</P>
+<P style="line-height:13pt; margin:0pt; text-indent:36pt; font-size:11pt" 
+align=justify>In the opinion of the Exchange, all of the material facts relating
+to the reasons for this application are contained herein.</P>
+<P style="line-height:13pt; margin-top:0pt; margin-bottom:-13pt; font-size:11pt"
+align=justify>5.</P>
+<P style="line-height:13pt; margin:0pt; text-indent:36pt; font-size:11pt" 
+align=justify>The Exchange official whose signature is set forth below is duly 
+authorized to file this application.</P>
+<P style="margin:0pt" align=justify><BR></P>
+<P style="line-height:13pt; margin-top:0pt; margin-bottom:-13pt; font-size:11pt"
+align=justify>6.</P>
+<P style="line-height:13pt; margin:0pt; text-indent:36pt; font-size:11pt" 
+align=justify>In accordance with the provisions of Rule 12d2-2, the Exchange has
+issued public notice of its final determination to remove the Company&#146;s 
+common stock from listing and/or registration by issuing a press release and 
+posting notice on <FONT COLOR=#0000FF><U>www.nyx.com</U></FONT>. &nbsp;Further, 
+a copy of this application has been forwarded to Mr. Jingfu Li, Acting Chief 
+Executive Officer of China North East Petroleum Holdings Limited.</P>
+<P style="margin:0pt" align=justify><BR></P>
+<P style="margin:0pt"><BR></P>
+<P style="margin:0pt"><BR></P>
+<P style="margin:0pt"><BR></P>
+<P style="margin:0pt"><BR></P>
+<P style="line-height:13pt; margin:0pt; font-size:11pt">Janice O&#146;Neill</P>
+<P style="line-height:13pt; margin:0pt; font-size:11pt">Senior Vice 
+President</P>
+<P style="line-height:13pt; margin:0pt; font-size:11pt">Corporate Compliance</P>
+<P style="line-height:13pt; margin:0pt; font-size:11pt">NYSE MKT LLC</P>
+<P style="margin:0pt"><BR>
+<BR></P>
+</DIV></BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,509 @@
+
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ QYssByFU75jQV75XxUt3+p2Dzu/S+/HPHuQjh5TqhW0a6UosikkfpYFrd91HpEoF
+ aenyk0z18ItYcVL+Mfa+aw==
+<SEC-DOCUMENT>0001010412-05-000486.txt : 20051230
+<SEC-HEADER>0001010412-05-000486.hdr.sgml : 20051230
+<ACCEPTANCE-DATETIME>20051230130207
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+10QSB
+4
+20031231
+0001010412-05-000486
+20051230
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: RETAIL-LUMBER & OTHER BUILDING
+WESTCOTT PRODUCTS CORP
+0000845819
+MATERIALS DEALERS [5211]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+870409906
+DE
+0930
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 001-10171
+FILM NUMBER:
+10QSB
+1934 Act
+051293695
+BUSINESS ADDRESS:
+STREET 1:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+ONE WEST LOOP SOUTH STE 100
+HOUSTON
+TX
+77227
+7136840576
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10QSB
+<SEQUENCE>1
+<FILENAME>q1203.txt
+<DESCRIPTION>QUARTERLY REPORT ON FORM 10QSB FOR THE QUARTER ENDED DECEMBER 31, 
+2003
+<TEXT>
+            UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C.  20549
+FORM 10-QSB
+[X]  QUARTERLY REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES
+     EXCHANGE ACT OF 1934
+For the quarterly period ended December 31, 2003
+[ ]  TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE EXCHANGE ACT
+For the transition period from ____________  to____________
+Commission File No. 001-10171
+WESTCOTT PRODUCTS CORPORATION
+                        -----------------------------
+                (Name of Small Business Issuer in its Charter)
+Delaware                                       80-0000245
+        --------                                       ----------
+(State or Other Jurisdiction of                  (I.R.S. Employer I.D. No.)
+ incorporation or organization)
+8867 South Capella Way
+                               Sandy, Utah 84093
+                               -----------------
+                   (Address of Principal Executive Offices)
+Issuer's Telephone Number:  (801) 631-7969
+Securities Registered under Section 12(b) of the Exchange Act: None
+Securities Registered under Section 12(g) of the Exchange Act:
+Common stock, $0.001 par value
+                        ------------------------------
+Check whether the Company (1) filed all reports required to be filed by
+Section 13 or 15(d) of the Exchange Act during the past 12 months (or for such
+shorter period that the Company was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days.   Yes [ ]
+No [ ]   Yes [X]    No  [ ]
+Indicate by check mark whether the registrant is a shell company (as
+defined in Rule 12b-2 of the Exchange Act).  Yes X    No
+                                                ---     ---
+APPLICABLE ONLY TO ISSUERS INVOLVED IN BANKRUPTCY
+                PROCEEDINGS DURING THE PRECEDING FIVE YEARS
+Not applicable.
+APPLICABLE ONLY TO CORPORATE ISSUERS
+Indicate the number of shares outstanding of each of the Registrant's
+classes of common stock, as of the latest practicable date:
+March 1, 2005
+27,527,980 shares
+Transitional Small Business Disclosure Format (Check one):  Yes  X  No
+                                                                ---   ---
+<PAGE>
+PART I - FINANCIAL INFORMATION
+Item 1.   Condensed Financial Statements.
+<PAGE>
+                       Westcott Products Corporation
+[A Development Stage Company]
+                         Condensed Balance Sheet
+                            December 31, 2003
+ASSETS
+Assets
+  Current Assets
+     Cash                                                $   4,889
+                                                         ---------
+           Total Current Assets                              4,889
+                                                         ---------
+                            Total Assets                 $   4,889
+                                                         =========
+               LIABILITIES AND STOCKHOLDERS' DEFICIT
+Liabilities:
+  Current Liabilities:
+  Accrued liabilities                                    $  56,719
+  Payable to shareholders - Note 3                           9,237
+                                                         ---------
+           Total Current Liabilities                        65,956
+                                                         ---------
+                         Total Liabilities                  65,956
+Stockholders' Deficit:
+  Preferred Stock   50,000,000 shares authorized having
+  a par value of $.01, $1.00 liquidation value; 3,000,000
+  issued and outstanding                                    30,000
+  Capital Stock   50,000,000 shares authorized having a
+   par value of $.001 per share; 27,527,980 shares issued
+   and outstanding - Note 4                                 27,528
+  Additional Paid-in Capital                             2,758,685
+  Accumulated Deficit                                   (2,867,932)
+  Deficit accumulated in development stage                  (9,348)
+                                                        ----------
+                    Total Stockholders' Deficit            (61,067)
+                                                        ----------
+            Total Liabilities and Stockholders' Deficit $    4,889
+                                                        ==========
+See accompanying notes to financial statements.
+                               F-1
+<PAGE>
+                   Westcott Products Corporation
+                   [A Development Stage Company]
+                Condensed Statements of Operations
+   For the three month periods ended December 31, 2003 and 2002 and for the
+     period from Reactivation [October 1999] through December 31, 2003
+Three          Three     Period from
+                                         Months         Months    Reactivation
+                                         Ended          Ended        through
+                                      12/31/2003     12/31/2002    12/31/2003
+                                      ---------        -------       --------
+Revenues                              $       0        $     0       $      0
+General & Administrative Expenses            60          1,156          9,348
+                                      ---------        -------       --------
+        Operating Income (Loss)             (60)        (1,156)        (9,348)
+                                      ---------        -------       --------
+    Net Loss Before Income Taxes            (60)        (1,156)        (9,348)
+Current Year Provision for Income Taxes       0              0              0
+                                      ---------        -------       --------
+Net Income (Loss)                     $     (60)       $(1,156)      $ (9,348)
+                                      =========        =======       ========
+Loss Per Common Share                 $    (.01)       $  (.01)      $   (.01)
+                                      =========        =======       ========
+Weighted Average Shares Outstanding  27,527,980     27,527,980     26,188,988
+                                     ==========     ==========     ==========
+See accompanying notes to financial statements.
+                               F-2
+<PAGE>
+Westcott Products Corporation
+                   [A Development Stage Company]
+                 Condensed Statements of Cash Flows
+   For the three month periods ended December 31, 2003 and 2002 and for the
+       period from Reactivation [October 1999] through December 31, 2003
+Three          Three     Period from
+                                         Months         Months    Reactivation
+                                         Ended          Ended        through
+                                      12/31/2003     12/31/2002    12/31/2003
+                                      ---------        -------       --------
+Cash Flows from Operating Activities
+Net Loss                              $     (60)       $(1,156)      $ (9,348)
+Adjustments to reconcile net loss to
+net cash provided by operating
+activities:
+     Increase in current liabilities         60          1,156          9,237
+                                      ---------        -------       --------
+         Net Cash Used in Operating
+         Activities                           0              0           (111)
+Cash Flows from Financing Activities
+Proceeds from issuance of common stock        0              0         15,000
+Principal payments on loans                   0              0        (10,000)
+                                      ---------        -------       --------
+         Net Cash Provided by Financing
+         Activities                           0              0          5,000
+                                      ---------        -------       --------
+       Net Increase/(Decrease) in Cash        0              0          4,889
+Beginning Cash Balance                    4,889          4,899              0
+                                      ---------        -------       --------
+Ending Cash Balance                   $   4,889        $ 4,899       $  4,889
+                                      =========        =======       ========
+Supplemental Disclosure of Cash Flow Information:
+  Cash paid during the year for
+  interest                            $       0        $     0       $      0
+  Cash paid during the year for income
+  taxes                                       0              0              0
+See accompanying notes to financial statements.
+                               F-3
+<PAGE>
+                   Westcott Products Corporation
+                   [A Development Stage Company]
+              Notes to Condensed Financial Statements
+December 31, 2003
+NOTE 1    BASIS OF PRESENTATION
+The accompanying financial statements have been prepared without
+         audit, pursuant to the rules and regulations of the Securities and
+         Exchange Commission.  The interim financial statements reflect all
+         adjustments which, in the opinion of management, are necessary to
+         present a fair statement of the results for the period.
+Certain information and footnote disclosures normally included in
+         financial statements prepared in accordance with generally accepted
+         accounting principles have been condensed or omitted.  It is
+         suggested that these condensed financial statements be read in
+         conjunction with the financial statements and notes thereto included
+         in the Company's Annual Report on Form 10KSB for the year ended
+         September 30, 2003.  The results of operation for the period ended
+         December 31, 2003 are not necessarily indicative of the operating
+         results for the full years.
+NOTE 2    LIQUIDITY/GOING CONCERN
+The Company does not have significant assets, not has it established
+          operations and has accumulated losses since inception.  These
+          factors raise substantial doubt about the Company's ability to
+          continue as a going concern.  It is the intent of the Company to
+          seek a merger with an existing, well-capitalized operating company.
+          The financial statements do not include any adjustments that might
+          result from the outcome of this uncertainty.
+NOTE 3    RELATED PARTY TRANSACTIONS
+The Company owes a related party for the expenses paid on their
+          behalf for the period ending December 31, 2003 in the amount of $60.
+          The Company has recorded a liability of $9,237 as of December 31,
+          2003.  The unsecured loan bears no interest and is due on demand.
+NOTE 4    SUBSEQUENT EVENT
+As of November 29, 2005, the Company has been deemed released from a
+          November 11, 1989 Judgment with interest totaling $55,673.22, a
+          December 31, 1986 Federal Tax Lien totaling $506.77, and a December
+          31, 1987 Federal Tax Lien totaling $538.94.  The total amount of
+          $56,719 is the total amount of the reported accrued liabilities.
+                               F-4
+<PAGE>
+ITEM 2.   MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+Plan of Operation.
+- ------------------
+Our Company's plan of operation for the next 12 months is to:(i)
+consider guidelines of industries in which our Company may have an interest;
+(ii) adopt a business plan regarding engaging in business in any selected
+industry; and (iii) to commence such operations through funding and/or the
+acquisition of a "going concern" engaged in any industry selected.
+Our Company's only foreseeable cash requirements during the next 12
+months will relate to maintaining our Company in good standing in the State
+of Delaware, as well as legal and accounting fees.  Management does not
+anticipate that our Company will have to raise additional funds during the
+next 12 months.
+Results of Operations.
+- ----------------------
+Three Months Ended December 31, 2003 compared to Three Months Ended December
+31, 2002.
+- ---------
+In the quarterly period ended December 31, 2003, we had sales of $0,
+compared to the quarterly period ended December 31, 2002, with sales of $0.
+General and administrative expenses were $60 for the December 31, 2003 period
+compared to $1,156 for the December 31, 2002 period.  We had net loss of $60
+for the December 31, 2003 period compared to a net loss of $1,156 for the
+December 31, 2002 period.
+Liquidity and Capital Resources.
+- --------------------------------
+Our total assets as of December 31, 2003, were $4,889.  We do depend
+on a shareholder being able to loan us money to fund our attempt to get and
+maintain our Company current in its filings and if this shareholder is not
+able to loan us the money our ability to continue in our attempt to get and
+maintain our Company current would be substantially reduced.
+Forward-Looking Statements.
+- ---------------------------
+The foregoing discussion contains forward-looking statements that
+discuss, among other things, future expectations and projections regarding
+future developments, operations and financial conditions. All forward-looking
+statements are based on management's existing beliefs about present and future
+events outside of management's control and on assumptions that may prove to be
+incorrect. If any underlying assumptions prove incorrect, Westcott's actual
+results may vary materially from those anticipated, estimated, projected or
+intended.
+Item 3.   Controls and Procedures.
+As of the end of the period covered by this Quarterly Report, we carried
+out an evaluation, under the supervision and with the participation of our
+President and Secretary, of the effectiveness of our disclosure controls and
+procedures.  Based on this evaluation, our President and Secretary concluded
+that our disclosure controls and procedures are effectively designed to ensure
+that information required to be disclosed or filed by us is recorded,
+processed or summarized, with the time periods specified in the rules and
+regulations of the Securities and Exchange Commission.  It should be noted
+that the design of any system of controls is based in part upon certain
+assumptions about the likelihood of future events, and there can be no
+assurance that any design will succeed in achieving its stated goals under all
+potential future conditions, regardless of how remote.  In addition, we
+reviewed our internal controls over financial reporting, and there have been
+no changes in our internal controls or in other factors in the last fiscal
+quarter that has materially affected or is reasonably likely to materially
+affect our internal control over financial reporting.
+PART II - OTHER INFORMATION
+Item 1.   Legal Proceedings.
+None; not applicable.
+Item 2.   Unregistered Sales of Equity Securities and Use of Proceeds.
+None; not applicable.
+Item 3.   Defaults Upon Senior Securities.
+None; not applicable.
+Item 4.   Submission of Matters to a Vote of Security Holders.
+None; not applicable.
+Item 5.   Other Information.
+None; not applicable.
+Item 6.   Exhibits.
+(a) Exhibits.
+31.1 302 Certification of Wayne Bassham
+31.2 302 Certification of Kent Faulkner
+32 906 Certification
+<PAGE>
+SIGNATURES
+In accordance with the requirements of the Exchange Act, the
+Registrant has caused this Quarterly Report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+WESTCOTT PRODUCTS CORPORATION
+Date: 12/26/2005                         By:/s/Wayne Bassham
+      ----------                            ------------------------
+                                            Wayne Bassham
+                                            President and Director
+Date: 12/28/2005                         By:/s/Kent Faulkner
+      ----------                            ------------------------
+                                            Kent Faulkner,
+                                            Secretary and Director
+<PAGE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31
+<SEQUENCE>2
+<FILENAME>ex31-1q.txt
+<DESCRIPTION>302 CERTIFICATION OF WAYNE BASSHAM
+<TEXT>
+CERTIFICATION PURSUANT TO
+         SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+I, Wayne Bassham, President of Westcott Products Corporation (the "small
+business issuer"), certify that:
+1.   I have reviewed this Quarterly Report on Form 10-QSB of the small
+business issuer;
+2.   Based on my knowledge, this report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such
+statements were made, not misleading with respect to the period covered by
+this Quarterly Report;
+3.   Based on my knowledge, the financial statements, and other
+financial information included in this report, fairly present in all
+material respects the financial condition, results of operations and cash
+flows of the small business issuer as of, and for, the periods presented in
+this Quarterly Report;
+4.   The small business issuer's other certifying officer(s) and I are
+responsible for establishing and maintaining disclosure controls and
+procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and
+internal control over financial reporting (as defined in Exchange Act Rules
+13a-15(f) and 15d-15(f)) for the small business issuer and have:
+a)   designed such disclosure controls and procedures, or caused such
+          disclosure controls and procedures to be designed under my
+          supervision, to ensure that material information relating to the
+          small business issuer, including its consolidated subsidiaries, is
+          made known to me by others within those entities, particularly
+          during the period in which this Quarterly Report is being prepared;
+b)   evaluated the effectiveness of the small business issuer's
+          disclosure controls and procedures and presented in this Quarterly
+          Report my conclusions about the effectiveness of the disclosure
+          controls and procedures, as of the end of the period covered by this
+          Quarterly Report based on such evaluation; and
+c)   disclosed in this Quarterly Report any change in the small business
+          issuer's internal control over financial reporting that occurred
+          during the small business issuer's most recent fiscal quarter (the
+          small business issuer's fourth fiscal quarter in the case of an
+          annual report) that has materially affected, or is reasonably likely
+          to materially affect, the small business issuer's internal control
+          over financial reporting; and
+5.   The small business issuer's other certifying officer(s) and I have
+disclosed, based on our most recent evaluation of internal control over
+financial reporting, to the small business issuer's auditors and the audit
+committee of the small business issuer's board of directors (or persons
+performing the equivalent functions);
+a)   all significant deficiencies and material weaknesses in the design
+          or operation of internal control over financial reporting which are
+          reasonably likely to adversely affect the small business issuer's
+          ability to record, process, summarize and report financial
+          information; and
+b)   any fraud, whether or not material, that involves management or
+          other employees who have a significant role in the small business
+          issuer's internal control over financial reporting.
+Dated: 12/26/2005                    Signature:/s/Wayne Bassham
+      -----------                              ----------------------
+                                               Wayne Bassham
+                                               President
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31
+<SEQUENCE>3
+<FILENAME>ex31-2q.txt
+<DESCRIPTION>302 CERTIFICATION OF KENT FAULKNER
+<TEXT>
+                   CERTIFICATION PURSUANT TO
+         SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+I, Kent Faulkner, Secretary of Westcott Products Corporation (the "small
+business issuer"), certify that:
+1.   I have reviewed this Quarterly Report on Form 10-QSB of the small
+business issuer;
+2.   Based on my knowledge, this Quarterly Report does not contain any
+untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such
+statements were made, not misleading with respect to the period covered by
+this Quarterly Report;
+3.   Based on my knowledge, the financial statements, and other
+financial information included in this Quarterly Report, fairly present in all
+material respects the financial condition, results of operations and cash
+flows of the small business issuer as of, and for, the periods presented in
+this Quarterly Report;
+4.   The small business issuer's other certifying officer(s) and I are
+responsible for establishing and maintaining disclosure controls and
+procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and
+internal control over financial reporting (as defined in Exchange Act Rules
+13a-15(f) and 15d-15(f)) for the small business issuer and have:
+a)   designed such disclosure controls and procedures, or caused such
+          disclosure controls and procedures to be designed under my
+          supervision, to ensure that material information relating to the
+          small business issuer, including its consolidated subsidiaries, is
+          made known to me by others within those entities, particularly
+          during the period in which this Quarterly Report is being prepared;
+b)   evaluated the effectiveness of the small business issuer's
+          disclosure controls and procedures and presented in this Quarterly
+          Report my conclusions about the effectiveness of the disclosure
+          controls and procedures, as of the end of the period covered by this
+          Quarterly Report based on such evaluation; and
+c)   disclosed in this Quarterly Report any change in the small business
+          issuer's internal control over financial reporting that occurred
+          during the small business issuer's most recent fiscal quarter (the
+          small business issuer's fourth fiscal quarter in the case of an
+          annual report) that has materially affected, or is reasonably likely
+          to materially affect, the small business issuer's internal control
+          over financial reporting; and
+5.   The small business issuer's other certifying officer(s) and I have
+disclosed, based on our most recent evaluation of internal control over
+financial reporting, to the small business issuer's auditors and the audit
+committee of the small business issuer's board of directors (or persons
+performing the equivalent functions);
+a)   all significant deficiencies and material weaknesses in the design
+          or operation of internal control over financial reporting which are
+          reasonably likely to adversely affect the small business issuer's
+          ability to record, process, summarize and report financial
+          information; and
+b)   any fraud, whether or not material, that involves management or
+          other employees who have a significant role in the small business
+issuer's internal control over financial reporting.
+Dated: 12/28/2005                   Signature:/s/Kent Faulkner
+      -----------                             ----------------------
+                                              Kent Faulkner
+                                              Secretary
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-32
+<SEQUENCE>4
+<FILENAME>ex32q1203.txt
+<DESCRIPTION>906 CERTIFICATION
+<TEXT>
+CERTIFICATION PURSUANT TO
+                     18 U.S.C. SECTION 1350,
+                      AS ADOPTED PURSUANT TO
+          SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+In connection with the Quarterly Report of Westcott Products Corporation (the
+"Registrant") on Form 10-QSB for the period ending December 31, 2003, as filed
+with the Securities and Exchange Commission on the date hereof (the "Quarterly
+Report"), we, Wayne Bassham, President and Kent Faulkner, Secretary of the
+Registrant, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant
+to Section 906 of the Sarbanes-Oxley Act of 2002, that:
+(1) The Quarterly Report fully complies with the requirements of section
+13(a) or 15(d) of the Securities Exchange Act of 1934; and
+(2)  The information contained in the Quarterly Report fairly presents,
+in all material respects, the financial condition and result of operations of
+the Registrant.
+Dated: 12/26/2005                         /s/Wayne Bassham
+      -----------                         -------------------------
+                                          Wayne Bassham
+                                          President and Director
+Dated: 12/28/2005                         /s/Kent Faulkner
+      -----------                         -------------------------
+                                          Kent Faulkner
+                                          Secretary and Director
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

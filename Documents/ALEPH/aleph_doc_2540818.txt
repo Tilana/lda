@@ -1,0 +1,4544 @@
+
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Kv2eVcTQN45pLh/rO5fvHmc/bI4nTW/Hm9YdAc7pNpZz2Pw9GV6fg30JYwk/mNGe
+ xNl0BRVxWqMLrDdjehC0fQ==
+<SEC-DOCUMENT>0000950134-05-020853.txt : 20051108
+<SEC-HEADER>0000950134-05-020853.hdr.sgml : 20051108
+<ACCEPTANCE-DATETIME>20051108141941
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+10-Q
+3
+20050930
+0000950134-05-020853
+20051108
+20051108
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: OIL ROYALTY TRADERS [6792]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+SAN JUAN BASIN ROYALTY TRUST
+0000319655
+756279898
+1231
+TX
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 001-08032
+FILM NUMBER:
+10-Q
+1934 Act
+051185846
+BUSINESS ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+TEXASBANK, TRUST DEPARTMENT
+2525 RIDGMAR BOULEVARD SUITE 100
+FORT WORTH
+TX
+76116
+8668094553
+MAIL ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+TEXASBANK, TRUST DEPARTMENT
+2525 RIDGMAR BOULEVARD SUITE 100
+FORT WORTH
+TX
+76116
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>d30058e10vq.htm
+<DESCRIPTION>FORM 10-Q
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e10vq</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="center" style="font-size: 14pt; margin-top: 12pt"><B>UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+<DIV align="center" style="font-size: 18pt; margin-top: 12pt"><B>FORM 10-Q</B>
+</DIV>
+<DIV align="center">
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%" style="font-size:
+12pt">
+<TR style="font-size: 6pt">
+    <TD width="7%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="88%">&nbsp;</TD>
+</TR>
+<TR valign="top">
+    <TD align="center"><FONT face="Wingdings">&#254;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>Quarterly Report Pursuant to Section&nbsp;13 or 15(d) of the 
+Securities Exchange Act of 1934</B></TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 
+12%"><B>For the Quarterly Period Ended September&nbsp;30, 2005
+</B>
+</DIV>
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>or</B></DIV>
+<DIV align="center">
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%" style="font-size:
+12pt">
+<TR style="font-size: 6pt">
+    <TD width="7%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="88%">&nbsp;</TD>
+</TR>
+<TR valign="top">
+    <TD align="center"><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><B>Transition Report Pursuant to Section&nbsp;13 or 15(d) of the 
+Securities Exchange Act of 1934</B></TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 
+12%"><B>For the transition period from 
+<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> to 
+<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>
+</B>
+</DIV>
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>Commission File
+No.&nbsp;1-8032</B></DIV>
+<DIV align="center" style="font-size: 24pt; margin-top: 12pt"><B>SAN JUAN BASIN 
+ROYALTY TRUST</B>
+</DIV>
+<DIV align="center" style="font-size: 10pt">(Exact name of registrant as 
+specified in the
+Amended and Restated San Juan Basin Royalty Trust Indenture)</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="47%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="47%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top">Texas
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">75-6279898</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(State or other jurisdiction
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(I.R.S. Employer</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">of incorporation or organization)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Identification No.)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="100%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="100%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top">TexasBank, Trust Department</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">2525 Ridgmar Boulevard, Suite&nbsp;100</TD>
+</TR>
+<TR valign="bottom">
+<TD align="center" valign="top">Fort Worth, Texas 76116</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(Address of principal executive 
+offices)</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(Zip Code)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">(866)&nbsp;809-
+4553<BR>
+(Registrant&#146;s telephone number, including area code)</DIV>
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">N/A<BR>
+(Former name, former address and former fiscal year, if changed since last 
+report)</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check 
+mark whether the registrant (1)&nbsp;has filed all reports required to be filed 
+by
+Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934 during the 
+preceding 12&nbsp;months (or for
+such shorter period that the registrant was required to file such reports), and 
+(2)&nbsp;has been
+subject to such filing requirements for the past 
+90&nbsp;days.&nbsp;Yes&nbsp;<FONT 
+face="Wingdings">&#254;</FONT>&nbsp;No&nbsp;<FONT face="Wingdings">&#111;</FONT>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check 
+mark whether the registrant is an accelerated filer (as defined in 
+Rule&nbsp;12b-2 of
+the Exchange Act).&nbsp;Yes&nbsp;<FONT 
+face="Wingdings">&#254;</FONT>&nbsp;No&nbsp;<FONT face="Wingdings">&#111;</FONT>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check 
+mark whether the registrant is a shell company (as defined in Rule&nbsp;12b-2 of
+the
+Exchange
+Act).&nbsp;Yes&nbsp;<FONT face="Wingdings">&#111;</FONT>&nbsp;No&nbsp;<FONT 
+face="Wingdings">&#254;</FONT>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Number of Units of 
+beneficial interest outstanding at November&nbsp;8, 2005: 46,608,796
+</DIV>
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<!-- TOC -->
+<A name="toc"><DIV align="CENTER" style="page-break-before:always"><U><B>TABLE 
+OF CONTENTS</B></U></DIV></A>
+<P><CENTER>
+<TABLE border="0" width="90%" cellpadding="0" cellspacing="0">
+<TR>
+<TD width="3%"></TD>
+<TD width="3%"></TD>
+<TD width="3%"></TD>
+<TD width="3%"></TD>
+<TD width="3%"></TD>
+<TD width="3%"></TD>
+<TD width="3%"></TD>
+<TD width="3%"></TD>
+<TD width="76%"></TD>
+</TR>
+<TR><TD colspan="9"><A HREF="#000"> PART I</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#001">Item&nbsp;1. Financial 
+Statements</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#002">Item&nbsp;2. Trustee&#146;s 
+Discussion and Analysis of Financial Condition and Results of 
+Operations</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#003">Item&nbsp;3. Quantitative and 
+Qualitative Disclosures About Market Risk</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#004">Item&nbsp;4. Controls and 
+Procedures</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#005">PART II</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#006">Item&nbsp;1. Legal 
+Proceedings</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#007">Item&nbsp;6. Exhibits</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#008">SIGNATURES</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#009">INDEX TO EXHIBITS</A></TD></TR>
+<TR><TD colspan="9"><A HREF="d30058exv31.htm">Certification Required by Rule 
+13a-14(a) - Vice President and Trust Officer</A></TD></TR>
+<TR><TD colspan="9"><A HREF="d30058exv32.htm">Certification Required by Rule 
+13a-14(b) - Vice President and Trust Officer</A></TD></TR>
+</TABLE>
+</CENTER>
+<!-- /TOC -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of 
+Contents</A></H5><P>
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>SAN JUAN BASIN 
+ROYALTY TRUST</B>
+</DIV>
+<!-- link1 " PART I" -->
+<DIV align="left"><A NAME="000"></A></DIV>
+<DIV align="center" style="font-size: 10pt; margin-top: 6pt"><B>PART I</B>
+</DIV>
+<DIV align="center" style="font-size: 10pt"><B>FINANCIAL INFORMATION</B></DIV>
+<!-- link2 "Item&nbsp;1. Financial Statements" -->
+<DIV align="left"><A NAME="001"></A></DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;1. 
+Financial Statements.</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The condensed financial statements included 
+herein have been prepared without audit, pursuant
+to the rules and regulations of the Securities and Exchange Commission. In 
+accordance with
+Securities and Exchange Commission Staff Accounting Bulletin No.&nbsp;47, 
+released September&nbsp;16, 1982,
+the financial statements of the San Juan Basin Royalty Trust (the 
+&#147;Trust&#148;) continue to be prepared
+in a manner that differs from accounting principles generally accepted in the 
+United States of
+America (&#147;GAAP&#148;); this form of presentation is customary to other 
+royalty trusts. Certain
+information and footnote disclosures normally included in annual financial 
+statements have been
+condensed or omitted pursuant to Rule&nbsp;10-01 of Regulation&nbsp;S-X 
+promulgated under the Securities
+Exchange Act of 1934, although TexasBank, the Trustee of the Trust, believes 
+that the disclosures
+are adequate to make the information presented not misleading. These condensed 
+financial
+statements should be read in conjunction with the financial statements and the 
+notes thereto
+included in the Trust&#146;s Annual Report on Form 10-K for the year ended 
+December&nbsp;31, 2004. In the
+opinion of the Trustee, all adjustments, consisting only of normal recurring 
+adjustments, have been
+included that are necessary to present fairly the assets, liabilities and trust 
+corpus of the San
+Juan Basin Royalty Trust at September&nbsp;30, 2005, and the distributable 
+income and changes in trust
+corpus for the three-month periods and nine-month periods ended 
+September&nbsp;30, 2005 and 2004. The
+distributable income for such interim periods is not necessarily indicative of 
+the distributable
+income for the full year.
+</DIV>
+<P align="center" style="font-size: 10pt">2
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>SAN JUAN BASIN 
+ROYALTY TRUST</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>CONDENSED 
+STATEMENTS OF ASSETS, LIABILITIES AND TRUST CORPUS</B>
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0"
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="76%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>September 30,</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>December 31,</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid 
+#000000"><B>2005</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid 
+#000000"><B>2004</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>(Unaudited)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-
+15px"><B>ASSETS</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Cash and short-term 
+investments</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">9,260,904</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">10,140,045</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Net overriding royalty 
+interest in producing
+oil and gas properties (net of accumulated
+amortization of $108,717,540 and $106,600,707
+at September&nbsp;30, 2005 and December&nbsp;31, 2004, respectively)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">24,557,988</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">26,674,821</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">33,818,892</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">36,814,866</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px"><B>LIABILITIES AND 
+TRUST CORPUS</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Distribution payable to
+Unit Holders</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">9,146,046</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">10,025,187</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Cash 
+reserves</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">114,858</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">114,858</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Trust corpus &#150; 
+46,608,796 Units of beneficial
+interest authorized and outstanding</DIV></TD>
+    <TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+    <TD align="right">24,557,988</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">26,674,821</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">33,818,892</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">36,814,866</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>CONDENSED 
+STATEMENTS OF DISTRIBUTABLE INCOME (UNAUDITED)</B>
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="52%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="6"><B>Three Months Ended</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="6"><B>Nine Months Ended</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="6" style="border-bottom: 1px solid 
+#000000"><B>September 30,</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="6" style="border-bottom: 1px solid 
+#000000"><B>September 30,</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>2005</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>2004</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>2005</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>2004</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Royalty 
+income</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">32,832,885</TD>
+<TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">34,673,819</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">107,370,970</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">81,379,357</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Interest 
+income</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">44,893</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">18,478</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">110,249</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">38,992</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">32,877,778</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">34,692,297</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+    <TD align="right">107,481,219</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">81,418,349</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">General and
+administrative
+expenditures</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">585,828</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">290,676</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,933,994</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,333,044</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Distributable 
+income</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">32,291,950</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">34,401,621</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">105,547,225</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">80,085,305</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Distributable
+income per Unit
+(46,608,796 Units)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">.692829</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">.738093</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">2.264533</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">1.718245</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The accompanying 
+notes to condensed financial statements are an integral part of these
+statements.
+</DIV>
+<P align="center" style="font-size: 10pt">3
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>SAN JUAN BASIN 
+ROYALTY TRUST</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>CONDENSED 
+STATEMENTS OF CHANGES IN TRUST CORPUS (UNAUDITED)</B>
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="52%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="6"><B>Three Months Ended</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="6"><B>Nine Months Ended</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="6" style="border-bottom: 1px solid 
+#000000"><B>September 30,</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="6" style="border-bottom: 1px solid
+#000000"><B>September 30,</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>2005</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>2004</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>2005</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>2004</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Trust corpus, beginning
+of period</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">25,197,903</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">28,338,910</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">26,674,821</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">29,822,820</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Amortization of net 
+overriding
+royalty interest</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(639,915</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(850,220</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(2,116,833</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(2,334,130</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Distributable
+income</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">32,291,950</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">34,401,621</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">105,547,225</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">80,085,305</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Distributions 
+declared</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(32,291,950</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(34,401,621</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(105,547,225</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(80,085,305</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Trust corpus, end of 
+period</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">24,557,988</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">27,488,690</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">24,557,988</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">27,488,690</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The accompanying 
+notes to condensed financial statements are an integral part of these
+statements.
+</DIV>
+<P align="center" style="font-size: 10pt">4
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>SAN JUAN BASIN 
+ROYALTY TRUST</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>NOTES TO 
+CONDENSED FINANCIAL STATEMENTS (UNAUDITED)</B>
+</DIV>
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size:
+10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="1%" nowrap align="left"><B>1.</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><B>BASIS OF ACCOUNTING</B></TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">The 
+San Juan Basin Royalty Trust (the &#147;Trust&#148;) was established as of 
+November&nbsp;1, 1980. The
+financial statements of the Trust are prepared on the following basis:
+</DIV>
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size:
+10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Royalty income recorded for a month is the amount computed and paid with
+respect to
+the Trust&#146;s 75% net overriding royalty interest (the &#147;Royalty&#148;) 
+in certain oil and gas
+leasehold and royalty interests (the &#147;Underlying Properties&#148;) by 
+Burlington Resources
+Oil &#038; Gas Company LP (&#147;BROG&#148;), the present owner of the 
+Underlying Properties, to the
+Trustee for the Trust. Royalty income consists of the proceeds received by BROG 
+from
+the sale of production from the Underlying Properties less accrued production 
+costs,
+development and drilling costs, applicable taxes, operating charges, and other 
+costs
+and deductions, multiplied by 75%. The calculation of net proceeds by BROG for 
+any
+month includes adjustments to proceeds and costs for prior months and impacts 
+the
+Royalty income paid to the Trust and the distribution to Unit Holders for that 
+month.</TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Trust expenses recorded are based on liabilities paid and cash reserves 
+established
+from Royalty income for liabilities and contingencies.</TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Distributions to Unit Holders are recorded when declared by the 
+Trustee.</TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The conveyance which transferred the Royalty to the Trust provides that 
+any excess
+of development and production costs applicable to the Underlying Properties over
+gross
+proceeds from such properties must be recovered from future net proceeds before 
+Royalty
+income is again paid to the Trust.</TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">The 
+financial statements of the Trust differ from financial statements prepared in
+accordance with United States generally accepted accounting principles 
+(&#147;GAAP&#148;) because
+revenues are not accrued in the month of production; certain cash reserves may 
+be
+established for contingencies which would not be accrued in financial statements
+prepared in
+accordance with GAAP; expenses are recorded when paid instead of when incurred; 
+and
+amortization of the Royalty calculated on a unit-of-production basis is charged 
+directly to
+trust corpus instead of an expense. The basis of accounting used by the Trust is
+widely
+used by royalty trusts for financial reporting purposes.
+</DIV>
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size:
+10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="1%" nowrap align="left"><B>2.</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><B>FEDERAL INCOME TAXES</B></TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">For 
+federal income tax purposes, the Trust constitutes a fixed investment trust 
+which is
+taxed as a grantor trust. A grantor trust is not subject to tax at the trust 
+level. The
+Unit Holders are considered to own the Trust&#146;s income and principal as 
+though no trust were
+in existence. The income of the Trust is deemed to have been received or accrued
+by each
+Unit Holder at the time such income is received or accrued by the Trust rather 
+than when
+distributed by the Trust.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">The 
+Royalty constitutes an &#147;economic interest&#148; in oil and gas properties 
+for federal income
+tax purposes. Unit Holders must report their share of the revenues of the Trust 
+as ordinary
+income from
+</DIV>
+<P align="center" style="font-size: 10pt">5
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">oil 
+and gas royalties and are entitled to claim depletion with respect to such 
+income. The
+Royalty is treated as a single property for depletion purposes. The Trust has on
+file
+technical advice memoranda confirming such tax treatment.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left:
+2%">Sales of gas production from coal seam wells drilled prior to 
+January&nbsp;1, 1993, qualified for
+federal income tax credits under Section&nbsp;29 of the Internal Revenue Code of
+1986, as
+amended, through 2002, but not thereafter. Accordingly, under present law, the 
+Trust&#146;s
+production of gas from coal seam wells does not qualify for the Section&nbsp;29 
+tax credit.
+Congress has at various times since 2002 considered energy legislation, 
+including provisions
+to reinstate the Section&nbsp;29 credit in various ways and to various extents, 
+but no
+legislation that would qualify the Trust&#146;s current production for such 
+credit has been
+enacted. Most recently, for example, on August&nbsp;8, 2005, new energy tax 
+legislation was
+enacted which, among other things, modifies the Section&nbsp;29 credit in 
+several respects, but
+does not extend the credit for production from coal seam wells. No prediction 
+can be made
+as to what future tax legislation affecting Section&nbsp;29 may be proposed or 
+enacted or, if
+enacted, its impact, if any, on the Trust and the Unit Holders.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">The 
+classification of the Trust&#146;s income for purposes of the passive loss rules
+may be
+important to a Unit Holder. As a result of the Tax Reform Act of 1986, royalty 
+income such
+as that derived through the Trust will generally be treated as portfolio income 
+and will not
+reduce passive losses.
+</DIV>
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size:
+10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="1%" nowrap align="left"><B>3.</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><B>CONTINGENCIES</B></TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">See 
+Part&nbsp;II, Item&nbsp;1, &#147;Legal Proceedings&#148; concerning the status 
+of litigation matters.
+</DIV>
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size:
+10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="1%" nowrap align="left"><B>4.</B></TD>
+    <TD width="1%">&nbsp;</TD>
+<TD><B>SETTLEMENTS</B></TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">In 
+June&nbsp;2000, the Trust and BROG entered into a partial settlement of claims 
+relating to a
+gas imbalance with respect to production from mineral properties currently 
+operated by BROG.
+Under the terms of the partial settlement BROG paid the Trust $3,490,000 to 
+settle the
+imbalance insofar as it relates to some of the wells located on the Underlying 
+Properties.
+The remainder of the imbalance has been addressed by a combination of volume 
+adjustments and
+a $243,968 increase in revenue included in net proceeds paid to the Trust by 
+BROG in July
+2004.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 
+2%">During 2004, commencing in July of that year, an aggregate of $3,314,808 was
+included in
+calculating net proceeds paid to the Trust by BROG as part of the ongoing 
+negotiation of
+joint interest audit exceptions, interest for resolved audit exceptions, and 
+insurance
+proceeds for a business interruption claim.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">In 
+March&nbsp;2005, as part of the ongoing negotiations between the Trust and BROG 
+concerning a
+number of revenue and expense audit issues, $833,851 was included in calculating
+net
+proceeds paid to the Trust by BROG in settlement of claims for interest on late 
+payments of
+net proceeds and in settlement of certain other audit issues. Of that amount, 
+$822,077 was
+included in settlement of claims for additional revenue and $11,774 was included
+in
+settlement of claims concerning disputed lease operating expenses.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">In 
+May&nbsp;2005, as part of the ongoing negotiations between the Trust and BROG 
+concerning a
+number of revenue and expense audit issues, $988,392 was included in calculating
+net
+proceeds paid to the Trust by BROG in settlement of certain of those issues. Of 
+that amount,
+$982,038 was included in net proceeds paid to the Trust by BROG in settlement of
+claims for
+additional revenue and $6,354 was included in net proceeds in settlement of 
+claims
+concerning disputed lease operating expenses.
+</DIV>
+<P align="center" style="font-size: 10pt">6
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<!-- link2 "Item&nbsp;2. Trustee&#146;s Discussion and Analysis of Financial 
+Condition and Results of Operations" -->
+<DIV align="left"><A NAME="002"></A></DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;2. 
+Trustee&#146;s Discussion and Analysis of Financial Condition and Results of 
+Operations.</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Forward-Looking 
+Information</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Certain information included in this 
+Quarterly Report on Form 10-Q contains, and other
+materials filed or to be filed by the Trust with the Securities and Exchange 
+Commission (as well as
+information included in oral statements or other written statements made or to 
+be made by the
+Trust) may contain or include, forward-looking statements within the meaning of 
+Section&nbsp;21E of the
+Securities Exchange Act of 1934, and Section&nbsp;27A of the Securities Act of 
+1933. Such
+forward-looking statements may be or may concern, among other things, capital 
+expenditures,
+drilling activity, development activities, production efforts and volumes, 
+hydrocarbon prices,
+estimated future net revenues, estimates of reserves, the results of the 
+Trust&#146;s activities, and
+regulatory matters. Such forward-looking statements generally are accompanied by
+words such as
+&#147;may,&#148; &#147;will,&#148; &#147;estimate,&#148; &#147;expect,&#148; 
+&#147;predict,&#148; &#147;project,&#148; &#147;anticipate,&#148; 
+&#147;goal,&#148; &#147;should,&#148;
+&#147;assume,&#148; &#147;believe,&#148; &#147;plan,&#148; &#147;intend,&#148; 
+or other words that convey the uncertainty of future events
+or outcomes. Such statements reflect BROG&#146;s current view with respect to 
+future events; are based
+on an assessment of, and are subject to, a variety of factors deemed relevant by
+TexasBank, the
+Trustee of the Trust, and BROG and involve risks and uncertainties. These risks 
+and uncertainties
+include volatility of oil and gas prices, product supply and demand, 
+competition, regulation or
+government action, litigation and uncertainties about estimates of reserves. 
+Should one or more of
+these risks or uncertainties occur, actual results may vary materially and 
+adversely from those
+anticipated.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Principal Trust 
+Risk Factors</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although risk factors are described elsewhere
+in this Quarterly Report on Form 10-Q, the
+following is a summary of the principal risks associated with an investment in 
+Units in the Trust.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Oil and gas prices fluctuate due to a 
+number of factors, and lower prices will reduce net
+proceeds to the Trust and distributions to Unit Holders.</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Trust&#146;s monthly distributions are 
+highly dependent upon the prices realized from the sale
+of gas and, to a lesser extent, oil. Oil and gas prices can fluctuate widely on 
+a month-to-month
+basis in response to a variety of factors that are beyond the control of the 
+Trust and BROG.
+Factors that contribute to price fluctuation include, among others:
+</DIV>
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size:
+10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>political conditions worldwide, in particular political disruption, war 
+or other
+armed conflicts in oil producing regions;</TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>worldwide economic conditions;</TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>weather conditions;</TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+<TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>the supply and price of foreign oil and gas;</TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>the level of consumer demand;</TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>the price and availability of alternative fuels;</TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>the proximity to, and capacity of, transportation facilities; and</TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>the effect of worldwide energy conservation measures.</TD>
+</TR>
+</TABLE>
+</DIV>
+<P align="center" style="font-size: 10pt">7
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV style="margin-top: 6pt"><TABLE width="100%" border="0" cellpadding="0" 
+cellspacing="0" style="font-size: 10pt">
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Moreover, government regulations, such as 
+regulation of natural gas transportation and price
+controls, can affect product prices in the long term.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lower oil and gas prices may reduce the 
+amount of oil and gas that is economic to produce and
+reduce royalty income paid to the Trust. The volatility of energy prices reduces
+the
+predictability of future cash distributions to Unit Holders.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Increased costs of production and 
+development will result in decreased Trust distributions.</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Production and development costs attributable
+to the Underlying Properties are deducted in the
+calculation of net proceeds. Accordingly, higher or lower production and 
+development costs,
+without concurrent increases in revenues, directly decrease or increase the 
+share of net proceeds
+paid to the Trust as Royalty income.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If development and production costs of the 
+Underlying Properties exceed the proceeds of
+production from the Underlying Properties, such excess costs are carried forward
+and the Trust will
+not receive a share of net proceeds for the Underlying Properties until future 
+net proceeds from
+production from such properties exceed the total of the excess costs. 
+Development activities may
+not generate sufficient additional revenue to repay the costs; however, the 
+Trust is not obligated
+to repay the excess costs except through future production.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Trust reserve estimates depend on many 
+assumptions that may prove to be inaccurate, which
+could cause both estimated reserves and estimated future revenues to be too 
+high.</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The value of the Units of the Trust depends 
+upon, among other things, the amount of reserves
+attributable to the Royalty and the estimated future value of the reserves. 
+Estimating reserves is
+inherently uncertain. Ultimately, actual production, revenues and expenditures 
+for the Underlying
+Properties will vary from estimates and those variations could be material. 
+Petroleum engineers
+consider many factors and make assumptions in estimating reserves. Those factors
+and assumptions
+include:
+</DIV>
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size:
+10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>historical production from the area compared with production rates from 
+similar
+producing areas;</TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>the assumed effect of governmental regulation; and</TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>assumptions about future commodity prices, production and development 
+costs,
+severance and excise taxes, and capital expenditures.</TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Changes in these 
+assumptions can materially change reserve estimates. The reserve data included
+herein are estimates only and are subject to many uncertainties. Actual 
+quantities of oil and
+natural gas may differ considerably from the amounts set forth herein. In 
+addition, different
+reserve engineers may make different estimates of reserve quantities and cash 
+flows based upon the
+same available data.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>The operators of the Underlying Properties
+are subject to extensive governmental regulation.</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oil and gas operations have been, and in the 
+future will be, affected by federal, state and
+local laws and regulations and other political developments, such as price or 
+gathering rate
+controls and environmental protection regulations.
+</DIV>
+<P align="center" style="font-size: 10pt">8
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Operating risks for BROG and other 
+operators of the Underlying Properties can adversely affect
+Trust distributions.</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Royalty income payable to the Trust is 
+derived from the production and sale of oil and gas,
+which operations are subject to risk inherent in such activities, such as 
+blowouts, cratering,
+explosions, uncontrollable flows of oil, gas or well fluids, fires, pollution 
+and other
+environmental risks and litigation concerning routine and extraordinary business
+activities and
+events. These risks could result in substantial losses which are deducted in 
+calculating the net
+proceeds and thus reduce Royalty income paid to the Trust due to injury and loss
+of life, severe
+damage to and destruction of property and equipment, pollution and other 
+environmental damage and
+suspension of operations.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>None of the Trustee, the Trust nor the 
+Unit Holders control the operation or development of
+the Underlying Properties.</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Neither the Trustee nor the Unit Holders can 
+influence or control the operation or future
+development of the Underlying Properties. The Underlying Properties are owned by
+BROG and BROG
+operates the majority of such properties and handles the calculation of the net 
+proceeds
+attributable to the Royalty and the payment of Royalty income to the Trust.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>The Royalty can be sold and the Trust can 
+be terminated in certain circumstances.</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Trust will be terminated and the Trustee 
+must sell the Royalty if holders of at least 75%
+of the Units approve the sale or vote to terminate the Trust, or if the 
+Trust&#146;s gross revenue for
+each of two successive years is less than $1,000,000 per year. Following any 
+such termination and
+liquidation, the net proceeds of any sale will be distributed to the Unit 
+Holders and Unit Holders
+will receive no further distributions from the Trust. We cannot assure you that 
+any such sale will
+be on terms acceptable to all Unit Holders.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Mineral properties, such as the Underlying
+Properties, are depleting assets and, if BROG or
+other operators of the Underlying Properties do not perform additional 
+development projects, the
+Royalty may deplete faster than expected.</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Royalty income payable to the Trust is 
+derived from the sale of production from depleting
+assets. Accordingly, the portion of the distributions to Unit Holders (to the 
+extent of depletion
+taken) may be considered a return of capital. The reduction in proved reserve 
+quantities is a
+common measure of depletion. Future maintenance and development projects on the 
+Underlying
+Properties will affect the quantity of proved reserves. The timing and size of 
+these projects will
+depend on the market prices of natural gas. If BROG does not implement 
+additional maintenance and
+development projects, the future rate of production decline of proved reserves 
+may be higher than
+the rate currently expected by the Trust.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Unit Holders have limited voting 
+rights.</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Voting rights as a Unit Holder are more 
+limited than those of stockholders of most public
+corporations. For example, there is no requirement for annual meetings of Unit 
+Holders or for an
+annual or other periodic re-election of the Trustee. Unlike corporations which 
+are generally
+governed by boards of directors elected by their equity holders, the Trust is 
+administered by a
+corporate Trustee in accordance with the Indenture and other organizational 
+documents. The Trustee
+has extremely limited discretion in its administration of the Trust.
+</DIV>
+<P align="center" style="font-size: 10pt">9
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Business 
+Overview</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Trust is an express trust created under 
+the laws of the state of Texas by the San Juan
+Basin Royalty Trust Indenture (the &#147;Original Indenture&#148;) entered into 
+on November&nbsp;3, 1980, between
+Southland Royalty Company (&#147;Southland Royalty&#148;) and The Fort Worth 
+National Bank. Effective as of
+September&nbsp;30, 2002, the Original Indenture was amended and restated (the 
+Original Indenture, as
+amended and restated, the &#147;Indenture&#148;). The Trustee of the Trust is 
+TexasBank. On September&nbsp;19,
+2005, Compass Bancshares Inc. (&#147;Compass&#148;) announced the signing of a 
+definitive agreement to
+acquire TexasBanc Holding Co. (&#147;TexasBanc&#148;), the parent company of the
+Trustee, in a combination
+that would create the fifth largest bank in Texas. Upon completion of the 
+transaction, with
+combined total assets of approximately $31.1&nbsp;billion and a market 
+capitalization of $6.1&nbsp;billion,
+Compass will rank as the 28th largest U.S. bank holding company, with operations
+in Texas, New
+Mexico, Florida, Colorado, Arizona and Alabama. The transaction, which is 
+anticipated to be
+completed in January&nbsp;2006, is subject to all required regulatory approvals,
+approval by TexasBanc
+shareholders and other customary conditions.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On October&nbsp;23, 1980, the stockholders of
+Southland Royalty approved and authorized that
+company&#146;s conveyance of a 75% net overriding royalty interest (equivalent 
+to a net profits
+interest) to the Trust for the benefit of the stockholders of Southland Royalty 
+of record at the
+close of business on the date of the conveyance (the &#147;Royalty&#148;) carved
+out of that company&#146;s oil
+and gas leasehold and royalty interests (the &#147;Underlying Properties&#148;) 
+in properties located in the
+San Juan Basin of northwestern New Mexico. Pursuant to the Net Overriding 
+Royalty Conveyance (the
+&#147;Conveyance&#148;) the Royalty was transferred to the Trust on 
+November&nbsp;3, 1980, effective as to
+production from and after November&nbsp;1, 1980 at 7:00 A.M.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Royalty constitutes the principal asset 
+of the Trust and the beneficial interests in the
+Trust are divided into that number of Units of Beneficial Interest (the 
+&#147;Units&#148;) of the Trust equal
+to the number of shares of the common stock of Southland Royalty outstanding as 
+of the close of
+business on November&nbsp;3, 1980. Holders of Units are referred to herein as 
+&#147;Unit Holders.&#148;
+Subsequent to the Conveyance of the Royalty, through a series of assignments and
+mergers, Southland
+Royalty&#146;s successor became BROG.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top:
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The function of the Trustee is to collect the
+income attributable to the Royalty, to pay all
+expenses and charges of the Trust, and then distribute the remaining available 
+income to the Unit
+Holders. The Trust is not empowered to carry on any business activity and has no
+employees, all
+administrative functions being performed by the Trustee.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Three Months Ended
+September&nbsp;30, 2005 and 2004</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Trust received Royalty income of 
+$32,832,885 and interest income of $44,893 during the
+third quarter of 2005. There was no change in cash reserves. After deducting 
+administrative
+expenses of $585,828, distributable income for the quarter was $32,291,950 
+($.692829 per Unit). In
+the third quarter of 2004, royalty income was $34,673,819, interest income was 
+$18,478, there was
+no change in cash reserves, administrative expenses were $290,676 and 
+distributable income was
+$34,401,621 ($.738093 per Unit). Based on 46,608,796 Units outstanding, the per 
+Unit distributions
+during the third quarter of 2005 were as follows:
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="88%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">July</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">.279524</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">August</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">.217075</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">September</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">.196230</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+<TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Quarter 
+Total</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">.692829</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<P align="center" style="font-size: 10pt">10
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Royalty income distributed in the third 
+quarter of 2005 was lower than that distributed in
+the third quarter of 2004 primarily due to increased production costs and 
+slightly decreased
+production volumes. In calculating the September&nbsp;2005 distribution, BROG 
+reduced volumes used in
+calculating the Royalty payable to the Trust due to accrual adjustments for 
+February and March
+production. The primary reasons for reduced production for those months were 
+weather-related
+shut-downs and unscheduled pipeline maintenance. The average gas price increased
+from $5.25 per
+Mcf for the third quarter of 2004 to $5.85 per Mcf for the third quarter of 
+2005. In addition, in
+July&nbsp;2004, BROG included an aggregate of $1,835,500 in calculating the 
+Trust&#146;s July&nbsp;2004 royalty
+income payment. This represented the Trust&#146;s 75% interest in settlement of 
+certain joint interest
+audit issues, including claims related to natural gas liquids, gas imbalances 
+and interest on other
+settled claims. Also, in July&nbsp;2004, BROG adjusted the capital expenditures 
+accrued for the
+properties to which the Royalty relates by approximately $1&nbsp;million, 
+resulting in a corresponding
+increase in the Royalty income received by the Trust in July&nbsp;2004. Interest
+earnings for the
+quarter ended September&nbsp;30, 2005, as compared to the quarter ended 
+September&nbsp;30, 2004, were higher,
+primarily due to an increase in funds available for investment pending 
+distribution as well as an
+increase in interest rates. Administrative expenses were higher primarily as a 
+result of
+differences in timing in the receipt and payment of these expenses, but also as 
+a result of
+complying with the new internal control over financial reporting and other 
+requirements of the
+Sarbanes-Oxley Act of 2002 and costs incurred in resolving certain outstanding 
+audit issues.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BROG has informed the Trustee that the New 
+Mexico Oil and Gas Proceeds Withholding Tax Act
+(the &#147;Withholding Tax Act&#148;) requires remitters who pay certain oil and
+gas proceeds from production
+on New Mexico properties on or after October&nbsp;1, 2003, to withhold income 
+taxes from such proceeds
+in the case of certain nonresident recipients. The Trustee, on advice of New 
+Mexico counsel, has
+observed that &#147;net profits interests,&#148; such as the Royalty, and other 
+types of interests, the
+extent of which cannot be determined with respect to a specific share of the oil
+and gas
+production, are excluded from the withholding requirements of the Withholding 
+Tax Act. Unit
+Holders are reminded to consult with their tax advisors regarding the 
+applicability of New Mexico
+income tax to distributions received from the Trust by a Unit Holder.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The capital costs attributable to the 
+Underlying Properties for the third quarter of 2005 and
+deducted by BROG in calculating Royalty income were approximately 
+$5.7&nbsp;million. BROG&#146;s capital
+expenditure budget for the Underlying Properties for 2005 is estimated at 
+$17&nbsp;million of which
+approximately $9.1&nbsp;million has been spent as of September&nbsp;30, 2005; 
+however, BROG reports that
+based on its actual capital requirements, its mix of projects and swings in the 
+price of natural
+gas, the actual capital expenditures for 2005 could range from $15&nbsp;million 
+to $25&nbsp;million. Capital
+expenditures were approximately $3.5&nbsp;million for the third quarter of 2004.
+In 2004, approximately
+$22.3&nbsp;million in capital expenditures were deducted in calculating Royalty 
+income. In February
+2005, BROG informed the Trustee that the 2005 budget for the Underlying 
+Properties anticipates 401
+projects, including the drilling of 71 new wells to be operated by BROG and 31 
+wells to be operated
+by third parties. Of the new BROG operated wells, 19 are projected to be 
+conventional wells
+completed in the Pictured Cliffs, Mesaverde and/or Dakota formations, and the
+remaining 52 are
+projected as coal seam wells completed in the Fruitland Coal formation. A total 
+of 21 of the wells
+operated by third parties are projected to be conventional wells and the 
+remaining ten are
+projected to be coal seam wells. BROG projects approximately $12&nbsp;million to
+be spent on the new
+wells, and $5&nbsp;million is to be expended in working over existing wells and 
+in the maintenance and
+improvement of production facilities. BROG has announced that the budget for 
+2005 reflects the
+commencement of a shift toward increased development of conventional gas, 
+including infill drilling
+to the Mesaverde and Dakota formations, and a winding down of its program for 
+infill drilling in
+the Fruitland Coal formation.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BROG has informed the Trust that lease 
+operating expenses and property taxes were $6,115,517
+and $184,056, respectively, for the third quarter of 2005, as compared to 
+$4,644,449 and $195,518,
+respectively, for the third quarter of 2004.
+</DIV>
+<P align="center" style="font-size: 10pt">11
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BROG has reported to the Trustee that during 
+the third quarter of 2005, seven gross (1.09 net)
+coal seam wells, one gross (0.88 net) coal seam recavitation, two gross (0.61 
+net) coal seam
+recompletions, and 17 gross (3.20 net) conventional wells were completed on the 
+Underlying
+Properties.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sixty-five gross (7.28 net) coal seam wells, 
+two gross (0.86 net) coal seam recompletions, 55
+gross (9.71 net) conventional wells, 11 gross (1.74 net) payadds, three gross 
+(0.92 net)
+recompletions, and five gross (3.11 net) restimulations were in progress at 
+September&nbsp;30, 2005.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There were three gross (0.005 net) 
+conventional wells, seven gross (5.59 net) recompletions,
+one gross (0.88 net) restimulation, eight gross (2.72 net) coal seam wells, one 
+gross (0.87 net)
+coal seam recompletion, and one gross (0.007 net) miscellaneous coal seam 
+project completed on the
+Underlying Properties as of September&nbsp;30, 2004. Thirty-four gross (5.75 
+net) conventional wells,
+seven gross (3.12 net) recompletions, three gross (2.24 net) restimulations, 
+five gross (1.73 net)
+payadds, 77 gross (7.68 net) coal seam wells, five gross (2.74 net) coal seam 
+recompletions, and
+one gross (0.06 net) miscellaneous coal seam project were in progress at 
+September&nbsp;30, 2004.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#147;Gross&#148; acres or wells, for 
+purposes of this discussion, means the entire ownership interest
+of all parties in such properties, and BROG&#146;s interest therein is referred 
+to as the &#147;net&#148; acres or
+wells. A &#147;payadd&#148; is the completion of an additional productive 
+interval in an existing completed
+zone in a well.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Royalty income for the quarter ended 
+September&nbsp;30, 2005 is associated with actual gas and oil
+production during May&nbsp;2005 through July&nbsp;2005 from the Underlying 
+Properties. Gas and oil sales
+from the Underlying Properties for the three months ended September&nbsp;30, 
+2005 and 2004 were as
+follows:
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="76%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="7"><B>Three Months Ended</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="7" style="border-bottom: 1px solid 
+#000000"><B>September 30,</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>2005</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>2004</B></TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff">
+<TD><DIV style="margin-left:15px; text-indent:-15px">Gas:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Total sales 
+(Mcf)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">10,466,804</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">10,859,313</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Mcf per day</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">113,770</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">118,036</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Average price (per 
+Mcf)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">5.85</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">5.25</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Oil:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Total sales 
+(Bbls)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">17,020</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">21,091</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Bbls per day</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">185</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">229</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Average price (per 
+Bbl)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">49.70</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">35.53</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Gas and oil sales 
+attributable to the Royalty for the quarters ended September&nbsp;30, 2005 and 
+2004
+were as follows:
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="76%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+<TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="7"><B>Three Months Ended</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="7" style="border-bottom: 1px solid 
+#000000"><B>September 30,</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>2005</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>2004</B></TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Gas sales 
+(Mcf)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">6,163,750</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">6,859,527</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Oil sales
+(Bbls)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">10,017</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">13,296</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sales volumes attributable to the Royalty are
+determined by dividing the net profits
+received by the Trust and attributable to oil and gas, respectively, by the 
+prices received for
+sales volumes from the Underlying Properties, taking into consideration 
+production taxes
+attributable to the Underlying Properties. Since the oil and gas sales 
+attributable to the Royalty
+are based on an allocation formula that is dependent on
+</DIV>
+<P align="center" style="font-size: 10pt">12
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">such factors as price
+and cost, including capital expenditures, the aggregate production
+volumes from the Underlying Properties may not provide a meaningful comparison 
+to volumes
+attributable to the Royalty.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During the third quarter of 2005, average gas
+prices were $.60 higher than the average prices
+reported during the third quarter of 2004. The average price per barrel of oil 
+during the third
+quarter of 2005 was $14.17 per barrel higher than that received for the third 
+quarter of 2004 due
+to increases in oil prices in world markets generally, including the posted 
+prices applicable to
+oil sales attributable to the Royalty.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BROG previously entered into two contracts 
+for the sale of all volumes of gas produced from
+the Underlying Properties. These contracts provided for (i)&nbsp;the sale of 
+such gas to Duke Energy
+and Marketing, L.L.C. and PNM Gas Services, respectively, (ii)&nbsp;the delivery
+of such gas at various
+delivery points through March&nbsp;31, 2005, and from year-to-year thereafter 
+until terminated by either
+party on twelve months notice, and (iii)&nbsp;the sale of such gas at prices 
+which fluctuate in
+accordance with published indices for gas sold in the San Juan Basin of New 
+Mexico. Effective
+January&nbsp;1, 2004, the rights and obligations of Duke Energy and Marketing 
+L.L.C. were assumed by
+ConocoPhillips Company (&#147;ConocoPhillips&#148;) pursuant to an Assignment 
+and Novation Agreement. By
+correspondence dated March&nbsp;25, 2004, BROG notified ConocoPhillips of 
+BROG&#146;s election to terminate
+such contract as of March&nbsp;31, 2005. BROG then prepared a form of request 
+for proposal and
+circulated it to a number of potential purchasers, including ConocoPhillips, 
+inviting them to bid
+for the purchase of the gas currently sold under the contract expiring 
+March&nbsp;31, 2005. Effective
+as of April&nbsp;1, 2005, BROG entered into two new contracts for the sale of 
+all volumes of gas
+produced from the Underlying Properties and formerly sold to ConocoPhillips. 
+These new contracts
+provide for (i)&nbsp;the sale of such gas to ChevronTexaco Natural Gas, a 
+division of Chevron U.S.A.
+Inc., and Coral Energy Resources, L.P., respectively, (ii)&nbsp;the delivery of 
+such gas at various
+delivery points through March&nbsp;31, 2007, and from year-to-year thereafter 
+until terminated by either
+party on twelve months notice, and (iii)&nbsp;the sale of such gas at prices
+which fluctuate in
+accordance with the published indices for gas sold in the San Juan Basin of New 
+Mexico. With
+respect to BROG&#146;s contract with PNM Gas Services, BROG and PNM Gas Services
+have entered into a
+letter agreement dated January&nbsp;31, 2005, pursuant to which the parties 
+waive the right to terminate
+the underlying contract as of March&nbsp;31, 2006, so that the term of that 
+contract will continue until
+at least March&nbsp;31, 2007, and from year-to-year thereafter until terminated 
+by either party upon
+twelve months notice to the other. Unit Holders are referred to Note 6 of the 
+Notes to Financial
+Statements in the Trust&#146;s 2004 Annual Report for further information 
+concerning the marketing of
+gas produced from the Underlying Properties.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Confidentiality agreements with purchasers of
+gas produced from the Underlying Properties
+prohibit public disclosure of certain terms and conditions of gas sales 
+contracts with those
+entities, including specific pricing terms and gas receipt points. Such 
+disclosure could compromise
+the ability to compete effectively in the marketplace for the sale of gas 
+produced from the
+Underlying Properties.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Nine Months Ended 
+September&nbsp;30, 2005 and 2004</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the nine months ended September&nbsp;30, 
+2005, the Trust received Royalty income of
+$107,370,970 and interest income of $110,249. There was no change in cash 
+reserves. After
+deducting administrative expenses of $1,933,994, distributable income was 
+$105,547,225 ($2.264533
+per Unit) for the nine months ended September&nbsp;30, 2005. For the nine months
+ended September&nbsp;30,
+2004, the Trust received Royalty income of $81,379,357 and interest income of 
+$38,992. There was
+no change in cash reserves. After deducting administrative expenses of 
+$1,333,044, distributable
+income was $80,085,305 ($1.718245 per Unit) for the nine months ended 
+September&nbsp;30, 2004.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The increase in distributable income from 
+2004 to 2005 resulted primarily from higher gas
+prices during the first nine months of 2005. Interest earnings for the nine 
+months ended September
+30, 2005, as compared to the nine months ended September&nbsp;30, 2004 were 
+higher primarily due to an
+increase in funds
+</DIV>
+<P align="center" style="font-size: 10pt">13
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">available for 
+investment pending distribution as well as an increase in interest rates.
+General and administrative expenses were higher for the nine months ended 
+September&nbsp;30, 2005, as
+compared to the same period in 2004 primarily as a result of differences in 
+timing in the receipt
+and payment of these expenses, but also as a result of complying with the new 
+internal control over
+financial reporting and other requirements of the Sarbanes-Oxley Act of 2002 and
+costs incurred in
+resolving certain outstanding joint interest audit issues.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Capital expenditures incurred by BROG, 
+attributable to the Underlying Properties, for the
+first nine months of 2005 amounted to approximately $14.4&nbsp;million. Capital 
+expenditures were
+approximately $17.5&nbsp;million for the first nine months of 2004. Lease 
+operating expenses and
+property taxes totaled $15,809,068 and $499,498, respectively, for the first 
+nine months of 2005 as
+compared to $13,258,390 and $445,018, respectively, for the first nine months of
+2004.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BROG has reported to the Trustee that during 
+the nine months ended September&nbsp;30, 2005, 28
+gross (0.41 net) conventional wells, two gross (0.004 net) payadds, 12 gross 
+(2.50 net) coal seam
+wells, one gross (0.88 net) coal seam recavitation, two gross (0.61 net) coal 
+seam recompletions,
+and five gross (0.20 net) miscellaneous coal seam capital projects were 
+completed on the Underlying
+Properties.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There were 21 gross (6.39 net) conventional 
+wells, three gross (0.007 net) payadds, eight
+gross (6.03 net) recompletions, nine gross (5.95 net) restimulations, 34 gross 
+(5.20 net) coal seam
+wells, two gross (1.69 net) coal seam recompletions and two gross (0.05 net) 
+miscellaneous coal
+seam capital projects completed on the Underlying Properties during the nine 
+months ended September
+30, 2004.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Royalty income for the nine months ended 
+September&nbsp;30, 2005 is associated with actual gas and
+oil production during November&nbsp;2004 through July&nbsp;2005 from the 
+Underlying Properties. Gas and oil
+sales from the Underlying Properties for the nine months ended 
+September&nbsp;30, 2005 and 2004 were as
+follows:
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="76%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="7"><B>Nine Months Ended</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="7" style="border-bottom: 1px solid 
+#000000"><B>September 30,</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>2005</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>2004</B></TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Gas:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Total sales 
+(Mcf)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">32,618,591</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">32,720,033</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+<TD><DIV style="margin-left:30px; text-indent:-15px">Mcf per day</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">119,482</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">119,416</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Average price (per 
+Mcf)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">5.77</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">4.60</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Oil:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Total Sales 
+(Bbls)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">53,081</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">59,655</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Bbls per day</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">194</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+<TD align="right">218</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Average price (per 
+Bbl)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">46.68</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">32.16</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Gas and oil sales 
+attributable to the Royalty for the nine months ended September&nbsp;30, 2005 
+and
+2004 were as follows:
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="76%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="7"><B>Nine Months Ended</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="7" style="border-bottom: 1px solid 
+#000000"><B>September 30,</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>2005</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>2004</B></TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Gas sales 
+(Mcf)</DIV></TD>
+<TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">20,084,548</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">18,758,186</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Oil sales 
+(Bbls)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">32,713</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">34,609</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<P align="center" style="font-size: 10pt">14
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During the first nine months of 2005, gas and
+oil prices were higher than during the first
+nine months of 2004. Since the oil and gas sales attributable to the Royalty are
+based on an
+allocation formula that is dependant on such factors as price and cost, 
+including capital
+expenditures, the aggregate sales amounts from the Underlying Properties may not
+provide a
+meaningful comparison to sales attributable to the Royalty.
+</DIV>
+<P align="center" style="font-size: 10pt">15
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Calculation of 
+Royalty Income</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Royalty income received by the Trust for the 
+three months and nine months ended September&nbsp;30,
+2005 and 2004, respectively, was computed as shown in the following table:
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="52%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="6"><B>Three Months Ended</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="6"><B>Nine Months Ended</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="6" style="border-bottom: 1px solid 
+#000000"><B>September 30,</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="6" style="border-bottom: 1px solid 
+#000000"><B>September 30,</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>2005</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>2004</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>2005</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>2004</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Gross proceeds of sales
+from the
+Underlying Properties:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Gas proceeds</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">61,276,528</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">56,977,514</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">188,240,413</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">150,416,797</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Oil proceeds</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">845,878</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">749,444</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,478,003</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,918,288</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Other</DIV></TD>
+    <TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">2,447,333</TD>
+    <TD nowrap>(1)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">2,405,486     </TD>
+    <TD nowrap>(2)(3)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">2,447,333</TD>
+    <TD nowrap>(1)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Total</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">62,122,406</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">60,174,291</TD>
+    <TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">193,123,902</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">154,782,418</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Less production 
+costs:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Severance tax &#150; 
+gas</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">6,296,781</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">5,571,441</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">18,964,311</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">14,838,895</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Severance tax &#150; 
+oil</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">87,509</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">75,507</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">254,395</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">196,443</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Lease operating expense
+and property tax</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">6,299,573</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">4,839,967</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">16,308,566</TD>
+    <TD nowrap>(2)(3)</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">13,703,408</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+<TD><DIV style="margin-left:15px; text-indent:-15px">Other</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">42,505</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">42,763</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Capital 
+expenditures</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">5,661,363</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">3,455,618     </TD>
+    <TD nowrap>(4)</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">14,392,832</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">17,495,100</TD>
+    <TD nowrap>(4)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Total</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">18,345,226</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">13,942,533</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">49,962,609</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">46,276,609</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Less excess production 
+costs and
+interest from prior year</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Net profits</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">43,777,180</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">46,231,758</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">143,161,293</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">108,505,809</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Net overriding royalty 
+interest</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">75</TD>
+    <TD nowrap>%</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">75</TD>
+    <TD nowrap>%</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">75</TD>
+    <TD nowrap>%</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">75</TD>
+    <TD nowrap>%</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Royalty 
+income</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">32,832,885</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">34,673,819</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">107,370,970</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">81,379,357</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV align="left">
+<DIV style="font-size: 3pt; margin-top: 16pt; width: 18%; border-top: 1px solid 
+#000000">&nbsp;</DIV>
+</DIV>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size:
+10pt">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD width="96"></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left">(1)</TD>
+    <TD>&nbsp;</TD>
+    <TD>In July&nbsp;2004, an aggregate of $1,835,500 (the Trust&#146;s 75% 
+interest in the total
+$2,447,333 settlement) was included by BROG in calculating the Trust&#146;s 
+Royalty payment in
+connection with the settlement of certain joint interest audit issues.</TD>
+</TR>
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+<TR valign="top">
+    <TD nowrap align="left">(2)</TD>
+    <TD>&nbsp;</TD>
+    <TD>In March&nbsp;2005, as part of the ongoing negotiations between the 
+Trust and BROG concerning a
+number of revenue and expense audit issues, $833,851 was included in calculating
+net proceeds
+paid to the Trust by BROG in settlement of claims for interest on late payments 
+of net
+proceeds and in settlement of certain other audit issues. Of that amount, 
+$822,077 was
+included in settlement of claims for additional revenue and $11,774 was included
+in settlement
+of claims concerning disputed lease operating expenses.</TD>
+</TR>
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+<TR valign="top">
+    <TD nowrap align="left">(3)</TD>
+    <TD>&nbsp;</TD>
+    <TD>In May&nbsp;2005, as part of the ongoing negotiations between the Trust 
+and BROG concerning a
+number of revenue and expense audit issues, $988,392 was included in calculating
+net proceeds
+paid to the Trust by BROG in settlement of certain of those audit issues. Of 
+that amount, $982,038 was included in
+net proceeds paid to the Trust by BROG in settlement of claims for additional 
+revenue and $6,354
+was included in net proceeds in settlement of claims concerning disputed lease 
+operating
+expenses.</TD>
+</TR>
+</TABLE>
+<P align="center" style="font-size: 10pt">16
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size:
+10pt">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD width="96"></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left">(4)</TD>
+    <TD>&nbsp;</TD>
+    <TD>In July&nbsp;2004, BROG reduced the capital expenditures accrued for the
+Underlying
+Properties for the month of July by approximately $1&nbsp;million, resulting in 
+a corresponding
+increase in the Royalty income received by the Trust in July&nbsp;2004.</TD>
+</TR>
+</TABLE>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Contractual 
+Obligations</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Under the Indenture governing the Trust, the 
+Trustee is entitled to an administrative fee for
+its administrative services and the preparation of quarterly and annual 
+statements of: (i)&nbsp;1/20 of
+1% of the first $100&nbsp;million of the annual gross revenue of the Trust, and 
+1/30 of 1% of the annual
+gross revenue of the Trust in excess of $100&nbsp;million and (ii)&nbsp;the 
+Trustee&#146;s standard hourly rates
+for time in excess of 300 hours annually. As of January&nbsp;1, 2003, the 
+administrative fee due under
+items (i)&nbsp;and (ii)&nbsp;above will not be less than $36,000 per year (as 
+adjusted annually to reflect
+the increase (if any) in the Producers Price Index as published by the U.S. 
+Department of Labor,
+Bureau of Labor Statistics).
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Effects of 
+Securities Regulation</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As a publicly-traded trust listed on the New 
+York Stock Exchange (the &#147;NYSE&#148;), the Trust is
+and will continue to be subject to extensive regulation under, among others, the
+Securities Act of
+1933, the Securities Exchange Act of 1934 (which contains many of the provisions
+of the
+Sarbanes-Oxley Act of 2002) and the rules and regulations of the NYSE. Issuers 
+failing to comply
+with such authorities risk serious consequences, including criminal as well as
+civil and
+administrative penalties. In most instances, these laws, rules and regulations 
+do not specifically
+address their applicability to publicly-traded trusts, such as the Trust. In 
+particular, the
+Sarbanes-Oxley Act of 2002 provides for the adoption by the Securities and 
+Exchange Commission (the
+&#147;Commission&#148;) and NYSE of certain rules and regulations that may be 
+impossible for the Trust to
+literally satisfy because of its nature as a pass-through trust. It is the 
+Trustee&#146;s intention to
+follow the Commission&#146;s and NYSE&#146;s rulemaking closely, attempt to 
+comply with such rules and
+regulations and, where appropriate, request relief from these rules and 
+regulations. However, if
+the Trust is unable to comply with such rules and regulations or to obtain 
+appropriate relief, the
+Trust may be required to expend as yet unknown but potentially material costs to
+amend the
+Indenture that governs the Trust to allow for compliance with such rules and 
+regulations. To date,
+the rules implementing the Sarbanes-Oxley Act of 2002 have generally made 
+appropriate accommodation
+for passive entities such as the Trust.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Critical 
+Accounting Policies</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In accordance with the Commission&#146;s 
+staff accounting bulletins and consistent with other
+royalty trusts, the financial statements of the Trust are prepared on the 
+following basis:
+</DIV>
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size:
+10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="4%" style="background: transparent">&nbsp;</TD>
+    <TD width="2%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Royalty income recorded for a month is the amount computed and paid 
+pursuant to
+the Conveyance by BROG to the Trustee for the Trust. Royalty income consists of
+the proceeds received by BROG from the sale of production from the Underlying
+Properties less accrued production costs, development and drilling costs,
+applicable taxes, operating charges, and other costs and deductions, multiplied 
+by
+75%. The calculation of net proceeds by BROG for any month includes adjustments 
+to
+proceeds and costs for prior months and impacts the Royalty income paid to the
+Trust and the distribution to Unit Holders for that month.</TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="4%" style="background: transparent">&nbsp;</TD>
+<TD width="2%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Trust expenses recorded are based on liabilities paid and cash reserves
+established from royalty income for liabilities and contingencies.</TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="4%" style="background: transparent">&nbsp;</TD>
+    <TD width="2%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Distributions to Unit Holders are recorded when declared by the 
+Trustee.</TD>
+</TR>
+</TABLE>
+</DIV>
+<P align="center" style="font-size: 10pt">17
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV style="margin-top: 6pt"><TABLE width="100%" border="0" cellpadding="0" 
+cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="4%" style="background: transparent">&nbsp;</TD>
+    <TD width="2%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Conveyance which transferred the Royalty to the Trust provides that 
+any
+excess of development and production costs applicable to the Underlying 
+Properties
+over gross proceeds from such properties must be recovered from future net 
+proceeds
+before Royalty income is again paid to the Trust.</TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The financial statements of the Trust differ 
+from financial statements prepared in accordance
+with GAAP because revenues are not accrued in the month of production; certain 
+cash reserves may be
+established for contingencies which would not be accrued in financial statements
+prepared in
+accordance with GAAP; expenses are recorded when paid instead of when incurred; 
+and amortization of
+the Royalty calculated on a unit-of-production basis is charged directly to 
+trust corpus instead of
+an expense.
+</DIV>
+<!-- link2 "Item&nbsp;3. Quantitative and Qualitative Disclosures About Market 
+Risk" -->
+<DIV align="left"><A NAME="003"></A></DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;3. 
+Quantitative and Qualitative Disclosures About Market Risk.</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Trust invests in no derivative financial 
+instruments, and has no foreign operations or
+long-term debt instruments. The Trust is a passive entity and is prohibited from
+engaging in
+borrowing transactions, other than the Trust&#146;s ability to borrow money 
+periodically as necessary to
+pay expenses, liabilities and obligations of the Trust that cannot be paid out 
+of cash held by the
+Trust. The amount of any such borrowings is unlikely to be material to the 
+Trust. The Trust
+periodically holds short-term investments acquired with funds held by the Trust 
+pending
+distribution to Unit Holders and funds held in reserve for the payment of Trust 
+expenses and
+liabilities. Because of the short-term nature of these borrowings and 
+investments and certain
+limitations upon the types of such investments which may be held by the Trust, 
+the Trustee believes
+that the Trust is not subject to any material interest rate risk. The Trust does
+not engage in
+transactions in foreign currencies which could expose the Trust or Unit Holders 
+to any foreign
+currency related market risk. The Trust does not market the gas, oil and/or 
+natural gas liquids
+from the Underlying Properties. BROG is responsible for such marketing.
+</DIV>
+<!-- link2 "Item&nbsp;4. Controls and Procedures" -->
+<DIV align="left"><A NAME="004"></A></DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;4. 
+Controls and Procedures.</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Trust maintains a system of disclosure 
+controls and procedures that is designed to ensure
+that information required to be disclosed in the Trust&#146;s filings under the 
+Securities Exchange Act
+of 1934 is recorded, processed, summarized and reported, within the time periods
+specified in the
+Commission&#146;s rules and forms. Disclosure controls and procedures include 
+controls and procedures
+designed to ensure that information required to be disclosed by the Trust is 
+accumulated and
+communicated by BROG to the Trustee and its employees who participate in the 
+preparation of the
+Trust&#146;s periodic reports to allow timely decisions regarding disclosure. 
+Due to the pass-through
+nature of the Trust, BROG provides much of the information disclosed in this 
+Form 10-Q and the
+other periodic reports filed by the Trust with the Commission.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Indenture does not require BROG to update
+or provide information to the Trust. Under the
+Conveyance transferring the Royalty to the Trust, BROG is obligated to provide 
+the Trust with
+certain information concerning calculations of net proceeds owed to the Trust, 
+among other
+information. Pursuant to the settlement of litigation in 1996 between the Trust 
+and BROG, BROG
+agreed to new, more formal financial reporting and audit procedures as compared 
+to those provided
+in the Conveyance.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Trustee receives periodic updates from 
+BROG regarding activities related to the Trust.
+Accordingly, the Trust&#146;s ability to timely report certain information 
+required to be disclosed in
+the Trust&#146;s periodic reports is dependent on BROG&#146;s timely delivery of
+such information to the
+Trust. In order to help ensure the accuracy and completeness of the information 
+required to be
+disclosed in the Trust&#146;s periodic reports, the Trust employs independent 
+public accountants, joint
+interest auditors, marketing consultants, attorneys and petroleum engineers. 
+These outside
+professionals advise the Trustee in its review and compilation of this 
+information for inclusion in this Form 10-Q and the other periodic reports
+provided by the Trust to the Commission.
+</DIV>
+<P align="center" style="font-size: 10pt">18
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Trustee has evaluated the Trust&#146;s 
+disclosure controls and procedures as of September&nbsp;30,
+2005, and has concluded that such disclosure controls and procedures are 
+effective at the
+&#147;reasonable assurance&#148; level to ensure that material information 
+related to the Trust is gathered
+on a timely basis to be included in the Trust&#146;s periodic reports. In 
+reaching its conclusion, the
+Trustee considered the Trust&#146;s dependence on BROG to deliver timely and 
+accurate information to the
+Trust. The Trustee has not reviewed the Trust&#146;s disclosure controls and 
+procedures in concert with
+management, a board of directors or an independent audit committee. The Trust 
+does not have, nor
+does the Indenture provide for, officers, a board of directors or an independent
+audit committee.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During the quarter ended September&nbsp;30, 
+2005, there were no changes in the Trust&#146;s internal
+control over financial reporting (as defined in Rule&nbsp;13a-15(f) of the 
+Securities Exchange Act of
+1934) that materially affected, or are reasonably likely to materially affect, 
+the Trust&#146;s internal
+control over financial reporting. The Trustee has not evaluated the Trust&#146;s
+internal control over
+financial reporting in concert with management, a board of directors or an 
+independent audit
+committee. The Trust does not have, nor does the Indenture provide for, 
+officers, a board of
+directors or an independent audit committee.
+</DIV>
+<!-- link1 "PART II" -->
+<DIV align="left"><A NAME="005"></A></DIV>
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>PART II</B>
+</DIV>
+<DIV align="center" style="font-size: 10pt"><B>OTHER INFORMATION</B></DIV>
+<!-- link2 "Item&nbsp;1. Legal Proceedings" -->
+<DIV align="left"><A NAME="006"></A></DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;1. 
+Legal Proceedings.</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As discussed above under Part&nbsp;I, 
+Item&nbsp;4 &#147;Controls and Procedures,&#148; due to the pass-through
+nature of the Trust, BROG provides much of the information disclosed in this 
+Form 10-Q and the
+other periodic reports filed by the Trust with the Commission. Although the 
+Trustee receives
+periodic updates from BROG regarding activities which may relate to the Trust, 
+the Trust&#146;s ability
+to timely report certain information required to be disclosed in the 
+Trust&#146;s periodic reports is
+dependent on BROG&#146;s timely delivery of the information to the Trust.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Trust is not named as a party, nor are 
+its assets subject, to any material pending legal
+proceedings, however, BROG is involved in various legal proceedings, the outcome
+of which may
+impact the Trust. Should certain legal proceedings to which BROG is a party be 
+decided in a manner
+adverse to BROG, the amount of Royalty income received by the Trust could 
+materially decrease. The
+Trust has not received from BROG any estimate of the amount of any potential 
+loss in such
+proceedings, or the portion of any such potential loss that might be allocated 
+to the Royalty.
+</DIV>
+<!-- link2 "Item&nbsp;6. Exhibits" -->
+<DIV align="left"><A NAME="007"></A></DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;6. 
+Exhibits.</B>
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="6%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="90%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="right" valign="top"><DIV style="margin-left:0px; text-indent:-
+0px">4(a)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Amended and Restated Royalty Trust Indenture, 
+dated September&nbsp;30, 2002 (the
+original Royalty Trust Indenture, dated November&nbsp;1, 1980 having been 
+entered into
+between Southland Royalty Company and The Fort Worth National Bank, as Trustee),
+heretofore filed as Exhibit&nbsp;99.2 to the Trust&#146;s Current Report on 
+Form&nbsp;8-K filed with
+the Commission on October&nbsp;1, 2002, is incorporated herein by 
+reference.*</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="right" valign="top"><DIV style="margin-left:0px; text-indent:-
+0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="right" valign="top"><DIV style="margin-left:0px; text-indent:-
+0px">4(b)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Net Overriding Royalty Conveyance from 
+Southland Royalty Company to the Fort
+Worth National Bank, as Trustee, dated November&nbsp;3, 1980 (without 
+Schedules), heretofore
+filed as Exhibit&nbsp;4(b) to the Trust&#146;s Annual Report on Form&nbsp;10-K 
+filed with the
+Commission for the fiscal year ended December&nbsp;31, 1980, is incorporated 
+herein by
+reference.*</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="right" valign="top"><DIV style="margin-left:0px; text-indent:-
+0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="right" valign="top"><DIV style="margin-left:0px; text-indent:-
+0px">4(c)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Assignment of Net Overriding Interest (San 
+Juan Basin Royalty Trust), dated
+September&nbsp;30, 2002, between Bank One, N.A. and TexasBank, heretofore filed 
+as Exhibit
+4(c) to the</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<P align="center" style="font-size: 10pt">19
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="6%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="90%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="right" valign="top"><DIV style="margin-left:0px; text-indent:-
+0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Trust&#146;s Quarterly Report on Form&nbsp;10-
+Q filed with the Commission for the
+quarter ended September&nbsp;30, 2002, is incorporated herein by 
+reference.*</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="right" valign="top"><DIV style="margin-left:0px; text-indent:-
+0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="right" valign="top"><DIV style="margin-left:0px; text-indent:-
+0px">31
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Certification required by Rule&nbsp;13a-14(a),
+dated November&nbsp;8, 2005, by Lee Ann
+Anderson, Vice President and Trust Officer of TexasBank, the Trustee of the 
+Trust.**</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="right" valign="top"><DIV style="margin-left:0px; text-indent:-
+0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="right" valign="top"><DIV style="margin-left:0px; text-indent:-
+0px">32
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Certification required by Rule&nbsp;13a-14(b),
+dated November&nbsp;8, 2005, by Lee Ann
+Anderson, Vice President and Trust Officer of TexasBank, on behalf of TexasBank,
+the
+Trustee of the Trust.***</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV align="left">
+<DIV style="font-size: 3pt; margin-top: 16pt; width: 18%; border-top: 1px solid 
+#000000">&nbsp;</DIV>
+</DIV>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size:
+10pt">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD width="96"></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left">*</TD>
+    <TD>&nbsp;</TD>
+    <TD>A copy of this exhibit is available to any Unit Holder (free of charge) 
+upon written request
+to the Trustee, TexasBank, 2525 Ridgmar Boulevard, Suite&nbsp;100, Fort Worth, 
+Texas 76116.</TD>
+</TR>
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+<TR valign="top">
+    <TD nowrap align="left">**</TD>
+    <TD>&nbsp;</TD>
+    <TD>Filed herewith.</TD>
+</TR>
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+<TR valign="top">
+    <TD nowrap align="left">***</TD>
+    <TD>&nbsp;</TD>
+    <TD>Furnished herewith.</TD>
+</TR>
+</TABLE>
+<P align="center" style="font-size: 10pt">20
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<!-- link1 "SIGNATURES" -->
+<DIV align="left"><A NAME="008"></A></DIV>
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>SIGNATURES</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Pursuant to the 
+requirements of the Securities Exchange Act of 1934, the registrant has duly 
+caused
+this report to be signed on its behalf by the undersigned thereunto duly 
+authorized.
+</DIV>
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size:
+10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">TEXASBANK, AS TRUSTEE FOR<BR>
+THE SAN JUAN BASIN ROYALTY TRUST<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left">/s/ 
+Lee Ann Anderson
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">Lee Ann Anderson&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">Vice President and Trust Officer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">Date: 
+November&nbsp;8, 2005
+</DIV>
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">(The Trust has no 
+directors or executive officers.)
+</DIV>
+<P align="center" style="font-size: 10pt">
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<!-- link1 "INDEX TO EXHIBITS" -->
+<DIV align="left"><A NAME="009"></A></DIV>
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>INDEX TO 
+EXHIBITS</B>
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="6%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="90%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="center"><B>Exhibit</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="center"><B>Number</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B>Description</B></TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-
+0px">4(a)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Amended and Restated Royalty Trust Indenture, 
+dated September&nbsp;30,
+2002 (the original Royalty Trust Indenture, dated November&nbsp;1, 1980
+having been entered into between Southland Royalty Company and The
+Fort Worth National Bank, as Trustee), heretofore filed as Exhibit
+99.2 to the Trust&#146;s Current Report on Form&nbsp;8-K filed with the
+Commission on October&nbsp;1, 2002, is incorporated herein by
+reference.*</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-
+0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-
+0px">4(b)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+<TD align="left" valign="top">Net Overriding Royalty Conveyance from 
+Southland Royalty Company
+to the Fort Worth National Bank, as Trustee, dated November&nbsp;3,
+1980 (without Schedules), heretofore filed as Exhibit&nbsp;4(b) to the
+Trust&#146;s Annual Report on Form&nbsp;10-K filed with the Commission for
+the fiscal year ended December&nbsp;31, 1980, is incorporated herein by
+reference.*</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-
+0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-
+0px">4(c)
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Assignment of Net Overriding Interest (San 
+Juan Basin Royalty
+Trust), dated September&nbsp;30, 2002, between Bank One, N.A. and
+TexasBank, heretofore filed as Exhibit&nbsp;4(c) to the Trust&#146;s
+Quarterly Report on Form&nbsp;10-Q filed with the Commission for the
+quarter ended September&nbsp;30, 2002, is incorporated herein by
+reference.*</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-
+0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-
+0px">31
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Certification required by Rule&nbsp;13a-14(a),
+dated November&nbsp;8, 2005,
+by Lee Ann Anderson, Vice President and Trust Officer of
+TexasBank, the Trustee of the Trust.**</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-
+0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-
+0px">32
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Certification required by Rule&nbsp;13a-14(b),
+dated November&nbsp;8, 2005,
+by Lee Ann Anderson, Vice President and Trust Officer of
+TexasBank, on behalf of TexasBank, the Trustee of the Trust.***</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV align="left">
+<DIV style="font-size: 3pt; margin-top: 16pt; width: 18%; border-top: 1px solid 
+#000000">&nbsp;</DIV>
+</DIV>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size:
+10pt">
+<TR>
+    <TD width="3%"></TD>
+    <TD width="1%"></TD>
+    <TD width="96"></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap align="left">*</TD>
+    <TD>&nbsp;</TD>
+    <TD>A copy of this exhibit is available to any Unit Holder (free of charge) 
+upon written request
+to the Trustee, TexasBank, 2525 Ridgmar Boulevard, Suite&nbsp;100, Fort Worth, 
+Texas 76116.</TD>
+</TR>
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+<TR valign="top">
+    <TD nowrap align="left">**</TD>
+    <TD>&nbsp;</TD>
+    <TD>Filed herewith.</TD>
+</TR>
+<TR style="font-size: 3pt"><TD>&nbsp;</TD></TR>
+<TR valign="top">
+    <TD nowrap align="left">***</TD>
+    <TD>&nbsp;</TD>
+    <TD>Furnished herewith.</TD>
+</TR>
+</TABLE>
+<P align="center" style="font-size: 10pt">
+</DIV>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31
+<SEQUENCE>2
+<FILENAME>d30058exv31.htm
+<DESCRIPTION>CERTIFICATION REQUIRED BY RULE 13A-14(A) - VICE PRESIDENT AND TRUST
+OFFICER
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>exv31</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="right" style="font-size: 10pt; margin-top: 12pt"><U><B>EXHIBIT 
+31</B></U>
+</DIV>
+<DIV align="center" style="font-size: 10pt; margin-top: 
+18pt"><B>CERTIFICATION</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">I, Lee Ann Anderson,
+certify that:
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.&nbsp;I have reviewed this Quarterly Report
+on Form 10-Q of San Juan Basin Royalty Trust, for
+which TexasBank acts as Trustee;
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.&nbsp;Based on my knowledge, this report 
+does not contain any untrue statement of a material fact
+or omit to state a material fact necessary to make the statements made, in light
+of the
+circumstances under which such statements were made, not misleading with respect
+to the period
+covered by this report;
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.&nbsp;Based on my knowledge, the financial 
+statements, and other financial information included
+in this report, fairly present in all material respects the financial condition,
+distributable
+income and changes in trust corpus of the registrant as of, and for, the periods
+presented in this
+report;
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.&nbsp;I am responsible for establishing and
+maintaining disclosure controls and procedures (as
+defined in Exchange Act Rules&nbsp;13a-15(e) and 15d-15(e)) and internal control
+over financial
+reporting (as defined in Exchange Act Rules&nbsp;13a-15(f) and 15d-15(f)) for 
+the registrant and I have:
+</DIV>
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size:
+10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+<TD width="3%" nowrap align="left">a)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Designed such disclosure controls and procedures, or caused such 
+disclosure
+controls and procedures to be designed under my supervision, to ensure that 
+material
+information relating to the registrant, including its consolidated subsidiaries,
+is
+made known to me by others within those entities, particularly during the period
+in
+which this report is being prepared;</TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">b)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Designed such internal control over financial reporting, or caused such
+internal control over financial reporting to be designed under my supervision, 
+to
+provide reasonable assurance regarding the reliability of financial reporting 
+and the
+preparation of financial statements for external purposes;</TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">c)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Evaluated the effectiveness of the registrant&#146;s disclosure controls
+and
+procedures and presented in this report my conclusions about the effectiveness 
+of the
+disclosure controls and procedures, as of the end of the period covered by this 
+report
+based on such evaluation; and</TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">d)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Disclosed in this report any change in the registrant&#146;s internal 
+control over
+financial reporting that occurred during the registrant&#146;s most recent 
+fiscal quarter
+(the registrant&#146;s fourth fiscal quarter in the case of an annual report) 
+that has
+materially affected, or is reasonably likely to materially affect, the 
+registrant&#146;s
+internal control over financial reporting; and</TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.&nbsp;I have disclosed, based on my most 
+recent evaluation of internal control over financial
+reporting, to the registrant&#146;s auditors:
+</DIV>
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size:
+10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">a)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>All significant deficiencies and material weaknesses in the design or 
+operation
+of internal control over financial reporting which are reasonably likely to 
+adversely
+affect the registrant&#146;s ability to record, process, summarize and report 
+financial
+information; and</TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">b)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Any fraud, whether or not material, that involves persons who have a
+significant role in the registrant&#146;s internal control over financial 
+reporting.</TD>
+</TR>
+</TABLE>
+</DIV>
+<P align="center" style="font-size: 10pt">
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV style="margin-top: 6pt"><TABLE width="100%" border="0" cellpadding="0" 
+cellspacing="0" style="font-size: 10pt">
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">In giving the 
+certifications in paragraphs 4 and 5 above, I have relied to the extent I 
+consider
+reasonable on information provided to me by Burlington Resources Oil &#038; Gas 
+Company LP.
+</DIV>
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size:
+10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">Date:  November 8, 2005&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left">/s/ 
+Lee Ann Anderson
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">Lee Ann Anderson&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">Vice President and Trust Officer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+<P align="center" style="font-size: 10pt">
+</DIV>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-32
+<SEQUENCE>3
+<FILENAME>d30058exv32.htm
+<DESCRIPTION>CERTIFICATION REQUIRED BY RULE 13A-14(B) - VICE PRESIDENT AND TRUST
+OFFICER
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>exv32</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="right" style="font-size: 10pt; margin-top: 12pt"><U><B>EXHIBIT
+32</B></U>
+</DIV>
+<DIV align="center" style="font-size: 10pt; margin-top: 
+18pt"><U><B>CERTIFICATION OF</B></U><BR>
+<U><B>THE TRUSTEE*</B></U><BR>
+<U><B>OF THE SAN JUAN BASIN ROYALTY TRUST</B></U><BR>
+<U><B>PURSUANT TO 18 U.S.C. &#167; 1350</B></U>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In connection with the accompanying report on
+Form 10-Q for the quarter ended September&nbsp;30,
+2005, and filed with the Securities and Exchange Commission on the date hereof 
+(the &#147;Report&#148;), I,
+Lee Ann Anderson, Vice President and Trust Officer of TexasBank, on behalf of 
+TexasBank, the
+Trustee of the San Juan Basin Royalty Trust (the &#147;Trust&#148;), not in its 
+individual capacity but
+solely as Trustee of the Trust, hereby certify that:
+</DIV>
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size:
+10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">1.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Report fully complies in all material respects with the requirements
+of
+Section 13(a) or 15(d) of the Securities Exchange Act of 1934 (as explained in 
+Note 1
+to the Trust&#146;s financial statements contained in the Report, in accordance 
+with
+Securities and Exchange Commission Staff Accounting Bulletin No.&nbsp;47, 
+released September
+16, 1982, the Trust prepares its financial statements in a manner that differs 
+from
+generally accepted accounting principles; such presentation is customary to 
+other
+royalty trusts); and</TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">2.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The information contained in the Report fairly presents, in all material
+respects, the financial condition and results of operations of the Trust.</TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="46%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" valign="top" align="left">TEXASBANK, AS TRUSTEE OF THE</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" valign="top" align="left">SAN JUAN BASIN ROYALTY TRUST</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-
+0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">By:
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">/s/ Lee Ann Anderson</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" valign="top" align="left">Name:&nbsp; Lee Ann Anderson</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" valign="top" align="left">Title:&nbsp;&nbsp;&nbsp; Vice 
+President and Trust Officer</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-
+0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" valign="top" align="left">Date:&nbsp; November&nbsp;8, 
+2005</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">* The Trust has no 
+executive officers.
+</DIV>
+<P align="center" style="font-size: 10pt">
+</DIV>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

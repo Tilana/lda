@@ -1,0 +1,2436 @@
+
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Wkq37AKcH1vQ/sesgEMmpHmQH+W5OK2NDrY58DbQfzyzTEZC5TFEVh0JAsDJlEOn
+ Qr10qCkjmdS+6cq4HvR/gw==
+<SEC-DOCUMENT>0001199835-05-000612.txt : 20051114
+<SEC-HEADER>0001199835-05-000612.hdr.sgml : 20051111
+<ACCEPTANCE-DATETIME>20051114162609
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+10QSB
+4
+20050930
+0001199835-05-000612
+20051114
+20051114
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: CRUDE PETROLEUM & NATURAL GAS
+LEXINGTON RESOURCES INC
+0001060791
+[1311]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+880365453
+NV
+1231
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 000-25455
+FILM NUMBER:
+10QSB
+1934 Act
+051201915
+BUSINESS ADDRESS:
+STREET 1:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+7473 WEST LAKE MEAD RD
+LAS VEGAS
+NV
+89128
+702-382-5139
+MAIL ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+FORMER COMPANY:
+7473 WEST LAKE MEAD RD
+..
+LAS VEGAS
+NV
+89128
+FORMER CONFORMED NAME: INTERGOLD CORP
+DATE OF NAME CHANGE:
+19990225
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10QSB
+<SEQUENCE>1
+<FILENAME>lexington_10qsb-09302005.txt
+<DESCRIPTION>LEXINGTON RESOURCES 10QSB 9-30-2005
+<TEXT>
+                     U.S. SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-QSB
+(Mark One)
+[X]  QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+     ACT OF 1934
+For the quarterly period ended September 30, 2005
+[ ]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+     EXCHANGE ACT OF 1934
+For the transition period from _______ to _______
+Commission file number 0-25455
+LEXINGTON RESOURCES, INC.
+        -----------------------------------------------------------------
+        (Exact name of small business issuer as specified in its charter)
+NEVADA                                                88-0365453
+- 
+--------------------------------------------------------------------------------
+(State or other jurisdiction of                               (I.R.S. Employer
+incorporation of organization)                               Identification No.)
+7473 West Lake Mead Road
+                             Las Vegas, Nevada 89128
+                    (Address of Principal Executive Offices)
+(702) 382-5139
+                          (Issuer's telephone number)
+n/a
+              (Former name, former address and former fiscal year,
+                          if changed since last report)
+Check  whether the issuer (1) filed all reports  required to be filed by Section
+13 or 15(d) of the  Exchange  Act during the past 12 months (or for such shorter
+period that the registrant was required to file such reports),  and (2) has been
+subject to such filing requirements for the past 90 days.
+Yes [X] No [ ]
+Indicate by checkmark whether the registrant is a shell company (as defined in
+Rule 12b-2 of the Exchange Act).
+Yes [ ] No [X]
+Applicable  only to  issuers  involved  in  bankruptcy  proceedings  during  the
+preceding five years.
+N/A
+1
+<PAGE>
+Check whether the Registrant filed all documents required to be filed by Section
+12, 13 and 15(d) of the Exchange Act after the  distribution of securities under
+a plan confirmed by a court.
+Yes [ ] No [ ]
+Applicable only to corporate issuers
+State the number of shares outstanding of each of the issuer's classes of common
+equity, as of the latest practicable date:
+Class                                  Outstanding as of November 14, 2005
+- 
+--------------------------------------------------------------------------------
+Common Stock, $.00025 par value                       17,603,405
+Transitional Small Business Disclosure Format (check one)
+Yes [ ] No [X]
+2
+<PAGE>
+Table of Contents for   LEXINGTON RESOURCES, INC.                          Page
+PART I.  FINANCIAL INFORMATION
+ITEM 1.  INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+CONSOLIDATED BALANCE SHEETS ....................................... 4
+INTERIM CONSOLIDATED STATEMENTS OF OPERATIONS ..................... 5
+INTERIM CONSOLIDATED STATEMENTS OF CASH FLOWS...................... 6
+NOTES TO INTERIM CONSOLIDATED FINANCIAL STATEMENTS ........... 7 - 25
+ITEM 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+            CONDITION OR PLAN OF OPERATION ................................. 26
+ITEM 3. CONTROLS AND PROCEDURES ............................................ 38
+PART II. OTHER INFORMATION ................................................. 39
+ITEM 1.  LEGAL PROCEEDINGS ................................................. 39
+ITEM 2.  CHANGES IN SECURITIES AND USE OF PROCEEDS ......................... 39
+ITEM 3.  DEFAULTS UPON SENIOR SECURITIES ................................... 40
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS ............... 40
+ITEM 5.  OTHER INFORMATION ................................................. 40
+ITEM 6.  EXHIBITS AND REPORTS ON FORM 8-K .................................. 40
+SIGNATURES ................................................................. 41
+3
+<PAGE>
+PART 1. FINANCIAL INFORMATION
+ITEM 1. FINANCIAL STATEMENTS
+- -----------------------------
+LEXINGTON RESOURCES, INC.
+                    INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+                               SEPTEMBER 30, 2005
+                                  (Unaudited)
+LEXINGTON RESOURCES, INC.
+                           CONSOLIDATED BALANCE SHEETS
+<TABLE>
+<CAPTION>
+                                                                September 30,   
+December 31,
+                                                                    2005        
+2004
+- ------------------------------------------------------------   ------------   
+------------
+                                                                (unaudited)
+<S>                                                                 <C>         
+<C>
+                                     ASSETS
+CURRENT ASSETS
+   Cash and cash equivalents                                   $  1,011,538    $
+326,293
+   Accounts receivable                                              162,984     
+136,573
+     Prepaid expenses                                                12,000     
+--
+    Current portion of deferred finance fees and
+    discount on notes ( Note 7)                                     438,025     
+--
+- ------------------------------------------------------------   ------------   
+------------
+                                                                  1,624,547     
+462,866
+- ------------------------------------------------------------   ------------   
+------------
+DEFERRED FINANCE FEE AND DISCOUNT ON NOTES (Note 7)                 420,862     
+--
+- ------------------------------------------------------------   ------------   
+------------
+PROPERTY AND EQUIPMENT (Note 4)
+   Oil and gas properties full cost method of accounting
+           Proved, net of accumulated depletion $405,969
+           (2004 - $161,328)                                      2,710,046     
+1,209,938
+           Unproved                                               2,348,949     
+1,419,447
+- ------------------------------------------------------------   ------------   
+------------
+                                                                  5,058,995     
+2,629,385
+   Other equipment, net of accumulated depreciation                   2,499     
+2,997
+- ------------------------------------------------------------   ------------   
+------------
+                                                                  5,061,494     
+2,632,382
+- ------------------------------------------------------------   ------------   
+------------
+$  7,106,903    $
+3,095,248
+============================================================   ============    
+============
+LIABILITIES AND STOCKHOLDER'S EQUITY
+CURRENT LIABILITIES
+Accounts payable and accrued liabilities                    $    616,146    $
+228,819
+   Current portion of drilling obligations (Note 5)                    --       
+617,000
+     Current portion of convertible notes (Note 7)                1,839,305     
+--
+- ------------------------------------------------------------   ------------   
+------------
+                                                                  2,455,451     
+845,819
+CONVERTIBLE NOTES (Note 7)                                        1,215,443     
+--
+DRILLING OBLIGATIONS (Note 5)                                          --       
+563,915
+- ------------------------------------------------------------   ------------   
+------------
+                                                                  3,670,894     
+1,409,734
+- ------------------------------------------------------------   ------------   
+------------
+CONTINGENCIES AND COMMITMENTS (Notes 1, 4, 5, 7 & 10)
+STOCKHOLDERS' EQUITY (Note 8)
+   Common stock $.00025 par value: 200,000,000 shares
+   authorized Preferred stock, $.001 par value:
+   75,000,000 shares authorized Issued and outstanding:
+   17,603,405 common shares (December 31, 2004 - 16,999,038)          4,550     
+4,250
+     Additional paid-in capital                                  14,887,912     
+8,947,604
+   Common stock purchase warrants                                 2,580,854     
+301,815
+    Accumulated deficit                                         (14,037,307)    
+(7,568,155)
+- ------------------------------------------------------------   ------------   
+------------
+                                                                  3,436,009     
+1,685,514
+- ------------------------------------------------------------   ------------   
+------------
+                                                               $  7,106,903    $
+3,095,248
+============================================================   ============    
+============
+</TABLE>
+          The accompanying notes are an integral part of these interim
+                       consolidated financial statements.
+4
+<PAGE>
+LEXINGTON RESOURCES, INC.
+INTERIM CONSOLIDATED STATEMENT OF OPERATIONS
+(unaudited)
+<TABLE>
+<CAPTION>
+Three months   Three months      Nine 
+months    Nine months
+                                            Ended          Ended            
+Ended           Ended
+                                        September 30,   September 30,   
+September 30,   September 30,
+                                             2005            2004            
+2005            2004
+                                        ------------    ------------    
+------------    ------------
+<S>                                           <C>             <C>             
+<C>             <C>
+OIL AND GAS REVENUE                     $    137,458    $    211,549    $    
+530,721    $    305,756
+                                        ------------    ------------    
+------------    ------------
+OPERATING EXPENSES
+     Depletion                               104,761         105,628         
+244,641         112,186
+     Operating costs and taxes                58,612          14,458         
+180,073          21,641
+                                        ------------    ------------    
+------------    ------------
+                                             163,373        1120,086         
+424,714         133,827
+                                        ------------    ------------    
+------------    ------------
+OPERATING PROFIT (LOSS)                      (25,915)         91,463         
+106,007         171,929
+                                        ------------    ------------    
+------------    ------------
+OTHER EXPENSES
+   Consulting - stock based (Note 9)       1,138,238            --         
+1,913,991       2,989,221
+   General and administrative                116,499         949,459       
+1,287,170       2,307,567
+   Interest and finance fees (Note 7)      3,365,248          23,924       
+3,373,998          50,309
+                                        ------------    ------------    
+------------    ------------
+4,619,985         973,383      
+6,575,159        5,347,097
+                                        ------------    ------------    
+------------    ------------
+NET LOSS FOR THE PERIOD                   (4,645,900)   $   (881,920)   $ 
+(6,469,152)   $ (5,175,168)
+                                        ============    ============    
+============    ============
+BASIC NET LOSS PER SHARE                $      (0.26)   $      (0.06)   $      
+(0.37)   $    (0.35)
+                                        ============    ============    
+============    ============
+WEIGHTED AVERAGE COMMON
+      OF SHARES OUTSTANDING               17,557,753      15,319,693      
+17,375,441      14,632,326
+                                        ============    ============    
+============    ============
+</TABLE>
+The accompanying notes are an integral part of these interim
+                       consolidated financial statements.
+5
+<PAGE>
+LEXINGTON RESOURCES, INC.
+INTERIM CONSOLIDATED STATEMENTS OF CASH FLOWS
+(unaudited)
+For the Nine     For the nine
+                                                   month period     month period
+                                                       ended           ended
+                                                    September 30,  September 30,
+                                                        2005           2004
+- ---------------------------------------------------- -----------    
+-----------
+CASH FLOWS FROM OPERATING ACTIVITIES
+  Net loss for the period                            $(6,469,152)   $(5,175,168)
+  Adjustments to reconcile net loss to net cash
+    from operating activities:
+       Stock-based consulting fees                     1,913,991      2,989,221
+           Non-cash compensation                         153,708         19,167
+       Oil and gas depletion                             244,641        112,186
+           Depreciation                                      498            332
+       Non-cash interest and finance costs             3,326,799           --
+  Changes in working capital assets and liabilities
+       Prepaid expenses                                  (12,000)        (6,550)
+       Accounts receivable                               (26,411)      (185,500)
+       Accounts payable                                 (195,226)       777,745
+       Accrued interest payable                           16,140         24,453
+       Accrued and unpaid fees payable                      --           30,000
+- ---------------------------------------------------- -----------    
+-----------
+NET CASH FLOWS USED IN OPERATING ACTIVITIES           (1,047,012)    (1,414,114)
+- ---------------------------------------------------- -----------    
+-----------
+CASH FLOWS FROM INVESTING ACTIVITIES
+  Purchase of equipment                                     --           (3,495)
+  Oil and gas properties                              (2,245,408)    (2,247,539)
+- ---------------------------------------------------- -----------    
+-----------
+NET CASH FLOWS USED IN INVESTING ACTIVITIES           (2,245,408)    (2,251,034)
+- ---------------------------------------------------- -----------    
+-----------
+CASH FLOWS FROM FINANCING ACTIVITIES
+    Drilling obligation (repayments) advances         (1,180,915)       737,984
+  Advances payable                                          --          279,306
+    Convertible notes, net  (Note 7)                   4,645,950        500,000
+  Net proceeds on sale of common stock                   512,630      3,281,075
+- ---------------------------------------------------- -----------    
+-----------
+NET CASH FLOWS FROM FINANCING ACTIVITIES               3,977,665      4,798,365
+- ---------------------------------------------------- -----------    
+-----------
+INCREASE (DECREASE) IN CASH                              685,245      1,133,217
+CASH, BEGINNING OF PERIOD                                326,293        351,420
+- ---------------------------------------------------- -----------    
+-----------
+CASH, END OF PERIOD                                  $ 1,011,538    $ 1,484,637
+==================================================== ===========    ===========
+SUPPLEMENTAL CASH FLOW INFORMATION (Refer to Note 12)
+The accompanying notes are an integral part of these interim
+                       consolidated financial statements.
+6
+<PAGE>
+LEXINGTON RESOURCES, INC.
+NOTES TO INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+SEPTEMBER 30, 2005
+(unaudited)
+- 
+--------------------------------------------------------------------------------
+NOTE 1: NATURE OF CONTINUED OPERATIONS AND BASIS OF PRESENTATION
+- 
+--------------------------------------------------------------------------------
+By Share Exchange Agreement dated November 19, 2003, Lexington  Resources,  Inc.
+("LRI" or "the Company"), a Nevada corporation,  acquired 100% of the issued and
+outstanding  shares  of  Lexington  Oil & Gas Ltd.  Co.  (an  exploration  stage
+company)  ("Lexington"),  in exchange for 9,000,000  (3,000,000  pre January 26,
+2004 3:1  forward  split)  restricted  shares  of  common  stock of the  Company
+representing  85% of the total issued and  outstanding  shares of the Company at
+the time. In connection with this  transaction,  the Company changed its name to
+Lexington Resources, Inc. (Refer to Note 3.)
+This acquisition has been accounted for as a reverse  acquisition with Lexington
+being treated as the accounting parent and LRI, the legal parent,  being treated
+as  the  accounting  subsidiary.   Accordingly,   the  consolidated  results  of
+operations  of the Company  include  those of Lexington  for the period from its
+inception on  September  29, 2003 and those of LRI since the date of the reverse
+acquisition.
+Lexington is an Oklahoma Limited Liability Corporation incorporated on September
+29, 2003 formed for the purposes of the  acquisition  and development of oil and
+natural gas properties in the United States, concentrating on unconventional gas
+production  initiatives  that  include  coal bed  methane gas  acquisitions  and
+developments  in the Arkoma  Basin in the State of  Oklahoma  as well as Barnett
+Shale targeted  acquisitions  and developments in the Dallas Fort Worth Basin in
+the State of Texas.  As planned  principal  operations  commenced  in 2004,  the
+Company is no longer considered to be an exploration stage company.
+Going Concern
+The consolidated financial statements have been prepared on the basis of a going
+concern which  contemplates  the  realization of assets and the  satisfaction of
+liabilities in the normal course of business.  The Company has a working capital
+deficiency  of $830,904  at  September  30,  2005,  has  incurred  losses  since
+inception of $14,037,307  and further losses are  anticipated in the development
+of its oil and gas  properties  raising  substantial  doubt as to the  Company's
+ability to continue as a going  concern.  The ability of the Company to continue
+as a going  concern is dependent on raising  additional  capital to fund ongoing
+research  and  development  and  ultimately  on  generating   future  profitable
+operations.  The Company currently has unfunded property acquisition obligations
+as  disclosed  in Note 4. The  Company  will  continue to fund  operations  with
+advances and debt instruments, as well as further equity placements.
+Unaudited Interim Financial Statements
+The accompanying  unaudited interim consolidated  financial statements have been
+prepared in accordance with generally accepted accounting principles for interim
+financial  information  and with the  instructions  to Form 10-QSB of Regulation
+S-B. They do not include all information and footnotes required by United States
+generally  accepted  accounting  principles for complete  financial  statements.
+However,  except as disclosed herein, there have been no material changes in the
+information  disclosed  in the notes to the  financial  statements  for the year
+ended December 31, 2004 included in the Company's  Annual Report on Forms 10-KSB
+and 10-KSB/A  filed with the  Securities  and Exchange  Commission.  The interim
+unaudited  consolidated  financial statements should be read in conjunction with
+those  financial  statements  included in the Form 10-KSB and  10-KSB/A.  In the
+7
+<PAGE>
+NOTE 1: NATURE OF CONTINUED OPERATIONS AND BASIS OF PRESENTATION - continued
+- 
+--------------------------------------------------------------------------------
+opinion  of  Management,   all  adjustments  considered  necessary  for  a  fair
+presentation, consisting solely of normal recurring adjustments, have been made.
+Operating  results  for  the  nine  months  ended  September  30,  2005  are not
+necessarily  indicative  of the results that may be expected for the year ending
+December 31, 2005.
+NOTE 2:  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+- 
+--------------------------------------------------------------------------------
+(a) Principles of Consolidation
+The consolidated  financial  statements  include the accounts of the Company and
+its  wholly-owned  subsidiary,  Lexington.  Lexington  was  acquired  by reverse
+acquisition on November 19, 2003. All significant inter-company transactions and
+account balances have been eliminated upon consolidation.
+(b) Oil and Gas Properties
+The  Company  follows  the full cost  method of  accounting  for its oil and gas
+operations  whereby all costs related to the acquisition of methane,  petroleum,
+and natural gas interests are capitalized. Under this method, all productive and
+nonproductive  costs  incurred  in  connection  with  the  exploration  for  and
+development of oil and gas reserves are capitalized. Such costs include land and
+lease acquisition  costs,  annual carrying charges of non-producing  properties,
+geological and geophysical costs, costs of drilling and equipping productive and
+non-productive  wells,  and direct  exploration  salaries and related  benefits.
+Proceeds from the disposal of oil and gas properties are recorded as a reduction
+of the related  capitalized  costs without  recognition of a gain or loss unless
+the  disposal  would  result in a change of 20 percent or more in the  depletion
+rate. The Company currently operates solely in the U.S.A.
+Depletion   of   proved   oil   and   gas   properties   is   computed   on  the
+units-of-production   method  based  upon  estimates  of  proved  reserves,   as
+determined by  independent  consultants,  with oil and gas being  converted to a
+common unit of measure based on their relative energy content.
+The costs of acquisition  and  exploration  of unproved oil and gas  properties,
+including  any  related  capitalized   interest  expense,  are  not  subject  to
+depletion,  but  are  assessed  for  impairment  either  individually  or  on an
+aggregated  basis. The costs of certain  unevaluated  leasehold acreage are also
+not  subject to  depletion.  Costs not  subject to  depletion  are  periodically
+assessed for possible impairment or reductions in value. If a reduction in value
+has  occurred,  costs  subject to  depletion  are  increased or a charge is made
+against  earnings  for  those  operations  where  a  reserve  base  is  not  yet
+established.
+Estimated future removal and site  restoration  costs are provided over the life
+of  proven  reserves  on  a  units-of-production  basis.  Costs,  which  include
+production equipment removal and environmental  remediation,  are estimated each
+period by management based on current regulations, actual expenses incurred, and
+technology and industry  standards.  The charge is included in the provision for
+depletion and depreciation and the actual  restoration  expenditures are charged
+to the accumulated provision amounts as incurred.
+The Company applies a ceiling test to capitalized  costs which limits such costs
+to the aggregate of the estimated  present value,  using a ten percent  discount
+rate of the estimated  future net revenues from production of proven reserves at
+year end at market  prices less future  production,  administrative,  financing,
+8
+<PAGE>
+NOTE 1: NATURE OF CONTINUED OPERATIONS AND BASIS OF PRESENTATION - continued
+- 
+--------------------------------------------------------------------------------
+site  restoration,  and  income  tax costs  plus the lower of cost or  estimated
+market value of unproved  properties.  If  capitalized  costs are  determined to
+exceed estimated future net revenues,  a write-down of carrying value is charged
+to depletion in the period.
+(c) Asset Retirement Obligations
+The Company has adopted the  provisions of SFAS No. 143,  "Accounting  for Asset
+Retirement Obligations." SFAS No. 143 requires the fair value of a liability for
+an asset  retirement  obligation  to be  recognized in the period in which it is
+incurred  if a  reasonable  estimate of fair value can be made.  The  associated
+asset  retirement  costs are  capitalized as part of the carrying  amount of the
+related  oil and  gas  properties.  As of  September  30,  2005  management  has
+determined that there are no material asset retirement obligations.
+(d) Earnings (loss) Per Share
+Basic earnings (loss) per share is computed by dividing  earnings (loss) for the
+period by the  weighted  average  number of common  shares  outstanding  for the
+period.  Diluted  earnings  (loss) per share reflects the potential  dilution of
+securities by including  other  potential  common stock,  including  convertible
+preferred  shares,  in the weighted average number of common shares  outstanding
+for a period  and is not  presented  where  the  effect  is  anti-dilutive.  The
+presentation  is only of  basic  earnings  (loss)  per  share as the  effect  of
+potential  dilution of securities  has no impact on the current  period's  basic
+earnings (loss) per share.  Loss per share,  as presented,  has been restated to
+reflect the forward stock split described in Note 7. The weighted average number
+of  shares  outstanding  prior to the  reverse  acquisition  is deemed to be the
+number of  shares  issued  in  connection  with the  reverse  acquisition  being
+9,000,000 shares (3,000,000 pre January 26, 2004 3:1 forward split).
+(e) Revenue Recognition
+Oil and natural gas revenues are recorded  using the sales  method,  whereby the
+Company  recognizes  oil and natural gas revenue  based on the amount of oil and
+gas sold to  purchasers,  when  title  passes,  the amount is  determinable  and
+collection is reasonably assured.
+(f) Financial Instruments
+The  fair  values  of  cash,  accounts  receivable,  accounts  payable,  accrued
+liabilities,  drilling  obligations  and  advances  due to related  parties were
+estimated  to  approximate  their  carrying  values  due  to  the  immediate  or
+short-term  maturity of these financial  instruments.  The Company's current and
+planned  operations  are  located in the States of  Oklahoma  and Texas,  in the
+United  States,  and as a result  the  Company  is not  subject  to  significant
+exposure to market risks from changes in foreign currency rates.
+The Company's financial instruments that are exposed to concentrations of credit
+risk consist  primarily of cash and accounts  receivable.  The Company's cash is
+held at a major U.S.  based  financial  institution.  The  Company  manages  and
+controls  market and credit risk through  established  formal  internal  control
+procedures, which are reviewed on an ongoing basis.
+The  Company  sells  its  gas to  only  two  customers  as  there  is  currently
+insufficient  production  for  multiple  purchasers.  The  Company  manages  and
+controls this situation by ensuring it only deals with gas  purchasers  that are
+reputable and are well established.
+9
+<PAGE>
+NOTE 1: NATURE OF CONTINUED OPERATIONS AND BASIS OF PRESENTATION - continued
+- 
+--------------------------------------------------------------------------------
+(g) Concentration of Credit Risk
+Substantially  all of the Company's sales are to two parties.  Consequently  the
+Company is exposed to a concentration of credit risk.
+(h) Use of Estimates
+The preparation of these consolidated  financial  statements requires the use of
+certain   estimates  by  management  in   determining   the  Company's   assets,
+liabilities,  revenues  and  expenses.  Actual  results  could  differ from such
+estimates.  Depreciation,  depletion and  amortization of oil and gas properties
+and the impairment of oil and gas properties are determined  using  estimates of
+oil and gas  reserves.  There  are  numerous  uncertainties  in  estimating  the
+quantity of reserves and in projecting the future rates of production and timing
+of development expenditures, including future costs to dismantle, dispose, plug,
+and restore the Company's  properties.  Oil and gas reserve  engineering must be
+recognized as a subjective  process of estimating  underground  accumulations of
+oil and gas that cannot be measured in an exact way.  Proved reserves of oil and
+natural gas are  estimated  quantities  that  geological  and  engineering  data
+demonstrate with reasonable certainty to be recoverable in the future from known
+reservoirs under existing conditions.
+(i) Stock-Based Compensation
+In December  2002, the Financial  Accounting  Standards  Board  ("FASB")  issued
+Financial Accounting Standard No. 148, "Accounting for Stock-Based  Compensation
+- -  Transition  and  Disclosure"  ("SFAS No.  148"),  an  amendment  of 
+Financial
+Accounting Standard No. 123 "Accounting for Stock-Based Compensation" ("SFAS No.
+123").  The  purpose of SFAS No. 148 is to: (1) provide  alternative  methods of
+transition for an entity that voluntarily changes to the fair value based method
+of accounting for stock-based  employee  compensation,  (2) amend the disclosure
+provisions  to require  prominent  disclosure  about the effects on reported net
+income of an entity's  accounting  policy  decisions with respect to stock-based
+employee compensation, and (3) to require disclosure of those effects in interim
+financial information.  The disclosure provisions of SFAS No. 148 were effective
+for the Company for the period ended December 31, 2003.
+The  Company  has  elected to  continue  to  account  for  stock-based  employee
+compensation  arrangements  in  accordance  with the  provisions  of  Accounting
+Principles  Board Opinion No. 25,  "Accounting  for Stock Issued to  Employees",
+("APB No.  25") and comply  with the  disclosure  provisions  of SFAS No. 123 as
+amended by SFAS No. 148 as described above. In addition, in accordance with SFAS
+No. 123 the  Company  applies  the fair  value  method  using the  Black-Scholes
+option-pricing model in accounting for options granted to consultants. Under APB
+No. 25, compensation  expense is recognized based on the difference,  if any, on
+the date of grant  between the estimated  fair value of the Company's  stock and
+the amount an employee  must pay to acquire the stock.  Compensation  expense is
+recognized  immediately  for past services and pro-rata for future services over
+the option-vesting period.
+(i) Stock-Based Compensation - continued
+The  following  table  illustrates  the pro forma  effect on net  income and net
+earnings per share as if the Company had accounted for its stock-based  employee
+compensation  using  the  fair  value  provisions  of SFAS  No.  123  using  the
+assumptions as described in Note 4:
+10
+<PAGE>
+NOTE 1: NATURE OF CONTINUED OPERATIONS AND BASIS OF PRESENTATION - continued
+- 
+--------------------------------------------------------------------------------
+<TABLE>
+<CAPTION>
+Nine months ended   Nine 
+months ended
+                                                    September 30, 2005  
+September 30, 2004
+                                                    ------------------  
+------------------
+<S>                                                     <C>                 <C>
+Net loss for the period             As reported         $   (6,469,152)     $   
+(5,175,168)
+SFAS 123 compensation expense       Pro-forma                 (841,307)         
+(692,051)
+                                                    ------------------  
+------------------
+Net loss for the period             Pro-forma           $   (7,310,459)      $  
+(5,867,219)
+                                                    ==================  
+==================
+Pro-forma basic net loss per share  Pro-forma           $        (0.42)      $  
+(0.40)
+                                                    ==================  
+==================
+</TABLE>
+The Company accounts for equity  instruments  issued in exchange for the receipt
+of goods or services from other than  employees in accordance  with SFAS No. 123
+and the  conclusions  reached  by the  Emerging  Issues  Task Force in Issue No.
+96-18.   Costs  are  measured  at  the  estimated   fair  market  value  of  the
+consideration  received or the  estimated  fair value of the equity  instruments
+issued,  whichever is more reliably measurable.  The value of equity instruments
+issued for  consideration  other than  employee  services is  determined  on the
+earliest  of a  performance  commitment  or  completion  of  performance  by the
+provider of goods or services as defined by EITF 96-18.
+The Company has also adopted the  provisions of the FASB  Interpretation  No.44,
+Accounting  for  Certain   Transactions   Involving  Stock   Compensation  -  An
+Interpretation  of APB Opinion No. 25 ("FIN 44"), which provides  guidance as to
+certain applications of APB 25.
+(j) Income taxes
+The Company follows the liability  method of accounting for income taxes.  Under
+this method,  deferred tax assets and  liabilities are recognized for the future
+tax  consequences  attributable to differences  between the financial  statement
+carrying  amounts of existing assets and  liabilities  and their  respective tax
+balances.  Deferred tax assets and  liabilities  are measured  using  enacted or
+substantially  enacted tax rates  expected to apply to the taxable income in the
+years in which those  differences  are expected to be recovered or settled.  The
+effect  on  deferred  tax  assets  and  liabilities  of a change in tax rates is
+recognized  in income in the  period  that  includes  the date of  enactment  or
+substantial enactment. A valuation allowance is provided for deferred tax assets
+if it is more  likely  than not that the  Company  will not  realize  the future
+benefit, or if future deductibility is uncertain.
+(k) Cash and cash equivalents
+The Company considers all highly liquid instruments with an original maturity of
+three months or less at the time of issuance to be cash equivalents.
+11
+<PAGE>
+NOTE 3 - ACQUISITION OF LEXINGTON OIL & GAS LTD. CO. LLC ("Lexington")
+- 
+--------------------------------------------------------------------------------
+By Share Exchange  Agreement dated November 19, 2003, the Company  acquired 100%
+of the  issued  and  outstanding  shares  of  Lexington  (an  exploration  stage
+company),  in exchange for 9,000,000 (3,000,000 pre January 26, 2004 3:1 forward
+split)  restricted  shares of common stock of the  Company.  As a result of this
+transaction the former  stockholders of Lexington acquired  approximately 85% of
+the total issued and outstanding  shares of the Company as at November 19, 2003,
+resulting in a change in control of the Company.
+During  January,  2004,  the  parties to the Share  Exchange  Agreement,  Orient
+Exploration  Ltd.  ("Orient"),  Douglas  Humphreys  ("Humphreys"),  the Company,
+Lexington,  and Paluca Petroleum Inc.  ("Paluca")  re-evaluated the terms of the
+original  Share  Exchange  Agreement  and upon further  negotiations  desired to
+modify the terms of the original  agreement in the best  interest of all parties
+such that: (i) 2,250,000 post forward split shares of restricted Common Stock of
+the  Company  held  of  record  by  Humphreys  were  transferred  to  Orient  in
+consideration  therefore;  (ii) the Company  assigned to  Humphreys a 5% carried
+working  interest in every well  drilled by the Company on the Wagnon  Property;
+(iii) the Company  agreed to allow  Humphreys to participate up to an additional
+5% working interest in every well drilled by the Company on the Wagnon Property;
+(iv) the Company agreed to transfer to Paluca certain assets previously acquired
+by the Company (which included  working  interests and net revenue  interests in
+certain oil and gas leases  located on the Doc Cole  Property,  the Atwood Booch
+Sand Property, the Jeneva Property and the Sasakwa Gilcrease Sand Property).
+Management  of the  Company  decided  not to  proceed  with the  acquisition  or
+development  of  the  described  properties  as  set  out in  item  (iv)  due to
+management's  analysis that the properties did not contain the  appropriate  oil
+and gas development  elements that form part of the Company's  current focus and
+criteria for corporate oil and gas development initiatives.
+This acquisition has been accounted for as a  recapitalization  using accounting
+principles  applicable to reverse  acquisitions  with Lexington being treated as
+the accounting parent (acquirer) and Lexington Resources,  Inc. being treated as
+the accounting subsidiary (acquiree). The value assigned to the capital stock of
+consolidated  Lexington Resources,  Inc. on acquisition of Lexington is equal to
+the book value of the capital stock of Lexington  plus the book value of the net
+assets  (liabilities)  of  Lexington  Resources,  Inc.  as at  the  date  of the
+acquisition.
+The  book  value  of  Lexington's   capital  stock  subsequent  to  the  reverse
+acquisition is calculated and allocated as follows:
+Lexington capital stock                                $       300
+      Lexington Resources, Inc. net assets (liabilities)      (1,430,969)
+                                                             -----------
+                                                              (1,430,669)
+      Charge to deficit on reverse acquisition                 1,433,317
+                                                             -----------
+      Consolidated stock accounts post reverse acquisition   $     2,648
+                                                             ===========
+These  consolidated  financial  statements  include the results of operations of
+subsidiary  Lexington  since  September 29, 2003  (inception) and the results of
+operations of parent  Lexington  Resources,  Inc.  since the date of the reverse
+acquisition  effective November 19, 2003. The Company's  consolidated results of
+operations  for the period from January 1, 2003 to September  30, 2003 have been
+reported in the Company's September 30, 2003 filing on Form 10-QSB.
+12
+<PAGE>
+NOTE 3 - ACQUISITION OF LEXINGTON OIL & GAS LTD. CO. LLC ("Lexington") - cont'd
+- 
+--------------------------------------------------------------------------------
+In  order  to  reflect  the  revised   operating   arrangement   resulting  from
+modifications  to the  original  terms  of the  Share  Exchange  Agreement,  the
+Humphreys  Purchase and Sale Agreement and the Paluca Agreement both outlined in
+the following sections were simultaneously executed.
+Humphreys Purchase and Sale Agreement
+On January 21, 2004,  Orient and Humphreys,  a director of the Company,  entered
+into  a  purchase  and  sale  agreement  (the   "Humphreys   Purchase  and  Sale
+Agreement").  Pursuant to the terms and provisions of the Humphreys Purchase and
+Sale  Agreement:  Humphreys  agreed to transfer  2,250,000  shares of restricted
+Common Stock of the Company held of record by Humphreys to Orient.
+Paluca Agreement
+On January 21, 2004, the Company, Lexington,  Paluca, and Humphreys entered into
+an agreement whereby: (i) the Company assigned to Humphreys a 5% carried working
+interest in every well drilled by the Company on the Wagnon  Property;  (ii) the
+Company agreed to allow  Humphreys to participate up to an additional 5% working
+interest  in every well  drilled by the  Company on the Wagnon  Property;  (iii)
+Humphreys agreed to waive any and all other claims, debts or obligations owed to
+Humphreys  by the  Company  or by  Lexington,  and (iv) the  Company  agreed  to
+transfer to Paluca  certain  assets  previously  acquired by the Company  (which
+included  working  interests  and net revenue  interests  in certain oil and gas
+leases  located on the Doc Cole Property,  the Atwood Booch Sand  Property,  the
+Jeneva Property and the Sasakwa Gilcrease Sand Property).
+Management Compensation Agreement
+The Company and Lexington have  negotiated a new  compensation  agreement  ("New
+Agreement")  with  Humphreys  for his  assistance  in  overseeing  the  drilling
+operations and the completion,  management of wells, and for his increasing role
+in  development  of the  Company on a  performance  basis.  Under the  covenants
+provided under the New Agreement and within its effective  term,  Humphreys,  or
+his  designate:  (1) will receive  compensation  of $7,500 per month,  effective
+April 1, 2004;  (2) will be  assigned up to a 10%  carried  working  interest of
+Lexington's  total  interest  in  every  well  drilled  by  the  Company  on all
+properties  held by the  Company,  (3) will have the right to  purchase up to an
+additional  5% working  interest  of  Lexington's  total  interest  in all wells
+drilled  by  the  Company  on  its  properties  provided  that  funds  for  this
+participation  are paid prior to the commencement of drilling of said wells; and
+(4) will receive a further 200,000 options in the Company to be granted at $3.00
+per share  exercisable for a five year term.  These options were granted in July
+2004. (Refer to Note 8.)
+During the nine month  period  ended  September  30, 2005 the  Company  recorded
+additional  compensation  expense to  Humphreys of $153,708  (September,  2004 -
+$NIL) being the  estimated  value of his 10% carried  interest in the  Company's
+well interests that were  successfully  developed in the period ended  September
+30, 2005. (Refer to Note 4.)
+Humphreys is a director of the Company and is the Drilling Operations Manager of
+Lexington,  and also a director,  General  Manager,  and 25%  shareholder in Oak
+Hills  Drilling and Operating,  LLC ("Oak  Hills"),  an oil and gas drilling and
+well operating  company based in  Holdenville,  Oklahoma that acts as designated
+"operator" to Lexington since January 1, 2005. Humphreys is in charge of oil and
+gas  operations  for  Lexington  in the United  States.  (Refer to Note 10.) The
+previous operator in charge of drilling and operating of wells for Lexington was
+Oakhills Energy, Inc.
+13
+<PAGE>
+NOTE 3 - ACQUISITION OF LEXINGTON OIL & GAS LTD. CO. LLC ("Lexington") - cont'd
+- 
+--------------------------------------------------------------------------------
+Paluca  Petroleum Inc. is a private  Oklahoma based oil and gas services company
+owned by Humphreys and his immediate  family.  Some of the services  provided by
+Humphreys  to the  Company  are  provided  through  this  business  entity.  Mr.
+Humphreys is also the President of Paluca.
+NOTE 4 - PROPERTY AND EQUIPMENT
+- 
+--------------------------------------------------------------------------------
+Property and equipment include the following:
+September 30, December 31,
+                                                2005          2004
+                                             ----------    ----------
+Oil and gas properties:                          $             $
+Proved, subject to depletion                  3,116,015     1,371,266
+Unproved, not subject to depletion            2,348,949     1,419,447
+Accumulated depletion                          (405,969)     (161,328)
+                                             ----------    ----------
+Net oil and gas properties                    5,058,995     2,629,385
+                                             ----------    ----------
+Other equipment                                   3,495         3,495
+Accumulated depreciation                           (996)         (498)
+----------    ----------
+Net other property and equipment                  2,499         2,997
+                                             ----------    ----------
+Property and equipment, net of accumulated
+  depreciation  and depletion                 5,061,494     2,632,382
+                                             ==========    ==========
+The  Company's  oil and gas  activities  are  currently  conducted in the United
+States.  During the current  period the Company  incurred  development  costs of
+$1,832,096  on its  properties  inclusive  of  carrying  costs to  Humphreys  of
+$153,708.
+Wagnon Lease
+By agreement dated October 9, 2003,  Lexington acquired an interest in a section
+of farm-out acreage with the intention to develop coal bed methane gas producing
+wells in Pittsburg County, Oklahoma. Lexington holds an 80% working interest and
+a 60.56% net revenue interest in approximately  590 gross acreage of a potential
+gas  producing  property  located in  Pittsburg  County,  Oklahoma  (the "Wagnon
+Property"). The Company's interest relating to the Wagnon Property is subject to
+farm-out  agreements  equating to a total 20% working  interest  between Paluca,
+Oakhills Energy,  Inc. and the lessee of the Wagnon  Property.  Drilling targets
+are Hartshorne Coal bed methane gas zones.
+A director  and an officer  of the  Company  were  minority  owners in  Oakhills
+Energy,  Inc. in 2003. Their interest in Oakhills Energy,  Inc. was purchased by
+the majority shareholder on January 26, 2004.
+During  the year  ended  December  31,  2004,  three  horizontal  gas wells (the
+Kellster 1-5, Kyndal 2-2 and Bryce 3-2) have been put into production.
+On March 15, 2005 the Company began drilling a fourth horizontal gas well on the
+Wagnon  Property  (Calleigh  4-2).  The well began  producing  on April 2, 2005.
+During the period ended September 30, 2005 the Company has incurred  $552,898 on
+14
+<PAGE>
+NOTE 4 - PROPERTY AND EQUIPMENT - continued
+- 
+--------------------------------------------------------------------------------
+drilling  expenditures  relating to a total of four  producing  gas wells on the
+Wagnon lease. (Refer to Note 5.)
+Coal Creek Prospect
+In March 2004 the  Lexington  obtained an option to purchase  an  undivided  95%
+interest in  approximately  2,500 net leasehold  acres in 5 sections of the Coal
+Creek  Prospect  located  in  Hughes  and  Pittsburg  Counties,  in the State of
+Oklahoma. During the year ended December 31, 2004 the Company acquired 1,932 net
+leasehold  acres  under the  option.  Lexington  does not expect to acquire  any
+additional  acreage under this option.  Under the terms of the purchase of these
+leases, Lexington has an undivided 95% working interest in the subject lands and
+a minimum 78% net revenue  interest.  The terms of the leases are for two years.
+Drilling targets are Hartshorne Coal bed methane gas zones.
+On March 31, 2005 Lexington began drilling its first horizontal coal bed methane
+gas well on the Coal Creek  Prospect  (Lex 1-34).  The well began  production in
+April 2005.  Lexington has  approximately a 50% working interest in the well and
+has accrued $496,526 in costs associated with the well for the period.
+On April 14,  2005  Lexington  began  drilling  its second  horizontal  coal bed
+methane gas well on its Coal Creek  Prospect  (Braumbaugh  1-10).  Lexington has
+approximately  a 22% working  interest  in the well and has accrued  $142,471 in
+costs associated with the well for the period.  The well began production in May
+2005.
+On May 31, 2005 Lexington  began drilling its third  horizontal coal bed methane
+gas well on its Coal Creek Prospect (Ellis 1-15). Lexington has approximately an
+88% working  interest in the well and has incurred  $593,588 in costs associated
+with the well for the period.  The well is currently in drilling and development
+stages.
+In June through  August 2005, the Company  received  loans  totaling  $1,165,000
+which have been  secured  against  the Coal Creek  property.  (Refer to Note 6.)
+Those loans were paid in full on September 19, 2005.
+Panther Creek Prospect
+In March 2004  Lexington  purchased  a 3 year lease of  approximately  300 acres
+located in five separate sections to develop the Panther Creek Project in Hughes
+County,  Oklahoma.  Lexington has an undivided 100% working  interest in subject
+lands and an approximate 81% net revenue  interest.  Part of the acreage in this
+lease has been subject to three division pooling orders by Newfield  Exploration
+Mid-Continent,  Inc. ("Newfield"), for three wells to be drilled and operated by
+Newfield in which  Lexington  has elected to  participate.  Lexington's  working
+interests  in the three wells to be drilled  are  proportionate  to  Lexington's
+Panther  Creek lease  ownership in areas pooled by Newfield.  Lexington  working
+interests in the three wells are estimated to be as follows;  25.78% (contingent
+liability  of $419,801  for a completed  well based on  Newfield  Authority  For
+Expenditure "AFE), 10.94% (contingent liability of $159,655 for a completed well
+based on Newfield AFE if drilled),  and 4.06%  (contingent  liability of $58,521
+for a  completed  well based on Newfield  AFE if  drilled).  Newfield  has up to
+approximately  the end of 2005 to drill the  remaining  two wells and may or may
+not proceed  with any  individual  well  project at their  election.  Contingent
+liability  exists to Lexington for any well drilled by Newfield  that  Lexington
+has elected to participate.
+Newfield has proceeded  with the drilling and  completion of one of the wells in
+which  Lexington  has  leased  acreage.  The first of the three  vertical  wells
+15
+<PAGE>
+NOTE 4 - PROPERTY AND EQUIPMENT - continued
+- 
+--------------------------------------------------------------------------------
+targeting  a  Woodford  Shale gas  zone,  the POE 1-29,  commenced  drilling  on
+February 9, 2005 and began  producing on March 21, 2005.  Lexington has incurred
+$485,071  for  drilling  and  completion  costs  relating  to the POE 1-29 as of
+September 30, 2005.
+South Lamar Prospect
+By agreement dated April 21, 2004,  Lexington  acquired a 100% working interest,
+78.5% net revenue interest, in three sections (960 acres) of farm-out acreage in
+Hughes  County,  Oklahoma  (the "South Lamar  Prospect")  with the  intention to
+develop coal bed methane gas producing wells and Caney Shale wells.  The term of
+the lease is two years.  On July 26, 2004,  Lexington  acquired a further 183.98
+acres in the South Lamar  prospect  and a 100%  working  interest  and a 79% net
+revenue interest in the additional acreage.  The term of the lease is two years.
+Lexington  has begun site  preparation  on the first well  (Goodson  1-23) to be
+drilled on the property; but has since abandoned plans to drill this well.
+H-9 Prospect
+By agreement  dated June 29, 2004,  Lexington has obtained an option to purchase
+an  undivided  100%  leasehold  interest,   79.25%  net  revenue  interest,   in
+approximately  4,600 net leasehold acres in approximately 38 sections of the H-9
+Prospect  located in Hughes and  McIntosh  Counties,  in the State of  Oklahoma.
+Lexington  concluded the purchase of the property on July 29, 2004. The terms of
+leases acquired within the prospect are between three and four years.
+On July 19,  2004  Lexington  acquired  an  additional  325 acres of gas  target
+drillable  acreage in the northeast  portion of Hughes  County,  Oklahoma in the
+vicinity of the  approximate  4,600 acres of farm out leases  under  acquisition
+(H-9)  Prospect.  Drilling  targets  that  are  included  in the  lease  include
+Hartshorne and Booch Coal gas zones with a 100% Working Interest and a 78.3% Net
+Revenue  Interest.  The acquired  lease is held by  production.  The term of the
+lease is three years.
+Middle Creek Prospect
+By agreement  dated October 28, 2004,  Lexington has purchased an undivided 100%
+leasehold interest,  70% net revenue interest, in 320 net leasehold acres in two
+sections of the Middle Creek Prospect located in Hughes County,  in the State of
+Oklahoma.  Drilling  targets are the Caney Shale and Hartshorne coal bed methane
+zones. The leasehold interest acquired is held by production.
+Barnett Pathway  Prospect On June 2, 2005 (amended on July 14, 2005) the Company
+entered  into an  agreement  whereby it has the option to purchase up to a 100 %
+working interest in net revenue  interests  ranging between 70% and 75% in up to
+3,687 acres of Barnett  Shale gas targeted  properties  located in Jack and Palo
+Pinto Counties in the State of Texas for between $450 and $500 per acre together
+with a 30 month best efforts  drilling  commitment.  On June 8, 2004 the Company
+provided the seller a $100,000 non-refundable deposit. The first acquisition was
+concluded on August 19, 2005 with the Company acquiring 2,325 acres.
+16
+<PAGE>
+NOTE 5:  DRILLING OBLIGATIONS
+- 
+--------------------------------------------------------------------------------
+During the period ended December 31, 2003 Lexington,  the Company,  and Oakhills
+Energy,  Inc.  entered into  drilling  agreements  with private  investors  (the
+"Funding  Investors")  for the funding for the first three  wells,  the Kellster
+1-5, the Kyndal 2-2 and the Bryce 3-2,  located on the Wagnon Lease. The Funding
+Investors   subsequently  each  provided  one-third  of  the  Authorization  For
+Expenditure   ("AFE")  capital  estimated  at  $360,000  for  the  drilling  and
+completion of each of the first three wells. As of June 30, 2005 a total of four
+such drilling  agreements  with private  investors had been entered into between
+Funding  Investors,  the Company,  and  Lexington.  The Company had received the
+total  required  funding of  $1,485,000 ( 2004 - $720,000)  for the drilling and
+completion of the four  horizontal  coal bed methane  Wagnon Lease wells and has
+successfully  drilled and  completed the Kellster 1-5, the Kyndal 2-2, the Bryce
+3-2 and the Calleigh  4-2 wells.  The terms of the  drilling  agreements  of all
+wells on the  Wagnon  Lease  are the same for  each  well on the  property.  The
+Calleigh 4-2 began production in April, 2005.
+Wells to be  drilled  on the  Wagnon  Lease  property  carry  royalty  interests
+totaling 25% to land owners and property  interest  holders and carried  working
+interests of 5% to a land owner,  and 10% to a company  related to a director of
+the  Company,  Paluca  Petroleum,  Inc.  (see Note 3 -  Management  Compensation
+Agreement).  Paluca Petroleum,  Inc. also owns a non-carried working interest of
+5% as part of capital participation funding provided by Paluca.
+NOTE 5: DRILLING OBLIGATIONS
+- 
+--------------------------------------------------------------------------------
+The Funding Investors are provided an 80% working  interest,  60.56% net revenue
+interest,  in the wells  until their  invested  capital for each well is repaid,
+after which time the Funding  Investors  revert to an  aggregate  20.1%  working
+interest,  15.075%  net  revenue  interest,  in the wells  located on the Wagnon
+Lease. Oakhills Energy, Inc., the previous operator responsible for drilling the
+wells,  will  "back-in" to a reversionary  6.7% working  interest after invested
+capital is repaid to the Funding  Investors  in the wells  located on the Wagnon
+Lease and Lexington will back-in to a reversionary 53.2% working interest.
+As of September  30, 2005,  the Funding  Investors  have been fully repaid their
+cumulative  capital  investment of  $1,485,000  for the drilling of the Kellster
+1-5, Kyndal 2-2, Bryce 3-2 and Calleigh 4-2 wells from February,  2004 to April,
+2005. As a result, the Company's back-in working interest of 53.2% has vested in
+the four wells.
+NOTE 6:  PROMISSORY NOTES
+- 
+--------------------------------------------------------------------------------
+In June 2005 the  Company  obtained  loans by way of  promissory  notes from two
+shareholders of the Company totaling $1,100,000 ($600,000 and $500,000).  During
+the period an additional  $65,000 had been advanced to the Company by one of the
+shareholders.  The terms of the loans  were 5 years from the dates of issue with
+an interest rate of 10%. Payments of blended principal and interest were payable
+monthly over a 60 month  amortization.  In conjunction  with the promissory note
+advances,  233,000  warrants,  valued at $271,028 (refer to Note 8), were issued
+exercisable  at $3.00 per share with exercise terms until May 31, 2010. The fair
+value of the  warrants  has been  credited to equity.  A discount on the debt of
+$271,028  was also  recorded,  to be  accreted  over the term of the  debt.  The
+promissory  notes were repayable at anytime  without  penalty,  and were secured
+against the Company's  Coal Creek oil and gas property  leases.  As of September
+30, 2005 the original  loan  principal of  $1,165,000  was repaid as well as all
+accrued  interest of $31,058.  The  unamortized  debt discount on settlement has
+been included in interest and finance fees.
+17
+<PAGE>
+NOTE 7:  CONVERTIBLE NOTES
+- 
+--------------------------------------------------------------------------------
+On  September  16, 2005 the Company  issued  secured and  Convertible  Notes and
+certain  warrants  pursuant  to a  private  placement  with  certain  accredited
+investors,  in  reliance  on Rule  506  promulgated  under  Section  4(2) of the
+Securities  Act, for gross proceeds of $5,260,000.  Introduction  and legal fees
+associated with this financing were $614,050. Accordingly, the Company issued:
+(i)  An aggregate of  $5,260,000  in secured,  convertible  two-year  promissory
+     notes bearing 8% interest. The promissory notes are immediately convertible
+     into  5,260,000  shares of common stock on the basis of one share of common
+     stock for every $1 in value of notes;
+(ii) For every two shares of its common stock purchasable in accordance with the
+     conversion provisions of the Convertible Notes, one Class A Warrant, for an
+     aggregate of 2,630,000 Class A Warrants,  to purchase a share of its common
+     stock at an exercise  price of $1.50 per share for a three-year  term after
+     this registration statement has been declared effective by the SEC;
+(iii)For every two shares of its common stock  purchasable  in  accordance  with
+     the conversion  provisions of the Convertible  Notes,  one Class B Warrant,
+     for an aggregate of 2,630,000  Class B Warrants,  to purchase an additional
+     share of our  common  stock at an  exercise  price of $1.25 per share for a
+     one-year term after this registration statement has been declared effective
+     by the SEC; and
+(iv) 526,000 Finder's  Warrants to purchase shares of the Company's common stock
+     at an  exercise  price of $1.00 per share for a term of three  years  after
+this registration statement has been declared effective by the SEC.
+The security granted is by a general  security  interest in all of the Company's
+property.
+Subsequent  to the period ended  September  30, 2005,  on October 11, 2005,  the
+Company  received  an  additional  $600,000  in  Convertible  Note  and  warrant
+financing under identical terms and conditions as mentioned above,  bringing the
+Company's total Convertible Note debt financing to $5,860,000. (See Note 13.)
+In  accordance  with  EITF  00-27  "Application  of Issue  No.  98-5 to  Certain
+Convertible  Instruments" and EITF 98-5  "Accounting for Convertible  Securities
+with  Beneficial  Conversion  Features  or  Contingently  Adjustable  Conversion
+Ratios" the proceeds of the issuance have been allocated  among the  convertible
+debt and the warrants  issued based upon their  relative  fair values.  The fair
+value of the 5,786,000  warrants  issued as of September 30, 2005 was determined
+to be $5,727,450 by using the  Black-Scholes  option  pricing model  assuming an
+expected life of 1 - 3 years,  a risk-free  interest  rate of 3.85% - 3.96%,  an
+expected volatility of 140.8%, and a dividend yield of 0%. The fair value of the
+convertible  debt has been  determined to be  $7,574,400,  based upon  5,260,000
+shares of common  stock at a market value of $1.44 per share.  As a result:  (a)
+the intrinsic value of the beneficial  conversion feature has been determined to
+be  $2,995,174  and has  been  charged  to  interest  expense  and  recorded  as
+additional paid in capital; (b) the pro-rata fair value of the warrants has been
+determined  to be $2,264,826  and has been recorded as equity.  The Company will
+record  further  interest  expense  over  the term of the  Convertible  Notes of
+$2,264,826  resulting from the difference  between the stated value and carrying
+value at the date of issuance.  The carrying value of the Convertible Notes will
+be accreted to the face value of $5,260,000 to maturity.  To September 30, 2005,
+accrued interest of $16,140 has been included in convertible notes, and interest
+expense of $43,435 has been accreted,  thereby  increasing the carrying value of
+the Convertible Notes to $3,054,748.
+18
+<PAGE>
+NOTE 7:  CONVERTIBLE NOTES - continued
+- 
+--------------------------------------------------------------------------------
+Repayment of Promissory Notes and Accrued Interest
+The Company is  committed to repay  convertible  debenture  holders  outstanding
+amounts of principal and interest  accrued at 8% per annum on an aggregate  face
+value of  $5,860,000 in  Convertible  Notes.  20 monthly  principal and interest
+payments are payable in either cash or shares of the  Company's  common stock at
+the rate of $1.00 per share (the "Fixed Conversion  Price") beginning on January
+16, 2005 if the  Company's  share price is trading  above $1.00 per share at the
+date of payment.  Commencing on the 4th month anniversary of the closing date of
+the issue of the Convertible  Notes (January 16, 2005),  and on the first day of
+each month thereafter, the Convertible Notes must be repaid in cash or shares in
+the amount equal to 5% of the  principal  amount of the Notes  together with all
+accrued  interest due and payable up to the  repayment  date.  If the  Company's
+shares are trading at less than $1.00 per share at the date of  repayment,  then
+the Company  may repay  monthly  principal  and  interest  due in either cash or
+shares  in the  capital  of the  Company  at a  different  rate  than the  Fixed
+Conversion Price. If the volume weighted average share price (the "VWAP") of the
+five  trading  days  prior to a  monthly  payment  date is less  than the  Fixed
+Conversion  Price,  then  the  Company  may pay the  monthly  amount  in cash or
+registered  shares of our common  stock at 75% of the VWAP for the five  trading
+days prior to the monthly  payment date.  The holders of the  Convertible  Notes
+have a secured first interest in the assets of the Company.
+Debt Repayment
+The aggregate amount of principal and interest  payments required in each of the
+next two years to meet debt retirement  provisions is as follows  (includes debt
+financing subsequent to the period ending September 30, 2005):
+Year   Principal   Interest     Total
+                    ----   ---------   ---------   ---------
+                               $             $         $
+                    2006   3,516,000     456,598   3,972,598
+                    2007   2,344,000      70,127   2,414,127
+                           ---------   ---------   ---------
+                           5,860,000     526,725   6,386,725
+                           =========   =========   =========
+================================================================================
+Deferred Finance Fees and Discount on Notes
+Deferred finance fees associated with this financing are comprised of:
+     (a) introduction and legal fees of $614,050; and
+     (b)  $262,000  being the value of 200,000  shares  issued to settle  with a
+former financier (Refer to Note 8). During the nine month period ended September
+30,  2005,  $17,163 of the  deferred  finance fees have been charged to interest
+expense and the balance of $858,887 will be expensed over the remaining  term of
+the convertible debt.
+NOTE 8:  STOCKHOLDERS' EQUITY
+- 
+--------------------------------------------------------------------------------
+The authorized capital of the Company consists of 200,000,000 voting common
+shares with $0.00025 par value, and 75,000,000 non-voting preferred shares with
+$0.001 par value.
+Forward Stock Split
+On January 26, 2004 the Company  forward split its common shares on the basis of
+three new shares for each common share outstanding. The par value and the number
+of authorized but unissued shares of the Company's  common stock was not changed
+as a result of the forward stock split.
+19
+<PAGE>
+NOTE 8:  STOCKHOLDERS' EQUITY - continued
+- 
+--------------------------------------------------------------------------------
+Unless  otherwise   noted,  all  references  to  common  stock,   common  shares
+outstanding,  average numbers of common shares outstanding and per share amounts
+in these  Financial  Statements and Notes to Financial  Statements  prior to the
+effective  dates of the reverse and forward  stock splits have been  restated to
+reflect the one-for-three  hundred reverse split and the  one-for-three  forward
+split on a retroactive basis.
+Stock Issuances - 2005
+On July 21, 2005 the Company  issued  200,000  restricted  common shares to C.K.
+Cooper & Co., relating to a termination and settlement  agreement  regarding the
+recent debt financing by the Company. The fair value of these shares at the date
+of  issuance  was $1.31 per share  bringing  the total  value to  $262,000.  The
+calculated  fair value  respecting  the issue of 200,000  common shares has been
+recorded as an increase  in equity and a charge to deferred  finders  fees which
+will be expensed over the term of the promissory  notes.  The shares are subject
+to subsequent registration rights. (Refer to Note 7.)
+Stock Issuances - 2004
+On January 22, 2004 the Company  issued  1,200,000  post forward split shares of
+its common stock,  upon the exercise of 1,200,000 post forward share split stock
+options at $0.167 per post  forward  share split share for proceeds of $200,000,
+which was paid by way of offset of $200,000  originally  advanced to the Company
+by ICI which was assigned by Investor Communications International, Inc. ("ICI")
+to  International  Market  Trend,  Inc.  ("IMT")  designated  option  holders as
+described in Note 8.
+On May 18, 2004 the Company issued 495,000 shares of its common stock,  upon the
+exercise of 495,000  stock  options at $1.00 per share for proceeds of $495,000,
+which was paid by way of offset of $495,000  originally  advanced to the Company
+by ICI, which was assigned to an IMT designated  option holder,  as described in
+Note 8.
+On June 25, 2004 the Company issued 320,000 shares of its common stock, upon the
+exercise  of  320,000  stock  options  at $3.00 per share for cash  proceeds  of
+$960,000.
+Private Placements - 2004
+On September 9, 2004 the Company  approved a financing of up to 4,150,000  units
+of  restricted  common  shares at a price of $1.47 per share  plus a full  share
+purchase  warrant  exercisable  at a price of $1.68  per  share  for each  share
+purchased (the "September  Unit(s)").  The unexercised  warrants expired on July
+23, 2005,  such date being six months from the effective date of registration of
+the stock and warrants  issued under the offering.  Brokers' fees payable on the
+September Units were: cash of 8% of gross proceeds,  brokers'  warrants equal to
+4% of the gross  proceeds  (to be issued  under the same  terms as the  warrants
+issued under the offering),  and a warrant  exercise fee equal to 5% of proceeds
+received as a result of the future exercise of the warrants by the investors. On
+November 1, 2004 the Company  completed  the sale of an  aggregate  of 1,700,686
+Units.  The  Company  filed  a  registration  statement  (form  SB-2)  with  the
+Securities and Exchange  Commission  ("SEC") on December 15, 2004,  covering the
+resale of shares of common stock sold in the private  placement or issuable upon
+exercise of the warrants.  Under the terms of the  financing,  the  registration
+statement  is to become  effective  within 120 days after the filing  date;  the
+registration  statement  went effective on January 24, 2005 in less than 42 days
+from the filing date.
+20
+<PAGE>
+NOTE 8:  STOCKHOLDERS' EQUITY - continued
+- 
+--------------------------------------------------------------------------------
+As of December 31, 2004, 1,700,686 September Units had been sold for proceeds of
+$2,319,264, net of an $180,746 agent fee which was charged to additional paid in
+capital.  Of the 1,700,686  units sold 376,318 were  non-brokered  and 1,324,368
+were  brokered.  The fair value of the warrants was  estimated to be $0.147 each
+and $250,001 has been recorded as a separate component of stockholders'  equity.
+The fair value of the 46,353 broker  warrants  issued to date has been estimated
+to be $0.147 per warrant and as a result, $6,814 has been recorded as a separate
+component  of  stockholders'  equity.  The  non-brokered  units in the amount of
+376,318 were issued upon:  (1) settlement of a $500,000  convertible  promissory
+note and accrued  interest of  approximately  $12,637 for 348,733 units; and (2)
+pursuant to a  non-brokered  placee  that paid  $40,550  for 27,585  units.
+Share Purchase Warrants
+Share purchase warrants outstanding at September 30, 2005 are:
+Weighted average
+ Range of exercise    Weighted    Number of warrants to  remaining contractual
+      prices       average price   purchase shares        life (in years)
+- 
+--------------------------------------------------------------------------------
+   $1.00 - $5.00       $1.52.         6,219,000                  2.33
+================================================================================
+A summary of the Company's stock purchase warrants as of September 30, 2005, and
+changes during the period ended is presented below:
+<TABLE>
+<CAPTION>
+                                 ------------------ ------------------ 
+-----------------------
+                                                      Weighted average     
+Weighted average
+                                 Number of Warrants   exercise price     
+remaining contractual
+                                                          per share         life
+(in years)
+                                  ------------------ ----------------- 
+-----------------------
+<S>                                      <C>                <C>                 
+<C>
+                                                             $
+Outstanding at December 31, 2003                   -
+Granted May 3, 2004                          200,000
+Granted October 31, 2004                   1,747,039
+                                  ------------------ ----------------- 
+-----------------------
+Balance at December 31, 2004               1,947,039        2.02                
+0.60
+Exercised                                   (304,367)
+Granted                                    6,019,000
+Expired                                   (1,442,672)
+                                  ------------------ ----------------- 
+-----------------------
+Balance at September 30, 2005              6,219,000        2.22                
+2.09
+                                  ================== ================= 
+=======================
+</TABLE>
+From May to August,  2005 the Company issued 233,000  warrants at $3.00 per unit
+in conjunction  with the issue of promissory  notes  totaling  $1,165,000 to two
+shareholders  ($600,000  and  $565,000) by the Company (see Note 6). The term of
+these  warrants is five years.  The fair value of these  warrants at the date of
+grant was $271,028 as estimated  using the  Black-Scholes  warrant pricing model
+with an expected  term of 5 years,  a risk free  interest rate of 3%, a dividend
+yield of 0%, and an expected volatility of 159.69%. (Refer to Note 6).
+21
+<PAGE>
+NOTE 8:  STOCKHOLDERS' EQUITY - continued
+- 
+--------------------------------------------------------------------------------
+In the  period  ended  June 30,  2005,  304,367  share  purchase  warrants  were
+exercised at $1.68 per purchase  warrant  providing  $495,964 in proceeds to the
+Company, net of brokers' fees of $15,373.
+During the nine month period ended September 30, 2005 1,442,672 warrents expired
+unexercised.
+As a result of the warrants  that expired and the warrants  that were  exercised
+during the nine month  period ended  September  30,  2005,  the Company  charged
+$256,815 to Additional Paid in Capital.
+In  September  2005,  the  Company  issued:   (a)  2,630,000  Class  A  Warrants
+exercisable at $1.50 for 3 years; (b) 2,630,000 Class B Warrants  exercisable at
+$1.25  for 1 year;  and (c)  586,000  Finder's  warrants  exercisable  at  $1.00
+exercisable  for 3 years in  conjunction  with the  issue  of  promissory  notes
+totaling $5,260,000 (see Note 6).
+NOTE 9:  STOCK OPTION PLAN ("SOP")
+- 
+--------------------------------------------------------------------------------
+As of September 30, 2005, 6,700,000 options under the Company's current SOP have
+been granted and 3,765,000 have been exercised.
+A summary of the Company's  stock options as of September 30, 2005,  and changes
+during the period ended is presented below:
+<TABLE>
+<CAPTION>
+                                  ------------------ ----------------- 
+-----------------------
+                                                     Weighted average        
+Weighted average
+                                         Number of    exercise price      
+remaining contractual
+                                          options         per share            
+life (in years)
+                                  ------------------ ----------------- 
+-----------------------
+<S>                                         <C>               <C>               
+<C>
+                                                              $
+Outstanding at December 31, 2003           1,350,000         0.50               
+3.392
+Exercised                                 (2,015,000)
+Granted                                    1,200,000
+------------------ ----------------- 
+-----------------------
+Outstanding at December 31, 2004             535,000         1.64               
+4.26
+Cancelled,                                  (100,000)
+Granted                                    2,600,000
+Exercised                                   (100,000)
+                                  ------------------ ----------------- 
+-----------------------
+Outstanding at September 30, 2005          2,935,000         2.48               
+6.91
+                                  ================== ================= 
+=======================
+</TABLE>
+In January 2004, 1,200,000 stock options (400,000 pre-forward split shares) were
+exercised at $0.167 per share ($0.50 per  pre-forward  split share) for proceeds
+of $200,000 which was paid by way of offset of $200,000  originally  advanced to
+the Company by ICI which was assigned by ICI to IMT designated option holders.
+On February 2, 2004,  an  additional  1,000,000  share  options  were granted to
+consultants  and three  directors,  500,000  exercisable  at $1.00  and  500,000
+exercisable at $3.00. The term of these options is five years. The fair value of
+these  options  at the date of grant  of  $2,989,221  was  estimated  using  the
+Black-Scholes option pricing model with an expected life of 5 years, a risk free
+interest rate of 3%, a dividend yield of 0%, and an expected  volatility of 251%
+and has been recorded as a consulting  expense in the period.  Of these options,
+100,000 of the $3.00 options were granted to an  officer/director of the Company
+and 10,000 of the $1.00 options were granted to two directors.
+In April 2004 the Company registered 500,000 common stock options exercisable at
+$1.00 per share under an S-8 Registration Statement. On May 18, 2004, 495,000 of
+these stock  options were  exercised at $1.00 per share for proceeds of $495,000
+which was paid by way of offset of $495,000  originally  advanced to the Company
+by ICI which was assigned to a designated option holder.
+22
+<PAGE>
+NOTE 9:  STOCK OPTION PLAN ("SOP") - continued
+- 
+--------------------------------------------------------------------------------
+In June 2004 the Company registered 400,000 common stock options  exercisable at
+$3.00 per share under an S-8 Registration Statement.  And, in June 2004, 320,000
+of these stock  options were  exercised at $3.00 per share for cash  proceeds of
+$960,000.
+By  Directors'  Resolution  dated  July  2,  2004,  the  Company  increased  the
+authorized number of options under its SOP from 4,000,000 to 5,000,000.
+On July 12,  2004,  200,000  stock  options  were  granted at $3.00 per share to
+Humphreys.  The term of these  options  is five  years.  The fair value of these
+options at the date of grant of $692,051 was estimated  using the  Black-Scholes
+option pricing model with an expected life of 5 years, a risk free interest rate
+of 3%,  a  dividend  yield  of 0%,  and an  expected  volatility  of 222% and in
+accordance  with the  provisions of SFAS 148, has been  disclosed on a pro-forma
+basis in Note 2.
+On February 1, 2005, 500,000 options were granted at $1.00 per share to IMT. The
+term of these options is five years. The fair value of these options at the date
+of grant of $646,054 was estimated using the Black-Scholes  option pricing model
+with an expected  life of 5 years,  a risk free  interest rate of 3%, a dividend
+yield of 0%, and an expected volatility of 239.25%.
+On February 1, 2005,  100,000  existing S-8 options were granted at $0.16667 per
+share to IMT. The term of these  options is five years.  The fair value of these
+options at the date of grant of $129,699 was estimated  using the  Black-Scholes
+option pricing model with an expected life of 5 years, a risk free interest rate
+of 3%, a dividend yield of 0% and an expected volatility of 239.25%.
+On May 23, 2005, 100,000 S-8 registered share options were exercised at $0.16667
+per share for cash proceeds of $16,667.
+On August 19,  2005,  1,150,000  options were granted at $1.25 per share to IMT.
+The term of these options is five years.  The fair value of these options at the
+date of grant of $1,138,238 was estimated using the Black-Scholes option pricing
+model  with an  expected  life of 5 years,  a risk free  interest  rate of 3%, a
+dividend yield of 0%, and an expected volatility of 139.60%.
+On August 19,  2005,  850,000  stock  options were granted at $1.25 per share to
+various officers and directors of the Company. The term of these options is five
+years.  The fair  value of these  options at the date of grant of  $841,307  was
+estimated using the Black-Scholes  option pricing model with an expected life of
+5 years,  a risk  free  interest  rate of 3%,  a  dividend  yield of 0%,  and an
+expected  volatility of 139.60%,  and in accordance  with the provisions of SFAS
+148, has been disclosed on a pro-forma basis in Note 2.
+NOTE 10: RELATED PARTY TRANSACTIONS
+- 
+--------------------------------------------------------------------------------
+For the nine month period ended September 30, 2005
+The Company  previously entered into a contract with IMT, a private company that
+performs a wide range of  management,  administrative,  financial,  and business
+development services to the Company. The Company incurred $90,000 in fees to IMT
+for the period ended September 30, 2005 (2005 - $60,000).
+On February 1, 2005 IMT was granted 600,000 stock options (refer to Note 9).
+On August 19, 2005 IMT was granted 1,150,000 stock options (refer to Note 9).
+23
+<PAGE>
+NOTE 10: RELATED PARTY TRANSACTIONS - continued
+- 
+--------------------------------------------------------------------------------
+On November 9, 2004,  the Company  reached an agreement  with Oak Hills Drilling
+and Operating  LLC  ("Oakhills"),  to drill a ten well  program.  Humphreys is a
+director of the Company and is the Drilling Operations Manager of Lexington, and
+also the General Manager,  director, and 25% shareholder of Oakhills, an oil and
+gas drilling and well operating company based in Holdenville, Oklahoma that acts
+as "operator" to Lexington. Mr. Humphreys is in charge of oil and gas operations
+for Lexington in the United States.
+On  September  23,  2005,  the Company  announced  that it had  entered  into an
+agreement in principle to acquire 100% of the issued and  outstanding  shares in
+the capital of Oak Hills  Drilling and Operating  LLC, the Company's  designated
+oil and gas operator for  3,000,000  restricted  common shares in the capital of
+the Lexington.  The transaction is subject to, among other things, (i) the prior
+receipt by the Company of a valuation,  acceptable to the independent members of
+the Board of Directors of the Company,  that determines the underlying  value of
+Oakhills,  such that the resulting Purchase Price and the final number of Shares
+issuable at closing may be adjusted  upward or downward,  accordingly,  (ii) the
+prior audit of Oakhills,  (iii) mutual due  diligence,  (iv) the  execution of a
+formal  agreement  incorporating  the terms and  conditions  of the agreement in
+principle  by November  15, 2005 and (v) the  closing of the  transaction  on or
+before December 31, 2005.
+Humphreys  has  been  assigned  a 10%  carried  Working  Interest  in each  well
+successfully  drilled  on the Wagnon  lease,  as  partial  compensation  for his
+involvement  in  obtaining  and  facilitating  the  execution  of  the  Farm-Out
+Agreement  and  to  compensate  for  his  services  relating  to  operation  and
+completion  of wells to be located on the Wagnon Lease.  In addition,  under the
+terms of Mr.  Humphreys  management  contract,  he has a 10% carried interest of
+Lexington's interest in all wells drilled by the Company. The estimated value of
+the 10% carried  Working  Interest of $153,707 (total to date $270,738) has been
+recorded as additional  compensation  expense during the period ended  September
+30,  2005.  Humphreys  also has the right to purchase an  additional  5% working
+interest  in each well  drilled by the  Company and has elected to do so for the
+first four wells drilled on the Company's  Wagnon lease. The original 5% cost to
+participate in the wells by Humphreys was $60,000.  As of September 30, 2005 the
+Company was still owed  $15,000  (December  31, 2004 - $22,500) and has recorded
+the amount as a receivable  from  Humphreys as full payment for an additional 5%
+working interest in each of the Kellster 1-5, the Kyndal 2-2, and the Bryce 3-2.
+Refer to Notes 3, 5, and 9.
+During the period ended September 30, 2005 the Company incurred  $149,150 to its
+officers for management fees (September 30, 2004 - $165,300).
+On January 1, 2005, the Company  appointed Oak Hills as its elected operator for
+wells  on its  Wagnon  Lease,  and  for  further  drilling  to be  conducted  by
+Lexington.  Oak Hills Drilling and Operating, LLC replaces Oakhills Energy, Inc.
+as its designated operator.
+Refer to Note 3.
+24
+<PAGE>
+NOTE 11: INCOME TAXES
+- 
+--------------------------------------------------------------------------------
+The Company has adopted FASB No. 109 for reporting purposes. As of September 30,
+2005,  the  Company  had net  operating  loss carry  forwards  of  approximately
+$4,300,000 that may be available to reduce future years' taxable income and will
+expire between the years 2006 - 2025.  Availability  of loss usage is subject to
+change of ownership  limitations  under  Internal  Revenue Code 382.  Future tax
+benefits which may arise as a result of these losses have not been recognized in
+these  financial  statements,  as their  realization is determined not likely to
+occur and  accordingly,  the Company has recorded a valuation  allowance for the
+deferred tax asset relating to these tax loss carry forwards.
+The Company  evaluates its valuation  allowance  requirements on an annual basis
+based on projected future operations.  When circumstances change and this causes
+a change in management's judgment about the recoverability of future tax assets,
+the impact of the change on the  valuation  allowance is generally  reflected in
+current income.
+NOTE 12: SUPPLEMENTAL DISCLOSURE WITH RESPECT TO CASH FLOWS
+- 
+--------------------------------------------------------------------------------
+Nine month period ended Nine month period ended
+                                 September 30, 2005      September 30, 2004
+- -------------------------------- ----------------------- 
+-----------------------
+Cash paid during the period for:
+   Interest                           $        47,199         $           -
+   Income taxes                       $             -         $           -
+- -------------------------------- ----------------------- 
+-----------------------
+NOTE 13: SUBSEQUENT EVENTS
+- 
+--------------------------------------------------------------------------------
+On October 16, 2005 the Company  received an additional  600,000 in  convertible
+promissory note debt financing per the same terms and conditions as the previous
+debt.  The Company  issued  300,000  Class A Warrants to purchase a share of its
+common stock at an exercise price of $1.50 per share for a three-year term after
+this registration  statement has been declared  effective by the SEC and 300,000
+Class B Warrants  to  purchase  an  additional  share of our common  stock at an
+exercise  price of $1.25 per  share  for a  one-year  term and  60,000  Finders'
+Warrants at an exercise  price of $1.00 for three years after this  registration
+statement  has  been  declared  effective  by the  SEC in  connection  with  the
+additional notes issued (refer to Note 7).
+25
+<PAGE>
+Statements  made in this Form  10-QSB  that are not  historical  or current
+facts  are  "forward-looking  statements"  made  pursuant  to  the  safe  harbor
+provisions of Section 27A of the  Securities Act of 1933 (the "Act") and Section
+21E of the  Securities  Exchange  Act of 1934.  These  statements  often  can be
+identified  by the use of terms  such as  "may,"  "will,"  "expect,"  "believe,"
+"anticipate,"  "estimate," "approximate" or "continue," or the negative thereof.
+We intend that such  forward-looking  statements  be subject to the safe harbors
+for such  statements.  We wish to caution readers not to place undue reliance on
+any such forward-looking  statements,  which speak only as of the date made. Any
+forward-looking  statements represent  management's best judgment as to what may
+occur in the future. However,  forward-looking  statements are subject to risks,
+uncertainties  and important  factors beyond our control that could cause actual
+results and events to differ  materially from  historical  results of operations
+and events  and those  presently  anticipated  or  projected.  We  disclaim  any
+obligation  subsequently  to revise any  forward-looking  statements  to reflect
+events or  circumstances  after the date of such  statement  or to  reflect  the
+occurrence of anticipated or unanticipated events.
+ITEM 2. MANAGEMENT'S  DISCUSSION AND ANALYSIS OF FINANCIAL  CONDITION OR PLAN OF
+        OPERATION
+GENERAL
+Lexington Resources,  Inc. is a corporation organized under the laws of the
+State of Nevada (herein known as "we" or the  "Company").  We currently trade on
+the OTC Bulletin  Board under the symbol  "LXRS" and on the Frankfurt and Berlin
+Stock Exchanges under the symbol "LXR"; WKN: A0BKLP.
+CURRENT BUSINESS OPERATIONS
+We are a natural  resource  exploration  and production  company  currently
+engaged in the  acquisition  and  development  of oil and gas  properties in the
+United States. We expect to weight our future  development  initiatives  towards
+gas production. We are committed to developing into a profitable independent oil
+and gas  producer  through the  systematical  expansion  of  operations  and the
+acquisition  of new drilling  targets and  organizing  drilling  and  production
+initiatives on leased properties.
+Our wholly  owned  subsidiary,  Lexington  Oil & Gas Ltd.  Co., an Oklahoma
+limited liability company  ("Lexington"),  previously  acquired a 590 gross acre
+section of farm-out  acreage in Pittsburg  County,  Oklahoma for the development
+and production of coal bed methane gas (the "Wagnon Property"). We have drilled,
+completed,  and are producing gas from four wells drilled on the Wagnon Property
+each with a back-in 53.2% working interest to Lexington.
+We have also successfully  drilled,  completed,  and are producing from two
+further coal bed methane gas well  interests  located on our Coal Creek  Project
+with working  interests of 50% and 22%  respectively to Lexington that form part
+of approximately  1,932 gross acres in the Coal Creek Project.  In addition,  we
+have a 25%  working  interest  in a third gas well,  which has been  drilled and
+completed  by  Newfield  Exploration   Mid-Continent,   Inc.  and  is  currently
+producing,  on our Panther Creek Prospect,  which consists of approximately  292
+gross acres.  In total,  we have interests in six coal bed methane gas wells and
+one Woodford Shale gas well, and estimated  acreage suitable for the drilling of
+further potential gas wells primarily targeting coal bed methane gas production.
+We have conducted  partial  drilling of a fourth well on our Coal Creek Prospect
+that has not reached the completion  stage. We have an approximate 88.5% working
+interest in this well bore.
+26
+<PAGE>
+ITEM 2. MANAGEMENT'S  DISCUSSION AND ANALYSIS OF FINANCIAL  CONDITION OR PLAN OF
+        OPERATION - continued
+We have consummated the aggregate  acquisition of approximately 9,450 gross
+acres of primarily  coal bed methane gas targeted  prospects in the Arkoma Basin
+in the State of  Oklahoma,  including  590 acres in our Wagnon  Prospect,  1,932
+gross leasehold acres in the Coal Creek Prospect, 292 gross acres in the Panther
+Creek Prospect,  320 gross acres in the Middlecreek Prospect,  1,144 gross acres
+in the South  Lamar  Prospect,  and 4,925 gross  acres in the H-9  Prospect.  In
+addition,  we have committed to purchase up to a 100% working  interest in up to
+3,687 gross acres of Barnett Shale targeted gas leases in the Dallas/Fort  Worth
+Basin in the State of Texas of which we  currently  own 2,325  gross  acres.  We
+currently have an aggregate of  approximately  1,211 gross  developed and 10,562
+gross  undeveloped  acres  pursuant to leases and/or  concessions  as more fully
+described below. It is anticipated that our ongoing efforts, subject to adequate
+funding being available,  will continue to be focused on successfully concluding
+negotiations for additional tracts of prime gas and oil producing  domains,  and
+to implement additional drilling and production development  initiatives through
+the drilling of new wells to develop reserves and to provide  revenues.  We plan
+to continue  building  and  increasing a strategic  base of proven  reserves and
+production  opportunities  within  Oklahoma's  Arkoma Basin, and the Dallas Fort
+Worth Basin in the State of Texas.
+Oak Hills Drilling and Operating LLC
+On November 9, 2004, we entered into an agreement  with Oak Hills  Drilling
+and  Operating  LLC ("Oak  Hills") to drill a ten well  program  (the  "Drilling
+Agreement").  Oak Hills is a  wholly-owned  subsidiary of Oak Hills Drilling and
+Operating International, Inc., a Nevada corporation ("Oak Hills International").
+Mr. Douglas Humphreys,  one of our directors, is currently the sole director and
+officer  of both Oak Hills  and Oak Hills  International.  We  entered  into the
+Drilling  Agreement to eliminate wait times for proceeding with planned drilling
+initiatives due to high drilling demand and thus limited rig availability and to
+ensure continuous availability of a dedicated drilling rig and crew.
+On September 23, 2005, we entered into an agreement in principle to acquire
+100% of the total issued and  outstanding  shares of Oak Hills for not less than
+the  issuance of  3,000,000  shares of our  restricted  common stock at a deemed
+issuance  price of $1.50 per share,  and not less than  $4,500,000  in aggregate
+consideration (the "Agreement").  The Agreement is subject to certain conditions
+precedent  including but not limited to the following:  (i) the prior receipt by
+us of a  valuation  acceptable  to  the  independent  members  of our  Board  of
+Directors  that  determines  the  underlying  value of Oak Hills,  such that the
+resulting  purchase price and final number of shares of restricted  common stock
+issuable at closing may be  accordingly  adjusted  upward or downward;  (ii) the
+prior audit of Oak Hills; and (iii) mutual due diligence. As of the date of this
+Quarterly Report,  we believe that a final definitive  agreement will be entered
+into by the end of the year and the closing of the  transaction  will take place
+on or  before  December  31,  2005.  The  date  for the  originally  anticipated
+definitive  agreement of November 15, 2005 will not be met as scheduling for the
+completion  of the  audit  of Oak  Hills  has not  been  finalized.  The date of
+finalization  of the audit of Oak Hills may  affect  the  timing of the  closing
+date.
+Oil and Gas Properties
+As of the date of this Quarterly Report, we have not reported nor filed any
+reserve estimates with any Federal agencies,  but have commenced production from
+certain  properties as more fully described  below.  During 2004, we obtained an
+independent reserve and economic evaluation report regarding the Wagnon Property
+27
+<PAGE>
+ITEM 2. MANAGEMENT'S  DISCUSSION AND ANALYSIS OF FINANCIAL  CONDITION OR PLAN OF
+        OPERATION - continued
+that was conducted by Fletcher Lewis Engineering,  Inc. of Oklahoma but have not
+updated the reserve and economic evaluation report for 2005 for the inclusion of
+Coal Creek and Panther Creek well interests.
+In accordance  with the terms and  provisions of the  consulting  agreement
+with  Douglas  Humphreys,  our director  and  Drilling  Operations  Manager (the
+"Consulting Agreement"),  we will assign to Paluca Petroleum Inc. ("Paluca"), an
+affiliate of our director,  Douglas Humphreys,  10% of our working interest as a
+carried working interest in each well drilled on our lease prospects.
+The following is a description of our oil and gas properties.
+Wagnon Property
+We hold an 80%  working  interest  and a 60.56%  net  revenue  interest  in
+approximately  590.2 gross  acres of a gas lease  located in  Pittsburg  County,
+Oklahoma  (the "Wagnon  Property").  The gas lease was  acquired  from Oak Hills
+Energy,  Inc.  ("Oak Hills  Energy"),  which  acquired  the lease  pursuant to a
+farm-out  agreement  with Quinton  Rental & Repair  Services,  Inc. (the "Wagnon
+Farm-Out Agreement"). Our interest relating to the Wagnon Property is subject to
+farm-out  agreements  equating to a total 20% working  interest  between  Paluca
+Petroleum  Inc.  ("Paluca"),  an  affiliate  of one of  our  directors,  Douglas
+Humphreys, Oak Hills Energy, and the lessee of the Wagnon Property.
+During 2004 and 2005, we have drilled,  completed,  and put four wells into
+production on this prospect, the Kellster #1-5, the Kyndal #2-2, the Bryce #3-2,
+and the  Calleigh  #4-2.  The last  well  drilled  on the  Wagnon  Prospect  was
+completed  on April 2, 2005 when the  Calleigh  #4-2 coal bed  methane  gas well
+commenced  production.  It is estimated  that up to a total of five wells may be
+drilled on the Wagnon Property.
+We previously entered into funding agreements for the Kellster #1-5, Kyndal
+#2-2,  Bryce  #3-2,  and  Calleigh  #4-2  wells   (collectively,   the  "Funding
+Agreements").  Pursuant to the Funding  Agreements,  the private  investors were
+provided with an 80% working  interest and a 60.56% net revenue  interest in the
+wells  until their  respective  invested  capital in each well is repaid,  after
+which time the private  investors  will  revert to an  aggregate  20.1%  working
+interest  and a 15.075% net revenue  interest.  Oak Hills  Energy,  the original
+driller and operator of the wells, will "back-in" to a reversionary 6.7% working
+interest after invested  capital is repaid to the private  investors and we will
+"back-in" to a  reversionary  53.2%  working  interest.  Pursuant to the further
+terms and provisions of the Funding  Agreements,  all wells to be drilled on the
+Wagnon Property carry royalty interests  totaling 25% to landowners and property
+interest holders and carried working interests of 5% to a landowner,  as well as
+a 10% carried working interest to Paluca. Paluca also owns a non-carried working
+interest of 5% as part of capital  participation  funding provided by Paluca. As
+of September 30, 2005, we have received the total required funding of $1,485,000
+under the Funding  Agreements for drilling and completion of the four horizontal
+coal bed methane gas wells on the Wagnon Property. As of September 30, 2005, the
+private  investors  have  been  repaid  an  aggregate  of  $1,485,000  of  their
+$1,485,000  investment  under the  Funding  Agreements.  Therefore,  our back-in
+working  interest of 53.2% in each of the four wells on the Wagnon  Property has
+vested and the private  investors  have  reverted in an aggregate  20.1% working
+interest and a 15.075% net revenue interest.
+28
+<PAGE>
+ITEM 2. MANAGEMENT'S  DISCUSSION AND ANALYSIS OF FINANCIAL  CONDITION OR PLAN OF
+        OPERATION - continued
+Coal Creek Prospect
+During 2004, we obtained an option to purchase an undivided 95% interest in
+approximately  2,500 net leasehold acres in five sections  located in Hughes and
+Pittsburg Counties, State of Oklahoma (the "Coal Creek Prospect").  On March 12,
+2004, we entered into a two-year  lease for  approximately  1,536 gross acres in
+the Coal Creek  Prospect  pursuant  to which we have an  undivided  95%  working
+interest and a minimum 79% net revenue  interest.  On May 20,  2004,  we entered
+into a two-year  lease  pursuant to which we acquired an additional 372 acres of
+the Coal  Creek  Prospect  with a minimum  95%  working  interest  and a 78% net
+revenue interest.  On August 20, 2004, we entered into a two-year lease pursuant
+to which we acquired an  additional  23 acres of the Coal Creek  Prospect with a
+minimum 95% working interest and a 79% net revenue  interest.  As of the date of
+this Quarterly Report, the total acreage acquired in the Coal Creek Gas Prospect
+is approximately 1,932 gross leasehold acres.
+On March 31,  2005,  we began  drilling  the first  well on our Coal  Creek
+Prospect,  the Lex #1-34, of which we have a 50% working interest. The Lex #1-34
+well has been  completed and is currently in  production.  On April 15, 2005, we
+began  drilling a second well on the Coal Creek  Project,  the  Brumbaugh  #1-10
+well, of which we have a 22% working interest. The Brumbaugh #1-10 well has been
+completed and began  production in May 2005. It is estimated  that  interests in
+twelve to sixteen  wells may be drilled on lease  acreage owned by us that forms
+part of the Coal Creek Prospect.
+On May 31,  2005,  we began  drilling a third coal bed methane  well on the
+Coal  Creek  Prospect,  the  Ellis  #1-15,  of which  we have an  88.5%  working
+interest. Drilling of this well has encountered a shallow "Bartlesville Sand" as
+zone that  produced a significant  gas flair upon testing of the zone.  The zone
+was  logged,  underwent  economic  and  geological  study to  assess  commercial
+potential  of the new,  non-CBM gas zone,  and we  attempted  completion  in the
+Bartlesville  Sand zone  without  success due to  intrusion of water from a salt
+water  disposal  well.  As a result,  procedures  are under  evaluation  for the
+completion of the well in the originally targeted,  Hartshorne CBM gas zone that
+management believes is unaffected by the intrusion of water.
+In accordance  with the terms and  provisions of the  consulting  agreement
+with Douglas Humphreys (the "Consulting Agreement"),  we have assigned to Paluca
+as an earned carried  interest 10% of our working  interest as a carried working
+interest in each well completed on the Coal Creek Gas Prospect.
+During June to August 2005, we obtained  loans in the  aggregate  amount of
+$1,165,000,  which loans were  secured  against our  interests in the Coal Creek
+Prospect (the "Coal Creek  Loans").  As of September 30, 2005, we had repaid the
+Coal Creek Loans in the aggregate  principal  amount of  $1,165,000  and accrued
+interest of $41,058,  thus  discharging the security  interest  against our Coal
+Creek Prospect.  See "Part II. Other Information.  Item 2. Changes in Securities
+and Use of Proceeds."
+Panther Creek Prospect
+On March 12, 2004, we entered into a three-year lease of approximately  292
+acres  located in five  separate  sections in the Panther Creek coal bed methane
+gas prospect  located in Hughes  County,  State of Oklahoma (the "Panther  Creek
+Prospect").  We have a 100% working  interest and an approximate 81% net revenue
+interest in the acreage acquired in the Panther Creek Prospect.
+29
+<PAGE>
+ITEM 2. MANAGEMENT'S  DISCUSSION AND ANALYSIS OF FINANCIAL  CONDITION OR PLAN OF
+        OPERATION - continued
+A portion of the acreage in the Panther Creek  Prospect is subject to three
+division pooling orders by Newfield Exploration Mid-Continent Inc., a subsidiary
+of Newfield Exploration Company ("Newfield"),  for three wells to be drilled and
+operated  by Newfield in which we have  elected to  participate.  On January 25,
+2005, we entered into the joint operating agreement with Newfield to participate
+in the proposed wells to be drilled (the "Joint Operating Agreement").  Pursuant
+to the terms and provisions: (i) Newfield shall drill and operate the first well
+and explore other zones up to 8,500 feet in depth;  (ii) we have an  approximate
+25% working  interest in the first completed well;  (iii) we have an approximate
+10.94% working interest in the second proposed well; (iv) we have an approximate
+4.06% working  interest in the third  proposed  well; and (v) Newfield has up to
+approximately the end of fiscal year 2005 to drill such wells.
+On February 9, 2005, Newfield commenced drilling on the first well, the POE
+#1-29 and, as of March 21,  2005,  the POE #1-29 gas well  commenced  production
+from a  Woodford  Shale  gas  zone.  As of the  date of this  Quarterly  Report,
+Newfield had proposed the drilling of a second  horizontal test well in which we
+would have a 10.94% working interest. The Company has elected not to participate
+in the well based on  management's  analysis of the  proposal  by  Newfield  and
+amendments thereto.
+South Lamar Prospect
+On April 21, 2004, we entered into a two-year lease  agreement to acquire a 100%
+working interest and a 78.5% net revenue interest in 960 gross undeveloped acres
+to develop coal bed methane gas wells in Hughes  County,  State of Oklahoma (the
+"South Lamar  Prospect").  On July 26, 2004, we acquired a further  183.98 gross
+acres in the  South  Lamar  Prospect  pursuant  to which we hold a 100%  working
+interest and a 79% net revenue interest.  We have previously  prepared the drill
+site for the first proposed well on this prospect, the Goodson #1-24 well. As of
+the date of this Quarterly  Report,  the Company decided not to proceed with the
+drilling  of the  planned  "Goodson  #1-23"  coal bed  methane  Hartshorne  Coal
+targeted gas well pending reassessment of costs and techniques utilized to drill
+and complete wells. Cost escalations  relating to the drilling and completion of
+horizontal  CBM wells by the  Company  have  increased  at least 40% since  2004
+affecting potential investment returns to the Company. Various well drilling and
+completion related cost reduction techniques are under evaluation by management.
+Middlecreek Prospect
+On May 24, 2004, we entered into an agreement to acquire an undivided  100%
+working  interest and a 70% net revenue  interest in 320 gross  leasehold  acres
+located in two sections in the  Middlecreek  Prospect  located in Hughes County,
+State of Oklahoma (the "Middlecreek  Prospect").  Rights to drill all geological
+zones  are  included  and  primary  gas  targets  include  the  Caney  shale and
+Hartshorne  coal zones with  further  possibilities  in the Booch,  Stuart,  and
+Savannah zones. The Middlecreek  Prospect includes a 2,000 foot gas pipeline and
+pipeline right of way.
+H-9 Prospect
+On June 29,  2004,  we  entered  into an option  agreement  to  purchase  a
+leasehold  interest  and a net  revenue  interest  in  approximately  4,600  net
+leasehold  acres  located in  approximately  38 sections of the H-9  Prospect in
+Hughes and McIntosh  counties,  State of Oklahoma (the "H-9 Prospect").  On July
+29,  2004,  we entered  into three to four year lease  agreements  to acquire an
+undivided 100% leasehold interest and a 79.25% net revenue interest in the 4,600
+30
+<PAGE>
+ITEM 2. MANAGEMENT'S  DISCUSSION AND ANALYSIS OF FINANCIAL  CONDITION OR PLAN OF
+        OPERATION - continued
+gross  leasehold  acres on the H-9  Prospect.  On July 19, 2004, we entered into
+another  three-year lease to acquire a 100% leasehold  interest and a 78.25% net
+revenue  interest  in an  additional  325 gross  acres of gas  target  drillable
+acreage on the H-9 Prospect.
+Barnett Shale Project
+On June 2, 2005,  as amended  July 14,  2005,  we entered into a definitive
+agreement  with a Texas-based  limited  partnership  (the "Barnett  Agreement"),
+regarding a gas well  horizontal  drilling  venture in the Jack,  Wise, and Palo
+Pinto Counties in the State of Texas (the "Barnett Shale Project").  Pursuant to
+the  terms  and  provisions  of the  Barnett  Agreement:  (i) we will be able to
+acquire a working  interest of between 75% to 100% in the wells to be drilled on
+the Barnett Shale Project with net revenues  interests  ranging from 70% to 75%,
+and to increase  the initial  acreage up to  approximately  3,700 net  leasehold
+acres; (ii) we paid a non-refundable deposit of $100,000 with the balance of the
+funds due by August 19, 2005,  which $100,000  deposit shall be credited against
+the total  purchase  price to be paid by us for the  working  interest  in up to
+3,687 net leasehold acres; (iii) we will pay our pro-rata share of net leasehold
+acres we  acquire;  (iv) in the  event we  purchase  the  maximum  100%  working
+interest,  we will  receive a minimum  70% net  revenue  interest  on the leases
+without  any  carried  interest  to the  Texas  limited  partnership,  with  the
+remaining net revenue interest to be reserved as an overriding  royalty interest
+for the Texas  limited  partnership;  (v) in the event we purchase a 75% working
+interest,  we will  receive a 56.25% net  revenue  interest on the leases and we
+will carry for the Texas  limited  partnership  a 10%  working  interest  in the
+drilling,  completion  and equipping of the pipeline on all wells drilled on the
+acreage  purchased by us; (vi) we will be responsible  for our pro-rata share of
+acreage costs; and (vii) our contract operator,  Oak Hills, will be the operator
+for the project.
+On  September  25, 2005,  we acquired our first lease in the Barnett  Shale
+Project. We acquired approximately 2,325 net leasehold acres for $1,107,000.  We
+anticipate  that  this  acquisition  will  provide  us with up to 16  additional
+horizontal  Barnett  Shale gas drilling  sites with access to existing  pipeline
+networks. We anticipate,  that subject to financing, that the first well will be
+spudded in November-December  2005 and that all drilling on the acquired acreage
+will be completed in less than two years.
+31
+<PAGE>
+ITEM 2. MANAGEMENT'S  DISCUSSION AND ANALYSIS OF FINANCIAL  CONDITION OR PLAN OF
+        OPERATION - continued
+Wells Developed on Oil and Gas Properties
+As of the date of this Quarterly  Report,  the following  table  summarizes
+wells and working interests in wells under current development initiatives:
+- ---------------- ----------------- -------------------- 
+------------------------
+Company          Well Name         Interest             Status
+Lease/Prospect
+- ---------------- ----------------- -------------------- 
+------------------------
+Wagnon           Kellster #1-5     53.2% Back WI APO    Producing
+- ---------------- ----------------- -------------------- 
+------------------------
+Wagnon           Kyndal #2-2       53.2% Back WI APO    Producing
+- ---------------- ----------------- -------------------- 
+------------------------
+Wagnon           Bryce #3-2        53.2% Back WI APO    Producing
+- ---------------- ----------------- -------------------- 
+------------------------
+Wagnon           Calleigh #4-2     53.2% Back WI APO    Producing
+- ---------------- ----------------- -------------------- 
+------------------------
+Panther Creek    POE #1-29         25.7% WI             Producing
+- ---------------- ----------------- -------------------- 
+------------------------
+Coal Creek       LEX #1            50.1% WI             Producing
+- ---------------- ----------------- -------------------- 
+------------------------
+Coal Creek       Brumbaugh #1-10   22.2% WI             Producing
+- ---------------- ----------------- -------------------- 
+------------------------
+Coal Creek       Ellis #1-15       88.5% WI             Under analysis for
+                                                        drilling and completion
+                                                        techniques
+- ---------------- ----------------- -------------------- 
+------------------------
+South Lamar      Goodson #1-23     87.5% WI             Site abandoned, division
+                                                        pooling order lapsed
+- ---------------- ----------------- -------------------- 
+------------------------
+To date, we have committed to interests in eight gas wells,  seven of which
+are producing.  We estimate that we have additional  available  acreage suitable
+for the drilling of a further seventy to one hundred, primarily coal bed methane
+gas wells in the state of  Oklahoma  and 16 Barnett  Shale wells in the state of
+Texas.
+RESULTS OF OPERATION
+Nine-Month  Period Ended September 30, 2005 Compared to Nine-Month  Period Ended
+September 30, 2004
+Our net  loss  for the  nine-month  period  ended  September  30,  2005 was
+approximately  ($6,469,152)  compared to a net loss of  ($5,175,168)  during the
+nine-month period ended September 30, 2004 (an increase of $1,293,984).
+During the  nine-month  period  ended  September  30,  2005,  we  generated
+$530,721  in oil and gas  revenue  compared  to  $305,756 in oil and gas revenue
+generated  during the same period in 2004 (an increase of  $224,965),  resulting
+primarily  from the sale of gas produced from an  increasing  number of coal bed
+methene gas well  interests  brought into  production.  Depletion  and operating
+costs and taxes of $244,641 and  $180,073,  respectively,  increased  during the
+nine-month  period ended  September 30, 2005 compared to depletion and operating
+costs and taxes of  $112,186  and  $21,641,  respectively,  incurred in the same
+period in 2004.  The  increase in  depletion  and  operating  expenses and taxes
+during the nine-month period ended September 30, 2005 from the nine-month period
+ended  September  30, 2004 was primarily the result of the increase in operating
+costs and estimated depletion resulting from the increased number of operating
+32
+<PAGE>
+ITEM 2. MANAGEMENT'S  DISCUSSION AND ANALYSIS OF FINANCIAL  CONDITION OR PLAN OF
+        OPERATION - continued
+wells.  Gross profit of $106,007  generated  during the nine-month  period ended
+September 30, 2005 was further  reduced by an aggregate of $6,575,159 from other
+expenses incurred, resulting in a net loss of ($6,469,152).  The gross profit of
+$171,929  generated  during the nine-month  period ended  September 30, 2004 was
+reduced by an aggregate of $5,347,097 from other expenses incurred, resulting in
+a net loss of ($5,175,168).
+During the  nine-month  period ended  September 30, 2005, we incurred other
+expenses in the aggregate amount of $6,575,179  compared to $5,347,097  incurred
+during the same period in 2004 (an increase of $1,228,082),  which consisted of:
+(i) general and administrative expenses of $1,287,170 (2004:  $2,307,567);  (ii)
+consulting fees - stock based  compensation  relating to the fair value of stock
+options  granted to  consultants  of $1,913,991  (2004:  $2,989,221);  and (iii)
+interest and finance fees expense of $3,373,998 (2004: $50,309). The increase in
+other expenses  incurred  during the nine-month  period ended September 30, 2005
+compared to the same period during 2004 resulted  primarily from the increase in
+interest and finance fees expense associated with the promissory notes issued in
+September 2005. General and administrative  expenses generally include corporate
+overhead,  financial and  administrative  contracted  services,  marketing,  and
+consulting costs.
+Of the $6,575,159  incurred as other expenses during the nine-month  period
+ended  September  30, 2005,  an  aggregate  of $90,000 was  incurred  payable to
+International  Market Trend  ("IMT") for amounts due and owing for  operational,
+administrative  and financial  services  rendered  during the nine-month  period
+ended  September  30, 2005.  On November 10, 2003,  we entered into a consulting
+agreement  with IMT (the  "Consulting  Agreement"),  whereby IMT performs a wide
+range  of  management,  administrative,   financial,  and  business  development
+services for us. On February 1, 2005,  we granted to IMT an aggregate of 500,000
+stock  options  exercisable  at $1.00 per share for a period of five  years.  On
+February  1, 2005,  we  granted to IMT an  aggregate  of 100,000  stock  options
+registered under an S-8 Registration Statement exercisable at $0.16667 per share
+for a period of five  years.  On August  19,  2005,  we also  granted  to IMT an
+aggregate of 1,150,000 stock options exercisable at $1.25 per share for a period
+of five years.
+Of the $6,575,159  incurred as other expenses during the nine-month  period
+ended  September 30, 2005, an aggregate of $149,150 was incurred to our officers
+for  management   fees.   Furthermore,   $153,708  was  recorded  as  additional
+compensation  expense to one of our directors,  Mr.  Humphreys,  relating to the
+estimated  valuation of his 10% carried working  interest in our wells developed
+during the  nine-month  period ended  September  30, 2005.  On July 12, 2004, we
+entered into a consultation agreement (the "Humphreys  Consultation  Agreement")
+with  Lexington  Oil  &  Gas  and  Mr.  Humphreys.  Pursuant  to  the  Humphreys
+Consultation  Agreement,  Mr.  Humphreys  assists  in  overseeing  the  drilling
+operations  and the  completion  and  management  of our  wells.  Mr.  Humphreys
+compensation pursuant to the terms and provisions of the Humphreys  Consultation
+Agreement  is: (i) $7,500 per month;  (ii) the  assignment  of up to 10% carried
+working interest of the Company's  working interest in every well drilled on all
+properties  held by us;  (iii)  the right to  purchase  up to an  additional  5%
+working  interest in all wells  drilled by us on our  properties  provided  that
+funds for this  participation  are paid prior to the commencement of drilling of
+said wells;  and (iv) grant of 200,000 Stock  Options to purchase  shares of our
+common  stock at an exercise  price of $3.00 per share  (which were granted July
+2004). The Humphreys  Consultation  Agreement can be terminated at any time with
+ninety days written notice by either party.
+33
+<PAGE>
+ITEM 2. MANAGEMENT'S  DISCUSSION AND ANALYSIS OF FINANCIAL  CONDITION OR PLAN OF
+        OPERATION - continued
+As discussed above,  the increase in net loss during the nine-month  period
+ended  September 30, 2005 compared to the nine-month  period ended September 30,
+2004 is  attributable  primarily  to the  increase in interest  and finance fees
+expense.  Our net loss during the nine-month period ended September 30, 2005 was
+approximately  ($6,469,152)  or  ($0.37)  per  share  compared  to a net loss of
+($5,175,168)  or ($0.35) during the nine-month  period ended September 30, 2004.
+The  weighted  average  number  of shares  outstanding  was  17,375,441  for the
+nine-month  period  ended  September  30, 2005  compared to  14,632,326  for the
+nine-month  period  ended  September  30,  2004  (which  had  been  restated  in
+accordance with the forward stock split of three-for-one  shares of common stock
+effected January 26, 2004).
+Three-Month Period Ended September 30, 2005 Compared to Three-Month Period Ended
+September 30, 2004
+Our net  loss for the  three-month  period  ended  September  30,  2005 was
+approximately  ($4,645,900)  compared  to a net loss of  ($881,920)  during  the
+three-month period ended September 30, 2004 (an increase of $3,763,980).
+During the  three-month  period  ended  September  30,  2005,  we generated
+$137,458  in oil and gas  revenue  compared  to  $211,549 in oil and gas revenue
+generated  during the same  period in 2004 (a decrease  of  $74,091),  resulting
+primarily  from the sale of gas produced  from coal bed methane gas wells on the
+Wagnon Property.  Oil and gas revenue  decreased  during the three-month  period
+ended  September 30, 2005 compared to the same period during 2004 primarily as a
+result of well production  decreases relating to the installation and management
+of well dewatering  systems,  and lower than anticipated  operating  performance
+from the Company's  interest in Newfield's  POE #1-29  previously  estimated and
+accrued.  Depletion  and  operating  costs and taxes of  $104,761  and  $58,612,
+respectively,  increased in the aggregate  during the  three-month  period ended
+September  30,  2005  compared to  depletion  and  operating  costs and taxes of
+$105,628 and $14,458, respectively, incurred during the same period in 2004. The
+increase in depletion  and operating  expenses and taxes during the  three-month
+period ended September 30, 2005 from the three-month  period ended September 30,
+2004 was  primarily  the  result of the  increase  in well  operating  costs and
+estimated  depletion resulting from the increased number of operating wells. The
+operating  loss of  ($25,915)  generated  during the  three-month  period  ended
+September 30, 2005 was further  reduced by an aggregate of $4,619,985 from other
+expenses incurred,  which resulted in a net loss of ($4,645,900).  The operating
+profit of $91,463  generated  during the three-month  period ended September 30,
+2004 was reduced by an aggregate of $973,383 from other expenses incurred, which
+resulted in a net loss of ($881,920).
+During the  three-month  period ended September 30, 2005, we incurred other
+expenses in the  aggregate  amount of $4,619,985  compared to $973,383  incurred
+during the same period in 2004 (an increase of $3,646,602),  which consisted of:
+(i) general and  administrative  expenses of  $116,499  (2004:  $949,459);  (ii)
+consulting fees - stock based  compensation  relating to the fair value of stock
+options granted to consultants of $1,138,238  (2004:  $-0-);  and (iii) interest
+and finance fees expense of $3,365,248  (2004:  $23,924).  The increase in other
+expenses  incurred  during the  three-month  period  ended  September  30,  2005
+compared to the same period during 2004 resulted  primarily from the increase in
+interest and finance fees expense.
+As discussed above, the increase in net loss during the three-month  period
+ended September 30, 2005 compared to the three-month  period ended September 30,
+2004 is  attributable  primarily  to the  increase in interest  and finance fees
+34
+<PAGE>
+ITEM 2. MANAGEMENT'S  DISCUSSION AND ANALYSIS OF FINANCIAL  CONDITION OR PLAN OF
+        OPERATION - continued
+expense. Our net loss during the three-month period ended September 30, 2005 was
+approximately  ($4,645,900)  or  ($0.26)  per  share  compared  to a net loss of
+($881,920) or ($0.06) during the  three-month  period ended  September 30, 2004.
+The  weighted  average  number  of shares  outstanding  was  17,557,753  for the
+three-month  period ended  September  30, 2005  compared to  15,319,693  for the
+three-month  period  ended  September  30,  2004  (which  had been  restated  in
+accordance with the forward stock split of three-for-one  shares of common stock
+effected January 26, 2004).
+LIQUIDITY AND CAPITAL RESOURCES
+Our financial  statements have been prepared assuming that we will continue
+as a going concern and, accordingly,  do not include adjustments relating to the
+recoverability  and realization of assets and classification of liabilities that
+might be necessary should we be unable to continue in operation.
+Nine-Month Period Ended September 30, 2005
+As of the  nine-month  period ended  September 30, 2005, our current assets
+were $1,624,547 and our current liabilities were $2,455,451, which resulted in a
+working capital deficit of $830,904. As of the nine-month period ended September
+30, 2005, our total assets were $7,106,903 consisting of: (i) $1,011,538 in cash
+and cash  equivalents;  (ii) $162,984 in accounts  receivable;  (iii) $12,000 in
+prepaid  expenses;  (iv) $858,887 in deferred charges;  (v) $2,710,046  carrying
+value of proved oil and gas  properties  (net of  accumulated  depletion);  (vi)
+$2,348,949  carrying value of unproved oil and gas properties;  and (vii) $2,499
+in other  property and equipment (net of  accumulated  depreciation).  As of the
+nine-month   period  ended  September  30,  2005,  our  total  liabilities  were
+$3,670,894   consisting  of:  (i)  $616,146  in  accounts  payable  and  accrued
+liabilities;   and  (ii)  $3,054,748  in  current  and  non-current  portion  of
+promissory notes.
+Stockholders'  equity  increased  from  $1,685,514  for  fiscal  year ended
+December 31, 2004 to $3,436,009  for the nine-month  period ended  September 30,
+2005.
+We have not generated  positive cash flows from operating  activities.  For
+the nine-month period ended September 30, 2005, net cash flows used in operating
+activities  was  ($1,047,012)  compared  to net  cash  flows  used in  operating
+activities for the nine-month  period ended September 30, 2004 of  ($1,141,114).
+Net cash flows used in  operating  activities  for the  nine-month  period ended
+September 30, 2005 consisted  primarily of a net loss of ($6,469,152).  Net cash
+flows used in operating  activities  was adjusted by $1,913,991 to reconcile the
+non-cash  expense of the grant of stock options and by $244,641 to reconcile the
+non-cash expense of oil and gas depletion.
+Net cash  flows  used in  investing  activities  was  ($2,245,408)  for the
+nine-month  period ended  September  30, 2005 compared to net cash flows used in
+investing  activities  for the  nine-month  period ended  September  30, 2004 of
+($2,251,034),  which  primarily  pertained to the acquisition of the oil and gas
+properties.
+Net cash flows from financing  activities was $3,977,665 for the nine-month
+period  ended  September  30,  2005  compared  to net cash flows from  financing
+activities for the nine-month period ended September 30, 2004 of $4,798,365. Net
+cash flows from financing  activities for the nine-month  period ended September
+30, 2005 consisted of $4,645,950  (2004:  $500,000) in convertible notes (net of
+35
+<PAGE>
+ITEM 2. MANAGEMENT'S  DISCUSSION AND ANALYSIS OF FINANCIAL  CONDITION OR PLAN OF
+        OPERATION - continued
+introduction  and legal  fees),  $512,630  net  proceeds on sale of common stock
+(2004:  $3,281,075),  and $-0- in  drilling  advances  (2004:  $279,306),  which
+amounts were adjusted,  respectively,  by  ($1,180,915) in repayment of drilling
+advances.
+PLAN OF OPERATION
+During the  nine-month  period ended  September  30, 2005, we completed the
+sale  of  a  secured  and  convertible  note  private  placement  (the  "Private
+Placement") with certain accredited  investors (each an "Investing Note Holder")
+for  aggregate  proceeds of $5,260,000  pursuant to the terms and  conditions of
+certain  subscription  agreement  as  entered  into  between  us and  each  such
+Investing Note Holder. Subsequently,  we also received an additional $600,000 in
+convertible  note and warrant  financing  under  identical terms and conditions,
+bring our aggregate  convertible  debt  financing to  $5,860,000.  See "Material
+Commitments" and "Part II. Other Information.  Item 2. Changes in Securities and
+Use of Proceeds."
+Furthermore,  during  fiscal year 2004,  we  completed a private  placement
+offering of an  aggregate of  1,700,686  Units at a purchase  price of $1.47 per
+Unit for net proceeds of approximately $2,319,264.  Included in the net proceeds
+was the exchange of two of our  outstanding  promissory  notes in the  aggregate
+principal  amount of  $500,000  plus  accrued  interest  of  $12,637  for Units,
+resulting in the issuance of 376,318  Units.  Each Unit consists of one share of
+our common  stock and one warrant to purchase a share of our common  stock at an
+exercise price of $1.68 (the "September Warrants").  The September Warrants from
+the  offering  were  exercisable  for a term of 180 days after the  Registration
+Statement was declared  effective on January 21, 2005 creating an expiry term of
+July 23,  2005.  During the first and second  quarters of 2005,  an aggregate of
+304,367  September  Warrants were exercised for aggregate  proceeds of $495,964,
+net of $15,373 in brokers' fees. The remaining 1,396,319 September Warrants have
+expired.
+Existing working capital,  further advances and possible debt  instruments,
+anticipated warrant exercises,  further private placements, and anticipated cash
+flow  are  expected  to be  adequate  to fund our  operations  over the next six
+months.  We have no  lines  of  credit  or other  bank  financing  arrangements.
+Generally,  we have  financed  operations  to date  through the  proceeds of the
+private placement of equity and debt securities. In connection with our business
+plan,  management  anticipates  additional  increases in operating  expenses and
+capital  expenditures  relating to: (i) oil and gas operating  properties;  (ii)
+drilling initiatives;  (iii) property acquisitions' and (iv) working capital and
+administration.  We intend to finance these  expenses with further  issuances of
+securities,  debt and or advances, and revenues from operations.  Thereafter, we
+expect we will need to raise  additional  capital and  increase  its revenues to
+meet long-term operating requirements.
+Additional  issuances of equity or convertible  debt securities will result
+in dilution to our current  shareholders.  Further,  such securities  might have
+rights,  preferences  or  privileges  senior  to our  common  stock.  Additional
+financing may not be available  upon  acceptable  terms,  or at all. If adequate
+funds are not available or are not available on acceptable  terms, we may not be
+able to take advantage of prospective new business  endeavors or  opportunities,
+or existing  agreements which could  significantly  and materially  restrict our
+business operations.
+36
+<PAGE>
+ITEM 2. MANAGEMENT'S  DISCUSSION AND ANALYSIS OF FINANCIAL  CONDITION OR PLAN OF
+        OPERATION - continued
+The independent  auditors'  report  accompanying  our December 31, 2004 and
+December 31, 2003  consolidated  financial  statements  contains an  explanatory
+paragraph expressing  substantial doubt about our ability to continue as a going
+concern. The consolidated financial statements have been prepared "assuming that
+we will continue as a going  concern," which  contemplates  that we will realize
+our assets and satisfy our liabilities and commitments in the ordinary course of
+business.
+MATERIAL COMMITMENTS
+In accordance  with the terms and provisions of the Private  Placement with
+certain Investing Note Holders for aggregate  proceeds of $5,860,000,  we issued
+an aggregate of $5,860,000 in secured,  convertible  two-year  promissory  notes
+bearing  8%  interest  to  the  Investing   Note  Holders   (collectively,   the
+"Convertible Promissory Notes"). See "Part II. Other Information. Item 2 Changes
+in Securities and Use of Proceeds".
+We are committed to repay the Investing Note Holders outstanding amounts of
+principal  and interest  accrued at 8% per annum on an  aggregate  face value of
+$5,860,000 in Convertible Notes.  Twenty monthly principal and interest payments
+are  payable  either in cash or shares of our common  stock at the rate of $1.00
+per share (the "Fixed  Conversion  Price")  beginning on January 16, 2005 if our
+share price is trading above $1.00 per share at the date of payment.  Commencing
+on the  fourth  month  anniversary  of the  closing  date  of the  issue  of the
+Convertible  Notes  (September  16,  2005),  and on the first date of each month
+thereafter, the Convertible Notes must be repaid in cash or shares in the amount
+equal to 5% of the principal  amount of the Convertible  Notes together with all
+accrued  interest  due and payable up to the  repayment  date.  If our shares of
+common stock are trading at less than $1.00 per share at the date of  repayment,
+then we may repay monthly principal and interest due in either cash of shares of
+common stock at a different rate than the Fixed Conversion  Price. If the volume
+weighted  average  share price (the  "VWAP") of the five trading days prior to a
+month payment date is less than the Fixed Conversion  Price, then we may pay the
+monthly  amount in cash or  registered  shares of our common stock at 75% of the
+VWAP for the five trading days prior to the month payment  date.  The holders of
+the Convertible Notes have a secured first interest in our assets.
+OFF-BALANCE SHEET ARRANGEMENTS
+As of the date of this  Quarterly  Report,  we do not have any  off-balance
+sheet  arrangements  that have or are  reasonably  likely  to have a current  or
+future  effect on our  financial  condition,  changes  in  financial  condition,
+revenues or expenses, results of operations,  liquidity, capital expenditures or
+capital resources that are material to investors.  The term  "off-balance  sheet
+arrangement"  generally means any  transaction,  agreement or other  contractual
+arrangement to which an entity unconsolidated with us is a party, under which we
+have:  (i) any  obligation  arising  under  a  guaranteed  contract,  derivative
+instrument or variable  interest;  or (ii) a retained or contingent  interest in
+assets transferred to such entity or similar  arrangement that serves as credit,
+liquidity or market risk support for such assets.
+37
+<PAGE>
+ITEM III. CONTROLS AND PROCEDURES
+An  evaluation   was  conducted   under  the   supervision   and  with  the
+participation of our management, including Grant Atkins, our President and Chief
+Executive Officer, and Vaughn Barbon, our Treasurer and Chief Financial Officer,
+of the effectiveness of the design and operation of our disclosure  controls and
+procedures as at September 30, 2005.  Based on that evaluation,  Messrs.  Atkins
+and Barbon concluded that our disclosure  controls and procedures were effective
+as of such date to ensure  that  information  required  to be  disclosed  in the
+reports that we file or submit  under the  Securities  Exchange Act of 1934,  as
+amended (the "Exchange  Act"), is recorded,  processed,  summarized and reported
+within the time periods  specified in Commission rules and forms.  Such officers
+also  confirm that there was no change in our  internal  control over  financial
+reporting  during  the  nine-month  period  ended  September  30,  2005 that has
+materially affected,  or is reasonably likely to materially affect, our internal
+control over financial reporting.
+Audit Committee Report
+The Board of Directors has established an audit  committee.  The members of
+the audit committee are Mr. Steven Jewett,  Mr. Doug  Humphreys,  and Mr. Norman
+MacKinnon.  Two of the three members of the audit  committee  are  "independent"
+within the meaning of Rule 10A-3 under the Exchange Act. The audit committee was
+organized  in April 2004 and  operates  under a written  charter  adopted by our
+Board of Directors.
+The  audit  committee  has  reviewed  and  discussed  with  management  our
+unaudited  financial  statements  as of and  for  the  nine-month  period  ended
+September 30, 2005.  The audit  committee has also  discussed with Dale Matheson
+Carr-Hilton  LaBonte  the matters  required  to be  discussed  by  Statement  on
+Auditing Standards No. 61,  Communication with Audit Committees,  as amended, by
+the  Auditing  Standards  Board of the American  Institute  of Certified  Public
+Accountants.   The  audit  committee  has  received  and  reviewed  the  written
+disclosures and the letter from Dale Matheson  Carr-Hilton  LaBonte  required by
+Independence Standards Board Standard No. 1, Independence Discussions with Audit
+Committees, as amended, and has discussed with Dale Matheson Carr-Hilton LaBonte
+their independence.
+Based on the reviews and discussions referred to above, the audit committee
+has  recommended  to  the  Board  of  Directors  that  the  unaudited  financial
+statements  referred to above be included in our Quarterly Report on Form 10-QSB
+for the nine-month period ended September 30, 2005 filed with the Securities and
+Exchange Commission.
+38
+<PAGE>
+PART II. OTHER INFORMATION
+ITEM 1. LEGAL PROCEEDINGS
+Management  is not  aware  of any  legal  proceedings  contemplated  by any
+governmental authority or any other party involving us or our properties.  As of
+the date of this Quarterly  Report,  no director,  officer or affiliate is (i) a
+party adverse to us in any legal proceeding,  or (ii) has an adverse interest to
+us in any  legal  proceedings.  Management  is not  aware  of  any  other  legal
+proceedings pending or that have been threatened against us or our properties.
+ITEM 2. CHANGES IN SECURITIES AND USE OF PROCEEDS
+CONVERITBLE NOTES
+In accordance  with the terms and provisions of the Private  Placement with
+certain Investing Note Holders for aggregate proceeds of $5,860,000,  we issued:
+(i) an aggregate of $5,860,000 in secured, convertible two-year promissory notes
+bearing  8%  interest  to  the  Investing   Note  Holders   (collectively,   the
+"Convertible  Promissory Notes");  (ii) for every two shares of our common stock
+purchasable  in accordance  with the  conversion  provisions of the  Convertible
+Promissory  Notes,  one Class A Warrant,  for an aggregate of 2,930,000  Class A
+Warrants,  to purchase a share of our common stock at an exercise price of $1.50
+per share for a three-year term after a registration statement has been declared
+effective by the Securities and Exchange Commission;  (iii) for every two shares
+of our common stock purchasable in accordance with the conversion  provisions of
+the Convertible Notes, one Class B Warrant,  for an aggregate of 2,930,000 Class
+B Warrants,  to purchase an additional  share of our common stock at an exercise
+price of $1.25 per share for a one-year term after a registration  statement has
+been declared  effective by the  Securities  and Exchange  Commission;  and (iv)
+586,000 finder's  Warrants to purchase shares of our common stock at an exercise
+price of $1.00  per  share  for a term of  three-years  after  the  registration
+statement has been declared effective by the Securities and Exchange Commission.
+COAL CREEK LOANS
+From June through August 2005, we obtained loans in the aggregate amount of
+$1,165,000,  which loans were  secured  against our  interests in the Coal Creek
+Prospect (the "Coal Creek Loans").  As of September 30, 2005, we have repaid the
+Coal Creek Loans in the aggregate  principal  amount of  $1,165,000  and accrued
+interest of $41,058,  thus  discharging the security  interest  against our Coal
+Creek Prospect.  We also issued 233,000 warrants  exercisable at $3.00 per share
+with exercise terms until May 31, 2010.
+EXERCISE OF SHARE PURCHASE WARRANTS
+As of the date of this  Quarterly  Report,  we have issued an  aggregate of
+304,367 shares of common stock to  shareholders  pursuant to the exercise of the
+September  Warrants.  During  fiscal  year  2004,  we  completed  the sale of an
+aggregate  of  1,700,686  Units at a  purchase  price of $1.47  per Unit for net
+proceeds  of  approximately  $2,319,264.  Included in the net  proceeds  was the
+exchange of two of our outstanding  promissory notes in the aggregate  principal
+amount of $500,000 plus accrued interest of $12,637 for Units,  resulting in the
+issuance of 376,318 Units.  Each Unit consisted of one share of our common stock
+and one warrant to purchase a share of our common stock at an exercise  price of
+$1.68.
+As of the date of this Quarterly  Report, an aggregate of 304,367 September
+Warrants were  exercised for aggregate  proceeds of $495,964,  net of $15,373 in
+brokers'   fees.  The  304,367  shares  of  common  stock  were  issued  to  the
+39
+<PAGE>
+ITEM 2. CHANGES IN SECURITIES AND USE OF PROCEEDS - continued
+shareholders in reliance on the registration provisions of the Securities Act of
+1933, as amended,  in accordance with the terms of the  Registration  Statement.
+The September  Warrants  were  exercisable  until July 23, 2005 and  unexercised
+warrants have expired.
+EXERCISE OF STOCK OPTIONS
+During the  nine-month  period ended  September  30, 2005,  an aggregate of
+100,000 Stock Options were  exercised at $0.16667 per share for cash proceeds of
+$16,667. The shares of common stock were issued to the shareholder in accordance
+with the S-8 Registration Statement.
+Amendment to Stock Option Plan
+We current have one equity compensation plan, our amended Stock Option Plan
+(the "Amended  SOP") dated August 19, 2005,  which  provides for the issuance of
+stock options for services rendered to us. Our Board of Directors is vested with
+the power to  determine  the  terms and  conditions  of the stock  Options.  The
+Amended Stock Option Plan includes  7,500,000  shares.  As of December 31, 2004,
+4,200,000  stock options  under our previous  stock option plan had been granted
+and 3,665,000 stock options had been exercised which, by adoption of the amended
+SOP,  now form part of our  Amended  SOP.  During  the nine month  period  ended
+September 30, 2005, we have granted an aggregate of 2,600,000  additional  stock
+options  under our  Amended  Stock  Option Plan as  follows:  (i) 500,000  stock
+options at an exercise  price of $1.00 per share,  100,000  stock  options at an
+exercise  price of $0.1667  both granted on February 1, 2005  exercisable  for a
+period of five years,  and (ii) 2,000,000  stock options at an exercise price of
+$1.25 granted on August 19, 2005 exercisable for a period of five years.
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+No report required.
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+No report required.
+ITEM 5. OTHER INFORMATION
+No report required.
+ITEM 5. OTHER INFORMATION
+No report required.
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+Exhibits:
+31.1 Certification  of  Chief  Executive  Officer  pursuant  to  Securities
+          Exchange Act of 1934 Rule 13a-14(a) or 15d-14(a).
+31.2 Certification  of  Chief  Financial  Officer  pursuant  to  Securities
+          Exchange Act of 1934 Rule 13a-14(a) or 15d-14(a).
+32.1 Certifications  pursuant to Securities  Exchange Act of 1934 Rule 13a-
+          14(b) or 15d-14(b) and 18 U.S.C.  Section 1350, as adopted pursuant to
+          Section 906 of the Sarbanes-Oxley Act of 2002.
+40
+<PAGE>
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K - continued
+Reports on Form 8-K:
+Report on Form 8-K Item 5.01 filed on February 18, 2005. Report on Form 8-K
+     Item 1.01  filed on June 8,  2005.  Report  on Form 8-K Item 3.02  filed on
+     September  20, 2005.  Report on Form 8-K Item 1.01 filed on  September  23,
+     2005. Report on Form 8-K Item 1.01 filed on September 29. 2005.
+SIGNATURES
+In accordance  with the  requirements  of the Exchange Act, the  registrant
+caused this report to be signed on its behalf by the undersigned, thereunto duly
+authorized.
+LEXINGTON RESOURCES, INC.
+Dated: November 14, 2005                   By: /s/ Grant Atkins
+                                             ---------------------------
+                                             Grant Atkins, President and
+Chief Executive Officer
+Dated: November 14, 2005                  By: /s/ Vaughn Barbon
+                                            ---------------------------
+                                             Vaughn Barbon, Chief Financial
+                                             Officer
+41
+<PAGE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31
+<SEQUENCE>2
+<FILENAME>exhibit_31-1.txt
+<DESCRIPTION>CEO CERTIFICATIONS REQUIRED UNDER SECTION 302
+<TEXT>
+Exhibit 31.1
+CERTIFICATION OF CHIEF EXECUTIVE OFFICER PURSUANT TO
+           SECURITIES EXCHANGE ACT OF 1934 RULE 13a-14(a) OR 15d-14(a)
+I, Grant R. Atkins, certify that:
+1.   I  have  reviewed  this  quarterly  report  on  Form  10-QSB  of  Lexington
+     Resources, Inc.;
+2.   Based on my knowledge, this report does not contain any untrue statement of
+     a material  fact or omit to state a  material  fact  necessary  to make the
+     statements made, in light of the circumstances  under which such statements
+     were made,  not  misleading  with  respect  to the  period  covered by this
+     report;
+3.   Based on my  knowledge,  the  financial  statements,  and  other  financial
+     information  included  in  this  report,  fairly  present  in all  material
+     respects the financial  condition,  results of operations and cash flows of
+     the small  business  issuer as of, and for,  the periods  presented in this
+     report;
+4.   The  small  business  issuer's  other  certifying   officer(s)  and  I  are
+     responsible  for  establishing  and  maintaining  disclosure  controls  and
+     procedures  (as defined in Exchange Act Rules  13a-15(e) and 15d-15(e)) and
+     internal control over financial reporting (as defined in Exchange Act Rules
+     13a-15(f) and 15d-15(f)) for the small business issuer and have:
+(a) Designed such disclosure  controls and procedures,  or caused such
+          disclosure   controls  and   procedures  to  be  designed   under  our
+          supervision, to ensure that material information relating to the small
+          business  issuer,  including its  consolidated  subsidiaries,  is made
+          known to us by others within those entities,  particularly  during the
+          period in which this report is being prepared;
+(b) Designed such internal control over financial reporting, or caused
+          such internal  control over  financial  reporting to be designed under
+          our  supervision,   to  provide  reasonable  assurance  regarding  the
+          reliability  of financial  reporting and the  preparation of financial
+          statements for external purposes in accordance with generally accepted
+          accounting principles;
+(c)  Evaluated  the  effectiveness  of  the  small  business  issuer's
+          disclosure  controls and  procedures  and presented in this report our
+conclusions  about the  effectiveness  of the disclosure  controls and
+          procedures,  as of the end of the period  covered by this report based
+          on such evaluation; and
+(d) Disclosed in this report any change in the small business issuer's
+          internal  control over financial  reporting  that occurred  during the
+          small business issuer's most recent fiscal quarter (the small business
+          issuer's  fourth fiscal  quarter in the case of an annual report) that
+          has materially affected, or is reasonably likely to materially affect,
+          the small business issuer's internal control over financial reporting;
+          and
+5.   The  small  business  issuer's  other  certifying  officer(s)  and  I  have
+     disclosed,  based on our most recent  evaluation  of internal  control over
+     financial reporting,  to the small business issuer's auditors and the audit
+     committee of the small  business  issuer's  board of directors  (or persons
+     performing the equivalent functions):
+(a) All significant deficiencies and material weaknesses in the design
+          or operation of internal  control over financial  reporting  which are
+          reasonably  likely to  adversely  affect the small  business  issuer's
+          ability   to  record,   process,   summarize   and  report   financial
+          information; and
+(b) Any fraud,  whether or not material,  that involves  management or
+          other  employees  who have a  significant  role in the small  business
+          issuer's internal control over financial reporting.
+Dated: November 14, 2005
+By: /s/ Grant R. Atkins
+- -----------------------------------
+Grant R. Akins, President
+and Chief Executive Officer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31
+<SEQUENCE>3
+<FILENAME>exhibit_31-2.txt
+<DESCRIPTION>CFO CERTIFICATIONS REQUIRED UNDER SECTION 302
+<TEXT>
+Exhibit 31.2
+CERTIFICATION OF CHIEF EXECUTIVE OFFICER PURSUANT TO
+           SECURITIES EXCHANGE ACT OF 1934 RULE 13a-14(a) OR 15d-14(a)
+I, Vaughn Barbon, certify that:
+1.   I  have  reviewed  this  quarterly  report  on  Form  10-QSB  of  Lexington
+     Resources, Inc.;
+2.   Based on my knowledge, this report does not contain any untrue statement of
+     a material  fact or omit to state a  material  fact  necessary  to make the
+     statements made, in light of the circumstances  under which such statements
+     were made,  not  misleading  with  respect  to the  period  covered by this
+     report;
+3.   Based on my  knowledge,  the  financial  statements,  and  other  financial
+     information  included  in  this  report,  fairly  present  in all  material
+     respects the financial  condition,  results of operations and cash flows of
+     the small  business  issuer as of, and for,  the periods  presented in this
+report;
+4.   The  small  business  issuer's  other  certifying   officer(s)  and  I  are
+     responsible  for  establishing  and  maintaining  disclosure  controls  and
+     procedures  (as defined in Exchange Act Rules  13a-15(e) and 15d-15(e)) and
+     internal control over financial reporting (as defined in Exchange Act Rules
+     13a-15(f) and 15d-15(f)) for the small business issuer and have:
+(a) Designed such disclosure  controls and procedures,  or caused such
+          disclosure   controls  and   procedures  to  be  designed   under  our
+          supervision, to ensure that material information relating to the small
+          business  issuer,  including its  consolidated  subsidiaries,  is made
+          known to us by others within those entities,  particularly  during the
+          period in which this report is being prepared;
+(b) Designed such internal control over financial reporting, or caused
+          such internal  control over  financial  reporting to be designed under
+          our  supervision,   to  provide  reasonable  assurance  regarding  the
+          reliability  of financial  reporting and the  preparation of financial
+          statements for external purposes in accordance with generally accepted
+          accounting principles;
+(c)  Evaluated  the  effectiveness  of  the  small  business  issuer's
+          disclosure  controls and  procedures  and presented in this report our
+          conclusions  about the  effectiveness  of the disclosure  controls and
+          procedures,  as of the end of the period  covered by this report based
+          on such evaluation; and
+(d) Disclosed in this report any change in the small business issuer's
+          internal  control over financial  reporting  that occurred  during the
+          small business issuer's most recent fiscal quarter (the small business
+          issuer's  fourth fiscal  quarter in the case of an annual report) that
+          has materially affected, or is reasonably likely to materially affect,
+          the small business issuer's internal control over financial reporting;
+          and
+5.   The  small  business  issuer's  other  certifying  officer(s)  and  I  have
+     disclosed,  based on our most recent  evaluation  of internal  control over
+     financial reporting,  to the small business issuer's auditors and the audit
+     committee of the small  business  issuer's  board of directors  (or persons
+     performing the equivalent functions):
+(a) All significant deficiencies and material weaknesses in the design
+          or operation of internal  control over financial  reporting  which are
+          reasonably  likely to  adversely  affect the small  business  issuer's
+          ability   to  record,   process,   summarize   and  report   financial
+          information; and
+(b) Any fraud,  whether or not material,  that involves  management or
+          other  employees  who have a  significant  role in the small  business
+          issuer's internal control over financial reporting.
+Dated: November 14, 2005
+By: /s/ Vaughn Barbon
+- --------------------------------
+Vaughn Barbon
+Chief Financial Officer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-32
+<SEQUENCE>4
+<FILENAME>exhibit_32-1.txt
+<DESCRIPTION>CEO-CFO CERTIFICATIONS REQUIRED UNDER SECTION 906
+<TEXT>
+EXHIBIT 32.1
+CERTIFICATIONS PURSUANT TO SECURITIES EXCHANGE ACT OF 1934
+                         RULE 13a-14(b) OR 15d-14(b) AND
+                             18 U.S.C. SECTION 1350,
+                             AS ADOPTED PURSUANT TO
+                  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+In connection with the quarterly  report of Lexington  Resources (the "Company")
+on Form  10-QSB  for  quarter  ended  September  30,  2005,  as  filed  with the
+Securities and Exchange  Commission on the date hereof (the "Report"),  Grant R.
+Atkins,  Chief  Executive  Officer  of the  Company,  and Vaughn  Barbon,  Chief
+Financial  Officer of the Company,  each  certifies for the purpose of complying
+with Rule  13a-14(b) or Rule  15d-14(b) of the  Securities  Exchange Act of 1934
+(the  "Exchange  Act") and Section  1350 of Chapter 63 of Title 18 of the United
+States Code, that:
+1.   the Report fully complies with the  requirements of Section 13(a)
+               or 15(d) of the Exchange Act; and
+2.   the information  contained in the Report fairly presents,  in all
+               material  respects,   the  financial  condition  and  results  of
+               operations of the Company.
+Dated: November 14, 2005                  By:  /s/ Grant R. Atkins
+                                          --------------------------------
+                                          Grant R. Atkins, Chief Executive
+                                          Officer
+Dated: November 14, 2005                  By:  /s/ Vaughn Barbon
+                                          --------------------------------
+                                          Vaughn Barbon, Chief Financial
+                                          Officer
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

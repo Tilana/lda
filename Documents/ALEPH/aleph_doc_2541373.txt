@@ -1,0 +1,279 @@
+
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ L7lgXijILqe3Z3Ynf7mibVNAahcZBrW7+56vEziKWNR3EPc85c2HKzJKDSqixQc5
+ Lu4Jli++2z1rcYpoyUxQ2g==
+<SEC-DOCUMENT>0001140361-05-007825.txt : 20051003
+<SEC-HEADER>0001140361-05-007825.hdr.sgml : 20051003
+<ACCEPTANCE-DATETIME>20050930175642
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+EFFECTIVENESS DATE:
+NT 20-F
+1
+20050331
+0001140361-05-007825
+20050930
+20051003
+20051003
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: METAL MINING [1000]
+IRS NUMBER:
+FISCAL YEAR END:
+000000000
+0331
+SECUREVIEW SYSTEMS INC/CAN
+0001105284
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 000-30520
+FILM NUMBER:
+NT 20-F
+1934 Act
+051115281
+BUSINESS ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+828 WEST 7TH
+AVENUE
+VANCOUVER
+A1
+V5K 1A1
+6046886933
+MAIL ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+FORMER COMPANY:
+828 WEST 7TH
+AVENUE
+VANCOUVER
+A1
+V5K 1A1
+FORMER CONFORMED NAME: INTERNATIONAL COMSTOCK EXPLORATION LTD
+DATE OF NAME CHANGE:
+20000203
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>NT 20-F
+<SEQUENCE>1
+<FILENAME>doc1.htm
+<TEXT>
+<html>
+<head>
+<title>Form 12B25</title>
+</head>
+<body bgcolor="#ffffff">
+<center>
+<table border="0" cellspacing="0" cellpadding="1" width="100%" 
+align="center"><tr><td align="center"><strong><font size="3">
+   SECURITIES AND EXCHANGE COMMISSION<br>WASHINGTON, DC 20549<br><br>
+   FORM 12b-25<br><br>NOTIFICATION OF LATE 
+FILING</font></strong></td></tr></table>
+<br><br><table border="0" cellspacing="0" cellpadding="0" width="100%" 
+align="center">
+<tr>
+<td width="70%" align="right"><font size="1"><br></font></td>
+<td width="15%" align="left"><font size="1">SEC FILE NUMBER</font></td>
+<td width="15%" align="right"><font size="1"></font></td>
+</tr>
+<tr>
+<td width="70%" align="right"><font size="1"><br></font></td>
+<td width="15%" align="left"><font size="1">CUSIP NUMBER</font></td>
+<td width="15%" align="right"><font size="1"></font></td>
+</tr>
+</table>
+<br><br><table border="0" cellspacing="0" cellpadding="1" width="100%" 
+align="center"><tr><td><font size="2"><center>
+|&nbsp;&nbsp;|
+&nbsp;&nbsp;Form 10-K&nbsp;&nbsp;
+|X|
+&nbsp;&nbsp;Form 20-F&nbsp;&nbsp;
+|&nbsp;&nbsp;|
+&nbsp;&nbsp;Form 11-K&nbsp;&nbsp;
+|&nbsp;&nbsp;|
+&nbsp;&nbsp;Form 10-Q&nbsp;&nbsp;
+|&nbsp;&nbsp;|
+&nbsp;&nbsp;Form NSAR&nbsp;&nbsp;
+|&nbsp;&nbsp;|&nbsp;&nbsp;Form N-CSR&nbsp;&nbsp;
+   </center>
+<br>For the period ended:&nbsp;<strong>March&nbsp;31,&nbsp;2005</strong><br><br>
+|&nbsp;&nbsp;|
+&nbsp;&nbsp;Transition Report on Form 10-K&nbsp;&nbsp;<br>
+|&nbsp;&nbsp;|
+&nbsp;&nbsp;Transition Report on Form 20-F&nbsp;&nbsp;<br>
+|&nbsp;&nbsp;|
+&nbsp;&nbsp;Transition Report on Form 11-K&nbsp;&nbsp;<br>
+|&nbsp;&nbsp;|
+&nbsp;&nbsp;Transition Report on Form 10-Q&nbsp;&nbsp;<br>
+|&nbsp;&nbsp;|
+&nbsp;&nbsp;Transition Report on Form NSAR&nbsp;&nbsp;<br><br>For the transition
+period ended:&nbsp;
+<hr size="1">
+<center><em>Read attached Instruction Sheet Before Preparing Form. Please Print 
+or Type.</em></center>
+<br><br>
+Nothing in this form shall be construed to imply that the Commission has 
+verified any information contained herein.
+   <hr size="1">
+   If the notification related to a portion of the filing checked above, 
+identify the item(s) to which notification relates:
+   <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br></font></td></tr></table>
+<table border="0" cellspacing="0" cellpadding="1" width="100%" align="center">
+<tr><td colspan="3"><font size="2"><hr size="3">
+<strong>Part I-Registrant Information</strong><hr size="3"></font></td></tr>
+<tr>
+<td align="left" width="4%">&nbsp;</td>
+<td align="left" width="48%"><font size="2">Full name of Registrant:<br>Former 
+name if Applicable:
+  <br>Address of Principal Executive Office (<em>Street</em> and 
+<em>Number</em>):
+  <br>City, State and Zip Code:</font></td>
+<td align="left" width="48%"><font size="2"><U>Global Immune Technologies 
+Inc.</U><br><U></U><br><U>TH B - 1199 Marinaside Crescent</U><br><U>Vancouver, 
+British Columbia, Canada V6Z 2Y2</U></font></td>
+</tr>
+</table>
+<table border="0" cellspacing="0" cellpadding="1" width="100%" align="center">
+<tr><td colspan="4"><font size="2"><br><hr size="3">
+<strong>Part II-Rule 12b-25(b) and (c)</strong><hr size="3">
+   If the subject report could not be filed without unreasonable effort or 
+expense
+   and the registrant seeks relief pursuant to Rule 12b-25(b), the following 
+should be
+   completed.(Check box if appropriate.)<br><br></font></td></tr>
+<tr>
+<td valign="top"><div align="left"><font size="2"><br><br><br>
+|&nbsp;&nbsp;|
+</font></div></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>
+<p><font size="2">(a) &nbsp;&nbsp; The reasons described in detail in
+   Part III of this form could not be eliminated without unreasonable effort or 
+expense;<br></font></p>
+<p><font size="2">(b) &nbsp;&nbsp; The subject annual report, semi-annual
+   report, transition report of Forms 10-K, 10-KSB, 20-F, 11-K, Form
+   N-SAR or Form N-CSR, or portion thereof will be filed on or before the 15th 
+calendar
+   day following the prescribed due date; or the subject quarterly report
+   or transition report on Form 10-Q, 10-QSB, or portion thereof will be
+   filed on or before the fifth calendar day following the prescribed due date; 
+and <br><br>
+   (c) &nbsp;&nbsp; The accountant's statement or other exhibit required
+   by Rule 12b-25(c) has been attached if applicable.</font></p>
+</td>
+</tr>
+</table>
+<!-- PAGE BREAK --><table border="0" cellspacing="0" cellpadding="1" 
+width="100%" align="center"><tr><td><font size="2"><br><hr size="3">
+<strong>Part III-Narrative</strong><hr size="3">
+   State below in reasonable detail the reasons why Forms 10-K, 20-F, 11-K, 10-
+Q, 10-QSB, N-SAR, N-CSR or the transition report portion
+   thereof could not be filed within the prescribed time period.<br><br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company was unable to pay its bills which 
+bills were required to be paid before the Company could properly file its annual
+report. Subsequently, funding became available and the Company now expects to 
+file.<br><hr size="3">
+<strong>Part IV-Other Information</strong><hr size="3">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)&nbsp;&nbsp; Name and telephone number of
+person to contact in regard to this 
+notification:<br><br></font></td></tr></table>
+<table border="0" cellspacing="0" cellpadding="1" width="100%" align="center">
+<tr>
+<td width="33%" align="center"><font size="2">Don Perks</font></td>
+<td width="34%" align="center"><font size="2">604</font></td>
+<td width="33%" align="center"><font size="2">351 9443</font></td>
+</tr>
+<tr><td colspan="3"><hr size="1"></td></tr>
+<tr>
+<td width="33%" align="center"><font size="2">(Name)</font></td>
+<td width="34%" align="center"><font size="2">(Area Code)</font></td>
+<td width="33%" align="center"><font size="2">(Telephone Number)</font></td>
+</tr>
+</table>
+<table border="0" cellspacing="0" cellpadding="1" width="100%" 
+align="center"><tr><td><font size="2"><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(2)&nbsp;&nbsp; Have all other periodic reports required under Section 13 or 
+15(d) of the Securities Exchange Act of 1934 or
+   Section 30 of the Investment Company Act of 1940 during the preceding 12 
+months or for such shorter period that the registrant was required
+   to file such report(s) been filed?<div align="right"><font size="2">
+|X|&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;|
+&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;
+</font></div>
+   If the answer is no, identify report(s)<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br><br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3) &nbsp;&nbsp; Is it anticipated that any 
+significant change in
+   results of operations from the corresponding period for the last fiscal
+   year will be reflected by the earnings statements to be included in
+   the subject report or portion thereof?
+   <div align="right"><font size="2">
+|&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;&nbsp;|X|
+&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;
+</font></div>
+<br>
+   If so: attach an explanation of the anticipated change, both narratively and 
+quantitatively, and, if appropriate, state
+   the reasons why a reasonable estimate of the results cannot be 
+made.<br><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><center>Global Immune 
+Technologies Inc.</center>
+<hr size="1">
+<center>Name of Registrant as Specified in Charter <br><br>
+</center>
+   Has caused this notification to be signed on its behalf by the undersigned 
+thereunto duly authorized.<br><br><br></font></td></tr></table>
+<table border="0" cellspacing="0" cellpadding="1" width="100%" 
+align="center"><tr>
+<td width="45%" align="left" valign="top"><font 
+size="2">Date:&nbsp;<U>September&nbsp;
+30,&nbsp;
+2005</U></font></td>
+<td width="10%" align="right" valign="top"><font size="2">By:&nbsp;</font></td>
+<td width="45%" align="left" valign="top"><font size="2"><U>/s/&nbsp;Don 
+Perks</U><br>Don Perks<br></font></td>
+</tr></table>
+<table border="0" cellspacing="0" cellpadding="1" width="100%" 
+align="center"><tr><td>
+<font size="2"><br><br>
+   INSTRUCTION: The form may be signed by an executive officer of the registrant
+or by any other duly authorized
+   representative.  The name and title of the person signing the form shall be 
+typed or printed beneath the
+signature.  If the statement is signed on behalf of the registrant by an 
+authorized representative (other
+   than an executive officer), evidence of the representative's authority to 
+sign on behalf of the registrant
+   shall be filed with the form.<hr size="1">
+<center> ATTENTION</center>
+<br>
+   Intentional misstatements or omissions of fact constitute Federal Criminal 
+Violations (See 18 U.S.C. 1001).</font><hr size="1">
+</td></tr></table>
+</center>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

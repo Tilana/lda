@@ -1,0 +1,316 @@
+
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ M6BS+b6j5NnMfETTmsYJJkMoL89ym/NnPIOp1xT92Aa0xJipCQTpQwyMbt6Ypa2J
+ GCBCjOAbpqx0r/yPhDAUyQ==
+<SEC-DOCUMENT>0000897069-05-002543.txt : 20051019
+<SEC-HEADER>0000897069-05-002543.hdr.sgml : 20051019
+<ACCEPTANCE-DATETIME>20051019111251
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+ITEM INFORMATION:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+8-K
+1
+20051015
+0000897069-05-002543
+20051019
+Entry into a Material Definitive Agreement
+20051019
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: GOLD & SILVER ORES [1040]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+COEUR D ALENE MINES CORP
+0000215466
+820109423
+1231
+ID
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 001-08641
+FILM NUMBER:
+8-K
+1934 Act
+051144497
+BUSINESS ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+400 COEUR D ALENE MINES BLDG
+505 FRONT AVE
+COEUR D ALENE
+ID
+83814
+2086673511
+400 COEUR D ALENE MINES BLDG
+505 FRONT AVE
+COEUR D
+ID
+83814
+MAIL ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>cmw1782.htm
+<DESCRIPTION>CURRENT REPORT
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>UNITED STATES
+<BR>SECURITIES AND EXCHANGE COMMISSION <BR>Washington, D.C. 20549  </FONT></H1>
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>FORM 8-K 
+</FONT></H1>
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CURRENT 
+REPORT </FONT></H1>
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pursuant to 
+Section 13
+or 15 (d) of the <BR>Securities and Exchange Act of 1934  </FONT></H1>
+<!-- MARKER FORMAT-SHEET="Head Minor Center Bold-TNR" FSL="Default" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Date of 
+Report (Date
+of earliest event reported): October 15, 2005 </FONT></H1>
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=Bottom>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>COEUR
+D'ALENE MINES CORPORATION</B></FONT><HR WIDTH=40% SIZE=1 COLOR=BLACK 
+NOSHADE></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Exact 
+name of Registrant as specified in its charter)</FONT></TD></TR>
+</TABLE>
+<BR>
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=Bottom>
+     <TD WIDTH=34% ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" 
+SIZE=2><B>Idaho</B></FONT></TD>
+     <TD WIDTH=33% ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" 
+SIZE=2><B>1-8641</B></FONT></TD>
+     <TD WIDTH=33% ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" 
+SIZE=2><B>84-0109423</B></FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(State 
+or Other Jurisdiction of</FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" 
+SIZE=2>(Commission File Number)</FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(I.R.S. 
+Employer</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" 
+SIZE=2>Incorporation)</FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" 
+SIZE=2></FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" 
+SIZE=2>Identification No.)</FONT></TD></TR>
+</TABLE>
+<BR>
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=Bottom>
+<TD WIDTH=67% ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" 
+SIZE=2><B>400 Coeur d'Alene Mines Bldg., 505 Front Avenue,</B></FONT></TD>
+     <TD WIDTH=33% ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" 
+SIZE=2><B>83814</B></FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>Coeur
+d'Alene, Idaho</B></FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Zip 
+Code)</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Address
+of Principal Executive Office)</FONT></TD></TR>
+</TABLE>
+<BR>
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" 
+SIZE=2>Registrant&#146;s
+telephone number, including area code: <B>(208) 667-3511</B> </FONT></P>
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><U>Not 
+Applicable</U> <BR>(Former
+name or former address, if changed since last report)  </FONT></P>
+<!-- MARKER FORMAT-SHEET="Page Rule Single" FSL="Default" -->
+     <HR ALIGN=LEFT WIDTH=100% SIZE=1 COLOR=BLACK NOSHADE>
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Check the appropriate box 
+below if
+the Form 8-K filing is intended to simultaneously satisfy the filing obligation 
+of the
+registrant under any of the following provisions: </FONT></P>
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 0-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[__]  
+</FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR           
+230.425) </FONT></TD>
+</TR>
+</TABLE>
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 0-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[__]  
+</FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR           
+240.14a-12) </FONT></TD>
+</TR>
+</TABLE>
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 0-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[__]  
+</FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act           (17 
+CFR
+240.14d-2(b)) </FONT></TD>
+</TR>
+</TABLE>
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 0-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[__]  
+</FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act           (17 
+CFR
+240.13e-4(c)) </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+<!-- MARKER PAGE="sheet: 1; page: 1" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Project" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Item 1.01 Entry
+into a
+Material Definitive Agreement. </FONT></H1>
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" 
+SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Effective
+October 15, 2005, the Registrant entered into an employment agreement with James
+K. Duff.
+Mr. Duff will serve as the Registrant&#146;s President, South America 
+Operations. The term
+of Mr. Duff&#146;s employment agreement is from October 15, 2005 through June 
+30, 2007.
+The employment agreement may also be considered for a one-year extension during 
+the month
+of June, 2006, to the end that the parties will then be bound to a new two-year 
+term of
+the employment agreement, ending June 30, 2008. Pursuant to the terms of the 
+employment
+agreement, Mr. Duff will be paid a base salary of $260,000 annually. The 
+employment
+agreement also entitles Mr. Duff to receive an annual incentive bonus payable in
+cash,
+pursuant to the Registrant&#146;s Annual Incentive Plan, in an amount equal to 
+at least
+40% of his then current annual salary, plus an additional 30% of annual salary 
+for foreign
+premium. Additionally, Mr. Duff will also be eligible to receive certain other 
+payments
+under the compensation and benefit plans of the Registrant. </FONT></P>
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" 
+SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A
+Change in Control Agreement is also attached as an exhibit to the employment 
+agreement and
+contains provisions that entitle Mr. Duff to receive certain payments if he is 
+terminated
+following a change in control of the Registrant. Such payments include, but are 
+not
+limited to, payment of the full annual salary effective immediately prior to 
+such
+termination (in addition to certain bonuses and medical/disability benefits) for
+a
+two-year period after termination. </FONT></P>
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" 
+SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+foregoing description of the terms of the employment agreement is intended to 
+serve as a
+summary of the compensation and benefit terms set forth in such agreement. The 
+Registrant
+intends to include the employment agreement as an exhibit to its Quarterly 
+Report on Form
+10-Q for the quarter ended September 30, 2005. </FONT></P>
+<!-- MARKER PAGE="sheet: 2; page: 2" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SIGNATURES 
+</FONT></P>
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" 
+SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Registrant has 
+duly caused
+this report to be signed on its behalf by the undersigned thereunto duly 
+authorized. </FONT></P>
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=Bottom>
+     <TD WIDTH=50% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" 
+SIZE=2></FONT></TD>
+     <TD WIDTH=50% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" 
+SIZE=2>COEUR D'ALENE MINES CORPORATION</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" 
+SIZE=2></FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" 
+SIZE=2>(Registrant)</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" 
+SIZE=2><BR><BR>&nbsp;Dated:&nbsp;&nbsp;October 18, 2005</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" 
+SIZE=2>By:&nbsp;&nbsp;<U>/s/ James A. Sabala</U></FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" 
+SIZE=2></FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>James A. 
+Sabala</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif"
+SIZE=2></FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Executive 
+Vice President and</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" 
+SIZE=2></FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Chief 
+Financial Officer</FONT></TD></TR>
+</TABLE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

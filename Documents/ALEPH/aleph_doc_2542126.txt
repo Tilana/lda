@@ -1,0 +1,901 @@
+
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>a10q12.txt
+<TEXT>
+22
+                                 FORM 10-Q
+SECURITIES AND EXCHANGE COMMISSION
+                         WASHINGTON, D. C.  20549
+(Mark One)
+(X)  QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+     EXCHANGE ACT OF 1934
+For the quarterly period ended September 30, 2005
+OR
+( )  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+     EXCHANGE ACT OF 1934
+For the transition period from _________________ to _______________
+Commission file number 0-17707
+Southwest Oil and Gas Income Fund VIII-A, L.P.
+                  (Exact name of registrant as specified
+                   in its limited partnership agreement)
+Delaware                                          75-2220097
+(State or other jurisdiction of                                  (I.R.S.
+Employer
+incorporation or organization)
+          Identification No.)
+6 Desta Drive, Suite 6500
+                           Midland, Texas 79705
+(Address of principal executive offices)
+432-682-6324
+                      (Registrant's telephone number,
+                           including area code)
+Indicate  by  check  mark  whether registrant (1)  has  filed  all  reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange  Act
+of 1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject  to
+such filing requirements for the past 90 days:
+Yes X No ___
+Indicate  by check mark whether the registrant is an accelerated filer  (as
+defined in Exchange Act Rule 12b-2).     Yes     No  X
+The  registrant's  outstanding  securities  consist  of  Units  of  limited
+partnership  interests for which there exists no established public  market
+from which to base a calculation of aggregate market value.
+The total number of pages contained in this report is 22.
+<PAGE>
+Glossary of Oil and Gas Terms
+The  following are abbreviations and definitions of terms commonly used  in
+the  oil  and  gas industry that are used in this filing.  All  volumes  of
+natural gas referred to herein are stated at the legal pressure base to the
+state  or area where the reserves exit and at 60 degrees Fahrenheit and  in
+most instances are rounded to the nearest major multiple.
+Bbl. One stock tank barrel, or 42 United States gallons liquid volume.
+BOE.   Equivalent  barrels of oil, with natural gas converted  to  oil
+equivalents based on a ratio of six Mcf of natural gas to one Bbl of oil.
+Developmental well. A well drilled within the proved area of an oil or
+natural gas reservoir to the depth of a stratigraphic horizon known  to  be
+productive.
+Exploratory well. A well drilled to find and produce oil or gas in  an
+unproved  area to find a new reservoir in a field previously  found  to  be
+productive of oil or natural gas in another reservoir or to extend a  known
+reservoir.
+Farm-out arrangement. An agreement whereby the owner of a leasehold or
+working  interest agrees to assign his interest in certain specific acreage
+to  an  assignee,  retaining some interest, such as an  overriding  royalty
+interest,  subject  to  the drilling of one (1)  or  more  wells  or  other
+specified performance by the assignee.
+Field. An area consisting of a single reservoir or multiple reservoirs
+all  grouped  on  or  related to the same individual geological  structural
+feature and/or stratigraphic condition.
+Mcf. One thousand cubic feet.
+Net  Profits  Interest.  An agreement whereby  the  owner  receives  a
+specified  percentage of the defined net profits from a producing  property
+in  exchange for consideration paid.  The net profits interest  owner  will
+not otherwise participate in additional costs and expenses of the property.
+Oil. Crude oil, condensate and natural gas liquids.
+Overriding  royalty  interest. Interests that  are  carved  out  of  a
+working  interest, and their duration is limited by the term of  the  lease
+under which they are created.
+<PAGE>
+Present  value  and  PV-10 Value. When used with respect  to  oil  and
+natural gas reserves, the estimated future net revenue to be generated from
+the  production of proved reserves, determined in all material respects  in
+accordance  with  the  rules and regulations of the  SEC  (generally  using
+prices  and costs in effect as of the date indicated) without giving effect
+to  non-property  related  expenses  such  as  general  and  administrative
+expenses,  debt service and future income tax expenses or to  depreciation,
+depletion  and  amortization, discounted using an annual discount  rate  of
+10%.
+Production  costs.  Costs incurred to operate and maintain  wells  and
+related  equipment  and facilities, including depreciation  and  applicable
+operating  costs  of support equipment and facilities and  other  costs  of
+operating and maintaining those wells and related equipment and facilities.
+Proved Area. The part of a property to which proved reserves have been
+specifically attributed.
+Proved  developed  oil and gas reserves. Proved oil and  gas  reserves
+that  can  be  expected to be recovered from existing wells  with  existing
+equipment and operating methods.
+Proved properties. Properties with proved reserves.
+Proved  oil  and gas reserves. The estimated quantities of crude  oil,
+natural  gas, and natural gas liquids with geological and engineering  data
+that  demonstrate  with  reasonable certainty to be recoverable  in  future
+years   from  known  reservoirs  under  existing  economic  and   operating
+conditions, i.e., prices and costs as of the date the estimate is made.
+Proved  undeveloped  reserves. Proved oil and gas  reserves  that  are
+expected  to  be  recovered from new wells on undrilled  acreage,  or  from
+existing  wells  where  a  relatively major  expenditure  is  required  for
+recompletion.
+Reservoir.  A porous and permeable underground formation containing  a
+natural  accumulation  of  producible  oil  or  gas  that  is  confined  by
+impermeable  rock  or water barriers and is individual  and  separate  from
+other reservoirs.
+Royalty  interest.  An  interest in an oil and  natural  gas  property
+entitling  the  owner to a share of oil or natural gas production  free  of
+costs of production.
+Working  interest.  The operating interest that gives  the  owner  the
+right  to  drill, produce and conduct operating activities on the  property
+and a share of production.
+Workover.  Operations  on  a producing well  to  restore  or  increase
+production.
+<PAGE>
+                      PART I. - FINANCIAL INFORMATION
+Item 1.  Financial Statements
+The  unaudited  condensed financial statements included  herein  have  been
+prepared  by  the Registrant (herein also referred to as the "Partnership")
+in  accordance  with generally accepted accounting principles  for  interim
+financial information and with the instructions to Form 10-Q and Rule 10-01
+of Regulation S-X.  Accordingly, they do not include all of the information
+and  footnotes  required  by generally accepted accounting  principles  for
+complete   financial  statements.   In  the  opinion  of  management,   all
+adjustments necessary for a fair presentation have been included and are of
+a  normal  recurring nature.  The financial statements should  be  read  in
+conjunction with the audited financial statements and the notes thereto for
+the  year ended December 31, 2004, which are found in the Registrant's Form
+10-K  Report  for  2004 filed with the Securities and Exchange  Commission.
+The December 31, 2004 balance sheet included herein has been taken from the
+Registrant's  2004 Form 10-K Report.  Operating results for the  three  and
+nine-month  periods ended September 30, 2005 are not necessarily indicative
+of the results that may be expected for the full year.
+<PAGE>
+Southwest Oil and Gas Income Fund VIII-A, L.P.
+Balance Sheets
+Septembe  December
+                                  r 30,      31,
+                                   2005      2004
+                                  -----     -----
+                                 (unaudit
+                                   ed)
+Assets
+---------
+Current assets:
+ Cash and cash equivalents    $  250,298   142,945
+  Receivable  from  Managing     234,499   233,781
+General Partner
+                                 --------  --------
+                                 ----      ----
+   Total current assets          484,797   376,726
+                                 --------  --------
+                                 ----      ----
+Oil  and  gas  properties  -
+using the full-
+ cost method of accounting       5,363,99  5,364,89
+                                 2         5
+       Less      accumulated
+depreciation,
+         depletion       and     5,075,08  5,066,81
+amortization                     6         6
+                                 --------  --------
+                                 ----      ----
+      Net   oil   and    gas     288,906   298,079
+properties
+                                 --------  --------
+                                 ----      ----
+                              $  773,703   674,805
+                                 =======   =======
+Liabilities  and   Partners'
+Equity
+----------------------------
+------------
+Current     liability      -  $  3,971     1,305
+distribution payable
+                                 --------  --------
+                                 ----      ----
+Asset retirement obligation      273,081   269,070
+                                 --------  --------
+                                 ----      ----
+Partners' equity -
+ General partner                 24,024    13,975
+ Limited partners                472,627   390,455
+                                 --------  --------
+                                 ----      ----
+   Total partners' equity        496,651   404,430
+                                 --------  --------
+                                 ----      ----
+                              $  773,703   674,805
+                                 =======   =======
+The accompanying notes are an integral
+                    part of these financial statements.
+<PAGE>
+Southwest Oil and Gas Income Fund VIII-A, L.P.
+                         Statements of Operations
+                                (unaudited)
+Three Months Ended    Nine Months
+                                                          Ended
+                                   September 30,      September 30,
+                                   2005      2004     2005     2004
+                                  -----     -----     -----    -----
+Revenues
+-------------
+Oil and Gas                   $  688,965   443,527   1,701,2  1,286,2
+                                                     09       59
+Interest                         1,137     291       2,340    799
+Other                            -         -         -        250
+                                 --------  --------  -------  -------
+                                 --        --        -----    -----
+                                 690,102   443,818   1,703,5  1,287,3
+                                                     49       08
+                                 --------  --------  -------  -------
+                                 --        --        -----    -----
+Expenses
+------------
+Production                       225,915   195,256   557,519  512,373
+Depreciation, depletion and      2,751     2,613     8,270    8,613
+amortization
+Accretion of asset retirement    3,929     5,077     11,786   15,231
+obligation
+General and administrative       25,859    29,448    83,753   88,967
+                                 --------  --------  -------  -------
+                                 --        --        -----    -----
+                                 258,454   232,394   661,328  625,184
+                                 --------  --------  -------  -------
+                                 --        --        -----    -----
+Net income                    $  431,648   211,424   1,042,2  662,124
+                                                     21
+                                 ======    ======    =======  =======
+Net income allocated to:
+ Managing General Partner     $  43,440    21,404    105,049  67,074
+                                 ======    ======    =======  =======
+ Limited Partners             $  388,208   190,020   937,172  595,050
+                                 ======    ======    =======  =======
+  Per limited partner unit    $   28.55
+                                           13.98     68.93    43.77
+                                 ======    ======    =======  =======
+The accompanying notes are an integral
+                    part of these financial statements.
+<PAGE>
+Southwest Oil and Gas Income Fund VIII-A, L.P.
+                         Statements of Cash Flows
+                                (unaudited)
+Nine Months Ended
+                                             September 30,
+                                            2005       2004
+                                            ----       ----
+Cash flows from operating activities
+ Cash received from oil and gas sales  $  1,700,492  1,203,520
+ Cash paid to suppliers                   (641,272)  (601,340)
+ Interest received                        2,340      799
+ Miscellaneous settlement                 -          250
+                                          ---------  ---------
+                                          ---        ---
+  Net cash provided by operating          1,061,560  603,229
+activities
+                                          ---------  ---------
+                                          ---        ---
+Cash flows used in investing
+activities
+ Additions to oil and gas properties      (6,873)    (12,994)
+                                          ---------  ---------
+                                          ---        ---
+Cash flows used in financing
+activities
+ Distributions to partners                (950,000)  (550,000)
+ Increase in distribution payable         2,666      962
+                                          ---------  ---------
+                                          ---        ---
+ Net cash used in financing               (947,334)  (549,038)
+activities
+                                          ---------  ---------
+                                          ---        ---
+Net increase in cash and cash             107,353    41,197
+equivalents
+Beginning of period                      142,945    111,117
+                                          ---------  ---------
+                                          ---        ---
+ End of period                         $  250,298    152,314
+=======    =======
+Reconciliation of net income to net
+cash
+ provided by operating activities
+Net income                             $  1,042,221  662,124
+Adjustments to reconcile net income
+to net
+ cash provided by operating
+activities
+ Depreciation, depletion and              8,270      8,613
+amortization
+ Accretion of asset retirement            11,786     15,231
+obligation
+ Increase in receivables                  (717)      (82,739)
+                                          ---------  ---------
+                                          ---        ---
+Net cash provided by operating         $  1,061,560  603,229
+activities
+                                          =======    =======
+The accompanying notes are an integral
+                    part of these financial statements.
+<PAGE>
+               Southwest Oil & Gas Income Fund VIII-A, L.P.
+                     (a Delaware limited partnership)
+Notes to Financial Statements
+1.   Organization
+     Southwest  Oil & Gas Income Fund VIII-A, L.P. was organized under  the
+     laws of the state of Delaware on November 30, 1987, for the purpose of
+     acquiring  producing oil and gas properties and to produce and  market
+     crude oil and natural gas produced from such properties for a term  of
+     50  years, unless terminated at an earlier date as provided for in the
+     Partnership  Agreement.   The  Partnership  sells  its  oil  and   gas
+     production  to  a  variety of purchasers with the prices  it  receives
+     being  dependent  upon the oil and gas economy.  Southwest  Royalties,
+     Inc.  a  wholly  owned  subsidiary of Clayton Williams  Energy,  Inc.,
+     serves  as the Managing General Partner.  Revenues, costs and expenses
+     are allocated as follows:
+                              Limited   General
+                              Partners  Partners
+                              --------  --------
+Interest  income on  capital  100%      -
+contributions
+Oil and gas sales             90%       10%
+All other revenues            90%       10%
+Organization  and   offering  100%      -
+costs (1)
+Amortization of organization  100%      -
+costs
+Syndication costs             100%      -
+Property acquisition costs    100%      -
+Gain/loss    on     property  90%       10%
+disposition
+Operating and administrative  90%       10%
+costs (2)
+Depreciation, depletion  and
+amortization
+ of oil and gas properties    100%      -
+All other costs               90%       10%
+(1)All  organization  costs in excess of 3%  of  initial  capital
+          contributions  will be paid by the Managing General  Partner  and
+          will  be treated as a capital contribution.  The Partnership paid
+          the  Managing  General Partner an amount equal to 3%  of  initial
+          capital contributions for such organization costs.
+(2)Administrative costs in any year which exceed  2%  of  capital
+          contributions shall be paid by the Managing General  Partner  and
+          will be treated as a capital contribution.
+2.   Summary of Significant Accounting Policies
+     The  interim financial information as of September 30, 2005,  and  for
+     the  three  and  nine months ended September 30, 2005,  is  unaudited.
+     Certain  information  and footnote disclosures  normally  included  in
+     financial  statements prepared in accordance with  generally  accepted
+     accounting principles have been condensed or omitted in this Form 10-Q
+     pursuant  to the rules and regulations of the Securities and  Exchange
+     Commission.  However,  in  the opinion of  management,  these  interim
+     financial  statements include all the necessary adjustments to  fairly
+     present  the  results of the interim periods and all such  adjustments
+     are  of  a normal recurring nature. The interim consolidated financial
+     statements should be read in conjunction with the Partnership's Annual
+     Report on Form 10-K for the year ended December 31, 2004.
+In September 2004, the Securities and Exchange Commission issued Staff
+     Accounting  Bulletin No. 106 ("SAB 106"). SAB 106  expresses  the  SEC
+     staff's views regarding SFAS No. 143 and its impact on both the  full-
+     cost  ceiling  test  and  the calculation of  depletion  expense.   In
+     accordance  with  SAB  106, beginning in the first  quarter  of  2005,
+     undiscounted abandonment costs for wells to be drilled in  the  future
+     to develop proved reserves are included in the unamortized cost of oil
+     and  gas  properties, net of related salvage value,  for  purposes  of
+     computing  depreciation,  depletion  and  amortization  ("DD&A").  The
+     implementation  of  SAB  106 did not have a  material  impact  on  our
+     financial statements.
+<PAGE>
+Item 2.   Management's  Discussion and Analysis of Financial Condition  and
+        Results of Operations
+General
+Southwest  Oil & Gas Income Fund VIII-A, L.P. was organized as  a  Delaware
+limited  partnership  on November 30, 1987. The offering  of  such  limited
+partnership interests began on March 31, 1988, minimum capital requirements
+were  met  on July 6, 1988, and the offering concluded on March  31,  1989,
+with total limited partner contributions of $6,798,000.
+The  Partnership was formed to acquire interests in producing oil  and  gas
+properties,  to produce and market crude oil and natural gas produced  from
+such properties, and to distribute the net proceeds from operations to  the
+limited  and  general partners.  Net revenues from producing  oil  and  gas
+properties are not reinvested in other revenue producing assets  except  to
+the extent that production facilities and wells are improved or reworked or
+where methods are employed to improve or enable more efficient recovery  of
+oil and gas reserves. The economic life of the Partnership thus depends  on
+the   period  over  which  the  Partnership's  oil  and  gas  reserves  are
+economically recoverable.
+Increases   or   decreases   in  Partnership   revenues   and,   therefore,
+distributions  to partners will depend primarily on changes in  the  prices
+received  for production, changes in volumes of production sold,  increases
+and  decreases  in  lease operating expenses, enhanced  recovery  projects,
+offset  drilling  activities pursuant to farm-out  arrangements,  sales  of
+properties,  and  the depletion of wells.  Since wells deplete  over  time,
+production can generally be expected to decline from year to year.
+Well  operating costs and general and administrative costs usually decrease
+with   production   declines;  however,  these  costs  may   not   decrease
+proportionately.  Net income available for distribution to the partners  is
+therefore expected to fluctuate in later years based on these factors.
+Oil and Gas Properties
+Oil  and  gas  properties  are accounted for at cost  under  the  full-cost
+method.  Under this method, all productive and nonproductive costs incurred
+in  connection with the acquisition, exploration and development of oil and
+gas  reserves  are capitalized.  Gain or loss on the sale of  oil  and  gas
+properties  is not recognized unless significant oil and gas  reserves  are
+sold.
+Should the net capitalized costs exceed the estimated present value of  oil
+and gas reserves, discounted at 10%, such excess costs would be charged  to
+current  expense.  As of September 30, 2005, the net capitalized costs  did
+not exceed the estimated present value of oil and gas reserves.
+<PAGE>
+Critical Accounting Policies
+The  Partnership follows the full cost method of accounting for its oil and
+gas  properties.   The  full cost method subjects  companies  to  quarterly
+calculations of a "ceiling", or limitation on the amount of properties that
+can  be capitalized on the balance sheet.  If the Partnership's capitalized
+costs  are in excess of the calculated ceiling, the excess must be  written
+off as an expense.
+The  Partnership's discounted present value of its proved oil  and  natural
+gas  reserves  is  a  major  component  of  the  ceiling  calculation,  and
+represents  the  component  that requires the  most  subjective  judgments.
+Estimates  of  reserves are forecasts based on engineering data,  projected
+future  rates  of  production and the timing of future  expenditures.   The
+process  of  estimating oil and natural gas reserves  requires  substantial
+judgment,  resulting  in  imprecise determinations,  particularly  for  new
+discoveries.   Different reserve engineers may make different estimates  of
+reserve quantities based on the same data.
+The  passage  of  time  provides  more  qualitative  information  regarding
+estimates of reserves, and revisions are made to prior estimates to reflect
+updated  information.   However,  there  can  be  no  assurance  that  more
+significant  revisions  will not be necessary in  the  future.   If  future
+significant  revisions  are  necessary  that  reduce  previously  estimated
+reserve quantities, it could result in a full cost property writedown.   In
+addition to the impact of these estimates of proved reserves on calculation
+of  the  ceiling,  estimates  of proved reserves  are  also  a  significant
+component  of  the calculation of depletion, depreciation, and amortization
+("DD&A").
+While  the quantities of proved reserves require substantial judgment,  the
+associated prices of oil and natural gas reserves that are included in  the
+discounted  present  value of the reserves do not  require  judgment.   The
+ceiling calculation dictates that prices and costs in effect as of the last
+day  of  the  period are generally held constant indefinitely. Because  the
+ceiling  calculation dictates that prices in effect as of the last  day  of
+the  applicable quarter are held constant indefinitely, the resulting value
+is  not indicative of the true fair value of the reserves.  Oil and natural
+gas  prices have historically been cyclical and, on any particular  day  at
+the  end of a quarter, can be either substantially higher or lower than the
+Partnership's  long-term price forecast that is a barometer for  true  fair
+value.
+<PAGE>
+Results of Operations
+General Comparison of the Quarters Ended September 30, 2005 and 2004
+The  following  table  provides certain information  regarding  performance
+factors for the quarters ended September 30, 2005 and 2004:
+Three Months
+                                  Ended         Percenta
+                                                   ge
+                              September 30,     Increase
+                              2005      2004    (Decreas
+                                                   e)
+                              ----      ----    --------
+                                                   --
+Oil    production    in     10,300    9,204     12%
+barrels
+Gas production in mcf       9,595     10,164    (6%)
+Total BOE                   11,899    10,898    9%
+Average    price    per  $   59.40              42%
+barrel of oil                         41.91
+Average  price per  mcf  $    8.04              41%
+of gas                                5.69
+Gross   oil   and   gas  $  688,965   443,527   55%
+revenue
+Production expense       $  225,915   195,256   16%
+Partnership              $  350,000   200,000   75%
+distributions
+Limited         partner  $  315,000   180,000   75%
+distributions
+Per  unit  distribution  $   23.17              75%
+to limited partners                   13.24
+Number    of    limited     13,596    13,596
+partner units
+Revenues
+The  Partnership's oil and gas revenues increased to $688,965 from $443,527
+for  the  quarters  ended  September 30, 2005 and  2004,  respectively,  an
+increase  of  55%.  The principal factors affecting the comparison  of  the
+quarters ended September 30, 2005 and 2004 are as follows:
+The average price for a barrel of oil received by the Partnership increased
+during  the  quarter ended September 30, 2005 as compared  to  the  quarter
+ended  September  30, 2004 by 42%, or $17.49 per barrel,  resulting  in  an
+increase of approximately $180,100 in revenues.  Oil sales represented  89%
+of  total oil and gas sales during the quarter ended September 30, 2005  as
+compared to 87% during the quarter ended September 30, 2004.
+The  average price for an mcf of gas received by the Partnership  increased
+during  the same period by 41%, or $2.35 per mcf, resulting in an  increase
+of approximately $22,500 in revenues.
+The  total  increase in revenues due to the change in prices received  from
+oil and gas production is approximately $202,600.  The market price for oil
+and  gas  has  been extremely volatile over the past decade and  management
+expects  a  certain  amount of volatility to continue  in  the  foreseeable
+future.
+<PAGE>
+Oil  production  increased approximately 1,096 barrels or  12%  during  the
+quarter ended September 30, 2005 as compared to the quarter ended September
+30, 2004, resulting in an increase of approximately $45,900 in revenues.
+Gas  production  decreased approximately 569 mcf  or  6%  during  the  same
+period, resulting in a decrease of approximately $3,200 in revenues.
+The  net  total  increase in revenues due to the change  in  production  is
+approximately  $42,700.   The increase in oil  volumes  is  primarily  from
+improved production on two properties.
+Costs and Expenses
+Total  costs  and  expenses increased to $258,454  from  $232,394  for  the
+quarters  ended September 30, 2005 and 2004, respectively, an  increase  of
+11%.   The  increase  is the result of higher depletion expense  and  lease
+operating   costs,  partially  offset  by  a  decrease   in   general   and
+administrative expense and accretion expense.
+Lease   operating  costs  and  production  taxes  were   16%   higher,   or
+approximately $30,700 more during the quarter ended September 30,  2005  as
+compared  to the quarter ended September 30, 2004.  The increase  in  lease
+operating  costs  are  primarily  from surface  equipment  repairs  on  one
+property.   Production taxes increased from the higher  revenues  resulting
+from higher oil and gas prices.
+General  and  administrative  costs consist of independent  accounting  and
+engineering fees, computer services, postage, and Managing General  Partner
+personnel  costs.   General  and  administrative  costs  decreased  12%  or
+approximately  $3,600  during  the quarter  ended  September  30,  2005  as
+compared to the quarter ended September 30, 2004.  The decrease in  General
+and  Administrative  Expense is primarily due to lower engineering  service
+costs.
+Depletion  expense increased to $2,751 for the quarter ended September  30,
+2005  from $2,613 for the same period in 2004.  This represents an increase
+of  5%.  The contributing factor to the decrease in depletion expense is in
+relation  to  the  BOE depletion rate for the quarter ended  September  30,
+2005,  which was $.23 applied to 11,899 BOE as compared to $.24 applied  to
+10,898 BOE for the same period in 2004.
+Accretion  expense decreased to $3,929 for the quarter ended September  30,
+2005  from $5,077 for the same period in 2004.  This represents a  decrease
+of  23%.   The  decrease  in accretion is from discontinuing  accretion  on
+several wells that reached their projected end of life in 2004.
+<PAGE>
+General  Comparison of the Nine-Month Periods Ended September 30, 2005  and
+2004
+The  following  table  provides certain information  regarding  performance
+factors for the nine-month periods ended September 30, 2005 and 2004:
+Nine Months
+                                       Ended         Percenta
+                                                        ge
+                                   September 30,     Increase
+                                   2005      2004    (Decreas
+                                                        e)
+                                   ----      ----    --------
+                                                        --
+Oil production in barrels        29,390    28,814    2%
+Gas production in mcf            31,695    33,964    (7%)
+Total BOE                        34,673    34,475    1%
+Average price per barrel  of  $    50.70             34%
+oil                                        37.91
+Average price per mcf of gas  $     6.66             17%
+                                           5.71
+Oil and gas revenue           $  1,701,20  1,286,25  32%
+                                 9         9
+Production expense            $  557,519   512,373   9%
+Partnership distributions     $  950,000   550,000   73%
+Limited              partner  $  855,000   495,000   73%
+distributions
+Per  unit  distribution   to  $    62.89             73%
+limited partners                           36.41
+Number  of  limited  partner     13,596    13,596
+units
+Revenues
+The  Partnership's  oil  and  gas revenues  increased  to  $1,701,209  from
+$1,286,259  for  the  nine  months  ended  September  30,  2005  and  2004,
+respectively,  an  increase of 32%.  The principal  factors  affecting  the
+comparison  of  the nine months ended September 30, 2005 and  2004  are  as
+follows:
+The average price for a barrel of oil received by the Partnership increased
+during  the  nine months ended September 30, 2005 as compared to  the  nine
+months ended September 30, 2004 by 34%, or $12.79 per barrel, resulting  in
+an  increase  of approximately $375,900 in revenues.  Oil sales represented
+88%  of total oil and gas sales during the nine months ended September  30,
+2005 as compared to 85% during the nine months ended September 30, 2004.
+The  average price for an mcf of gas received by the Partnership  increased
+during the same period by 17%, or $.95 per mcf, resulting in an increase of
+approximately $30,100 in revenues.
+The  total  increase in revenues due to the change in prices received  from
+oil and gas production is approximately $406,000.  The market price for oil
+and  gas  has  been extremely volatile over the past decade and  management
+expects  a  certain  amount of volatility to continue  in  the  foreseeable
+future.
+<PAGE>
+Oil  production increased approximately 576 barrels or 2% during  the  nine
+months  ended  September  30, 2005 as compared to  the  nine  months  ended
+September  30, 2004, resulting in an increase of approximately  $21,800  in
+revenues.
+Gas  production  decreased approximately 2,269 mcf or 7%  during  the  same
+period, resulting in a decrease of approximately $13,000 in revenues.
+The  net  total  increase in revenues due to the change  in  production  is
+approximately $8,800.
+Costs and Expenses
+Total  costs and expenses increased to $661,328 from $625,184 for the  nine
+months ended September 30, 2005 and 2004, respectively, an increase of  6%.
+The  increase is the result higher lease operating costs, partially  offset
+by a decrease in depletion expense , general and administrative expense and
+accretion expense.
+Lease operating costs and production taxes were 9% higher, or approximately
+$45,100 more during the nine months ended September 30, 2005 as compared to
+the  nine  months ended September 30, 2004. The increase in lease operating
+costs  are  primarily  from  surface equipment  repairs  on  one  property.
+Production  taxes increased from the higher revenues resulting from  higher
+oil and gas prices.
+General  and  administrative  costs consist of independent  accounting  and
+engineering fees, computer services, postage, and Managing General  Partner
+personnel  costs.   General  and  administrative  costs  decreased  6%   or
+approximately  $5,200 during the nine months ended September  30,  2005  as
+compared to the nine months ended September 30, 2004.
+Depletion  expense decreased to $8,270 for the nine months ended  September
+30,  2005  from  $8,613  for the same period in 2004.   This  represents  a
+decrease  of  4%.   The  contributing factor to the decrease  in  depletion
+expense is in relation to the BOE depletion rate for the nine months  ended
+September  30,  2005, which was $.24 applied to 34,673 BOE as  compared  to
+$.25 applied to 34,475 BOE for the same period in 2004.
+Accretion  expense decreased to $11,786 for the nine months ended September
+30,  2005  from  $15,231 for the same period in 2004.   This  represents  a
+decrease of 23%.
+<PAGE>
+Liquidity and Capital Resources
+The  primary source of cash is from operations, the receipt of income  from
+interests in oil and gas properties.  The Partnership knows of no  material
+change, nor does it anticipate any such change.
+Cash  flows  provided by operating activities were approximately $1,061,600
+in  the  nine  months ended September 30, 2005 as compared to approximately
+$603,200 in the nine months ended September 30, 2004.
+Cash  flows used in investing activities were approximately $6,900  in  the
+nine  months ended September 30, 2005 as compared to approximately  $13,000
+in the nine months ended September 30, 2004.  The principle use of the 2005
+cash  flow  from  investing activities was the  addition  of  oil  and  gas
+properties.
+Cash flows used in financing activities were approximately $947,300 in  the
+nine  months ended September 30, 2005 as compared to approximately $549,000
+in  the  nine  months ended September 30, 2004.  The only use in  financing
+activities was the distributions to partners.
+Total  distributions during the nine months ended September 30,  2005  were
+$950,000  of  which  $855,000 was distributed to the limited  partners  and
+$95,000  to  the  general partners.  The per unit distribution  to  limited
+partners during the nine months ended September 30, 2005 was $62.89.  Total
+distributions during the nine months ended September 30, 2004 were $550,000
+of  which  $495,000 was distributed to the limited partners and $55,000  to
+the general partners.  The per unit distribution to limited partners during
+the nine months ended September 30, 2004 was $36.41.
+The  sources  for  the  2005 distributions of $950,000  were  oil  and  gas
+operations  of  approximately $1,061,600 and the  change  in  oil  and  gas
+properties  of  approximately  $(6,900),  resulting  in  excess  cash   for
+contingencies  or  subsequent  distributions.  The  sources  for  the  2004
+distributions  of  $550,000  were oil and gas operations  of  approximately
+$603,200  and  the  change  in  oil  and gas  properties  of  approximately
+$(13,000),  resulting  in  excess  cash  for  contingencies  or  subsequent
+distributions.
+Cumulative cash distributions of $11,039,627 have been made to the partners
+and  limited partners.  As of September 30, 2005, $9,983,906 or $734.33 per
+limited  partner  unit  has  been  distributed  to  the  limited  partners,
+representing 147% of capital contributed.
+As  of  September 30, 2005, the Partnership had approximately  $480,800  in
+working  capital.   The  Managing  General  Partner  knows  of  no  unusual
+contractual  commitments.  The partnership held many long-lived  properties
+at  inception,  however  due to the restrictions  on  property  development
+imposed  by  the partnership agreement, the Partnership cannot develop  its
+non  producing  properties.  Without continued development,  the  producing
+reserves continue to deplete.  Accordingly, as the Partnership's properties
+have  matured  and  depleted, the net cash flows from  operations  for  the
+partnership  has  steadily  declined, except in  periods  of  substantially
+increased  commodity pricing.  Maintenance of properties and administrative
+expenses for the Partnership are increasing relative to production.  As the
+properties   continue   to   deplete,   maintenance   of   properties   and
+administrative costs as a percentage of production are expected to continue
+to increase.
+<PAGE>
+Recent Accounting Pronouncements
+In  September  2004,  the Securities and Exchange Commission  issued  Staff
+Accounting Bulletin No. 106 ("SAB 106"). SAB 106 expresses the SEC  staff's
+views  regarding SFAS No. 143 and its impact on both the full-cost  ceiling
+test and the calculation of depletion expense.  In accordance with SAB 106,
+beginning in the first quarter of 2005, undiscounted abandonment costs  for
+wells  to  be drilled in the future to develop proved reserves are included
+in  the  unamortized cost of oil and gas properties, net of related salvage
+value,  for  purposes of computing depreciation, depletion and amortization
+("DD&A").  The implementation of SAB 106 did not have a material impact  on
+our financial statements.
+<PAGE>
+Item 3.   Quantitative and Qualitative Disclosures About Market Risk
+The  Partnership  is  not a party to any derivative or embedded  derivative
+instruments.
+Item 4.   Controls and Procedures
+The  Managing  General  Partner  has established  disclosure  controls  and
+procedures   that  are  adequate  to  provide  reasonable  assurance   that
+management will be able to collect, process and disclose both financial and
+non-financial information, on a timely basis, in the Partnership's  reports
+to  the  SEC.   Disclosure controls and procedures  include  all  processes
+necessary  to  ensure  that material information  is  recorded,  processed,
+summarized  and  reported within the time periods specified  in  the  SEC's
+rules  and  forms,  and  is  accumulated and  communicated  to  management,
+including our chief executive and chief financial officers, to allow timely
+decisions regarding required disclosures.
+With respect to these disclosure controls and procedures:
+management  has  evaluated the effectiveness  of  the  disclosure
+          controls  and procedures as of the end of the period  covered  by
+          this report;
+this evaluation was conducted under the supervision and with  the
+          participation  of management, including the chief  executive  and
+          chief financial officers of the Managing General Partner; and
+it  is  the  conclusion of chief executive  and  chief  financial
+          officers  of  the Managing General Partner that these  disclosure
+          controls   and   procedures  are  effective  in   ensuring   that
+          information  that is required to be disclosed by the  Partnership
+          in   reports  filed  or  submitted  with  the  SEC  is  recorded,
+          processed,  summarized  and  reported  within  the  time  periods
+          specified in the rules and forms established by the SEC.
+Internal Control Over Financial Reporting
+There  has  not been any change in the Partnership's internal control  over
+financial  reporting that occurred during the quarter ended  September  30,
+2005  that  has materially affected, or is reasonably likely to  materially
+affect, its internal control over financial reporting.
+<PAGE>
+PART II - OTHER INFORMATION
+Item 1.  Legal Proceedings
+None
+Item 2.  Changes in Securities
+None
+Item 3.  Defaults Upon Senior Securities
+None
+Item 4.  Submission of Matter to a Vote of Security Holders
+None
+Item 5.  Other Information
+None
+Item 6.  Exhibits and Reports on Form 8-K
+(a)  Exhibits:
+31.1 Rule 13a-14(a)/15d-14(a) Certification
+               31.2 Rule 13a-14(a)/15d-14(a) Certification
+               32.1 Certification of Chief Executive Officer
+and Chief Financial Officer
+                 Pursuant to 18 U.S.C. Section 1350, as adopted
+                  Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+<PAGE>
+SIGNATURES
+Pursuant  to the requirements of the Securities Exchange Act of  1934,  the
+registrant  has duly caused this report to be signed on its behalf  by  the
+undersigned thereunto duly authorized.
+Southwest Oil & Gas Income Fund VIII-A, L.P., a
+                          Delaware limited partnership
+By:    Southwest  Royalties,  Inc.,
+                                 Managing
+                                   General Partner
+By:    /s/ L. Paul Latham
+                                 L. Paul Latham
+                                 President and Chief Executive Officer
+Date:  November 14, 2005
+<PAGE>
+SECTION 302 CERTIFICATION                Exhibit 31.1
+I, L. Paul Latham, certify that:
+1.  I  have reviewed this quarterly report on Form 10-Q of Southwest Oil  &
+Gas Income Fund VIII-A, L.P.
+2.Based  on my knowledge, this report does not contain any untrue statement
+  of  a  material fact or omit to state a material fact necessary  to  make
+  the  statements  made,  in light of the circumstances  under  which  such
+  statements  were made, not misleading with respect to the period  covered
+  by this report;
+3.Based  on  my  knowledge, the financial statements, and  other  financial
+  information  included  in  this report, fairly present  in  all  material
+  respects  the financial condition, results of operations and  cash  flows
+  of the registrant as of, and for, the periods presented in this report;
+4.The  registrant's other certifying officer(s) and I are  responsible  for
+  establishing  and  maintaining disclosure  controls  and  procedures  (as
+  defined   in  Exchange  Act  Rules  13a-15(e)  and  15d-15(e))  for   the
+  registrant and have:
+a)Designed  such  disclosure  controls and  procedures,  or  caused  such
+disclosure   controls  and  procedures  to  be  designed   under   our
+     supervision,  to  ensure  that material information  relating  to  the
+     registrant, including its consolidated subsidiaries, is made known  to
+     us  by others within those entities, particularly during the period in
+     which this report is being prepared;
+b)Evaluated  the  effectiveness of the registrant's  disclosure  controls
+     and  procedures and presented in this report our conclusions about the
+     effectiveness of the disclosure controls and procedures, as of the end
+     of the period covered by this report based on such evaluation; and
+c)Disclosed  in  this  report  any change in  the  registrant's  internal
+     control over financial reporting that occurred during the registrant's
+     most recent fiscal quarter (the registrant's fourth fiscal quarter  in
+     the  case  of  an annual report) that has materially affected,  or  is
+     reasonably  likely  to  materially affect, the  registrant's  internal
+     control over financial reporting; and
+5.The  registrant's other certifying officer(s) and I have disclosed, based
+  on  our  most  recent  evaluation  of  internal  control  over  financial
+  reporting,  to  the  registrant's auditors and  the  audit  committee  of
+  registrant's  board  of directors (or persons performing  the  equivalent
+  functions):
+a)All  significant deficiencies and material weaknesses in the design  or
+     operation   of   internal  control  over  financial  reporting   which
+     reasonably  likely  to  adversely affect the registrant's  ability  to
+     record, process, summarize and report financial information; and
+b)Any  fraud, whether or not material, that involves management or  other
+     employees  who  have  a significant role in the registrant's  internal
+     control over financial reporting.
+Date:  November 14, 2005           /s/ L. Paul Latham
+                                   L. Paul Latham
+                                   President and Chief Executive Officer
+                                   of Southwest Royalties, Inc., the
+                                   Managing General Partner of
+                                    Southwest Oil & Gas Income Fund VIII-A,
+L.P.
+<PAGE>
+                   SECTION 302 CERTIFICATION                Exhibit 31.2
+I, Mel G. Riggs, certify that:
+1.  I  have reviewed this quarterly report on Form 10-Q of Southwest Oil  &
+Gas Income Fund VIII-A. L.P.,
+2.Based  on my knowledge, this report does not contain any untrue statement
+  of  a  material fact or omit to state a material fact necessary  to  make
+  the  statements  made,  in light of the circumstances  under  which  such
+  statements  were made, not misleading with respect to the period  covered
+  by this report;
+3.Based  on  my  knowledge, the financial statements, and  other  financial
+  information  included  in  this report, fairly present  in  all  material
+  respects  the financial condition, results of operations and  cash  flows
+  of the registrant as of, and for, the periods presented in this report;
+4.The  registrant's other certifying officer(s) and I are  responsible  for
+  establishing  and  maintaining disclosure  controls  and  procedures  (as
+  defined   in  Exchange  Act  Rules  13a-15(e)  and  15d-15(e))  for   the
+  registrant and have:
+a)Designed  such  disclosure  controls and  procedures,  or  caused  such
+     disclosure   controls  and  procedures  to  be  designed   under   our
+     supervision,  to  ensure  that material information  relating  to  the
+     registrant, including its consolidated subsidiaries, is made known  to
+     us  by others within those entities, particularly during the period in
+     which this report is being prepared;
+b)Evaluated  the  effectiveness of the registrant's  disclosure  controls
+     and  procedures and presented in this report our conclusions about the
+     effectiveness of the disclosure controls and procedures, as of the end
+     of the period covered by this report based on such evaluation; and
+c)Disclosed  in  this  report  any change in  the  registrant's  internal
+     control over financial reporting that occurred during the registrant's
+     most recent fiscal quarter (the registrant's fourth fiscal quarter  in
+     the  case  of  an annual report) that has materially affected,  or  is
+     reasonably  likely  to  materially affect, the  registrant's  internal
+     control over financial reporting; and
+5.The  registrant's other certifying officer(s) and I have disclosed, based
+  on  our  most  recent  evaluation  of  internal  control  over  financial
+  reporting,  to  the  registrant's auditors and  the  audit  committee  of
+  registrant's  board  of directors (or persons performing  the  equivalent
+  functions):
+a)All  significant deficiencies and material weaknesses in the design  or
+     operation   of   internal  control  over  financial  reporting   which
+     reasonably  likely  to  adversely affect the registrant's  ability  to
+     record, process, summarize and report financial information; and
+b)Any  fraud, whether or not material, that involves management or  other
+     employees  who  have  a significant role in the registrant's  internal
+     control over financial reporting.
+Date:  November 14, 2005           /s/ Mel G. Riggs
+                                   Mel G. Riggs
+                                     Vice  President  and  Chief  Financial
+Officer of
+                                   Southwest Royalties, Inc., the
+                                   Managing General Partner of
+                                    Southwest Oil & Gas Income Fund VIII-A,
+L.P.
+<PAGE>
+Exhibit 32.1
+CERTIFICATION OF CHIEF EXECUTIVE OFFICER AND
+                          CHIEF FINANCIAL OFFICER
+Pursuant to 18 U.S.C.  1350 and in connection with the accompanying  report
+on  Form  10-Q for the period ended September 30, 2005 that is being  filed
+concurrently with the Securities and Exchange Commission on the date hereof
+(the  "Report"), each of the undersigned officers of Southwest  Oil  &  Gas
+Income Fund VIII-A, L.P. (the "Company"), hereby certifies that:
+1.    The Report fully complies with the requirements of section 13(a)
+     or 15(d) of the Securities Exchange Act of 1934; and
+2.   The  information contained in the Report fairly presents, in  all
+          material  respects,  the  financial  condition  and  results   of
+          operation of the Company.
+/s/ L. Paul Latham
+                                   L. Paul Latham
+                                   President and Chief Executive Officer
+                                        of Southwest Royalties, Inc., the
+                                        Managing General Partner of
+                                         Southwest  Oil & Gas  Income  Fund
+                                   VIII-A, L.P.
+November 14, 2005
+/s/ Mel G. Riggs
+                                   Mel G. Riggs
+                                   Vice   President  and  Chief   Financial
+                                   Officer of
+                                        Southwest Royalties, Inc., the
+                                        Managing General Partner of
+                                         Southwest  Oil & Gas  Income  Fund
+                                   VIII-A, L.P.
+November 14, 2005
+<PAGE>
+</TEXT>
+</DOCUMENT>

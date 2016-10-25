@@ -25,7 +25,7 @@ class Info:
             self.fileType = 'folder'
         elif self.data == 'NIPS':
             self.fileType = 'csv'
-        elif self.data == 'scifibooks' or self.data =='HRC' or self.data == 'CRC':
+        elif self.data == 'scifibooks' or self.data =='HRC' or self.data == 'CRC' or self.data == 'Aleph':
             self.fileType = 'folder'
         else:
             print 'Data not found'
@@ -42,6 +42,8 @@ class Info:
             self.path = 'Documents/HRC/resolutions'
         elif self.data == 'CRC':
             self.path = 'Documents/CRC'
+        elif self.data == 'Aleph':
+            self.path = 'Documents/ALEPH'
         else:
             print 'Data not found'
 

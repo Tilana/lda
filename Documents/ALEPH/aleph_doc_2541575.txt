@@ -1,0 +1,912 @@
+
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ E6icMjp4ArQIG39V05VNul/4aTmb3fmot0PA+Zen/gXcy3pFVYgQ4Ysy2dUJa+cW
+ k1QMWKRyAHu9/LSGoHv2qg==
+<SEC-DOCUMENT>0001062993-05-002699.txt : 20051114
+<SEC-HEADER>0001062993-05-002699.hdr.sgml : 20051111
+<ACCEPTANCE-DATETIME>20051114141302
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+PRE 14C
+2
+20051219
+0001062993-05-002699
+20051114
+20051114
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: GOLD & SILVER ORES [1040]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+MERRITT VENTURES CORP
+0001166338
+000000000
+1130
+NV
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 000-50033
+FILM NUMBER:
+PRE 14C
+1934 Act
+051199908
+BUSINESS ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+810 PEACE PORTAL DR
+STE 201
+BLAINE
+WA
+98230
+360 332 1752
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>PRE 14C
+<SEQUENCE>1
+<FILENAME>schedpre14c.htm
+<TEXT>
+<!DOCTYPE HTML PUBLIC "Sched-14C.v1-Prelim.pdf">
+<HTML>
+<HEAD>
+   <TITLE>Filed by Automated Filing Services Inc. (604) 609-0244 - Merritt 
+Ventures Corp. - Schedule 14C - Preliminary</TITLE>
+   <META name="HandheldFriendly" content="true">
+</HEAD>
+<BODY style="font-size:10pt;">
+<HR noshade align="center" width=100% size=3 color="black">
+<A name=page_1></A>
+<P align=center><B><FONT size=5>UNITED STATES</FONT> </B><BR><B><FONT
+size=5>SECURITIES AND EXCHANGE COMMISSION</FONT></B><BR>Washinton, D.C.</P>
+<P align=center><B><FONT size=5>SCHEDULE 14C INFORMATION</FONT></B></P>
+<P align=center>Information Statement Pursuant to Section 14(c) of the
+Securities Exchange Act of 1934</P>
+<P align=center>Check the appropriate box:</P>
+<P align=center><font size="3" face="WINGDINGS">&#120;</font> Preliminary 
+Information
+  Statement<BR>
+  <font size="3" face="WINGDINGS">&#168;</font> Confidential, for Use of the 
+Commission
+  Only (as permitted by Rule 14c-5(d)(2))<BR>
+  <font size="3" face="WINGDINGS">&#168;</font> Definitive Information 
+Statement</P>
+<P align=center><B><FONT size=5><U>MERRITT VENTURES
+CORP.<BR></U></FONT></B>(Name of Registrant as Specified in its Charter)</P>
+<P align=left>Payment of Filing Fee (Check the appropriate box):</P>
+<TABLE
+style="FONT-SIZE: 10pt; BORDER-LEFT-COLOR: black; BORDER-BOTTOM-COLOR: black; 
+BORDER-TOP-COLOR: black; BORDER-COLLAPSE: collapse; BORDER-RIGHT-COLOR: black"
+cellSpacing=0 cellPadding=0 width="100%" border=0>
+  <TR vAlign=top>
+    <TD width="5%" align=left><font size="3" face="WINGDINGS">&#120;</font> 
+</TD>
+    <TD colSpan=2 align=left> <P align=justify>No fee required </P></TD>
+  </TR>
+  <TR>
+    <TD width="5%" align=left>&nbsp;</TD>
+    <TD align=left width="5%"> <P align=justify>&nbsp;</P></TD>
+    <TD align=left> <P align=justify>&nbsp;</P></TD>
+  </TR>
+  <TR vAlign=top>
+    <TD width="5%" align=left><font size="3" face="WINGDINGS">&#168;</font> 
+</TD>
+    <TD colSpan=2 align=left> <P align=justify>Fee computed on table below per
+        Exchange Act Rules 14c-5(g) and 0-11. </P></TD>
+  </TR>
+  <TR>
+    <TD width="5%" align=left>&nbsp;</TD>
+    <TD align=left width="5%"> <P align=justify>&nbsp;</P></TD>
+    <TD align=left> <P align=justify>&nbsp;</P></TD>
+  </TR>
+  <TR vAlign=top>
+    <TD width="5%" align=left>&nbsp; </TD>
+    <TD align=left width="5%"> <P align=justify>1)</P></TD>
+    <TD align=left> <P align=justify>Title of each class of securities to which
+        transaction applies: </P></TD>
+  </TR>
+  <TR>
+    <TD width="5%" align=left>&nbsp;</TD>
+    <TD align=left width="5%"> <P align=justify>&nbsp;</P></TD>
+    <TD align=left> <P align=justify>&nbsp;</P></TD>
+  </TR>
+  <TR vAlign=top>
+    <TD width="5%" align=left>&nbsp; </TD>
+    <TD align=left width="5%"> <P align=justify>2)</P></TD>
+    <TD align=left> <P align=justify>Aggregate number of securities to which 
+transaction
+        applies: </P></TD>
+  </TR>
+  <TR>
+    <TD width="5%" align=left>&nbsp;</TD>
+    <TD align=left width="5%"> <P align=justify>&nbsp;</P></TD>
+    <TD align=left> <P align=justify>&nbsp;</P></TD>
+  </TR>
+<TR vAlign=top>
+    <TD width="5%" align=left>&nbsp; &nbsp; &nbsp; </TD>
+    <TD align=left width="5%"> <P align=justify>3) </P></TD>
+    <TD align=left> <P align=justify>Per unit price or other underlying value
+        of transaction computed pursuant to Exchange Act Rule 0-11 (set forth
+        the amount on which the filing fee is calculated and state how it was
+        determined): </P></TD>
+  </TR>
+  <TR>
+    <TD width="5%" align=left>&nbsp;</TD>
+    <TD align=left width="5%"> <P align=justify>&nbsp;</P></TD>
+    <TD align=left> <P align=justify>&nbsp;</P></TD>
+  </TR>
+  <TR vAlign=top>
+    <TD width="5%" align=left>&nbsp; </TD>
+    <TD align=left width="5%"> <P align=justify>4)</P></TD>
+    <TD align=left> <P align=justify>Proposed maximum aggregate value of 
+transaction:
+      </P></TD>
+  </TR>
+  <TR>
+    <TD width="5%" align=left>&nbsp;</TD>
+    <TD align=left width="5%"> <P align=justify>&nbsp;</P></TD>
+    <TD align=left> <P align=justify>&nbsp;</P></TD>
+  </TR>
+  <TR vAlign=top>
+    <TD width="5%" align=left>&nbsp; </TD>
+    <TD align=left width="5%"> <P align=justify>5)</P></TD>
+    <TD align=left> <P align=justify>Total fee paid: </P></TD>
+  </TR>
+  <TR>
+    <TD width="5%" align=left>&nbsp;</TD>
+    <TD align=left width="5%"> <P align=justify>&nbsp;</P></TD>
+    <TD align=left> <P align=justify>&nbsp;</P></TD>
+  </TR>
+  <TR vAlign=top>
+    <TD width="5%" align=left><font size="3" face="WINGDINGS">&#168;</font> 
+</TD>
+    <TD colSpan=2 align=left> <P align=justify>Fee paid previously with 
+preliminary
+        materials. </P></TD>
+  </TR>
+  <TR>
+    <TD width="5%" align=left>&nbsp;</TD>
+    <TD align=left width="5%"> <P align=justify>&nbsp;</P></TD>
+    <TD align=left> <P align=justify>&nbsp;</P></TD>
+  </TR>
+  <TR vAlign=top>
+    <TD width="5%" align=left><font size="3" face="WINGDINGS">&#168;</font> 
+&nbsp;
+      &nbsp; </TD>
+    <TD colSpan=2 align=left> <P align=justify>Check box if any part of the fee
+        is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the
+        filing for which the offsetting fee was paid previously. Identify the
+        previous filing by registration statement number, or the Form or 
+Schedule
+        and the date of its filing. </P>
+      </TD>
+  </TR>
+  <TR>
+    <TD width="5%" align=left>&nbsp;</TD>
+    <TD align=left width="5%"> <P align=justify>&nbsp;</P></TD>
+    <TD align=left> <P align=justify>&nbsp;</P></TD>
+  </TR>
+<TR vAlign=top>
+    <TD width="5%" align=left>&nbsp; </TD>
+    <TD align=left width="5%"> <P align=justify>1)</P></TD>
+    <TD align=left> <P align=justify>Amount Previously Paid: </P></TD>
+  </TR>
+  <TR vAlign=top>
+    <TD width="5%" align=left>&nbsp; </TD>
+    <TD align=left width="5%"> <P align=justify>2)</P></TD>
+    <TD align=left> <P align=justify>Form, Schedule or Registration Statement
+        No.: </P></TD>
+  </TR>
+  <TR vAlign=top>
+    <TD width="5%" align=left>&nbsp; </TD>
+    <TD align=left width="5%"> <P align=justify>3)</P></TD>
+    <TD align=left> <P align=justify>Filing Party: </P></TD>
+  </TR>
+  <TR vAlign=top>
+    <TD width="5%" align=left>&nbsp; </TD>
+    <TD align=left width="5%"> <P align=justify>4)</P></TD>
+    <TD align=left> <P align=justify>Date Filed: </P></TD>
+  </TR>
+</TABLE>
+<BR>
+<HR style="PAGE-BREAK-AFTER: always" align=center width="100%" color=black
+noShade SIZE=5>
+<A name=page_2></A>
+<P align=center><B><FONT size=3>MERRITT VENTURES CORP.</FONT><BR></B>810 Peace
+Portal Drive, Suite 201 <BR>Blaine, WA 98230 <BR>Tel: (360) 332-1817</P>
+<P align=center><B><FONT size=3>NOTICE OF WRITTEN CONSENT OF STOCKHOLDERS</FONT>
+  </B></P>
+<P align=justify>November __, 2005</P>
+<P align=justify>To the Stockholders of Merritt Ventures Corp.: </P>
+<P align=justify>NOTICE IS HEREBY GIVEN that the following action is being taken
+  pursuant to the written consent of holders of a majority of the outstanding
+  shares of common stock of Merritt Ventures Corp. (the &#147;Company&#148;),
+  dated November 14, 2005, in lieu of a special meeting of the stockholders: 
+</P>
+<blockquote>
+  <blockquote>
+    <p align="justify">The Amendment of the Company&#146;s Articles of 
+Incorporation
+      to change the name of the Company from &#147;Merritt Ventures Corp.&#148;
+      to &#147;Ireland Inc.&#148; (the &#147;Name Change&#148;).</p>
+  </blockquote>
+</blockquote>
+<P align=justify>The foregoing Name Change is expected to become effective on or
+about December 19, 2005.</P>
+<P align=justify>This Notice and the attached Information Statement are being
+circulated to advise the other stockholders of the Company of the adoption of
+the Name Change by written consent of stockholders holding a majority of the
+voting power of our common stock. No further vote or action by the stockholders
+is required. Pursuant to Rule 14c-2 under the Securities Exchange Act of 1934,
+as amended, the Name Change cannot become effective until twenty (20) days after
+the date this Information Statement is mailed to the stockholders. Therefore,
+this Notice and the attached Information Statement are being sent to you for
+informational purposes only, and you are not being asked to take any action with
+respect to the Name Change. </P>
+<P style="MARGIN-LEFT: 50%" align=justify>By Order of the Board of
+Directors,</P>
+<P style="MARGIN-LEFT: 50%" align=justify><I><BR>
+  </I>____________________<BR><B>LORRIE ANN
+ARCHIBALD<BR></B>President and Chief Executive Officer <BR>Vancouver, BC,
+Canada</P>
+<HR style="PAGE-BREAK-AFTER: always" align=center width="100%" color=black
+noShade SIZE=5>
+<A name=page_3></A>
+<P align=center><B><FONT size=3>MERRITT VENTURES CORP.<BR></FONT></B>810 Peace
+Portal Drive, Suite 201 <BR>Blaine, WA 98230 Tel: (360) 332-1817</P>
+<P align=center><B>INFORMATION STATEMENT</B></P>
+<P align=center><B>WE ARE NOT ASKING YOU FOR A PROXY AND <BR>YOU ARE REQUESTED
+NOT TO SEND US A PROXY</B></P>
+<P align=center><B>GENERAL</B></P>
+<P align=justify>This Information Statement is being furnished to the 
+stockholders
+  of Merritt Ventures Corp., a Nevada corporation (the &#147;Company&#148; or
+  &#147;Merritt&#148;), in connection with the following proposed corporate 
+action
+  to be taken by the written consent of stockholders holding a majority of the
+  voting power of the Company:</P>
+<blockquote>
+  <blockquote>
+    <p align="justify">To amend the Company&#146;s Articles of Incorporation to
+      change the name of the Company from &#147;Merritt Ventures Corp.&#148; to
+      &#147;Ireland Inc.&#148; (the &#147;Name Change&#148;).</p>
+  </blockquote>
+</blockquote>
+<P align=justify>On November 14, 2005, the Company&#146;s board of directors
+unanimously recommended that the Company&#146;s stockholders approve a proposal 
+to
+effect the Name Change. On November 14, 2005, stockholders holding 54.7% of the
+voting power of the Company executed a written consent authorizing and approving
+the Name Change.</P>
+<P align=justify>The Name Change will become effective upon the filing of the
+Certificate of Amendment to the Articles of Incorporation with the Nevada
+Secretary of State (the &#147;Certificate of Amendment&#148;). The Company 
+anticipates
+that the Certificate of Amendment will be filed on or about the 19<SUP>th</SUP>
+day of December, 2005 (the &#147;Effective Date&#148;). The proposed Certificate
+of
+Amendment is attached as Exhibit &#147;A&#148; hereto. </P>
+<P align=justify>The date on which the Company first intends to send this
+Information Statement to its stockholders is on or around November 28, 2005 (the
+&#147;Mailing Date&#148;). No further action is required on the part of any 
+other
+stockholders of the Company to approve the Name Change. Stockholders who did not
+consent to the Name Change are not entitled to dissenters&#146; rights under 
+Nevada
+law. </P>
+<P align=justify>The elimination of the need for a special meeting of the
+stockholders of the Company to approve the Name Change is authorized by Section
+78.320(2) of the Nevada Revised Statutes (the &#147;NRS&#148;) which provides 
+that the
+written consent of stockholders holding at least a majority of the voting power
+may be substituted for such a special meeting. Pursuant to NRS Section
+78.390(1)(b), a majority of the voting power is required in order to approve the
+Name Change. In order to eliminate the costs and management time involved in
+holding a special meeting and in order to effect the Name Change as early as
+possible to accomplish the purposes of the Company as hereafter described, the
+Board of Directors of the Company voted to proceed with the Name Change by
+obtaining the written consent of stockholders holding a majority of the voting
+power of the Company. </P>
+<HR style="PAGE-BREAK-AFTER: always" align=center width="100%" color=black
+noShade SIZE=5>
+<A name=page_4></A>
+<P align=center>2</P>
+<P align=justify><B>Principal Stockholders</B></P>
+<P align=justify>The following stockholders of the Company, representing
+approximately 54.7% of the voting power of the Company, have provided their
+written consent to the Name Change as described in this Information
+Statement:</P>
+<DIV>
+<TABLE
+style="FONT-SIZE: 10pt; BORDER-LEFT-COLOR: black; BORDER-BOTTOM-COLOR: black; 
+BORDER-TOP-COLOR: black; BORDER-COLLAPSE: collapse; BORDER-RIGHT-COLOR: black"
+borderColor=#000000 cellSpacing=0 cellPadding=3 width="100%" border=1>
+<TR vAlign=top bgcolor="#EEEEEE">
+    <TD rowSpan=2 align=center style="BORDER-BOTTOM: #000000 0px solid">&nbsp;
+      <BR><B>Name of Stockholder</B> </TD>
+    <TD width="33%"
+    rowSpan=2 align=center style="BORDER-BOTTOM: #000000 0px solid"><B>Number of
+Shares Held</B> <BR><B>Outstanding</B> </TD>
+    <TD width="33%"
+    rowSpan=2 align=center style="BORDER-BOTTOM: #000000 0px 
+solid"><B>Percentage of Outstanding</B> <BR><B>Shares
+      </B><B><SUP>(1)</SUP></B> </TD></TR>
+  <TR vAlign=top></TR>
+  <TR vAlign=top>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=center>Lorrie Ann
+      Archibald </TD>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=center
+      width="33%">2,500,000 </TD>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=center
+      width="33%">27.4% </TD></TR>
+  <TR vAlign=top>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=center>Gordon F. Burley
+    </TD>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=center
+      width="33%">2,500,000 </TD>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=center
+      width="33%">27.4% </TD></TR>
+  <TR vAlign=top>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=center>TOTAL </TD>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=center
+      width="33%">5,000,000 </TD>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=center
+      width="33%">54.7% </TD></TR></TABLE></DIV><BR>
+<TABLE
+style="FONT-SIZE: 10pt; BORDER-LEFT-COLOR: black; BORDER-BOTTOM-COLOR: black; 
+BORDER-TOP-COLOR: black; BORDER-COLLAPSE: collapse; BORDER-RIGHT-COLOR: black"
+cellSpacing=0 cellPadding=0 width="100%" border=0 BCLLIST>
+<TR>
+    <TD vAlign=top width="5%" >&nbsp;</TD>
+    <TD vAlign=top width="5%" >(1) </TD>
+    <TD>
+      <P align=justify>Based on 9,137,500 shares of the Company&#146;s common 
+stock
+      issued and outstanding on November 14, 2005. </P></TD></TR></TABLE>
+<P align=justify>The Company is distributing this Information Statement to its
+stockholders in full satisfaction of any notice requirements it may have under
+the NRS. No additional action will be undertaken by the Company with respect to
+the receipt of the written consents, and no dissenters&#146; rights under the 
+NRS are
+afforded to the Company&#146;s stockholders as a result of the adoption of the 
+Name
+Change.</P>
+<P align=justify><B>Effective Date</B></P>
+<P align=justify>Under Section 14(c) of the Securities Exchange Act of 1934 (the
+"Exchange Act"), the Name Change cannot become effective until 20 days after the
+mailing date of this Information Statement. The Company is not seeking written
+consent from any of the Company&#146;s stockholders. The Company&#146;s
+stockholders,
+other than those who have previously consented, will not be given an opportunity
+to vote with respect to the Name Change. All necessary corporate approvals have
+been obtained, and this Information Statement is furnished solely for the
+purpose of:</P>
+<TABLE
+style="FONT-SIZE: 10pt; BORDER-LEFT-COLOR: black; BORDER-BOTTOM-COLOR: black; 
+BORDER-TOP-COLOR: black; BORDER-COLLAPSE: collapse; BORDER-RIGHT-COLOR: black"
+cellSpacing=0 cellPadding=0 width="100%" border=0 BCLLIST>
+<TR>
+    <TD vAlign=top width="5%">1. </TD>
+    <TD>
+      <P align=justify>advising stockholders of the proposed action to be taken
+      by written consent; and </P></TD></TR>
+  <TR>
+    <TD width="5%">&nbsp;</TD>
+    <TD>
+      <P align=justify>&nbsp;</P></TD></TR>
+  <TR>
+    <TD vAlign=top width="5%">2. </TD>
+    <TD>
+      <P align=justify>giving stockholders advance notice of the proposed action
+      to be taken, as required by the Exchange Act. </P></TD></TR></TABLE>
+<P align=justify>Stockholders who are not afforded an opportunity to consent or
+otherwise vote with respect to the proposed action to be taken have no right
+under Nevada law to dissent or require a vote of all the Company&#146;s
+stockholders.</P>
+<P align=justify>The Company will pay all costs associated with the distribution
+of this Information Statement, including the costs of printing and mailing. The
+Company will reimburse brokerage firms and other custodians, nominees and
+fiduciaries for reasonable expenses incurred by them in sending this Information
+Statement to the beneficial owners of the Company&#146;s common stock.</P>
+<P align=center><B>OUTSTANDING VOTING STOCK OF THE COMPANY</B></P>
+<P align=justify>The Board of Directors of the Company has fixed the close of
+business on November 14, 2005 (the &#147;Record Date&#148;) as the record date 
+for the
+determination of stockholders entitled to approve the Name Change. As of the
+Record Date, there were 9,137,500 shares of common stock outstanding. The common
+stock constitutes the sole outstanding class of voting securities of the
+Company. Each share of common stock entitles the holder thereof to one vote on
+all matters submitted to stockholders. </P>
+<HR style="PAGE-BREAK-AFTER: always" align=center width="100%" color=black
+noShade SIZE=5>
+<A name=page_5></A>
+<P align=center>3</P>
+<P align=center><B>SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+MANAGEMENT</B></P>
+<P align=justify>The following table sets forth certain information concerning
+the number of shares of the Company&#146;s common stock owned beneficially as of
+the
+Record Date by: (i) each person (including any group) known by the Company to
+own more than five percent (5%) of any class of the Company&#146;s voting 
+securities,
+(ii) each of the Company&#146;s directors and each of its named executive 
+officers,
+and (iii) officers and directors as a group. Unless otherwise indicated, the
+stockholders listed possess sole voting and investment power with respect to the
+shares shown, subject to applicable community property laws.</P>
+<DIV>
+<TABLE
+style="FONT-SIZE: 10pt; BORDER-LEFT-COLOR: black; BORDER-BOTTOM-COLOR: black; 
+BORDER-TOP-COLOR: black; BORDER-COLLAPSE: collapse; BORDER-RIGHT-COLOR: black"
+borderColor=#000000 cellSpacing=0 cellPadding=3 width="100%" border=1>
+<TR vAlign=top>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=left rowSpan=3
+    >&nbsp; <BR>&nbsp; <BR><B>Title of Class</B> </TD>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=left width="38%"
+    rowSpan=3>&nbsp; <BR><B>Name and Address</B> <BR><B>of Beneficial
+      Owner</B> </TD>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=center width="20%"
+    rowSpan=3 >&nbsp; <BR><B>Number of Shares</B> <BR><B>of
+      Common Stock</B> </TD>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=center width="20%"
+    rowSpan=3 ><B>Percentage of</B>&nbsp;<BR><B>Common</B>
+      <BR><B>Stock</B><SUP>(1)</SUP> </TD></TR>
+  <TR vAlign=top></TR>
+  <TR vAlign=top></TR>
+  <TR vAlign=top>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=left
+      colSpan=4><B><BR>DIRECTORS AND OFFICERS<BR></B></TD></TR>
+  <TR vAlign=top>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=left rowSpan=5
+    >Common Stock <BR>&nbsp; <BR>&nbsp; <BR>&nbsp; <BR>&nbsp; </TD>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=left width="38%"
+    rowSpan=5>Lorrie Ann Archibald <BR>Director, President and Chief
+      <BR>Executive Officer <BR>1745 Larkhall Crescent <BR>North Vancouver, BC
+      V7H 2Z3 </TD>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=center width="20%"
+    rowSpan=5 >2,500,000 <BR>&nbsp; <BR>&nbsp; <BR>&nbsp;
+      <BR>&nbsp; </TD>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=center width="20%"
+    rowSpan=5 >27.4% <BR>&nbsp; <BR>&nbsp; <BR>&nbsp; <BR>&nbsp;
+    </TD></TR>
+  <TR vAlign=top></TR>
+  <TR vAlign=top></TR>
+  <TR vAlign=top></TR>
+  <TR vAlign=top></TR>
+  <TR vAlign=top>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=left rowSpan=5
+    >Common Stock <BR>&nbsp; <BR>&nbsp; <BR>&nbsp; <BR>&nbsp; </TD>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=left width="38%"
+    rowSpan=5>Gordon F. Burley <BR>Director, Treasurer and Chief <BR>Financial
+      Officer <BR>#603 - 3600 Windcrest Drive <BR>North Vancouver, BC V7G 2S5
+</TD>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=center width="20%"
+    rowSpan=5 >2,500,000 <BR>&nbsp; <BR>&nbsp; <BR>&nbsp;
+      <BR>&nbsp; </TD>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=center width="20%"
+    rowSpan=5 >27.4% <BR>&nbsp; <BR>&nbsp; <BR>&nbsp; <BR>&nbsp;
+    </TD></TR>
+  <TR vAlign=top></TR>
+  <TR vAlign=top></TR>
+  <TR vAlign=top></TR>
+  <TR vAlign=top></TR>
+  <TR vAlign=top>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=left rowSpan=4
+    >Common Stock <BR>&nbsp; <BR>&nbsp; <BR>&nbsp; </TD>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=left width="38%"
+    rowSpan=4>Christian Adolf Rommel <BR>Secretary <BR>823 East Keith Road
+      <BR>North Vancouver, BC V7L 1W8 </TD>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=center width="20%"
+    rowSpan=4 >None <BR>&nbsp; <BR>&nbsp; <BR>&nbsp; </TD>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=center width="20%"
+    rowSpan=4 >Nil. <BR>&nbsp; <BR>&nbsp; <BR>&nbsp; </TD></TR>
+  <TR vAlign=top></TR>
+  <TR vAlign=top></TR>
+<TR vAlign=top></TR>
+  <TR vAlign=top>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=left rowSpan=2
+    >Common Stock <BR>&nbsp; </TD>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=left width="38%"
+    rowSpan=2>All Officers and Directors as a <BR>Group (3 persons) </TD>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=center width="20%"
+    rowSpan=2 >5,000,000 <BR>&nbsp; </TD>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=center width="20%"
+    rowSpan=2 >54.7% <BR>&nbsp; </TD></TR>
+  <TR vAlign=top></TR>
+  <TR vAlign=top>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=left
+      colSpan=4><B><BR>5% STOCKHOLDERS</B>&nbsp;<BR></TD></TR>
+  <TR vAlign=top>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=left rowSpan=5
+    >Common Stock <BR>&nbsp; <BR>&nbsp; <BR>&nbsp; <BR>&nbsp; </TD>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=left width="38%"
+    rowSpan=5>Lorrie Ann Archibald <BR>Director, President and Chief
+      <BR>Executive Officer <BR>1745 Larkhall Crescent <BR>North Vancouver, BC
+      V7H 2Z3 </TD>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=center width="20%"
+    rowSpan=5 >2,500,000 <BR>&nbsp; <BR>&nbsp; <BR>&nbsp;
+      <BR>&nbsp; </TD>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=center width="20%"
+    rowSpan=5 >27.4% <BR>&nbsp; <BR>&nbsp; <BR>&nbsp; <BR>&nbsp;
+    </TD></TR>
+  <TR vAlign=top></TR>
+  <TR vAlign=top></TR>
+  <TR vAlign=top></TR>
+  <TR vAlign=top></TR>
+  <TR vAlign=top>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=left rowSpan=5
+    >Common Stock <BR>&nbsp; <BR>&nbsp; <BR>&nbsp; <BR>&nbsp; </TD>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=left width="38%"
+    rowSpan=5>Gordon F. Burley <BR>Director, Treasurer and Chief <BR>Financial
+      Officer <BR>#603 - 3600 Windcrest Drive <BR>North Vancouver, BC V7G 2S5
+</TD>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=center width="20%"
+    rowSpan=5 >2,500,000 <BR>&nbsp; <BR>&nbsp; <BR>&nbsp;
+      <BR>&nbsp; </TD>
+    <TD style="BORDER-BOTTOM: #000000 0px solid" align=center width="20%"
+    rowSpan=5 >27.4% <BR>&nbsp; <BR>&nbsp; <BR>&nbsp; <BR>&nbsp;
+    </TD></TR>
+  <TR vAlign=top></TR>
+  <TR vAlign=top></TR>
+  <TR vAlign=top></TR>
+  <TR vAlign=top></TR></TABLE></DIV>
+<P align=justify>(1) Under Rule 13d-3, a beneficial owner of a security includes
+any person who, directly or indirectly, through any contract, arrangement,
+understanding, relationship, or otherwise has or shares: (i) voting power, which
+includes the power to vote, or to direct the voting of shares; and (ii)
+investment power, which includes the power to dispose or direct the disposition
+of shares. Certain shares may be deemed to be beneficially owned by more than
+one person (if, for example, persons share the power to vote or the power to
+dispose of the shares). In addition, shares are deemed to be beneficially owned
+by a person if the person has the right to acquire the shares (for example, upon
+exercise of an option) within 60 days of the date as of which the information is
+provided. In computing the </P>
+<HR style="PAGE-BREAK-AFTER: always" align=center width="100%" color=black
+noShade SIZE=5>
+<A name=page_6></A>
+<P align=center>&nbsp;4 </P>
+<P align=justify>percentage ownership of any person, the amount of shares
+outstanding is deemed to include the amount of shares beneficially owned by such
+person (and only such person) by reason of these acquisition rights. As a
+result, the percentage of outstanding shares of any person as shown in this
+table does not necessarily reflect the person&#146;s actual ownership or voting 
+power
+with respect to the number of shares of common stock actually outstanding. As of
+November 14, 2005, there were 9,137,500 shares of our common stock issued and
+outstanding.</P>
+<P align=center><B>DELIVERY TO SECURITY HOLDERS SHARING AN ADDRESS</B></P>
+<P align=justify>Only one copy of this Information Statement will be delivered
+to multiple stockholders who share an address unless the Company receives
+contrary instructions from one or more of those stockholders.</P>
+<P align=justify>Upon receiving a written or oral request for a separate copy of
+this Information Statement at the following address and/or telephone number, the
+Company will promptly deliver the separate copy to the stockholder at the shared
+address or such other address as the stockholder requests.</P>
+<P style="MARGIN-LEFT: 25%" align=justify><B>MERRITT VENTURES
+CORP.<BR></B><B>Attention: Ms. Lorrie Ann Archibald, President<BR></B>810 Peace
+Portal Drive, Suite 201 <BR>Blaine, WA 98230</P>
+<P style="MARGIN-LEFT: 25%" align=justify>Telephone: (360) 332-1752</P>
+<P align=justify>Future requests to receive separate copies of any future annual
+reports, proxy statements or information statements may be delivered to the
+Company&#146;s address and/or telephone number listed above. Requests to receive
+delivery of a single copy of any annual report, proxy statements or information
+statements may also be delivered to the Company&#146;s address and/or telephone
+number listed above.</P>
+<P align=center><B>AMENDMENT OF<BR></B><B>THE COMPANY'S ARTICLES OF
+INCORPORATION TO<BR> CHANGE THE NAME OF THE COMPANY</B></P>
+<P align=justify>On November 14, 2005, our Board of Directors unanimously
+executed a written consent authorizing and recommending that our stockholders
+approve a proposal to effect the Name Change. On November 14, 2005, Company
+stockholders holding a majority of the voting power of the Company executed a
+written consent authorizing and approving the Name Change. The Name Change will
+become effective upon filing of the Certificate of Amendment to our Articles of
+Incorporation in the form attached as Exhibit &#147;A&#148; hereto, with the 
+Nevada
+Secretary of State, but our Board of Directors reserves the right not to make
+such filing if it deems it appropriate not to do so. </P>
+<P align=justify><B>Purpose of the Name Change</B></P>
+<P align=justify>The Company&#146;s Board of Directors believe that the new name
+&#147;Ireland Inc.&#148; will more accurately reflect the Company&#146;s current
+business
+activities, which are directed towards the exploration and development of a
+mineral claim located in the Yellow Pine Mining District in Clark County,
+Nevada, that we call the Ireland Claim.</P>
+<HR style="PAGE-BREAK-AFTER: always" align=center width="100%" color=black
+noShade SIZE=5>
+<A name=page_7></A>
+<P align=center>5</P>
+<P align=center><B>NO DISSENTER&#146;S RIGHTS</B></P>
+<P align=justify>Under the NRS, the Company&#146;s dissenting stockholders are 
+not
+entitled to appraisal rights with respect to the Name Change, and the Company
+will not independently provide its stockholders with any such right.</P>
+<P align=center><B>WHERE YOU CAN FIND ADDITIONAL INFORMATION</B></P>
+<P align=justify>The Company is subject to the Exchange Act and is required to
+file reports, proxy statements, and other information with the Securities and
+Exchange Commission (the &#147;SEC&#148;) regarding the business, financial 
+condition, and
+other matters of the Company pursuant to and in accordance with the Exchange
+Act. You may read and copy the reports, proxy statements, and other information
+filed by the Company at the Public Reference Section of the SEC, Room 1580, 100
+F Street NE, Washington D.C. 20549. Please call the SEC at 1-800-SEC-0330 for
+additional information about the public reference facilities. The reports, proxy
+statements, and other information filed with the SEC are also available to the
+public over the internet at http://www.sec.gov, the internet website of the SEC.
+All inquiries regarding the Company should be addressed to the principal
+executive offices of the Company at 810 Peace Portal Drive, Suite 201, Blaine,
+WA 98230.</P>
+<TABLE
+style="FONT-SIZE: 10pt; BORDER-LEFT-COLOR: black; BORDER-BOTTOM-COLOR: black; 
+BORDER-TOP-COLOR: black; BORDER-COLLAPSE: collapse; BORDER-RIGHT-COLOR: black"
+cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TR vAlign=top>
+    <TD align=left></TD>
+    <TD align=left width="50%" ><STRONG>BY ORDER OF THE BOARD
+      OF</STRONG>&nbsp;&nbsp;</TD></TR>
+  <TR vAlign=top>
+    <TD align=left>&nbsp;</TD>
+    <TD align=left width="50%" ><STRONG>DIRECTOR</STRONG></TD></TR>
+  <TR>
+    <TD>&nbsp; </TD>
+    <TD width="50%" >&nbsp;</TD></TR>
+  <TR vAlign=top>
+    <TD align=left>Date: November 14, 2005 </TD>
+    <TD align=left width="50%" ></TD></TR>
+  <TR vAlign=top>
+    <TD align=left></TD>
+    <TD style="BORDER-BOTTOM: #000000 1px solid" align=left width="50%"
+    ><EM>/s/ Lorrie Ann Archibald</EM> </TD></TR>
+  <TR vAlign=top>
+    <TD align=left></TD>
+    <TD align=left width="50%" ><STRONG>LORRIE ANN
+      ARCHIBALD</STRONG> </TD></TR>
+  <TR vAlign=top>
+    <TD align=left></TD>
+    <TD align=left width="50%" >President and Chief Executive
+      Officer </TD></TR>
+  <TR vAlign=top>
+    <TD align=left></TD>
+    <TD align=left width="50%" >MERRITT VENTURES CORP.
+  </TD></TR></TABLE><BR>
+<hr align=center width="100%" color=black noshade size=5>
+<A name=page_8></A>
+<P align=center>EXHIBIT &#147;A&#148;</P>
+<P align=center>CERTIFICATE OF AMENDMENT</P>
+<hr style="PAGE-BREAK-AFTER: always" align=center width="100%" color=black
+noshade size=5>
+<A name=page_1></A>&nbsp;<BR>
+<TABLE
+style="FONT-SIZE: 10pt; BORDER-LEFT-COLOR: black; BORDER-BOTTOM-COLOR: black; 
+BORDER-TOP-COLOR: black; BORDER-COLLAPSE: collapse; BORDER-RIGHT-COLOR: black"
+cellSpacing=0 cellPadding=0 width="100%" border=0>
+  <TR vAlign=top>
+    <TD align=left rowSpan=6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<IMG
+      src="articlesx1x1.jpg" border=0> &nbsp;</TD>
+    <TD align=left width="85%" rowSpan=6><B>DEAN HELLER</B> <BR>
+      <B>Secretary of State</B> <BR>
+      <B>204 North Carson Street, Suite 1</B> <BR>
+      <B>Carson City, Nevada 89701-4299</B> <BR>
+      <B>(775) 684 5708</B> <BR>
+      <B>Website: secretaryofstate.biz</B> </TD>
+  </TR>
+  <TR vAlign=top></TR>
+  <TR vAlign=top></TR>
+  <TR vAlign=top></TR>
+  <TR vAlign=top></TR>
+<TR vAlign=top></TR>
+</TABLE>
+<BR>
+<DIV>
+  <TABLE
+style="FONT-SIZE: 10pt; BORDER-LEFT-COLOR: black; BORDER-BOTTOM-COLOR: black; 
+BORDER-TOP-COLOR: black; BORDER-COLLAPSE: collapse; BORDER-RIGHT-COLOR: black"
+borderColor=#000000 cellSpacing=0 cellPadding=3 width="60%" border=1>
+    <TR vAlign=top>
+      <TD align=center rowSpan=2><FONT size=5>Certificate of Amendment<BR>
+        </FONT>(PURSUANT TO NRS 78.385 and 78.390) </TD>
+    </TR>
+    <TR vAlign=top></TR>
+  </TABLE>
+</DIV>
+<BR>
+<BR>
+<DIV>
+  <TABLE
+style="FONT-SIZE: 8pt; BORDER-LEFT-COLOR: black; BORDER-BOTTOM-COLOR: black; 
+BORDER-TOP-COLOR: black; BORDER-COLLAPSE: collapse; BORDER-RIGHT-COLOR: black"
+cellSpacing=0 cellPadding=0 rules=all width="100%" border=0>
+    <TR vAlign=top>
+      <TD align=left><B><I><FONT color=#ff0000>Important: Read attached 
+instructions
+        before completing form.</FONT></I></B> </TD>
+      <TD align=right width="50%">ABOVE SPACE IS FOR OFFICE USE ONLY </TD>
+    </TR>
+  </TABLE>
+</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>
+  <div align="center"><B><U><FONT size=4>Certificate of Amendment to Articles
+    of Incorporation</FONT> <BR>
+    <FONT size=4>For Nevada Profit Corporations</FONT> <BR>
+    </U></B><B><FONT size=4>(Pursuant to NRS 78.385 and 78.390 - After Issuance
+    of Stock)</FONT></B></div>
+</DIV>
+<P align=justify>1. Name<B> </B>of corporation:</P>
+<DIV>
+  <TABLE
+style="FONT-SIZE: 10pt; BORDER-LEFT-COLOR: black; BORDER-BOTTOM-COLOR: black; 
+BORDER-TOP-COLOR: black; BORDER-COLLAPSE: collapse; BORDER-RIGHT-COLOR: black"
+borderColor=#000000 cellSpacing=0 cellPadding=3 width="100%" border=1>
+    <TR vAlign=top>
+      <TD align=left>MERRITT VENTURES CORP. <BR></TD>
+    </TR>
+  </TABLE>
+</DIV>
+<P align=justify>2. The articles have been amended as follows (provide article
+  numbers, if available):</P>
+<DIV>
+  <TABLE
+style="FONT-SIZE: 10pt; BORDER-LEFT-COLOR: black; BORDER-BOTTOM-COLOR: black; 
+BORDER-TOP-COLOR: black; BORDER-COLLAPSE: collapse; BORDER-RIGHT-COLOR: black"
+borderColor=#000000 cellSpacing=0 cellPadding=3 width="100%" border=1>
+    <TR vAlign=top>
+      <TD align=left rowSpan=2>Article 1 - Name of Corporation: <BR>
+        <BR>
+        IRELAND INC. <BR>
+        <BR>
+        <BR>
+        <BR>
+        <BR>
+<BR></TD>
+    </TR>
+    <TR vAlign=top></TR>
+  </TABLE>
+</DIV>
+<P align=justify>3. The vote by which the stockholders holding shares in the 
+corporation
+  entitling them to exercise at least a majority of the voting power, or such
+  greater proportion of the voting power as may be required in the case of a 
+vote
+  by classes or series, or as may be required by the provisions of the articles
+  of incorporation have voted in favor of the amendment is: 
+<u>&nbsp;54.7%&nbsp;</u></P>
+<TABLE
+style="FONT-SIZE: 10pt; BORDER-LEFT-COLOR: black; BORDER-BOTTOM-COLOR: black; 
+BORDER-TOP-COLOR: black; BORDER-COLLAPSE: collapse; BORDER-RIGHT-COLOR: black"
+cellSpacing=0 cellPadding=0 width="100%" border=0>
+  <TR vAlign=top>
+    <TD align=left>4. Effective date of filing (optional): </TD>
+    <TD width="60%"
+    align=left bordercolor="#000000"
+    style="BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; 
+BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid">&nbsp;</TD>
+  </TR>
+  <TR vAlign=top>
+    <TD align=left></TD>
+    <TD align=center width="60%">&nbsp;<FONT size=1>(must not be later than 90
+      days after the certificate is filed)</FONT> </TD>
+  </TR>
+</TABLE>
+<P align=left>5. Officer Signature (required):&nbsp; 
+&nbsp;__________________________________________________________________________
+_____</P>
+<P align=justify>*If any proposed amendment would alter or change any preference
+  or any relative or other right given to any class or series of outstanding 
+shares,
+  then the amendment must be approved by the vote, in addition to the 
+affirmative
+  vote otherwise required, of the holders of shares representing a majority of
+  the voting power of each class or series affected by the amendment regardless
+  of limitations or restrictions on the voting power thereof.</P>
+<P align=justify><B>IMPORTANT: </B>Failure to include any of the above 
+information
+  and submit the proper fees may cause this filing to be rejected.</P>
+<DIV>
+  <TABLE
+style="FONT-SIZE: 8pt; BORDER-LEFT-COLOR: black; BORDER-BOTTOM-COLOR: black; 
+BORDER-TOP-COLOR: black; BORDER-COLLAPSE: collapse; BORDER-RIGHT-COLOR: black"
+cellSpacing=0 cellPadding=0 rules=all width="100%" border=0>
+    <TR vAlign=top>
+      <TD align=left><B><I><FONT color=#ff0000>This form must be accompanied by
+        appropriate fees. See attached fee schedule.</FONT></I></B> </TD>
+      <TD align=right width="35%">Nevada Secretary of State AM 78.385 Amend 2003
+      </TD>
+    </TR>
+    <TR vAlign=top>
+      <TD align=left>&nbsp; </TD>
+      <TD align=right width="35%">Revised on: 11/03/03 </TD>
+    </TR>
+  </TABLE>
+</DIV>
+<BR>
+<DIV align=center>
+  <TABLE
+style="FONT-SIZE: 12pt; BORDER-LEFT-COLOR: black; BORDER-BOTTOM-COLOR: black; 
+BORDER-TOP-COLOR: black; BORDER-COLLAPSE: collapse; BORDER-RIGHT-COLOR: black"
+borderColor=#000000 cellSpacing=0 cellPadding=3 rules=all width="15%"
+  border=1>
+    <TR vAlign=top>
+      <TD align=center bgcolor="#E6EFFF"><B>Reset</B> </TD>
+    </TR>
+  </TABLE>
+</DIV>
+<BR>
+<HR align=center width="100%" color=black noShade SIZE=5>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>articlesx1x1.jpg
+<TEXT>
+begin 644 articlesx1x1.jpg
+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
+DC&Q]9"7_`/0LT44[L#42-8U"HBJ!V48IV***0!B@444`?__9
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

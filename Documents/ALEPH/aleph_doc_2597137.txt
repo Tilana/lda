@@ -1,0 +1,979 @@
+
+EX-99.2 3 ex99-2.htm EXHIBIT 99.2 - MD&A
+REPLICEL LIFE SCIENCES INC.
+MANAGEMENT DISCUSSION AND ANALYSIS (“MD&A”)
+FORM 51-102F1
+For the six months ended June 30, 2016
+Dated as of August 29, 2016
+The following management discussion and analysis of the financial position, results of operations and cash
+flows of RepliCel Life Sciences Inc. (“the Company”, “RepliCel” or “we”), for the six months ended June 30,
+2016 includes information up to and including August 29, 2016 and should be read in conjunction with the
+annual audited consolidated financial statements for the years ended December 31, 2015, 2014, and 2013.
+The financial statements of the Company for the six months ended June 30, 2016 have been prepared in
+accordance with International Financial Reporting Standards (“IFRS”) as issued by the International
+Accounting Standards Board (“IASB”).
+All amounts included in the financial statements and MD&A are expressed in Canadian dollars unless
+otherwise indicated.  The reader is encouraged to review the Company’s statutory filings on the SEDAR
+website at www.sedar.com.
+Cautionary Statement Regarding Forward-Looking Statements
+Statements included in this MD&A that do not relate to present or historical conditions are “forward‑looking
+statements”. Forward-looking statements are projections in respect of future events or the Company’s future
+financial performance. In some cases, you can identify forward-looking statements by terminology such as
+“may”, “should”, “intend”, “expect”, “plan”, “anticipate”, “believe”, “estimate”, “predict”, “potential”, or “continue”,
+or the negative of these terms or other comparable terminology. Forward-looking information presented in
+such statements or disclosures may, among other things, include the Company’s:
+belief that chronic tendon injuries resulting from sports-related or occupational overuse is a significant
+·
+unmet medical need;
+belief that RCT-01 has advantages over current treatments such as the use of non-steroidal anti-
+·
+inflammatory medication or corticosteroids which are limited in efficacy;
+anticipated outcomes from a phase 1/2 clinical trial to test the safety and efficacy of injections of RCT-01 on
+·
+patients suffering from chronic achilles tendinosis in Canada and the details of this trial;
+anticipated outcomes from a phase 1 clinical trial to test the safety and certain biological outcomes of
+·
+injections of RCS-01 in patients with aging and sun-damaged skin;
+·plan to continue to prepare for and, if funding permits, a phase 2 dose-finding trail for RCH-01;
+belief that the RCI-02 dermal injector device will have applications in certain dermatological procedures and
+preparation for its commercialization is expected to be launched as soon as funds permit including building
+·
+of commercial/clinical-grade prototypes, validation testing of such prototypes and filing of the regulatory
+submissions seeking a CE mark to market the device in Europe;
+·belief as to the potential of the Company’s products;
+·forecasts of expenditures;
+·expectations regarding our ability to raise capital;
+·business outlook;
+·plans and objectives of management for future operations; and
+·anticipated financial performance.
+Various assumptions or factors are typically applied in drawing conclusions or making the forecasts or
+projections set out in forward-looking information. Those assumptions and factors are based on information
+currently available to the Company, including information obtained from third-party industry analysts and
+other third party sources. In some instances, material assumptions and factors are presented or discussed
+elsewhere in this MD&A in connection with the statements or disclosure containing the forward-looking
+information. You are cautioned that the following list of material factors and assumptions is not exhaustive.
+The factors and assumptions include, but are not limited to, our assumption that there be:
+·no unforeseen changes in the legislative and operating framework for the business of the Company;
+·a stable competitive environment; and
+no significant event occurring outside the ordinary course of business such as a natural disaster or other
+·
+calamity.
+These statements are only predictions and involve known and unknown risks, uncertainties and other
+factors, including the risks set out in the section entitled “Risks and Uncertainties” commencing on page 16,
+which may cause the Company’s or its industry’s actual results, levels of activity or performance to be
+materially different from any future results, levels of activity or performance expressed or implied by these
+forward-looking statements. These risks and uncertainties include, but are not limited to the following risks:
+·negative results from the Company’s clinical trials;
+·the effects of government regulation on the Company’s business;
+·the viability and marketability of the Company’s technologies;
+·the development of superior technology by the Company’s competitors;
+the failure of consumers and the medical community to accept the Company’s technology as safe and
+·
+effective;
+·risks associated with the Company’s ability to obtain and protect rights to its intellectual property;
+·risks and uncertainties associated with the Company’s ability to raise additional capital; and
+·other factors beyond the Company’s control.
+Although the Company believes that the expectations reflected in the forward-looking statements are
+reasonable, the Company cannot guarantee future results, levels of activity or performance. Further, any
+forward-looking statement speaks only as of the date on which such statement is made, and, except as
+required by applicable law, the Company undertakes no obligation to update any forward-looking statement
+to reflect events or circumstances after the date on which such statement is made or to reflect the occurrence
+of unanticipated events. New factors emerge from time to time, and it is not possible for management to
+predict all of such factors and to assess in advance the impact of such factors on the Company’s business or
+the extent to which any factor, or combination of factors, may cause actual results to differ materially from
+those contained in any forward-looking statement.
+OVERALL PERFORMANCE
+The Company was incorporated under the Ontario Business Corporations Act on April 24, 1967.  The
+Company is a reporting issuer under the securities laws of the Provinces of British Columbia, Alberta and
+Ontario. The Company is a foreign private issuer in the United States.  The Company’s common shares are
+listed for trading in Canada on the TSX Venture Exchange, trading under the symbol “RP”, in the United
+States on the OTCQB, trading under the symbol REPCF, and in Germany on the Frankfurt Stock Exchange
+(FRA) under the symbol P6P1.
+RepliCel is a regenerative medicine company focused on developing autologous cell therapies that treat
+functional cellular deficits.  The diseases currently being addressed are chronic tendinosis, skin aging, and
+androgenetic alopecia (pattern baldness).  Each disease state is consistent with a deficit of a specific cell
+type which the Company believes is critical to normal function.  All treatments under development are based
+on RepliCel’s innovative technology which utilizes cells isolated from a patient’s own healthy hair follicles. 
+These products are built on the Company’s proprietary manufacturing platforms and are covered by issued
+and filed patents, as well as trade secrets. RepliCel is also developing a programmable injector device
+designed for dermal injections of cells as currently approved dermal filler products.
+2
+The Potential of Autologous Cell Therapy
+The Company’s treatments use autologous cell therapy (“ACT”), which is one of the most rapidly developing
+areas of regenerative medicine in the development of novel treatments for numerous human disorders. ACT
+involves isolating an individual’s own cells from harvested tissues and growing more of those cells, or
+‘expanding’ those cells, in controlled conditions in a laboratory. These purified, expanded cells are then
+reintroduced to the donor to treat a specific condition. The benefits of autologous (derived from the same
+person) therapy (as compared to heterologous or derived from a different person) includes minimized risks of
+systemic immunological (anaphylactic) reactions, bio-incompatibility, and disease transmission.
+Furthermore, the effects of ACT may be longer lasting than pharmacological or surgical interventions.
+RCT-01: Treatment for Chronic Tendinosis
+Background
+Tendinosis refers to a chronic disease of the tendon. It is a function of an imbalance of tendon breakdown
+and tendon repair initiated first by an injury which does not heal properly. This leads to cycles of
+compromised repair and subsequent re-injury until such time as there is no healing and a degenerative
+process has set in. Typically, this chronic condition is linked to aging, overuse, and to general health. The
+Company believes that the current standard of care is failing to provide a satisfactory solution to this chronic
+condition.
+Treatment
+The Company believes that chronic tendon injuries resulting from sports-related or occupational overuse is a
+significant unmet medical need. Tendons consist of specialized connective tissues that attach muscles to
+bones, transmitting force and supporting the musculoskeletal system. When mechanical loads exceed the
+strength of a tendon or tensile range is lost due to aging, micro-tears of the collagen fibers within tendon
+occur. Once a tendon is injured, healing can occur intrinsically via tenocyte activation within the injured site
+or extrinsically via recruitment of collagen-producing cells from the surrounding area. Naturally healed
+tendon does not return to the same physiological state as ‘intact’ tendon, but does allow for normal function.
+Inadequate rest and improper healing often result in re-injury and rupture.
+Current treatments manage pain and facilitate healing processes; however, they do not mediate complete
+recovery and leave patients demobilized for several months during treatment. The Company believes that
+improved therapeutic strategies are therefore in considerable demand. The Company’s fibroblast technology
+for tendinosis, which the Company refers to as RCT-01, has been developed over five years of research,
+experimentation and trials. RCT-01 is a tissue-engineered product made from a procedure using collagen-
+producing fibroblasts isolated from non-bulbar dermal sheath (NBDS) cells within the hair follicle that are
+replicated in culture. These fibroblasts are efficient producers of type I collagen and because they are of
+anagen hair follicle mesenchymal origin, they have the potential to replicate efficiently in culture. The use of
+these fibroblasts are, therefore, ideal for treating chronic tendon disorders that arise due to either a
+degeneration of collagen producing cells or a deficit of active collagen producing cells. Because RCT-01
+directly provides a source of collagen expressing cells to the site of injury, addressing the underlying cause
+of tendinosis, the Company believes it has advantages over current treatments such as the use of non-
+steroidal anti-inflammatory medication or corticosteroids which are limited in efficacy. Another advantage of
+RCT-01 is the autologous nature of the cellular product, thereby reducing the likelihood of adverse immune
+reactions upon administration.
+3
+Phase 1 Clinical Trial
+Phase 1 human pilot clinical trials were conducted by the Company’s collaborative partner, Dr. David
+Connell, which focused on tendinosis of the Achilles, patellar and lateral elbow (commonly referred to as
+tennis elbow) using skin tissue derived fibroblasts. In these trials, where 90 patients were injected with
+cultured, autologous fibroblasts, no adverse events were reported. The Company has expanded on Dr.
+Connell’s approach by isolating NBDS fibroblasts from the hair follicle that express upwards of five times the
+amount of type I collagen than fibroblasts derived from skin tissue as pursued by Dr. Connell.
+Phase 1/2 Clinical Trial
+On December 1, 2014, the Company announced receipt of a “No Objection Letter” from Health Canada in
+response to its Clinical Trial Application to Health Canada for its phase 1/2 clinical trial to test the safety and
+efficacy of injections of RCT-01 on patients suffering from chronic Achilles tendinosis. Health Canada’s
+clearance to initiate the trial permitted the participation of subjects who have failed traditional tendon
+treatments and who are otherwise in good health.  Trial design was randomized, double-blinded, placebo-
+controlled with a treatment-to-placebo ration of 3:1. The mechanics of the Company’s treatment involve the
+extraction of as few as 20 hair follicles from the back of a patient’s scalp via a single punch biopsy. NBDS
+cells are isolated from the hair follicle sheath, replicated in a current Good Manufacturing Practices (cGMP)
+facility and are then reintroduced under ultrasound guidance directly into the area of damaged tendon. The
+collagen rich fibroblast cells are expected to initiate and complete the healing of the chronically injured
+tendon. After injections are performed, subjects will return to the clinic for assessments of safety, function
+and pain, as well as changes in tendon thickness, echotexture, interstitial tears and neovascularity. The
+primary end point is safety while a secondary end point of efficacy is being measured at six months. The
+Company will pursue further indications of other tendon populations including patellar tendinosis (jumper’s
+knee) and lateral and medial epicondylitis (tennis and golfer’s elbow).
+Intellectual Property
+The Company has developed and filed patent applications relating to compositions, methods and uses of
+NBDS cells for the treatment and repair of tendons. The Company has also licensed a family of patent
+applications relating to the compositions and uses of dermally derived cells in the treatment of tendons and
+ligaments.
+RCS-01: Treatment for Aging and Sun Damaged Skin
+Background
+Skin is considered one of the most prominent indicators of one’s age and health. Maintenance of healthy
+skin is dictated by intrinsic and extrinsic factors. While intrinsic factors (i.e. chronologic age, sex and genetic
+makeup) cannot be modified, the adverse effects caused by extrinsic factors such as UV radiation and
+smoking can be prevented or minimized by lifestyle modification. Although these extrinsic effects can be
+modulated, the extent to which they can be modified varies significantly among individuals, which largely
+depends on one’s ability to detoxify and repair such damage.
+The dermis and epidermis components of the skin lose thickness with age. Solar radiation, particularly UVA,
+is known to penetrate deep into the dermal layer, damaging fibroblasts, collagen and other fibroblasts
+expressed proteins, which are the major cellular components of the dermis. Similarly, there are some studies
+reporting that air pollutants/nanoparticles may also penetrate transepidermally, negatively impacting the
+dermal layer. The damages caused by external stimuli include DNA strand breaks and mutations, which, if
+not repaired properly, can lead to cell death. Similarly, oxidative stress caused by smoking leads to not only
+damages to DNA but also to other cellular components such as proteins and lipids.
+4
+Accumulation of damage to cellular proteins and DNA from years of exposure to extrinsic insults can lead to
+physiological changes of the skin that are irreversible. Such changes are often associated with a reduction
+in fibroblast cells, disorganization of collagen fibrils and decreased production of collagen, elastin and other
+glycoproteins that provide structural support and stability to the extra cellular matrix (“ECM”) network. Such
+changes to the dermal components are detrimental to maintaining mechanical tensile ability and structural
+integrity of the skin.
+Treatment
+The Company’s NBDS-derived fibroblast therapy, which it refers to as RCS-01, provides a promising
+platform to treat intrinsically and extrinsically aged/damaged skin by providing UV-naïve collagen-producing
+fibroblast cells directly to the affected area. The Company’s unique manufacturing technology allows for
+isolation of fibroblasts derived from anagen-hair follicle mesenchymal tissues, which elicit more efficient
+replication potential in culture. Additionally, the Company’s proprietary culture procedures potentiate these
+cells to maintain plasticity, allowing the cells to adapt to the microenvironment and respond to the
+mechanical or surrounding stimuli after injection, leading to robust production of type I collagen and elastin
+and their proper alignment within the tissue.
+On September 1, 2015, the Company announced it had received clearance from the German Competent
+Authority, the Paul-Ehrlich-Institute, to initiate a Phase 1 clinical trial to investigate the potential safety and
+efficacy of injecting RCS-01 into subjects with aged or UV-damaged skin. This trial is a randomized, double-
+blind, placebo controlled study of intradermal injections of RCS-01 designed to assess local safety as well
+as systemic safety.  In addition, quantitative analysis of skin gaining-related bio-markers is being conducted
+along with histopathological assessment of treatment sites to determine structural changes.
+RCH-01: Treatment for Hair Loss
+Background
+Androgenetic alopecia (pattern hair loss) can affect up to 70% of men and 40% of women during the course
+of their lives. Although it is not a disease that causes physical pain, it does cause mental pain. Currently,
+over $3 billion is spent each year on hair loss treatments that provide limited results. Androgenetic alopecia
+is largely an inherited disease. It can be inherited by males and females from either the mother’s or father’s
+side of the family. Women with this trait develop thinning hair, but do not commonly become completely bald.
+Androgenetic alopecia is a process by which hair follicles shrink and produce smaller hairs thus reducing
+hair density. These miniaturized hair fibers have a shorter growth cycle and are structurally smaller. They
+produce thinner and shorter hair, which results in less scalp coverage. Eventually these follicles can regress
+to a state where they produce no hair at all.
+Treatment
+The Company believes its dermal sheath cup (DSC) cell therapy offers several advantages over current hair
+loss solutions. The current gold standard in hair loss treatment is hair transplant surgery which requires the
+surgical removal of a prominent band of hair-bearing scalp or multiple micro-biopsies from the back of the
+head. This band of resected tissue or biopsies are then dissected into hair follicles consisting of one to three
+hairs which are then implanted into balding areas on the scalp. Often a number of similar procedures are
+required to achieve the desired result and the patient is limited by the number of hairs that can be
+redistributed. In contrast, RCH-01 involves the extraction of as few as 20 hair follicles from the back of the
+patient’s scalp where healthy cycling hair follicles reside. The Company believes these cells are responsible
+for the continued health of the hair follicle and the normal cycling of the hair fiber. DSC cells are isolated
+from the hair follicles and are then replicated in culture at a cGMP compliant facility utilizing the Company’s
+proprietary cellular replication process, and are then reintroduced back into balding areas on a patient’s
+scalp. The implanted cells are expected to rejuvenate damaged quiescent hair follicles leading to the growth
+of new healthy hair fibers. The anticipated long-term result of RCH-01 injections is the restoration and
+maintenance of a patient’s hair.
+5
+Phase I Clinical Trial
+The primary protocol objective of the study was to assess the local (at treatment sites) safety profile of
+injections of autologous DSC cells at six-months post-injection compared to placebo. Secondary protocol
+objectives were to assess systemic (overall) safety and efficacy (hair growth at treatment sites) at six-months
+post-injection and local safety at 24-months post-injection. The six-month interim analysis was designed to
+provide us with safety information to support the regulatory filing for a phase II clinical trial. The six-month
+interim analysis results support the continued development of DSC cells for the treatment of androgenetic
+alopecia. Participants of the phase I clinical trial are being followed for five years. The primary objective of
+the study is to provide long-term safety profile of injections of cultured DSC cells five years after injection
+compared to control.
+Proposed Phase 2 Clinical Trial
+The Company is preparing a clinical trial application seeking clearance to conduct a phase 2 dose-finding
+trial of RCH-01.  The Company expects to file this clinical trial application with the German Competent
+Authority, the Paul-Ehrlich-Institute.  The proposed trial design will involve male subjects in good health with
+mild to moderate androgenetic alopecia. After injections of RCH-01 are performed, subjects will return to the
+clinic for assessment of total, terminal and vellus hair density and cumulative hair thickness, as well as
+safety. The primary endpoint of efficacy will be measured at 12 months post final injection.
+Collaboration Agreement
+The Company has also entered into a Collaboration and Technology Transfer Agreement with Shiseido
+Company, Limited (“Shiseido”), one of the world’s largest cosmetic companies. Both companies will work
+towards establishing a clinical research program in Asia, with the goal of increasing the available human
+clinical data on RCH-01. The Company anticipates that collaborative technology transfer will continue
+between the companies as any new improvements to the RCH-01 technology are developed by either party.
+This agreement gives Shiseido an exclusive geographic license to use the Company’s RCH-01 hair
+regeneration technology in Japan, China, South Korea, Taiwan and the ASEAN countries representing a
+population of approximately 2.1 billion people. In mid-2016, Shiseido announced the commencement of a a
+hospital-sponsored clinical study of RCH-01 in Japan funded by Shiseido.  The clinical data produced in
+such a trial would, by agreement, be made available to the Company.
+Intellectual Property
+The Company has filed patent applications on the use of hair follicle derived stem cells (see e.g., granted
+European Patent EP 1 509 597 B1) entitled “Method for isolating hair follicle mesenchymal stem cells”.  This
+family of patents describes methods for isolating stem cells from hair follicles, and the growth and use of
+these stem cells for the treatment of a variety of medical conditions (including hair loss).  Within this portfolio,
+there are granted patents in Australia (AU 2003246521), Europe (EP1 509 597 B1), the United States
+(8,431,400) and Canada (2,488,057).  Additional related patent applications are also pending in a variety of
+jurisdictions.
+The Company has also filed patent applications on: 1) other types of cell compositions (see e.g., granted
+patents EP 2,362,776 B1, and US 8,932,582); 2) injection devices (see e.g., granted patent EP 2,623,146
+and published PCT application WO 2013/113121): 3) compositions and methods for treating and repairing
+tendons (see, e.g., published PCT application WO 2014/127047); and 4) compositions and methods for
+treating skin (see e.g., published PCT application WO 2014/205142).  Additional related patent applications
+are also pending in a variety of jurisdictions. 
+6
+RCI-02: Dermal Injector Device
+Background
+To support the Company’s RCH-01 and RCS-01 products, the Company is developing a second generation
+dermal injector device. The RCI-02 Injector, the production design of which is now complete, will be able to
+deliver programmable volumes of substances into programed depths to specific layers of the skin in a
+constant form with minimal pressure or shear stress, ensuring the injected substance is viable and healthy
+after application. By improving the conditions of substance delivery, the Company improves the chances of
+success in the treatment of the patient. A significant feature of the new device is the incorporation of a
+cooling element at the injection site, thus removing the need for an anesthetic. This is a significant
+improvement over current syringe-type devices where an anesthetic is required prior to injection.
+The Company believes that this device will have applications in certain other dermatological procedures
+requiring injections of specific volumes of material at specific depths and as such, is actively exploring
+licensing opportunities in these areas. In addition to the programmable variables of volume and depth, the
+device will also have interchangeable heads for different injection procedures (single and multi-needle). The
+Company expects to start building and testing commercial-ready prototypes in 2016.
+Intellectual Property
+The Company has filed patent applications relating to devices for the delivery of therapeutically useful cells,
+as well as to compositions and methods for repairing tendons.
+SELECTED ANNUAL INFORMATION
+The following financial data summarizes selected financial data for the Company prepared in accordance
+with IFRS as issued by the IASB for the three fiscal years ended December 31, 2015, 2014 and 2013.
+Year ended
+Dec. 31, 2014
+  
+(audited)
+  $Nil
+Year ended
+Dec. 31, 2015
+ 
+(audited)
+ $Nil
+ $(5,044,014 ) $(5,198,411 ) $ 383,468
+ $Nil
+  $ 412,040
+ $(5,044,014 ) $(5,198,411 ) $ (28,572
+ $(0.09
+Net sales or total revenues
+Net income (loss) before tax
+Income tax
+Total comprehensive loss
+Basic and diluted loss per share
+Loss attributable to owners of the Parent $(5,044,014 ) $(5,198,411 ) $ (28,572
+Total assets
+Long-term liabilities
+Year ended
+Dec. 31, 2013
+  
+(audited)
+ 
+  $ 4,120,400  
+ 
+ 
+)
+ 
+)
+  $ 2,052,401  
+  $ 208,387
+) $Nil
+$415,920
+ $Nil
+$2,141,288
+  $3,633
+$Nil
+) $(0.10
+Dividends declared
+$Nil
+$Nil
+$Nil
+7
+DISCUSSION OF OPERATIONS
+Six months ended June 30, 2016 compared to three months ended June 30, 2015
+Six months ended June 30,  Change 2016 to 2015
+2016
+2015
+ 
+   
+Expenses
+  Research and development  567,883
+   1,093,168
+  General and administrative   1,313,196    1,476,644
+  Other items
+Total loss
+(34,004
+  1,847,075    2,559,770
+)  (10,042
+Increase/
+(Decrease)  Percent Change 
+  
+   
+ 
+   
+)%
+   (525,285 )  
+)%
+   (163,448 )  
+)  (23,962
+%
+)%
+   (712,695 )
+(48
+(11
+)   2
+(27
+There was no revenue from operations for the six months ended June 30, 2016 or 2015.
+Research and Development expenses totaled $567,883 for the six months ended June 30, 2016 compared
+to $1,093,168 for the six months ended June 30, 2015. Research and Development expenses are lower than
+the six-months period ended June 30, 2015 as the company winds down it current clinical trials and is not
+yet preparing for next-stage trials until the data from current trials is analyzed.
+General and administrative expenses totaled $1,313,196 for the six months ended June 30, 2016 compared
+to $1,476,644 for the six months ended June 30, 2015. The increase is attributable to an increase in stock
+based compensation of $362,094 for the six months ended June 30, 2016 compared to $75,671 for the six
+months ended June 30, 2015.  The increase is primarily attributable to 1,100,000 shares release from
+escrow resulting in a charge of $341,000 to stock based compensation.
+Total comprehensive loss for the six months ended June 30, 2016 was $1,847,075 or $0.28 per share on a
+basic and diluted basis compared to a net loss of $2,559,770 or $0.48 per share on a basic and diluted basis
+for the six months ended June 30, 2015.
+Three months ended June 30, 2016 compared to three months ended June 30, 2015
+Three months ended June 30,  Change 2016 to 2015
+2016
+Expenses
+  Research and development  194,856
+  General and administrative   591,773
+  Other items
+Total loss
+(9,263
+  777,366
+2015
+    
+    622,456
+    743,554
+)  (4,055
+    1,361,955
+Increase/
+(Decrease)  Percent Change 
+  
+   
+ 
+)%
+   (427,600 )   (69
+)%
+   (151,781 )   (20
+%
+)  (5,208
+)   128
+   (584,589 )   (43
+)%
+There was no revenue from operations for the three months ended June 30, 2016 or 2015.
+Research and Development expenses totaled $194,856 for the three months ended June 30, 2016
+compared to $622,456 for the three months ended June 30, 2015. Research and Development expenses are
+lower than second quarter 2015 as the company winds down it current clinical trials and is not yet preparing
+for next-stage trials until the data from current trials is analyzed.
+General and administrative expenses totaled $591,773 for the three months ended June 30, 2016 compared
+to $743,554 for the three months ended June 30, 2015. The decrease is attributable to a general decrease
+due to cut-back in certain general and administrative expenditures due to cost constraints.
+Total comprehensive loss for the three months ended June 30, 2016 was $777,366 or $0.12 per share on a
+basic and diluted basis compared to a net loss of $1,361,955 or $0.25 per share on a basic and diluted basis
+for the three months ended June 30, 2015.
+8
+SUMMARY OF QUARTERLY RESULTS
+The following is a summary of our financial results for the eight most recently completed quarters.  The
+figures for the years ended December 31, 2015 and 2014 are calculated from the Company’s annual
+consolidated financial statements prepared under IFRS.
+Mar 31,
+2016
+ 
+$
+Mar 31,
+2016
+  
+$
+  Nil
+Dec 31,
+2015
+  
+$
+  Nil
+Sept 30,
+2015
+  
+$
+  Nil
+Jun 30,
+2015
+  
+$
+  Nil
+Mar 31,
+2015
+  
+$
+  Nil
+Dec 31,
+2014
+  
+$
+  Nil
+Sept 30,
+2014
+  
+$
+  Nil
+Revenues Nil
+ 
+Net loss
+(777,366)  (1,069,709)  (1,299,966)  (1,184,282)  (1,361,955)  (1,197,815)  (1,369,541)  (1,224,924)
+Basic and
+diluted
+loss per
+share
+(0.12
+)  (0.20
+)  (0.20
+)  (0.20
+)  (0.30
+)  (0.20
+)  (0.20
+)  (0.20
+)
+LIQUIDITY AND CAPITAL RESOURCES
+The Company’s condensed consolidated interim financial statements have been prepared on a going
+concern basis which assumes that the Company will continue to realize its assets and discharge its
+obligations and commitments in the normal course of operations. At June 30, 2016, the Company had
+accumulated $4,120,400 in revenue from its business, had accumulated a deficit of $22,351,468 since
+incorporation and expected to incur further losses in the development of its business, which casts substantial
+doubt about the Company’s ability to continue as a going concern.  At June 30, 2016, the Company had a
+working capital deficit of $1,275,450.  Additional working capital will be required for research and
+development along with general and administrative expenses and to further its business plans. The
+Company’s financial statements do not include any adjustments relating to the recoverability and
+classification of recorded assets, or the amounts of and classification of liabilities that might be necessary in
+the event that the Company cannot continue as a going concern.
+The Company’s ability to continue as a going concern is dependent upon its ability to generate future
+profitable operations and/or to obtain the necessary financing to meet its obligations and repay its liabilities
+arising from normal business operations when they come due.  The Company has financed its operations to
+date through the issuance of equity.  The continued volatility in the financial equity markets may make it
+difficult to raise funds by private placements of shares.  There is no assurance that the Company will be
+successful with its financing ventures.
+Operating Activities
+During the six months ended June 30, 2016, $976,183 cash was used in operating activities compared to a
+use of cash of $2,379,021 for the six months ended June 30, 2015.  The decrease in cash used in operating
+activities was due to an overall decrease in overhead expenses as management is focused on reallocating
+its limited capital from non-critical administrative costs to clinical development and data from its ongoing
+clinical trials.
+9
+Investing Activities
+During the six months ended June 30, 2016, the net cash provided by investing activities was $Nil compared
+to $1,500,000 for the six months ended June 30, 2015. Investing activities relate solely to the redemption of a
+Guaranteed Investment Certificate.
+Financing Activities
+During the six months ended June 30, 2016
+(i)
+On June 1, 2016, the Company closed a non-brokered private placement of 138,000 common shares at a
+price of $1.50 per share for gross proceeds of $207,000.  There were no warrants attached to the
+financing.
+(ii)
+On April 4, 2016, the Company closed a non-brokered private placement of 188,763 shares at a price of
+$2.00 per share for gross proceeds of $377,525.  There were no warrants attached to the financing.
+(iii)
+The Company issued common shares upon the exercise of warrants that had been issued April 10, 2013
+through June 16, 2014.  The Company issued 111,362 warrants at an exercise price of $2.20 for gross
+proceeds totaling $244,997.  111,362 additional common share purchase warrants were granted in
+connection with the warrant exercise, with each warrant entitling the holder to purchase one additional
+common share expiring on February 25, 2018 at a price of $4.00 per share.
+Subsequent to the six-months period ended June 30, 2016, on July 22, 2016, the Company’s board of
+directors authorized a plan to proceed with a consolidation of its outstanding common shares on the basis of
+ten (10) pre-consolidation Shares for one (1) post-consolidation Share. This plan was approved on August
+10, 2016 and has been reflected in the Condensed Consolidated Interim Financial statements for the six
+months ended June 30, 2016.
+ 
+Additional working capital will be required for general and administrative expenses and to further our
+business plans.
+Going Concern
+Due to the uncertainty of the Company’s ability to meet its current operating and capital expenses, in the
+auditor’s report on the Company’s annual audited consolidated financial statements for the year ended
+December 31, 2015, the Company’s auditors included an explanatory paragraph on their report in respect of
+there being substantial doubt about the Company’s ability to continue as a going concern.
+The Company anticipates that it will require a minimum of approximately $1,800,000 to proceed with a
+minimal plan of operations and approximately $3,000,000 to fund our full plan of operations for a twelve-
+month period. The Company has no current material commitments for capital expenditures.
+The Company does not currently have sufficient capital resources to fund its plan of operations for the next
+twelve months. Accordingly, the Company plans to raise additional capital through the sale of debt or equity
+securities or through other forms of financing in order to raise the funds necessary to pursue the Company’s
+plan of operations. The Company currently does not have any arrangements in place for the completion of
+any financings and there is no assurance that it will be successful in completing any financings. There can
+be no assurance that additional financing will be available when needed or, if available, on commercially
+reasonable terms. If the Company is not able to obtain additional financing on a timely basis, it may not be
+able to pursue its plan of operations or meet its obligations as they come due, and may be forced to scale
+down, or perhaps even cease, business operations.
+10
+OUTSTANDING SHARE DATA
+Common Shares Outstanding
+As of August 29, 2016, there were 6,726,163 common shares issued and outstanding.
+As of August 29, 2016, there were stock options entitling the holders to acquire an aggregate of 484,000
+common shares.
+As of August 29, 2016, there were share purchase warrants outstanding entitling the holders to acquire an
+aggregate of 1,589,681 common shares.
+As of August 29, 2016, there were agent’s options outstanding entitling the holders to acquire an aggregate
+of 45,471 common shares.
+RELATED PARTY TRANSACTIONS
+As at June 30, 2016, included in the accounts payable and accrued liabilities, were $363,715 (December 31,
+2015: $215,803) due to directors and/or officers of the Company and/or companies they control or of which
+they were significant shareholders for research and development and consulting fees.  The amounts owing
+are unsecured, non-interest bearing and due on demand.
+During the six months ended June 30, 2016 and 2015, the Company had the following related party
+transactions:
+Research and development costs totalling $1,535 (June 30, 2015: $58,916) were paid to companies owned
+-
+by directors and officers of the Company;
+The Company considers key management to be the Chief Executive Officer, Chief Financial Officer and
+-
+executive directors. Salaries totalling $100,417 (June 30, 2015: $98,750) and stock-based compensation
+totalling $362,094 (June 30, 2015: $Nil) were paid to key management.
+These transactions were in the normal course of operations having been measured at the exchange amount,
+being the amount established and agreed to by the parties.
+OFF BALANCE SHEET ARRANGEMENTS
+None.
+PROPOSED TRANSACTIONS
+None.
+11
+CRITICAL ACCOUNTING ESTIMATES AND JUDGEMENTS
+RepliCel makes estimates and assumptions about the future that affect the reported amounts of assets and
+liabilities. Estimates and judgments are continually evaluated based on historical experience and other
+factors, including expectations of future events that are believed to be reasonable under the circumstances.
+In the future, actual experience may differ from these estimates and assumptions.
+The effect of a change in an accounting estimate is recognized prospectively by including it in
+comprehensive income in the period of the change, if the change affects that period only, or in the period of
+the change and future periods, if the change affects both.
+Information about critical judgments in applying accounting policies that have the most significant risk of
+causing material adjustment to the amounts reported in the Company’s annual audited consolidated
+financial statements are discussed below:
+Share Based Payments and Derivatives Liabilities Related to Equities
+The Company measures the cost of equity-settled transactions with employees by reference to the fair value
+of the equity instruments at the date at which they are granted.  Estimating fair value for share-based
+payment transactions requires determining the most appropriate valuation model, which is dependent on the
+terms and conditions of the grant. This estimate also requires determining the most appropriate inputs to the
+valuation model including the expected life of the share option, volatility and dividend yield and making
+assumptions about them.  The assumptions and models used for estimating the fair value for share-based
+payment transactions are disclosed in Note 8 of the Company’s annual audited consolidated financial
+statements.
+Similar methodology to the share-based payments is used to determine the fair value of derivative liabilities
+related to warrants denominated in U.S. dollars.  The assumptions and models used for estimating the fair
+value for derivative liabilities are disclosed in Note 7 of the Company’s annual audited consolidated
+financial statements.
+Income Taxes
+Significant judgment is required in determining the provision for income taxes. There are many transactions
+and calculations undertaken during the ordinary course of business for which the ultimate tax determination
+is uncertain.  The Company recognizes liabilities and contingencies for anticipated tax audit issues based
+on the Company’s current understanding of the tax law.  For matters where it is probable that an adjustment
+will be made, the Company records its best estimate of the tax liability including the related interest and
+penalties in the current tax provision. Management believes they have adequately provided for the probable
+outcome of these matters; however, the final outcome may result in a materially different outcome than the
+amount included in the tax liabilities.
+In addition, the Company will recognize deferred tax assets relating to tax losses carried forward to the
+extent there are sufficient taxable temporary differences relating to the same taxation authority and the same
+taxable entity against which the unused tax losses can be utilized.  However, utilization of the tax losses
+also depends on the ability of the taxable entity to satisfy certain tests at the time the losses are recouped.
+SIGNIFICANT ACCOUNTING POLICIES
+The Company’s significant accounting policies can be found in Note 4 of the annual audited consolidated
+financial statements for the year ended December 31, 2015.
+ACCOUNTING STANDARDS, AMENDMENTS AND INTERPRETATIONS NOT YET EFFECTIVE
+The Company’s significant accounting policies can be found in Note 4 of the annual audited consolidated
+financial statements for the year ended December 31, 2016.
+12
+ACCOUNTING STANDARDS, AMENDMENTS AND INTERPRETATIONS NOT YET EFFECTIVE
+Certain pronouncements were issued by the IASB or the IFRS Interpretations Committee that are not
+mandatory for accounting periods beginning on or after January 1, 2016. They have not been early adopted
+in these consolidated financial statements, and are expected to affect the Company in the period of initial
+application.  In all cases the Company intends to apply these standards from application date as indicated
+below:
+·Amendment to IFRS 7, Financial Instruments: Disclosure
+Amended to require additional disclosures on transition from IAS 39 to IFRS 9.  Effective on adoption of
+IFRS 9, which is effective for annual periods commencing on or after January 1, 2018.  The Company is
+currently evaluating the impact this standard is expected to have on its consolidated financial statements.
+·IFRS 9 Financial Instruments
+IFRS 9 reflects all phases of the financial instruments project and replaces IAS 39 Financial Instruments:
+Recognition and Measurement and all previous versions of IFRS 9.  The standard introduces new
+requirements for classification and measurement, impairment, and hedge accounting.  IFRS 9 is effective for
+annual periods beginning on or after January 1, 2018, with early application permitted.  The Company is
+currently evaluating the impact this standard is expected to have on its consolidated financial statements.
+·IFRS 15 Revenue from Contracts with Customers
+The standard replaces IAS 18 Revenue and IAS 11 Construction contracts, and contains a single model that
+applies to contracts with customers and two approaches to recognizing revenue: at a point in time or over
+time.  The model features a contract-based five-step analysis of transactions to determine whether, how
+much and when revenue is recognized.  New estimates and judgmental thresholds have been introduced,
+which may affect the amount and/or timing of revenue recognized.  IFRS 15 is effective for annual periods
+beginning on January 1, 2018.  Currently, no impact on the Company’s consolidated financial statements is
+expected.
+·IFRS 16 Leases
+The new standard will replace IAS 17 Leases and eliminates the classification of leases as either operating
+or finance leases by the lessee. The treatment of leases by the lessee will require capitalization of all leases
+resulting accounting treatment similar to finance leases under IAS 17 Leases. Exemptions for leases of very
+low value or short-term leases will be applicable. The new standard will result in an increase in lease assets
+and liabilities for the lessee. Under the new standard the treatment of all lease expense is aligned in the
+statement of earnings with depreciation, and an interest component recognized for each lease, in line with
+finance lease accounting under IAS 17 Leases. IFRS 16 will be applied prospectively for annual periods
+beginning on January 1, 2019. The Company is currently evaluating the impact this standard is expected to
+have on its consolidated financial statements.
+There are no other IFRS or IFRIC Interpretations that are not yet effective that would be expected to have a
+material impact on the Company.
+13
+FINANCIAL INSTRUMENTS AND OTHER INSTRUMENTS
+As at June 30, 2016, the Company’s financial instruments are comprised of cash, accounts payable and
+accrued liabilities, and warrants denominated in a foreign currency. The fair values of cash, accounts
+payable and accrued liabilities approximate their carrying value due to their short-term maturity.
+The Company is exposed through its operations to the following financial risks:
+·Currency risk;
+·Credit risk;
+·Liquidity risk; and
+·Interest rate risk.
+In common with all other businesses, the Company is exposed to risks that arise from its use of financial
+instruments.  This note describes the Company’s objectives, policies and processes for managing those
+risks and the methods used to measure them.  Further quantitative information in respect of these risks is
+presented throughout these financial statements.
+There have been no substantive changes in the Company’s exposure to financial instrument risks, its
+objectives, policies and processes for managing those risks or the methods used to measure them from
+previous periods unless otherwise stated in this note.
+Currency risk is the risk that the fair value or future cash flows of a financial instrument will fluctuate because
+of changes in foreign exchange rates. The Company has an exposure to the European Euros as certain
+expenditures and commitments are denominated in European Euros and the Company is subject to
+fluctuations as a result of exchange rate variations to the extent that transactions are made in this currency.
+In addition, the Company holds an amount of cash in US dollars and is therefore exposed to exchange rate
+fluctuations on these cash balances. The Company does not hedge its foreign exchange risk.  At June 30,
+2016 the Company held US dollar cash balances of $561 (US$424) (December 31, 2015: $12,229 or
+US$8,821). A 1% increase/decrease in the US Dollars foreign exchange rate would have an impact of ±$4
+(US$3) on the cash balance held June 30, 2016.
+Credit risk is the risk of an unexpected loss if a customer or third party to a financial instrument fails to meet
+its contractual obligations.  The Company’s credit risk is primarily attributable to its cash.  The Company
+limits exposure to credit risk by maintaining its cash with large financial institutions.  The Company’s
+maximum exposure to credit risk is the carrying value of its financial assets.
+Liquidity risk is the risk that the Company will not be able to meet its financial obligations as they fall due.
+The Company manages liquidity risk through the management of its capital structure, more specifically, the
+issuance of new common shares, to ensure there is sufficient capital in order to meet short term business
+requirements, after taking into account the Company’s holdings of cash and potential equity financing
+opportunities. The Company believes that these sources will be sufficient to cover the known short and long-
+term requirements at this time. There is no assurance that potential equity financing opportunities will be
+available to meet these obligations.
+The following table sets out the contractual maturities (representing undiscounted contractual cash-flows) of
+financial liabilities as at June 30, 2016:
+Year of expiry Accounts payable and accrued liabilities  Total
+Within 1 year  $
+$1,584,802
+1,584,802
+14
+Interest rate risk is the risk that the fair value or future cash flows of a financial instrument will fluctuate
+because of changes in market interest rates. As the Company’s cash is currently held in an interest bearing
+bank account, management considers the interest rate risk to be limited.
+RISKS AND UNCERTAINTIES
+Risks Relating to the Company’s Business
+In addition to the other risks and uncertainties set out earlier in this MD&A, the Company is also exposed to
+the following risks and uncertainties:
+Our company currently does not generate revenue from its planned operations, and as a result, it faces a
+high risk of business failure.
+The Company has generated $4,120,400 in licensing revenues from its operations to date. This revenue
+was the payment of an upfront fee of $4,120,400 pursuant to a Collaboration and Technology Transfer
+Agreement with Shiseido. This revenue was not recurring revenue from its operations and the Company
+may not obtain similar revenue in the future.
+As of June 30, 2016, the Company had accumulated $22,351,468 in losses since inception. The Company’s
+business is focused on developing autologous cell therapies that treat functional cellular deficits including
+chronic tendon injuries, androgenetic alopecia and skin aging. In order to generate revenues, the Company
+will incur substantial expenses in the development of its business. The Company therefore expect to incur
+significant losses in the foreseeable future. The Company recognizes that if it is unable to generate
+significant revenues from its activities, the Company’s entire business may fail. There is no history upon
+which to base any assumption as to the likelihood that the Company will be successful in its plan of
+operation, and the Company can provide no assurance to investors that it will generate operating revenues
+or achieve profitable operations in the future.
+The Company had cash in the amount of $29,130 and working capital deficit of $1,275,450 as of June 30,
+2016 and the Company anticipates that it will require a minimum $1,800,000 to proceed with a minimal plan
+of operations and approximately $3,000,000 to fund our full plan of operations for a twelve-month period. In
+order to fund its plan of operations for the next twelve months, the Company may seek to sell additional
+equity or debt securities or obtain a credit facility. The sale of convertible debt securities or additional equity
+securities could result in additional dilution to its shareholders. The incurrence of indebtedness would result
+in increased debt service obligations and could result in operating and financing covenants that would
+restrict its operations and liquidity.
+Our auditors’ opinion on our December 31, 2015 financial statements includes an explanatory paragraph in
+respect of there being substantial doubt about our ability to continue as a going concern.
+The Company has incurred a net loss of $22,351,468 for the cumulative period from September 7, 2006
+(inception) to June 30, 2016. The Company anticipates generating losses for at least the next 12 months.
+Therefore, there is substantial doubt about its ability to continue operations in the future as a going concern,
+as described by its auditors with respect to the financial statements for the year ended December 31, 2015.
+The Company’s financial statements do not include any adjustments relating to the recoverability and
+classification of recorded assets, or the amounts of and classification of liabilities that might be necessary in
+the event that the Company cannot continue in existence. The Company’s business operations may fail if its
+actual cash requirements exceed its estimates and the Company is not able to obtain further financing. If the
+Company cannot continue as a viable entity, its shareholders may lose some or all of their investment in the
+Company.
+15
+The Company’s business is at an early stage of development and difficulties obtaining regulatory approval,
+technical deficiencies and other challenges may hinder the development and marketing of its autologous
+cell therapies.
+The Company’s autologous cell therapy technology is at an early stage of development and the Company
+may not develop a cell replication technology that can be commercialized. The Company is still in the early
+stages of identifying and conducting research on its technology. The Company’s technology will require
+significant research and development and preclinical and clinical testing prior to regulatory approval, if
+required, being obtained in the United States or other countries. The Company may not be able to obtain
+regulatory approvals, if required, to complete necessary clinical trials for its cell replication technology, or to
+commercialize it. The Company’s technology may prove to have undesirable and unintended side effects, or
+other characteristics adversely affecting its safety, efficacy or cost-effectiveness could prevent or limit its use.
+The Company’s technology may fail to provide its intended benefit, or achieve benefits equal to or better
+than its competitor’s products at the time of testing or production and, if so, its business may fail.
+The Company’s clinical trials may fail to produce successful results or could be suspended due to
+unacceptable safety risks, which could cause its business to fail.
+Clinical trials are subject to extensive regulatory requirements, and are very expensive, time-consuming and
+difficult to design and implement, in part because they may be subject to rigorous regulatory requirements.
+The Company’s products may fail to achieve necessary safety and efficacy endpoints during clinical trials.
+The Company believes that its clinical trials will take a substantial period of time to complete. Furthermore,
+failure can occur at any stage of the trials, and the Company could encounter problems that cause us to
+abandon or repeat clinical trials. The commencement and completion of clinical trials may be delayed by
+several factors, including: unforeseen safety issues; lack of effectiveness during clinical trials; slower than
+expected rates of patient recruitment; and inability to monitor patients adequately during or after treatment. In
+addition, the Company or regulatory officials may suspend the Company’s clinical trials at any time if it
+appears that the Company is exposing participants to unacceptable health risks. If the Company’s clinical
+trials fail to produce successful results, or are suspended due to unacceptable safety risks, the Company’s
+business may fail.
+The Company’s success depends on the acceptance of its cell replication technology by the medical
+community and consumers as a safe and effective solution.
+The success of its cell replication technology will depend on its acceptance by potential consumers and the
+medical community. Because its technology is new in the treatment of functional cellular deficits including
+chronic tendon injuries, androgenetic alopecia and skin aging, the long term effects of using its new cell
+replication technology are unknown. The results of short-term clinical trials do not necessarily predict long-
+term clinical benefit or reveal adverse effects. If results obtained from future commercial experience indicate
+that its cell replication technology is not as safe or effective as other treatments, adoption of this technology
+by consumers and the medical community may suffer and its business will be harmed.
+The Company faces significant competition and if it is unable to successfully compete, the Company’s
+business may suffer a material negative impact.
+The life sciences industry is highly competitive. The Company anticipates that it will continue to face
+increased competition as existing companies develop new or improved products and as new companies
+enter the market with new technologies. Many of its competitors are significantly larger than us and have
+greater financial, technical, research, marketing, sales, distribution and other resources than us. There can
+be no assurance that its competitors will not succeed in developing or marketing technologies and products
+that are more effective or commercially attractive than the products the Company is developing or that such
+competitors will not succeed in obtaining regulatory approval, or introducing or commercializing any such
+products, prior to us. Such developments could have a material adverse effect on its business, financial
+condition and results of operations. Also, even if the Company is able to compete successfully, there can be
+no assurance that it could do so in a profitable manner.
+16
+If the Company is not able to effectively protect its existing intellectual property, the Company’s business
+may suffer a material negative impact and may fail.
+The success of the Company will be dependent on its ability to protect and develop its technology. The
+Company currently has registered patents for its cell replication technology in Australia, the United States,
+Japan and the European Union. If the Company is unable to protect its intellectual property, its business may
+be materially adversely affected. Further, the Company cannot be sure that its activities do not and will not
+infringe on the intellectual property rights of others. If the Company is compelled to prosecute infringing
+parties, defend its intellectual property or defend itself from intellectual property claims made by others, it
+may face significant expense and liability, as well as the diversion of management’s attention from the
+Company’s business, any of which could negatively impact its business or financial condition.
+The actual protection afforded by a patent varies on a product-by-product basis, from country to country and
+depends on many factors, including the type of patent, the scope of its coverage, the availability of regulatory
+related extensions, the availability of legal remedies in a particular country and the validity and enforceability
+of the patents. The Company’s ability to maintain and solidify its proprietary position for its products will
+depend on its success in obtaining effective claims and enforcing those claims once granted. The
+Company’s registered patents and those that may be issued in the future, or those licensed to us, may be
+challenged, invalidated, unenforceable or circumvented, and the rights granted under any issued patents
+may not provide us with proprietary protection or competitive advantages against competitors with similar
+products. The Company also relies on trade secrets to protect some of its technology, especially where it is
+believed that patent protection is not appropriate or obtainable. However, trade secrets are difficult to
+maintain. While the Company uses reasonable efforts to protect its trade secrets, its employees, consultants,
+contractors or scientific and other advisors may unintentionally or willfully disclose the Company’s
+proprietary information to competitors. Enforcement of claims that a third party has illegally obtained and is
+using trade secrets is expensive, time consuming and uncertain. In addition, non-U.S. courts are sometimes
+less willing than U.S. courts to protect trade secrets. If the Company’s competitors independently develop
+equivalent knowledge, methods and know-how, the Company would not be able to assert its trade secrets
+against them and its business could be harmed.
+The successful acquisition and maintenance of patent rights is critical to its business and any failure in this
+regard could hinder the development and marketing of its technology.
+The Company currently has patent applications pending in several other countries around the world. The
+Company’s pending patent applications may not result in the issuance of any patents. The applications may
+not be sufficient to meet the statutory requirements for patentability in all cases or may be the subject of
+interference proceedings by patent offices. These proceedings determine the priority of inventions and, thus,
+the right to a patent for technology. In the past, its patent applications have experienced delays and its patent
+applications may be delayed in the future. If others file patent applications or obtain patents similar to those
+the Company has licensed, such patents may restrict the use of its discoveries. The Company cannot predict
+the ultimate scope and validity of existing patents and patents that may be granted to third parties, nor can it
+predict the extent to which it may wish or be required to obtain licenses to use such patents, or the
+availability and cost of acquiring such licenses. To the extent that licenses are required, the owners of the
+patents could bring legal actions against us to claim damages or to stop its manufacturing and marketing of
+the affected technology. If the Company becomes involved in patent litigation, it could consume a substantial
+portion of its resources.
+17
+The Company may be subject to changes and uncertainties in laws and government regulations.
+The Company is subject to regulation by domestic and foreign governmental agencies with respect to many
+aspects of developing autologous cell replication technology. In addition, relevant new legislation or
+regulation could occur. Any such new legislation or regulation, the application of laws and regulations from
+jurisdictions whose laws do not currently apply to the Company’s business, or the application of existing
+laws and regulations to cell replication technology, could have a material adverse effect on the Company’s
+business, prospects, financial condition and results of operations.
+Risks Relating to the Company’s Management
+The Company is dependent on the services of certain key consultants and the loss of any of these key
+consultants may have a materially adverse effect on the Company.
+While engaged in the business of developing a new cell replication technology, the Company’s ability to
+continue to develop a competitive edge in the marketplace will depend, in large part, on its ability to attract
+and maintain qualified key management personnel. Competition for such personnel is intense, and it may
+not be able to attract and retain such personnel. The Company’s growth has depended, and in the future will
+continue to depend, on the efforts of its key management consultants. Loss of any of these people would
+have a material adverse effect on the Company. Currently, the Company does not have key-man life
+insurance.
+Conflicts of interest may arise as a result of the Company’s directors and officers being directors or officers of
+other life sciences companies.
+Certain of the Company’s directors and officers are, or may become, directors or officers of other life
+sciences companies. While the Company is engaged in the business of developing a new autologous cell
+replication technology, such associations may give rise to conflicts of interest from time to time. The
+Company’s directors are required by law to act honestly and in good faith with a view to the Company’s best
+interests and to disclose any interest that they may have in any project or opportunity. If a conflict of interest
+arises at a meeting of the Company’s board of directors, any director in a conflict must disclose his interest
+and abstain from voting on such matter. In determining whether or not the Company will participate in any
+project or opportunity, the Company’s directors will primarily consider the degree of risk to which the
+Company may be exposed and its financial position at the time.
+The Company’s articles contain provisions indemnifying its officers and directors against all costs, charges
+and expenses incurred by them.
+The Company’s articles contain provisions limiting the liability of its officers and directors for all acts,
+receipts, neglects or defaults of themselves and all of its other officers or directors or for any loss, damage or
+expense incurred by the Company which may happen in the execution of the duties of such officers or
+directors. Such limitations on liability may reduce the likelihood of derivative litigation against the
+Company’s officers and directors and may discourage or deter its shareholders from suing the Company’s
+officers and directors based upon breaches of their duties to the Company, though such an action, if
+successful, might otherwise benefit the Company and its shareholders.
+18
+As a majority of the Company’s directors and officers are residents of countries other than the United States,
+investors may find it difficult to enforce, within the United States, any judgments obtained against the
+Company, directors and officers.
+A majority of the Company’s directors and officers are nationals and/or residents of countries other than the
+United States, and all or a substantial portion of such persons’ assets are located outside the United States.
+Consequently, it may be difficult for United States investors to effect service of process in the United States
+upon those directors or officers who are not residents of the United States, or to realize in the United States
+upon judgments of United States courts predicated upon civil liabilities under United States legislation.
+There is substantial doubt whether an original action based solely upon such civil liabilities could be brought
+successfully in Canada against any of such persons or the Company.
+Risks Relating to the Company’s Common Stock
+If the Company’s business is unsuccessful, its shareholders may lose their entire investment.
+Although shareholders will not be bound by or be personally liable for its expenses, liabilities or obligations
+beyond their total original capital contributions, should it suffer a deficiency in funds with which to meet its
+obligations, the shareholders as a whole may lose their entire investment in the Company.
+Trading of the Company’s common shares on the OTCQB (operated by the OTC Markets Group) and the
+TSX Venture Exchange is limited and sporadic, making it difficult for the Company’s shareholders to sell
+their shares or liquidate their investments.
+The trading price of the Company’s common shares has been and may continue to be subject to wide
+fluctuations. The stock market has generally experienced extreme price and volume fluctuations that have
+often been unrelated or disproportionate to the operating performance of companies with little or no current
+business operations. There can be no assurance that trading prices and price earnings ratios previously
+experienced by the Company’s common shares will be matched or maintained. These broad market and
+industry factors may adversely affect the market price of the common shares, regardless of the Company’s
+operating performance. In the past, following periods of volatility in the market price of a company’s
+securities, securities class-action litigation has often been instituted. Such litigation, if instituted, could result
+in substantial costs for the Company and a diversion of management’s attention and resources.
+Investors’ interests in the Company will be diluted and investors may suffer dilution in their net book value
+per share if it issues additional options to any of its officers, directors, employees or consultants.
+Because the Company’s success is highly dependent upon its directors, officers and consultants, it has
+granted, and may again in the future grant, options to some or all of its key officers, directors, employees and
+consultants to purchase its common shares as non-cash incentives. Options may be granted at exercise
+prices below that of its common shares prevailing in the public trading market at the time or may be granted
+at exercise prices equal to market prices at times when the public market is depressed. To the extent that
+significant numbers of such options may be granted and exercised, the interests of the Company’s other
+shareholders may be diluted.
+Investors’ interests in the Company will be diluted and investors may suffer dilution in their net book value
+per share if the Company issues additional shares or raises funds through the sale of equity securities.
+In the event that the Company is required to issue additional shares in order to raise financing, investors’
+interests in the Company will be diluted and investors may suffer dilution in their net book value per share
+depending on the price at which such securities are sold. The dilution may result in a decline in the market
+price of the Company’s shares.
+19
+Penny stock rules limit the ability of the Company’s shareholders to sell their stock.
+The Securities and Exchange Commission has adopted regulations which generally define “penny stock” to
+be any equity security that has a market price (as defined) less than $5.00 per share or an exercise price of
+less than $5.00 per share, subject to certain exceptions. The Company’s securities are covered by the penny
+stock rules, which impose additional sales practice requirements on broker-dealers who sell to persons
+other than established customers and accredited investors. The penny stock rules require a broker-dealer,
+prior to a transaction in a penny stock not otherwise exempt from the rules, to deliver a standardized risk
+disclosure document in a form prepared by the Securities and Exchange Commission, which provides
+information about penny stocks and the nature and level of risks in the penny stock market. The broker-
+dealer also must provide the customer with current bid and offer quotations for the penny stock, the
+compensation of the broker-dealer and its salesperson in the transaction and monthly account statements
+showing the market value of each penny stock held in the customer’s account. The bid and offer quotations,
+and the broker-dealer and salesperson compensation information, must be given to the customer orally or in
+writing prior to effecting the transaction and must be given to the customer in writing before or with the
+customer’s confirmation. In addition, the penny stock rules require that prior to a transaction in a penny stock
+not otherwise exempt from these rules, the broker-dealer must make a special written determination that the
+penny stock is a suitable investment for the purchaser and receive the purchaser’s written agreement to the
+transaction. These disclosure requirements may have the effect of reducing the level of trading activity in the
+secondary market for the stock that is subject to these penny stock rules. Consequently, these penny stock
+rules may affect the ability of broker-dealers to trade its securities.
+The Financial Industry Regulatory Authority, or FINRA, has adopted sales practice requirements which may
+also limit a shareholder’s ability to buy and sell the Company’s stock.
+In addition to the “penny stock” rules described above, FINRA has adopted rules that require that in
+recommending an investment to a customer, a broker-dealer must have reasonable grounds for believing
+that the investment is suitable for that customer. Prior to recommending speculative low priced securities to
+their non-institutional customers, broker-dealers must make reasonable efforts to obtain information about
+the customer’s financial status, tax status, investment objectives and other information. Under interpretations
+of these rules, FINRA believes that there is a high probability that speculative low priced securities will not
+be suitable for at least some customers. FINRA requirements make it more difficult for broker-dealers to
+recommend that their customers buy its common stock, which may limit your ability to buy and sell its stock
+and have an adverse effect on the market for its shares.
+The Company does not intend to pay dividends on any investment in the shares of stock of the Company.
+The Company has never paid any cash dividends and currently do not intend to pay any dividends for the
+foreseeable future. To the extent that the Company requires additional funding currently not provided for in
+its financing plan, its funding sources may prohibit the payment of a dividend. Because the Company does
+not intend to declare dividends, any gain on an investment in the Company will need to come through an
+increase in the stock’s price. This may never happen and investors may lose all of their investment in the
+Company.
+OTHER INFORMATION
+The Company’s website address is www.replicel.com. Other information relating to the Company may be
+found on SEDAR at www.sedar.com
+BOARD APPROVAL
+The board of directors of the Company has approved this MD&A
+20

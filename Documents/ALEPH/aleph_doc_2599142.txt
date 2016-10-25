@@ -1,0 +1,8225 @@
+
+T E C H N I C A L   R E P O R T
+GRANDUC PROPERTY
+NORTHWESTERN BRITISH COLUMBIA,
+CANADA
+Skeena Mining Division
+104B/1E, 1W, 8W 
+Latitude: 5614' N
+Longitude: 13020' W
+For:
+Castle Resources Inc.
+20 Victoria Street, 8th Floor 
+Toronto, Ontario M5C 2N8
+By:
+Paul J. McGuigan, P.Geo. 
+Don J. Harrison, P. Geo. 
+Cambria Geosciences Inc. 
+303-5455 West Boulevard 
+Vancouver, B.C. V6M 3W5
+Date:
+June 30, 2010
+Revised July 4, 2010
+TABLE OF CONTENTS
+Summary .................................................................................................1
+Introduction ............................................................................................5
+Disclaimer ...............................................................................................6
+Property Description and Location ..........................................................6
+Location ..............................................................................................6
+Bell Copper Corporation Option Agreement .........................................10
+Regulatory & Environmental ...............................................................11
+Accessibility & Infrastructure ..................................................................11
+History ....................................................................................................12
+Regional Geological Setting .....................................................................14
+Historic Geologic Mapping Programs ...................................................14
+Stratigraphy ........................................................................................14
+Western series (Upper Triassic Stuhini Group) .......................................... 14
+Eastern series (Lower to Middle Jurassic Hazelton Group) .......................... 16
+Intrusions ...........................................................................................17
+Bucke Glacier stock .............................................................................. 17
+Syenite sills (and dykes) ....................................................................... 17
+Lee Brant stock .................................................................................... 17
+Structure .............................................................................................17
+Property Geological Setting .....................................................................21
+Stratigraphy ........................................................................................21
+Footwall series (Units 1 and 2) ............................................................... 22
+Mine series (Unit 3) .............................................................................. 22
+Hangingwall series (Units 4 to 8) ............................................................ 23
+Lithogeochemistry ................................................................................ 24
+II
+Intrusions ...........................................................................................25
+Bucke Glacier stock .............................................................................. 25
+Syenite sills (and dykes) ....................................................................... 25
+Lee Brant stock .................................................................................... 26
+Structure .............................................................................................26
+Folding ............................................................................................... 26
+Faulting .............................................................................................. 27
+Deposit Types ..........................................................................................28
+Mineralization .........................................................................................30
+Volcanogenic Massive Sulphide Zones .................................................30
+Granduc Deposit ..................................................................................31
+North Zone ..........................................................................................32
+South Zone ..........................................................................................32
+Exploration ..............................................................................................33
+Exploration Programs 2005-2006 .......................................................33
+AeroTEM II Airborne Geophysical Survey ............................................34
+Magnetic Response ............................................................................... 34
+AeroTEM II Electromagnetic Survey ........................................................ 34
+Prospecting .........................................................................................37
+Drilling ....................................................................................................38
+Diamond Drilling .................................................................................38
+South Leduc - South Zone Drilling Results ...........................................38
+JK Zone Drilling Results ......................................................................38
+Sampling Method and Approach ..............................................................40
+Sample Preparation, Analyses and Security ............................................41
+Data Verification .....................................................................................41
+III
+Mineral Resource Estimates ....................................................................43
+Granduc Mine ......................................................................................43
+North Zone ..........................................................................................45
+Interpretation and Conclusions ...............................................................46
+Geology ...............................................................................................46
+Mineralization .....................................................................................48
+Discussion of Exploration Targets .......................................................50
+General .............................................................................................. 50
+Target 1: Down plunge of the existing Granduc deposit. ............................ 51
+Target 2: South Zone. .......................................................................... 51
+Target 3: Beneath the South Leduc glacier. ............................................. 53
+Target 4: North Zone. ........................................................................... 53
+Target 5: F Zone Extension. .................................................................. 53
+Recommendations ...................................................................................54
+Phase One Exploration Program (2010) ..............................................54
+Data Verification and Data Presentation ................................................... 54
+Geophysical Program ............................................................................ 55
+Geological Program .............................................................................. 55
+Diamond Drilling Program ...................................................................... 56
+Mineral Resource Estimate ..................................................................... 57
+Budget Estimate for Phase One Program (2010): $2.9 Million ..................... 57
+Phase Two Exploration Program (2011) ..............................................58
+Budget Estimate for Phase Two Program (2011): $6.0 Million ..................... 58
+Date and Signature .................................................................................58
+References ..............................................................................................59
+Appendix I – Granduc Property Tenures .................................................62
+IV
+Appendix II – Other Mineral Tenures ......................................................64
+Appendix III - Qualified Person’s Statement ...........................................65
+Certificate of Author – Paul J. McGuigan .............................................65
+Certificate of Author – Don J. Harrison ................................................67
+List of Figures
+Figure
+No. 
+1
+Name of Figure
+Location Map
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+Mineral Tenures – MCX
+Mineral Tenures – Crown Granted Claims
+Granduc Mine – Longitudinal Projections – Looking East
+Regional Geology
+Property Geology – North Sheet
+Property Geology – South Sheet
+Legend for Property Geology Maps
+TMI (Magnetics) colour map overlain on 1DV shaded map
+AeroTEM II Airborne Survey: Overview Map of EM Anomaly Picks
+Granduc Mine - Longitudinal Projections - Exploration Targets
+List of Tables
+Table No.  Name of Table
+1
+2
+3
+4
+5
+Tonnage and grade of Major Besshi-type deposits
+South Leduc and South Zone Diamond Drilling Results
+JK Zone Diamond Drilling Results 
+Historical Compilation of Mineral Resource Estimates to 1984 (Grade 
+is in %Cu) 
+Historic Mineral Resource Estimates above Sea Level (1983)
+Page
+7
+8
+9
+12
+14
+18
+19
+20
+36
+38
+52
+Page
+29
+39
+40
+44
+45
+V
+List of Plates
+Photo
+No. 
+1
+2
+3
+Name of Photo 
+Granduc Deposit – B1 Ore body – Massive pyrrhotite-chalcopyrite-
+pyrite 
+Granduc Deposit - B1 Ore body - F2 fold closure in massive 
+sulphides 
+Granduc Deposit - B1 Ore body - Breccia Sulphides
+Page
+30
+31
+32
+VI
+SUMMARY
+The  Granduc  deposit,  located  40  km  northwest  of  Stewart  in  northwestern  British 
+Columbia (Fig. 1), is a copper-rich syngenetic volcanogenic massive sulphide deposit 
+hosted in strongly deformed volcanic, chemical, and clastic sedimentary rocks.
+The  Granduc  Property  (the  “Property”)  is  100%  owned  by  Bell  Copper  Corporation 
+(“Bell  Copper”),  and  is  under  a  binding  Letter  of  Intent  to  be  Optioned  by  Castle 
+Resources  Inc.  (“Castle”).  The  Property  consists  of  a  central  parcel  of  64  Crown 
+Granted mineral claims, comprising 1090.97 hectares and 38 MCX mineral tenures, 
+comprising 12,422.90 ha.
+Rocks mapped on Granduc mountain and to the north are separated into two easily 
+recognizable geological successions (Figs. 5,6,7): Upper Triassic and Lower to Middle 
+Jurassic  age  successions, termed  in  earlier  studies  the western  and eastern  series, 
+respectively. The Triassic and Jurassic successions are separated on the Property by 
+the north-northwest striking South Unuk shear zone (Figure 5; Lewis, 1994).
+The Late Triassic or older strata are correlated with the Stuhini Group. They consist 
+of  moderately  to  highly  foliated  schists,  phyllites,  marbles  and  gneisses.  North  of 
+Granduc  mountain  and  the  North  Leduc  glacier,  Late  Triassic  rocks  are  subdivided 
+into six lithological rock types; similar rock types on Granduc mountain (units 1-8) 
+have  been  described  by  Klepacki  and  Read  (1981)  and  include  the  Granduc  Mine 
+series  (McGuigan  and  Tucker,  1981).  U-Pb  analyses  of  zircons  collected  from  the 
+western series mafic volcanic rocks (North Zone) are 230.5 + 14 Ma (Childe, 1994). 
+An intermediate sill that intrudes the mafic volcanics has an identical age within error 
+of 232 + 3 Ma.
+The Lower to Middle Jurassic age eastern series rocks are correlated with the Lower 
+to  Middle  Jurassic  Hazelton  Group.  They  consist  of  relatively  undeformed,  mainly 
+volcanic  rocks  that  are  subdivided  into  three  conformable  stratigraphic  units  (units 
+15-17). U-Pb analysis of zircon from dacitic tuffs (unit 16) north of the North Leduc 
+glacier returned a date of 186.8 + 9 Ma. An identical age within error of 185.4 + 9 
+Ma  was  obtained  from  a  felsic  lapilli  tuff  approximately  7  km  to  the  south  (Childe, 
+1994). This unit is similar in age to felsic units in the footwall of the precious metal 
+rich  Eskay  Creek  massive  sulphide  deposit  (Bartsch,  1993)  and  correlate  with  the 
+Betty Creek formation.
+The  South Unuk  shear  zone  is  a north-northwest  striking  subvertical  fault  that  has 
+dominantly a sinistral sense of displacement; it is mapped from the Iskut river area 
+south  to  Granduc  mountain,  a  distance  of  60  km  (Lewis,  1994).  The  shear  zone 
+terminates at the contact with the younger Coast Range intrusive suite lying south of 
+the Property.
+On  Granduc  mountain,  and  to  the  north  (Divelbliss,  Duke  and  North  Leduc  areas), 
+Late  Triassic  rocks  record  strongly  heterogeneous  deformation  with  a  large 
+component of simple shear in a ductile to semi-brittle environment; these features 
+indicate  western  series  rocks  should  be  included  as  part  of  the  shear  zone  (Lewis, 
+1994).  The  linear  associated  with  the  South  Unuk  shear  zone  north  of  the  North 
+Leduc glacier is on trend with the HKF fault mapped by McGuigan and Marr (1979).
+1
+The HKF fault is a north-northwest striking steeply dipping fault; locally, a ultramafic 
+horizon of dunite, talc-chlorite schist and chlorite-serpentine schist occurs along the 
+fault.
+The  first  two  phases  of  deformation  are  the  most  intense  and  affected  the 
+distribution of ore bodies underground in the Granduc Mine. Lewis (1994) attributes 
+F1 and F2 folds on Granduc mountain to progressive deformation associated with the 
+South  Unuk  shear zone.  This  new interpretation  is  significant because  according  to 
+Lewis (1994) a major F1 fold is unlikely, and its postulated occurrence should not be 
+used to guide exploration.
+A limited lithogeochemical study of mainly western series rocks from the North Zone 
+(Figs. 6,7; Granduc mountain) indicates the volcanic rocks are mainly mafic with a 
+tholeiitic magma affinity (Barrett, 1994). These rocks are most like mid-ocean ridge 
+or  marginal  basin  basalts  (Wilson,  1989).  However,  the  slightly  enriched  LILE  and 
+gentle negative REE pattern suggests some crustal contamination from a subduction 
+zone. Rocks logged as 'cherty tuff' or 'dacitic tuff' have REE patterns similar to that 
+of the mafic volcanic rocks indicating they are not dacitic in composition as logged in 
+the  field.  A  ‘mafic’  sill  (field  term)  within  the  Footwall  series  rocks  is  chemically 
+intermediate in composition and has a similar, but elevated REE pattern compared to 
+the  mafic  volcanics.  The  similar  REE  element  chemistry  and  the  identical  U-Pb 
+(zircon)  dates  from  these  units  suggest  they  are  genetically  related.  The 
+intermediate sill is similar in composition and age to the Bucke Glacier stock and is 
+tentatively correlated with this suite of intrusions.
+Lead  (galena  and  microcline)  isotope  analysis  of two samples  from  the  B  ore body 
+indicate  the  lead  is  relatively  non-radiogenic,  and  compared  to  mineralization  of 
+known age within Stikinia, indicates a pre-Jurassic age (Childe, 1994).
+Total  mineral  resources  for  the  Granduc  mine  were  historically  reported  as  an  “in-
+situ”  estimate  of  grades  and  tonnages  with  no  allowance  for  grade  dilution  or 
+recoverable  tonnages  during  mining  (Schmidt,  et  al  1983).  During  the  life  of  the 
+Granduc  mine,  mineral  resource  estimates  depended  on  closely  spaced  diamond-
+drilling sections and sampling of drifts and crosscuts.
+Although current practice would regard the historical mineral resource information as 
+an  “Indicated  Mineral  Resource”  under  the  definitions  presented  by  the  Canadian 
+Institute  of  Mining,  Metallurgy  and  Petroleum,  as  the  CIM  Standards  on  Mineral 
+Resources  and  Reserves  Definitions  and  Guidelines  adopted  by  CIM  Council  on 
+August 20, 2000, those resources were not suitable to be termed such in this report, 
+due to a lack of necessary verification by the authors. These historical estimates are 
+relevant  only  as  geological  information  for  the  purposes  of  targeting  future 
+exploration.
+The total historic mineral estimate prepared by Newmont, in 1966, for in-situ mineral 
+resources  above  the  1600  level,  was  39,442,403  tonnes  grading  1.73%  copper 
+(Schmidt,  et  al  1983).  Low  copper  prices  forced  the  closure  of  the  mine  and 
+demolition  of  the  mill  facilities  in  1985.  Prior  to  the  closure  of  the  mine,  the 
+remaining in-situ resources were estimated to be 5,083,178 tonnes, grading 1.84% 
+copper,  not  including  the  copper-rich  massive  sulphide  mineralization  in  the  North 
+Zone  (Schmidt,  et  al  1983).  The  reader  of  this  report  cannot  depend  on  these
+2
+historical  mineral  resource  estimates  to  conform  to  the  standards  of  NI  43-101. 
+Furthermore, the reader is cautioned not to rely upon these historic mineral resource 
+estimates. They are considered geological information only.
+The  Property  contains  mafic  to  intermediate  volcanic  rocks  within  a  clastic 
+sedimentary succession of Upper Triassic age. The Granduc deposits (Figs. 6,7), are 
+aerially extensive Besshi-type copper-silver volcanogenic massive sulphide deposits.
+The  focus  on  this  exploration  program  should  be  for  the  discovery  of  a  new,  large 
+volcanogenic  massive  sulphide  deposit.  The  Granduc  deposit  has  strong  geological 
+similarities to the Windy Craggy deposit, which lies at the northwestern extremity of 
+British Columbia. These similarities include host rock chemistry and lithologies, age, 
+tectonic setting and mineralogy. The Windy Craggy is a good geological analogue for 
+the exploration target at Granduc. The Windy Craggy is the largest Besshi deposit in 
+the world and several alternate mineral resource estimates for the deposit range in 
+magnitude between 210 and 320 million tonnes grading about 1.66% copper, 0.09% 
+cobalt, 3.5 grams silver and 0.2 gram gold. All correspond to “Indicated Resources” 
+under  the  current  standards  of  the  CIM.  These  figures  are  derived  from  public 
+statements  made  by  Geddes  Resources  and  should  be  considered  geological 
+information  only.  The  reader  cannot  rely  on  the  Windy  Craggy  resource  estimate 
+disclosures of Geddes or this author to be in conformity with sections 1.3 or 1.4 of NI 
+43-101, or to reflect the actual size and grade of the deposit.
+Data  from  past  operations  indicates  it  is  geologically  reasonable  to  target  the 
+following deposit characteristics:
+1.  Besshi-type  (mafic-siliclastic  type)  massive  sulphide  targets  for  40  to  150 
+million  tonnes  of  1.5  to  2.5%  copper  with  zinc,  silver,  gold  and  cobalt 
+contents.
+2.  Higher grade Besshi-type massive sulphide deposits, more proximal to a vent
+source, stringer zones and with superior deposition sites;
+3.  Plunging  zones  of  very  high  grade  massive  sulphides,  in  areas  of
+remobilization and structural repetition by F2 fold structures;
+Exploration  is  recommended  in  the  following  target  areas  to  test  for  Besshi 
+volcanogenic massive sulphide deposits (See Fig. 11):
+1.  Target 1: Down plunge of the existing Granduc deposit, in areas down
+plunge of the thickest and highest grade ore bodies, the F and B1 (Fig. 11)
+2.  Target  2:  South  Zone,  beneath areas grading in excess of 3% copper, as 
+diamond drilling in 2006 did not test the full succession of Mine Series rocks 
+in that area.
+3.  Target  3:  Under  the  South  Leduc  glacier.  The  B1  ore  body  forms  a 
+distinct  magnetic  anomaly  which  was  traced  under  the  South  Leduc  glacier 
+(Fig. 11) by diamond drilling in 2005. These horizons are probably modified 
+by F2 folds, with steep to vertical plunges.
+3
+4.  Target  4:  North  Zone.  Alteration  indicates  that  this  zone  is  proximal  to  a
+feeder zone, and higher grades might be encountered (Fig. 11).
+5.  Target  5:  F  Zone  Extension.  The  F  Zone  terminates  on  its  northern 
+extremity  against  the  Granduc  Fault  (Fig.  11).  Reconstruction  of  movement 
+on  the  Granduc  and  Western  faults,  indicates  a  target  area  in  the  western 
+side (hanging wall) of the Western fault zone. Target 5 is located at the same 
+elevation as the F ore body, but approximately 1 to 4 km north-northwest.
+A  two-year,  two  phase  exploration  program  is  recommended.  The  highest 
+priority  is  the  drilling  of  Targets  1  and  3,  to  confirm  and  define  accessible  in-situ 
+mineral  resource  blocks  in  and  proximal  to  the  historic  workings  of  the  Granduc 
+Mine:
+1.
+2.
+Phase One exploration program comprises 7000m of diamond drilling and 
+technical work, at an estimated cost of $2.9 million, with an emphasis on 
+verification  and  diamond  drill  testing  of  remaining  historic  mineral 
+resources  proximal  to  the  mine  workings  (Targets  1  and  3),  and  the 
+preparation  of  a  mineral  resources  estimate  that  conforms  to  the 
+guidelines of the Instrument; and
+Phase Two exploration program, is success contingent on Phase One, and 
+is  for  15,000m  of  diamond  drilling  and  comprises  $6.0  million  of  work, 
+during  the  second  year  exploration  season.  Depending  on  results  from 
+Phase  One,  Phase  Two  will  infill  the  drilling  of  Targets  1  and  3,  plus 
+conduct exploration on Targets 4 and 5.
+The total estimated expenditure for the recommended Phase One and Phase 
+Two exploration program is $8.9 million.
+4
+INTRODUCTION
+The  authors  were  requested  by  Castle  Resources  Inc.  (“Castle”)  to  prepare  a 
+Technical  Report  on  the  geology  and  exploration  potential  of  the  Granduc  Mine 
+property, northwestern BC (the “Property”). The report has been prepared under the 
+guidelines  of  National  Instrument  43-101  and  accompanying  documents  43-101.F1 
+and  43-101.CP  ("NI43-101"  or  the  “Instrument”)  and  is  based  on  historical  mine 
+records  (1960-85),  and  several  technical  fieldwork  studies  (1991-94)  and  recent 
+exploration  programs  (2005-06).  This  report  is  an  update  of  a  previous  report 
+prepared  for  Bell  Resources  Corporation  (“Bell  Copper”)  submitted  under  the 
+guidelines of the Instrument (McGuigan, 2005).
+The report was prepared to identify exploration targets and guide the next phase of 
+exploration.  The  known  Granduc  copper  (-gold-silver)  deposits  are  included  in  this 
+summary,  but  a  verification  of  the  historic  mineral  resource  estimates  reported  by 
+past operators is beyond the scope of this report.
+The authors visited the Property for two days in May 2010, to familiarize themselves 
+with  the  latest  exploration  programs.  Prior  field  involvement  of  the  authors  in  the 
+Granduc  spans  all  programs  since  1979  on  the  Property,  except  for  a  2006 
+exploration program by Bell Copper. One author (McGuigan) was a Senior Geologist 
+for Esso Resources Canada at the time of their operation of the Granduc Mine from 
+1979 to 1984. He led the geological teams that mapped the surface of the mine and 
+surrounding  areas  (McGuigan  and  Marr,  1979),  surface  diamond  drilling  and  re-
+establishing  underground  mapping  procedures  (McGuigan,  1981).  The  author  is  a 
+principal of Cambria Geological Ltd. that conducted surface geological mapping and 
+re-logging of diamond drill core (Melnyk, 1991; McGuigan, et al 1992; and Dawson, 
+et al 1994). The author (McGuigan) visited the site of the Granduc mine in 2004, and 
+observed no evidence of surface or underground work since the decommissioning of 
+the mine site in 1984. He has personally supervised and attended the field work on 
+each  of  the  above  cited  programs.  In  2005,  McGuigan  was  retained  to  prepare  a 
+NI43-101  technical  report  for  Bell  Copper.  Subsequently,  McGuigan  and  Harrison 
+supervised  the  2005  exploration  program  of  Bell  Copper,  that  included  diamond 
+drilling of the southern extensions of the main mineralized horizons in the Granduc 
+Mine.
+In  addition  to  work  supervised  by  the  authors,  important  contributions  of  other 
+geologists  are  acknowledged.  McDonald  (1981)  contributed  an  early  study  on  the 
+petrography  of  the  mine  series  lithologies.  Surface  structural  mapping  by  Klepacki 
+and Read (1981) is used extensively in this report. Subsequently, Cambria conducted 
+field research on the Property in 1991-94 for Hecla Mining Company. As part of that 
+Cambria  supervised  work  (Melnyk,  1991;  Dawson,  1994),  Barrett  (1994),  Lewis 
+(1994),  Childe  (1994)  of  the  Mineral  Deposits  Research  Unit  (“MDRU”)  of  the 
+University of British Columbia made significant contributions.
+References to Mine Grid, Levels or elevations within the mine are in Imperial units in 
+order to maintain common cross-references to the historic identification of the mine 
+working locations. Coordinates used otherwise are noted in each citation and given in 
+UTM NAD 83 datum, in metres.
+5
+DISCLAIMER
+The authors rely on several historic mineral resource estimates (and reconciliations 
+to  production)  on  the  Granduc  deposit  prepared  by  qualified  independent  mining 
+consultants,  and  by  Newmont  and  Esso  professionals  during  the  period  1963  to 
+1983. These mineral resource estimates appear to generally conform to standards in 
+use during the periods that the each estimate was made. They appear acceptable to 
+the  authors  with  the  qualification  that  they  remain  unverified  and  must  be 
+considered  geological  information  only.  However,  none  of  these  mineral  resource 
+estimates meet current standards for reporting of mineral resources in Canada under 
+the  Instrument.  The  reader  must  not  depend  on  these  historic  mineral  resource 
+estimates.
+PROPERTY DESCRIPTION AND LOCATION
+LOCATION 
+The  Granduc  Property (the “Property”)  is  located  in  northwestern  British  Columbia, 
+Canada, 900 km northwest of Vancouver and 40 km northwest of Stewart (Fig. 1). It 
+is located on NTS Maps 104B/1E, 1W, 8W and centered near longitude 13020' and 
+latitude 5614'.
+The Property is comprised of three parcels of mineral tenures (Figs. 2, 3, Appendices 
+I, II):
+a)  A contiguous block of 64 Crown Granted claims that total 1090.97 hectares in 
+area;  the  list  of  claims  is  given  in  Appendix  I;  all  claims  are  located  in  the 
+Skeena Mining Division.
+b)  MCX  mineral  tenures  owned  100%  by  Bell  Copper,  comprising  15  titles  and
+5637.2 hectares.
+c)  MCX  mineral  tenures  (the  “Silver  Leduc”  parcel)  under  option  from  Teuton
+Resources Corp., comprising 13 titles and 6785.7 hectares.
+The Crown Granted claims were legally surveyed as part of the granting process and 
+the  locations  of  those  surveys  has  been  tied  into  “Hole  1”  survey  monument, 
+coordinates  for  which  are  known  in  both  the  Granduc  Mine  Grid  and  in  relation  to 
+first-order survey monuments in the area of the mine.
+All  other  mineral  tenures  are  located  under  the  MCX  system  and  do  not  require 
+surveying to confirm their location and boundaries. Areas cited above are nominal, 
+and do not fully reflect the prior titles of the Crown Granted claims. Prior titles will 
+reduce the actual area held by the MCX mineral tenure.
+6
+ESKAY CREEK
+GOLD SILVER MINE
+!
+$%37
+GRANDUC
+PROPERTY
+[_
+!
+N
+'
+"
+0
+0
+°
+6
+5
+$%37a
+Stewart
+CANAL
+!
+!
+RED MOUNTAIN
+DOLLY VARDEN
+(Past Producer)
+Kitsault
+!
+!
+!
+A L A S K A
+D
+N
+A
+L
+T
+R
+O
+P
+INLET
+BC MOLY
+OBSERVATORY
+B R I T I S H
+C O L U M B I A
+PACIFIC
+Prince Rupert
+!
+$%16
+'
+N
+"
+0
+0
+°
+4
+5
+OCEAN
+0
+10
+20
+40
+60
+80
+Kilometers
+1:1,600,000
+Granduc_June2010_43101_LocationMap_Figure1.mxd
+130°0'0"W
+130°0'0"W
+128°0'0"W
+Y TY T
+N TN T
+O
+O
+A BA B
+Map Area
+STEWART
+!
+PRINCE
+RUPERT
+!
+PRINCE GEORGE
+!
+B . C .
+B . C .
+VICTORIA
+VANCOUVER
+!
+[
+U . S . A
+U . S . A
+'
+N
+"
+0
+0
+°
+6
+5
+!
+Hazelton
+$%16
+Smithers
+!
+$%37
+Kitwanga
+!
+37
+$%16 -
+Terrace
+!
+$%37
+Kitimat
+!
+N
+'
+"
+0
+0
+°
+4
+5
+Castle Resources Inc.
+GRANDUC PROPERTY
+Northwest British Columbia, Canada
+Morice Lake
+Morice Lake
+Location
+Project: Granduc
+Cambria Geosciences Inc.
+Map Prepared by: D. Metvedt
+Figure: 1
+Projection: BC Albers
+Date: 06/22/2010
+128°0'0"W
+O
+0
+0
+0
+0
+3
+4
+0
+0
+0
+5
+2
+4
+0
+0
+0
+0
+2
+4
+0
+0
+0
+5
+1
+4
+7
+8
+4
+5
+1
+4
+6
+8
+4
+5
+1
+4
+S   o   u   t   h    U   n   u   k     R
+v  e r
+i
+6235000
+6230000
+6225000
+l
+e
+n
+n
+u
+T
+2
+9
+8
+8
+0
+5
+0
+9
+8
+8
+0
+5
+517191
+s
+s
+e
+c
+c
+A
+e
+d
+i
+T
+n
+c
+ 
+u
+d
+n
+a
+ 
+r
+G
+i
+a
+t
+n
+u
+o
+M
+3
+8
+4
+5
+1
+4
+2
+8
+4
+5
+1
+4
+8
+2
+8
+8
+0
+5
+y
+r
+a
+d
+n
+u
+o
+B
+ 
+y
+t
+r
+e
+p
+o
+r
+P
+ 
+c
+u
+d
+n
+a
+r
+G
+9
+8
+4
+5
+1
+4
+8
+8
+4
+5
+1
+4
+Y
+T
+R
+E
+P
+O
+R
+P
+C
+U
+D
+N
+A
+R
+G
+a
+d
+a
+n
+a
+C
+,
+i
+l
+a
+b
+m
+u
+o
+C
+h
+s
+i
+t
+i
+r
+B
+t
+s
+e
+w
+h
+t
+r
+o
+N
+s
+e
+r
+u
+n
+e
+T
+l
+a
+r
+e
+n
+M
+i
+.
+c
+n
+i
+I
+ 
+s
+e
+c
+n
+e
+c
+s
+o
+e
+G
+a
+i
+r
+b
+m
+a
+C
+c
+u
+d
+n
+a
+r
+G
+:
+t
+c
+e
+o
+r
+P
+j
+2
+:
+e
+r
+u
+g
+F
+i
+t
+d
+e
+v
+t
+e
+M
+.
+D
+:
+y
+b
+d
+e
+r
+a
+p
+e
+r
+P
+p
+a
+M
+/
+0
+1
+0
+2
+2
+2
+6
+0
+/
+:
+t
+e
+a
+D
+3
+8
+D
+A
+N
+:
+m
+u
+a
+D
+t
+-
+9
+0
+M
+T
+U
+:
+n
+o
+i
+t
+c
+e
+o
+r
+P
+j
+)
+n
+o
+i
+t
+a
+r
+o
+p
+r
+o
+C
+r
+e
+p
+p
+o
+C
+l
+l
+s
+e
+c
+r
+u
+o
+s
+e
+R
+ 
+n
+o
+t
+u
+e
+T
+e
+B
+ 
+y
+b
+ 
+d
+e
+n
+o
+i
+t
+p
+O
+(
+#
+N
+E
+T
+.
+c
+n
+I
+s
+e
+c
+r
+u
+o
+s
+e
+R
+e
+l
+t
+s
+a
+C
+n
+o
+i
+t
+a
+r
+o
+p
+r
+o
+C
+r
+e
+p
+p
+o
+C
+l
+l
+e
+B
+#
+N
+E
+T
+d
+n
+e
+g
+e
+L
+5
+8
+4
+5
+1
+4
+4
+8
+4
+5
+1
+4
+4
+6
+1
+7
+2
+5
+8
+9
+8
+8
+0
+5
+7
+7
+7
+8
+0
+5
+5
+9
+8
+8
+0
+5
+5
+7
+7
+8
+0
+5
+L e d u c
+G l a c i e r
+5
+1
+3
+7
+2
+5
+9
+9
+2
+7
+2
+5
+3
+0
+7
+8
+0
+5
+4
+9
+8
+8
+0
+5
+3
+9
+8
+8
+0
+5
+0
+0
+0
+0
+3
+4
+0
+0
+0
+5
+2
+4
+0
+0
+0
+0
+2
+4
+0
+0
+0
+5
+1
+4
+i
+l
+i
+.
+d
+x
+m
+2
+e
+r
+u
+g
+F
+_
+s
+e
+r
+u
+n
+e
+T
+a
+r
+e
+n
+M
+_
+1
+0
+1
+3
+4
+_
+0
+1
+0
+2
+e
+n
+u
+J
+_
+c
+u
+d
+n
+a
+r
+G
+4
+1
+3
+7
+2
+5
+l
+e
+n
+n
+u
+T
+S o u t h
+Air Strip
+L e d u c
+N o r t h
+Air Strip
+5
+0
+7
+8
+0
+5
+c
+u
+d
+n
+a
+r
+G
+v
+ i
+r
+e
+c
+R
+u
+d
+e
+L
+e
+n
+M
+i
+r
+e
+i 
+ c
+a
+l
+G
+i
+l
+n
+w
+o
+r
+C
+ 
+c
+u
+d
+n
+a
+r
+G
+s
+m
+a
+C
+d
+e
+n
+a
+r
+G
+t
+7
+8
+8
+8
+0
+5
+8
+8
+8
+8
+0
+5
+9
+8
+8
+8
+0
+5
+1
+9
+8
+8
+0
+5
+6235000
+6230000
+6225000
+0
+0
+0
+4
+3
+2
+6
+0
+0
+0
+3
+3
+2
+6
+0
+0
+0
+2
+3
+2
+6
+0
+0
+0
+1
+3
+2
+6
+0
+0
+0
+0
+3
+2
+6
+0
+0
+0
+9
+2
+2
+6
+0
+0
+0
+8
+2
+2
+6
+0
+0
+0
+7
+2
+2
+6
+415000
+416000
+417000
+418000
+419000
+External Tenure Boundary
+0O
+0
+0
+4
+3
+2
+6
+u  c          G  l  a  c  i  e  r
+d
+ 
+ 
+e
+L
+h
+t
+r
+o
+N
+Granduc Crown
+Granted Claims
+Granduc 
+Mine
+L . 6 6 1 6
+L.6591
+L.6597
+6
+9
+5
+6
+.
+L
+L.6590
+L.6592
+L.6593
+L.6594
+L.6589
+L.6595
+L.6588
+L.6587
+L.6586
+L.6585
+L.6581
+L.6582
+L.6583
+[
+L.6584
+North Zone
+L.6580
+L.6579
+L.6578
+L.6577
+L.6573
+L.6574
+L.6575
+L.6576
+5
+1
+6
+L.6
+L.6614
+L.6613
+G r a n d u c 
+M o u n t a i n
+#
+T u n n e l
+t o
+T i d e       L a k e
+L.6657
+L.6656
+L.6655
+L.6654
+L.6569
+L.6568
+L
+.
+6
+6
+1
+2
+L.6598
+L.6570
+L.6599
+L
+6
+6
+1
+.
+L.6566
+S  o  u  t  h          L  e  d  u  c
+L.6565
+0
+L.6658
+L.6567
+L.6611
+L.6564
+2
+0
+6
+6
+G
+.
+L
+l  a  c  i  e  r
+L.6563
+L.6672
+3
+0
+6
+6
+.
+L
+L.6601
+L.6562
+[
+L.6666
+L.6621
+South Zone
+L.6665
+L.6620
+L.6664
+L.6619
+L.6600
+L.6617
+L.6663
+L
+.
+6
+6
+6
+7
+L.6618
+L.6670
+Castle Resources Inc.
+GRANDUC PROPERTY
+Northwest British Columbia, Canada
+Claim Map
+Granduc_June2010_43101_CrownGrant_Tenures_Figure3.mxd
+415000
+416000
+0
+500
+Meters
+Project: Granduc
+Cambria Geosciences Inc.
+Map Prepared by: D. Metvedt
+Figure: 3
+Projection: UTM 09 - Datum: NAD83
+Date: 06/22/2010
+417000
+418000
+419000
+0
+0
+0
+3
+3
+2
+6
+0
+0
+0
+2
+3
+2
+6
+0
+0
+0
+1
+3
+2
+6
+0
+0
+0
+0
+3
+2
+6
+0
+0
+0
+9
+2
+2
+6
+0
+0
+0
+8
+2
+2
+6
+0
+0
+0
+7
+2
+2
+6
+BELL COPPER CORPORATION OPTION AGREEMENT 
+The  Property  is  100%  owned  by  Bell  Copper  Corporation.  Bell  Copper  Corporation 
+was formed  in  a business  combination  that was  completed  in May 2008.  Formerly,  
+the  company  was  named  Bell  Resources  Corporation.  Herein,  they  are  together 
+termed “Bell Copper”.
+Castle and Bell Copper have entered into a binding LOI that will allow Castle to earn 
+up to a 90% interest in the Granduc Mine and surrounding areas over a 6 year option 
+period. The binding LOI is subject to a 60 day due diligence period. A $20,000 non- 
+refundable payment was paid to Bell Copper upon the signing of the binding LOI. The 
+transaction is subject to regulatory approval.
+Castle can earn an 80% undivided interest in the Granduc Mine during this period. 
+Castle  will  have  the  option  to  earn  an  additional  10%  interest  by  providing  the 
+financing to Bell Copper after a positive feasibility study is made, in order to put the 
+Granduc into production.
+As part of the option earn-in agreement Castle will commit to spending a total of $25 
+million  over  6  years  (incl.  $2.5  million  in  Year  1)  on  the  Property  and  commit  to 
+spending a minimum of $2 million per year with the contingency of a one-time catch 
+up year when Castle does not spend a minimum of $2 million in the previous year.
+Castle  will  earn  a  51%  interest  at  the  end  of  Year  3  should  it  spend  a  total  of  $7 
+million in exploration and drilling expenses.
+At  closing  of  this  transaction  Castle  will  pay  $2.5  million  to  Bell  Copper  (of  which 
+$500,000  will  be  spent  in  the  first  year  on  the  Granduc  Mine  to  the  credit  of  Bell 
+Copper) and will pay 250,000 Castle common shares per year during the 6-year life 
+of the option (total of 1,500,000 common shares).
+The  Property  is  subject  to  a  2%  Net  Smelter  Return  royalty  (“NSR”),  payable  to 
+Glencairn  Gold  Corporation,  now  Central  Sun  Mining  Inc.,  which  is  a  subsidiary 
+company of B2Gold Corp. The NSR can be purchased by Castle for $500,000 for the 
+first one percent (1%) and $1 million for the remaining one percent (1%).
+Teuton Resources Corp. will retain a 1.5 % NSR on the Silver Leduc parcel and on 
+Bell  Copper's  four  claims  to  the  north  of  the  Silver  Leduc  claims  (No.  415486,  No. 
+415487, No. 415488 and No. 415489). Bell Copper's Granduc Crown Granted claims 
+are excluded from this NSR agreement.
+The  NSR  is  subject  to  an  annual  advance  royalty  payment  of  $50,000  comprising 
+cash and shares. The cash component of the advance royalty will be $25,000 and the 
+share component will be $25,000 payable in common shares to be calculated as the 
+average price of the shares of Castle over the previous 10 trading days prior to the 
+annual Dec. 31 payment date.
+Neither  Bell  Copper  nor  Castle  reports  any  royalties,  back-in  rights,  payments  or 
+other  agreements  and  encumbrances  to  which  the  Property  is  subject,  other  than 
+disclosed above.
+10
+REGULATORY & ENVIRONMENTAL 
+The authors know of no environmental liabilities to which the Property is subject, the 
+mine having been closed under proper Mines Act regulations in 1985.
+Taxes are fully paid on the Crown Granted claims and the titles are in good standing.
+The MCX mineral tenures are all in good standing until March 1, 2016.
+To diamond drill on the Property, exploration permits and bonds must be obtained; 
+these permits, that cover the recommended program herein, have been applied for 
+and  the  authors  expect  Castle  to  be  in  receipt  of  the  permits  before  any  surface 
+diamond drilling program commences.
+Crown  Granted  claims  include  the  right  to  employ  the  surface  over  these  Crown 
+Grants for mine access as well as mine and mill facilities. However, if the option to 
+rehabilitate the Granduc Tunnel and Summit Lake road access is chosen as part of 
+any  development  plan,  Castle  must  reapply  for  the  needed  right-of-ways  to  the 
+access road and tunnel. Other rights and permits would be required to conduct a full 
+mining operation at this location.
+The Crown Grants are within the municipality of Stewart, and surface improvements 
+are  subject  to  municipal  taxes.  In  the  past  these  taxes  were  used  to  maintain 
+infrastructure and schools for the community of Stewart where the mine personnel 
+were housed.
+ACCESSIBILITY & INFRASTRUCTURE
+Topography  at  the  Property  is  mountainous,  with  elevations  ranging  from  700  to 
+2000m above sea level on most of the Property (Figs. 2,3). Vegetation is mostly sub-
+alpine and alpine shrubbery, with significant snow and ice coverage. Valley glaciation 
+dominates. Most prominent on the Property are the North and South Leduc glaciers. 
+The climate is typical of northern coastal mountain ranges.
+The local community of Stewart is serviced by the Stewart-Cassiar highway (Highway 
+37  &  37A).  See  Figure  1.  Connection  to  rail  service  on  the  Yellowhead  railway  is 
+available  Kitwanga,  which  is  located  at  the  junction  of  Highway  37  and  the 
+Yellowhead Highway 6.
+Historic access to the Property is via a 35 km all weather road from the communities 
+of Stewart, BC and Hyder, Alaska to a former mill site near Summit Lake. A 17 km 
+long  tunnel  and  electric  tram  connected  the  mill  and  mine  operations.  The  access 
+road  is  currently  closed  during  the  winter  season.  Additionally,  the  portals  of  the 
+Granduc tunnel have been closed and are not available for exploration activities.
+Currently, access to the Property is by helicopter from Stewart, B.C. or a marshalling 
+point on the access road.
+In the event of a new mining operation on the Property the most favorable access 
+alternative is the rehabilitation of the Granduc tunnel. The Summit Lake road access
+11
+remains  suitable  for  year-round  operation,  with  a  winter  snow-clearing  program. 
+Electrical transmission lines now service Stewart and have been extended to within 
+20 km of the old mill site. Stewart has storage and ship loading facilities Panamax-
+size dry cargo ships. Charter helicopter bases and a paved 5000 ft. airstrip capable 
+of handling prop-driven aircraft and small business jets are located in the city.
+HISTORY
+Mineralization was first discovered on Granduc mountain by Wendell, Dawson and W. 
+Fromholz in 1931. E. Kvale and T.J. McQuillan staked the copper showings in 1951 
+for  Helicopter  Exploration  Company  Ltd.  Granby  Mining  Company  acquired  the 
+Property  in  1952  and  completed  surface  and  underground  exploration  work  under 
+their newly formed company, Granduc Mines Ltd. Newmont Mining Corporation Ltd. 
+entered  into  an  agreement  with  Granby  in  1953  whereby  Newmont  would  finance 
+mine  development.  Mine  development  commenced  in  the  early  1960s  with 
+production in 1968 at a mine/mill capacity of 2000 tpd. Between 1970 and 1978, the 
+Granduc ore body was mined by Newmont using sublevel caving mining methods.
+The  Granduc  mine  was  acquired  in  1979  by  Esso  Minerals  Canada  (Canada  Wide 
+Mines  division)  and  operated  until  closure  in  May,  1984.  After  purchasing  the 
+Property in 1979, Esso began converting to a new mining method referred to as “slot 
+and  mass  blast”.  The  initial  results  achieved  by  the  method  fell  short  of  those 
+achieved  in  the  past  with  sublevel  caving.  Continued  improvements,  however, 
+yielded  stope  recoveries  significantly  superior  to  sub-level  caving  and  significantly 
+less dilution. After closure, the Property was returned to Granduc Mines Ltd., then a 
+subsidiary of Hecla Mining Company (“Hecla”).
+Exploration  on  the  Property  during  the  period  1974  to  1984  focused  primarily  on 
+extending copper mineralization along strike north and south of the mine, in areas 
+east  of  the  Granduc  fault  (Figs.  6,7).  Work  during  that  time  discovered  the  North 
+Zone, located about 3 km north of the main mine workings (Figs. 4,6,7). No copper 
+mineralization has been discovered west of the Granduc fault on Granduc mountain.
+In  1991,  a  small  surface  exploration  program  was  funded  by  Hecla.  The  program 
+focused on several surface mineralized zones on the Property and comprised surface 
+sampling and mapping by Cambria Geological Ltd. (“Cambria”). See Melnyk (1991).
+In 1993, Hecla financed a field program that retained Cambria to conduct additional 
+mapping and sampling. Cambria conducted the work and in addition, supervised the 
+funding  of  the  Mineral  Deposits  Research  Unit  (“MDRU”)  of  the  University  of  BC  to 
+conduct  structural  mapping,  geochronology  and  lithogeochemistry  of  the  Property 
+(Dawson,  et  al,  1994).  One  author  (McGuigan)  of  this  report  supervised  the  1991 
+and  1993  programs.  Granduc  Mines  Ltd.  passed  into  the  ownership  of  Graincairn 
+Gold Corporation, but no work was done on the Property.
+In  2005,  Bell  Copper  acquired  the  Property,  initially  under  Option  from  Glencairn 
+Gold Corporation, now Central Sun Mining Inc., which is now a subsidiary company 
+of  B2Gold  Corp.  Bell  Copper  conducted  field  exploration  and  diamond  drilling 
+programs in the summer seasons of 2005 and 2006. Bell Copper is now the 100% 
+owner of the Property.
+12
+L
+S
+A
+’
+0
+0
+0
+4
+)
+d
+e
+m
+u
+s
+s
+a
+(
+2
+F
+L
+S
+A
+’
+0
+0
+0
+2
+E
+N
+O
+Z
+H
+T
+U
+O
+S
+c
+u
+d
+e
+L
+h
+t
+u
+o
+S
+r
+e
+i
+c
+a
+G
+l
+t
+u
+O
+d
+e
+n
+M
+i
+t
+f
+a
+h
+S
+2
+.
+o
+N
+0
+0
+1
+2
+2
+e
+n
+o
+Z
+0
+0
+6
+2
+E
+N
+O
+Z
+H
+T
+R
+O
+N
+°
+5
+5
+2
+F
+1
+e
+n
+o
+Z
+L
+S
+A
+’
+0
+0
+0
+6
+6000’N
+d
+r
+a
+w
+t
+s
+a
+e
+g
+n
+k
+o
+o
+L
+i
+8000’N
+10000’N
+12000’N
+n
+o
+i
+t
+c
+e
+s
+r
+e
+t
+n
+i
+t
+l
+u
+a
+F
+c
+u
+d
+n
+a
+r
+G
+-
+e
+n
+o
+Z
+F
+f
+o
+e
+k
+a
+R
+14000’N
+e
+c
+I
+d
+n
+a
+w
+o
+n
+S
+16000’N
+.
+C
+.
+B
+,
+T
+R
+A
+W
+E
+T
+S
+,
+E
+N
+M
+I
+C
+U
+D
+N
+A
+R
+G
+n
+o
+i
+t
+c
+e
+j
+o
+r
+P
+l
+a
+n
+i
+d
+u
+t
+i
+g
+n
+o
+L
+0
+1
+0
+2
+/
+2
+2
+/
+6
+0
+:
+e
+t
+a
+D
+4
+:
+e
+r
+u
+g
+F
+i
+:
+e
+l
+i
+F
+.
+C
+N
+I
+S
+E
+C
+R
+U
+O
+S
+E
+R
+E
+L
+T
+S
+A
+C
+,
+i
+n
+a
+g
+u
+G
+c
+M
+.
+P
+:
+y
+b
+t
+r
+o
+p
+e
+R
+.
+o
+e
+G
+P
+.
+s
+d
+o
+f
+l
+2
+F
+f
+o
+e
+g
+n
+u
+P
+l
+e
+n
+o
+Z
+F
+e
+n
+o
+Z
+2
+B
+s
+t
+i
+s
+o
+p
+e
+D
+e
+d
+h
+p
+u
+S
+l
+i
+.
+4
+.
+c
+n
+I
+ 
+s
+e
+c
+n
+e
+i
+c
+s
+o
+e
+G
+a
+i
+r
+b
+m
+a
+C
+:
+i
+n
+o
+i
+s
+i
+v
+D
+g
+n
+n
+M
+i
+i
+a
+n
+e
+e
+k
+S
+,
+8
+1
+/
+B
+4
+0
+1
+:
+S
+T
+N
+d
+r
+a
+w
+t
+s
+a
+e
+g
+n
+i
+c
+a
+f
+s
+i
+n
+o
+i
+t
+c
+e
+o
+r
+P
+j
+n
+o
+i
+t
+a
+z
+i
+l
+i
+a
+r
+e
+n
+M
+u
+C
+)
+e
+n
+o
+Z
+h
+t
+r
+o
+N
+(
+e
+n
+o
+Z
+C
+e
+v
+i
+s
+s
+a
+M
+c
+u
+d
+n
+a
+r
+G
+e
+n
+o
+Z
+A
+e
+n
+o
+Z
+B
+REGIONAL GEOLOGICAL SETTING
+HISTORIC GEOLOGIC MAPPING PROGRAMS 
+The area north of Granduc mountain along the eastern flank of the South Unuk river 
+was mapped by Lewis (1994) in order to extend stratigraphic and structural features 
+documented  in  the  MDRU  Iskut  River  study  (Lewis,  1993;  Lewis  et  al.,  1993) 
+southward into the Granduc mountain mine area. Previous regional mapping in the 
+area is by Alldrick et al. (1989) and references therein.
+Stratified rocks exposed on Granduc mountain and to the north are subdivided into 
+two  easily  recognizable  units,  termed  the  western  and  eastern  series,  that  are 
+separated by the north-northwest striking South Unuk shear zone (Lewis, 1994: Fig 
+6,7).  The  terms  western  series  and  eastern  series  predate  the  availability  of  fossil 
+and radiometric age determinations, and are retained in the 1994 report and within 
+this  report  for  continuity  to  work  conducted  in  the  1979  to  1993  period.  The  unit 
+names  for  lithologies  are  the  same  as  adopted  in  Lewis  (1994)  and  Klepacki  and 
+Read (1981), again for commonality with earlier work.
+Western  series  rocks  consist  of  foliated,  greenschist  facies  metavolcanic  and 
+metasedimentary rocks and include the Granduc Mine series (McGuigan and Marr, 
+1979), units lying north of the North Leduc glacier and units in the hanging wall 
+of  the  Granduc  fault  on  Granduc  mountain  (Figs.  6,7).  These  rocks  remain  of 
+uncertain  stratigraphic  succession,  but  belong  to  the  Upper  Triassic  Stuhini 
+Group.
+Eastern  series  rocks  are  much  less  deformed  and  are  mainly  volcanic.  The 
+boundary between western and eastern series rocks is easily identifiable north of 
+Granduc  mountain,  however  on  Granduc  mountain  itself,  the  boundary  is 
+uncertain. These rocks belong to the Lower to Middle Jurassic Hazelton Group.
+Intrusive  suites  consist  of  the  pre-tectonic  Late  Triassic  Bucke  Glacier  stock  and 
+syenite sills or dykes that intrude western series rocks and the post-tectonic Eocene 
+Lee Brant pluton that intrude both western and eastern series rocks. 
+STRATIGRAPHY 
+Western series (Upper Triassic Stuhini Group) 
+Western series rocks crop out east of the South Unuk river where they form a north-
+northwest  striking  and  steeply  dipping  unit.  They  consist  of  moderately  to  highly 
+foliated schist, phyllite, marble and gneiss. The stratigraphic thickness of the western 
+series is uncertain because facing indicators have been destroyed by metamorphism 
+and deformation. Repetition of similar lithologic units suggests structural duplication. 
+North of Granduc mountain, the western series is subdivided into six lithological (not 
+stratigraphic order) rock types consisting of:
+(i)
+(ii)
+strongly foliated, medium grained biotite schist,
+pale green argillite and cherty argillite,
+14
+1300
+1500
+O
+1400
+1600
+1500
+0
+0
+0
+0
+3
+4
+1400
+0
+0
+7
+1
+0
+0
+7
+1
+0
+0
+8
+1
+1700
+1900
+18 0 0
+2000
+2100
+2000
+1800
+1 7 0 0
+1600
+2000
+2200
+2 1 0 0
+2100
+2000
+1900
+0
+0
+8
+1
+1700
+0
+0
+0
+6
+0
+5
+1
+0
+1
+0
+4
+1
+d
+n
+e
+g
+e
+L
+1600
+1 6 0 0
+0
+0
+0
+2
+0
+0
+t
+i
+9
+1
+0
+0
+7
+1
+)
+?
+(
+0
+x
+0
+e
+8
+1
+l
+0
+p
+0
+7
+m
+1
+o
+C
+ 
+c
+U
+n
+o
+H
+t
+u
+J
+P
+l
+l
+i
+t
+s
+a
+o
+C
+0
+0
+6
+1
+0
+0
+5
+1
+g
+E
+n
+u
+i
+c
+h
+p
+a
+r
+g
+i
+t
+a
+r
+t
+S
+-
+ 
+y
+g
+o
+o
+e
+G
+l
+l
+i
+a
+n
+o
+g
+e
+R
+0
+0
+6
+1
+k
+c
+o
+t
+S
+ 
+y
+r
+a
+d
+n
+u
+o
+B
+0
+0
+4
+1
+o
+B
+E
+6235000
+0
+0
+2
+1
+0
+0
+11
+n
+o
+i
+t
+a
+m
+r
+o
+F
+ 
+r
+e
+v
+R
+ 
+k
+u
+n
+U
+i
+-
+ 
+p
+u
+o
+r
+G
+ 
+n
+o
+t
+l
+e
+z
+a
+H
+p
+u
+o
+r
+G
+i
+i
+n
+h
+u
+t
+S
+0
+0
+5
+1
+0
+0
+4
+1
+0
+0
+3
+1
+k
+c
+o
+t
+S
+i
+l
+r
+e
+c
+a
+G
+ 
+e
+k
+c
+u
+B
+G
+B
+r
+T
+v
+s
+S
+r
+T
+u
+U
+H
+J
+0
+l
+0
+6
+1
+i
+r
+e
+v
+R
+ 
+n
+o
+m
+a
+S
+l
+-
+ 
+p
+u
+o
+r
+G
+ 
+n
+o
+t
+l
+e
+z
+a
+H
+b
+v
+H
+J
+m
+0
+7
+0
+1
+n
+o
+i
+t
+a
+m
+r
+o
+F
+ 
+k
+e
+e
+r
+C
+ 
+y
+t
+t
+e
+B
+-
+ 
+p
+u
+o
+r
+G
+ 
+n
+o
+t
+l
+e
+z
+a
+H
+0
+0
+0
+5
+2
+4
+1900
+1800
+17 0 0
+U
+H
+J
+l
+1500
+1400
+0
+0
+8
+1
+0
+0
+9
+1
+1800
+1700
+0
+0
+6
+1
+1500
+1500
+0
+0
+6
+1
+0
+0
+8
+1
+1900
+1800
+2 0 0 0
+1900
+1800
+1700
+1600
+0
+0
+1
+2
+1 7 0 0
+0
+0
+1
+1
+0
+0
+2
+1
+0
+0
+3
+1
+0
+0
+5
+1
+0
+0
+4
+1
+0
+0
+15
+1500
+s
+t
+l
+u
+a
+F
+l
+a
+n
+o
+g
+e
+R
+i
+1600
+1 6 0 0
+B
+1500
+H
+J
+l
+1600
+0
+0
+0
+2
+0
+6230000
+1800
+0
+0
+8
+1
+0
+0
+7
+1
+0
+0
+2
+1
+0
+0
+15
+0
+0
+3
+1
+S
+C
+T
+J
+E
+0
+0
+4
+1
+1 8 0 0
+1700
+0
+0
+6
+1
+0
+0
+5
+1
+0
+0
+6
+1
+0
+0
+5
+1
+0
+0
+6
+1
+1600
+1600
+1700
+1800
+S
+C
+T
+J
+E
+1 5 0 0
+1600
+1 7 0 0
+0
+8
+1
+1 9 0 0
+0
+1 9 0 0
+1 9 0 0
+0
+0
+6
+1
+0
+0
+8
+1
+1600
+0
+0
+6
+1
+0
+0
+6
+1
+1900
+2100
+2200
+n
+0
+0
+22
+2 1 0 0
+B
+H
+J
+l
+2200
+2000
+2000
+0
+1
+2
+1900
+0
+0
+8
+1
+1600
+0
+0
+8
+1
+2000
+1700
+1800
+2000
+1700
+1 8 0 0
+2100
+0
+0
+1
+2
+2100
+0
+0
+8
+1
+U
+H
+J
+l
+0
+0
+2
+2
+0
+0
+8
+1
+0
+0
+2
+2
+1500
+0
+0
+7
+1
+0
+0
+7
+1
+0
+0
+6
+1
+0
+0
+5
+1
+6225000
+0
+0
+7
+1
+0
+0
+6
+1
+0
+0
+1
+1
+0
+0
+4
+1
+&
+ 
+y
+g
+o
+o
+e
+G
+l
+s
+e
+r
+u
+n
+e
+T
+0
+.
+c
+n
+0
+i
+I
+ 
+s
+e
+c
+n
+e
+c
+s
+o
+e
+G
+a
+i
+r
+b
+m
+a
+C
+2
+1
+0
+0
+3
+1
+a
+d
+a
+n
+a
+C
+,
+i
+l
+a
+b
+m
+u
+o
+C
+h
+s
+i
+t
+i
+r
+0
+0
+5
+1 4 0 0
+1300
+l
+a
+r
+e
+n
+M
+1500
+1700
+1
+0
+0
+0
+6
+l
+a
+B
+n
+ 
+1
+1600
+t
+s
+e
+o
+w
+h
+g
+e
+R
+t
+r
+o
+N
+7
+0
+1
+i
+i
+0
+0
+7
+1
+1900
+0
+0
+0
+2
+0
+0
+3
+1
+0
+0
+4
+1
+5
+:
+e
+r
+u
+g
+F
+i
+t
+d
+e
+v
+t
+e
+M
+.
+D
+:
+y
+b
+Y
+T
+R
+E
+P
+O
+R
+P
+C
+U
+D
+N
+A
+R
+G
+1 6 0 0
+1800
+2100
+0
+0
+2
+2
+0
+0
+2100
+.
+I
+c
+n
+160 0
+1 5 0 0
+s
+e
+c
+r
+u
+o
+s
+e
+R
+e
+1500
+l
+t
+s
+a
+C
+0
+7
+1
+1800
+2
+0
+2
+2000
+2300
+2 2 0 0
+0
+0
+6
+1
+1900
+1700
+0
+0
+0
+0
+3
+4
+S
+0
+C
+1
+0
+T
+2
+J
+2
+E
+2
+6
+0
+/
+/
+:
+t
+e
+a
+D
+3
+8
+D
+A
+N
+:
+m
+u
+a
+D
+t
+-
+9
+0
+M
+T
+U
+:
+n
+o
+0
+0
+8
+1
+0
+0
+6
+1
+c
+u
+d
+n
+a
+r
+G
+:
+t
+c
+e
+o
+r
+P
+j
+d
+e
+r
+a
+p
+e
+r
+P
+1600
+p
+a
+M
+1500
+i
+t
+c
+e
+o
+1700
+r
+P
+j
+0
+0
+0
+5
+2
+4
+0
+0
+8
+1
+0
+0
+16
+1800
+2200
+2200
+o
+i
+t
+a
+c
+o
+L
+l
+e
+n
+n
+u
+T
+x
+Frank                                                                    Mackie                                                             Glacier
+1700
+A
+p
+p
+o
+r
+0
+0
+8
+1
+1600
+2100
+1500
+1600
+0
+0
+7
+1
+1700
+b
+v
+H
+J
+m
+1700
+2000
+2100
+2000
+2200
+1700
+1900
+2000
+2100
+1800
+0
+0
+2
+2
+2000
+2 2 0 0
+2200
+1900
+1 7 0 0
+0
+0
+6
+1
+0
+0
+0
+2
+2400
+2
+0
+2
+0
+0
+1
+0
+1
+2
+1 9 0 0
+0
+0
+2
+2
+0
+0
+2
+2
+0
+0
+2
+2
+2300
+2200
+0
+0
+3
+2
+2200
+0
+0
+1
+2
+0
+0
+0
+2
+1800
+1700
+1600
+a
+v
+H
+J
+l
+0
+0
+9
+1
+0
+0
+8
+1
+1600
+1500
+1400
+0
+0
+8
+1
+2000
+0
+0
+2
+2
+23 0 0
+2 2 0 0
+2100
+0
+0
+9
+0
+0
+0
+2
+1
+a
+v
+H
+J
+l
+0
+0
+0
+2
+0
+0
+1
+2
+0
+0
+6
+1
+1700
+1 8 0 0
+2 0 0 0
+0
+0
+8
+1
+2 1 0 0
+0
+0
+0
+2
+1 6 0 0
+0
+0
+8
+1
+2000
+0
+0
+0
+0
+2
+4
+2200
+0
+0
+0
+2
+0
+0
+1
+2
+2100
+0
+0
+17
+1800
+5
+1
+0
+0
+6
+1
+0
+0
+0
+0
+8
+1
+1700
+1700
+1900
+1400
+1600
+1800
+1500
+1900
+0
+0
+0
+5
+1
+4
+0
+0
+5
+1
+1 8 0 0
+1700
+0
+0
+6
+1
+1
+0
+0
+7
+1 6 0 0
+G
+B
+r
+T
+1200
+1 1 0 0
+1 0 0 0
+0
+0
+0
+0
+3
+2
+2
+2
+0
+0
+0
+2
+0
+0
+9
+1
+0
+0
+8
+1
+1700
+1600
+0
+0
+0
+2
+2000
+1900
+0
+0
+0
+0
+2
+2
+8
+1
+0
+0
+4
+1
+0
+0
+5
+1
+1800
+0
+0
+7
+1
+0
+0
+6
+1
+1300
+0
+0
+4
+1
+0
+0
+5
+1
+1400
+1800
+0
+0
+0
+2
+0
+0
+5
+1
+0
+0
+7
+1
+0
+0
+3
+1
+v
+s
+S
+r
+T
+u
+2000
+1 9 0 0
+1 8 0 0
+2000
+1900
+1800
+1700
+0
+0
+7
+1
+0
+0
+6
+1
+v
+s
+S
+r
+T
+u
+1400
+v
+s
+S
+r
+T
+u
+1 6 0 0
+1
+0
+0
+4
+1 3 0 0
+c
+u
+d
+n
+a
+r
+G
+e
+n
+M
+i
+r
+e
+ci
+a
+l
+G
+G
+B
+r
+T
+0
+0
+6
+1
+1600
+1500
+1400
+0
+0
+2
+1
+G
+B
+r
+T
+0
+0
+1
+1
+c
+u
+d
+e
+L
+D
+South
+800
+0
+0
+8
+0
+0
+0
+1
+9 0 0
+v
+s
+S
+r
+T
+u
+2000
+2000
+2200
+2200
+3
+0
+0
+2 2 0 0
+a
+v
+H
+J
+l
+2300
+2200
+2200
+2 1 0 0
+2000
+1 9 0 0
+0
+0
+8
+1
+2 0 0 0
+1600
+1600
+0
+0
+0
+2
+7
+1
+0
+9
+0
+1
+0
+0
+1 8 0 0
+2100
+0
+0
+1
+2
+b
+v
+H
+J
+m
+0
+0
+2
+2
+a
+v
+H
+J
+l
+2 2 0 0
+2200
+2
+0
+0
+1
+2 0 0 0
+0
+9
+1
+0
+1800
+1700
+1700
+1600
+1 5 0 0
+1400
+3
+1
+0
+0
+0
+0
+0
+2
+1
+1
+1
+2100
+1900
+8
+1
+0
+0
+1900
+0
+0
+8
+1
+0
+0
+9
+1
+0
+0
+7
+1
+1700
+1 6 0 0
+1900
+0
+0
+0
+2
+0
+0
+9
+1
+1 8 0 0
+1700
+1 6 0 0
+1 2 0 0
+1400
+v
+s
+S
+r
+T
+u
+1100
+1000
+a
+v
+H
+J
+l
+1 0 0 0
+2100
+0
+0
+2
+2
+22 0 0
+1900
+0
+0
+0
+2
+2100
+2100
+1
+0
+0
+0
+0
+8
+,
+m
+K
+:
+1
+0
+a
+v
+H
+J
+l
+1800
+0
+0
+1
+2
+1900
+2 2 0 0
+0
+0
+1
+2
+1900
+1800
+b
+v
+H
+J
+m
+1 3 0 0
+0
+0
+9
+1
+2100
+2000
+2300
+0
+0
+2
+0
+2
+0
+0
+2
+0
+0
+9
+1
+1800
+0
+1600
+0
+0
+7
+1
+1
+0
+5
+7
+1
+1400
+0
+0
+o
+B
+E
+1800
+0
+0
+0
+0
+2
+4
+0
+0
+0
+2
+0
+0
+1
+2
+2200
+2000
+1500
+0
+0
+4
+1
+0
+1300
+1200
+G l a
+c i e r
+1100
+0
+2
+1
+0
+1 3 0 0
+0
+0
+0
+0
+1
+1
+1
+1
+1300
+1 4 0 0
+1500
+1400
+1600
+1700
+1500
+0
+0
+8
+1
+0
+0
+7
+1
+a
+v
+H
+J
+l
+0
+0
+7
+1
+1800
+0
+0
+0
+2
+Leduc
+9 0 0
+900
+0
+0
+9
+1000
+1200
+1000
+1200
+1 4 0 0
+0
+0
+3
+1
+0
+0
+5
+1
+1000
+v
+s
+S
+r
+T
+u
+0
+0
+0
+0
+1
+0
+3
+0
+2
+1
+6
+1
+1 4 0 0
+1
+0
+0
+5
+1800
+Granduc Fault
+1500
+1 6 0 0
+1 7 0 0
+1800
+1900
+1 8 0 0
+1800
+1700
+1600
+1400
+15 00
+1 3 0 0
+11 0 0
+90 0
+0
+0
+5
+1
+1400
+0
+0
+2
+1
+v
+s
+S
+r
+T
+u
+1000
+8 0 0
+700
+1 2 0 0
+7 0 0
+7 0 0
+0
+0
+9
+0
+0
+0
+0
+8
+6
+0
+0
+1
+1
+0
+0
+9
+0
+0
+8
+9 0 0
+1 4 0 0
+1 5 0 0
+0
+0
+5
+1
+1600
+1
+0
+0
+0
+6
+7
+1
+1100
+1 2 0 0
+1600
+1800
+1600
+0
+0
+0
+2
+2000
+1900
+1800
+1700
+1500
+o
+B
+E
+1000
+0 0
+1 0
+1300
+1500
+1700
+1700
+1600
+1 5 0 0
+o
+B
+E
+0
+0
+7
+1
+1600
+1600
+1 9 0 0
+2000
+0
+0
+7
+1
+1900
+1600
+1 9 0 0
+2000
+o
+B
+E
+0
+0
+0
+8
+1
+1 7 0 0
+1 6 0 0
+1 9 0 0
+1 5 0 0
+0
+0
+0
+5
+1
+4
+1600
+1 9 0 0
+0
+0
+4
+1
+1500
+0
+0
+7
+1
+0
+0
+7
+1
+1 4 0 0
+1300
+0
+0
+3
+1
+0
+0
+2
+1
+i
+l
+l
+i
+.
+d
+x
+m
+5
+e
+r
+u
+g
+F
+_
+y
+g
+o
+o
+e
+G
+a
+n
+o
+g
+e
+R
+_
+1
+0
+1
+3
+4
+_
+0
+1
+0
+2
+e
+n
+u
+J
+_
+c
+u
+d
+n
+a
+r
+G
+1 3 0 0
+16 00
+1800
+1400
+1 7 0 0
+o
+B
+E
+1700
+1900
+1 9 0 0
+1800
+1700
+1600
+1 5 0 0
+1400
+0
+0
+3
+1
+6225000
+0
+0
+7
+0
+0
+6
+0
+0
+8
+1600
+1400
+v
+s
+S
+r
+T
+u
+6230000
+0
+0
+9
+900
+1100
+1500
+North
+0
+0
+0
+1
+1 2 0 0
+1400
+1500
+g
+E
+1600
+0
+0
+5
+1
+1700
+0
+0
+6
+1
+0
+0
+7
+1
+0
+0
+5
+1
+1600
+1500
+1400
+0
+0
+7
+1
+700
+900
+0
+0
+9
+0
+0
+8
+0
+0
+7
+0
+0
+1
+1
+0
+0
+8
+0
+0
+9
+1600
+1 6 0 0
+v
+s
+S
+r
+T
+u
+g
+E
+0
+0
+6
+1
+1400
+1600
+1700
+0
+0
+18
+0
+0
+5
+1
+1 4 0 0
+1 3 0 0
+1 1 0 0
+1500
+1600
+1400
+1500
+1700
+800
+900
+1600
+1600
+0
+0
+4
+1
+1500
+g
+E
+1800
+0
+0
+8
+v
+s
+S
+r
+T
+u
+800
+1 0 0 0
+1 2 0 0
+1 3 0 0
+1 4 0 0
+1500
+0
+0
+6
+1
+0
+0
+7
+1
+0
+0
+8
+1
+1800
+200 0
+1900
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+1
+1
+1300
+0
+0
+1
+1
+0
+0
+2
+1
+1300
+g
+E
+0
+0
+4
+1
+0
+0
+5
+1
+0
+0
+4
+1
+0
+0
+6
+1
+6235000
+(iii)  marble,
+(iv)  mafic hornblende schist and gneiss,
+(v)
+intermediate schist and gneiss, and
+(vi)
+layered to laminated phyllitic mudstone to siltstone.
+Similar rock types defined by Klepacki and Read (1981) on Granduc mountain (units 
+1  to  8)  were  retained  by  Lewis  (1994);  correlation  of  individual  units  across  the 
+North Leduc glacier was not attempted.
+A minimum age of 220 Ma for the western series is obtained by U-Pb (zircon) dates 
+from the Bucke Glacier stock north of the North Leduc glacier, and related bodies on 
+Granduc mountain, that intrude western series rocks. The Bucke Glacier stock ranges 
+from  220  to  223  Ma  (J.  Mortensen,  personal  communication  to  P.D.  Lewis,  1994); 
+similar composition sills on Granduc mountain were 232 + 3 Ma (Childe, 1994). In 
+addition,  a  U-Pb  (zircon)  analysis  from  the  footwall  andesite  on  Granduc  mountain 
+(North Zone) returned an identical date within error of 230.5 + 14 Ma.
+Eastern series (Lower to Middle Jurassic Hazelton Group) 
+Eastern series rocks form a northwest trending package of rocks that are separated 
+from  western  series  rocks  by  the  South  Unuk  shear  zone  on  the  west,  and  are 
+bounded  by  the  Frank  Mackie  glacier  on  the  east.  They  are  subdivided  into  three 
+lithologically distinct conformable volcanic units (from oldest to youngest) consisting 
+of:
+(i)
+(ii)
+(iii)
+heterolithic intermediate volcanic breccia to conglomerate,
+bedded  dacitic(?)  tuffs,  tuffaceous  conglomerate  and  homolithic  breccia, 
+and
+andesitic pillowed flow and pillow breccia. In the North Leduc glacier area, 
+sedimentary  grading  and  pillow  shapes  indicate  these  units  face 
+southwest; in other areas, facing directions are uncertain.
+The  age  of  the  eastern  series  is  partly  constrained  by  U-Pb  analyses  of  zircons 
+separated  from  a  dacite  megaclast  collected  north  of  Granduc  mountain.  An 
+interpreted  age  for  this  unit,  based  on  four  zircon  fractions,  is  186.8  +  5.6  Ma  (J. 
+Mortensen, personal communication to P. Lewis, 1994). An identical age within error 
+of  185.4  +  9  Ma  was  obtained  from  a  felsic  lapilli  tuff  approximately  7  km  to  the 
+south on the Homestake property (Childe, 1994). These rocks are similar in age to 
+felsic rocks (Hazelton Group) in the footwall of the precious metal rich Eskay Creek 
+massive  sulphide  deposit  (Bartsch,  1993).  Volcanic  rocks  of  this  age  correlate  with 
+the Betty Creek formation (Hazelton Group) in the Stewart – Iskut mining camps.
+16
+INTRUSIONS 
+Bucke Glacier stock 
+Bucke Glacier stock forms a northwesterly elongate body (approximately 10 km long 
+by 2 km wide) in western series rocks north of Granduc mountain. It consists of fine 
+to  coarse  grained  hornblende-biotite  diorite  to  monzodiorite.  The  contacts  of  the 
+stock are parallel to subparallel to regional foliation, and the stock is foliated itself, 
+however,  to  a  lesser  degree  than  the  enclosing  western  series  rocks.  Intermediate 
+intrusive rocks exposed on the north side of Granduc mountain (Klepacki and Read, 
+1981) and intersected in North Zone drilling (Freckelton et al., 1982) are correlated 
+with  the  Bucke  Glacier  suite  based  on  similar  lithologies  and  preliminary  U-Pb 
+(zircon) dates (Childe, 1994).
+The  age  of  the  Bucke  Glacier  stock  is  constrained  by  two  widely  separated  U-Pb 
+(zircon) dates. To the north, near the northern most exposure of the stock, a foliated 
+diorite  phase  of  the  stock  returned  a  date  of  221  +  1  Ma  (M.L.  Bevier,  personal 
+communication to P. Lewis, 1994). To the south, near the southern most exposure of 
+the stock, a hornblende quartz monzodiorite phase returned a date of 220 - 223 Ma 
+(J. Mortensen, personal communication to P. Lewis, 1994).
+Similar composition sills on Granduc mountain were 232 + 3 Ma (Childe, 1994). In 
+addition,  a  U-Pb  (zircon)  analysis  from  the  footwall  andesite  on  Granduc  mountain 
+(North Zone) returned an identical date within error of 230.5 + 14 Ma.
+Syenite sills (and dykes) 
+Syenite  sills  (and  minor  dykes)  form  north-northwesterly  trending  elongate  bodies 
+(<1.5  km  long  and  10's  of  metres  thick)  in  western  series  rocks  north  of  Granduc 
+mountain.  Sill  contacts  are  parallel  to  subparallel  to  regional  foliation  and 
+compositional  layering  measured  in  the  enclosing  western  series  rocks.  The  sills 
+contain crowded megacrystic (<5 cm) potassium feldspar and are weakly foliated.
+Lee Brant stock 
+Lee Brant stock forms a large stock in eastern series rocks north of Divelbliss Creek. 
+The  stock  consists  of  undeformed  hornblende  -  biotite  quartz  monzonite.  A  U-Pb 
+(zircon) date of 55.6 + 2 Ma was obtained from a sample collected along the eastern 
+margin of the body north of Divelbliss Creek (J. Mortensen, personal communication 
+to P. Lewis, 1994). 
+STRUCTURE 
+The major structure identified in the Unuk river area is the South Unuk shear zone. It 
+is  a  north-northwest  striking,  subvertical  fault  that  is  mapped  from  the  Iskut  river 
+area south to Granduc mountain, a distance of 60 km (Lewis, 1994). The fault varies 
+along strike (north to south) from a brittle fault (10-20 m thick) with uncertain sense 
+and direction near Mount Shirley that widens to a ductile deformed zone greater than 
+1 km wide south of Sulphurets creek where sinistral offset is indicated.
+17
+416000
+417000
+9
+JK Zone
+1500
+3p2
+9
+0
+0
+4
+1
+2006-8
+J
+!.!.
+!.!.!.
+2006-9
+J
+2006-12
+J
+2006-11
+2006-10
+JJ
+1600
+0
+0
+6
+1
+1700
+5pc
+4w
+5pc
+0
+0
+4
+1
+2p1
+5v1
+5ss
+5w
+5v2
+1400
+5p2
+5p3
+5w2
+10qd
+5w2
+5cb
+5p2
+5p3
+5c
+2p1
+418000
+O
+1700
+1 5 0 0
+160 0
+1 7 0 0
+0
+0
+0
+3
+3
+2
+6
+9
+1
+8
+0
+0
+0
+0
+8
+1
+1 9 0 0
+1
+9
+0
+0
+1
+9
+0
+0
+0
+0
+0
+2
+2100
+Granduc 
+Mtn.
+#
+6v
+10qd
+6v
+6t
+6t1
+6p
+6v
+6w3
+6w2
+6v
+4w
+G
+r
+a
+n
+d
+u
+c
+North Zone
+F
+a
+u
+l
+t
+3w1
+5pc
+F
+a
+ult
+5p1
+6t
+5p3
+1
+6
+0
+0
+10qd
+6t
+6t
+1
+6
+0
+6t
+0
+1
+5
+0
+0
+6t
+6p
+6v
+6t
+6t
+4w
+2p1
+3v
+2v
+4w
+3t
+2p4
+3p2
+3v
+2p1
+1
+1
+0
+0
+2600 Level
+Exploration Adit
+1900
+1v
+Boundary Crown Granted Claims
+1800
+1 7 0 0
+1
+7
+0
+0
+Tide Tunnel
+F
+a
+u
+l
+t
+1
+6
+0
+0
+0
+0
+0
+3
+3
+2
+6
+3
+0
+0
+0
+2
+3
+2
+6
+0
+0
+0
+1
+3
+2
+6
+800
+8
+0
+0
+0
+0
+0
+0
+3
+2
+6
+0
+2
+1
+0
+0
+2
+1
+0
+0
+0
+0
+0
+2
+3
+2
+6
+2000
+E
+a
+s
+t
+e
+r
+n
+i
+L
+m
+i
+t
+S
+o
+u
+t
+h
+U
+n
+u
+k
+S
+h
+e
+a
+r
+Z
+o
+n
+e
+0
+0
+0
+1
+3
+2
+6
+1
+7
+0
+0
+0
+0
+0
+0
+3
+2
+6
+7w
+0
+0
+0
+1
+2475 Drainage Tunnel
+9
+0
+0
+8
+0
+0
+1
+2
+0
+0
+6w3
+6v
+8v
+South
+7w
+6w3
+6v
+3p1
+Granduc Mine
+2600 Level
+1
+4
+0
+0
+Leduc
+6v
+Western Fault
+6v
+!.
+!.
+4w
+3c
+J
+!. !.!.
+2005-3
+J
+2005-1
+J
+J
+J
+2005-5
+2005-4
+3v
+1
+1
+0
+0
+2p1
+2005-2
+2p1
+Project: Granduc
+1000
+Castle Resources Inc.
+GRANDUC PROPERTY
+1v
+Northwest British Columbia, Canada
+Property Geology
+North Sheet
+0
+0
+5
+1
+1
+2
+0
+Cambria Geosciences Inc.
+1
+3
+0
+0
+0
+6v
+900
+500
+1
+0
+0
+0
+6v
+Meters
+1:15,000
+!.
+Granduc_June2010_43101_PropertyGeology_NorthSheet_Figure6.mxd
+416000
+Glacier
+2006-5
+!.
+!.
+J
+J
+2006-1
+J
+Map Prepared by: D. Metvedt
+Figure: 6
+Projection: UTM 09 - Datum: NAD83
+417000
+Date: 06/22/2010
+418000
+416000
+6t
+417000
+1
+6
+0
+0
+5p1
+Fault
+North Zone
+3w1
+2600 Level
+Exploration Adit
+418000
+1
+2
+0O
+0
+0
+2
+3
+2
+6
+0
+0
+6t
+5p3
+2
+1
+0
+0
+2000
+6t1
+6v
+6w3
+6w2
+6v
+10qd
+6t
+6t
+1
+6
+0
+6t
+0
+1
+5
+0
+0
+6t
+6t
+6p
+6v
+6t
+1
+4
+0
+0
+1 9 0 0
+Boundary Crown Granted Claims
+1800
+1 7 0 0
+1
+7
+0
+0
+0
+0
+8
+1
+0
+0
+0
+1
+3
+2
+6
+1
+7
+0
+0
+0
+0
+0
+0
+3
+2
+6
+Tide Tunnel
+F
+a
+u
+l
+t
+1
+6
+0
+0
+1
+4
+0
+0
+1v
+0
+0
+5
+1
+1
+2
+0
+0
+1
+3
+0
+0
+Eastern Limit South Unuk Shear Zone
+1v
+0
+0
+0
+1
+1000
+1
+1
+0
+0
+0
+0
+0
+9
+2
+2
+6
+Castle Resources Inc.
+GRANDUC PROPERTY
+Northwest British Columbia, Canada
+Property Geology
+South Sheet
+0
+0
+0
+2
+3
+2
+6
+0
+0
+0
+1
+3
+2
+6
+0
+0
+0
+0
+3
+2
+6
+7w
+0
+0
+0
+1
+2475 Drainage Tunnel
+9
+0
+0
+1
+2
+0
+0
+6w3
+6v
+8
+0
+0
+800
+South
+8v
+8v
+7w
+6w3
+Leduc
+Western Fault
+6v
+6v
+9
+0
+0
+1
+0
+0
+0
+1
+1
+0
+0
+1100
+1200
+1
+4
+0
+0
+0
+0
+4
+1
+1
+3
+0
+0
+1
+1
+0
+0
+2v
+2p4
+4w
+3t
+3p2
+3v
+3p1
+Granduc Mine
+2600 Level
+!.
+!.
+4w
+2005-1
+J
+J
+2005-2
+J
+2005-5
+2005-4
+3v
+3c
+J
+!. !.!.
+2005-3
+J
+3p2
+Glacier
+1
+1
+0
+0
+2p1
+1000
+9
+0
+0
+2006-2
+J
+!.!.
+J
+2006-5
+2006-1
+!.
+900
+J
+3w2
+900
+!.
+3w2
+2006-4
+J
+2p1
+3p2
+3w2
+1
+0
+0
+0
+1
+2
+0
+0
+1
+4
+0
+0
+1
+3
+0
+0
+0
+0
+0
+9
+2
+2
+6
+!.!.
+J
+2006-7
+South Zone
+J
+2006-6
+3p2
+1000
+1
+0
+0
+0
+1
+2
+0
+0
+3c
+1
+3
+0
+0
+1
+1
+0
+0
+Goss
+G
+r
+a
+n
+d
+u
+c
+F
+a
+u
+l
+t
+3w2
+1
+5
+0
+0
+0
+Meters
+1:15,000
+Granduc_June2010_43101_PropertyGeology_NorthSheet_Figure7.mxd
+416000
+500
+1
+5
+0
+0
+1
+6
+0
+0
+1
+4
+0
+0
+Project: Granduc
+Cambria Geosciences Inc.
+Map Prepared by: D. Metvedt
+Figure: 7
+Projection: UTM 09 - Datum: NAD83
+Date: 06/22/2010
+417000
+418000
+Fig. 8 - Map Legend
+Cretaceous And/Or Younger
+Early Cretaceous And/Or Younger
+Post Kinematic Intrusions (10qd, 10di): 
+Light grey, fine to medium grained quartz diorite dike 
+with chilled margins
+10qd
+Late Triassic
+9
+Bucke Glacier Intrusions 
+Monzodiorite and diorite stocks and sills.  
+Co-eval with Upper Triassic Volcanic Rocks
+T riassic And/Or Older
+"Hanging Wall, Upper Volcaniclastic Sequence" (8v):  
+Green foliated volcanics; feldspar and augite-bearing 
+andesite flows, green foliated tuff 
+"Hanging W all, Siliceous W acke" (7w): 
+Light grey to brown bedded siliceous wacke, some 
+pyritic clots
+"Hanging W all, Mafic W acke Sequence" (6w3 to 6p): 
+Dark grey phyllite and wacke, minor sulphidic argillite, 
+siliceous wacke, and feldspar porphyry flows near top
+Light purplish-grey calcareous tuf f and limestone
+Dark green, grey , and purple, medium to fine grained 
+wacke
+Bedded cream feldspathic arenite
+Cream to light green laminated chert and siliceous 
+argillite; grades laterally into
+Laminated white chert horizon
+Dark green, foliated amphibole-bearing tuf f, 
+characterized by very thin white stringers 
+Gray , foliated tuf f and wacke; Laminated chert, 
+minor argillite
+Light green, bedded argillite, minor black argillite
+"Hanging W all, V aried Sequence" (5p3 to 5v1): 
+Light green and grey siliceous argillite, black 
+pyritic argillite 
+Light green bedded argillite, local calcareous horizons
+Light grey to black limestone
+Light brown to dark grey , well bedded siliceous argillite
+Grey siliceous argillite, locally well bedded 
+Dark green foliated volcanic rocks; fine, green acicular 
+amphibole locally present 
+Light grey siliceous wacke 
+Light grey to cream, tuf faceous sandstone with a medial 
+felsite unit  
+Green chloritic schist
+8v
+7w
+6w3
+6c
+6w2
+6s
+6t
+6t1
+6v
+6w1
+6p
+5p3
+5p2
+5c
+5p1
+5w2
+5v2
+5w1
+5ss
+5v1
+Rocks Of Uncertain Facing  And Position In Unit 5 (5pe to 5wa):
+5pe
+5cd
+5pc
+5cb
+5wa
+4w
+4c
+4q
+Green bedded argillite, black pyritic argillite
+Light grey limestone, local lenses of tuf faceous rock 
+Light brown and grey laminated siliceous argillite; 
+minor foliated green volcanic rock 
+Dark grey graphitic limestone 
+Grey siliceous wacke; foliated tuf f, plagioclase-bearing 
+andesite; minor argillite
+W estern Fault
+"Hanging W all, Gash T uff Sequence" (4w to 4w1): 
+Light green to greenish-grey phyllitic wacke, locally 
+calcareous 
+Light greenish-yellow to grey massive carbonate, grades 
+laterally into a calcareous wacke of unit 
+Light green tuf faceous sandstone
+4w1
+Light green well bedded, foliated fine grained wacke
+Granduc Fault 
+"Mine Series" (3w2 to 3v): 
+Dark green lapilli tuf f, chert pebble conglomerate with 
+a black calcareous matrix; minor dark green foliated volcanics
+3w2
+3w1
+Green chloritic phyllite, wacke; minor calcareous horizons
+3c
+3t
+3p2
+3p1
+3v
+2p
+2ss
+2p4
+2v
+2p3
+2p2
+2p1
+1v
+1t
+1f
+Granduc Limestone:  Light grey to dark grey graphitic 
+limestone, local marginal calcareous tuf f 
+Black, grey , and white laminated chert and siliceous 
+wacke 
+Black argillite chip conglomerate, black pyritic argillite; 
+minor magnetite-rich horizons, and cream and brown wacke
+Light grey bedded tuf faceous argillite 
+Green to black volcanic, and volcaniclastic rocks, dark 
+grey and green phyllite, green foliated wacke; minor cream 
+laminated chert.  Augite and/or feldspar-bearing flows at 
+or near the base of the unit 
+"Upper Footwall Sequence" (2p to 2p1):
+Dark grey to green argillite; minor volcanic rocks
+Light brown tuf faceous sandstone
+Rusty weathering, black pyritic argillite 
+Dark green, tuf faceous argillite; minor augite-bearing 
+andesite flows 
+Dark grey , magnetite-bearing calcareous argillite; local 
+pyrite and chalcopyrite (?) bearing zones 
+Dark grey bedded siliceous argillite 
+Green siliceous phyllite; minor calcareous horizons, 
+some lenses of epidote
+"Lower Footwall Sequence" (1v to 1f):
+Dark grey-green augite-bearing andesite flows; minor tuf f
+Light grey siliceous wacke; minor breccia and tuf f
+Green to grey lithic tuf f +/- augite phenocryst, andesite tuf f
+Further  south,  in  the Divelbliss,  Duke  and North Leduc  areas, western  series  rocks 
+record strongly heterogeneous deformation with a large component of simple shear 
+in  a  ductile  to  semi-brittle  environment  (Lewis,  1994);  these  features  indicate 
+western series rocks should be included as part of the shear zone.
+The eastern boundary of the shear zone is marked by a fault that separates the more 
+deformed  Late  Triassic  (or  older)  western  series  rocks  from  relatively  undeformed 
+Lower to Middle Jurassic eastern series rocks.
+PROPERTY GEOLOGICAL SETTING
+Work on the Property that was supervised by the authors spanned three periods of 
+work:  1979-1984;  1991-1994  and  2005.  The  best  reference  to  the  geology  of  the 
+Property is offered in the report of the 1993 field program by Cambria (Dawson et al 
+1994).
+Work  on  the  Property  during  the  1993  study  focused  on  re-logging  and  sampling 
+selected  drill  holes  for  lithogeochemistry  and  geochronology.  Surface  mapping  on 
+Granduc  mountain  was  limited  to  a  few  traverses  to  examine:  (i)  previous 
+stratigraphic subdivisions (McGuigan and Marr, 1979; Klepacki and Read, 1981), (ii) 
+previous  structural  analysis  (Klepacki  and  Read,  1981),  and  (iii)  to  help  with 
+correlation of units logged in drill core and mapped north of the North Leduc glacier 
+during the 1993 study (Lewis, 1994).
+The following brief description of stratigraphy, structure and mineralization is based 
+mainly  on  mapping  by  McGuigan  and  Marr  (1979)  and  Klepacki  and  Read  (1981), 
+Lewis (1994) and re-logging selected drill holes (Dawson et al 1994).
+The detailed map of the lithologies cannot be present herein, due to the size format 
+of the current NI 43-101 standard. The reader is referred to McGuigan (2005) for the 
+details of the local surface mine geology. 
+STRATIGRAPHY 
+Previous  surface  mapping  on  the  Property  by  McGuigan  and  Marr  (1979)  outlined 
+three major rock assemblages: (i) Hangingwall series, (ii) Mine series, and (iii) the 
+Footwall series—all of which are part of the western series rock assemblage. These 
+assemblages  were  further  subdivided  by  Klepacki  and  Read  (1981)  into  47  map 
+lithologic  units.  Rapid  facies  changes,  faulting  and  folding  makes  correlation  of 
+individual units difficult.
+The  western  series  rocks  on  Granduc  mountain  are  an  assemblage  of  volcanic  and 
+sedimentary  rocks  approximately  1,500  m  thick;  the  exact  thickness  is  difficult  to 
+determine because of likely stratigraphic repetition, due to folding and faulting.
+Footwall series rocks consist of pillowed and massive andesite to basalt flows which 
+are overlain by flow breccias, crystal and lithic andesite tuff. Mine  series rocks are 
+cyclic  mafic  tuffs  and  chemical  sediments  that  include  chert,  magnetite  iron 
+formation  and  sulphides.  Hangingwall  series  rocks  consist  of  siliceous  and  mafic 
+wacke followed by andesite tuff, argillite, siltstone and limestone.
+21
+As  will  be  discussed  herein  in  the  section  on  Interpretations  and  Conclusions,  the 
+facing of the units described here is uncertain, due to folding and faulting, and local 
+overturning of the section. The terms Footwall, Mine Series and Hangingwall are the 
+terms  employed  in  earlier  studies,  and  are  repeated  to  maintain  consistency  with 
+previous generations of mapping. They do not imply a particular stratigraphic order.
+Footwall series (Units 1 and 2)
+Lower Footwall sequence
+Footwall series rocks have been divided into a Lower Footwall and an Upper Footwall 
+sequence.  The  Lower  Footwall  sequence  consists  mainly  of  augite  phyric  andesite 
+flows (1v), siliceous wacke (1w), and augite phyric andesite tuff (1t). These units are 
+locally  calcareous  and  contain  rare  disseminated  magnetite,  pyrrhotite  and 
+chalcopyrite.  A  thin  ultramafic  horizon  consists  of  dunite,  talc-chlorite  schist  and 
+chlorite-serpentine schist; locally it marks the western fringe of the Lower Footwall 
+sequence.
+Upper Footwall sequence
+The Upper Footwall sequence is distinctly more sedimentary and thinner bedded than 
+the  Lower  Footwall  sequence.  It  consists  of  argillite  (2p2-5),  phyllite  (2p1), 
+tuffaceous sandstone (2ss), and tuffaceous argillite and minor augite phyric andesite 
+flows  (2v).  Locally,  units  are  calcareous  and  contain  disseminated  magnetite, 
+pyrrhotite and chalcopyrite.
+Mine series (Unit 3) 
+Mine series rocks consist primarily of interbedded tuff (3v1-2), chert (3c), and minor 
+chloritic+calcareous wacke (3w1), argillite (3p1-2) and the Granduc limestone (3l). 
+Mine  series  rocks  were  subdivided  by  McGuigan  and  Tucker  (1981)  into  the:  (i) 
+Lower  Mine  unit,  (ii)  Middle  Mine  unit,  and  (iii)  the  Upper  Mine  unit.  They  are 
+separated  by  faults  of  small  displacement.  The  three  units  each  represent  similar 
+cycles of argillite, siltstone, mafic tuff deposition, marked by an interval of exhalative 
+mineralization  comprised  of  massive  sulphide,  graphite-  and  tourmaline-bearing 
+chert and magnetite iron formation.
+These units are not distinguished on the surface map included in this report, as the 
+contacts are defined only in detailed underground mapping.
+Lower Mine Unit
+The Lower Mine unit is at the same stratigraphic level as the B1 and possibly the F 
+ore body. The unit has a limited strike extent and does not extend north of 12000 N 
+on  surface.  It  consists  of  laminated  brown  chert  at  its  base,  succeeded  by 
+interbedded amphibolitic tuff, chert, and biotitic feldspar phyric dacite tuff (probably 
+a mafic tuff, see the Section on Lithogeochemistry). The tuffs contain disseminated 
+magnetite,  pyrrhotite  and  chalcopyrite.  The  top  of  the  unit  consists  of  laminated 
+brown chert. The B1 ore body consists of massive pyrrhotite, chalcopyrite within an 
+interval of chert and magnetite iron formation (see the section on Mineralization).
+22
+Middle Mine Unit
+The Middle Mine unit corresponds to the same stratigraphic level as the C and B2 ore 
+bodies.  Surface  exposures  are  limited  due  to  overburden  and  surface  cave  from 
+underground mining. Underground, the unit consists of a lower tuff, a middle course 
+chert marker, and an upper thinly laminated chert and tuff unit. Minor disseminated 
+magnetite,  pyrrhotite  and  chalcopyrite  occur  throughout  the  unit.  It  is  separated 
+from  the  Lower  Mine  unit  by  a  minor  fault  (0.3  m  fault  gouge).  The  C  and  B2  ore 
+bodies are comprised of cherty magnetite iron formations.
+Upper Mine Unit
+The Upper Mine unit corresponds to the same stratigraphic level as the A ore bodies 
+underground. The unit consists of equal amounts of interbedded tuff and laminated 
+brown  chert.  Tuff  decreases  northward  where  chert  and  fine  grained  siliciclastics 
+predominate.  Tuffaceous  sulphide-bearing  magnetite  iron  formation  (1.5  -  3.0  m 
+thick) occurs near the top of the formation.
+Granduc Limestone
+Granduc  limestone  overlies  the  Upper  Mine  unit.  It  consists  of  grey  to  black 
+tuffaceous limestone and calcareous-chloritic dacite tuff. The unit grades upward into 
+thick bedded feldspar phyric ash and lapilli tuff that is locally calcareous. The top of 
+the unit is locally cut by the Granduc fault.
+Hangingwall series (Units 4 to 8) 
+Hangingwall  series  rocks  are  separated  from  the  underlying  Mine  series  by  the 
+Granduc  fault  (Figs.  6,7).  The  unit  has  been  subdivided  into  the:  (i)  Gash  Banded 
+Tuff sequence, (ii)  Varied sequence, (iii)  Siliceous Wacke sequence, and (iv) Upper 
+Volcanic sequence.
+Gash Banded Tuff
+Gash  Banded  Tuff  sequence  crops  out  mainly  between  the  Granduc  and  Western 
+faults  (Figs.  6，7).  It  consists  of  tuffaceous  sandstone  (4t),  wacke  (4w1-2),  and 
+massive  limestone  (4l).  Fine  carbonate  veinlets  are  abundant  in  many  of  the 
+sandstone  and  wacke  beds,  and  are  likely  related  to  carbonate  formation  in 
+extensional fractures adjacent to F3 folds and shears.
+Varied sequence
+Varied sequence is separated from the underlying Gash Banded Tuff sequence by the 
+Western  fault  (Figs.  6，7).  The  sequence  consists  of  a  heterogeneous  package  of 
+thinly bedded sediments and volcanic rocks. In decreasing order of abundance, they 
+include  argillite  (5p1-6),  siliceous  wacke  (5w1-2),  foliated  andesite  volcanics  (5v1-
+2), tuffaceous sandstone (5ss) and limestone (5c). Facing indicators throughout this 
+unit are right-way up.
+23
+Mafic Wacke sequence
+Mafic  Wacke  sequence  conformably  overlies  the  Varied  sequence  (Figs.  6,  7).  It 
+consists  of  dark  green  wacke  (6w1-3),  argillite  (6p),  foliated  amphibole  phyric  tuff 
+(6v), calcareous tuff and limestone (6t), chert (6c1-2) and feldspathic arenite (6s).
+Siliceous Wacke
+Siliceous  Wacke  sequence  is  separated  from  the  underlying  Mafic  Wacke  by  a  thin 
+basal limestone (Figs. 6，7). The rest of the unit is a relatively homogeneous fine to 
+medium grained siliceous wacke (7w) that contains rare pyrite clots.
+Upper Volcanic sequence
+Upper  Volcanic  sequence  conformably  overlies  the  Siliceous  Wacke  sequence  (Figs. 
+6, 7). It consists of foliated feldspar and augite phyric andesite flows and tuffs (8v), 
+and white to black chert (8c).
+Lithogeochemistry 
+Thirty four rock samples were collected by Barrett (1994) from long drill holes mainly 
+in the North Zone at Granduc mountain for a lithogeochemical study. The objectives 
+of  the  study  were:  (i)  to  'fingerprint'  similar  lithological  units  to  aid  in  structural 
+interpretations,  (ii)  determine  the  magma  series,  (iii)  chemically  classify  the  rocks, 
+and  (iv)  compare  their  compositions  with  those  of  known  tectonic  setting.  This 
+section on lithogeochemistry is summarized from Barrett (1994).
+Methods  developed  by  MacLean  (1988)  and  Barrett  et  al.  (1992)  were  used  by 
+Barrett (1994) to evaluate the effects of primary igneous fractionation and the extent 
+of  alteration  in  volcanic  rocks  from  Granduc  mountain.  Initial  interpretations  by 
+Barrett  (1994)  indicate  most  samples  are  mafic  volcanics  or  an  intermediate  sill 
+which  have  Zr/Y  ratios  equal  to  3-4;  this  is  consistent  with  an  overall  tholeiitic 
+magmatic  affinity.  On  a  number  of  binary  plots,  the  mafic  volcanics  show  the 
+following  trends:  (i)  increasing  Al2O3  and  Zr  is  interpreted  to  represent  a  mafic 
+fractionation trend; two mafic samples and two cherty iron formation samples appear 
+to be derived from a different magma source that has higher Zr and TiO2 content, 
+(ii) decreasing MgO and Cr2O3 likely reflects the removal of olivine (Mg) and spinel 
+(Cr)  by  fractionation,  (iii)  increasing  Al2O3  with  decreasing  Cr2O3  likely  reflects 
+increasing  plagioclase  content  as  olivine  (Cr)  and  spinel  (Cr)  are  removed  by 
+fractionation,  and  (iv)  increasing  Na2O  with  decreasing  SiO2  likely  reflects 
+fractionation  with  the  mafic  volcanic  sequence  involving  increasingly  more  sodic 
+plagioclase.
+Rare earth element (REE) plots by Barrett (1994) show that the mafic volcanic rocks 
+have a uniform REE composition with La/Yb (chondrite normalized) ratios of 3.5 to 
+5.0 suggesting a transitional chemical affinity between mid-ocean ridge basalts (flat 
+to slight light REE depleted pattern) and an island arc setting (enriched in large ion 
+lithophile  elements  [LILE]  and  a  gentle  negative  REE  pattern).  The  slightly  more 
+differentiated intermediate sill has a similar, but higher REE pattern than the mafic 
+volcanics  that  suggests  they  may  be  genetically  related.  Banded  tuffaceous  or
+24
+volcaniclastic rocks logged as 'cherty tuff' or 'dacitic tuff' have REE patterns almost 
+identical  to  those  of  the  mafic  volcanic  rocks  indicating  they  are  not  dacitic  in 
+composition as logged in the field.
+Tectonic  discrimination  diagrams  constructed  from  mafic  volcanic  rocks  in  modern 
+day  tectonic  settings  indicate  that  mafic  volcanic  samples  from  Granduc  mountain 
+(North  Zone)  plot  mainly  in  the  low  potassium  tholeiite  field  on  a  Ti  vs.  Zr  plot 
+(Pearce and Cann, 1973). On a Nb/2 - Zr/4 - Y plot (Meschede, 1986), samples plot 
+in the plume-mid ocean ridge basalt (P-MORB) and normal - mid ocean ridge basalt 
+(N-MORB)  fields,  however,  some  samples  plot  along  the  line  discriminating  MORB 
+from volcanic arc basalt (VAB) field. Samples plot in a straight line within the ocean 
+floor basalt field (OFB) and along the discrimination line separating the calcalkaline 
+basalt (CAB) and island arc basalt (IAB) field on a Ti/100 - Zr - Sr/2 plot (Pearce and 
+Cann, 1973). This may indicate some Sr exchange with seawater during calcareous 
+alteration of the basalt, since the Sr cation can exchange for the Ca cation in calcite. 
+Samples  plot  mainly  in  the  ocean  floor  basalt  field  (OFB),  however  some  samples 
+plot in the low potassium tholeiite field (LKT) on a Ti/100 - Zr - Y/3 plot (Pearce and 
+Cann, 1973). 
+INTRUSIONS 
+Bucke Glacier stock 
+Bucke Glacier stock forms a northwesterly elongate body (approximately 10 km long 
+by 2 km wide) in western series rocks north of Granduc mountain. It consists of fine 
+to  coarse  grained  hornblende-biotite  diorite  to  monzodiorite.  The  contacts  of  the 
+stock are parallel to subparallel to regional foliation, and the stock is foliated itself, 
+however, to a lesser degree than the enclosing western series rocks.
+Intermediate  intrusive  rocks  exposed  on  the  north  side  of  Granduc  mountain 
+(Klepacki and Read, 1981) and intersected in North Zone drilling (Freckelton et al., 
+1982) are correlated with the Bucke Glacier suite based on similar lithologies and U-
+Pb (zircon) dates (Childe, 1994).
+The  age  of  the  Bucke  Glacier  stock  is  constrained  by  two  widely  separated  U-Pb 
+(zircon) dates. To the north, near the northern most exposure of the stock, a foliated 
+diorite  phase  of  the  stock  returned  a  date  of  221  +  1  Ma  (M.L.  Bevier,  personal 
+communication to P. Lewis, 1994). To the south, near the southern most exposure of 
+the stock, a hornblende quartz monzodiorite phase returned a date of 220 - 223 Ma 
+(J. Mortensen, personal communication to P. Lewis, 1994).
+Similar composition sills on Granduc mountain were 232 + 3 Ma (Childe, 1994). In 
+addition,  a  U-Pb  (zircon)  analysis  from  the  footwall  andesite  on  Granduc  mountain 
+(North Zone) returned an identical date within error of 230.5 + 14 Ma.
+Syenite sills (and dykes) 
+Syenite  sills  (and  minor  dykes)  form  north-northwesterly  trending  elongate  bodies 
+(<1.5  km  long  and  10's  of  metres  thick)  in  western  series  rocks  north  of  Granduc 
+mountain.  Sill  contacts  are  parallel  to  sub-parallel  to  regional  foliation  and
+25
+compositional  layering  measured  in  the  enclosing  western  series  rocks.  The  sills 
+contain crowded megacrystic (<5 cm) potassium feldspar and are weakly foliated.
+The age of these intrusions are not known but are likely early Jurassic or older.
+Lee Brant stock 
+Tertiary  Lee  Brant  stock  forms  a  large  stock  in  eastern  series  rocks  north  of 
+Divelbliss  Creek.  The  stock  consists  of  undeformed  hornblende  -  biotite  quartz 
+monzonite.  A  U-Pb  (zircon)  date  of  55.6  +  2  Ma  was  obtained  from  a  sample 
+collected  along  the  eastern  margin  of  the  body  north  of  Divelbliss  Creek  (J. 
+Mortensen, personal communication to P. Lewis, 1994).
+Similar  composition  intrusions  cross-cut  the  Mine  series,  within  the  Granduc  Mine 
+and are, in turn, displaced by late movement on the Granduc and parallel faults. At 
+the southern extremities of the Property, both the Stuhini and Hazelton group rocks 
+are intruded by the Coast Range batholitic intrusions. 
+STRUCTURE 
+Folding
+First Phase Deformation
+Surface mapping on Granduc mountain by Klepacki and Read (1981) identified four 
+phases  of folding.  The  earliest  deformation  is  characterized  by  minor  isoclinal  folds 
+(F1) that plunge shallow to the southeast in the northern part of the map, and to the 
+southwest  in  the  southern  part  of  the  map.  The  axial  planes  of  these  folds  are 
+parallel  to  layering.  The  intersection  of  axial  planar  cleavage  (S1),  defined  by  the 
+alignment of biotite and muscovite, with bedding (So) results in lineations (L1) that 
+plunge similar to the (F1) minor folds.
+Second phase deformation
+Second  phase  deformation  is  characterized  by  tight  to  open,  minor  to  major  folds 
+(F2)  that  verge  to  the  east.  Axial  planes  of  F2  folds  strike  north-northeasterly  and 
+dip steeply east or west. F2 fold axes plunge steeply north in the northern part of the 
+map, and steeply south in the southern part of the map. Locally, F2 minor folds have 
+axial surfaces which diverge and form box-shaped folds.
+Third & Fourth phase deformation
+Third  phase  deformation  produced  small  open  folds.  F3  axial  planes  strike  east  to 
+northeasterly and dip shallow to moderately south. They are best developed in the 
+Gash Banded Tuff Unit (Unit 4) and appear to be spatially related to the Granduc and 
+Western faults. Fourth phase deformation is defined by gentle warps that cause the 
+gradual change in orientation of older features across the map sheet.
+26
+Progressive Deformation within the South Unuk Shear Zone
+Lewis  (1994)  attributes  S1  foliation,  F1  and  F2  folds  on  Granduc  mountain  to 
+progressive deformation associated with the South Unuk shear zone. The South Unuk 
+shear zone is several km wide and has dominantly a sinistral sense of displacement. 
+This  new  interpretation  is  significant  because,  previously,  the  consistent  northerly 
+striking and steeply west dipping S1 foliation measured by Klepacki and Read (1981) 
+was interpreted to represent the single limb of a major F1 fold. According to Lewis 
+(1994), a major F1 fold is unlikely, and its postulated occurrence should not be used 
+to guide exploration. For a more in-depth discussion of the South Unuk shear zone 
+and associated structural elements the reader is referred to Lewis (1994).
+Faulting
+South Unuk Shear Zone
+The  HFK  fault  mapped  by  McGuigan  and  Marr  (1979)  may  represent  the  southern 
+continuation  of  the  South  Unuk  shear  zone mapped  north  of  Granduc  mountain  by 
+Lewis (1994). The South Unuk shear zone separates deformed Late Triassic western 
+series  (Stuhini  Group)  rocks  in  the  west,  that  host  the  Granduc  deposit,  from  less 
+deformed Early to Middle Jurassic eastern series (Hazelton Group) rocks in the east.
+Granduc and Western Faults
+Younger faults identified by Klepacki and Read (1981) and all previous studies on the 
+Property  include  the  Granduc  and  Western  faults.  These faults  strike  northerly  and 
+dip  moderately  to  steeply  west.  Analysis  of  the  data  by  Klepacki  and  Read  (1981) 
+shows the Granduc and Western faults record movement in a right-lateral, strike slip 
+sense,  with  approximately  4km  of  displacement,  in  total,  across  the  two  fault 
+structures. Right lateral movement cross-cuts and displaces late quartz diorite dykes 
+in the Granduc Mine series lithologies and the Hangingwall series.
+27
+DEPOSIT TYPES
+The principle exploration target on the Property is for volcanogenic massive sulphide 
+(VMS) deposits of the Besshi-type. Besshi-type deposits are named after deposits on 
+the southern Japanese island of Shikoku – Slack, 1993). The descriptive model name 
+for this class of deposit is the mafic-siliclastic VMS.
+Besshi VMS sulphide mineralization consists predominantly of iron sulphides (pyrite 
+and/or pyrrhotite), with lesser chalcopyrite; sphalerite may or may not be present. 
+Besshi deposits can contain highly varied and complex sulphide mineralogy, including 
+arsenopyrite,  galena,  bornite,  tetrahedrite-tennantite,  cobaltite,  stannite  and 
+molybdenite.  Quartz  (chert),  tourmaline,  carbonate,  albite,  sericite,  chlorite  and 
+amphibole can be found as gangue minerals in the deposits. Barite is usually absent, 
+but  other  chemical  sedimentary  rocks  (chert, carbonates or  oxide-facies  iron  beds) 
+and/or magnetite may be associated.
+The  Besshi  massive  sulphide  deposits  are  stratiform  and  tabular.  The  massive 
+sulphides  may  be  finely  or  coarsely  layered,  or  massive  and  can  be  finely 
+interlaminated  with  chert,  tuff,  calcareous  sediment,  and  magnetite;  the  sulphide 
+lenses  can  be  just  several  metres  thick  but  can  extend  for  several  kilometres. 
+Chloritic alteration haloes are commonly in the host rocks surrounding the sulphide 
+horizons, a relic of pre-deformational alteration. Other alteration minerals that may 
+occur are quartz, carbonate, pyrite, sericite and graphite. Locally, tourmaline can be 
+distinctly abundant.
+Crosscutting  the  massive  sulphide  horizons,  there  may  be  veins  of  recrystallised 
+pyrite  and/or  chalcopyrite,  opened  and  filled  when the horizons  were  deformed.  In 
+highly  deformed  environments,  sulphides  may  be  thickened  in  fold  closures,  and 
+remobilized into axial plane shears.
+The  sulphide  horizons  generally  occur  in  thick  sequences  of  marine  sedimentary 
+rocks, ranging from black shale to arkose to greywacke. The clastic hosts themselves 
+are generally finely laminated sedimentary rocks, possibly turbidites. There can also 
+be tuffaceous interlayers. The clastic sediments are typically graphitic.
+There  are  usually  no  felsic  volcanic  rocks  present,  though  flows,  and  sub-volcanic 
+sills  of  basalt  are  often  present  in  the  sequence  of  sediments.  The  basalts  have  a 
+tholeiitic composition.
+The host rocks, mineralogy and chemistry of Besshi deposits lie along a continuum 
+between  sedimentary-exhalative  deposits  and  copper-zinc  massive  sulphides.  The 
+deposits are the products of hydrothermal exhalation at vent sites (“black smokers”) 
+or hydrothermal brine pools that formed on the seafloor depressions after exhalation. 
+Some  replacement  mineralization  of  sub-seafloor  clastic  sedimentary  rocks  by 
+sulphur-bearing hydrothermal fluids is postulated.
+Besshi-type volcanogenic massive sulphide (VMS) deposits range in size from under 
+a  million  to  300  million  tonnes  and  grade  between  0.64%  and  3.3%  copper.  The 
+Besshi deposits themselves contain 30 million tonnes of 2.5% copper and 0.3% zinc, 
+plus  7  grams  per  tonne  silver  and  0.2  gram  gold  per  tonne.  The  largest  Besshi
+28
+deposit  in  the  world  is  the  Windy  Craggy,  in  northwestern  British  Columbia,  which 
+contains between 210 and 320 million tonnes grading 1.66% copper, 0.09% cobalt, 
+3.5 grams silver per tonne and 0.2 gram gold per tonne. Figures compiled by Slack 
+(1993) are tabulated below (Table 1). The methods employed to calculate the size 
+and grades of the deposit examples cited in this section have not been reviewed by 
+the  authors  for  compliance  with  the  Instrument  for  reporting  of  mineral  resources. 
+The figures have been cited below are therefore for geological information only.
+Besshi-type  deposits  appear  to  have  formed  in  a  variety  of  tectonic  environments, 
+from oceanic crust to early-forming rift basins in continental plates. The host rocks 
+are thick, terrigenous clastic sedimentary sequences with lesser volumes of tholeiitic 
+mafic  magmatism.  It  has  been  suggested  that  the  size  of  the  deposit  reflects  the 
+volume of mafic volcanic rocks in the ore-forming system; the more mafic volcanic 
+rocks  that  occur  in  the  basinal  stratigraphy,  the  more  copper  there  may  be  in  the 
+exhalative sulphide body.
+Table 1: Major Besshi-type deposits (modified from Slack, 1993)
+Deposit
+Location 
+Japan 
+Besshi 
+Japan 
+Hitachi 
+Japan 
+Yanahara 
+Ducktown 
+USA 
+Gossan Lead  USA 
+Windy Craggy  Canada 
+Granduc 
+Canada 
+France 
+Rouez 
+Liwu 
+China
+Age
+Grade
+Size 
+Mt  Cu (%)  Zn (%)  Ag (g/t)  Au (g/t) 
+30 
+Jurassic 
+29 
+Jurassic? 
+25 
+Permian? 
+Late Proterozoic  163 a 
+40 b 
+Late Proterozoic 
+297 
+Triassic 
+Triassic 
+39 
+100 
+Late Proterozoic 
+Triassic 
+20
+0.2 
+0.5 
+0.6 
+0.3 
+<0.1 
+0.2 c 
+0.1 
+1.5 
+0.3
+0.3 
+0.7 
+-- 
+0.9 
+1.5 
+0.3 c 
+-- 
+1.5 
+--
+2.5 
+1.4 
+1.2 
+1.0 
+0.5 
+1.4 
+1.7 
+0.6 
+1.8
+7 
+5 
+58 
+3 
+8 
+4 c 
+7 
+21 
+30
+a includes 9 separate deposits; the largest (Cherokee) contained 70 Mt @ 0.7% Cu, 0.5% Zn. 
+b Estimated value.  c Zn, Ag and Au are for North Zone only.
+29
+MINERALIZATION
+VOLCANOGENIC MASSIVE SULPHIDE ZONES 
+The  principle  copper-silver  bearing  volcanogenic  massive  sulphide  zones  on  the 
+Property  are  located  in  a  north-south  trending,  steeply  westward  dipping  strata  of 
+Unit  3  (Mine  series)  and  Unit  2,  part  of  the  Late  Triassic  western  series  (Stuhini 
+Group) (Figs. 6, 7). Three major mineralized zones have been identified-North Zone, 
+Granduc deposit and South Zone (Fig. 4).
+Photo 1.  Granduc Deposit - B1 ore body: Massive pyrrhotite-chalcopyrite-pyrite in a
+strongly foliated calcareous, chloritic mafic tuff.
+Syngenetic mineralization consists of sulphides-pyrrhotite, chalcopyrite, pyrite, rare 
+sphalerite and galena-and magnetite iron formation hosted within chert, mudstones 
+and  pyroclastic  rocks  of  the  Granduc  Mine  series.  Subsequent  deformation  has 
+remobilized  and  recrystalized  the  sulphides  as  disseminations,  layers  that  parallel 
+foliation,  and  crosscutting  remobilized  sulphide  breccia  zones  along  axial  planar 
+jointing  and  shear  surfaces  (Photos  1  and  2).  The  remobilized  sulphides  comprise 
+angular to rounded distorted schistose wallrock and brittle chert and magnetite iron 
+formation fragments in a recrystalized deformed sulphide groundmass consisting of 
+more  ductile  sulphides  such  as  chalcopyrite,  pyrrhotite  and  lesser  sphalerite  and 
+galena. The structure results from the detachment, fragmentation, rolling, kneading 
+and  grinding  of  wallrock  and  brittle  sulphide  fragments  in  a  ductile  sulphide 
+groundmass. The common term for the texture is “Durchbewegt ore” (Photo 3).
+30
+GRANDUC DEPOSIT 
+The main Granduc deposit consists of a number of individual ore bodies-A, B1, B2, C 
+and F-that are structurally controlled by south plunging F2 folds (Fig. 4). The A, B1 
+and F ore bodies average 1.9% Cu, while the B2 and C ore bodies average 1.3% and 
+1.7% Cu, respectively. The deposit is separated into a northern and southern block 
+that is separated by a weakly mineralized to barren zone. The F ore body lies in the 
+northern  block  (north  of  11  300  N  at  the  2600  level)  while  all  others  lie  in  the 
+southern  block.  Mineralization  is  essentially  stratabound,  however  deformation  has 
+caused  sulphide  remobilization  resulting  locally  in  cross-cutting  relationships.  It 
+consists  of varying  proportions  of chalcopyrite,  pyrrhotite,  magnetite,  minor  pyrite, 
+and rare sphalerite and galena.
+Photo 2.  Granduc Deposit-B1 Ore body: Small F2 fold closure in massive sulphides
+Structurally  modified  sulphides  form  an  important  part  of  the  B1,  B2,  C  and  F  ore 
+bodies.  Based  on  measurements  at  the  2600  level  and  higher  in  the  mine,  the 
+thickest  parts  of  those  bodies  plunge  in  fold  closures  with  an  average  F2  fold  axis 
+orientation  of  55o  towards  230o.  The  average  axial  plane  measurement  was 
+0200/700W  (McGuigan  and  Tucker,  1981).  Minor  folds,  and  displacement  across 
+chloritic  shear  surfaces  (“transpositional  slips”)  indicate  a  dominance  of  left  lateral 
+shear displacement of the sulphide and the sulphide-bearing, cherty magnetite-rich 
+mafic tuffs.
+31
+Photo  3.  Granduc  Deposit-B1  Ore  body:  Remobilized  pyrrhotite-chalcopyrite  with 
+brecciated mafic tuff and chert exhibiting the “Durchbewegt ore” texture.
+NORTH ZONE 
+North Zone is between 14 600N and 15 800N on the Granduc mine (Imperial) grid, 
+approximately  1.5  km  north  of  the  Granduc  Mine  (Figs.  4,5,7).  Mineralization  was 
+first  intersected  in  surface  drill  hole  153-1  by  Newmont  Ltd.  in  1977.  Assays  from 
+this  hole  [over  the  intervals  529.5  m  to  540.0  m  and  558.3  m  to  566.85  m  were 
+1.39%  (10.14  m  true  thickness)  and  3.29%  (8.28  m  true  thickness),  respectively] 
+were 1.39% Cu over 10.7 m and 3.29% Cu over 8.7 m. These intersections led to a 
+surface diamond drilling program (approximately 7 620 m in nine drill holes) by Esso 
+Minerals  Canada  Ltd.  in  1980  and  1982.  Two  separate  mineralized  zones  were 
+identified in the Upper Footwall series (Unit 2). 
+SOUTH ZONE 
+South  Zone  is  between  6  000  and  5  000N  on  the  Granduc  mine  (Imperial)  grid, 
+approximately 1.5 km south of the Granduc Mine (Figs. 4,5,7). Granduc Mines Ltd. 
+explored this area in 1961 and completed a 152 m adit and a number of surface and 
+underground drill holes. Drill hole 250 intersected two zones assaying 3.84% Cu over 
+the  interval  143.7  m  to  157.8  m  (4.13  m  true  thickness)  and  3.27%  Cu  over  the 
+interval  204  m  to  211.5  m  (7.32  m  true  thickness).  Mineralization  is  hosted  in 
+volcanic  conglomerate  thought  to  be  the  facies  equivalents  of  the  Granduc  Mine 
+series. Intersections on the South Zone most closely correlate with the horizon that 
+hosts the A zone in the Granduc Mine, or alternately a unit higher in the succession.
+32
+EXPLORATION
+EXPLORATION PROGRAMS 2005-2006 
+Castle has not conducted exploration on the Property.
+The  last  phase  of  major  diamond  drilling  on  the  Property  was  during  the  Esso 
+Minerals  Canada  ownership  of  the  mine,  prior  to  1984.  Bell  Copper  conducted  two 
+exploration  programs  on  the  Property,  focused  on  targets  under  the  South  Leduc 
+glacier and in the South Zone. Progress was disclosed in news releases in 2005 and 
+2006 but no technical reports have been made publicly available. However, the 2006 
+exploration is reported in Wasterneys (2007, Assessment Report 28912 in the ARIS 
+system) and is now released from confidential.
+Work  was  conducted  out  of  an  exploration  camp  located  at  an  abandoned  airstrip, 
+which is located near the 2475 level portal of the Granduc Mine. All programs were 
+helicopter-supported.
+In 2005, Bell Copper conducted a limited diamond drilling program and an airborne 
+geophysical survey. Work accomplished was as follows:
+a)  Diamond  drilling  in  5  holes,  for  a  total  of  2087.6  metres,  at  the  south 
+extension  of  the  main  mineralized  horizons  of  the  Granduc  Mine,  under  the 
+north side of the South Leduc glacier.
+b)  AeroTEM II surveys, for 1206 line km. comprising magnetic and AeroTEM II
+helicopter electromagnetic system.
+The 2005 work conducted by Cambria and was supervised by one of the authors of 
+this report (Harrison).
+In  2006,  Bell  Copper  conducted  a  limited  diamond  drilling  program  and  surface 
+prospecting. Work accomplished was as follows:
+a)  Prospecting  in  the  area  recommended  by  McGuigan  (2005),  where  massive 
+sulphide  boulders  were  discovered  on  the  north  side  of  Granduc  mountain 
+(Melnyk, 1991).
+b)  Diamond drilling in 12 holes, for a total of 3927.5 metres, at the south side of
+the South Leduc glacier and under the South Zone.
+This work was supervised by Bell Copper employees (Wasterneys, 2007).
+No other drilling has been conducted on the Property since 2006.
+33
+AEROTEM II AIRBORNE GEOPHYSICAL SURVEY 
+In 2005, Bell Copper commissioned an airborne geophysical survey of the Property 
+from Aeroquest Limited, comprising 1206 line-km. Surveys employed a magnetic and 
+AeroTEM  II  helicopter  electromagnetic  system.  The  AeroTEM  II  is  a  coincident  coil 
+helicopter-borne time domain EM system. See Rudd (2005).
+Magnetic Response  
+The magnetic data provide a high resolution map of the distribution of the magnetic 
+mineral content of the survey area. The sources for anomalous magnetic responses 
+are  thought  to  be  predominantly magnetite because  of the  relative  abundance  and 
+strength of response (high magnetic susceptibility) of magnetite over other magnetic 
+minerals such as pyrrhotite.
+According  to  Rudd  (2005),  the  magnetic  data  (Fig.  9)  ranges  from  lows  of 
+approximately 55,500 nT to highs of up to 60,660nT with an average background of 
+56,375 nT. The area is characterized by a series of broad and multi-lobed magnetic 
+highs which likely define mafic lithologies, such as the basalts and the Bucke Glacier 
+intrusive  suite.  The  highest  magnetic  response  is  observed  approximately  2  km 
+northwest  of  the  Granduc  mine  site    (Fig.  9;Point  A).  This  feature  has  a 
+comparatively  small  strike  length  (750  m)  and  is  semi-circular  with  a  amplitude  of 
+over 3,700 nT. However the body does not show an associated EM response which 
+may indicate that the body has remnant magnetization. Subsequent drilling by Bell 
+Copper showed this body to be part of the Bucke Glacier intrusive suite.
+Higher frequency magnetic response images the strike of the sedimentary packages 
+in  the  western  portion  of  the  survey  block  and  the  magnetite-bearing  Mine  series 
+sedimentary and tuff succession. Of potential significance in the interpretation of the 
+Mine  series  exploration  potential  is  the  pattern  of  magnetic  response  along  strike 
+southward  from  the  North  Leduc  glacier,  across  Granduc  mountain,  through  to  the 
+South  Zone.  Magnetic  responses  appear  to  be  most  intense  at  lower  elevations  on 
+the  flanks  of  the  Granduc  mountain.  This  correlates  with  geological  mapping  data 
+that suggests lower copper grades and less sulphide-magnetite mineralization in the 
+Mine series at higher elevations. Best copper grades are found at the 3200 level and 
+below (near or below the South and North Leduc glacier ice  levels). Thickness and 
+grades of the Mine series exhalative mineralization attenuates up dip.
+Faulting can also be identified by patterns in the magnetic data contours or colours. 
+Faults often appear as lineaments and often have strike length of several kilometres. 
+Offsets  in  narrow,  magnetic  stratigraphic  trends  also  delineate  structure.    Sharp 
+contrasts  in  magnetic  lithologies  may  indicate  large  displacements  along  strike-slip 
+or thrust faults. Several faults can be interpreted from the magnetic data throughout 
+the survey area. Most prominent in the survey is the north-south lineament of the 
+Granduc-Western fault system.
+AeroTEM II Electromagnetic Survey 
+According to Rudd (2005), the EM data show that the majority of the bedrock in the 
+area is highly resistive. However, several anomalous conductive zones throughout 
+the survey area have been identified where the EM response persist to the later
+34
+415000
+420000
+O
+0
+0
+0
+5
+3
+2
+6
+0
+0
+0
+0
+3
+2
+6
+Granduc
+Mt.
+#
+D
+t
+l
+u
+a
+F
+ 
+c
+u
+d
+n
+a
+r
+G
+0
+0
+0
+5
+3
+2
+6
+0
+0
+0
+0
+3
+2
+6
+Castle Resources Inc.
+GRANDUC PROPERTY
+Northwest British Columbia, Canada
+TMI colour map overlain
+on 1DV shaded map
+Granduc_June2010_43101_Aeroquest_TMI_1VD _Figure9.mxd
+415000
+0
+1
+Project: Granduc
+Cambria Geosciences Inc.
+Km
+1:50,000
+Map Prepared by: D. Metvedt
+Figure: 9
+Projection: UTM 09 - Datum: NAD83
+Date: 06/22/2010
+420000
+415000
+420000
+O
+0
+0
+0
+5
+3
+2
+6
+0
+0
+0
+0
+3
+2
+6
+Granduc
+Mt.
+#
+D
+t
+l
+u
+a
+F
+ 
+c
+u
+d
+n
+a
+r
+G
+0
+0
+0
+5
+3
+2
+6
+0
+0
+0
+0
+3
+2
+6
+Castle Resources Inc.
+GRANDUC PROPERTY
+Northwest British Columbia, Canada
+Overview Map of
+EM Anomaly Picks
+Granduc_June2010_43101_Aeroquest_EM_AnomalyPicks_Figure10.mxd
+415000
+0
+1
+Project: Granduc
+Cambria Geosciences Inc.
+Km
+1:50,000
+Map Prepared by: D. Metvedt
+Figure: 10
+Projection: UTM 09 - Datum: NAD83
+Date: 06/22/2010
+420000
+channels (Fig. 10).  Anomalies that have attenuated amplitude in the early channels 
+accompanied by a slow rate of decay (persisting to the later channels) indicate the 
+better bedrock conductors (Fig. 10; red and orange symbols).
+The area of the Granduc mine site shows well defined EM responses (Fig. 9, Point B) 
+which  trend  north -south  and  closely  follow  a  magnetic boundary  discussed  above.  
+Perhaps the most interesting observed response occurs south of the Granduc mine 
+site, under the South Leduc glacier (See Rudd, 2005 and refer to picks on L10750 
+through  L1070).    Here  the  anomalies  show  moderately  high  conductance  (higher 
+than the mine site) and occur on a magnetic high (Fig. 9, Point C).
+In interpreting the EM responses over the Granduc mine, it is important to observe 
+that  the  massive  sulphide  and  magnetite-bearing  ores  have  been  mined  out  to 
+surface.
+Subsequent to the airborne geophysical program, Point C was drilled later in 2005. 
+The southward continuation of the Mine series succession was intersected, including 
+the A and B zones. In addition to significant pyrrhotite-pyrite-chalcopyrite-magnetite 
+mineralization, several zones of graphic chert were intersected. The combination of 
+the  conductive  sulphides  and  graphite  explain  the  strong  EM  response.  The  Mine 
+series in this area contains about 15% or more magnetite, explaining the coincident 
+magnetic responses.
+The linear zone of better bedrock conductor picks on Granduc mountain are mapping 
+the  expression  of  the  Mine  series  and  Upper  Footwall  series  lithologies.  The  EM 
+responses are likely detecting the presence of graphite, sulphides and clays with the 
+Mine series, and within the Granduc Fault.
+The linear zone of better bedrock conductor picks on the north and east side of the 
+(North)  Leduc  glacier  are  mapping  the  expression  of  the  Lower  to  Middle  Jurassic 
+Hazelton  group  sedimentary  rocks  and  possibly  a  sub-parallel  fault  to  the  Granduc 
+fault. This area has not been prospected by Bell Copper.   
+PROSPECTING 
+In  2006,  Bell  Copper  personnel  followed  up  on  the  recommendations  of  McGuigan 
+(2005) to prospect the area of massive sulphide boulders in talus and local till at the 
+northern  fringe  of  the  retreating  ice  field  on  Granduc  mountain  (Melnyk,  1991). 
+Nearby magnetic highs in the AeroTEM II survey confirmed the target.
+The  area  has  now  melted  free  of  ice,  and  has  exposed  the  new  discovery  by  Bell 
+Copper.  Termed  the  JK  Zone,  it  consists  of  heavily  disseminated  and  stringer 
+pyrrhotite, pyrite, chalcopyrite and magnetite in mafic tuffs and sediments, near the 
+contacts with intermediate to mafic intrusions. (Marsh, Oct. 25, 2006 News Release). 
+See the section on Drilling in this report for results.
+37
+DRILLING
+DIAMOND DRILLING 
+The  Property  is  a  past  producing  mine.  Diamond  drilling  was  conducted  as  part  of 
+exploration,  development  and  ore-definition  during  the  operation  of  the  Property 
+from  1953  to  1984.  A  total  of  1,901  diamond  drill  holes  that  total  141,374  m  are 
+recorded  in  the  mine  and  exploration  diamond  drill  logs  for  the  Property,  prior  to 
+2005.  It  is  beyond  the  scope  of  this  report  to  verify  and  summarize  the  extensive 
+drilling  on  the  Property.  That  verification  will  be  part  of  the  Phase  One  exploration 
+program recommended herein.
+In 2005, Bell Copper conducted a limited diamond drilling program of 5 holes, for a 
+total of 2087.6 metres, at the south extension of the main mineralized horizons of 
+the Granduc Mine, under the South Leduc glacier. The 2005 work was supervised by 
+one of the authors of this report (Harrison).
+In  2006,  Bell  Copper  conducted  a  limited  diamond  drilling  program  12  holes,  for  a 
+total of 3927.5 metres Drilling was conducted at the new JK discovery, at the south 
+side of the South Leduc glacier and under the South Zone. Work was supervised by 
+Bell Copper employees (Wasterneys, 2007). 
+SOUTH LEDUC - SOUTH ZONE DRILLING RESULTS 
+Diamond drilling of the Mine Series succession in 2005 (Table 2) was focused on the 
+northern  side  of  the  South  Leduc  glacier,  in  a  area  with  clear  geological  continuity 
+with the main Granduc deposit horizons. Most of the drilling in 2005 was positioned 
+to  provide  a  test  of  the  west  dipping  Mine  Series  horizons  from  hanging  wall  to 
+footwall. Most intersected both the A Zone (hanging wall) and the B Zone (Footwall). 
+The footwall of the Mine Series  is  a short interval of Unit 3v, mafic volcanic rocks. 
+Drilling  in  2006  targeted  the  south  side  of  the  South  Leduc  glacier  and  the 
+succession in the South Zone (Table 3). Drilling in that program was less successful 
+in intersecting the Mine Series succession. Most drill holes intersected the A horizon 
+only. The two most southerly holes, under the South Zone cliff face mineralization, 
+were not drilled sufficiently deep to test the A Zone or any of the lower parts of the 
+Mine Series. 
+JK ZONE DRILLING RESULTS 
+Bell Copper completed 5 diamond drill holes totalling 1240 metres in length, in late 
+2006. Bell Copper tested the newly discovered JK Zone and an adjacent ice-covered 
+aeromagnetic  anomaly  discovered  by  an  airborne  survey  in  the  spring  of  2005, 
+located  up  slope  from  a  train  of  massive  magnetite  and  sulphide  till  boulders 
+(Melnyk, 1991, discovery). All five holes were collared from the same drill pad and 
+were  fanned  out  in  easterly  and  down-dip  directions  to  assess  the  continuity  of 
+mineralization along the north-northeast-striking JK Zone (Table 3).
+38
+True 
+Thick. 
+(m)
+7.6
+2
+2
+1.8
+4.1
+4.8
+7.8
+3.4
+1.7
+1.5
+8.1
+3.9
+6.3
+4.9
+3.1
+4.3
+Zone
+Cu     
+%
+Fe     
+%
+Ag    
+g/t
+Au     
+g/t
+Co      
+gt/t
+?
+A
+A
+A
+A
+A
+A
+B
+A
+B
+A
+A
+B
+A
+A
+2.21
+1.66
+1.85
+1.19
+1.84
+1.49
+2.57
+2.02
+2.42
+3.92
+2.13
+2.11
+1.89
+2.19
+2.08
+1.84
+13.9
+18.6
+10
+15.7
+15.8
+11.1
+12
+9.1
+20.2
+14.5
+11.3
+15.3
+12.5
+15
+12.7
+10
+11.8
+18.8
+21.8
+16.7
+20.7
+13.1
+6.7
+20.3
+17.4
+36
+23.2
+26.1
+22.8
+20.2*
+28.4
+26.8
+0.16
+0.11
+0.07
+0.11
+0.13
+0.1
+0.16
+0.22
+0.24
+0.25
+0.24
+0.37
+0.26
+0.19
+0.14
+0.29
+94
+114
+203
+103
+98
+128
+114
+156
+271
+168
+139
+No data
+No data
+No data
+No data
+No data
+92.7
+227.4
+245.7
+140.7
+163.3
+197
+218.2
+365.5
+197.3
+263
+416.7
+170.5
+234.6
+220.3
+325.3
+349.6
+101.8
+229.8
+248.1
+143
+169.8
+204.7
+229.2
+370
+200.4
+265.7
+431.2
+176
+245.6
+226.3
+329.3
+354.6
+9.1
+2.4
+2.4
+2.3
+6.5
+7.7
+11
+4.6
+3.1
+2.7
+14.6
+5.5
+11
+6
+4
+5
+2005-1
+2005-2
+2005-3
+2005-4
+2005-5
+2006-1
+2006-2
+2006-4
+2006-5
+2006-6
+2006-7
+90
+90
+90
+90
+90
+90
+90
+110
+100
+96
+90
+-50
+-52
+-69
+-62
+-75
+-70
+-89
+-70
+-70
+-51
+-58
+Table 2
+South Leduc and South Zone Diamond Drilling
+Ddh #
+Azim.
+(°)
+Dip (°) From 
+(m)
+To    
+(m)
+Interval
+(m)
+No significant intersection - drill hole stopped too high in Mine Series
+No significant intersection - drill hole stopped too high in Mine Series
+* Does not include 3.3 foot interval that assayed 1140 g/t Ag
+ 
+This array of drill holes demonstrated continuity of the footwall mineralization over 
+distances of 150 metres along strike and 100 metres down dip.
+According to Marsh (News Release, Jan. 2007), all five drill holes intersected the JK 
+Zone and at least one of two subparallel zones of magnetite-pyrite-chalcopyrite iron 
+formation situated 80 metres and 140 metres further into the footwall.
+Drill  intersections  of  the  shallow  JK  Zone  returned  low grade  metal  values  and  are 
+consequently  not  reported  in  Table  3.  However,  both  of  the  two  footwall  zones 
+produced  drill  intersections  containing  substantial  thicknesses  of  magnetite-pyrite-
+chalcopyrite iron formation.
+The discovery of the JK Zone and drilling of the footwall mineralization demonstrates 
+that  the  same  copper-bearing  zone  that  hosted  the  Granduc  Mine  extends  over  2 
+kilometres further northward beyond the north end of the mine.
+39
+Table 3
+JK Zone Diamond Drilling
+Ddh #
+Azim.
+(°)
+Dip 
+(°)
+From (m)
+To    
+(m)
+Interval
+(m)
+Cu     
+%
+Fe    
+%
+Ag    
+g/t
+Au     
+g/t
+Co      
+gt/t
+2006-8
+63
+-45
+2006-9
+63
+-70
+2006-10
+140
+-45
+2006-11
+2006-12
+140
+105
+-70
+-57
+191.3
+including
+191.3
+199.9
+including
+201.1
+129.4
+199
+194.8
+213.9
+208
+135.5
+7.7
+3.5
+14
+6.9
+6
+Hole lost at 153.3m due to high pressure water
+170.4
+224.3
+173.2
+230
+2.8
+5.8
+1.3
+2.7
+1.37
+1.26
+Hole lost at 139.9m due to high pressure water
+True 
+Thick. 
+(m)
+4.2
+1.9
+5.3
+2.6
+4.6
+0.57
+0.74
+1.12
+1.47
+0.76
+14.7
+21.5
+12
+11.6
+18.6
+20.6
+17.5
+1
+1.5
+2.8
+3.4
+1.8
+2
+3.9
+0.06
+0.09
+0.11
+0.13
+0.06
+0.16
+0.14
+No data
+No data
+No data
+No data
+No data
+No data
+No data
+These results, taken together with the South Leduc-South Zone results indicate the 
+Besshi-type  pyrrhotite-pyrite-chalcopyrite  mineralization  is  aerially  extensive.  Fine 
+grained  clastic  rocks,  chert  and  mafic  tuffs  host  mineralization  over  a  large  strike 
+length on Granduc mountain, and the South Zone. Drilling and magnetic survey data 
+indicate that the thicknesses and grades are increasing to depth.
+SAMPLING METHOD AND APPROACH
+Sampling  that  formed  the  body  of  diamond  drilling,  surface  and  underground  data 
+supporting the interpretation and conclusions in this report are described as follows:
+(a) diamond  drilling  in  the  deposit  was  conducted  on  50  ft  section  intervals, 
+oriented in east-west section lines, which are orthogonal to the trend of the 
+deposits;
+(b) all  drill  hole  collars  were  surveyed,  and  dip  tests  taken;  after  1979,  longer 
+holes  used  photographic  hole  surveys,  as  magnetic  bearings  are  unreliable 
+near the pyrrhotite and magnetite bearing deposits;
+(c) diamond  drilling  was  mostly  done  in  AQ  and  BQ  core  sizes,  but  longer
+exploration holes, employed NQ and HQ core sizes;
+(d) most  diamond  drill  holes  were  sampled  using  half  split  core,  except  in  the 
+area  of  the  active  mining,  where  some  entire  core  was  sampled  during 
+definition drilling work; and
+(e) assay sample intervals corresponded to geological contacts, which are mostly
+visible to the geologist.
+40
+SAMPLE PREPARATION, ANALYSES AND SECURITY
+All results reported herein are cited from previous mine operations and exploration 
+programs  at  the  Property. No  new  exploration  work  has  been  done  for  this  report. 
+Consequently, the following fairly summarizes sample handling on the Property:
+(a) sampling  and  assaying  up  to  1984  was  conducted  by  the  operators  of  the 
+Property and assaying, mostly conducted by mill-site assay laboratories under 
+the supervision of BC Certified Assayers;
+(b) during  the  period  1991  to  1993,  the  technical  work,  including  sampling  and 
+sample  handling  was  conducted  by  personnel  supervised  by  one  author 
+(McGuigan), analytical work was performed by Acme Laboratories, a Certified 
+Laboratory  located  in  Vancouver,  BC.  Lead  isotope  determination  and  age 
+determinations  were  conducted  by  the  Mineral  Deposits  Research  Unit 
+(“MDRU”), and other research facilities at the University of British Columbia, 
+all conform to acceptable provincial and national testing standards;
+(c) during 2005, the technical work, including sampling and sample handling was 
+conducted  by  Cambria  and  personnel  supervised  by  one  author  (Harrison), 
+analytical work was performed by Acme Laboratories, a  Certified Laboratory 
+located in Vancouver, BC;
+(d) during  2006,  the  technical  work  was  supervised  by  Bell  Copper  employees, 
+under  the  direction  of  geologist  Tim  Marsh,  PhD,  and  analytical  work  was 
+performed by Acme Laboratories, a Certified Laboratory located in Vancouver, 
+BC;
+(e) no  resource  estimates  were  made,  or  additional  samples  taken,  for  this 
+report,  and  therefore,  no  quality  control  measures  were  employed,  beyond 
+the in-laboratory quality control measures; and
+(f)  in  the  authors’  opinion,  previous  resource  and  reserve  estimates  are 
+sufficiently  reliable  for  guiding  future  exploration  of  the  Property,  however, 
+prior  to  the  preparation  of  a  new  mineral  resource  estimation  under  the 
+guidelines  of  the  Instrument,  a  new  verification  diamond  drilling  program 
+must be initiated.
+DATA VERIFICATION
+The Property is a past producing mine. The authors were involved in much of the last 
+phase of mine and exploration geology, and are personally aware of the exploration 
+results relied upon in this report. In preparing this report, the authors conducted the 
+following  checks  upon  the  data  that  is  relied  upon  and  make  the  following 
+observations:
+(a) data  on  the  Property  was  verified  as  part  of  the  previous  Technical  Report, 
+prepared  for  Bell  Copper  prior  to  the  2005  exploration  programs,  see 
+McGuigan (2005);
+41
+(b) the  surveyed  locations  of  Crown  Granted  claims,  underground  workings, 
+Granduc  Tunnel  control  surveys,  diamond  drill  holes  and  surface  geological 
+mapping  were  verified  by  retrieving  the  data  from  technical  records  of  the 
+Granduc mine, and reconciling them to recent control survey work on file with 
+the BC Surveyor General;
+(c) the  authors  reviewed  files  on  the  production  history,  and  historic  mineral 
+resource estimations on the Granduc deposit, to obtain geological information 
+and  to  reconcile  those  estimations  to  the  remaining  historic  in-situ  mineral 
+resource estimates on the Property;
+(d) the  authors’  verification  is  limited  due  to  the  lack  of  supporting  information 
+such  as  assay  records  that  were  used  to  prepare  the  diamond  drilling  logs, 
+and  the  authors  did  not  expend  the  effort  to  prepare  an  alternate 
+interpretation of the geology and correlations that support the historic mineral 
+resource estimations;
+(e) a detailed new estimation of the in-situ mineral resources was not prepared 
+by the authors because the scope of this report is limited to identifying areas 
+for future exploration, and the historic mineral resource estimates are relied 
+upon for geological information only; and,
+(f)  the  author’s  personal  experience  (McGuigan’s)  with  the  mine  geological 
+department  at  Granduc  indicates  that  the  employed  polygonal  reserve 
+estimates are quite sufficient to guide the exploration that is recommended in 
+this report.
+In 1984, one author (McGuigan) supervised the storage of all the diamond drill cores 
+from exploration programs, and each fourth section of the definition diamond drilling 
+within  the  mine  area,  in  a  warehouse  storage  facility  in  nearby  Stewart,  BC.  The 
+inventory of the diamond drill holes in storage is given in Dawson (1994) and all core 
+remains in good condition at the time of the writing of this report. This diamond drill 
+core is available for future verification work, at the time of a new program of mineral 
+resource estimation.
+42
+MINERAL RESOURCE ESTIMATES
+GRANDUC MINE 
+Several  mineral  resource  and  mineral  reserve  estimates  were  prepared  on  the 
+Granduc deposits during mine development and production. Unpublished production 
+data  from  the  Granduc  deposits  from  1968  to  1984  were  15.42  million  tonnes 
+(Melnyk, 1991).
+The  reader  is  cautioned  that  all  the  historic  mineral  resource  estimates  lack 
+verification  by  the  authors.  Reports  detailing  these  historical  estimates  are  not 
+available in detail to the authors, and no attempt has been made to reconcile those 
+estimates with the current understanding of the geology of the Property. The reader 
+is also cautioned not to rely upon any of these historic mineral resource estimates. 
+There is no assurance that any of these historic mineral resource estimates can be 
+confirmed under the categories and standards set out in sections 1.3 and 1.4 of the 
+Instrument.  Accordingly,  they  cannot  be  relied  upon  except  as  geological 
+information.
+Table  4  (from  Schmidt,  et  al,  1983)  is  a  tabulation  of  each  major  historic  mineral 
+resource estimate in the period 1963 to 1983. The location of the zones is shown on 
+Figure 4.
+The  historic  in-situ  mineral  resource  estimate  above  the  1600  level  prepared  by 
+Newmont  in  1966  was  39,442,403  tonnes  grading  1.73%  copper  (Schmidt,  et  al, 
+1983). This figure is commonly used in the literature for the size and grade of the 
+Granduc  deposit.  This  historic  Newmont  mineral  resource  estimate  relied  upon  a 
+geological projection of the Granduc deposits below the 2175 level, below the area of 
+diamond  drilling.  This  historic  mineral  resource  estimate  was  not  prepared  in 
+accordance with the  categories  or standards  set  out  in  sections  1.3 and  1.4  of the 
+Instrument; and cannot be relied upon except as geological information.
+However, according to Schmidt (1983) additional drilling by Canada Wide Mines Ltd. 
+near  the  2100  elevation  concluded  that  the  grades  do  not  diminish  at  depth.  He 
+further concluded that “in-situ averages for all zones has been extremely consistent, 
+ranging  from  1.93  to  1.73  [copper].  There  are  no  indications  that  this  will  change 
+with depth below Block 3 [below 2175]”.
+Prior the closure of the mine, the remaining in-situ mineral resource above the 2175 
+level was estimated to be 5,083,178 tonnes, grading 1.84% copper (Schmidt, et al, 
+1983), not including the resources in the North Zone (see the next section). The “In-
+situ Reserve” stated by Schmidt, et al, 1983 did not describe the progress of mining 
+in the F ore body. The F ore body was partly developed and it is unclear if it was fully 
+extracted  prior  to  mine  closure  in  1985.  The  Schmidt  “reserve”  estimate  was 
+prepared prior to the establishment of the current categories or standards set out in 
+sections  1.3  and  1.4  of  the  Instrument;  and  cannot  be  relied  upon  except  as 
+geological information.
+The  following  historical  mineral  resource  estimates  cited  in  Tables  5  and  6  do  not 
+meet  the  current  standards  of  the  Instrument  with  respect  to  the  disclosure  of
+43
+mineral  resource  estimates  and  are  considered  geological  information  only.  In 
+addition, the  authors  have  not  reconciled the total mineral  resource  inventory with 
+the  historic  production.  No  estimation  of  the  remaining  mineral  resource  has  been 
+made  by  the  authors.  All  figures  are  cited  are  therefore  for  geological  information 
+only.
+Table 4: Historical Compilation of Mineral Resource Estimates to 1984
+Grade is in %Cu (from Schmidt et al, 1983)
+Not in Compliance with the Instrument, for Geological Information only
+44
+Schmidt,  et  al,  (1983)  prepared  summarized  the  Canada  Wide  Mines  Ltd.  mineral 
+resource estimates, as follows (Table 5):
+Table 5: Historic Mineral Resource Estimates above Sea Level (1983)
+Not in Compliance with the Instrument, for Geological Information only
+(from Schmidt et al, 1983)
+Location in Granduc Mine
+Block 3, 4 (above 2175 level) 
+Block 5 (2175 to 1600 elevation) 
+1600 elevation to Sea Level
+Grade 
+(%Cu) 
+1.84 
+1.78 
+1.82
+Tons
+Tonnes
+5,585,910 
+5,750,000 
+24,000,000
+5,083,178 
+5,216,312 
+21,772,434
+The Schmidt, et al, (1983) historic mineral resource estimates above the 2175 level 
+were prepared with numerous diamond drill hole intersections and some data from 
+sampling of development headings.
+Drilling data from below the 2175 level (Block 5 and the 1600 elevation to sea level) 
+is widely spaced. These historic mineral resource estimates were termed inferred or 
+“potential” by Schmidt, et al, (1983).
+The above historical mineral resource estimates do not meet the current standards of 
+the  Instrument  with  respect  to  the  disclosure  of  mineral  resource  estimates. 
+Additionally,  they  have  not  been  verified  by  the  authors.  Therefore  they  are 
+considered  to  be  geological  information  only.  The  reader  is  cautioned  not  to  rely 
+upon this information.
+Much  of  the  above  geological  information  forms  the  basis  for  targeting  Phase  One 
+and  Phase  Two  diamond  drilling,  with  the  aim  to  verify  these  historic  mineral 
+resource estimates and to confirm the continuity, tonnage and grades of the Granduc 
+deposits from 2600 level, downwards to sea level. 
+NORTH ZONE 
+Historical in-situ mineral resource estimates for Zone 1 and Zone 2 in the North Zone 
+is 2.05 million tonnes averaging 1.84% Cu and 1.48 million tonnes averaging 1.51% 
+Cu (Freckelton et al., 1982). No production development or mining has occurred in 
+the North Zone.
+The historical mineral resource estimates for the North Zone do not meet the current 
+standards  of  the  Instrument  with  respect  to  the  reporting  of  mineral  resource 
+estimates  and  are  considered  geological  information  only.  All  figures  are  cited  are 
+therefore for geological information only.
+45
+INTERPRETATION AND CONCLUSIONS
+GEOLOGY 
+Rocks mapped on Granduc mountain and to the north are separated into two easily 
+recognizable units termed the Western and eastern series that are separated by the 
+north-northwest striking South Unuk shear zone.
+Western series rocks are Late Triassic or older in age, and are correlated with the 
+Late  Triassic  Stuhini  Group.  They  consist  of  moderately  to  highly  foliated  schists, 
+phyllites,  marbles  and  gneisses.  North  of  Granduc  mountain,  western  series  rocks 
+are  subdivided  into  six  lithological  rock  types;  similar  rock  types  on  Granduc 
+mountain (units 1-8) have been described by Klepacki and Read (1981) and include 
+the Granduc Mine series (McGuigan and Marr, 1979).
+Eastern  series  rocks are Middle Jurassic in age and correlated with the Lower to 
+Middle  Jurassic  Hazelton  Group.  They  consist  of  relatively  undeformed,  mainly 
+volcanic  rocks  that  are  subdivided  into  three  conformable  stratigraphic  units.  U-Pb 
+(zircon) dates from the dacitic tuffs both north of the North Leduc glacier and south 
+of the Granduc deposit are similar in age to felsic units in the footwall of the precious 
+metal rich Eskay Creek massive sulphide deposit (Bartsch, 1993) and correlate to the 
+Betty Creek formation.
+Bucke  Glacier  stock  forms  a  northwesterly  elongate  body  (approximately  10  km 
+long by 2 km wide) in western series rocks north of Granduc mountain. It consists of 
+fine to coarse grained hornblende-biotite diorite to monzodiorite. The contacts of the 
+stock are parallel to subparallel to regional foliation, and the stock is foliated itself, 
+however  to  a  lesser  degree  than  the  enclosing  western  series  rocks.  Intermediate 
+intrusive rocks exposed on the north side of Granduc mountain (Klepacki and Read, 
+1981) and intersected in North Zone drilling (Freckelton et al., 1982) are correlated 
+with  the  Bucke  Glacier  suite  based  on  similar  lithologies  and  U-Pb  (zircon)  dates 
+(Childe, 1994). The age of these intrusions is late Triassic.
+The South Unuk shear zone is a north-northwest striking subvertical fault that has 
+dominantly a sinistral sense of displacement; it is mapped from the Iskut river area 
+south to Granduc mountain, a distance of 60 km. On Granduc mountain, and to the 
+north (Divelbliss, Duke and North Leduc areas), western series rocks record strongly 
+heterogeneous  deformation  with  a  large  component  of  simple  shear  in  a  ductile  to 
+semi-brittle  environment;  these  features  indicate  western  series  rocks  should  be 
+included as part of the shear zone (Lewis, 1994). The southern segment of the South 
+Unuk shear zone is the HKF fault is a north-northwest striking steeply dipping fault; 
+locally,  an  ultramafic  horizon  of  dunite,  talc-chlorite  schist  and  chlorite-serpentine 
+schist occurs along the fault.
+Four phases of folding were documented by Klepacki and Read (1981) on Granduc 
+mountain. The first two phases are the most intense and affected the distribution of 
+ore  bodies  underground  in  the  Granduc  Mine.  Lewis  (1994)  mapped  similar  style 
+folds north of the North Leduc glacier (Figs. 6,7) and attributes F1 and F2 folds on 
+Granduc mountain to progressive deformation associated with the South Unuk shear 
+zone.  This  new  interpretation  is  significant  because,  previously,  the  consistent
+46
+northerly  striking  and  steeply  west  dipping  S1  foliation  measured  by  Klepacki  and 
+Read (1981) was interpreted to represent a single limb of a major F1 fold. According 
+to Lewis (1994) a major F1 fold is unlikely, and its postulated occurrence should not 
+be  used  to  guide  exploration.  Notwithstanding  Lewis’  conclusions,  repetition  of 
+similar  units  on  Granduc  mountain  might  be  explained  by  some  large  F1  fold 
+closures,  such  as  the  closure  documented  on  the  west  side  (hanging  wall)  of  the 
+Granduc-Western fault set.
+Lithogeochemical  studies  of  mainly  Unit  2  rocks  from  the  North  Zone  (Granduc 
+mountain) indicates: (i) intermediate volcanic rocks (field term) are tholeiitic  mafic 
+volcanics and are most like mid-ocean ridge or marginal basin basalts (Wilson, 1989) 
+when  plotted  on  REE  plots  and  trace  element  tectonic  discrimination  diagrams; 
+however the slightly enriched LILE and gentle negative REE pattern suggests some 
+crustal  contamination  from  a  subduction  zone,  (ii)  samples  from  a  mafic  sill  (field 
+term) are chemically intermediate in composition and have a similar, but higher REE 
+pattern to the mafic volcanics; similar REE element chemistry and the identical U-Pb 
+(zircon) dates from these units suggest they are genetically related, and (iii) rocks 
+logged as 'cherty tuff' or 'dacitic tuff' have REE patterns similar to that of the mafic 
+volcanic rocks indicating they are not dacitic in composition as logged in the field.
+U-Pb (zircon) analysis of three samples from the Granduc mountain area returned 
+the  following  dates:  (i)  the  Footwall  series  mafic  volcanic  rocks  (North  Zone)  are 
+230.5  +  14  Ma,  (ii)  an  intermediate  sill  that  intrudes  the  mafic  volcanics  has  a 
+identical age within error of 232 + 3 Ma, and (iii) the felsic volcanic rocks (eastern 
+series) south of the Granduc deposit are 185.4 + 9 Ma.
+Lead  (galena  and  microcline)  isotope  analysis  of  four  samples  from  Granduc 
+mountain  indicates:  (i)  Two  samples  from  the  B  ore  body  are  relatively  non-
+radiogenic, and compared to mineralization of known age within Stikinia, indicates a 
+pre-Jurassic age, and (ii) two samples from veins cutting the Footwall mafic volcanics 
+(North  Zone)  plot  within  the  Stewart  Mining  Camp  Tertiary  cluster  as  defined  by 
+Alldrick  et  al.  (1993);  deposits  of  this  age  in  the  Stewart  area  include  the  Porter-
+Idaho/Prosperity and Indian.
+Phase 1 and Phase 2 Deformation: Subsequent deformation has remobilized and 
+recrystallised  the  sulphides  as  disseminations,  layers  that  parallel  foliation,  and 
+crosscutting  breccia  zones  along  axial  planar  joints  and  shear  surfaces.  The 
+deformation is largely related to shearing in a ductile to semi-brittle shear system of 
+the South Unuk shear zone (Lewis, 1994). Under the interpretation of Lewis, Phase 2 
+deformation is only the culmination of an earlier stage shear deformation of Phase 1. 
+Early movement was left lateral and resulted in foliated (S1) stratified rocks and less 
+well foliated intrusive rocks, in F1 fold structures. This shearing continued to be left 
+lateral, in a progression to a somewhat more brittle phase of movement within the 
+South  Unuk  fault  zone,  resulting  in  tight  to  open  F2  fold  structures  and  shearing 
+along  F2  axial  planar  (S2)  surfaces  (the  “transpositional  slips”  in  the  Granduc 
+deposits). The combination of this left lateral shearing has structurally thickened the 
+Granduc deposits in the hinges of F2 fold structures, attenuates the limbs, and gives 
+the  dominantly  moderately  south  plunging  orientation  to  the  thickest  and  richest 
+parts of the Granduc deposits (McGuigan and Tucker, 1981).
+47
+This progressive deformation has resulted in the western limbs of F2 fold structures 
+moving significantly southward in the area of the Granduc Mine. The attitude of this 
+broad ductile to semi-brittle shearing is 0200/700W and has resulted in a broad zone 
+of shear deformed and comminuted sediments and volcanic rocks.
+Geological Succession Similar to Windy Craggy: This above order of major units 
+at Granduc is similar to the Windy Craggy succession. In this interpretation, Units 5, 
+3  and  2  were  a  locus  for  the  intrusion  of  large  sills  of  Bucke  Creek  fine  to  coarse 
+grained  hornblende-biotite  diorite  to  monzodiorite.  Thinner  sills  might  be  wrongly 
+interpreted  as  flows.  In  part,  these  bodies  were  likely  intruded  into  wet,  partly 
+unconsolidated clastic sediments, similar to the geology of the Guaymas Basin in the 
+Gulf  of  California.  The  intrusions  were  responsible  for  the  initial  onset  of  mafic 
+volcanism, hydrothermal activity and formation of Besshi-type volcanogenic massive 
+sulphides,  tourmaline-rich  chert  and  argillite,  and  magnetite  iron  formation  and 
+related stringer zone veining and alteration.
+Effect of the Granduc-Western Fault zone: The Granduc-Western fault zone is a 
+brittle shear structure and strikes at a low angle to the earlier South Unuk shearing 
+and  foliation.  The  sense  of  movement  on  the  younger  Granduc-Western  faults  is 
+right lateral. As the Mine Series trends southward, it moves progressively eastward 
+of the Granduc fault,  and any mineralization is likely to be affected only by the F1 
+and F2 fold structures, in a left lateral sense of displacement and folding. In contrast, 
+as the Mine Series passes northward, the important conclusion from this data is that 
+individual  mineralized  bodies  that  comprise  the  Granduc  deposit  will  pass  into  the 
+Granduc  fault.  Specifically,  the  important  F  ore  body  is  terminated  on  its  northern 
+extremity against the Granduc fault, the rake line of that intersection is evident on 
+longitudinal sections of the deposit. 
+MINERALIZATION 
+Besshi-type  (Mafic-siliclastic)  VMS  Characteristics  Recognized.  The  data, 
+taken  together  with,  and  in  comparison  to,  other  volcanogenic  massive  sulphide 
+deposits  worldwide,  indicate  that  the  Granduc  deposit  is  a  Besshi-type  massive 
+sulphide deposit. The descriptive model term for such deposits is “mafic-siliclastic”. 
+The  Property  contains  very  significant  volumes  of  mafic  to  intermediate  volcanic 
+rocks  within  a  clastic  sedimentary  succession  of  Upper  Triassic  age.  The  Granduc 
+deposits,  including  those  of  the  North  Zone  and  the  South  Zone  (Figs.  4,6,7), 
+demonstrate  a  very  significant  scale  of  Besshi-type  copper-silver-gold  volcanogenic 
+massive  sulphide  deposits  and  a  strong  geological  similarity  to  the  Windy  Craggy 
+deposit. These similarities include host rock chemistry and lithologies, age, tectonic 
+setting and sulphide mineralogy. The Windy Craggy is the largest Besshi deposit in 
+the world. See Table 1.
+Three  Cycles  of  VMS  Deposition  Recognized:  This Late Triassic western series 
+(Stuhini  Group)  succession  contains  syngenetic  mineralization  that  consists  of 
+sulphides--pyrrhotite, chalcopyrite, pyrite, rare sphalerite and galena--and magnetite 
+iron formation hosted within chert and pyroclastic rocks of the Granduc Mine series. 
+The  Mine  series,  in  the  immediate  area  of  the  mine,  contains  three  cycles  of 
+sedimentation, volcanism, and massive sulphide deposition, associated with graphitic 
+chert, tourmaline-bearing chert and magnetite iron formation.
+48
+Three major mineralized zones have been identified- Granduc deposit, North 
+Zone and South Zone:
+(a) Granduc deposit consists of a number of individual ore bodies--A, B1, B2, C 
+and F (Fig. 4)--that are structurally controlled by south plunging F2 folds. The 
+A,  B1  and  F  ore  bodies  average  1.9%  Cu,  while  the  B2  and  C  ore  bodies 
+average  1.3%  and  1.7%  Cu,  respectively.  The  deposit  is  separated  into  a 
+northern  and  southern  block  that  is  separated  by  a  weakly  mineralized  to 
+barren zone. The F ore body lies in the northern block (north of 11 300 N at 
+the  2600  level)  while  all  others  lie  in  the  southern  block.  Mineralization  is 
+essentially  stratabound,  however  deformation  has  caused  sulphide 
+remobilization  resulting  locally  in  cross-cutting  relationships.  It  consists  of 
+varying proportions of chalcopyrite, pyrrhotite, magnetite, minor pyrite, and 
+rare sphalerite and galena.
+(b) North Zone is between 14 600N and 15 800N approximately 1.5 km north of 
+the Granduc Mine (Fig. 4). Mineralization was first intersected in surface drill 
+hole 153-1 by Newmont Ltd. in 1977. Assays from this hole were 1.39% Cu 
+over 10.7 m and 3.29% Cu over 8.7 m. Two separate mineralized zones were 
+identified  in  the  Upper  Footwall  series  (Unit  2).  Historic  mineral  resource 
+estimates  are  2.05  million  tonnes  averaging  1.84%  Cu  and  1.48  million 
+tonnes averaging 1.51% Cu (Freckelton et al., 1982). Both these zones are 
+open to the north.
+(c)  South  Zone is between 6 000 and 5 000N, approximately 1.5 km south of 
+the Granduc Mine (Fig. 4). Granduc Mines Ltd. explored this area in 1961 and 
+completed a 152 m adit and a number of surface and underground drill holes. 
+Drill  hole  250  intersected  two  zones  assaying  3.84%  Cu  over  14.3  m  and 
+3.27%  Cu  over  13.72  m;  true  thickness  are  substantially  less  than  the  drill 
+indicated  metreages.  Mineralization  is  hosted  in  volcanic  conglomerate  and 
+breccia thought to be the facies equivalents of the Granduc Mine series.
+Geological  Setting  Re-interpreted  herein:  In  addition,  the  relative  age  of  the 
+mafic volcanic rocks (flows and tuffs), intermediate foliated sills and the Bucke Creek 
+stock show the Granduc deposits occur in the following setting:
+(a) contact  relationships  and  age  determinations  indicate  that  the  Bucke  Creek 
+intrusions  and  its  associated  sills  are  likely  co-eval  with  the  mafic  volcanic 
+rocks that were termed “Mine series” and “Footwall” in earlier work;
+(b) the  Bucke  Creek  stock  mostly  intrudes  Upper  Triassic  Stuhini  clastic 
+sedimentary rocks, that have been previously mapped as a “hanging wall” to 
+the Granduc deposits; this is contradictory to the concept that major co-eval 
+intrusions should lie in the earliest, and lowest rocks in a succession;
+(c)  smaller  sill-like  bodies  of  Bucke  Creek  composition  follow  the  stratified
+volcanic and clastic sedimentary units of the Mine series (Unit 3) and Unit 2;
+(d) mafic  flows  and  tuffs  of  similar  composition  are  interstratified  with
+sedimentary rocks of Unit 2 and 3;
+49
+(e) therefore,  the  author  provisionally  concludes  that  the  Upper  Triassic  Stuhini 
+clastic  sedimentary  rocks  are  the  footwall  to  the  Mine  series.  In  this 
+interpretation,  the  general  succession  is  from  a  base  of  calcareous  wackes 
+and siltstones, and graphic argillites (Units 6 to 9);
+(f)  that  calcareous  clastic  section  is  overlain  by  pyritic,  graphic  argillite, 
+limestone,  mafic  volcanic  breccia,  flows  and  tuffs  (Units  3,  4  and  5,  plus 
+western  parts  of  Unit  2),  including  the  Mine  series  volcanogenic  massive 
+sulphides, exhalative chert, and magnetite iron formation;
+(g) in turn, these units are overlain by pyritic argillite, mafic tuff and flows of Unit 
+2, and then, a section of mostly mafic flows and pillow basalts of Unit 1 (Figs. 
+6, 7).
+DISCUSSION OF EXPLORATION TARGETS  
+General 
+Diamond  drilling  programs  in  2005  and  2006,  combined  with  the  technical  work  in 
+1991 and 1993, have successfully confirmed the following:
+1.  The  mineralized  Mine  series  succession  is  confirmed  in  geophysical  and 
+diamond drilling information to continue under the South Leduc glacier to the 
+South Zone.
+2.  Upper  Footwall  series  rocks  are  pyrrhotite-chalcopyrite-pyrite-magnetite 
+mineralized,  with  significant  precious  metals,  at  the  JK  Zone  which  lies  one 
+kilometer north of the northernmost North Zone intersections.
+The Property contains very significant volumes of mafic to intermediate magmatism, 
+within a clastic sedimentary succession of Upper Triassic age. The Granduc deposits, 
+the North Zone and the South Zone demonstrate a world class scale of Besshi-type 
+copper-silver volcanogenic massive sulphide deposits. The focus on this exploration 
+program should be for the discovery of a new, large massive sulphide deposit.
+The  following  target  descriptions  are  conceptual  in  nature.  Insufficient  exploration 
+has  been  conducted  to  determine  if  additional  mineral  deposits  of  the  magnitudes 
+cited below actually occur on the Property.
+Data  from  past  exploration  and  mining  operations  indicates  that  the  full 
+extent of the Besshi massive sulphide targets on the Property have not been 
+fully explored. The grades and quantity of the main Cu-Au-Ag mineralized horizons 
+have  not  diminished  down  plunge  on  the  main  Granduc  deposits,  to  the  limit  of 
+drilling, according to Schmidt, et al, (1983). Furthermore, termination of the F Zone 
+on the north extremity is against a post-deposit fault (the Granduc fault), according 
+to  McGuigan  (2005).  Therefore  it  is  reasonable  to  target  the  following  conceptual 
+deposit characteristics:
+(a)  Besshi-type  massive  sulphide  targets of 40 to 150 million tonnes of 1.7
+to 2.5% copper with zinc, silver, gold and cobalt contents;
+50
+(b)  Higher grade Besshi-type massive sulphide deposits, more proximal to 
+a vent source, stringer zones and with superior deposition sites; South Zone 
+grades  show  this  is  possible;  North  Zone  geology  also  shows  promise  for 
+vent-proximal  targets;  some  portions  of  the  Granduc  deposits  and  South 
+Zone  have  intersections  in  the  3  to  10%  copper  range,  but  lack  continuity. 
+Facies changes towards the South Zone or, for instance, in the area of Target 
+5 (see below), might allow for deposits above 2.5% copper; and
+(c)  Plunging  zones  of  very  high  grade  massive  sulphides,  in  areas  of 
+remobilization  and  structural  repetition  by  F2  fold  structures;  any  of  the 
+existing  or  targeted  zones  might  contain  fold  structures  with  these 
+characteristics.
+conclusions,  derived
+The 
+structural, 
+lithogeochemistry and geochronological studies on the Property, indicate a number of 
+additional deposits, and extensions to known deposits, of Besshi-style volcanogenic 
+massive  sulphides  reasonably  targeted  on  the  Property,  in  areas  of  projected 
+favourable geology. They include the following diamond drilling targets.
+stratigraphic,
+from
+the
+combined
+Target 1: Down plunge of the existing Granduc deposit.  
+The focus for this exploration should be down-plunge of the F and B1 ore bodies (Fig. 
+11).  These  deposits  have  the  greatest  thickness,  grade  and  continuity  of  all  ore 
+bodies at Granduc. The latest round of drilling at Granduc showed that grades do not 
+diminish towards the 2100 level according to Schmidt, et al, (1983). The F and B1 
+ore  bodies  are  probably  the  fold  and  fault  continuations  of  the  same  higher-grade 
+sulphide-magnetite  lens.  These  zones  occur  in  an  area  of  tight  F2  fold  structures 
+(Figs. 4, 6，7), and significant structural repetition and remobilization is possible.
+Drilling of Target 1 should be conducted to firstly, confirm the historic drill results, 
+then secondly, to target the down plunge extensions down to at least the 1000 level, 
+initially. The Target 1 combined with Target 3 areas, have the potential to add 5 to 
+10 million tonnes or more to the mineral resources within a short distance of existing 
+mine infrastructure. The potential is considerably higher, if the projections made by 
+Schmidt, et al, (1983) can be confirmed with new diamond drilling.
+Target 2: South Zone.  
+The Target 2 area contains are relatively high grade (in excess of 3% Cu) diamond 
+drill intersections, hosted in a rock unit that is the southern continuation of the Mine 
+series rocks. Drilling in 2006 was not favourable. However, it is likely that the past 
+operator tested only the highest levels of the Mine series succession.
+The South Zone remains open to depth and to the south.  Drilling can be done from 
+sites  constructed  on  the  southern  edge  of  the  South  Leduc  glacier.  It  is  not 
+recommended to drill the higher elevations of the South Zone but rather, to focus on 
+drilling the zone at the 2600 level and below.
+51
+L
+S
+A
+’
+0
+0
+0
+6
+6000’N
+d
+r
+a
+w
+t
+s
+a
+e
+g
+n
+k
+o
+o
+L
+i
+8000’N
+10000’N
+12000’N
+14000’N
+e
+c
+I
+d
+n
+a
+w
+o
+n
+S
+16000’N
+L
+S
+A
+’
+0
+0
+0
+4
+E
+N
+O
+Z
+H
+T
+U
+O
+S
+L
+S
+A
+’
+0
+0
+0
+2
+2
+c
+u
+d
+e
+L
+h
+t
+u
+o
+S
+r
+e
+i
+c
+a
+G
+l
+t
+u
+O
+d
+e
+n
+M
+i
+0
+0
+1
+2
+1
+e
+n
+o
+Z
+2
+e
+n
+o
+Z
+0
+0
+6
+2
+E
+N
+O
+Z
+H
+T
+R
+O
+N
+4
+3
+1
+t
+f
+a
+h
+S
+2
+.
+o
+N
+.
+C
+.
+B
+,
+T
+R
+A
+W
+E
+T
+S
+,
+E
+N
+M
+I
+C
+U
+D
+N
+A
+R
+G
+n
+o
+i
+t
+c
+e
+j
+o
+r
+P
+l
+a
+n
+i
+d
+u
+t
+i
+g
+n
+o
+L
+s
+t
+e
+g
+r
+a
+T
+n
+o
+i
+t
+a
+r
+o
+p
+x
+E
+l
+.
+C
+N
+I
+S
+E
+C
+R
+U
+O
+S
+E
+R
+E
+L
+T
+S
+A
+C
+,
+1
+1
+:
+e
+r
+u
+g
+F
+i
+:
+e
+l
+i
+F
+0
+1
+0
+2
+/
+2
+2
+/
+6
+0
+:
+e
+t
+a
+D
+,
+8
+1
+/
+B
+4
+0
+1
+:
+S
+T
+N
+i
+n
+a
+g
+u
+G
+c
+M
+.
+P
+:
+y
+b
+t
+r
+o
+p
+e
+R
+.
+o
+e
+G
+P
+.
+.
+1
+1
+.
+c
+n
+I
+ 
+s
+e
+c
+n
+e
+i
+c
+s
+o
+e
+G
+a
+i
+r
+b
+m
+a
+C
+:
+i
+n
+o
+i
+s
+i
+v
+D
+g
+n
+n
+M
+i
+i
+a
+n
+e
+e
+k
+S
+a
+e
+r
+A
+t
+e
+g
+r
+a
+T
+n
+o
+i
+t
+a
+r
+o
+p
+x
+E
+l
+1
+s
+d
+o
+f
+l
+2
+F
+f
+o
+e
+g
+n
+u
+P
+l
+d
+r
+a
+w
+t
+s
+a
+e
+g
+n
+i
+c
+a
+f
+s
+i
+n
+o
+i
+t
+c
+e
+o
+r
+P
+j
+n
+o
+i
+t
+a
+z
+i
+l
+i
+a
+r
+e
+n
+M
+u
+C
+)
+e
+n
+o
+Z
+h
+t
+r
+o
+N
+(
+e
+n
+o
+Z
+C
+e
+n
+o
+Z
+F
+e
+n
+o
+Z
+2
+B
+s
+t
+i
+s
+o
+p
+e
+D
+e
+d
+h
+p
+u
+S
+l
+i
+e
+v
+i
+s
+s
+a
+M
+c
+u
+d
+n
+a
+r
+G
+e
+n
+o
+Z
+A
+e
+n
+o
+Z
+B
+5
+Due to the distance between the South Zone and the main Granduc mine workings, 
+Target  2  is  not  recommended  for  testing,  until  Targets  1  and  3  are  fully  and 
+successfully tested with diamond drilling.
+Target 3: Beneath the South Leduc glacier.  
+The  B1  ore  body  forms  a  distinct  magnetic  anomaly  which  was  traced  under  the 
+South  Leduc  glacier  (Fig.  11)  by  the  2005  airborne  geophysical  survey.  These 
+horizons  are  probably  modified  by  F2  folds  (Figs.  6 ， 7),  with  steep  to  vertical 
+plunges. Drilling in 2005 tested the entire zone, but at higher elevations. The area 
+should be drilled as part of following Target 1 down plunge.
+Additionally,  several  hundred  metres  of  additional  strike  length  is  available  for 
+drilling that is free of the South Leduc glacier.
+Target 4: North Zone.  
+The North Zone has two zones of mineralization previously termed “footwall zones” 
+(Zones  1  and  2;  Fig.  11).  Alteration,  sulphides,  mafic  volcanics  and  sub-volcanic 
+intrusions  show  this  zone  is  very  prospective,  despite  the  distance  from  the  main 
+Granduc  mine  workings.  The  zone  has  some  cobalt  showings,  and  systematic 
+sampling  might  indicate  additional  potential.  The  zone  is  open  to  the  north.  Up-
+section  (to  the  east)  there  might  be  additional  mineralization  at  higher  horizons  in 
+the stratigraphy.
+Drilling the North Zone below the 2600 level can be accomplished by extending the 
+diamond drill holes that will be testing Target 5.
+Should  Target  5  exploration  be  successful,  the  economics  of  exploiting  the  known 
+historic North Zone mineral resources will be greatly improved.
+Target 5: F Zone Extension.  
+As  first  described  in  McGuigan  (2005),  the  F  Zone  (Fig.  11)  terminates  on  its 
+northern extremity against the Granduc Fault. The Granduc fault is a late feature and 
+is post-mineralization, therefore F zone and possibly other Mine series horizons like A 
+zone, might continue in the hanging wall of this late fault.
+Reconstruction  of  the  right-lateral  movement  on  the  Granduc  and  Western  faults, 
+indicates a target area in the western side (hanging wall) of the Western fault zone. 
+After  including  the  likely  left-lateral  movement  during  the  earliest  stages  of 
+movement on the South Unuk fault zone, Target 5 is located at the same elevation 
+as the F ore body, but approximately 1 to 4 km north-northwest.
+The implication of this structural interpretation is that an extension of the F deposit 
+should be found west or northwest of the North Zone, at the elevation of the 2600 
+level exploration drift (Fig. 11). This interpretation indicates that the western side of 
+the  Granduc  fault  (and  Western  fault)  is  highly  prospective  for  the  discovery  of 
+additional VMS deposits. The right lateral displacement of the rock units across the 
+combination of the Granduc and Western faults is a total of approximately 1 to 4 km, 
+almost  entirely  in  a  strike-slip  fashion,  with  little  dip-slip  movement.  The
+53
+displacement might be much less, if the earlier left lateral movement in the zone of 
+South  Unuk  shearing  (Phase  1  and  2)  has  positioned  the  extension  of  the  deposit 
+further southward during that stage of deformation.
+Magnetic  modeling  results  should  be  first  obtained  to  provide  greater  definition  on 
+the position of the F Zone extension.
+Using  separate  reasoning,  the  Varied  series  (Unit  5)  is  the  likely  equivalent  of  the 
+Mine series (Unit 3) that hosts the Granduc deposits (including F Zone). Drilling the 
+Varied series rocks at the 2600 level and below, in areas of modeled high magnetic 
+susceptibility is potentially the most promising target on the Property.
+The target in the F Zone Extension is permissible for discovery of Besshi-type VMS 
+deposits  of  the  similar  magnitude  and  grade  at  the  historic  pre-mining  size  of  the 
+Granduc  deposit.  If  there  exists  a  deposit  of  similar  size  and  magnetite  content  to 
+the  Granduc  deposit,  magnetic  modeling  of  the  existing  airborne  magnetic  survey 
+should yield a defined target.
+The  potential  for  the  F  Zone  Extension  is  very  high  and  could  potentially  result  in 
+discovery of a deposit of similar tenor and tonnage as the historic Granduc deposit.
+RECOMMENDATIONS
+The  following  two  year  exploration  is  recommended  on  the  Property.  The 
+recommendations  for  the  geological  and  the  first  phase  of  diamond  are  not 
+contingent  on  the  data  modeling  of  the  geophysical  program.  A  second  phase  of 
+diamond drilling will require all the data from the Phase One program to determine 
+the locations and viability of targets.  
+PHASE ONE EXPLORATION PROGRAM (2010) 
+The  primary  objective  of  Phase  One  exploration  is  to  confirm  the  historic  diamond 
+drilling  record,  below  the  2600  level  of  the  Granduc  mine.  Subsequent  to  data 
+verification and this confirmation diamond drilling, the preparation of a new mineral 
+resource estimate is recommended.
+Additionally, historic projections of the main Granduc deposits have been made into 
+areas  lying  below  2100  level,  to  sea  level.  Diamond  drilling  is  required  to  confirm 
+these geological projections.
+Results from Phase One should be used in an economic scoping study, to determine 
+if  the  Granduc  tunnel  should  be  re-habilitated  to  support  additional  programs  of 
+exploration and definition diamond drilling.
+Data Verification and Data Presentation 
+Phase One includes a provision to verify the relevant technical data on the historic 
+mine, diamond drilling results and historic mineral resource estimates.
+54
+After  verification,  a  new  sectional  interpretation  of  the  entire  Granduc  mine  is 
+recommended to be constructed and a 3D geological model prepared.
+Geophysical Program 
+During the last decade, breakthroughs in 3D geological and rock property modeling, 
+geophysical 
+inversion,  and  advanced  visualization  have  made  practical  the 
+preparation  of  an  integrated  3D  geological  and  geophysical  model  of  the  Granduc 
+mountain.
+Recommended is the assembly of all historic magnetic data and the inversion of the 
+magnetic data from the 2005 airborne survey, and/or all borehole magnetic data to 
+generate 3D models of susceptibility contrast. Magnetic inversion has the potential to 
+define  at  a  considerable  depth  the  mineralized  horizons  that  contain  elevated 
+magnetite  disseminations,  massive  magnetite  iron  formation,  and  pyrrhotite-
+magnetite  massive  sulphides.  Structural  modeling  of  mafic  volcanic  units  and 
+intrusions  is  also  possible  with  this  approach.  Particular  care  should  be  taken  to 
+ensure  that  the  very high  magnetic  susceptibilities  of  the  magnetite iron  formation 
+are properly modeled to avoid modeling errors due to self-demagnetization.
+AeroTEM  II  electromagnetic  responses  should  be  located  on  the  ground  and 
+correlated  with  surface  and  underground  geology.  These  conductors  might  better 
+define  the  Granduc  and  Western  faults.  Conductors  located  in  the  Hazelton  Group 
+(eastern series) rocks should be prospected.
+During the progress of the recommended 2010 diamond drilling, down-hole magnetic 
+surveys are also recommended. Collection of magnetic susceptibility data from drill 
+core is also recommended to continue on all future diamond drilling programs.
+Geological Program 
+The  new  interpretation  must  be  examined  critically  in  the  upcoming  season. 
+Additional  field  programs  are  required  to  collect  data  to  further  investigate  and 
+confirm conclusions made herein.
+New  stratigraphic  and  structural  interpretations  presented  herein  and  by  earlier 
+programs  are  constrained  by  U-Pb  (zircon)  dates,  lead  (galena  and  microcline) 
+isotopes  and  lithogeochemistry  that  were  acquired  in  1993  (Dawson  et  al,  1994). 
+Together, these interpretations indicate a number of previously unrecognized targets 
+of Besshi-style mineralization are present on the Property.
+This work has only begun, and a strong emphasis is required on geological control of 
+the  exploration,  to  follow  statabound  VMS  bodies  through  the  fold  and  fault 
+structures on the Property, and to assist in the modeling of the airborne geophysical 
+responses.
+The  authors  recommend  a  geological  program  as  follows,  in  keeping  with  the 
+interpretations  herein,  and  recommendations  made  in  Dawson  et  al  (1994),  Lewis 
+(1994), McGuigan et al (1992) and McGuigan (2005).
+a)  Complete  stratigraphic  and  structural  mapping  on  Granduc  mountain  to:  (i) 
+correlate units mapped to the north, (ii) project favourable geology to depth
+55
+and north and south of the Granduc deposit, and (iii) to test structural models 
+presented in Lewis, 1994.
+b)  Expand the lithogeochemical study to include rocks within, to the east and to 
+the west of the Granduc deposit, the North Zone and the South Zone on the 
+Property  (Figs.  6,7).  This  would  require  re-examination  of  the  diamond  drill 
+core stored in Stewart, BC and possibly, re-opening some of the underground 
+workings for sampling.
+c)  Expand  the  lithogeochemistry  study  to  include  the  eastern  series  rocks 
+located  east  of  the  South  Unuk  shear  zone  (Figs.  5,6,7)  and  south  of  the 
+Granduc deposit. This work would help to: (i) correlate stratigraphic units in 
+areas  of  poor  exposure  or  glacier  cover,  (ii)  determine  alteration  vectors  to 
+focus  exploration,  (iii)  determine  the  geological  setting,  and  (iv)  identify 
+similarities of volcanic units to those at the well studied Eskay Creek precious 
+metal rich massive sulphide deposit (Roth, 1993; Bartsch, 1993).
+d)  Expand the lead (from galena, k-feldspar and other sulphide phases) isotope 
+study  to:  (i)  various  sulphide  horizons  underground  in  the  Granduc  deposit, 
+(ii)  South  Zone  mineralization,  (iii)  North  Zone  mineralization,  (iv)  other 
+documented sulphide occurrences on the Property, and (iv) the intermediate 
+sill  in the western series (North Zone). The spatial relationship between the 
+Late  Triassic  intermediate  sill  (part  of  the  Bucke  Glacier  suite)  and  copper 
+mineralization  in  the  North  Zone  suggests  this  body  may  be  a  source  of 
+metals and may have important exploration implications.
+e)  Map  the  hangingwall  of  the  Granduc  fault  on  the  north  side  of  Granduc 
+mountain to identify northern extensions of the Mine series stratigraphy. Pay 
+close attention to the Varied series (Unit 5) rocks, as they bear resemblance 
+to the Mine series (Unit 3).
+f)  Map the area of the JK discovery, to better define drill  targets in that area. 
+The source of the massive sulphide boulders reported by Melnyk (1991) has 
+yet to be located.
+g)  Map  the  western  portion  of  the  Tide  tunnel  to:  (i)  delineate  the  contact 
+between the Late Triassic western series (Stuhini Group) and Lower to Middle 
+Jurassic  eastern  series  (Hazelton  Group)  rocks,  (ii)  identify  possible  targets 
+similar to North Zone mineralization in the Upper Footwall sequence, and (iii) 
+identify  possible  Eskay  Creek  type  targets  in  Middle  Jurassic  eastern  series 
+stratigraphy.
+Diamond Drilling Program 
+A  Phase  One  program  of  diamond  drilling  of  7000  m  total  drilling  is  strongly 
+recommended  for  2010  to  test  Targets  1  and  3,  located  under  the  Granduc  Mine 
+workings and the down plunge projections under the South Leduc glacier (Fig. 11). 
+The object of the Phase One drilling is to verify historic drill results above 2100 level 
+and to extend drill testing below the 2100 level.
+56
+A 70 day field program in Phase One is recommended, using two diamond drill rigs 
+configured  for  helicopter  operations.  The  work  will  be  supported  from  the  existing 
+campsite on Granduc mountain, located next to the abandoned airstrip.
+Mineral Resource Estimate 
+After the completion of the above recommended work, the new drilling results should 
+be  used  to  verify  historic  diamond  drilling  intersections.  A  new  sectional 
+interpretation should be prepared, reflecting the latest understanding of the deposit 
+model, age relationships and shear deformation. The sectional interpretation should 
+be of the entire Granduc mine, however, emphasis should be placed on areas below 
+the 2600 level. Based on the new interpretation, a new mineral resource estimate is 
+recommended, under the guidelines of the Instrument.
+Budget Estimate for Phase One Program (2010): $2.9 Million 
+A 70 day field program in Phase One is recommended, using two diamond drill rigs 
+configured for helicopter operations. The expected drill rig productivity is about 60m 
+per day per drill.
+Field Program – 2010 (August - October)
+Camp construction, 25 man camp 
+Camp costs 
+Expediting / Logistics Support 
+Surface Mapping, Prospecting 
+Project Management, Geology 
+Analytical Costs 
+Geochemical Studies 
+Geophysical Modeling, Downhole G/P 
+Consulting 
+Drilling (7000 m) 
+Helicopter (240 hours)
+$80,000
+$150,000
+$70,000
+$50,000
+$260,000
+$30,000
+$30,000
+$80,000
+$30,000
+$1,040,000
+$336,000
+$2,156,000
+Total:
+Technical Work – 2010 (July - November)
+Underground Mine re‐documentation 
+Data Verification & Database Work 
+Section and Plan Preparation 
+Mining Design & Mineral Resource Estimate 
+Reporting
+Total Phase One 
+Contingency (10%)  
+Total Phase One with Contingency
+$40,000
+$60,000
+$80,000
+$150,000
+$120,000
+$480,000
+Total:
+57
+$2,156,000
+$480,000 
+$2,636,000 
+263,600
+$2,899,600
+PHASE TWO EXPLORATION PROGRAM (2011) 
+A  Phase  Two  program  is  recommended  for  the  drilling  of  Targets  1,3,  4  and  5, 
+contingent upon the success of Phase One.
+Planning of the Phase Two program is contingent on the following information from 
+Phase One:
+1.  Upon  confirmation  of  the  downward  projection  of  the  Granduc  deposits  by 
+Phase  One  diamond  drilling,  exploration  diamond  drilling  should  be  laid  out 
+for areas below the 2100 level to define mineralization initially to sea level.
+2.  Success  contingent  upon  the  results  of  the  inversion  of  magnetic  data  and 
+geological  investigations,  exploration  of  the  Targets  4  and  5  should  be 
+conducted.
+Initial testing of those targets will require of approximately 15,000m total drilling in a 
+2011 exploration program.
+After  the  Phase  One  and  concurrent  with  the  Phase  Two  program,  a  success 
+contingent decision must be made to engage in definition diamond drilling of Targets 
+1,  3,  4  and  5.  Efficient  diamond  drilling  of  these  targets  will  require  partial  mine 
+workings rehabilitation and the construction of drill stations in the underground.
+Budget Estimate for Phase Two Program (2011): $6.0 Million 
+The  recommended  Phase  Two  exploration  program  is  contingent  on  success  from 
+Phase One drilling, geophysical modeling and technical work. Allowance is made for 
+15,000 m of drilling at similar drill rig productivity to Phase One.
+In  total,  $8.9  million  in  estimated  expenditures  is  required  to  conduct  the 
+recommended Phase One and Phase Two exploration programs in 2010 and 2011.
+DATE AND SIGNATURE
+Respectfully submitted to Castle Resources Inc., this 4th day of July, 2010
+Cambria Geosciences Inc.
+Signed in the original 
+Paul J. McGuigan 
+____________________ 
+Paul J. McGuigan, P. Geo.
+Signed in the original 
+Don J. Harrison 
+____________________ 
+Don Harrison, P. Geo.
+58
+REFERENCES
+Alldrick, D.J., Britton, J.M., Webster, I.C.L. and Russell C.W.P. (1989): Geology and 
+Mineral Deposits of the Unuk River area. British Columbia Ministry of Energy, 
+Mines and Petroleum Resources, Geological Survey Branch, Open File Map 
+1989-10.
+Alldrick, D.J. (1993): Geology and Metallogeny of the Stewart Mining Camp,
+northwestern British Columbia. British Columbia Ministry of Energy, Mines and 
+Petroleum Resources, Geological Survey Branch, Bulletin 85, 105 p.
+Anderson, P. (1991): Granduc Compilation Report. Company report for Granduc
+Mines Ltd. (N.P.L.) by Hecla Mining Company Ltd.
+Anderson, R.G. and Thorkelson, D.J. (1990): Mesozoic stratigraphy and setting for
+some Mineral Deposits in the Iskut River map area, northwestern British 
+Columbia. G.S.C Paper 90-1F.
+Barrett, T.J. (1994): Preliminary Lithogeochemical Data for the Granduc Mine,
+Northern British Columbia. In: Mineral Deposits Research Unit "Volcanogenic 
+Massive Sulphide Deposits of the Cordillera", First Annual Technical Report, 
+The University of British Columbia.
+Barrett, T.J., Cattalani, S., Hoy, L., Riopel, J. and Lafleur, P.J. (1992): Massive
+sulphide deposits of the Noranda area, Quebec, The Mobrun Mine. Canadian 
+Journal of Earth Sciences, Vol. 29, pp. 1349- 1374.
+Bartsch, R.D. (1993): Volcanic Stratigraphy and Lithogeochemistry of the Lower 
+Jurassic Hazelton Group, host to the Eskay Creek Precious and Base Metal 
+Volcanogenic deposit. Unpublished MSc Thesis, The University of British 
+Columbia, 179 p.
+Childe, F. (1994): Radiogenic Isotopic Investigations of the Granduc Volcanic Hosted
+Massive Sulphide Deposit. Unpublished data.
+Clarke, D. (1991): NEWPET: a geochemical data handling and plotting software
+package. Memorial University of Newfoundland, Department of Earth 
+Sciences. Shareware
+Cox, K.G., Bell, J.D., and Pankhurst, R.J. (1979): The interpretation of igneous rocks.
+George Allen and Unwin, London, 450 p.
+Dawson, G.L., Barrett, T.J., Childe, F., Lewis, P.D., and Price, G. (1994): Geology,
+Lithogeochemistry, and Geochronological Study of the Granduc Property, 
+Skeena Mining Division. Assessment Report.
+Freckelton, D., Fraser, S., Beckett, R., McDonald, J.A., (1982): Compilation and 
+Economic Evaluation of Mineralization in the North Area of Granduc Mine. 
+Canada Wide Mines Ltd. and Esso Minerals Canada Ltd. Unpublished company 
+report.
+Irvine, T.N., and Baragar, W.R.A. (1971): A guide to the chemical classification of 
+the common volcanic rocks. Canadian Journal of Earth Sciences, Vol. 8, pp. 
+523-548.
+59
+Klepacki, D.W. and Read, P.B. (1981): Surface structural analysis of the Granduc
+Mine area. Company report for Esso Minerals Canada Ltd. by Geotech 
+Consultants Ltd.
+Lewis, P. D. (1994): Regional Geological Setting of the Granduc Deposit, Stewart
+Mining Camp, British Columbia. A field report prepared for the Mineral 
+Deposits Research Unit (MDRU), The University of British Columbia.
+Lewis, P.D. (1993): Structural Evolution of the Iskut River area: Preliminary Results.
+In: Mineral Deposits Research Unit "Metallogeny of the Iskut River Area, 
+British Columbia", Second Annual Technical Report, The University of British 
+Columbia. 38
+Lewis, P.D., MacDonald, A.J. and Bartsh, R.D. (1993): Hazelton and Bowser Lake
+Group stratigraphy in the Iskut River area: Progress and Problems. In: 
+Mineral Deposits Research Unit "Metallogeny of the Iskut River Area, British 
+Columbia", Second Annual Technical Report, The University of British 
+Columbia.
+Maclean, W.H. (1988): Rare earth element mobility at constant inter-REE ratios in
+the alteration zone at the Phelps Dodge massive sulphide deposit, Matagami, 
+Quebec, Mineralia Deposita, Vol. 23, pp. 231-238.
+McDonald, J.A. (1981): Thin Section Study of Rocks from the Granduc Mine. Esso
+Minerals Canada Ltd. Unpublished company report.
+McGuigan, P.J. (2005) Granduc Property, Northwestern BC, Canada. Technical Report
+for Bell Resources Corporation.
+McGuigan, P.J. and Marr, J. (1979): Surface geology of the Granduc Mine Area
+Progress Report, Esso Minerals Canada Ltd. Unpublished company report.
+McGuigan, P.J., W. Melnyk, W., and Dawson, G.L. (1992): 1992 Compilation Report 
+on the Granduc Property. Company report for Granduc Mines Ltd. (N.P.L.) by 
+Cambria Geological Ltd. Unpublished company report.
+McGuigan, P.J. and Tucker, D.C., (1981): Granduc Mine Underground Geological
+Mapping Project. Esso Minerals Canada Ltd. Unpublished company report.   
+Melnyk, W. (1991): Geological and Geochemical Report on the Granduc Property. 
+Company report for Granduc Mines Ltd. (N.P.L.) by Cambria Geological Ltd. 
+Unpublished company report.
+Meschede, M. (1986): A method of discriminating between different types of mid-
+ocean ridge basalts and continental tholeiites with the NB-Zr-Y diagram. 
+Chemical Geology, Vol. 56, pp. 207-218.
+Middlemost, E.A.K. (1985): Magmas and magmatic rocks. Longman Group Limited,
+Essex.
+Norman, G.W.H., Sanders, K.G. and Davidson, D. (1959): Regional Geology of
+Granduc Mine area. Granduc Mines Ltd. surface map (1"= 800'). Unpublished 
+company report.
+Pearce, J.A., and Cann, J.R. (1973): Tectonic setting of basic volcanic rocks
+determined using trace element analysis. Earth and Planetary Science Letters, 
+Vol. 19, pp. 290-300.
+60
+Roth, T. (1993): Geology, Alteration and Mineralization in the 21A zone, Eskay
+Creek, Northwestern British Columbia. Unpublished MSc Thesis, The 
+University of British Columbia, 230 p. Winchester, J.A., and Floyd, P.A.  
+ 
+(1977): Geochemical discrimination of different magma series and their 
+differentiation products using immobile elements. Chemical Geology, Vol. 20, 
+pp. 325-343.
+Rudd, J. (2005): Report on a Helicopter-Borne AeroTEM© II Electromagnetic  &
+Magnetometer Survey, Aeroquest Job #05010, for Bell Resources 
+Corporation. Technical Report on the ARIS system #28167.
+Schmidt, W., Tyler, P. and Dereniwski, T. (1983): Economic Potential at Granduc,
+Unpublished company report, 63 pages.
+Wasteneys, H. (2007): Diamond Drilling and Geochemistry at Granduc, for Bell
+Resources Corporation. Technical Report on ARIS system # 28912.
+Wilson, M.B. (1989): Geochemical characteristics of igneous rocks as petrogenetic
+indicators. In: Igneous Petrogenesis, Unwin Hyman Ltd., UK, pp. 13-34.
+61
+APPENDIX I – GRANDUC PROPERTY TENURES
+NTS Map BCGS Map  Area (ha)
+104B01W 104B029 
+18.180
+18.180
+104B01W 104B029 
+18.180
+104B01W 104B029 
+104B01W 104B029 
+18.180
+19.590
+104B01W 104B029 
+19.170
+104B01W 104B029 
+20.400
+104B01W 104B029 
+104B01W 104B029 
+20.400
+14.280
+104B01W 104B029 
+17.200
+104B01W 104B029 
+104B01W 104B029 
+20.360
+20.900
+104B01W 104B029 
+20.900
+104B01W 104B029 
+20.900
+104B01W 104B029 
+104B01W 104B029 
+20.900
+20.400
+104B01W 104B029 
+20.900
+104B01W 104B029 
+104B01W 104B029 
+20.520
+20.060
+104B01W 104B029 
+20.520
+104B01W 104B029 
+20.520
+104B01W 104B029 
+104B01W 104B029 
+20.900
+20.900
+104B01W 104B029 
+15.400
+104B01W 104B029 
+104B01W 104B029 
+10.210
+19.850
+104B01W 104B029 
+19.980
+104B01W 104B029 
+20.900
+104B01W 104B029 
+104B01W 104B029 
+20.900
+2.570
+104B01W 104B029 
+13.690
+104B01W 104B029 
+104B01W 104B029 
+15.240
+11.320
+104B01W 104B029 
+14.890
+104B01W 104B029 
+104B01W 104B029 
+13.670
+Lot Number Land District
+6562 
+6563 
+6564 
+6565 
+6566 
+6567 
+6568 
+6569 
+6570 
+6573 
+6574 
+6575 
+6576 
+6577 
+6578 
+6579 
+6580 
+6581 
+6582 
+6583 
+6584 
+6585 
+6586 
+6587 
+6588 
+6589 
+6590 
+6591 
+6592 
+6593 
+6594 
+6595 
+6596 
+6597 
+6598
+CASSIAR 
+CASSIAR 
+CASSIAR 
+CASSIAR 
+CASSIAR 
+CASSIAR 
+CASSIAR 
+CASSIAR 
+CASSIAR 
+CASSIAR 
+CASSIAR 
+CASSIAR 
+CASSIAR 
+CASSIAR 
+CASSIAR 
+CASSIAR 
+CASSIAR 
+CASSIAR 
+CASSIAR 
+CASSIAR 
+CASSIAR 
+CASSIAR 
+CASSIAR 
+CASSIAR 
+CASSIAR 
+CASSIAR 
+CASSIAR 
+CASSIAR 
+CASSIAR 
+CASSIAR 
+CASSIAR 
+CASSIAR 
+CASSIAR 
+CASSIAR 
+CASSIAR
+Lot Name 
+V.K. NO. 13 
+V.K. NO. 14 
+V.K. NO. 12 
+V.K. NO. 11 
+V.K. NO. 9 
+V.K. NO. 10
+VAUGHN K NO. 5 
+VAUGHN K NO. 6 
+GRANDUC FR. 
+GRANDUC NO. 1 
+GRANDUC NO. 2 
+VAUGHN K NO. 8 
+VAUGHN K NO. 7
+LOLA NO. 2 
+LOLA NO. 1
+GRANDUC NO. 4 
+GRANDUC NO. 3 
+GRANDUC NO. 5 
+GRANDUC NO. 6
+LOLA NO. 3 
+LOLA NO. 4 
+LOLA NO. 6 
+LOLA NO. 5
+GRANDUC NO. 8 
+GRANDUC NO. 7
+MC Q NO. 2 
+MC Q NO. 3 
+MC Q NO. 1
+MC Q
+AUDRO NO. 3 
+AUDRO NO. 5 
+AUDRO NO. 4 
+AUDRO NO. 2 
+AUDRO NO. 1 
+SOLAR NO. 8
+62
+Lot Number Land District
+6599 
+6600 
+6601 
+6602 
+6603 
+6610 
+6611 
+6612 
+6613 
+6614 
+6615 
+6616 
+6617 
+6618 
+6619 
+6620 
+6621 
+6654 
+6655 
+6656 
+6657 
+6658 
+6663 
+6664 
+6665 
+6666 
+6667 
+6670 
+6672
+Lot Name 
+BLUE NO. 4 
+FANNY NO. 1 
+FANNY NO. 2 
+DAL FRACTION
+MARG NO. 2 
+BLEND NO. 4 
+BLEND NO. 3 
+BLEND NO. 2 
+BLEND NO. 1 
+BENT FRAC. 
+MCQ NO. 4
+NTS Map BCGS Map Area (ha)
+20.560
+104B01W 104B029 
+CASSIAR 
+18.100
+104B01W 104B019 
+CASSIAR 
+20.900
+104B01W 104B019 
+CASSIAR 
+104B01W 104B029 
+14.900
+CASSIAR 
+13.680
+BRYCE FRACTION  104B01W 104B019 
+CASSIAR 
+11.800
+104B01W 104B029 
+CASSIAR 
+104B01W 104B029 
+16.800
+CASSIAR 
+16.800
+104B01W 104B029 
+CASSIAR 
+13.300
+104B01W 104B029 
+CASSIAR 
+20.900
+104B01W 104B029 
+CASSIAR 
+104B01W 104B029 
+18.110
+CASSIAR 
+9.010
+104B01W 104B029 
+CASSIAR 
+20.900
+104B01W 104B019 
+CASSIAR 
+104B01W 104B019 
+20.900
+CASSIAR 
+20.900
+104B01W 104B019 
+CASSIAR 
+20.900
+104B01W 104B019 
+CASSIAR 
+7.430
+CASSIAR 
+104B01W 104B019 
+CASSIAR  REX NO. 10 FRACTION 104B01W 104B019 
+9.690
+9.690
+CASSIAR  REX NO. 9 FRACTION 104B01W 104B019 
+9.690
+CASSIAR  REX NO. 8 FRACTION 104B01W 104B029 
+CASSIAR  REX NO. 7 FRACTION 104B01W 104B029 
+9.690
+18.070
+CASSIAR  REX NO. 6 FRACTION 104B01W 104B029 
+20.900
+104B01W 104B019 
+CASSIAR 
+20.900
+CASSIAR 
+104B01W 104B019 
+CASSIAR  REX NO. 13 FRACTION 104B01W 104B019 
+20.630
+8.600
+CASSIAR  REX NO. 15 FRACTION 104B01W 104B019 
+11.510
+CASSIAR  REX NO. 12 FRACTION 104B01W 104B019 
+CASSIAR  REX NO. 11 FRACTION 104B01W 104B019 
+20.530
+14.120
+CASSIAR  REX NO. 14 FRACTION 104B01W 104B019
+VAUGHN K NO. 4 
+VAUGHN K NO. 2 
+VAUGHN K NO. 1 
+VAUGHN K NO. 3
+BELLE NO. 3
+REX NO. 1 
+REX NO. 2
+63
+APPENDIX II – OTHER MINERAL TENURES
+Teuton Resources Claims, optioned by Bell Copper Corp.
+Tenure #
+508705
+508889
+508775
+508888
+508894
+508887
+508893
+508895
+508703
+508777
+508828
+508891
+508898
+Tenure #
+527314
+527299
+527315
+527164
+415489
+508892
+415482
+415484
+415483
+415488
+415487
+415486
+508890
+517191
+415485
+ClaimName
+Leduc Silver W2
+Leduc Silver W1
+Leduc Silver S
+Leduc Silver NW
+Leduc Silver SW2
+Leduc Silver SE
+Leduc Silver SW1
+IssueDate
+10/03/2005
+14/03/2005
+11/03/2005
+14/03/2005
+14/03/2005
+14/03/2005
+14/03/2005
+14/03/2005
+10/03/2005
+11/03/2005
+11/03/2005
+14/03/2005
+14/03/2005
+Status
+GoodToDate
+GOOD
+01/03/2016
+GOOD
+01/03/2016
+GOOD
+01/03/2016
+GOOD
+01/03/2016
+GOOD
+01/03/2016
+GOOD
+01/03/2016
+GOOD
+01/03/2016
+GOOD
+01/03/2016
+GOOD
+01/03/2016
+GOOD
+01/03/2016
+GOOD
+01/03/2016
+GOOD
+01/03/2016
+GOOD
+01/03/2016
+Nominal hectares owned
+Bell Copper Corp. Claims
+ClaimName
+GRANDUC NORTH
+LUDUC MINERALS
+GRANDUC SOUTH
+ESKAY GOLD
+PEARSON 4
+Tunnel 2
+TON‐1
+TON‐3
+TON‐2
+PEARSON 3
+PEARSON 2
+PEARSON 1
+Tunnel 1
+AGE
+TON‐4
+IssueDate
+09/02/2006
+08/02/2006
+09/02/2006
+06/02/2006
+08/11/2004
+14/03/2005
+09/11/2004
+09/11/2004
+09/11/2004
+08/11/2004
+08/11/2004
+08/11/2004
+14/03/2005
+12/07/2005
+09/11/2004
+Status
+GoodToDate
+GOOD
+01/03/2016
+GOOD
+01/03/2016
+GOOD
+01/03/2016
+GOOD
+01/03/2016
+GOOD
+01/03/2016
+GOOD
+01/03/2016
+GOOD
+01/03/2016
+GOOD
+01/03/2016
+GOOD
+01/03/2016
+GOOD
+01/03/2016
+GOOD
+01/03/2016
+GOOD
+01/03/2016
+GOOD
+01/03/2016
+GOOD
+01/03/2016
+GOOD
+01/03/2016
+Nominal hectares owned
+Optioned Teuton claims
+Total Nominal hectares owned & optioned
+ha
+953.5
+432.0
+144.0
+431.8
+450.4
+431.6
+450.4
+360.2
+1062.4
+360.1
+899.3
+432.2
+377.9
+6785.7
+ha
+413.8
+54.0
+162.0
+18.0
+500.0
+449.7
+500.0
+500.0
+500.0
+500.0
+500.0
+500.0
+449.7
+89.9
+500.0
+5637.2
+6785.7
+12422.9
+64
+APPENDIX III - QUALIFIED PERSON’S STATEMENT
+CERTIFICATE OF AUTHOR – PAUL J. MCGUIGAN 
+I,  Paul  J.  McGuigan,  P.  Geo.,  doing  business  at  303-5455  West  Boulevard, 
+Vancouver, B.C. V6M 3W5, do hereby certify that:
+
+
+
+
+
+
+
+
+
+
+I am a consulting geologist and principal of Cambria Geosciences Inc.
+I graduated with a B.Sc. degree in Honours Geology from the University of BC 
+in 1975.
+I have worked as a geologist for a total of 36 years since my graduation from 
+university, mostly in North and South America and Africa.
+I am a Professional Geoscientist who is registered and in good standing with 
+the Association of Professional Engineers and Geoscientists of BC since 1991.
+I have read the definition of “Qualified Person” set out in National Instrument 
+43-101 (“NI 43-101”) and certify that by reason of my education, affiliation 
+with  a  professional  association  (as  defined  in  NI  43-101)  and  past  relevant 
+work experience, I fulfill the requirements to be a “Qualified Person” for the 
+purposes of NI 43-101.
+I am responsible for the preparation of all the sections of the Technical Report 
+titled  Granduc  Property,  Northwestern  BC  and  dated  June  30,  2010  (the 
+“Technical  Report”)  relating  to  the  Granduc  property.  I  visited  the  Granduc 
+property  during  all  exploration  programs  in  the  period  1979  to  2005  on 
+thePproperty. I was a Senior Geologist for Esso Resources Canada at the time 
+of their operation of the Granduc Mine from 1979 to 1984. I led the geological 
+teams  that  mapped  the  surface  of  the  mine  property  (McGuigan  and  Marr, 
+1979),  surface  diamond  drilling  and  re-establishing  underground  mapping 
+procedures  (McGuigan,  1981).  I  am  a  principal  of  Cambria  Geological  Ltd. 
+that  conducted  surface  geological  mapping  and  re-logging  of  diamond  drill 
+core (Melnyk, 1991; McGuigan, et al 1992; and Dawson, et al 1994).
+I visited the site of the Granduc mine in May 2010, and observed no evidence 
+of work since the exploration program of 2005-2006.
+I  have  personally  supervised  and  attended  the  field  work  on  each  of  the 
+above cited programs, except for the 2006 program. No other field programs 
+have been conducted on the property to the date of this report.
+I  am  not  aware  of  any  material  fact  or  material  change  with  respect  to  the 
+subject  matter  of  the  Technical  Report  that  is  not  reflected  in  the  Technical 
+Report,  the  omission  to  disclose  which  makes  the  Technical  Report 
+misleading.
+I  am  independent  of  the  issuer  applying  all  of  the  tests  in  section  1.5  of 
+National Instrument 43-101.
+65
+
+I  have  read  National  Instrument  43-101  and  Form  43-101F1,  and  the 
+Technical  Report  has  been  prepared  in compliance  with  that  instrument  and 
+form.
+I  consent  to  the  filing  of  the  Technical  Report  with  any  stock  exchange  and  other 
+regulatory authority and any publication by them for regulatory purposes, including 
+electronic publication in the public company files on their websites accessible by the 
+public, of the Technical Report.
+Dated this 4th day of July, 2010,
+Signed in the original 
+Paul J. McGuigan 
+ 
+_____________________ 
+Paul J. McGuigan, P. Geo.
+66
+CERTIFICATE OF AUTHOR – DON J. HARRISON 
+I,  Don  J.  Harrison,  P.Geo.,  am  a  Consulting  Geologist  residing  at  2206  Port 
+Washington Rd, Pender Island, B.C., Canada, V0N 2M1, and hereby certify that:
+I  am  a  “qualified  person”  as  defined  in  National  Instrument  43-101:  Standards  of 
+Disclosure  for  Mineral  Projects  (“NI  43-101”)  and  my  qualifications  include  the 
+following:
+
+
+
+
+I graduated from the University of British Columbia in 1984 with a Bachelor of 
+Science degree in Earth Sciences.
+I  am  a  Professional  Geoscientist  (P.Geo.)  registered  in  the  Association  of 
+Professional Engineers and Geoscientists of British Columbia, and have been a 
+member in good standing since 1992.
+I have worked as a geologist since 1984 primarily in the mineral exploration 
+sector in North America and South America (Peru, Ecuador).
+I  supervised  worked  on-site  at  the  Granduc  project  during  September  and 
+October, 2005 and most recently visited the Granduc property in preparation 
+of this report in mid May, 2010.
+I am coauthor of this Technical Report on the Granduc Project of Castle Resources 
+Inc. (Castle) dated June 30, 2010 and share responsibility for all parts of the Report.
+I am not aware of any material fact or material change with respect to the subject 
+matter  of  the  Technical  Report  that  is  not  reflected  in  the  Technical  Report,  the 
+omission to disclose which makes the Technical Report misleading.
+I am independent of Castle Resources Inc. based on the tests set out in Section 1.4 
+of NI 43-101.
+I  have  read  NI  43-101  and  Form  43-101  F1.  The  report  has  been  prepared  in 
+compliance with NI 43-101 and Form 43-101 F1.
+I  consent  to  the  filing  of  the  Technical  Report  with  any  stock  exchange  and  other 
+regulatory authority and any publication by them for regulatory purposes, including 
+electronic publication in the public company files on their websites accessible by the 
+public, of the Technical Report.
+Dated this 4th day of July, 2010,
+Signed in the original 
+Don J. Harrison
+______________________ 
+Don J. Harrison, P.Geo.
+67

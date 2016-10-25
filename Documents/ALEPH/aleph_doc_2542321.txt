@@ -1,0 +1,276 @@
+
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ UCabXLmq3H1zsYDhtepBgt/oIlTIPRk/OHVeOHESCmM0bBfkMJMIq0jr7UNxywGK
+ ti6oqHrC6oVjVWEaoJauQA==
+<SEC-DOCUMENT>0001171843-05-000339.txt : 20051110
+<SEC-HEADER>0001171843-05-000339.hdr.sgml : 20051110
+<ACCEPTANCE-DATETIME>20051110141747
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+6-K
+2
+20051110
+0001171843-05-000339
+20051110
+20051110
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: CRUDE PETROLEUM & NATURAL GAS
+NORSK HYDRO A S A
+0000900268
+[1311]
+IRS NUMBER:
+FISCAL YEAR END:
+000000000
+1231
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 001-09159
+FILM NUMBER:
+6-K
+1934 Act
+051193229
+BUSINESS ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+BYGDOY ALLE 2
+N-0240 OSLO 2
+NORWAY
+Q8
+00000
+2126886606
+MAIL ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+BYGDOY ALLE 2
+OSLO 2
+NORWAY
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>document.htm
+<DESCRIPTION>FORM 6-K FILING DOCUMENT
+<TEXT>
+<!DOCTYPE html
+PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en-US">
+<head>
+  <title>Form 6-K Filing</title>
+</head>
+<body>
+<p align="center">
+  <font size="5">
+    <b>UNITED STATES<br>SECURITIES AND EXCHANGE COMMISSION<br></b>
+  </font>
+</p>
+<p align="center">
+  <font size="3">
+    <b>Washington, D.C. 20549</b>
+  </font>
+</p>
+<hr noshade="1" width="120" align="center">
+<p align="center">
+  <font size="5">
+    <b>FORM 6-K</b><br>
+  </font>
+</p>
+<hr noshade="1" width="120" align="center">
+<p align="center">
+  <font size="3">
+    <b>REPORT OF FOREIGN PRIVATE ISSUER</b><br><br>
+    <b>Pursuant to Rule&nbsp;13a-16 or 15d-16 of</b><br>
+<b>The Securities Exchange Act of 1934</b><br>
+</font>
+</p>
+<p align="center">
+  <font size="3">
+    <b>November 10, 2005</b><br>
+  </font>
+</p>
+<hr noshade="1" width="150" align="center">
+<p align="center">
+  <font size="5">
+    <b>Norsk Hydro ASA</b>
+  </font>
+   <br> <font size="2">
+    (Exact name of registrant as specified in its charter)
+  </font>
+</p>
+<p align="center">
+  <font size="3">
+    <b>Drammensveien 264, Vakero, N-0240 Oslo, Norway</b>
+  </font>
+   <br> <font size="2">
+    (Address of principal executive offices)
+  </font>
+</p>
+<p align="center">
+  <font size="3">
+    <b>001-09159</b>
+  </font>
+   <br> <font size="2">
+    (Commission File Number)
+</font>
+</p>
+<hr noshade="1" width="150" align="center">
+<p align="center">
+Indicate by check mark whether the registrant files or will file<br>
+annual reports under cover of Form 20-F or Form 40-F:<br>
+</p>
+<p align="center">
+Form 20-F&nbsp;&nbsp;/ x /
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Form 40-F&nbsp;&nbsp;/ &nbsp; /
+</p>
+<p align="center">
+Indicate by check mark whether the registrant by furnishing the<br>
+information contained in this form is also thereby furnishing the
+information to the<br>
+Commission pursuant to Rule 12g3-2(b) under the Securities Exchange Act of
+1934.</p>
+<p align="center">
+Yes&nbsp;&nbsp;/ &nbsp; /
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+No&nbsp;&nbsp;/ x /
+</p>
+<hr noshade="1">
+<p>
+  <font size="2">
+    &nbsp;&nbsp; On November 10, 2005 the Registrant issued a press  release, a 
+copy of which is attached hereto as  Exhibit 99.1 and is incorporated herein by 
+reference
+  </font>
+</p>
+<p>
+  <font size="2">
+    (c) &nbsp; &nbsp; Exhibit 99.1.  Press release dated November 10, 2005
+  </font>
+</p>
+<hr noshade="1">
+<!-- Registrant's Signature -->
+<p>
+  <font size="2">
+    &nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the  requirements of the Securities Act 
+of 1934, the registrant  has duly caused this report to be signed on its behalf 
+by  the undersigned thereunto duly authorized.
+  </font>
+</p>
+<table cellpadding="0" border="0" width="100%" cellspacing="0">
+<tr valign="top">
+    <td width="47%">
+      &nbsp;
+    </td>
+     <td width="5%">
+      &nbsp;
+</td>
+     <td width="47%" align="center">
+      <font size="2">
+        <b>Norsk Hydro ASA</b>
+      </font>
+       <hr noshade="1"> <font size="2">
+        (Registrant)<br><br>
+      </font>
+    </td>
+  </tr>
+<tr valign="top">
+    <td width="47%" align="center">
+      <font size="2">
+        <b>November 10, 2005</b>
+      </font>
+       <hr noshade="1"> <font size="2">
+        (Date)
+      </font>
+    </td>
+     <td width="5%">
+      &nbsp;
+    </td>
+     <td width="47%" align="center">
+      <font size="2">
+        <b>/s/ &nbsp; IDAR EIKREM</b>
+      </font>
+       <hr noshade="1"> <font size="2">
+        Idar Eikrem
+      </font>
+       <br> <font size="2">
+        <i>Senior Vice President, Investor Relations</i>
+      </font>
+    </td>
+  </tr>
+</table>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>newsrelease.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<html>
+  <head>
+    <title>Norsk Hydro Sale of Shareholding in Biomar Holding A/S</title>
+  </head>
+  <body><p align="right">EXHIBIT 99.1</p><h3 align="center">Norsk Hydro Sale of 
+Shareholding in Biomar Holding A/S</h3>
+<p>
+OSLO, Norway, Nov. 10, 2005 (PRIMEZONE) -- Norsk Hydro ASA has today sold 
+7,569,990 shares in Biomar Holding A/S, representing an ownership interest of 
+68,82%, to Schouw &amp; Co., a company listed on the Copenhagen Stock Exchange. 
+The price obtained was DKK 118 per share.
+</p>
+<p>
+The sales consideration of approximately NOK 925 million will be paid in cash at
+the takeover date immediately following relevant authorities' approval of the 
+transaction. Following the sale, Hydro owns no shares in Biomar Holding A/S. The
+sale is part of Hydro's strategy to divest no-core assets.
+</p>
+<p>
+Hydro will recognise a tax-free gain of approximately NOK 650 million on the 
+transaction. Approximately 50% of the gain is related to the realisation of 
+currency translation gains previously booked directly to equity.
+</p>
+<p>
+Biomar is a global supplier of fish feed for the fishfarming industry with 
+production facilities in five European countries and in Chile. Biomar has 500 
+employees and an expected sales volume of approximately DKK 2.6 billion.
+</p>
+<pre>
+Press contact          Investor contact
+ Contact    Tor Steinum            Gudmund Isfeldt
+ Telephone  +47 22532731           +4722532455
+ Cellular   +47 95083933           +4748001180
+ Email      Tor.Steinum@hydro.com  Gudmund.Isfeldt@hydro.com
+Norsk Hydro ASA
+ Drammensveien 264
+ N-0240 Oslo
+ Norway
+ Telephone: +47 22 53 81 00
+ Fax: +47 22 53 27 25 www.hydro.com
+</pre>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

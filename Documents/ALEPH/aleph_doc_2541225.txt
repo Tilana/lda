@@ -1,0 +1,849 @@
+
+<SEC-DOCUMENT>0001185185-15-002223.txt : 20150817
+<SEC-HEADER>0001185185-15-002223.hdr.sgml : 20150817
+<ACCEPTANCE-DATETIME>20150817124849
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+EFFECTIVENESS DATE:
+NT 10-Q
+1
+20150630
+0001185185-15-002223
+20150817
+20150817
+20150817
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: OIL AND GAS FIELD EXPLORATION
+Green Technology Solutions, Inc.
+0000874792
+SERVICES [1382]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+840938688
+DE
+1231
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 001-11248
+FILM NUMBER:
+NT 10-Q
+1934 Act
+151058432
+BUSINESS ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+2880 ZANKER ROAD
+SUITE 203
+SAN JOSE
+CA
+95134
+(408) 432-7285
+MAIL ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+FORMER COMPANY:
+2880 ZANKER ROAD
+SUITE 203
+SAN JOSE
+CA
+95134
+FORMER CONFORMED NAME: SUNRISE ENERGY RESOURCES INC
+DATE OF NAME CHANGE:
+20050105
+FORMER COMPANY:
+FORMER CONFORMED NAME: SUNRISE ENERGY SERVICES INC
+DATE OF NAME CHANGE:
+19930328
+FORMER COMPANY:
+FORMER CONFORMED NAME: XCL SUNRISE INC /DE/
+DATE OF NAME CHANGE:
+19600201
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>NT 10-Q
+<SEQUENCE>1
+<FILENAME>greentechnology-nt10q063015.htm
+<DESCRIPTION>NT 10-Q
+<TEXT>
+<html>
+<head>
+    <title>greentechnology-nt10q063015.htm</title>
+<!--Licensed to: Federal Filings-->
+    <!--Document Created using EDGARizerAgent 5.5.0.0-->
+    <!--Copyright 1995 - 2014 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">
+<div>
+<hr style="MARGIN-TOP: -5px; COLOR: #000000" noshade size="4">
+<hr style="MARGIN-TOP: -10px; COLOR: #000000" noshade size="1">
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 16pt; FONT-WEIGHT: bold">UNITED STATES</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 16pt; FONT-WEIGHT: bold">SECURITIES AND EXCHANGE 
+COMMISSION</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt; FONT-WEIGHT: bold">Washington, D.C. 20549&#160;</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center">&#160;</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center">
+<div>
+<hr style="COLOR: black" align="center" noshade size="1" width="12%">
+</div>
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 
+10pt">&#160;</font></div>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 16pt; FONT-WEIGHT: bold">FORM 12b-25</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">&#160;</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt; FONT-WEIGHT: bold">NOTIFICATION OF LATE FILING</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 
+10pt">&#160;</font></div>
+<div>
+<hr style="COLOR: black" align="center" noshade size="1" width="12%">
+</div>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">&#160;</font></div>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; 
+FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-FAMILY:
+times new roman; FONT-SIZE: 10pt">(Check one):</font></div>
+</td>
+<td align="left" valign="top" width="4%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" colspan="2" valign="top" width="64%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">&#160;<font style="DISPLAY: inline; FONT-FAMILY: 
+wingdings">o</font> Form&#160;10-K&#160;&#160; &#160;<font style="DISPLAY: 
+inline; FONT-FAMILY: wingdings">o</font> Form&#160;20-F&#160;&#160; &#160;<font 
+style="DISPLAY: inline; FONT-FAMILY: wingdings">o</font> Form&#160;11-
+K&#160;&#160; &#160;<font style="DISPLAY: inline; FONT-FAMILY: 
+wingdings">&#253;</font> Form&#160;10-Q&#160;&#160; <font style="DISPLAY: 
+inline; FONT-FAMILY: wingdings">o</font> Form&#160;10-D&#160;&#160; &#160;<font 
+style="DISPLAY: inline; FONT-FAMILY: wingdings">o</font>&#160;Form&#160;N-
+SAR&#160;&#160; <font style="DISPLAY: inline; FONT-FAMILY: 
+wingdings">o</font>&#160;Form&#160;N-CSR</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="10%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="4%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" colspan="2" valign="top" width="64%"><font style="DISPLAY: 
+inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="10%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="4%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="15%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">For Period Ended:</font></div>
+</td>
+<td align="left" valign="top" width="49%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt; FONT-WEIGHT: bold; TEXT-DECORATION: underline"><font 
+style="DISPLAY: inline">June 30, 2015</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="10%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="4%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" colspan="2" valign="top" width="64%"><font style="DISPLAY: 
+inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="10%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="4%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" colspan="2" valign="top" width="64%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: 
+wingdings">o</font>&#160;&#160; Transition Report on Form&#160;10-K</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="10%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="4%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" colspan="2" valign="top" width="64%"><font style="DISPLAY: 
+inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="10%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="4%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" colspan="2" valign="top" width="64%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: 
+wingdings">o</font>&#160;&#160; Transition Report on Form&#160;20-F</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="10%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="4%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" colspan="2" valign="top" width="64%"><font style="DISPLAY: 
+inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="10%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="4%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" colspan="2" valign="top" width="64%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: 
+wingdings">o</font>&#160;&#160; Transition Report on Form&#160;11-K</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="10%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="4%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" colspan="2" valign="top" width="64%"><font style="DISPLAY: 
+inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="10%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="4%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" colspan="2" valign="top" width="64%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: 
+wingdings">o</font>&#160;&#160; Transition Report on Form&#160;10-Q</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="10%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="4%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" colspan="2" valign="top" width="64%"><font style="DISPLAY: 
+inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="10%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="4%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" colspan="2" valign="top" width="64%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: 
+wingdings">o</font>&#160;&#160; Transition Report on Form&#160;N-
+SAR</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="10%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="4%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" colspan="2" valign="top" width="64%"><font style="DISPLAY: 
+inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="10%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="4%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" colspan="2" valign="top" width="64%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">For the Transition Period Ended:</font></div>
+</td>
+</tr></table>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">&#160;</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">&#160;</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">If the notification relates to a portion of the filing checked 
+above, identify the Item(s) to which the notification relates:</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">&#160;</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt; FONT-WEIGHT: bold">PART I &#8212; REGISTRANT 
+INFORMATION</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">&#160;</font></div>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; 
+FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="38%" style="BORDER-BOTTOM: black 2px 
+solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman;
+FONT-SIZE: 10pt; FONT-WEIGHT: bold">Green Technology Solutions, 
+Inc.</font></div>
+</td>
+<td align="left" valign="top" width="40%" style="PADDING-BOTTOM: 2px"><font 
+style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; 
+</font></td>
+</tr><tr>
+<td align="left" valign="top" width="38%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Full Name of Registrant</font></div>
+</td>
+<td align="left" valign="top" width="40%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="38%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="40%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="38%" style="BORDER-BOTTOM: black 2px 
+solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 
+10pt">&#160; </font></td>
+<td align="left" valign="top" width="40%" style="PADDING-BOTTOM: 2px"><font 
+style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; 
+</font></td>
+</tr><tr>
+<td align="left" valign="top" width="38%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Former Name if Applicable</font></div>
+</td>
+<td align="left" valign="top" width="40%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="38%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="40%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="38%" style="BORDER-BOTTOM: black 2px 
+solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt; FONT-WEIGHT: bold">2880 Zanker Road, Suite 203</font></div>
+</td>
+<td align="left" valign="top" width="40%" style="PADDING-BOTTOM: 2px"><font 
+style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; 
+</font></td>
+</tr><tr>
+<td align="left" valign="top" width="38%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Address of Principal Executive Office <font style="FONT-STYLE: 
+italic; DISPLAY: inline">(Street and Number)</font></font></div>
+</td>
+<td align="left" valign="top" width="40%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="38%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="40%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="38%" style="BORDER-BOTTOM: black 2px 
+solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt; FONT-WEIGHT: bold">San Jose, CA 95134</font></div>
+</td>
+<td align="left" valign="top" width="40%" style="PADDING-BOTTOM: 2px"><font 
+style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; 
+</font></td>
+</tr><tr>
+<td align="left" valign="top" width="38%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">City, State and Zip Code</font></div>
+</td>
+<td align="left" valign="top" width="40%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr></table>
+</div>
+<div>&#160;</div>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; 
+FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-
+FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; 
+FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">&#160;</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt; FONT-WEIGHT: bold">PART II &#8212; RULES 12b-25(b) AND 
+(c)</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">&#160;</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">If the subject report could not be filed without unreasonable 
+effort or expense and the registrant seeks relief pursuant to Rule&#160;12b-
+25(b), the following should be completed. (Check box if 
+appropriate)</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT:
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">&#160;</font></div>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; 
+FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="3%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt" 
+face="Wingdings">&#253;</font></div>
+</td>
+<td align="left" valign="top" width="3%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">(a)</font></div>
+</td>
+<td align="left" valign="top" width="72%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">The reasons described in reasonable detail in Part III of this 
+form could not be eliminated without unreasonable effort or 
+expense;</font></div>
+</td>
+</tr></table>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; 
+FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="3%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt" 
+face="Wingdings">&#253;</font></div>
+</td>
+<td align="left" valign="top" width="3%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">(b)</font></div>
+</td>
+<td align="left" valign="top" width="72%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">The subject annual report, semi-annual report, transition 
+report on Form 10-K, Form 20-F,11-K or Form N-SAR, or portion thereof, will be 
+filed on or before the fifteenth calendar day following the prescribed due date;
+or the subject quarterly report of transition report on Form 10-Q, or portion 
+thereof will be filed on or before the fifth calendar day following the 
+prescribed due date; and</font></div>
+</td>
+</tr></table>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">&#160;</font></div>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; 
+FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="3%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt" 
+face="Wingdings">o</font></div>
+</td>
+<td align="left" valign="top" width="3%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">(c)</font></div>
+</td>
+<td align="left" valign="top" width="72%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">The accountant's statement or other exhibit required by Rule 
+12b-25(c) has been attached if applicable.</font></div>
+</td>
+</tr></table>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">&#160;</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt; FONT-WEIGHT: bold">PART III &#8212; NARRATIVE</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">&#160;</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">State below in reasonable detail the reasons why Forms 10-K, 
+20-F, 11-K, 10-Q, N-SAR, or the transition report thereof, could not be filed 
+within the prescribed time period.</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">&#160;</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">Our management requires additional time to prepare our 
+Quarterly Report on Form 10-Q for the period ended June 30, 2015, which could 
+not be completed without incurring undue hardship and expense.&#160;&#160;We 
+anticipate filing our complete Quarterly Report on Form 10-Q for the period 
+ended June 30, 2015, on or about August 19, 2015.</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">&#160;</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt; FONT-WEIGHT: bold">PART IV &#8212; OTHER 
+INFORMATION</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">&#160;</font></div>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; 
+FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="4%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">(1)</font></div>
+</td>
+<td align="left" valign="top" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" colspan="5" valign="top" width="95%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Name and telephone number of person to contact in regard to 
+this notification</font></div>
+</td>
+</tr><tr>
+<td align="left" colspan="3" valign="top" width="35%"><font style="DISPLAY: 
+inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="8%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="14%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="8%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="35%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td colspan="3" valign="top" width="35%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt; FONT-WEIGHT: bold">Wallace Browne</font></div>
+</td>
+<td align="left" valign="top" width="8%" style="PADDING-BOTTOM: 2px"><font 
+style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; 
+</font></td>
+<td valign="top" width="14%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt; FONT-WEIGHT: bold">(408)</font></div>
+</td>
+<td align="left" valign="top" width="8%" style="PADDING-BOTTOM: 2px"><font 
+style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; 
+</font></td>
+<td valign="top" width="35%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt; FONT-WEIGHT: bold">432-7285</font></div>
+</td>
+</tr><tr>
+<td colspan="3" valign="top" width="35%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">(Name)</font></div>
+</td>
+<td align="left" valign="top" width="8%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="top" width="14%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">(Area Code)</font></div>
+</td>
+<td align="left" valign="top" width="8%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="top" width="35%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">(Telephone Number)</font></div>
+</td>
+</tr></table>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">&#160;</font></div>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; 
+FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="3%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">(2)</font></div>
+</td>
+<td align="left" valign="top" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="74%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">Have all other periodic reports required under Section&#160;13 
+or 15(d) of the Securities Exchange Act of 1934 or Section&#160;30 of the 
+Investment Company Act of 1940 during the preceding 12&#160;months or for such 
+shorter period that the registrant was required to file such report(s) been 
+filed? If answer is no, identify report(s).</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="3%"><font style="DISPLAY: inline; FONT-
+FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="top" width="74%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">Yes <font style="DISPLAY: inline;" 
+face="Wingdings">&#253;</font>&#160;&#160;&#160;&#160;&#160;No&#160;<font 
+style="DISPLAY: inline;" face="Wingdings">o</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="3%"><font style="DISPLAY: inline; FONT-
+FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="top" width="74%"><font style="DISPLAY: inline; FONT-
+FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="3%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">(3)</font></div>
+</td>
+<td align="left" valign="top" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="74%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">Is it anticipated that any significant change in results of 
+operations from the corresponding period for the last fiscal year will be
+reflected by the earnings statements to be included in the subject report or 
+portion thereof?</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="3%"><font style="DISPLAY: inline; FONT-
+FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="top" width="74%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">Yes&#160;<font style="DISPLAY: inline;" 
+face="Wingdings">o</font>&#160;&#160;&#160;&#160;&#160;No <font style="DISPLAY: 
+inline;" face="Wingdings">x</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="3%"><font style="DISPLAY: inline; FONT-
+FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="74%"><font style="DISPLAY: inline; FONT-
+FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="3%"><font style="DISPLAY: inline; FONT-
+FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="74%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">If so, attach an explanation of the anticipated change, both 
+narratively and quantitatively, and, if appropriate, state the reasons why a 
+reasonable estimate of the results cannot be made.</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="3%"><font style="DISPLAY: inline; FONT-
+FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="74%"><font style="DISPLAY: inline; FONT-
+FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="3%"><font style="DISPLAY: inline; FONT-
+FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="74%"><font style="DISPLAY: inline; FONT-
+FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr></table>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">&#160;</font></div>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; 
+FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-
+FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; 
+FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center">&#160;</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt; FONT-WEIGHT: bold"><font style="DISPLAY: inline; TEXT-
+DECORATION: underline">Green Technology Solutions, Inc.</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">(Name of Registrant as Specified in Charter)</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">&#160;</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">has caused this notification to be signed on its behalf by the 
+undersigned hereunto duly authorized.</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; 
+FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="9%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="48%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="4%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="18%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="21%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="9%" style="PADDING-BOTTOM: 2px">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Date:</font></div>
+</td>
+<td align="left" valign="top" width="48%" style="PADDING-BOTTOM: 2px">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">August 17, 2015</font></div>
+</td>
+<td align="left" valign="top" width="4%" style="PADDING-BOTTOM: 2px">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman;
+FONT-SIZE: 10pt">By:</font></div>
+</td>
+<td align="left" colspan="2" valign="top" width="39%" style="BORDER-BOTTOM: 
+black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-FAMILY:
+times new roman; FONT-SIZE: 10pt">/s/ Wallace Browne</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="9%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="48%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="4%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" colspan="2" valign="top" width="39%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Name: Wallace Browne</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="9%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="48%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="4%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" colspan="2" valign="top" width="39%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Title: Chief Executive Officer</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">(Principal Executive, Financial and Accounting 
+Officer)</font></div>
+</td>
+</tr></table>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">&#160;</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="justify">&#160;</div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

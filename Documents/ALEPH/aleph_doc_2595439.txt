@@ -1,0 +1,668 @@
+
+<SEC-DOCUMENT>0001493152-16-012543.txt : 20160816
+<SEC-HEADER>0001493152-16-012543.hdr.sgml : 20160816
+<ACCEPTANCE-DATETIME>20160816092550
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+EFFECTIVENESS DATE:
+NT 10-Q
+1
+20160630
+0001493152-16-012543
+20160816
+20160816
+20160816
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: DRILLING OIL & GAS WELLS [1381]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+PETROTERRA CORP.
+0001463208
+263106763
+0331
+NV
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 001-34970
+FILM NUMBER:
+NT 10-Q
+1934 Act
+161834971
+BUSINESS ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+422 EAST VERMIJO AVE
+SUITE 313
+COLORADO SPRINGS
+CO
+80903
+719-219-6404
+MAIL ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+422 EAST VERMIJO AVE
+SUITE 313
+COLORADO SPRINGS
+CO
+80903
+FORMER COMPANY:
+FORMER CONFORMED NAME: LORAN CONNECTION CORP
+DATE OF NAME CHANGE:
+20090430
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>NT 10-Q
+<SEQUENCE>1
+<FILENAME>nt10-q.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+<P STYLE="margin: 0; text-align: center; font: 10pt Times New Roman, Times, 
+Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">&nbsp;</FONT></P>
+<P STYLE="margin: 0; text-align: center; font: 10pt Times New Roman, Times, 
+Serif"></P>
+<!-- Field: Rule-Page --><DIV ALIGN="LEFT" STYLE="margin: 0"><DIV STYLE="font-
+size: 1pt; border-top: Black 4pt solid; border-bottom: Black 1.5pt solid; 
+margin: 0; width: 100%">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+<P STYLE="margin: 0; text-align: center; font: 10pt Times New Roman, Times, 
+Serif"></P>
+<P STYLE="margin: 0; text-align: center; font: 10pt Times New Roman, Times, 
+Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">&nbsp;</FONT></P>
+<P STYLE="margin: 0; font: 10pt Times New Roman, Times, Serif"></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: 
+center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif;
+font-size: 18pt"><B>UNITED
+STATES</B></FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: 
+center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif;
+font-size: 18pt"><B>SECURITIES
+AND EXCHANGE COMMISSION</B></FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: 
+center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif;
+font-size: 12pt"><B>WASHINGTON,
+DC 20549</B></FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: 
+center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif;
+font-size: 10pt"><B>&nbsp;</B></FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: 
+center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif;
+font-size: 18pt"><B>FORM
+12b-25</B></FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: 
+center; text-indent: 0">&nbsp;</P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: 
+center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif;
+font-size: 10pt"><B>NOTIFICATION
+OF LATE FILING</B></FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: 
+center; text-indent: 0"><FONT STYLE="font-family: Times New Roman, Times, Serif;
+font-size: 10pt"><B>&nbsp;</B></FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New 
+Roman, Times, Serif; border-collapse: collapse">
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 10%"><FONT 
+STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Check
+    One):</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 90%"><P 
+STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">[&nbsp;&nbsp;]
+                                         Form 10-K [&nbsp;&nbsp;]Form 20-F 
+[&nbsp;&nbsp;] Form 11-K [X] Form 10-Q [&nbsp;&nbsp;]
+                                         Form N-SAR</FONT></P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT 
+STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">[&nbsp;&nbsp;]
+Form N-CSR</FONT></P></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">For
+    Period Ended: <B>June 30, 2016</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">[&nbsp;&nbsp;]
+    Transition Report on Form 10-K</FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">[&nbsp;&nbsp;]
+    Transition Report on Form 20-F</FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">[&nbsp;&nbsp;]
+    Transition Report on Form 11-K</FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">[&nbsp;&nbsp;]
+    Transition Report on Form 10-Q</FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">[&nbsp;&nbsp;]
+    Transition Report on Form N-SAR</FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">For
+    the Transition Period Ended: ________________________</FONT></TD></TR>
+</TABLE>
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New 
+Roman, Times, Serif; border-collapse: collapse">
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+<TD STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-
+top: Black 1.5pt solid; border-right: Black 1.5pt solid; border-left: Black 
+1.5pt solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size:
+10pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; border-right: Black 
+1.5pt solid; border-left: Black 1.5pt solid"><P STYLE="font: 10pt Times New 
+Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="font-family: 
+Times New Roman, Times, Serif; font-size: 10pt"><I>Read
+                                         Instruction (on back page) Before 
+Preparing Form. Please Print or Type.</I></FONT></P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-
+align: center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-
+size: 10pt"><B>Nothing
+        in this form shall be construed to imply that the Commission has 
+verified any information contained herein.</B></FONT></P></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; border-bottom: Black 
+1.5pt solid; border-left: Black 1.5pt solid; border-right: Black 1.5pt 
+solid"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">&nbsp;</FONT></TD></TR>
+</TABLE>
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: 
+justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">If
+the notification relates to a portion of the filing checked above, identify the 
+item(s) to which the notification relates:</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT 
+STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">&nbsp;</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+<!-- Field: Rule-Page --><DIV ALIGN="LEFT"><DIV STYLE="font-size: 1pt; border-
+top: Black 1.5pt solid; width: 100%">&nbsp;</DIV></DIV><!-- Field: /Rule-Page 
+-->
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT 
+STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">&nbsp;</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT 
+STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>PART
+I &mdash; REGISTRANT INFORMATION</B></FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT 
+STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt"><B>&nbsp;</B></FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT 
+STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">PETROTERRA
+CORP.</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+<!-- Field: Rule-Page --><DIV ALIGN="LEFT"><DIV STYLE="font-size: 1pt; border-
+top: Black 1.5pt solid; width: 100%">&nbsp;</DIV></DIV><!-- Field: /Rule-Page 
+-->
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT 
+STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Full
+name of registrant:</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT 
+STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">&nbsp;</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT 
+STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">&nbsp;</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+<!-- Field: Rule-Page --><DIV ALIGN="LEFT"><DIV STYLE="font-size: 1pt; border-
+top: Black 1.5pt solid; width: 100%">&nbsp;</DIV></DIV><!-- Field: /Rule-Page 
+-->
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT 
+STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Former
+name if applicable:</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT 
+STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">&nbsp;</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT 
+STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">422
+East Vermijo Avenue, Suite 313</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+<!-- Field: Rule-Page --><DIV ALIGN="LEFT"><DIV STYLE="font-size: 1pt; border-
+top: Black 1.5pt solid; width: 100%">&nbsp;</DIV></DIV><!-- Field: /Rule-Page 
+-->
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT 
+STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Address
+of principal executive office (Street and number):</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT 
+STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">&nbsp;</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; background-color:
+white"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">Colorado
+Springs, Colorado 80903</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; background-color:
+white"></P>
+<!-- Field: Rule-Page --><DIV ALIGN="LEFT"><DIV STYLE="font-size: 1pt; border-
+top: Black 1.5pt solid; width: 100%">&nbsp;</DIV></DIV><!-- Field: /Rule-Page 
+-->
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; background-color:
+white"></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT 
+STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">City,
+state and zip code</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT 
+STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">&nbsp;</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+<!-- Field: Rule-Page --><DIV ALIGN="LEFT" STYLE="margin: 0"><DIV STYLE="font-
+size: 1pt; border-top: Black 1.5pt solid; border-bottom: Black 4pt solid; 
+margin: 0; width: 100%">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT 
+STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">&nbsp;</FONT></P>
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin: 0; border-bottom: Black 1.5pt solid"><TABLE 
+CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; 
+font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD 
+STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%">&nbsp;</TD><TD 
+STYLE="width: 33%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin: 0"><TABLE CELLPADDING="0" 
+CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 
+10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 
+33%">&nbsp;</TD><TD STYLE="width: 34%">&nbsp;</TD><TD STYLE="width: 
+33%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: 
+center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt"><B>&nbsp;</B></FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: 
+center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt"><B>PART
+II &mdash; RULES 12b-25(b) AND (c)</B></FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: 
+center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt"><B>&nbsp;</B></FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 
+0.5in; text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, 
+Serif; font-size: 10pt">If
+the subject report could not be filed without unreasonable effort or expense and
+the registrant seeks relief pursuant to Rule
+12b-25(b), the following should be completed. (Check box if 
+appropriate.)</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-indent: 
+0.5in"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New 
+Roman, Times, Serif; border-collapse: collapse">
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 0.2in"><FONT 
+STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 0.2in"><FONT 
+STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">(a)</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: 
+justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">The
+    reasons described in reasonable detail in Part III of this form could not be
+eliminated without unreasonable effort or expense;</FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: 
+justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">[X]</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">(b)</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: 
+justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">The
+    subject annual report, semi-annual report, transition report on Form 10-K, 
+Form 20-F, 11-K or Form N-SAR, or portion thereof,
+    will be filed on or before the fifteenth calendar day following the 
+prescribed due date; or the subject quarterly report or
+    transition report on Form 10-Q, or portion thereof will be filed on or 
+before the fifth calendar day following the prescribed
+    due date; and</FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: 
+justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">(c)</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: 
+justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">The
+    accountant's statement or other exhibit required by Rule 12b-25(c) has been 
+attached if applicable.</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: 
+center">&nbsp;</P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: 
+center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt"><B>PART
+III &mdash; NARRATIVE</B></FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: 
+center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt"><B>&nbsp;</B></FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: 
+justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, 
+Serif; font-size: 10pt">State
+below in reasonable detail the reasons why Forms 10-K, 20-F, 11-K, 10-Q, N-SAR, 
+N-CSR, or the transition report or portion thereof,
+could not be filed within the prescribed time period.</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: 
+justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, 
+Serif; font-size: 10pt">&nbsp;</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: 
+justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, 
+Serif; font-size: 10pt">PetroTerra
+Corp. (the &ldquo;Company&rdquo;) was unable to file its Quarterly Report on 
+Form 10-Q (&ldquo;Form 10-Q&rdquo;) for the period
+ended June 30, 2016 on a timely basis because the Company required additional 
+time to work internally with its staff and externally
+with its outside auditors to prepare and finalize the Form 10-Q. The Company 
+anticipates that it will file the Form 10-Q no later
+than the fifth calendar day following the prescribed filing date.</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: 
+justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, 
+Serif; font-size: 10pt">&nbsp;</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: 
+center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt"><B>PART
+IV &mdash; OTHER INFORMATION</B></FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: 
+center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt"><B>&nbsp;</B></FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New 
+Roman, Times, Serif; border-collapse: collapse">
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 0.3in"><FONT 
+STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">(1)</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">Name
+    and telephone number of person to contact in regard to this 
+notification</FONT></TD></TR>
+</TABLE>
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New 
+Roman, Times, Serif; border-collapse: collapse; margin-left: 0.3in">
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 32%; text-align:
+left; border-bottom: Black 1.5pt solid"><FONT STYLE="font-family: Times New 
+Roman, Times, Serif; font-size: 10pt">John
+    Barton</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 2%; text-align: 
+center; padding-bottom: 1.5pt"><FONT STYLE="font-family: Times New Roman, Times,
+Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 32%; text-align:
+center; border-bottom: Black 1.5pt solid"><FONT STYLE="font-family: Times New 
+Roman, Times, Serif; font-size: 10pt">(719)
+    </FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 2%; text-align:
+center; padding-bottom: 1.5pt"><FONT STYLE="font-family: Times New Roman, Times,
+Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 32%; text-align:
+left; border-bottom: Black 1.5pt solid"><FONT STYLE="font-family: Times New 
+Roman, Times, Serif; font-size: 10pt">219-6404</FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left"><FONT
+STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">(Name)</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: 
+center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: 
+center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">(Area
+    Code)</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: 
+center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: left"><FONT
+STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Telephone
+    Number)</FONT></TD></TR>
+</TABLE>
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New 
+Roman, Times, Serif; border-collapse: collapse">
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 0.3in"><FONT 
+STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">(2)</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: 
+justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">Have
+    all other periodic reports required under Section 13 or 15(d) of the 
+Securities Exchange Act of 1934 or Section 30 of the
+    Investment Company Act of 1940 during the preceding 12 months or for such 
+shorter period that the registrant was required
+    to file such report(s) been filed? If the answer is no, identify 
+report(s).</FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: 
+justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: 
+right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">[X]
+    Yes [&nbsp;&nbsp;] No</FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: 
+justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">(3)</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: 
+justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size:
+10pt">Is
+    it anticipated that any significant change in results of operations from the
+corresponding period for the last fiscal year
+    will be reflected by the earnings statements to be included in the subject 
+report or portion thereof?</FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: 
+justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">&nbsp;</FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-align: 
+right"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">[&nbsp;&nbsp;]
+    Yes [X] No</FONT></TD></TR>
+</TABLE>
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: 
+justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, 
+Serif; font-size: 10pt">If
+so, attach an explanation of the anticipated change, both narratively and 
+quantitatively, and, if appropriate, state the reasons
+why a reasonable estimate of the results cannot be made.</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: 
+justify; text-indent: 0.5in"><FONT STYLE="font-family: Times New Roman, Times, 
+Serif; font-size: 10pt">&nbsp;</FONT></P>
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin: 0; border-bottom: Black 1.5pt solid"><TABLE 
+CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; 
+font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD 
+STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%">&nbsp;</TD><TD 
+STYLE="width: 33%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin: 0"><TABLE CELLPADDING="0" 
+CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 
+10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 
+33%">&nbsp;</TD><TD STYLE="width: 34%">&nbsp;</TD><TD STYLE="width: 
+33%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-
+bottom: 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times,
+Serif; font-size: 10pt; text-transform: uppercase"><B>&nbsp;</B></FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-
+bottom: 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times,
+Serif; font-size: 10pt; text-transform: uppercase"><B>PETROTERRA
+CORP.</B></FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-
+bottom: 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times,
+Serif; font-size: 10pt">(Name
+of Registrant as Specified in Charter)</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-
+bottom: 0; text-align: center"><FONT STYLE="font-family: Times New Roman, Times,
+Serif; font-size: 10pt">&nbsp;</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT 
+STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">has
+caused this notification to be signed on its behalf by the undersigned hereunto 
+duly authorized.</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><FONT 
+STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New 
+Roman, Times, Serif; border-collapse: collapse">
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 50%; padding-
+bottom: 1.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-
+size: 10pt">Date:
+    August 16, 2016</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 3%; padding-
+bottom: 1.5pt"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-
+size: 10pt">By</FONT>:</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 47%; border-
+bottom: Black 1.5pt solid"><FONT STYLE="font-family: Times New Roman, Times, 
+Serif; font-size: 10pt"><I>/s/
+    John Barton</I></FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">John
+    Barton</FONT></TD></TR>
+<TR STYLE="vertical-align: top; font: 10pt Times New Roman, Times, Serif">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-
+family: Times New Roman, Times, Serif; font-size: 10pt">President,
+    Chief Executive Officer and Chief Financial Officer</FONT></TD></TR>
+</TABLE>
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: 
+justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">INSTRUCTION.
+The form may be signed by an executive officer of the registrant or by any other
+duly authorized representative. The name and
+title of the person signing the form shall be typed or printed beneath the 
+signature. If the statement is signed on behalf of
+the registrant by an authorized representative (other than an executive 
+officer), evidence of the representative's authority to
+sign on behalf of the registrant shall be filed with the form.</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: 
+justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">&nbsp;</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: 
+center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">ATTENTION</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: 
+center"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">&nbsp;</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: 
+justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">Intentional
+misstatements or omissions of fact constitute Federal criminal violations. (See 
+18 U.S.C. 1001).</FONT></P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: 
+justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">&nbsp;</FONT></P>
+<!-- Field: Page; Sequence: 3 -->
+    <DIV STYLE="margin: 0; border-bottom: Black 1.5pt solid"><TABLE 
+CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; 
+font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD 
+STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%">&nbsp;</TD><TD 
+STYLE="width: 33%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin: 0"><TABLE CELLPADDING="0" 
+CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 
+10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 
+33%">&nbsp;</TD><TD STYLE="width: 34%">&nbsp;</TD><TD STYLE="width: 
+33%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+<P STYLE="margin: 0; font: 10pt Times New Roman, Times, Serif"></P>
+<P STYLE="margin: 0; font: 10pt Times New Roman, Times, Serif"><FONT 
+STYLE="font-family: Times New Roman, Times, Serif; font-size: 
+10pt">&nbsp;</FONT></P>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

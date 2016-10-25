@@ -1,0 +1,2601 @@
+
+10-Q 1 leu-20160630x10q.htm 10-Q Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ 
+ 
+FORM 10-Q
+ý
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+  
+For the quarterly period ended June 30, 2016
+OR
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+o
+52-2107911
+Commission file number 1-14287
+Centrus Energy Corp.
+Delaware
+(State of incorporation)(I.R.S. Employer Identification No.)
+ 
+6901 Rockledge Drive, Suite 800, Bethesda, Maryland 20817
+(301) 564-3200
+ 
+ 
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by
+Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or
+for such shorter period that the registrant was required to file such reports), and (2) has been
+subject to such filing requirements for the past 90 days.     Yes ý   No o
+ 
+Indicate by check mark whether the registrant has submitted electronically and posted on its
+corporate Web site, if any, every Interactive Data File required to be submitted and posted
+pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12
+months (or for such shorter period that the registrant was required to submit and post such files).
+    Yes ý   No o
+ 
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a
+non-accelerated filer or a smaller reporting company. See the definitions of “large accelerated
+filer,” “accelerated filer” and “smaller reporting company” in Rule 12b-2 of the Exchange Act.
+(Check one):
+Large accelerated filero Accelerated filer
+o
+Non-accelerated filer o Smaller reporting companyý
+ 
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the
+Exchange Act).
+Yes o     No ý
+ 
+Indicate by check mark whether the registrant has filed all documents and reports required to be
+filed by Sections 12, 13 or 15(d) of the Securities Exchange Act of 1934 subsequent to the
+distribution of securities under a plan confirmed by a court.
+Yes ý    No o
+ 
+As of August 5, 2016, there were 7,563,600 shares of the registrant’s Class A Common Stock
+and 1,436,400 shares of the registrant’s Class B Common Stock outstanding.
+PART I – FINANCIAL INFORMATION
+TABLE OF CONTENTS
+ 
+ 
+ 
+Item
+1.
+Financial Statements (Unaudited):
+Condensed Consolidated Balance Sheets at June 30, 2016 and December 31, 2015 4
+Condensed Consolidated Statements of Operations for the Three and Six Months
+Ended June 30, 2016 and 2015
+Condensed Consolidated Statements of Comprehensive Loss for the Three and Six
+Months Ended June 30, 2016 and 2015
+Condensed Consolidated Statements of Cash Flows for the Six Months Ended June
+30, 2016 and 2015
+Condensed Consolidated Statements of Stockholders’ Equity (Deficit) for the Six
+Months Ended June 30, 2016 and 2015
+Notes to Condensed Consolidated Financial Statements
+Management's Discussion and Analysis of Financial Condition and Results of
+Operations
+Liquidity and Capital Resources
+5
+6
+7
+8
+9
+Quantitative and Qualitative Disclosures about Market Risk
+Page
+23
+32
+36
+36
+37
+37
+37
+38
+Item
+2.
+ 
+Item
+3.
+Item
+4.
+ 
+ 
+Item
+1.
+Item
+1A.
+Item
+6.
+Signatures
+Controls and Procedures
+PART II – OTHER INFORMATION
+Legal Proceedings
+Risk Factors
+Exhibits
+Exhibit Index
+39
+FORWARD-LOOKING STATEMENTS
+  
+This Quarterly Report on Form 10-Q, including Management’s Discussion and Analysis of
+Financial Condition and Results of Operations in Part I, Item 2, contains “forward-looking
+statements” within the meaning of Section 21E of the Securities Exchange Act of 1934 - that is,
+statements related to future events. In this context, forward-looking statements may address our
+expected future business and financial performance, and often contain words such as “expects”,
+“anticipates”, “intends”, “plans”, “believes”, “will”, “should”, “could”, “would” or “may” and other
+words of similar meaning. Forward-looking statements by their nature address matters that are, to
+different degrees, uncertain. For Centrus Energy Corp., particular risks and uncertainties that
+could cause our actual future results to differ materially from those expressed in our forward-
+looking statements include, risks and uncertainties related to the adoption of fresh start
+accounting; risks related to our significant long-term liabilities, including material unfunded
+defined benefit pension plan obligations and postretirement health and life benefit obligations;
+risks relating to our outstanding 8.0% paid-in-kind (“PIK”) toggle notes (the “PIK Toggle Notes”)
+maturing in September 2019, including the potential termination of the guarantee by United
+States Enrichment Corporation (“Enrichment Corp.”) of the PIK Toggle Notes; risks related to the
+limited trading markets in our securities; risks related to our ability to maintain the listing of our
+common stock on the NYSE MKT LLC; the continued impact of the March 2011 earthquake and
+tsunami in Japan on the nuclear industry and on our business, results of operations and
+prospects; the impact and potential extended duration of the current supply/demand imbalance in
+the market for low-enriched uranium (“LEU”); uncertainty regarding our ability to commercially
+deploy competitive enrichment technology; our dependence on others for deliveries of LEU
+including deliveries from Russia under a commercial supply agreement (the “Russian Supply
+Agreement”) with the Russian government entity Joint Stock Company “TENEX”; risks related to
+our ability to sell the LEU we procure pursuant to our purchase obligations under our supply
+agreements including the Russian Supply Agreement; risks related to trade barriers and contract
+terms that limit our ability to deliver LEU to customers; risks related to actions that may be taken
+by the U.S. government, the
+2
+Russian government or other governments that could affect our ability or the ability of our sources
+of supply to perform under contract obligations, including the imposition of sanctions, restrictions
+or other requirements; risks relating to our sales order book, including uncertainty concerning
+customer actions under current contracts and in future contracting due to market conditions and
+lack of current production capability; risks associated with our reliance on third-party suppliers to
+provide essential services to us; pricing trends and demand in the uranium and enrichment
+markets and their impact on our profitability; movement and timing of customer orders; the impact
+of government regulation including by the U.S. Department of Energy and the U.S. Nuclear
+Regulatory Commission; the outcome of legal proceedings and other contingencies (including
+lawsuits and government investigations or audits); risks and uncertainties regarding funding for
+the American Centrifuge project and our ability to enter into an extension of the new agreement
+with UT-Battelle, LLC, the management and operating contractor for Oak Ridge National
+Laboratory, for continued research, development and demonstration of the American Centrifuge
+technology; the competitive environment for our products and services; the potential for further
+demobilization or termination of the American Centrifuge project; risks related to the current
+demobilization of the portions of the American Centrifuge project including risks that the schedule
+could be delayed and costs could be higher than expected; changes in the nuclear energy
+industry; the impact of financial market conditions on our business, liquidity, prospects, pension
+assets and insurance facilities; revenue and operating results can fluctuate significantly from
+quarter to quarter, and in some cases, year to year; and other risks and uncertainties discussed in
+this and our other filings with the Securities and Exchange Commission, including our Annual
+Report on Form 10-K for the fiscal year ended December 31, 2015.
+Readers are urged to carefully review and consider the various disclosures made in this report
+and in our other filings with the Securities and Exchange Commission that attempt to advise
+interested parties of the risks and factors that may affect our business. We do not undertake to
+update our forward-looking statements to reflect events or circumstances that may arise after the
+date of this Quarterly Report on Form 10-Q except as required by law.
+3
+CENTRUS ENERGY CORP.
+CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited)
+(in millions)
+ASSETS
+Current Assets
+Cash and cash equivalents
+Accounts receivable
+Inventories
+Deferred costs associated with deferred revenue
+Other current assets
+Total current assets
+Property, plant and equipment, net
+Deposits for surety bonds
+Intangible assets, net
+Other long-term assets
+Total Assets
+ 
+LIABILITIES AND STOCKHOLDERS’ DEFICIT
+Current Liabilities
+Accounts payable and accrued liabilities
+Payables under SWU purchase agreements
+June 30, 
+December 31, 
+ 
+2015
+2016
+  
+ 
+ 
+  
+$174.5  $ 234.0
+51.3
+201.2
+74.5
+14.9
+516.4
+6.2
+29.5
+99.9
+23.0
+$675.0  $ 820.1
+ 
+ 
+ 
+$40.1
+34.5
+26.5
+ 319.2
+ 63.1
+ 15.2
+ 658.0
+ 3.5
+ 29.8
+ 105.8
+ 23.0
+$ 44.8
+ 85.4
+39.5
+Inventories owed to customers and suppliers
+Deferred revenue
+99.8
+Decontamination and decommissioning obligations25.7
+239.6
+Total current liabilities
+227.8
+Long-term debt
+185.0
+Postretirement health and life benefit obligations
+Pension benefit liabilities
+171.4
+34.2
+Other long-term liabilities
+Total Liabilities
+858.0
+Commitments and Contingencies (Note 12)
+Stockholders’ Deficit
+Total Liabilities and Stockholders’ Deficit
+106.8
+ 83.9
+ 29.4
+ 350.3
+ 247.0
+ 184.3
+ 172.3
+ 31.9
+ 985.8
+(183.0 ) (165.7
+$675.0  $ 820.1
+)
+The accompanying notes are an integral part of these condensed consolidated financial
+statements.
+4
+CENTRUS ENERGY CORP.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited)
+(in millions, except per share data)
+Three Months
+Ended 
+ June 30,
+2016
+ 
+ 
+Revenue:
+$ 54.9
+Separative work units
+—
+Uranium
+8.5
+Contract services
+63.4
+Total Revenue
+ 
+Cost of Sales:
+49.3
+Separative work units and uranium
+8.6
+Contract services
+57.9
+Total Cost of Sales
+5.5
+Gross profit
+4.7
+Advanced technology costs
+12.5
+Selling, general and administrative
+Amortization of intangible assets
+2.7
+Special charges for workforce reductions and advisory costs0.6
+(0.4
+Other income
+(14.6
+Operating loss
+Gain on early extinguishment of debt
+(16.7
+5.1
+Interest expense
+2015
+  
+ $ 42.2
+ —
+ 21.1
+ 63.3
+  
+ 36.7
+ 22.3
+ 59.0
+ 4.3
+ 4.0
+ 6.3
+ 2.0
+ 2.9
+) (0.7
+) (10.2
+) —
+ 4.9
+2015
+Six Months
+ 
+Ended 
+ June 30,
+ 2016
+  
+ $114.2  $145.8
+ 43.2
+ 14.3
+ 24.9
+ 42.1
+ 153.4  231.1
+  
+ 114.8  176.3
+ 17.3
+ 43.6
+ 132.1  219.9
+ 11.2
+ 21.3
+ 16.7
+ 5.8
+ 18.6
+ 23.9
+ 6.0
+ 5.9
+ 0.6
+ 3.5
+) (0.7
+)
+) (1.5
+) (25.1 ) (21.2 )
+ (16.7 ) —
+ 9.8
+ 10.1
+Interest (income)
+Loss before income taxes
+Provision (benefit) for income taxes
+Net loss
+ 
+Net loss per share - basic and diluted
+Weighted-average number of shares outstanding - basic
+and diluted
+) (0.2
+(0.4
+)
+) —
+) (18.1 ) (30.8 )
+) (15.1
+ (0.6
+)
+ —
+) $ (15.1 ) $(17.5 ) $(30.5 )
+(0.1
+(2.9
+—
+$ (2.9
+ 
+$ (0.32 ) $ (1.68 ) $(1.92 ) $(3.39 )
+) (0.3
+9.1
+9.0
+9.1
+9.0
+The accompanying notes are an integral part of these condensed consolidated financial
+statements.
+5
+CENTRUS ENERGY CORP.
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS (Unaudited)
+(in millions)
+Net loss
+Other comprehensive loss, before tax (Note 13):
+Amortization of prior service (credits), net
+Other comprehensive loss, before tax
+Income tax benefit related to items of other comprehensive
+income
+Other comprehensive loss, net of tax
+Comprehensive loss
+2015
+Three Months
+Ended 
+ June 30,
+2016
+$ (2.9 ) $ (15.1
+ 
+—
+—
+—
+ —
+Six Months
+ 
+Ended 
+ June 30,
+ 2016
+)  $(17.5 ) $(30.5 )
+  
+ (0.1
+ (0.1
+) (0.1
+) (0.1
+2015
+)
+)
+—
+—
+—
+—
+—
+—
+$ (2.9 ) $ (15.1
+(0.1
+)
+)  $(17.6 ) $(30.6 )
+) (0.1
+The accompanying notes are an integral part of these condensed consolidated financial
+statements.
+6
+CENTRUS ENERGY CORP.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (Unaudited)
+(in millions)
+Cash From Operating Activities
+Net loss
+Adjustments to reconcile net loss to net cash (used in) operating activities: 
+Depreciation and amortization
+PIK interest on paid-in-kind toggle notes
+Gain on early extinguishment of debt
+Gain on sales of assets
+Inventory valuation adjustments
+Changes in operating assets and liabilities:
+Accounts receivable – (increase) decrease
+Inventories, net – decrease
+Payables under SWU purchase agreements – (decrease)
+Deferred revenue, net of deferred costs – increase (decrease)
+Accounts payable and other liabilities – (decrease)
+Other, net
+Net Cash (Used in) Operating Activities
+ 
+Cash Provided by Investing Activities
+Capital expenditures
+Proceeds from sales of assets
+Deposits for surety bonds - net decrease
+Net Cash Provided by (Used in) Investing Activities
+ 
+Cash Used in Financing Activities
+Repurchase of debt
+Net Cash (Used in) Financing Activities
+ 
+Net (Decrease)
+Cash and Cash Equivalents at Beginning of Period
+Cash and Cash Equivalents at End of Period
+ 
+Supplemental cash flow information:
+Interest paid
+Non-cash activities:
+Conversion of interest payable-in-kind to long-term debt
+Six Months Ended 
+ June 30,
+2016
+ 
+$(17.5 ) $ (30.5 )
+2015
+)
+)
+6.2
+ 1.8
+) —
+) (1.5
+ —
+  
+) 31.8
+ 118.1
+) (116.9 )
+)
+ (6.6
+) (12.7
+)
+ 4.5
+) (5.8
+  
+  
+) —
+ 1.5
+ 4.0
+) 5.5
+  
+  
+) —
+) —
+  
+) (0.3
+ 218.8
+6.2
+3.4
+(16.7
+(0.6
+0.7
+ 
+(25.2
+50.0
+(50.9
+4.4
+(4.3
+0.6
+(49.9
+ 
+ 
+(2.9
+1.0
+0.3
+(1.6
+ 
+ 
+(8.0
+(8.0
+ 
+(59.5
+234.0
+$174.5  $ 218.5
+ 
+ 
+$3.6
+ 
+$3.4
+$ 6.0
+  
+ $ 1.8
+)
+The accompanying notes are an integral part of these condensed consolidated financial
+statements.
+7
+CENTRUS ENERGY CORP.
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY (DEFICIT)
+(Unaudited)
+(in millions, except per share data)
+Six Months Ended June 30, 2015
+Balance at December 31, 2014
+Net loss
+Other comprehensive loss, net of tax
+(Note 13)
+Restricted stock units and stock
+options issued, net of amortization
+Balance at June 30, 2015
+ 
+Six Months Ended June 30, 2016
+Balance at December 31, 2015
+Net loss
+Other comprehensive loss, net of tax
+(Note 13)
+Restricted stock units and stock
+options issued, net of amortization
+Balance at June 30, 2016
+Common
+Stock,
+Par Value
+$.10 per
+Share
+$ 0.9
+—
+—
+—
+$ 0.9
+ 
+ 
+$ 0.9
+—
+—
+—
+Accumulated
+Other
+ 
+Comprehensive
+Income (Loss)
+Retained
+ 
+Earnings
+(Deficit)
+Excess
+of
+Capital
+ 
+over
+Par
+Value
+  
+  
+ $ 58.6  $(42.3 ) $
+ —
+) —
+(30.5
+4.4
+4.3
+4.1
+—
+0.2
+—
+—
+(0.1
+—
+$ 58.8  $(72.8 ) $
+  
+  
+  
+  
+ $ 59.0  $(229.7 ) $
+ —
+) —
+(17.5
+—
+0.3
+—
+—
+(0.1
+—
+$ 0.9
+$ 59.3  $(247.2 ) $
+4.0
+Total
+$21.6
+ (30.5
+)
+(0.1
+)
+)
+0.2
+)
+$(8.8
+  
+  
+ $(165.7)
+ (17.5
+)
+)
+(0.1
+)
+0.3
+$(183.0)
+The accompanying notes are an integral part of these condensed consolidated financial
+statements.
+8
+CENTRUS ENERGY CORP.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited)
+1. BASIS OF PRESENTATION
+The unaudited condensed consolidated financial statements of Centrus Energy Corp. (“Centrus”
+or the “Company”), which include the accounts of the Company, its principal subsidiary United
+States Enrichment Corporation (“Enrichment Corp.”) and its other subsidiaries, as of and for the
+three and six months ended June 30, 2016 and 2015, have been prepared pursuant to the rules
+and regulations of the Securities and Exchange Commission (“SEC”). The unaudited condensed
+consolidated financial statements reflect all adjustments that are, in the opinion of management,
+necessary for a fair statement of the financial results for the interim period. Certain information
+and notes normally included in financial statements prepared in accordance with generally
+accepted accounting principles in the United States (“GAAP”) have been omitted pursuant to
+such rules and regulations. All material intercompany transactions have been eliminated. Certain
+amounts have been reclassified to conform to the current presentation.
+Operating results for the three and six months ended June 30, 2016, are not necessarily
+indicative of the results that may be expected for the year ending December 31, 2016. The
+unaudited condensed consolidated financial statements should be read in conjunction with the
+consolidated financial statements and related notes and Management's Discussion and Analysis
+of Financial Condition and Results of Operations included in the Annual Report on Form 10-K for
+the fiscal year ended December 31, 2015.
+New Accounting Standards
+In May 2014, the Financial Accounting Standards Board (“FASB”) issued comprehensive
+guidance for revenue recognition and has since issued further implementation guidance. The
+core principle of the standard is that revenue should be recognized when an entity transfers
+promised goods or services to customers in an amount that reflects the consideration the entity
+expects to receive in exchange for those goods or services. The standard will supersede current
+guidance in effect and may require the use of more judgment and estimates, including estimating
+the amount of variable revenue to recognize over each identified performance obligation. The
+standard requires additional disclosures to describe the nature, amount and timing of revenue
+and cash flows arising from contracts. The standard will become effective for Centrus beginning
+with the first quarter of 2018 and can be adopted either retrospectively to each prior reporting
+period presented or as a cumulative effect adjustment as of the date of adoption. Early adoption
+as of the first quarter of 2017 is permitted. Centrus expects to adopt the guidance in the first
+quarter of 2018 and is evaluating the impact on its consolidated financial statements.
+In August 2014, the FASB issued guidance requiring management to assess an entity’s ability to
+continue as a going concern and to provide related disclosures in certain circumstances. The
+standard is effective for annual and interim periods beginning after December 15, 2016. Early
+adoption is permitted. The implementation of the standard is not expected to have a material
+impact on Centrus’ consolidated financial statements.
+In April 2015, the FASB issued guidance to simplify the presentation of debt issuance costs. The
+standard requires the presentation of debt issuance costs in the balance sheet as a reduction in
+the carrying amount of the related debt liability instead of a deferred charge asset. Centrus
+adopted the standard with retrospective application beginning with the first quarter of 2016. The
+reclassification of debt issuance costs did not have a material impact on Centrus’ consolidated
+financial statements.
+In February 2016, the FASB issued guidance that requires lessees to recognize a right-of-use
+asset and lease liability on the balance sheet for all leases with terms longer than 12 months.
+The standard is effective for annual and interim periods beginning after December 15, 2018, and
+requires expanded disclosures of lease arrangements. Centrus is evaluating the impact of
+adopting this new guidance on its consolidated financial statements.
+9
+In March 2016, the FASB issued guidance for stock compensation that simplifies several aspects
+of the accounting for share-based payment transactions, including income tax consequences,
+classification of awards as either equity or liabilities, and classification on the statement of cash
+flows. The standard is effective for interim and annual reporting periods beginning after
+December 15, 2016. Early adoption is permitted. Centrus is evaluating the impact of adopting this
+new guidance on its consolidated financial statements.
+2. SPECIAL CHARGES
+The cessation of enrichment at the Paducah Gaseous Diffusion Plant (the “Paducah GDP”) and
+evolving business needs have resulted in workforce reductions since July 2013. In the six
+months ended June 30, 2015, special charges included related termination benefits of $3.8
+million, less $0.3 million for employee severance paid by the Company and invoiced to the U.S.
+Department of Energy (“DOE”) for its share of employee severance pursuant to the USEC
+Privatization Act.
+In September 2015, Centrus completed a successful three-year demonstration of American
+Centrifuge technology at its facility in Piketon, Ohio. The demonstration effort was primarily
+funded by the U.S. government. As a result of reduced program funding, Centrus incurred a
+special charge of $8.7 million in the third quarter of 2015 for estimated employee termination
+benefits, consisting primarily of payments under its pre-existing severance plan. An additional
+$0.1 million special charge was incurred in the second quarter of 2016 as an adjustment to
+accrued severance benefits for current salary levels. Centrus expects to make payments for these
+workforce reductions through 2017.
+In the second quarter of 2016, the Company commenced a project to align its corporate structure
+to the scale of its ongoing business operations and to update related information technology. The
+company incurred advisory costs related to the reengineering project of $0.5 million in the three
+months ended June 30, 2016.
+A summary of termination benefit activity and changes in the related balance sheet account in the
+six months ended June 30, 2016, follows (in millions):
+Liability
+ 
+Dec.
+31,
+ 
+2015
+Six Months Ended
+ 
+June 30, 2016
+Charges for Termination
+ 
+Benefits
+Liability
+ 
+June
+30,
+2016
+Paid
+Workforce reductions:
+Enrichment cessation and evolving
+business needs
+American Centrifuge
+$ 0.3
+$
+—
+8.4
+0.1
+$(0.1) $ 0.2
+(2.2 ) 6.3
+10
+$ 8.7
+$
+0.1
+$(2.3) $ 6.5
+3. CONTRACT SERVICES AND ADVANCED TECHNOLOGY COSTS
+The contract services segment includes Revenue and Cost of Sales for American Centrifuge
+work Centrus performs as a contractor to UT-Battelle, LLC (“UT-Battelle”), the operator of Oak
+Ridge National Laboratory (“ORNL”). The Company’s current contract signed in March 2016 with
+UT-Battelle provides for continued development work at the Company’s facilities in Oak Ridge,
+Tennessee, through September 30, 2016. The contract is a firm, fixed-price contract that provides
+for payments for monthly reports of approximately $2.7 million per month, down from
+approximately $6.9 million per month received during government fiscal year 2015 which ended
+September 30, 2015.
+Although the Company’s prior contract with UT-Battelle expired September 30, 2015, Centrus
+continued to perform work at the expected reduced scope as the parties worked toward a
+successor agreement. The current contract signed in March 2016 provided for payment for
+reports related to work performed since October 1, 2015. Revenue in the six months ended June
+30, 2016, includes $8.1 million for March reports on work performed in the three months ended
+December 31, 2015, and $16.2 million for reports on work performed in the six months ended
+June 30, 2016. Expenses for contract work performed in the six months ended June 30, 2016, are
+included in Cost of Sales. Expenses for work performed in the three months ended December 31,
+2015, before there was a contract were included in Advanced Technology Costs in 2015.
+American Centrifuge expenses that are outside of the Company’s contracts with UT-Battelle,
+including demobilization and maintenance costs, are included in Advanced Technology Costs. In
+addition to severance costs (see Note 2 - Special Charges) and demobilization costs, Centrus
+has begun to incur expenditures in the second quarter of 2016 associated with the
+decontamination and decommissioning (“D&D”) of the Piketon facility in accordance with the
+requirements of the U.S. Nuclear Regulatory Commission (“NRC”) and DOE (see Note 12 -
+Commitments and Contingencies).
+4.  RECEIVABLES
+Utility customers and other
+Contract services, primarily DOE4.5
+Accounts receivable
+ 
+Certain overdue receivables from DOE are included in other long-term assets based on the
+extended timeframe expected to resolve claims for payment. Unpaid invoices to DOE totaled
+approximately $78 million as of June 30, 2016, and December 31, 2015, related to filed claims.
+$ 24.7
+ 1.8
+ $ 26.5
+June 30, 
+December 31, 
+ 
+2016
+2015
+(in millions)
+$ 46.8
+$ 51.3
+Due to the lack of a resolution with DOE and uncertainty regarding the timing and amount of
+future collections, the long-term receivable for accounting purposes is $23.0 million as of June
+30, 2016, and December 31, 2015, including updated submissions for final indirect rates and
+incurred costs, as well as invoices for interest.
+Centrus has unapplied payments from DOE that may be used, at DOE’s direction, (a) to pay for
+future services provided by the Company or (b) to reduce outstanding receivables balances due
+from DOE. The balance of unapplied payments of $19.3 million as of June 30, 2016, and $19.4
+million as of December 31, 2015, is included in other long-term liabilities pending resolution of
+the long-term receivables from DOE described above.
+11
+5. INVENTORIES
+Centrus holds uranium at licensed locations in the form of natural uranium and as the uranium
+component of low enriched uranium (“LEU”). Centrus also holds separative work units (“SWU”)
+as the SWU component of LEU at licensed locations (e.g., fabricators) to meet book transfer
+requests by customers. Fabricators process LEU into fuel for use in nuclear reactors.
+Components of inventories follow (in millions):
+December 31, 2015
+Inventories, Net
+Current
+Current
+ 
+Liabilities
+Assets
+(a)
+Inventories, Net
+$ 141.3
+ 20.2
+ 0.2
+ $ 161.7
+$221.5  $ 33.1
+ 97.5
+ 0.2
+ $319.2  $ 106.8  $ 212.4
+$ 188.4
+ 23.8
+ 0.2
+73.7
+ —
+June 30, 2016
+Current
+Current
+ 
+Liabilities
+Assets
+(a)
+Separative work units $159.8  $ 18.5
+Uranium
+41.2
+Materials and supplies0.2
+$201.2  $ 39.5
+21.0
+ —
+(a)
+Inventories owed to customers and suppliers, included in current liabilities, consist primarily of
+SWU and uranium inventories owed to fabricators.
+Inventories are valued at the lower of cost or net realizable value. Valuation adjustments of $0.7
+million were charged to cost of sales in the six months ended June 30, 2016, including $0.2
+million in the second quarter, for the Company’s uranium inventory to reflect declines in uranium
+market price indicators.
+Uranium Provided by Customers and Suppliers
+Centrus held uranium with estimated values of approximately $242 million as of June 30, 2016,
+and $437 million as of December 31, 2015, to which title was held by customers and suppliers
+and for which no assets or liabilities were recorded on the balance sheet. The reduction reflects a
+28% decline in quantities and a 23% decline in uranium spot price indicators. While in some
+cases Centrus sells both the SWU and uranium components of LEU to customers, utility
+customers typically provide uranium to Centrus as part of their enrichment contracts. Title to
+uranium provided by customers generally remains with the customer until delivery of LEU at
+which time title to LEU is transferred to the customer, and title to uranium is transferred to
+Centrus.
+6. PROPERTY, PLANT AND EQUIPMENT
+A summary of changes in property, plant and equipment follows (in millions):
+December 31,
+Additions /
+ 
+(Depreciation)
+2015
+$ 1.2
+ $
+ 2.2
+0.9
+ 0.1
+1.6
+0.3
+ 0.6
+—
+Land
+Leasehold improvements
+Machinery and equipment
+Other
+Property, plant and equipment,
+gross
+Accumulated depreciation
+Property, plant and equipment, net $ 3.5
+(0.5
+4.0
+2.9
+)  (0.2
+$
+2.7
+Retirements
+June 30,
+2016
+ $ 1.2
+)  2.9
+ 1.7
+ 0.9
+)  6.7
+)
+(0.5
+ $ 6.2
+$ —
+ (0.2
+ —
+ —
+(0.2
+0.2
+ $ —
+)
+Additions to property, plant and equipment in the six months ended June 30, 2016, include
+leasehold improvements of $1.7 million that were funded by the owner of the Company’s
+corporate headquarters. Corresponding deferred rent credits are included in long-term liabilities
+and are being amortized as a reduction to rent expense over the lease term.
+12
+7. INTANGIBLE ASSETS
+Intangible assets originated from the Company’s reorganization and application of fresh start
+accounting as of September 30, 2014. The intangible asset related to the sales order book is
+amortized as the order book valued at emergence is reduced, principally as a result of deliveries
+to customers. The intangible asset related to customer relationships is amortized using the
+straight-line method over the estimated average useful life of 15 years. Amortization expense is
+presented below gross profit on the condensed consolidated statement of operations.
+December 31, 2015
+(in millions)
+Sales order
+book
+Customer
+relationships
+Total
+8. DEBT
+June 30, 2016
+ 
+Gross
+Carrying
+Amount
+Accumulated
+ 
+Amortization
+Gross
+Net
+ 
+ 
+Carrying
+Amount
+Amount
+Accumulated
+ 
+Amortization
+Net
+ 
+Amount
+$ 54.6
+$ 15.6
+$ 39.0  $ 54.6
+$ 12.0
+$42.6
+68.9
+8.0
+60.9
+68.9
+5.7
+$ 123.5
+$ 23.6
+$ 99.9  $ 123.5
+$ 17.7
+63.2
+$105.8
+A summary of long-term debt follows (in millions):
+8% paid-in-kind toggle notes
+Less unamortized deferred financing costs0.6
+Long-term debt
+Six Months Ended
+ 
+December 31,
+June 30, 2016
+2015
+ PIK Interest Repurchases 
+ $ 6.8
+ —
+ $ 6.8
+$ (26.1
+ (0.1
+ $ (26.0
+$ 247.6
+$ 247.0
+June 30,
+2016
+)  $228.3
+)  0.5
+)  $227.8
+In June 2016, Centrus repurchased some of the Company’s 8.0% paid-in-kind (“PIK”) toggle
+notes (the “PIK Toggle Notes”) pursuant to a pre-arranged trading plan. The PIK Toggle Notes
+repurchased had an aggregate principal balance of $26.1 million and accrued interest payable
+balance of $0.5 million. The Company paid $9.8 million in cash, of which $1.8 million is included
+in accounts payable and accrued liabilities as of June 30, 2016, and was paid in July 2016. The
+gain on the early extinguishment of the PIK Toggle Notes was $16.7 million, net of commissions
+and unamortized deferred financing costs totaling $0.1 million.
+The pre-arranged trading plan was adopted in accordance with guidelines specified under Rule
+10b5-1 of the Securities Exchange Act of 1934 (the “10b5-1 Plan”). The 10b5-1 Plan provided
+that an independent broker selected by the Company repurchase PIK Toggle Notes on the open
+market within specified guidelines on the Company’s behalf. All repurchases were subject to
+SEC regulations as well as such other terms and conditions as specified in the 10b5-1 Plan. On
+July 11, 2016, the Company terminated the 10b5-1 Plan and subsequently cancelled the PIK
+Toggle Notes that were repurchased.
+The PIK Toggle Notes pay interest at a rate of 8.0% per annum. Interest is payable semi-annually
+in arrears based on a 360-day year consisting of twelve 30-day months. The principal amount is
+increased by any payment of interest in the form of PIK payments. The Company has the option
+to pay up to 5.5% per annum of interest due on the PIK Toggle Notes in the form of PIK
+payments. For the semi-annual interest periods ended March 31, 2016, and ending September
+30, 2016, the Company has elected to pay interest in the form of PIK payments at 5.5% per
+annum. As such, interest for the semi-annual period ended March 31, 2016, was paid as $3.1
+million in cash and $6.8 million in PIK payments. Total interest payable at June 30, 2016, is $4.5
+million, of which the expected cash portion of $1.4 million is included in accounts payable and
+accrued liabilities and the expected PIK portion of $3.1 million is included in other long-term
+liabilities.
+Financing costs for the issuance of the PIK Toggle Notes were deferred and are being amortized
+on a straight-line basis, which approximates the effective interest method, over the life of the PIK
+Toggle Notes.
+13
+The PIK Toggle Notes will mature on September 30, 2019. However, the maturity date can be
+extended to September 30, 2024 upon the satisfaction of certain funding conditions described in
+the Indenture relating to the funding, under binding agreements, of (i) the American Centrifuge
+project or (ii) the implementation and deployment of a National Security Train Program utilizing
+American Centrifuge technology.
+The PIK Toggle Notes rank equally in right of payment with all existing and future
+unsubordinated indebtedness of the Company (other than the Issuer Senior Debt as defined
+below) and are senior in right of payment to all existing and future subordinated indebtedness of
+the Company. The PIK Toggle Notes are subordinated in right of payment to certain
+indebtedness and obligations of the Company described in the Indenture (the “Issuer Senior
+Debt”), including (i) any indebtedness of the Company under a future credit facility, (ii) obligations
+of, and claims against, the Company under any equity investment (or any commitment to make
+an equity investment) with respect to the financing of the American Centrifuge project, (iii)
+obligations of, and claims against, the Company under any arrangement with DOE, export credit
+agencies or any other lenders or insurers with respect to the financing or government support of
+the American Centrifuge project and (iv) indebtedness of the Company to Enrichment Corp.
+under the Centrus Intercompany Note.
+The PIK Toggle Notes are guaranteed and secured on a subordinated, conditional, and limited
+basis by Enrichment Corp. Enrichment Corp will be released from its guarantee without the
+consent of the holders of the PIK Toggle Notes upon the occurrence of certain termination events
+(other than with respect to an unconditional interest claim). The Enrichment Corp. guarantee
+ranks equally in right of payment with all existing and future unsubordinated indebtedness of
+Enrichment Corp. (other than the Designated Senior Claims as defined below) and is senior in
+right of payment to all existing and future subordinated indebtedness of Enrichment Corp. The
+Enrichment Corp. guarantee is subordinated in right of payment to certain obligations of, and
+claims against, Enrichment Corp. described in the Indenture (collectively, the “Designated Senior
+Claims”), including obligations and claims:
+•under a future credit facility;
+held by or for the benefit of the Pension Benefit Guaranty Corporation (“PBGC”) pursuant to any
+settlement of any actual or alleged Employee Retirement Income Security Act (“ERISA”) Section
+4062(e) event;
+held by any party with respect to any equity investment (or any commitment to make an equity
+investment) with respect to the financing of the American Centrifuge project;
+held by DOE, export credit agencies or any other lenders or insurers with respect to the
+financing or government support of the American Centrifuge project; and
+•held by the U.S. government.
+•
+•
+•
+14
+9. FAIR VALUE MEASUREMENTS
+Pursuant to the accounting guidance for fair value measurements, fair value is defined as the
+price that would be received from selling an asset or paid to transfer a liability in an orderly
+transaction between market participants at the measurement date. When determining the fair
+value measurements for assets and liabilities required or permitted to be recorded at fair value,
+consideration is given to the principal or most advantageous market and assumptions that market
+participants would use when pricing the asset or liability. The accounting guidance establishes a
+fair value hierarchy based on the level of independent, objective evidence surrounding the inputs
+used to measure fair value:
+ 
+•Level 1 – quoted prices in active markets for identical assets or liabilities.
+Level 2 – inputs other than Level 1 that are observable, either directly or indirectly, such as
+quoted prices in active markets for similar assets or liabilities, quoted prices for identical or
+similar assets or liabilities in markets that are not active, or model-derived valuations in which
+significant inputs are observable or can be derived principally from, or corroborated by,
+observable market data.
+•Level 3 – unobservable inputs in which little or no market data exists.
+•
+Financial Instruments Recorded at Fair Value (in Millions)
+June 30, 2016
+Level
+Level
+ 
+1
+2
+ 
+  
+$174.5 $ —  $ —  $174.5 $234.0 $ —  $ —  $234.0
+December 31, 2015
+Level
+Level
+ 
+ 
+1
+3
+Level
+ 
+3
+Level
+ 
+2
+Total
+Total
+1.4
+1.2
+—
+—
+1.4
+1.2
+—
+—
+1.5
+1.4
+—
+—
+1.5
+1.4
+Assets:
+Cash and cash equivalents
+Deferred compensation asset (a) —
+ 
+Liabilities:
+Deferred compensation obligation
+(a)
+—
+(a)
+The deferred compensation obligation represents the balance of deferred compensation plus
+net investment earnings. The deferred compensation plan is informally funded through a rabbi
+trust using variable universal life insurance. The cash surrender value of the life insurance
+policies is designed to track the deemed investments of the plan participants. Investment
+crediting options consist of institutional and retail investment funds. The deemed investments
+are classified within Level 2 of the valuation hierarchy because (i) of the indirect method of
+investing and (ii) unit prices of institutional funds are not quoted in active markets.
+There have been no transfers between Levels 1, 2 or 3 during the periods presented.
+Other Financial Instruments
+As of June 30, 2016, and December 31, 2015, the balance sheet carrying amounts for accounts
+receivable, accounts payable and accrued liabilities (excluding the deferred compensation
+obligation described above), and payables under SWU purchase agreements approximate fair
+value because of the short-term nature of the instruments.
+The principal balance and estimated fair value of the PIK Toggle Notes follow (in millions):
+ 
+ 
+Principal balance $ 228.3
+June 30, 2016 December 31, 2015
+(in millions)
+$ 247.6
+Estimated fair value90.5
+36.9
+The estimated fair values of the PIK Toggle Notes is based on the most recent trading prices as
+of the balance sheet date (Level 1).
+15
+10. PENSION AND POSTRETIREMENT HEALTH AND LIFE BENEFITS
+The components of net periodic benefit cost (credit) for the pension plans were as follows (in
+millions):
+Service costs
+Interest costs
+Expected return on plan assets (gains)
+Actuarial loss (gain) from remeasurement0.8
+Net periodic benefit cost (credit)
+Three Months Ended 
+Six Months Ended 
+ 
+ June 30,
+ June 30,
+ 2016
+2016
+ $ 1.9
+$ 0.9
+8.9
+ 17.7
+)
+)  (21.0
+(10.5
+)  0.8
+)
+)  $ (0.6 ) $ (7.7 )
+2015
+  $ 1.0
+  9.3
+)   (12.2
+  (3.9
+  $ (5.8
+2015
+ $ 2.0
+ 18.6
+) (24.4
+ (3.9
+$ 0.1
+In the second quarter of 2016, the level of lump-sum payments under the Company’s non-
+qualified defined benefit pension plans resulted in the remeasurement of pension obligations
+under settlement accounting rules. The remeasurement resulted in a loss of $0.8 million included
+in selling, general and administrative expenses in the second quarter of 2016. The loss includes
+the effect of a decrease in the discount rate used in the measurement of pension obligations from
+approximately 4.5% as of December 31, 2015, to approximately 3.7% as of June 30, 2016.
+In the second quarter of 2015, the level of lump-sum payments under the Company’s non-
+qualified defined benefit pension plans and the Employees’ Retirement Plan of Centrus Energy
+Corp. resulted in a remeasurement gain of $3.9 million included in selling, general and
+administrative expenses in the second quarter of 2015. The gain included the effect of an
+increase in the discount rate from approximately 4.1% as of December 31, 2014, to
+approximately 4.5% as of June 30, 2015.
+The components of net periodic benefit cost for the postretirement health and life benefit plans
+were as follows (in millions):
+Three Months Ended 
+Six Months Ended 
+ 
+ June 30,
+ June 30,
+ 
+ 2016
+2016
+  2015
+ $ —   $ 0.1
+Service costs
+$ —
+Interest costs
+1.9
+ 4.0
+)  (0.1
+Expected return on plan assets (gains) —
+ (0.1
+Amortization of prior service (credits), net—
+Net periodic benefit cost
+ $ 3.8
+2015
+  $ —
+  2.2
+  (0.3
+  —
+  $ 1.9
+4.4
+)   (0.5
+)   (0.1
+  $ 3.9
+$ 1.9
+)
+)
+16
+11. NET INCOME (LOSS) PER SHARE
+Basic net income (loss) per share is calculated by dividing net income (loss) by the weighted
+average number of shares of common stock outstanding during the period, excluding any
+unvested restricted stock. In calculating diluted net income per share, the numerator is increased
+by interest and dividends on potentially dilutive securities, net of tax, and the denominator is
+increased by the weighted average number of shares resulting from potentially dilutive securities,
+assuming full conversion. No dilutive effect is recognized in a period in which a net loss has
+occurred.
+Six Months Ended 
+ 
+ June 30,
+ 2016
+2015
+Three Months Ended
+June 30,
+2016
+(in millions, except per share amounts)
+ 
+ 
+ 
+Numerator for basic and diluted calculation:
+$ (2.9
+Net loss
+ 
+ 
+ 
+Denominator:
+9.1
+Weighted average common shares
+9.1
+Denominator for basic calculation
+ 
+ 
+Weighted average effect of dilutive securities: 
+Stock compensation awards (a)
+Denominator for diluted calculation
+ 
+Net loss per share - basic and diluted
+2015
+  
+  
+) $ (15.1 )  $ (17.5 ) $ (30.5 )
+  
+  
+ 9.0
+ 9.0
+  
+  
+ —
+ 9.0
+—
+9.1
+ 
+$ (0.32 ) $ (1.68 )  $ (1.92 ) $ (3.39 )
+9.0
+ 9.0
+  
+  
+ —
+ 9.0
+9.1
+ 9.1
+  
+  
+ —
+ 9.1
+(a)
+Compensation awards under the 2014 Equity Incentive Plan resulted in common stock
+equivalents of less than 0.1 million shares of common stock and are excluded from the diluted
+calculation as a result of net losses in the six months ended June 30, 2016 and the six month
+ended June 30, 2015.
+Options to purchase shares of common stock having an exercise price greater than the average
+share market price are excluded from the calculation of diluted net income (loss) per share:
+Options excluded from diluted net income per share375,000  
+Exercise price of excluded options
+$ 3.90
+$ 5.62
+2015
+ 75,000  490,000    75,000
+to $ 5.62
+$ 2.68
+ $ 5.62
+to  $ 5.62
+Three Months Ended 
+Six Months Ended 
+ 
+ June 30,
+June 30,
+2016
+ 2016
+2015
+17
+12. COMMITMENTS AND CONTINGENCIES
+Potential ERISA Section 4062(e) Liability
+The Company had been engaged in discussions with the PBGC regarding the status of the
+qualified pension plans, including potential liability under ERISA Section 4062(e) related to
+employee reductions resulting from ceasing enrichment operations at the Portsmouth and
+Paducah GDP facilities. In the event the PBGC were to determine there are funding obligations
+under section 4062(e), the Company believes that any such liability would be fully satisfied under
+the provisions of the Consolidated and Further Continuing Appropriations Act, 2015 (the
+“CFCAA”), which made major changes to ERISA section 4062(e). The CFCAA changes the
+criteria for triggering liability under section 4062(e); provides certain exemptions from the
+applicability of section 4062(e) to certain events; permits companies to satisfy the liability by
+making payments into the pension over seven years, but ends those pension obligations once
+the pension reaches a 90% funding level as calculated under the method provided in the
+CFCAA; subject to an exception not applicable here, prohibits the PBGC from taking any
+enforcement, administrative or other action under section 4062(e) that is inconsistent with the
+amendments made by the CFCAA based on events that occurred before the date of enactment
+(December 16, 2014); and permits companies to elect to satisfy any liability under section
+4062(e) as provided in the CFCAA for an event that had occurred prior to date of enactment as if
+such cessation had occurred on such date of enactment.
+The PBGC, however, has other authorities under ERISA that it may otherwise consider in
+connection with the Company’s qualified defined benefit pension plans. These authorities
+include, but are not limited to, initiating involuntary termination of underfunded plans and seeking
+liens or additional funding. The Company would seek to defend against the assertion by the
+PBGC of any such authorities based on the facts and circumstances at the time. The involuntary
+termination by the PBGC of any of the qualified pension plans of Centrus or Enrichment Corp.
+would result in the termination of the limited, conditional guaranty by Enrichment Corp. of the PIK
+Toggle Notes (other than with respect to certain interest obligations).
+The PBGC has indicated it would like the Company to make contributions to the pension in
+advance of statutory funding requirements as amended by the Highway and Transportation
+Funding Act of 2014. The Company believes it is in the best interest of all stakeholders, including
+the PBGC, the covered plan participants and the Company, to continue funding the qualified
+pension plans in the ordinary course and expects to do so. There is no assurance that the
+Company and the PBGC will reach agreement or that the PBGC will agree with the Company’s
+approach.
+ 
+NYSE MKT Listing Standards Notice
+On November 17, 2015, Centrus Energy Corp. received notice from the NYSE MKT LLC (the
+“NYSE MKT”) indicating that the Company is not in compliance with Sections 1003(a)(i) and (ii)
+of the NYSE MKT's Company Guide since the Company reported a stockholders’ deficit as of
+September 30, 2015, and net losses in its fiscal years ended December 31, 2011, 2012 and
+2013. The Company submitted a plan to regain compliance with the NYSE MKT’s continued
+listing standards and the NYSE MKT notified the Company in January 2016 that it accepted the
+plan. With the NYSE MKT’s acceptance of the plan, the Company has until May 17, 2017, to
+regain compliance. If the Company is not in compliance with the continued listing standards by
+May 17, 2017, or if the Company does not make progress consistent with the plan, the NYSE
+MKT may initiate delisting procedures as appropriate. In the meantime, the Company’s common
+stock will continue to be traded on the NYSE MKT, subject to ongoing monitoring by the NYSE
+MKT and the Company’s compliance with all other applicable NYSE MKT requirements.
+18
+American Centrifuge
+Milestones under the 2002 DOE-USEC Agreement
+USEC and DOE signed an agreement dated June 17, 2002, as amended (the “2002 DOE-USEC
+Agreement”), pursuant to which the parties made long-term commitments directed at resolving
+issues related to the stability and security of the domestic uranium enrichment industry. DOE
+consented to the assumption by Centrus of the 2002 DOE-USEC Agreement and other
+agreements between the Company and DOE subject to an express reservation of all rights,
+remedies and defenses by DOE and Centrus under those agreements as part of Centrus'
+Chapter 11 bankruptcy process. The 2002 DOE-USEC Agreement requires Centrus to develop,
+demonstrate and deploy advanced enrichment technology in accordance with milestones and
+provides for remedies in the event of a failure to meet a milestone under certain circumstances.
+DOE has specific remedies under the 2002 DOE-USEC Agreement if Centrus fails to meet a
+milestone that would adversely impact its ability to begin commercial operations of the American
+Centrifuge Plant on schedule, and such delay was within Centrus’ control or was due to its fault
+or negligence or if Centrus abandons or constructively abandons the commercial deployment of
+an advanced enrichment technology. These remedies include terminating the 2002 DOE-USEC
+Agreement, revoking Centrus’ access to DOE’s centrifuge technology that is required for the
+success of the American Centrifuge project, requiring Centrus to transfer certain rights in the
+American Centrifuge technology and facilities to DOE, and requiring Centrus to reimburse DOE
+for certain costs associated with the American Centrifuge project.
+The 2002 DOE-USEC Agreement provides that if a delaying event beyond the control and
+without the fault or negligence of Centrus occurs that could affect Centrus’ ability to meet an
+American Centrifuge Plant milestone, DOE and Centrus will jointly meet to discuss in good faith
+possible adjustments to the milestones as appropriate to accommodate the delaying event. The
+Company notified DOE that it had not met the June 2014 milestone within the time period
+currently provided due to events beyond its control and without the fault or negligence of the
+Company. The assumption of the 2002 DOE-USEC Agreement provided for under the Plan of
+Reorganization did not affect the ability of either party to assert all rights, remedies and defenses
+under the agreement and all such rights, remedies and defenses are specifically preserved and
+all time limits tolled expressly including all rights, remedies and defenses and time limits relating
+to any missed milestones. DOE and Centrus have agreed that all rights, remedies and defenses
+of the parties with respect to any missed milestones since March 5, 2014, including the June
+2014 and November 2014 milestones, and all other matters under the 2002 DOE-USEC
+Agreement continued to be preserved, and that the time limits for each party to respond to any
+missed milestones continue to be tolled.
+Decontamination and Decommissioning
+Centrus leases facilities in Piketon, Ohio, from DOE for the American Centrifuge project. Centrus
+has obligations associated with the D&D of the Piketon facility in accordance with the
+requirements of the NRC and DOE. At the conclusion of the lease, Centrus is obligated to return
+these leased facilities to DOE in a condition that meets NRC requirements and in the same
+condition as the facilities were in when they were leased to Centrus (other than due to normal
+wear and tear). Centrus must remove all Company-owned capital improvements at the Piketon
+facility, unless otherwise consented to by DOE, by the conclusion of the lease term.
+Effective October 1, 2015, the U.S. government discontinued funding of the American Centrifuge
+demonstration cascade at Piketon. Centrus began voluntary reductions in force in 2015 and
+began the D&D process for the Piketon facility in 2016. Costs related to this process totaled $3.7
+million in the second quarter of 2016, which were charged to the accrued liability
+Decontamination and Decommissioning Obligations. The accrued liability balance is $25.7
+million as of June 30, 2016. The Company is experiencing delays in implementing the D&D
+process and is working to finalize contractual and regulatory arrangements for the disposition of
+materials. The charge to advanced technology costs of $4.7 million in the second quarter of 2016
+reflects delays as the Company continues to incur costs as the facility caretaker. The D&D work
+is now expected to extend through 2017 and additional costs
+19
+associated with delays in fully implementing the D&D process may be incurred. The Company is
+evaluating the impact the delays will have on future costs.
+Centrus is required to provide financial assurance to the NRC and DOE for D&D costs under a
+regulatorily-prescribed methodology that includes potential contingent costs and reserves. As of
+June 30, 2016, and December 31, 2015, Centrus has provided financial assurance to the NRC
+and DOE in the form of surety bonds totaling $29.4 million, which are fully cash collateralized by
+Centrus. Centrus expects to receive cash when surety bonds are reduced and/or cancelled as
+the Company fulfills its D&D and lease obligations. The Company has not made a decision on
+lease turnover and is continuing to evaluate future uses for the site.
+13.  STOCKHOLDERS EQUITY
+Rights Agreement
+On April 6, 2016 (the “Effective Date”), the Company’s Board of Directors (the “Board”) adopted a
+Section 382 Rights Agreement (the “Rights Agreement”). The Board adopted the Rights
+Agreement in an effort to protect shareholder value by, among other things, attempting to protect
+against a possible limitation on the Company’s ability to use its net operating loss carryforwards
+and other tax benefits, which may be used to reduce potential future income tax obligations. As
+reported on the Company’s Annual Report on Form 10-K for the year ended December 31, 2015,
+as of December 31, 2015, the Company had federal net operating losses of $324.7 million that
+currently expire through 2035.
+In connection with the adoption of the Rights Agreement, the Board declared a dividend of one
+preferred-share-purchase-right for each share of the Company’s Class A common stock and
+Class B common stock outstanding as of the Effective Date. The rights initially trade together with
+the common stock and are not exercisable. In the absence of further action by the Board, the
+rights would generally become exercisable and allow a holder to acquire shares of a new series
+of the Company’s preferred stock if any person or group acquires 4.99% or more of the
+outstanding shares of the Company’s common stock, or if a person or group that already owns
+4.99% or more of the Company’s Class A common stock acquires additional shares representing
+0.5% or more of the outstanding shares of the Company’s Class A common stock. The rights
+beneficially owned by the acquirer would become null and void, resulting in significant dilution in
+the ownership interest of such acquirer.
+The Board may exempt any acquisition of the Company’s common stock from the provisions of
+the Rights Agreement if it determines that doing so would not jeopardize or endanger the
+Company's use of its tax assets or is otherwise in the best interests of the Company. The Board
+also has the ability to amend or terminate the Rights Agreement prior to a triggering event.
+The Company expects to seek stockholder approval of the Rights Agreement at the 2017 annual
+meeting of stockholders. The rights issued under the Rights Agreement will expire if, among
+other things, the Rights Agreement is not approved by the Company's stockholders or on April 6,
+2019, if the Rights Agreement is so approved.
+20
+Stock-Based Compensation
+A summary of stock-based compensation costs follows (in millions):
+Total stock-based compensation costs:
+Restricted stock and restricted stock units
+Stock options, performance awards and other
+Expense included primarily in selling, general and
+administrative expense
+Three Months
+Ended 
+ June 30,
+2016
+ 
+ 
+$ —  $ —  $ 0.1  $ 0.1
+0.1
+Six Months
+ 
+Ended 
+ June 30,
+ 2016  2015
+2015
+0.1
+0.2
+0.1
+$ 0.1
+$ 0.1
+$ 0.3  $ 0.2
+Total recognized tax benefit
+$ —  $ —  $ —  $ —
+As of June 30, 2016, there was $0.9 million of unrecognized compensation cost, adjusted for
+estimated forfeitures, of which $0.8 million relates to stock options and less than $0.1 million
+relates to unvested restricted stock units. Unrecognized compensation cost is expected to be
+recognized over a weighted-average period of 2.2 years.
+Stock-based compensation cost is measured at the grant date, based on the fair value of the
+award using the Black-Scholes option pricing model, and is recognized over the vesting period.
+Stock options vest and become exercisable in equal annual installments over a three- or four-
+year period and expire 10 years from the date of grant.
+Assumptions used in the Black-Scholes option pricing model to value option grants follow.
+Risk-free interest rate
+Expected volatility
+Expected option life (years)
+Weighted-average grant date fair value$1.77
+Options granted
+15,000  300,000
+Six Months Ended 
+June 30,
+2016
+ 2015
+1.9%  1.9%
+75%  75%
+6
+6
+ $2.89
+Accumulated Other Comprehensive Income (Loss)
+The sole component of accumulated other comprehensive income (loss) (“AOCI”) relates to
+activity in the accounting for pension and postretirement health and life benefit plans.
+Amortization of prior service costs (credits), net, is reclassified from AOCI and included in the
+computation of net periodic benefit cost (credit) as detailed in Note 10 - Pension and Post-
+Retirement Health and Life Benefits.
+21
+14. SEGMENT INFORMATION
+Centrus has two reportable segments: the LEU segment with two components, SWU and
+uranium, and the contract services segment. The LEU segment includes sales of the SWU
+component of LEU, sales of both the SWU and uranium components of LEU, and sales of
+uranium. The contract services segment includes revenue and cost of sales for work that Centrus
+performs under a fixed-price agreement as a contractor to UT-Battelle. The contract services
+segment also includes limited services provided by Centrus to DOE and its contractors at the
+Piketon facility. Gross profit is Centrus’ measure for segment reporting. There were no
+intersegment sales in the periods presented. For additional details on each segment, refer to Item
+2, Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+2015
+Three Months Ended
+June 30,
+2016
+ 
+(in millions)
+ 
+  
+ 
+Revenue
+  
+ 
+LEU segment:
+$ 54.9
+ $ 42.2
+Separative work units
+ —
+—
+Uranium
+ 42.2
+ 
+54.9
+Contract services segment8.5
+ 21.1
+$ 63.4
+ $ 63.3
+Revenue
+ 
+  
+ 
+ 
+Segment Gross Profit
+  
+ $ 5.5
+LEU segment
+$ 5.6
+) (1.2
+Contract services segment(0.1
+Gross profit
+$ 5.5
+$ 4.3
+43.2
+ 189.0
+ 42.1
+$ 114.2  $ 145.8
+ 14.3
+ 128.5
+ 24.9
+ $ 153.4  $ 231.1
+  
+  
+ $ 13.7
+)  7.6
+ $ 21.3
+$ 12.7
+ (1.5
+ $ 11.2
+Six Months Ended 
+ June 30,
+ 2016
+2015
+)
+22
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion should be read in conjunction with, and is qualified in its entirety by
+reference to, the condensed consolidated financial statements and related notes appearing
+elsewhere in this report.
+Overview
+Centrus Energy Corp. (“Centrus” or the “Company”) is a trusted supplier of low-enriched uranium
+(“LEU”) for commercial nuclear power plants. References to “Centrus”, the “Company”, or “we”
+include Centrus Energy Corp. and its wholly owned subsidiaries as well as the predecessor to
+Centrus, unless the context otherwise indicates. LEU is a critical component in the production of
+nuclear fuel for reactors that produce electricity. We supply LEU to both domestic and
+international utilities for use in nuclear reactors worldwide. Centrus is a leader in the
+development of advanced uranium enrichment technology and is performing research and
+demonstration work to support U.S. energy and national security.
+As a long-term supplier of LEU to our customers, our goal is to provide value through the
+reliability and diversity of our supply sources. We provide LEU from multiple sources including
+our inventory, long- and mid-term supply contracts and spot purchases. Our long-term objective is
+to resume commercial enrichment production and we are exploring alternative approaches to that
+end.
+We have a contract with UT-Battelle, LLC (“UT-Battelle”), the operator of Oak Ridge National
+Laboratory (“ORNL”), to conduct research, development and demonstration of our advanced
+centrifuge technology for the U.S. government. We believe that this technology could play a
+critical role in meeting our national and energy security needs and achieving our nation’s non-
+proliferation objectives.
+Business Segments
+Centrus has two reportable segments: the LEU segment with two components, separative work
+units (“SWU”) and uranium, and the contract services segment.
+LEU Segment
+Revenue from Sales of SWU and Uranium
+The LEU segment is our primary business focus. Revenue from our LEU segment is derived
+primarily from:
+ 
+•sales of the SWU component of LEU,
+•sales of both the SWU and uranium components of LEU, and
+•sales of natural uranium.
+The majority of our customers are domestic and international utilities that operate nuclear power
+plants, with international sales constituting 41% of revenue from our LEU segment in 2015. Our
+agreements with electric utilities are primarily long-term, fixed-commitment contracts under which
+our customers are obligated to purchase a specified quantity of the SWU component of LEU (or
+the SWU and uranium components of LEU) from us. Our agreements for natural uranium sales
+are generally shorter-term, fixed-commitment contracts.
+Our revenues, operating results and cash flows can fluctuate significantly from quarter to quarter
+and year to year. Revenue is recognized at the time LEU or uranium is delivered under the terms
+of our contracts. Customer demand is affected by, among other things, electricity markets, reactor
+operations, maintenance and the timing of refueling outages. Utilities typically schedule the
+shutdown of their reactors for refueling to coincide with the low electricity demand periods of
+spring and fall. Thus, some reactors are scheduled for annual or two-year refuelings in the spring
+or fall, or for 18-month cycles alternating between both seasons. Customer payments for the
+SWU component of LEU historically average approximately $15 million to $20 million per order.
+As a result, a relatively
+23
+small change in the timing of customer orders for LEU due to a change in a customer’s refueling
+schedule may cause operating results to be substantially above or below expectations.
+Our financial performance over time can be significantly affected by changes in prices for SWU
+and uranium. Since 2011, the prices for SWU and uranium have significantly declined. Since our
+sales order book includes contracts awarded to us in previous years, the average SWU price
+billed to customers typically lags behind published price indicators by several years, which
+means that average prices under contract today exceed current market prices.
+The long-term SWU price indicator, as published by TradeTech, LLC in Nuclear Market Review,
+is an indication of base-year prices under new long-term enrichment contracts in our primary
+markets. Following are TradeTech’s long-term and spot SWU price indicators, the long-term
+price for uranium hexafluoride (“UF6”), as calculated by Centrus using indicators published in
+Nuclear Market Review, and TradeTech’s spot price indicator for UF6:
+December 31, 2015
+December 31, 2014
+June 30, 
+2016
+SWU:
+Long-term price indicator ($/SWU) $ 69.00  $ 72.00
+Spot price indicator ($/SWU)
+UF6:
+Long-term price composite ($/KgU)117.01  128.97
+ 98.50
+Spot price indicator ($/KgU)
+61.00
+58.00
+75.50
+June 30, 
+2015
+  
+ $ 82.00  $ 90.00
+ 70.00
+  
+ 136.19  146.64
+ 101.50  100.50
+88.00
+Our contracts with customers and suppliers are denominated in U.S. dollars, and although
+revenue has not been directly affected by changes in the foreign exchange rate of the U.S. dollar,
+we may have a competitive price advantage or disadvantage obtaining new contracts in a
+competitive bidding process depending upon the weakness or strength of the U.S. dollar. Costs
+of our primary competitors are denominated in other currencies.
+Cost of Sales for SWU and Uranium
+Cost of sales for SWU and uranium is based on the amount of SWU and uranium sold and
+delivered during the period and unit inventory costs. Unit inventory costs are determined using
+the monthly moving average cost method. Changes in purchase costs have an effect on
+inventory costs and cost of sales over current and future periods.
+Contract Services Segment
+The contract services segment includes revenue and cost of sales for American Centrifuge work
+we perform as a contractor to UT-Battelle. The contract services segment also includes limited
+services provided by Centrus to DOE and its contractors at the Piketon facility.
+American Centrifuge
+The Company has a long record as a global leader in advanced technology, manufacturing and
+engineering. Our manufacturing, engineering, testing and demonstration facilities and our highly-
+trained workforce are deeply engaged in advancing the next generation of uranium enrichment
+technology. We are exploring a number of options for returning to domestic production in the
+future.
+In September 2015, Centrus completed a successful three-year demonstration of the existing
+American Centrifuge technology at its facility in Piketon, Ohio, with 120 machines linked together
+in a cascade to simulate industrial operating conditions. The demonstration effort was primarily
+funded by the U.S. government. Our current government contract with UT-Battelle provides for
+continued research, development and demonstration work at the Company’s facilities in Oak
+Ridge, Tennessee.
+24
+The contract services segment includes Revenue and Cost of Sales for American Centrifuge
+work Centrus performs as a contractor to UT-Battelle. The current contract is a firm, fixed-price
+contract that provides for payments for monthly reports of approximately $2.7 million per month,
+down from approximately $6.9 million per month through September 2015. Spending levels to
+perform the contract work are consistent with the fixed funding levels. Centrus records an
+unbilled receivable and revenue based on the progress towards the achievement of monthly
+deliverables. Monthly reports and invoices affirming the achievement of monthly deliverables are
+submitted shortly following each month. The achievement of monthly deliverables has resulted in
+revenue consistent with the funding levels.
+Although our prior contract expired September 30, 2015, Centrus continued to perform work at
+the expected reduced scope as the parties worked toward a successor agreement. The current
+contract signed in March 2016 provided for payment for reports related to work performed since
+October 1, 2015. Revenue in the six months ended June 30, 2016, includes $8.1 million for
+March reports on work performed in the three months ended December 31, 2015, and $16.2
+million for reports on work performed in the six months ended June 30, 2016. Expenses for
+contract work performed in the six months ended June 30, 2016, are included in Cost of Sales.
+Expenses for work performed in the three months ended December 31, 2015, before there was a
+contract were included in Advanced Technology Costs in 2015.
+American Centrifuge expenses that are outside of our contracts with UT-Battelle, including
+demobilization and certain site maintenance costs, are included in Advanced Technology Costs.
+Centrus has begun to incur expenditures in the second quarter of 2016 associated with the
+decontamination and decommissioning (“D&D”) of the Piketon facility in accordance with the
+requirements of the U.S. Nuclear Regulatory Commission (“NRC”) and the U.S. Department of
+Energy (“DOE”). Estimated costs for D&D have been accrued and the balance of the liability was
+reduced from $29.4 million as of March 31, 2016, to $25.7 million as of June 30, 2016. For
+additional details on the D&D of the Piketon facility and related workforce reductions, refer below
+to Liquidity and Capital Resources.
+Site Services Work and Related Receivables
+We formerly performed work under contracts with DOE and its contractors to maintain and
+prepare the former Portsmouth GDP for D&D. In September 2011, our contracts for maintaining
+the Portsmouth facilities and performing services for DOE at Portsmouth expired and we
+completed the transition of facilities to DOE’s D&D contractor for the Portsmouth site.
+Additionally, we provided limited services to DOE and its contractors at the Paducah GDP until
+the leased portions of the Paducah GDP were returned to DOE on October 21, 2014.
+There is the potential for additional revenue to be recognized, based on the outcome of DOE
+reviews and audits, as the result of the release of previously established receivable related
+reserves. However, uncertainty exists because contract billing periods since June 2002 have not
+been finalized with DOE, and we have not yet recognized this additional revenue. Certain
+receivables from DOE are included in other long-term assets based on the extended timeframe
+expected to resolve claims for payment. Additional details are provided in Note 4 - Receivables
+to the condensed consolidated financial statements.
+25
+2016 Outlook
+We continue to anticipate SWU and uranium revenue in 2016 in a range of $250 million to $275
+million and total revenue in a range of $275 million to $300 million. We anticipate the SWU sales
+volume for 2016 to be comparable to 2015. We expect to end 2016 with a cash and cash
+equivalents balance in a range of $200 million to $250 million.
+Our financial guidance is subject to a number of assumptions and uncertainties that could affect
+results either positively or negatively. Variations from our expectations could cause differences
+between our guidance and our ultimate results. Factors that could affect our results include the
+following:
+•Additional short-term purchases or sales of SWU and uranium;
+•Timing of customer orders, related deliveries, and purchases of LEU or components;
+The outcome of legal proceedings and other contingencies, including discussions with the
+Pension Benefit Guaranty Corporation (“PBGC”);
+Execution and funding of a new agreement with UT-Battelle, the operator of ORNL, for the
+continuation of American Centrifuge development and testing activities in Oak Ridge following
+the expiration of our agreement on September 30, 2016; and
+Additional costs for American Centrifuge demobilization; decontamination and
+decommissioning of the Company’s facility in Ohio; or related to the overall transition of Centrus.
+•
+•
+•
+Results of Operations
+Segment Information
+We have two reportable segments measured and presented through the gross profit line of our
+income statement: the LEU segment with two components, SWU and uranium, and the contract
+services segment. There were no intersegment sales in the periods presented.
+The following tables presents elements of the accompanying condensed consolidated
+statements of operations that are categorized by segment (dollar amounts in millions):
+LEU segment
+Revenue:
+SWU revenue
+Uranium revenue
+Three Months Ended 
+  
+ June 30,
+2016
+ 
+ 
+$ 54.9
+—
+2015
+  
+  
+ $ 42.2
+ —
+Change %
+  
+  
+  
+  
+ $12.7  30  %
+ —  %
+ —
+54.9
+Total
+49.3
+Cost of sales
+$ 5.6
+Gross profit
+ 
+ 
+Contract services segment 
+Revenue
+Cost of sales
+Gross profit (loss)
+ 
+Total
+Revenue
+Cost of sales
+Gross profit
+$ 8.5
+8.6
+$ (0.1
+ 
+ 
+$ 63.4
+57.9
+$ 5.5
+42.2
+ 36.7
+ $ 5.5
+  
+  
+ $ 21.1
+ 22.3
+)  $ (1.2
+  
+  
+ $ 63.3
+ 59.0
+ $ 4.3
+12.7
+ 30  %
+ (12.6 ) (34)%
+ $0.1
+ 2  %
+  
+  
+  
+  
+ $(12.6 ) (60)%
+ 13.7
+ 61  %
+ 92  %
+)  $1.1
+  
+  
+  
+  
+ —  %
+ $0.1
+ 2  %
+ 1.1
+ $1.2
+ 28  %
+26
+Change %
+Six Months Ended 
+  
+ June 30,
+2016
+ 
+ 
+LEU segment
+ 
+Revenue:
+$ 114.2  $ 145.8  $(31.6 ) (22 )%
+SWU revenue
+ (28.9 ) (67 )%
+14.3
+Uranium revenue
+128.5
+ (60.5 ) (32 )%
+Total
+ 35  %
+ 61.5
+114.8
+Cost of sales
+ 8
+ $1.0
+$ 13.7
+ %
+Gross profit
+  
+  
+ 
+ 
+Contract services segment 
+  
+  
+ $(17.2 ) (41 )%
+Revenue
+ 60  %
+ 26.3
+Cost of sales
+Gross profit (loss)
+) $9.1
+ 607 %
+  
+  
+ 
+Total
+  
+  
+Revenue
+Cost of sales
+Gross profit
+$ 24.9
+17.3
+$ 7.6
+ 
+ 
+$ 153.4  $ 231.1  $(77.7 ) (34 )%
+ 87.8
+132.1
+ 40  %
+$ 21.3
+ $10.1  90  %
+2015
+43.2
+ 189.0
+ 176.3
+ $ 12.7
+  
+  
+ $ 42.1
+ 43.6
+ $ (1.5
+219.9
+ $ 11.2
+Revenue
+Revenue from the LEU segment increased $12.7 million (or 30%) in the three months ended
+June 30, 2016, compared to the corresponding period in 2015. The volume of SWU sales
+increased 63%, reflecting the variability in timing of utility customer orders. The average price
+billed to customers for sales of SWU declined 19%, reflecting the particular contracts under
+which SWU were sold during the periods.
+Revenue from the LEU segment declined $60.5 million (or 32%) in the six months ended June
+30, 2016, compared to the corresponding period in 2015. The volume of SWU sales declined
+13%, reflecting the variability in timing of utility customer orders. For the full year, the SWU sales
+volume for 2016 is expected to be comparable to 2015. The average price billed to customers for
+sales of SWU declined 9%, reflecting the particular contracts under which SWU were sold during
+the periods and the trend of lower SWU market prices in recent years. The volume of uranium
+sales declined 79% in the six-month period, reflecting the expected decline in uranium deliveries
+in 2016 compared to 2015. The average price billed to customers for sales of uranium increased
+54% reflecting the particular contracts under which uranium was sold during the periods.
+Revenue from the contract services segment declined $12.6 million (or 60%) in the three months
+and $17.2 million (or 41%) in the six months ended June 30, 2016, compared to the
+corresponding periods in 2015. The reduced scope of contract work for American Centrifuge
+technology services resulted in declines of $12.7 million in the three-month period and $25.5
+million in the six-month period. In the six-month period, the decline was partially offset by $8.1
+million in revenue for March reports on work performed in the fourth quarter of 2015. As a result of
+the contract signed with UT-Battelle in March 2016, revenue in the six months ended June 30,
+2016, includes $16.2 million for reports on work performed in the six months ended June 30,
+2016, as well as $8.1 million for work in the fourth quarter of 2015.
+27
+Cost of Sales
+Cost of sales for the LEU segment increased $12.6 million (or 34%) in the three months ended
+June 30, 2016, compared to the corresponding period in 2015, due to the increase in SWU sales
+volumes partially offset by an 18% decline in the average cost of sales per SWU.
+Cost of sales for the LEU segment declined $61.5 million (or 35%) in the six months ended June
+30, 2016, compared to the corresponding period in 2015, due to lower SWU and uranium sales
+volumes and a 13% decline in the average cost of sales per SWU. The declines in cost of sales
+per SWU reflect declines in our purchase costs per SWU in recent periods, partially offset by an
+increase in costs related to benefits for former GDP employees and other residual costs related to
+the Paducah GDP. Refer below to Impact of Legacy Costs.
+Our inventories are valued at the lower of cost or net realizable value. Valuation adjustments of
+$0.7 million were charged to cost of sales in the six months ended June 30, 2016, including $0.2
+million in the second quarter, for our uranium inventory to reflect declines in uranium market price
+indicators.
+Cost of sales for the contract services segment declined $13.7 million (or 61%) in the three
+months and $26.3 million (or 60%) in the six months ended June 30, 2016, compared to the
+corresponding periods in 2015, consistent with the decline in contract services revenue for work
+performed in the first quarter of 2016. Revenue in the six months ended June 30, 2016, includes
+a billing for March reports on work performed in the fourth quarter of 2015. Related expenses
+were included in Advanced Technology Costs in 2015 as they were incurred before a contract
+was in place.
+ 
+Gross Profit
+Our gross profit increased $1.2 million (or 28%) in the three months and $10.1 million (or 90%) in
+the six months ended June 30, 2016, compared to the corresponding periods in 2015. Gross
+profit for the six months ended June 30, 2016, includes $8.1 million in revenue under the March
+2016 UT-Battelle contract for reports on work performed and expensed in the fourth quarter of
+2015 before there was a contract.
+Gross profit for the LEU segment in the three months ended June 30, 2016, increased $0.1
+million (or 2%) compared to the corresponding period in 2015. Declines in our SWU purchase
+costs per unit in recent periods and the increase in SWU sales volume were largely offset by the
+lower average SWU price billed to customers. Our gross profit margin for the LEU segment was
+10.2% in the three months ended June 30, 2016, compared to 13.0% in the corresponding period
+in 2015.
+Gross profit for the LEU segment increased $1.0 million (or 8%) in the six months ended June 30,
+2016, compared to the corresponding period in 2015, due to declines in our SWU purchase costs
+per unit in recent periods and the increase in the average price billed for sales of uranium, largely
+offset by lower average SWU prices billed to customers. Our gross profit margin for the LEU
+segment was 10.7% in the six months ended June 30, 2016, compared to 6.7% in the
+corresponding period in 2015.
+28
+Impact of Legacy Costs
+The Company ceased uranium enrichment at the Portsmouth GDP in 2001 and the Paducah
+GDP in 2013. Included in cost of sales are costs related to benefits for former GDP employees
+and other residual costs related to the Paducah GDP. These legacy costs are distinct from the
+Company’s current costs of acquiring SWU and uranium for sale. The following table presents
+the impact of legacy costs on gross profit for the LEU segment (dollar amounts in millions):
+Six Months Ended 
+ June 30,
+2016
+ 
+$ 13.7
+10.7
+ 
+ 
+$ 2.1
+LEU segment (GAAP)
+Gross profit
+Gross margin
+ 
+Legacy costs included in cost of sales:
+Pension and postretirement health and life benefits (a)
+2015
+  
+ $ 12.7
+%  6.7
+$ (0.1
+%
+)
+Disability obligations and other (b)
+Legacy costs
+ 
+LEU segment excluding legacy costs (Non-GAAP)
+Gross profit excluding legacy costs
+Gross margin excluding legacy costs
+ 
+(a) Costs for pension and postretirement health and life benefits are affected by actuarial
+assumptions and other factors.
+(b) Costs for disability payment obligations increased $2.2 million in the six months ended June
+30, 2016, compared to the corresponding period in 2015, due to disability status changes and
+other factors related to the fixed population receiving benefits.
+3.4
+$ 5.5
+ 
+ 
+$ 19.2
+14.9
+0.3
+ $ 0.2
+  
+  
+ $ 12.9
+%  6.8
+%
+We believe the non-GAAP financial measures above, when considered together with the
+corresponding GAAP measures and the reconciliation above, can provide additional
+understanding of the Company’s financial performance and underlying profitability. Management
+uses the non-GAAP financial measures to provide investors with a more complete understanding
+of the Company’s historical results and trends.
+These non-GAAP financial measures are used in addition to and in conjunction with results
+presented in accordance with our GAAP results. The non-GAAP financial measures should be
+viewed in addition to, and not as a substitute for, or superior to, financial measures calculated in
+accordance with GAAP. The non-GAAP financial measures used by the Company may be
+calculated differently from, and therefore may not be comparable to, non-GAAP financial
+measures used by other companies.
+29
+Non-Segment Information
+The following tables presents elements of the accompanying condensed consolidated
+statements of operations that are not categorized by segment (dollar amounts in millions):
+Three Months Ended 
+  
+ June 30,
+ 
+2016
+Gross profit
+$ 5.5
+Advanced technology costs
+4.7
+Selling, general and administrative
+12.5
+Amortization of intangible assets
+2.7
+Special charges for workforce reductions and advisory costs0.6
+(0.4
+Other income
+Operating loss
+(14.6
+(16.7
+Gain on early extinguishment of debt
+2015
+ $ 4.3
+ 4.0
+ 6.3
+ 2.0
+ 2.9
+)  (0.7
+)  (10.2
+)  —
+Change %
+ $ 1.2
+ (0.7
+ (6.2
+ (0.7
+ 2.3
+)  (0.3
+)  (4.4
+ 16.7
+28  %
+) (18)%
+) (98)%
+) (35)%
+ 79  %
+) (43)%
+) (43)%
+ —  %
+Interest expense
+Interest (income)
+Loss before income taxes
+Provision (benefit) for income taxes
+Net loss
+4.9
+)  —
+)  (15.1
+ —
+5.1
+(0.1
+(2.9
+—
+$ (2.9 )  $ (15.1
+) (4 )%
+ (0.2
+ —  %
+ 0.1
+ 81  %
+)  12.2
+ —
+ —  %
+)  $ 12.2  81  %
+Six Months Ended 
+  
+ June 30,
+ Change %
+2016
+ 
+ $ 10.1  90  %
+$ 21.3
+Gross profit
+ (10.9 ) (188)%
+16.7
+Advanced technology costs
+ (5.3
+) (28 )%
+23.9
+Selling, general and administrative
+ 2
+ 0.1
+ %
+Amortization of intangible assets
+5.9
+ 83  %
+ 2.9
+Special charges for workforce reductions and advisory costs0.6
+) (0.8
+) (53 )%
+Other income
+(0.7
+) (18 )%
+) (3.9
+(25.1
+Operating loss
+ —  %
+ 16.7
+(16.7
+Gain on early extinguishment of debt
+ (0.3
+) (3
+)%
+Interest expense
+10.1
+ 100  %
+) 0.2
+(0.4
+Interest (income)
+ 41  %
+) 12.7
+(18.1
+Loss before income taxes
+) 0.3
+ 100  %
+Provision (benefit) for income taxes
+(0.6
+$ (17.5 ) $ (30.5 ) $ 13.0  43  %
+Net loss
+2015
+ $ 11.2
+ 5.8
+ 18.6
+ 6.0
+ 3.5
+) (1.5
+) (21.2
+) —
+ 9.8
+) (0.2
+) (30.8
+) (0.3
+Advanced Technology Costs
+Advanced technology costs consist of American Centrifuge expenses that are outside of our
+contracts with UT-Battelle, including certain site maintenance costs. Advanced technology costs
+in the six months ended June 30, 2016, include demobilization costs for the demonstration
+cascade in Piketon. In the second quarter of 2016, the Company commenced with the D&D of the
+Piketon facility in accordance with the requirements of the NRC and DOE. Costs related to this
+process totaled $3.7 million in the second quarter of 2016, which were charged to the
+30
+accrued liability Decontamination and Decommissioning Obligations. The Company has
+experienced delays in implementing the D&D process and is working to finalize contractual and
+regulatory arrangements for the disposition of materials. The charge to advanced technology
+costs of $4.7 million in the second quarter of 2016 reflects delays as the Company continues to
+incur costs as the facility caretaker.
+Selling, General and Administrative
+Selling, general and administrative (“SG&A”) expenses increased $6.2 million in the three
+months and $5.3 million in the six months ended June 30, 2016, compared to the corresponding
+periods in 2015, of which $4.7 million relates to the remeasurement of pension obligations. A
+remeasurement in the second quarter of 2016 resulted in a loss of $0.8 million and a
+remeasurement in the second quarter of 2015 resulted in a gain of $3.9 million. The loss and
+gain are mainly attributable to changes in market interest rates used to measure long-term
+pension obligations. Details are provided in Note 10 to the condensed consolidated financial
+statements.
+Excluding the effects of the pension obligation remeasurements, SG&A expenses increased $0.6
+million (or 3%) in the six months ended June 30, 2016, compared to the corresponding period in
+2015. Overhead costs allocated to SG&A increased $1.2 million in the six-month period, as less
+overhead costs are allocated to the reduced scope of work under our contract with UT-Battelle.
+Consulting costs increased $0.5 million in the six-month period for work related to business
+development, our debt repurchases and our qualified pension plans. Other SG&A expenses,
+including for office leases, supplies and other, declined $1.1 million in the six-month period
+compared to the prior year.
+Amortization of Intangible Assets
+Amortization expense for the intangible asset related to the sales order book is a function of SWU
+sales volume, which increased in the three-month period and declined in the six-month period
+ended June 30, 2016, compared to the corresponding periods in 2015. Amortization expense for
+the intangible asset related to customer relationships is amortized on a straight-line basis.
+Special Charges for Workforce Reductions and Advisory Costs
+In the second quarter of 2016, the Company commenced a project to align its corporate structure
+to the scale of its ongoing business operations and to update related information technology. The
+company incurred advisory costs related to the reengineering project of $0.5 million in the three
+months ended June 30, 2016.
+The cessation of enrichment at the Paducah GDP and evolving business needs have resulted in
+workforce reductions since July 2013. In the three and six months ended June 30, 2015, special
+charges consisted of termination benefits of $2.9 million and $3.8 million, respectively, less $0.3
+million in the six-month period for severance paid by the Company and invoiced to DOE for its
+share of employee severance.
+Other Income
+Other Income consists of net gains on sales of assets and property no longer needed for
+operations.
+Gain on Early Extinguishment of Debt
+In June 2016, we repurchased PIK Toggle Notes having an aggregate principal and accrued
+interest balance of $26.6 million for cash payments of $9.8 million. The gain on the early
+extinguishment of the notes was $16.7 million, net of commissions and unamortized deferred
+financing costs totaling $0.1 million.
+31
+Provision (Benefit) for Income Taxes
+There was no income tax provision for the three months and there was an income tax benefit of
+$0.6 million for the six months ended June 30, 2016. There was no income tax provision for the
+three months and there was an income tax benefit of $0.3 million for the six months ended June
+30, 2015. The income tax benefit in both six-month periods resulted from discrete items for
+reversals of previously accrued amounts associated with liabilities for unrecognized benefits.
+Because there is a full valuation allowance against deferred tax assets, pretax losses in
+continuing operations, and losses in Other Comprehensive Income, there was no income tax
+provision for the six months ended June 30, 2016, and 2015, although there were income tax
+benefits resulting from discrete items.
+Net Loss
+Our net loss was $2.9 million in the three months ended June 30, 2016, and $15.1 million in the
+three months ended June 30, 2015. The favorable variance of $12.2 million is the result of the
+gain on the early extinguishment of debt, the decline in special charges and the increase in gross
+profit, partially offset by the effects of remeasurements of pension plan obligations and other
+increases in SG&A expenses.
+Our net loss was $17.5 million in the six months ended June 30, 2016, and $30.5 million in the
+six months ended June 30, 2015. The favorable variance of $13.0 million is the result of the gain
+on the early extinguishment of debt, the increase in gross profit including the $8.1 million in
+billings for March reports on technology services work performed and expensed in the fourth
+quarter of 2015, and the decline in special charges, partially offset by higher advanced
+technology costs and the effects of remeasurements of pension plan obligations and other
+increases in SG&A expenses.
+Liquidity and Capital Resources
+We ended the second quarter of 2016 with a consolidated cash balance of $174.5 million. We
+anticipate having adequate liquidity to support our business operations for at least the next 12
+months. Our view of liquidity is dependent on our operations and the level of expenditures and
+government funding for the American Centrifuge program. Liquidity requirements for our existing
+operations are affected by the timing and amount of customer sales and our inventory purchases.
+Substantially all revenue-generating operations of the Company are conducted at the subsidiary
+level. Centrus’ principal source of funding for American Centrifuge activities is provided (i) under
+the contract with UT-Battelle, the operator of ORNL; and (ii) from Centrus’ wholly owned
+subsidiary United States Enrichment Corporation (“Enrichment Corp.”) to Centrus and its 100%
+indirectly owned subsidiary American Centrifuge Operating, LLC pursuant to two secured
+intercompany financing notes (the “Intercompany Notes”). The financing obtained from
+Enrichment Corp. funds American Centrifuge activities pending receipt of payments related to
+work performed under the contract with UT-Battelle, American Centrifuge costs that are outside
+the scope of work under the contract with UT-Battelle, including demobilization costs and
+contract termination costs resulting from reductions in scope of work, and general corporate
+expenses, including cash interest payments on our 8% paid-in-kind (“PIK”) toggle notes (“PIK
+Toggle Notes”). The Company has the option to pay up to 5.5% per annum of interest due on the
+PIK Toggle Notes in the form of PIK payments. For the semi-annual interest periods ended March
+31, 2016, and ending September 30, 2016, the Company has elected to pay interest in the form
+of PIK payments at 5.5% per annum.
+Capital expenditures are expected to be insignificant for at least the next 12 months.
+32
+We believe our sales order book in our LEU segment is a source of stability for our liquidity
+position. Centrus’ sales order book extends for more than a decade. Although we see limited
+uncommitted demand for LEU prior to the end of the decade based on current market conditions,
+we continue to seek and make additional sales, including sales for delivery during that time
+period.
+In September 2015, Centrus completed a successful three-year demonstration of the American
+Centrifuge technology at its facility in Piketon, Ohio. U.S. government funding for American
+Centrifuge is now limited to research, development and demonstration work at our facilities in
+Oak Ridge, Tennessee. We notified our American Centrifuge employees in September 2015 of
+possible layoffs as a result of reduced program funding and undertook voluntary reductions in
+2015. We commenced involuntary workforce reductions beginning in the first quarter of 2016.
+Centrus expects to make payments for these workforce reductions through 2017.
+The Company has incurred demobilization and maintenance costs for the Piketon facility that are
+included in Advanced Technology Costs. In addition to severance and demobilization costs, we
+have begun to incur expenditures in the second quarter of 2016 associated with the D&D of the
+Piketon facility in accordance with the requirements of the NRC and DOE. Costs related to this
+process totaled $3.7 million in the second quarter of 2016, which were charged to the accrued
+liability Decontamination and Decommissioning Obligations. The accrued liability balance is
+$25.7 million as of June 30, 2016. The Company is experiencing delays in implementing the
+D&D process and is working to finalize contractual and regulatory arrangements for the
+disposition of materials. The charge to advanced technology costs of $4.7 million in the second
+quarter of 2016 reflects delays as the Company continues to incur costs as the facility caretaker.
+The D&D work is now expected to extend through 2017 and additional costs associated with
+delays in fully implementing the D&D process may be incurred. The Company is evaluating the
+impact the delays will have on future costs.
+Centrus has previously provided financial assurance to the NRC and DOE for D&D and lease
+turnover costs in the form of surety bonds of approximately $16 million and $13 million,
+respectively, which are fully cash collateralized by Centrus. Centrus expects to receive cash
+when surety bonds are reduced and/or cancelled as the Company fulfills its D&D and lease
+obligations. The Company has not made a decision on lease turnover and is continuing to
+evaluate future uses for the site.
+In the event that funding by the U.S. government is further reduced or discontinued, the American
+Centrifuge project may be subject to further demobilization, costs, delays and termination. Any
+such actions may have a material adverse impact on our ability to deploy the American
+Centrifuge technology and on our liquidity.
+ 
+Refer below to Defined Benefit Plan Funding regarding our discussions with the PBGC and its
+financial advisor on the status of our qualified defined benefit plans.
+The change in cash and cash equivalents from our condensed consolidated statements of cash
+flows are as follows on a summarized basis (in millions):
+Net Cash (Used in) Operating Activities
+Net Cash Provided by Investing Activities
+Net Cash (Used in) Financing Activities
+Net (Decrease) in Cash and Cash Equivalents$ (59.5 ) $ (0.3 )
+2015
+Six Months Ended 
+ June 30,
+2016
+$ (49.9 ) $ (5.8 )
+(1.6
+(8.0
+) 5.5
+) —
+33
+Operating Activities
+The net reduction of $50.9 million in the SWU purchase payables balance, due to the timing of
+purchase deliveries, was a significant use of cash in the six months ended June 30, 2016.
+American Centrifuge expenses have been a major use of cash, including demobilization
+expenses and D&D expenditures. Sources of cash included the monetization of inventory
+purchased in prior periods. Inventories declined $50.0 million in the quarter, less an increase in
+receivables from utility customers of $22.1 million. The net loss of $17.5 million in the six months
+ended June 30, 2016, net of non-cash expenses, was a use of cash.
+ 
+In the corresponding period in 2015, monetization of inventory provided cash as inventories
+declined $118.1 million due to sales deliveries exceeding product received under SWU
+purchase agreements. In addition, accounts receivable declined $31.8 million due to
+monetization in the first quarter without increased sales and billings. The net reduction of the
+SWU purchase payables balance of $116.9 million, due to the timing of purchase deliveries, was
+a significant use of cash in the six-month period. The net loss of $30.5 million in the six months
+ended June 30, 2015, net of non-cash expenses, was a use of cash.
+Investing Activities
+Capital expenditures totaled $2.9 million in the six months ended June 30, 2016, including
+leasehold improvements of $1.7 million that were funded by the owner of the Company’s
+corporate headquarters. The Company funded leasehold improvements and furniture totaling
+$1.2 million. There were no significant capital expenditures in the corresponding period of 2015.
+Cash collateral deposits decreased $0.3 million in the six months ended June 30, 2016, and $4.0
+million in the corresponding period of 2015, commensurate with declines in surety bonds
+required for waste disposition.
+Financing Activities
+In June 2016, Centrus repurchased PIK Toggle Notes having an aggregate principal balance of
+$26.1 million and accrued interest payable balance of $0.5 million for cash payments of $9.8
+million, of which $1.8 million is included in accounts payable and accrued liabilities as of June
+30, 2016, and was paid in July 2016.
+Working Capital
+Cash and cash equivalents
+ 26.5
+Accounts receivable
+ 212.4
+Inventories, net
+Other current assets and liabilities, net(110.7 ) (165.2
+Working capital
+$276.8  $ 307.7
+June 30,
+December 31,
+ 
+2016
+2015
+(in millions)
+$174.5  $ 234.0
+51.3
+161.7
+)
+We had been engaged in discussions with the PBGC regarding the status of our qualified
+defined benefit pension plans. Refer to Note 12 - Commitments and Contingencies to the
+condensed consolidated financial statements.
+Capital Structure and Financial Resources
+Our debt consists of PIK Toggle Notes with a principal amount of $228.3 million as of June 30,
+2016, and $247.6 million as of December 31, 2015. In June 2016, we repurchased some of the
+PIK Toggle Notes pursuant to a pre-arranged trading plan. The PIK Toggle Notes repurchased
+had an aggregate principal balance of $26.1 million and accrued interest payable balance of
+$0.5 million. The Company paid $9.8 million in cash, of which $1.8 million is included in
+accounts payable and accrued liabilities as of June 30, 2016, and was paid in July 2016. The
+gain on the
+34
+early extinguishment of the PIK Toggle Notes was $16.7 million, net of commissions and
+unamortized deferred financing costs totaling $0.1 million. Additional details on the PIK Toggle
+Notes and the pre-arranged trading plan are provided in Note 8 - Debt to the condensed
+consolidated financial statements.
+We are managing our working capital to seek to improve the long-term value of our LEU
+business and are planning to continue funding the Company’s qualified pension plans in the
+ordinary course because we believe that is in the best interest of all stakeholders. We expect that
+any other uses of working capital will be undertaken in light of these strategic priorities and will
+be based on the Company’s determination as to the relative strength of its operating performance
+and prospects, financial position and expected liquidity requirements. In addition, we expect that
+any such other uses of working capital will be subject to compliance with contractual restrictions
+to which the Company and its subsidiaries are subject, including the terms and conditions of the
+indenture. The Company continually evaluates alternatives to manage our capital structure, and
+may opportunistically repurchase, exchange or redeem the PIK Toggle Notes or other Company
+securities from time to time, even in the absence of any agreement with the PBGC.
+NYSE MKT Listing Standards Notice
+On November 17, 2015, we received notice from the NYSE MKT LLC (the “NYSE MKT”)
+indicating that the Company is not in compliance with Sections 1003(a)(i) and (ii) of the NYSE
+MKT's Company Guide since the Company reported a stockholders’ deficit as of September 30,
+2015, and net losses in its fiscal years ended December 31, 2011, 2012 and 2013. We submitted
+a plan to regain compliance with the NYSE MKT’s continued listing standards and the NYSE
+MKT notified us in January 2016 that it accepted our plan. With the NYSE MKT’s acceptance of
+the plan, we have until May 17, 2017, to regain compliance. If the Company is not in compliance
+with the continued listing standards by May 17, 2017, or if the Company does not make progress
+consistent with the plan, the NYSE MKT may initiate delisting procedures as appropriate. In the
+meantime, our common stock will continue to be traded on the NYSE MKT, subject to ongoing
+monitoring by the NYSE MKT and our compliance with all other applicable NYSE MKT
+requirements.
+Off-Balance Sheet Arrangements
+Other than outstanding letters of credit and surety bonds, our SWU purchase commitments and
+the license agreement with DOE relating to the American Centrifuge technology disclosed in our
+Annual Report on Form 10-K for the fiscal year ended December 31, 2015, there were no
+material off-balance sheet arrangements, obligations, or other relationships at June 30, 2016, or
+December 31, 2015.
+New Accounting Standards Not Yet Implemented
+Reference is made to New Accounting Standards in Note 1 to the condensed consolidated
+financial statements for information on new accounting standards.
+35
+Item 3. Quantitative and Qualitative Disclosures about Market Risk
+At June 30, 2016, the balance sheet carrying amounts for cash and cash equivalents, accounts
+receivable, accounts payable and accrued liabilities, and payables under SWU purchase
+agreements approximate fair value because of the short-term nature of the instruments.
+We have not entered into financial instruments for trading purposes. At June 30, 2016, our debt
+consisted of the PIK Toggle Notes with a principal amount of $228.3 million. The estimated fair
+value of the PIK Toggle Notes was $90.5 million based on the most recent trading price as of
+June 30, 2016.
+Item 4. Controls and Procedures
+Disclosure Controls and Procedures
+Centrus maintains disclosure controls and procedures that are designed to ensure that
+information required to be disclosed by Centrus in reports it files or submits under the Securities
+Exchange Act of 1934 is recorded, processed, summarized and reported on a timely basis and
+that such information is accumulated and communicated to management, including the Chief
+Executive Officer and the Chief Financial Officer, as appropriate, to allow for timely decisions
+regarding required disclosure.
+As of the end of the period covered by this report, Centrus carried out an evaluation, under the
+supervision and with the participation of the Company’s management, including the Chief
+Executive Officer and the Chief Financial Officer, of the effectiveness of the design and operation
+of disclosure controls and procedures pursuant to Exchange Act Rule 13a-15. Based upon, and
+as of the date of, this evaluation, the Chief Executive Officer and the Chief Financial Officer
+concluded that disclosure controls and procedures were effective.
+Changes in Internal Control Over Financial Reporting
+There were no changes in our internal control over financial reporting during the quarter ended
+June 30, 2016, that have materially affected, or are reasonably likely to materially affect, our
+internal control over financial reporting.
+36
+PART II
+Item 1. Legal Proceedings
+There have been no material changes to the Legal Proceedings set forth under Part I, Item 3,
+Legal Proceedings, in our Annual Report on Form 10-K for the fiscal year ended December 31,
+2015.
+Centrus is subject to various legal proceedings and claims, either asserted or unasserted, which
+arise in the ordinary course of business. While the outcome of these claims cannot be predicted
+with certainty, we do not believe that the outcome of any of these legal matters, individually and
+in the aggregate, will have a material adverse effect on our cash flows, results of operations or
+consolidated financial condition.
+Item 1A. Risk Factors
+There have been no material changes to the Risk Factors described in Part I, Item 1A, Risk
+Factors, in our Annual Report on Form 10-K for the fiscal year ended December 31, 2015.
+Item 6.  Exhibits
+The exhibits listed on the accompanying Exhibit Index are filed or incorporated by reference as
+part of this report and such Exhibit Index is incorporated herein by reference. The accompanying
+Exhibit Index identifies each management contract or compensatory plan or arrangement
+required to be filed as an exhibit to this report.
+37
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly
+caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+Date:August 12, 2016By:
+Centrus Energy Corp.
+ 
+ 
+/s/ Stephen S. Greene
+Stephen S. Greene
+Senior Vice President, Chief Financial Officer and Treasurer
+(Duly Authorized Officer and Principal Financial Officer)
+38
+EXHIBIT INDEX
+Exhibit
+Description
+Certificate of the Voting Powers, Designations, Preferences and Relative Participating,
+Optional and Other Special Rights and Qualifications, Limitations or Restrictions of Series
+A Participating Cumulative Preferred Stock of Centrus Energy Corp. (filed as Exhibit 3.1 to
+the Company’s Registration Statement on Form 8-A filed with the Securities and
+Exchange Commission on April 7, 2016).
+ 
+Rights Agreement dated as of April 6, 2016, among Centrus Energy Corp.,
+Computershare Inc. (“Computershare”) and Computershare Trust Company, N.A.,
+together with Computershare, as Rights Agent (filed as Exhibit 4.1 to the Company’s
+Registration Statement on Form 8-A filed with the Securities and Exchange Commission
+on April 7, 2016).
+ 
+Form of Rights Certificate (filed as Exhibit 4.2 to the Company’s Registration Statement on
+Form 8-A filed with the Securities and Exchange Commission on April 7, 2016).
+ 
+2016 Executive Incentive Plan. (a)(c)
+ 
+Certification of the Chief Executive Officer pursuant to Rule 13a-14(a)/15d-14(a) under the
+Securities Exchange Act of 1934, as amended. (a)
+ 
+Certification of the Chief Financial Officer pursuant to Rule 13a-14(a)/15d-14(a) under the
+Securities Exchange Act of 1934, as amended. (a)
+No.
+3.1
+4.1
+4.2
+10.1
+31.1
+31.2
+101
+32.1 Certification of CEO and CFO pursuant to 18 U.S.C. Section 1350. (b)
+Condensed consolidated financial statements from the Quarterly Report on Form 10-Q for
+the quarter ended June 30, 2016, filed in interactive data file (XBRL) format.
+(a)Filed herewith.
+(b)Furnished herewith.
+(c)
+Management contracts and compensatory plans and arrangements required to be filed as
+exhibits pursuant to Item 6 of this report.
+39

@@ -1,0 +1,4411 @@
+
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ UBi5g5Mj9oX6VN1uqt/B/AATiRJXJ/IiUDcdw0uFq0rxU4AvqDl4XBPEM7J24H8A
+ F31LH6XUUkAsJo5K+bBMpw==
+<SEC-DOCUMENT>0000950123-10-083451.txt : 20100902
+<SEC-HEADER>0000950123-10-083451.hdr.sgml : 20100902
+<ACCEPTANCE-DATETIME>20100902171837
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+10-Q
+3
+20100228
+0000950123-10-083451
+20100902
+20100902
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: OIL AND GAS FIELD EXPLORATION
+TBX RESOURCES INC
+0001108645
+SERVICES [1382]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+752592165
+TX
+1130
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 000-30746
+FILM NUMBER:
+10-Q
+1934 Act
+101055652
+BUSINESS ADDRESS:
+STREET 1:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+12300 FORD RD SUITE 265
+DALLAS
+TX
+75234
+9722432610
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>d75881e10vq.htm
+<DESCRIPTION>FORM 10-Q
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e10vq</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#tocpage">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 
+1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size:
+1pt">&nbsp;</DIV>
+<DIV align="center" style="font-size: 14pt; margin-top: 12pt"><B>UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+<DIV align="center" style="font-size: 12pt"><B>WASHINGTON, DC 20549</B>
+</DIV>
+<DIV align="center" style="font-size: 18pt; margin-top: 12pt"><B>FORM 10-Q</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">(Mark one)
+</DIV>
+<DIV align="center">
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%" style="font-size:
+12pt">
+<TR style="font-size: 6pt">
+    <TD width="7%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="88%">&nbsp;</TD>
+</TR>
+<TR valign="top">
+    <TD align="center"><FONT style="font-family: Wingdings">&#254;</FONT> </TD>
+    <TD>&nbsp;</TD>
+    <TD><B>QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES 
+EXCHANGE ACT OF 1934</B></TD>
+</TR>
+</TABLE>
+</DIV>
+<!-- xbrl,dc -->
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 
+12%"><B>For the quarterly period ended: <U>February&nbsp;28, 2010</U></B></DIV>
+<!-- /xbrl,dc -->
+<DIV align="center" style="font-size: 10pt; margin-top: 6pt"><B>Or</B></DIV>
+<DIV align="center">
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%" style="font-size:
+12pt">
+<TR style="font-size: 6pt">
+    <TD width="7%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="88%">&nbsp;</TD>
+</TR>
+<TR valign="top">
+    <TD align="center"><FONT style="font-family: Wingdings">&#111;</FONT> </TD>
+    <TD>&nbsp;</TD>
+    <TD><B>TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES 
+EXCHANGE ACT OF 1934</B></TD>
+</TR>
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 
+12%"><B>For the transition period from: 
+<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> to 
+<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></B></DIV>
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>
+Commission File Number: <U>0-30746</U></B>
+</DIV>
+<DIV align="center" style="font-size: 24pt; margin-top: 12pt"><B><U>TBX 
+RESOURCES, INC.</U></B>
+</DIV>
+<DIV align="center" style="font-size: 10pt">
+(Exact name of registrant as specified in its charter)</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="48%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="48%">&nbsp;</TD>
+</TR>
+<TR></TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>Texas</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>75-2592165</B></TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(State or other jurisdiction of 
+incorporation or organization)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(I.R.S. Employer Identification Number)</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>3030 LBJ Freeway, Suite&nbsp;1320</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>75234</B></TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD align="center" valign="top" style="border-top: 1px solid #000000">&nbsp;
+</TD>
+<TD>&nbsp;</TD>
+    <TD align="center" valign="top" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(Address of principal executive offices)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Zip Code)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>(972)&nbsp;234-
+2610</B><BR>
+(Registrant&#146;s telephone number, including area code)</DIV>
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>N/A</B><BR>
+(Former name, former address and former fiscal year, if changed since last 
+report)</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check 
+mark whether the registrant: (1)&nbsp;has filed all reports required to be filed
+by
+Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934 during the 
+preceding 12&nbsp;months (or for
+such shorter period that the registrant was required to file such reports), and 
+(2)&nbsp;has been
+subject to such filing requirements for the past 90&nbsp;days. <FONT 
+style="font-family: Wingdings">&#111;</FONT> Yes <FONT style="font-family: 
+Wingdings">&#254;</FONT> No
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check 
+mark whether the registrant has submitted electronically and posted on its
+corporate Web site, if any,
+every Interactive Data File required to be submitted and posted pursuant to 
+Rule&nbsp;405 of Regulation
+S-T (&#167;232.405 of this chapter) during the preceding 12&nbsp;months (or for 
+such shorter period that the
+registrant was required to submit and post such files). <FONT style="font-
+family: Wingdings">&#111;</FONT> Yes <FONT style="font-family: 
+Wingdings">&#111;</FONT> No
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check 
+mark whether the registrant is a large accelerated filer, an accelerated filer, 
+a
+non-accelerated filer, or a smaller reporting company. See the definitions of 
+&#147;large accelerated
+filer,&#148; &#147;accelerated filer&#148; and &#147;smaller reporting 
+company&#148; in Rule&nbsp;12b-2 of the Exchange Act.
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="22%">&nbsp;</TD>
+<TD width="3%">&nbsp;</TD>
+    <TD width="22%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="22%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="22%">&nbsp;</TD>
+</TR>
+<TR></TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="left" valign="top"><FONT style="font-family: 
+Wingdings">&#111;</FONT> Large Accelerated Filer
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><FONT style="font-family: 
+Wingdings">&#111;</FONT> Accelerated Filer
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><FONT style="font-family: 
+Wingdings">&#111;</FONT> Non-Accelerated Filer
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="top" nowrap><FONT style="font-family: 
+Wingdings">&#254;</FONT> Smaller Reporting Company</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top" nowrap>(Do not check if smaller reporting 
+company)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check 
+mark whether the registrant is a shell company (as defined in Rule&nbsp;12b-2 of
+the
+Exchange Act). <FONT style="font-family: Wingdings">&#111;</FONT> Yes <FONT 
+style="font-family: Wingdings">&#254;</FONT> No
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">As of August&nbsp;30,
+2010, there were 4,027,442 shares of common stock, par value $0.01 per share,
+outstanding.
+</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-
+size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 
+1pt">&nbsp;</DIV>
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left">
+<!-- TOC -->
+</DIV>
+<DIV align="left">
+<A name="tocpage"></A>
+</DIV>
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>TBX RESOURCES, 
+INC.</B>
+</DIV>
+<DIV align="Center" style="font-size: 10pt; margin-top: 6pt"><B>Index</B>
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="95%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid 
+#000000">Pg. No.</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px"><A href="#101">PART I 
+&#150; Financial Information</A></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px"><A 
+href="#102">Item&nbsp;1. Financial Statements</A></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:45px; text-indent:-15px"><A 
+href="#103">Condensed Consolidated Balance Sheets as of February&nbsp;28, 2010 
+(Unaudited) and November&nbsp;30, 2009</A></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">F-1</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:45px; text-indent:-15px"><A 
+href="#104">Condensed Consolidated Statements of Operations for the Three Months
+Ended February&nbsp;28, 2010 and February&nbsp;28, 2009 
+(Unaudited)</A></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">F-2</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:45px; text-indent:-15px"><A 
+href="#105">Condensed Consolidated Statements of Cash Flows for the Three Months
+Ended February&nbsp;28, 2010 and February&nbsp;28, 2009 
+(Unaudited)</A></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">F-3</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:45px; text-indent:-15px"><A href="#106">Notes to
+Condensed Consolidated Financial Statements as of February&nbsp;28, 2010 
+(Unaudited)</A></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">F-4</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px"><A 
+href="#107">Item&nbsp;2. Management&#146;s Discussion and Analysis of Financial 
+Condition and Results of Operations
+</A></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">3</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px"><A 
+href="#108">Item&nbsp;3. Quantitative and Qualitative Disclosures about Market 
+Risk.</A></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">6</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px"><A 
+href="#109">Item&nbsp;4T. Controls and Procedures</A></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">6</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px"><A href="#110">PART II 
+&#150; Other Information</A></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px"><A 
+href="#111">Item&nbsp;1. Legal Proceedings</A></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">7</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px"><A 
+href="#112">Item&nbsp;2. Unregistered Sales of Equity Securities and Use of 
+Proceeds</A></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">7</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px"><A 
+href="#113">Item&nbsp;3. Defaults Upon Senior Securities</A></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">7</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px"><A 
+href="#114">Item&nbsp;5. Other Information</A></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">7</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px"><A 
+href="#115">Item&nbsp;6. Exhibits</A></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">7</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px"><A 
+href="#116">SIGNATURES</A></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">8</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+<TR><TD colspan="9"><FONT size="2">&nbsp;<A HREF="d75881exv31w1.htm">EX-
+31.1</A></FONT></TD></TR>
+<TR><TD colspan="9"><FONT size="2">&nbsp;<A HREF="d75881exv32w1.htm">EX-
+32.1</A></FONT></TD></TR>
+</TABLE>
+</DIV>
+<DIV align="left">
+<!-- /TOC -->
+</DIV>
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#tocpage">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left">
+<A name="101"></A>
+</DIV>
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>PART 1 &#151; 
+FINANCIAL INFORMATION</B>
+</DIV>
+<DIV align="left">
+<A name="102"></A>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;1. 
+Financial Statements</B>
+</DIV>
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>TBX RESOURCES. 
+INC. AND SUBSIDIARIES</B>
+</DIV>
+<DIV align="left">
+<A name="103"></A>
+</DIV>
+<!-- xbrl,bs -->
+<DIV align="center" style="font-size: 10pt"><B>CONDENSED CONSOLIDATED BALANCE 
+SHEETS</B></DIV>
+<!-- xbrl,body -->
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="76%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+<TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">February 28,</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">2010</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">November 30,</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid 
+#000000">(Unaudited)</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid 
+#000000">2009</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff">
+    <TD colspan="9" align="center"><B>ASSETS</B><BR></TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px"><B>Current 
+Assets</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Cash</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">8,890</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">5,327</TD>
+<TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Oil and gas revenue 
+receivable</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">29,992</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">112,122</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Inventory</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">3,900</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">4,494</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:45px; text-indent:-15px">Total current 
+assets</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">42,782</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">121,943</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px"><B>Oil and gas 
+properties (successful efforts method), net</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">46,855</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">49,591</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px"><B>Other</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+<TD align="right">6,211</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">6,211</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:60px; text-indent:-15px"><B>Total 
+Assets</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">95,848</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">177,745</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD colspan="9" align="center"><B>LIABILITIES AND STOCKHOLDERS&#146; 
+DEFICIT</B><BR></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px"><B>Current 
+Liabilities</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Trade accounts payable 
+and accrued expenses</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">35,005</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">62,693</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Advances from 
+affiliate</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">490,972</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">496,602</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Deferred 
+revenue</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">3,900</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">4,494</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:45px; text-indent:-15px">Total current
+liabilities</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">529,877</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">563,789</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px"><B>Long-term 
+Liabilities</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Asset retirement 
+obligations</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">21,276</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">21,021</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px"><B>Commitments and 
+Contingencies (Note 8)</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px"><B>Stockholders&#146; 
+Deficit</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Preferred stock- $.01 
+par value; authorized 10,000,000;
+no shares outstanding</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Common stock- $.01 par 
+value; authorized 100,000,000 shares;
+4,027,442 shares issued and outstanding at February&nbsp;28, 2010,
+4,027,442 shares issued and outstanding at November&nbsp;30, 2009</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">40,274</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">40,274</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Additional paid-in 
+capital</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">10,929,940</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">10,929,940</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Accumulated 
+deficit</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(11,425,519</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+<TD align="right">(11,377,279</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:45px; text-indent:-15px">Total 
+stockholders&#146; deficit</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(455,305</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(407,065</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:60px; text-indent:-15px"><B>Total Liabilities 
+and Stockholders&#146; Deficit</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">95,848</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">177,745</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">The accompanying 
+notes are an integral part of these condensed consolidated financial statements.
+</DIV>
+<!-- /xbrl,bs -->
+<P align="center" style="font-size: 10pt"><!-- Folio -->F-1<!-- /Folio -->
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#tocpage">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>TBX RESOURCES, 
+INC. AND SUBSIDIARIES</B>
+</DIV>
+<DIV align="left">
+<A name="104"></A>
+</DIV>
+<!-- xbrl,op -->
+<DIV align="center" style="font-size: 10pt"><B>CONDENSED CONSOLIDATED STATEMENTS
+OF OPERATIONS</B></DIV>
+<!-- xbrl,body -->
+<DIV align="center" style="font-size: 10pt"><B>(Unaudited)</B></DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="76%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="7" style="border-bottom: 1px solid 
+#000000">For the Three Months Ended</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3">Feb. 28, 2010</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3">Feb. 28, 2009</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR style="font-size: 1px">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="7" align="left" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-
+15px"><B>Revenues:</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Oil and gas 
+sales</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">22,368</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">14,525</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="7" align="left" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:45px; text-indent:-15px">Total 
+revenues</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">22,368</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">14,525</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="7" align="left" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-
+15px"><B>Expenses:</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Lease operating and 
+taxes</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">8,150</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">11,760</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">General and 
+administrative</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">66,409</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">128,329</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Depreciation, 
+depletion, amortization and accretion</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,991</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,395</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="7" align="left" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:45px; text-indent:-15px">Total 
+expenses</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+<TD align="right">77,550</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">142,484</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="7" align="left" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px"><B>Operating 
+Loss</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(55,182</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(127,959</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px"><B>Other 
+Income:</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Partial loss 
+recovery</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+<TD align="right">6,942</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD colspan="1" align="left" style="border-top: 0px solid 
+#000000">&nbsp;</TD>
+    <TD colspan="1" align="left" style="border-top: 0px solid 
+#000000">&nbsp;</TD>
+    <TD colspan="2" align="left" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD colspan="1" align="left" style="border-top: 0px solid 
+#000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px"><B>Loss Before 
+Provision for Income Taxes</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(48,240</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(127,959</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Provision for income 
+taxes</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="7" align="left" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px"><B>Net 
+Loss</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(48,240</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(127,959</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="7" nowrap align="left" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px"><B>Net Loss per Common 
+Share, Basic and Diluted</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(0.01</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(0.03</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="7" nowrap align="left" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Weighted average common
+shares used in calculations:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:30px; text-indent:-15px"><B>Basic and 
+Diluted</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">4,027,442</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">4,027,442</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="7" align="left" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">The accompanying 
+notes are an integral part of these condensed consolidated financial
+statements.
+</DIV>
+<!-- /xbrl,op -->
+<P align="center" style="font-size: 10pt"><!-- Folio -->F-2<!-- /Folio -->
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#tocpage">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>TBX RESOURCES, 
+INC. AND SUBSIDIARIES</B>
+</DIV>
+<DIV align="left">
+<A name="105"></A>
+</DIV>
+<!-- xbrl,cf -->
+<DIV align="center" style="font-size: 10pt"><B>CONDENSED CONSOLIDATED STATEMENTS
+OF CASH FLOWS</B></DIV>
+<!-- xbrl,body -->
+<DIV align="center" style="font-size: 10pt"><B>(Unaudited)</B></DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="76%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="6" style="border-bottom: 1px solid 
+#000000">For the Three Months Ended</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid 
+#000000">Feb. 28, 2010</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid 
+#000000">Feb. 28, 2009</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px"><B>Cash Flows From 
+Operating Activities:</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Net loss</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">$</TD>
+    <TD align="right">(48,240</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">$</TD>
+    <TD align="right">(127,959</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Adjustments to 
+reconcile net loss to net cash provided by (used for)
+operating activities:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:45px; text-indent:-15px">Depreciation, 
+depletion, amortization and accretion</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,991</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,394</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:45px; text-indent:-15px">Stock based 
+compensation</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">250</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:45px; text-indent:-15px">Changes in operating 
+assets and liabilities other than
+advances from affiliate:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:60px; text-indent:-15px">Decrease 
+(increase)&nbsp;in:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:75px; text-indent:-15px">Oil and gas revenue 
+receivable</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">82,130</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+<TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(14,524</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:75px; text-indent:-15px">Accounts receivable 
+from affiliate</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">21,824</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:75px; text-indent:-15px">Inventory</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">594</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(3,200</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:60px; text-indent:-15px">Increase 
+(decrease)&nbsp;in:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:75px; text-indent:-15px">Trade accounts payable 
+and accrued expenses</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(27,688</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">10,144</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:75px; text-indent:-15px">Deferred 
+revenue</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(594</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">3,200</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+<TD><DIV style="margin-left:30px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Net cash provided by 
+(used for) operating activities</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">9,193</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(107,871</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px"><B>Cash Flows From 
+Financing Activities:</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Payments to 
+affiliate</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(107,414</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Advances from 
+affiliate</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">101,784</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">106,243</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Net cash provided by 
+(used for) financing activities</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(5,630</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">106,243</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px"><B>Net Increase 
+(Decrease) In Cash</B></DIV></TD>
+<TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">3,563</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(1,628</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Cash at beginning of 
+period</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">5,327</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,506</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Cash at end of 
+period</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">8,890</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">878</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">The accompanying 
+notes are an integral part of these condensed consolidated financial
+statements.
+</DIV>
+<!-- /xbrl,cf -->
+<P align="center" style="font-size: 10pt"><!-- Folio -->F-3<!-- /Folio -->
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#tocpage">Table of 
+Contents</A></H5><P>
+<!-- xbrl,ns -->
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>TBX RESOURCES, 
+INC. AND SUBSIDIARIES</B>
+</DIV>
+<DIV align="left">
+<A name="106"></A>
+</DIV>
+<DIV align="center" style="font-size: 10pt"><B>NOTES TO CONDENSED CONSOLIDATED 
+FINANCIAL STATEMENTS</B></DIV>
+<DIV align="center" style="font-size: 10pt"><B>February&nbsp;28, 2010</B></DIV>
+<DIV align="center" style="font-size: 10pt"><B>(Unaudited)</B></DIV>
+<!-- xbrl,n -->
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>1. Basis Of 
+Presentation:</B>
+</DIV>
+<!-- xbrl,body -->
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The condensed 
+consolidated financial statements included herein have been prepared by the 
+Company,
+without audit, pursuant to the rules and regulations of the Securities and 
+Exchange Commission.
+Certain information and footnote disclosures normally included in financial 
+statements prepared in
+accordance with generally accepted accounting principles have been omitted. 
+However, in the opinion
+of management, all adjustments (which include only normal recurring accruals) 
+necessary to present
+fairly the financial position and results of operations for the periods 
+presented have been made.
+The results for interim periods are not necessarily indicative of trends or of 
+results to be
+expected for the full year. These financial statements should be read in 
+conjunction with the
+financial statements of the Company for the year ended November&nbsp;30, 2009 
+(including the notes
+thereto) set forth in Form 10-K.
+</DIV>
+<!-- xbrl,n -->
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>2. Business 
+Activities:</B>
+</DIV>
+<!-- xbrl,body -->
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">TBX Resources, Inc., 
+a Texas corporation (&#147;TBX&#148; or the &#147;Company&#148;), was organized 
+on March&nbsp;24, 1995.
+Currently, the Company&#146;s primary focus is to secure additional capital 
+through business alliances
+with third parties or other debt/equity financing arrangements to acquire 
+producing oil and gas
+leases and wells, acquire additional oil and gas prospect leases and to acquire 
+an exploration
+company that can also act as an operator of our wells.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The Company&#146;s 
+principal historical business activity has been acquiring and developing oil and
+gas
+properties. However, during fiscal year 2004, the Company began providing 
+contract services to an
+affiliate, Gulftex Operating, Inc. The services continued to August&nbsp;31, 
+2006 when the agreement was
+terminated by mutual agreement. In addition, the Company has sponsored and/or 
+managed joint
+venture development partnerships for the purpose of developing oil and gas 
+properties for profit.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The Company has an 
+interest in wells in Denton and Wise Counties, Texas. The Company had a minor
+interest in three Oklahoma wells which were sold effective March&nbsp;31, 2009.
+</DIV>
+<!-- xbrl,n -->
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>3. Going 
+Concern:</B>
+</DIV>
+<!-- xbrl,body -->
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The accompanying 
+condensed consolidated financial statements have been prepared in conformity 
+with
+accounting principles generally accepted in the United States of America which 
+contemplates the
+realization of assets and the satisfaction of liabilities in the normal course 
+of business.
+However, the Company has negative stockholders&#146; equity and minimal working 
+capital. In addition,
+the Company sold its primary source of revenue (East Texas properties) effective
+April&nbsp;1, 2008.
+These factors raise substantial doubt about the ability of the Company to 
+continue as a going
+concern.
+</DIV>
+<!-- xbrl,n -->
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>4. Summary of 
+Significant Accounting Policies:</B>
+</DIV>
+<!-- xbrl,body -->
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Revenue Recognition</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For direct oil and gas operations, the 
+revenue is recorded when production is sold. The
+Company accrues revenue for oil and gas production sold but not paid. See 
+Receivables below.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Principles of Consolidation</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The condensed consolidated financial 
+statements for the quarter ended February&nbsp;28, 2010 and
+2009 include the accounts of TBX Resources, Inc. The accounts of the Grasslands 
+I, L.P., a limited
+partnership, the Johnson No.&nbsp;A1 and Johnson No.&nbsp;A2, joint ventures, in
+which TBX owns interests,
+are consolidated on a proportionate basis. All significant intercompany balances
+and transactions
+have been eliminated.
+</DIV>
+<P align="center" style="font-size: 10pt"><!-- Folio -->F-4<!-- /Folio -->
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#tocpage">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<!-- xbrl -->
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Concentration of Credit Risk</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">During the three 
+months ended February&nbsp;28, 2010 the Company had a net reduction in advances 
+from
+Gulftex totaling $5,630. During the three months ended February&nbsp;28, 2009 
+the Company received
+advances from Gulftex totaled $106,243. The balance due Gulftex as of 
+February&nbsp;28, 2010 is
+$490,972.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Oil and Gas Revenue Receivable</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Receivables consist 
+of accrued oil and gas receivables due from either purchasers of oil and gas or
+operators in oil and natural gas wells for which the Company owns an interest. 
+Oil and natural gas
+sales are generally unsecured and such amounts are generally due within 
+30&nbsp;days after the month of
+sale.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Inventory</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inventory consists of crude oil held in 
+storage tanks. Inventory is stated at market based on
+anticipated selling prices
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Property and Equipment</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Property and equipment are stated at the 
+Company&#146;s cost and are depreciated on a straight-line
+basis over five to seven years. Maintenance and repair costs are expensed when 
+incurred, while
+major improvements are capitalized.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Oil and Gas Properties</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company follows the successful efforts 
+method of accounting for oil and gas exploration
+and development expenditures. Under this method, costs of successful exploratory
+wells and all
+development wells are capitalized. Costs to drill exploratory wells that do not 
+find proved
+reserves are expensed.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Significant costs associated with the 
+acquisition of oil and gas properties are capitalized.
+Upon sale or abandonment of units of property or the disposition of 
+miscellaneous equipment, the
+cost is removed from the asset account, the related reserves relieved of the 
+accumulated
+depreciation or depletion and the gain or abandonment loss is credited to or 
+charged against
+operations. Both proved and unproved oil and gas properties that are 
+individually significant are
+periodically assessed for impairment of value, and a loss is recognized at the 
+time of impairment.
+Capitalized costs of producing oil and gas properties, after considering 
+estimated dismantlement
+and abandonment costs and estimated salvage values are depreciated and depleted 
+by the
+unit-of-production method. Support equipment and other property and equipment 
+are depreciated over
+their estimated useful lives.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oil and gas properties at February&nbsp;28, 
+2010 consist of the following:
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="88%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR></TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Proved oil and gas 
+properties</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">518,539</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Accumulated 
+depreciation, depletion and
+amortization</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(471,684</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">46,855</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Long-lived Assets</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The Company reviews 
+its long-lived assets to be held and used, including proved oil and gas
+properties accounted for under the successful efforts method of accounting,
+whenever events or
+circumstances indicate that the carrying value of those assets may not be 
+recoverable. An
+impairment loss is indicated if the sum of the expected undiscounted future cash
+flows is less than
+the carrying amount of the assets. In this circumstance, the Company recognizes 
+an impairment loss
+for the amount by which the carrying amount of the asset exceeds the estimated 
+fair value of the
+asset.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The Company provides 
+for depreciation, depletion and amortization of its investment in producing
+oil and gas properties on the unit-of-production method, based upon independent 
+reserve engineers&#146;
+estimates of recoverable oil and gas reserves from the property.
+</DIV>
+<P align="center" style="font-size: 10pt"><!-- Folio -->F-5<!-- /Folio -->
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#tocpage">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<!-- xbrl -->
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Asset Retirement Obligations</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The Company accounts 
+for asset retirement obligations by recording the fair value of a liability
+for an asset retirement obligation (&#147;ARO&#148;) in the period in which it 
+is incurred when a reasonable
+estimate of fair value can be made. Asset retirement obligations are capitalized
+as part of the
+carrying value of the long-lived asset. The Company writes down capitalized ARO 
+assets if they are
+impaired.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The following table 
+describes changes to the asset retirement liability for the quarter ended
+February&nbsp;28, 2010.
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="88%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR></TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">ARO at 
+November&nbsp;30, 2009</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">21,021</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Accretion 
+expense</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">255</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Liabilities 
+incurred</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Liabilities 
+settled</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Changes in 
+estimates</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">ARO at 
+February&nbsp;28, 2010</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">21,276</TD>
+<TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Equity Instruments Issued for Goods and 
+Services</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The Company measures 
+the cost of employee services received in exchange for an award of equity
+instruments based on the fair value of the award on the grant date. That cost is
+recognized in the
+financial statements over the period during which the employee is required to 
+provide services in
+exchange for the award with a corresponding increase in additional paid-in 
+capital.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Income Taxes</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Income taxes are 
+accounted for under the asset and liability method. Deferred tax assets and
+liabilities are recognized for the future tax consequences attributable to 
+differences between the
+financial statement carrying amounts of existing assets and liabilities and 
+their respective tax
+bases. Deferred tax assets and liabilities are measured using enacted tax rates 
+expected to apply
+to taxable income in the years in which those temporary differences are expected
+to be recovered or
+settled. The effect on deferred tax assets and liabilities of a change in tax 
+rates is recognized
+in income in the period that includes the enactment date. Income tax expense is 
+the tax payable
+for the year plus or minus the change during the period in deferred tax assets 
+and liabilities.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Earnings Per Share (EPS)</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Basic earnings per 
+common share is calculated by dividing net income or loss by the weighted
+average number of shares outstanding during the year. Diluted earnings per 
+common share is
+calculated by adjusting outstanding shares, assuming conversion of all 
+potentially dilutive stock
+options. The computation of diluted EPS does not assume conversion, exercise, or
+contingent
+issuance of shares that would have an antidilutive effect on earnings per common
+share.
+Antidilution results from an increase in earnings per share or reduction in loss
+per share from the
+inclusion of potentially dilutive shares in EPS calculations.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Use of Estimates</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The preparation of financial statements in 
+conformity with generally accepted accounting
+principles requires management to make estimates and assumptions that affect the
+reported amounts
+of assets and liabilities and disclosure of contingent assets and liabilities at
+the date of the
+financial statements and the reported amounts of revenues and expenses during 
+the reporting period.
+Significant estimates include: estimates of proved reserves as key components of
+the Company&#146;s
+depletion rate for oil properties; accruals of operating costs; estimates of 
+production revenues;
+and calculating asset retirement obligations. Because there are numerous 
+uncertainties inherent in
+the estimation process, actual results could differ materially from these 
+estimates.
+</DIV>
+<P align="center" style="font-size: 10pt"><!-- Folio -->F-6<!-- /Folio -->
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#tocpage">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<!-- xbrl -->
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Fair Value 
+Measurements</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company adopted fair value accounting for
+certain financial assets and liabilities that
+have been evaluated at least annually. The standard defines fair value as the 
+price at which an
+asset could be exchanged in a current transaction between knowledgeable, willing
+parties. A
+liability&#146;s fair value is defined as the amount that would be paid to 
+transfer the liability to a
+new obligor, not the amount that would be paid to settle the liability with the 
+creditor.
+Management has determined that it will not, at this time, adopt fair value 
+accounting for
+nonfinancial assets or liabilities currently recorded in the consolidated 
+financial statements,
+which includes property and equipment, investments carried at cost, deposits and
+other assets.
+Impairment analyses will be made of all assets using fair value measurements.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Assets and 
+liabilities measured at fair value are categorized based upon the level of 
+judgment
+associated with the inputs used to measure their fair value. Hierarchical 
+levels, defined by
+generally accepted accounting principles and directly related to the amount of 
+subjectivity
+associated with the inputs to fair valuation of these assets and liabilities, 
+are as follows:
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="8%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="89%">&nbsp;</TD>
+</TR>
+<TR></TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><U>Level 1</U></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" valign="top" align="left">Inputs to the valuation 
+methodology are unadjusted quoted prices for
+identical assets or liabilities in active markets that the Plan has the ability 
+to access.</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-
+0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top" nowrap><U>Level 2</U></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" valign="top" align="left">Inputs to the valuation 
+methodology include:</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-
+0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+<TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">quoted prices for similar assets or 
+liabilities in active markets;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-
+0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">quoted prices for identical or similar assets 
+or liabilities in
+inactive markets; </TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-
+0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">inputs other than quoted prices that are
+observable for the asset or liability;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-
+0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">inputs that are derived principally from or 
+corroborated by observable
+market data by correlation or other means.</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+<TD valign="top"><DIV style="margin-left:0px; text-indent:-
+0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" valign="top" align="left">If the asset or liability has a 
+specified (contractual)&nbsp;term, the Level 2 input must be
+observable for substantially the full term of the asset or liability.</TD>
+</TR>
+<TR valign="top">
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><U>Level 3</U></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" valign="top" align="left">Inputs to the valuation 
+methodology are unobservable and significant to the fair
+value measurement.</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Cash, receivable and 
+payable amounts, accrued expenses and other current liabilities are
+carried at book value amounts which approximate fair value due to the short-term
+maturity of these
+instruments.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Subsequent 
+Events</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In preparing the consolidated financial 
+statements, the Company has reviewed, as determined
+necessary by the Company&#146;s management, events that have occurred after 
+February&nbsp;28, 2010, up until
+the issuance of the financial statements, which occurred on or about September 
+2, 2010.
+</DIV>
+<!-- xbrl,n -->
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>5. Recent 
+Accounting Pronouncements:</B>
+</DIV>
+<!-- xbrl,body -->
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">During the three 
+months ended February&nbsp;28, 2010 and the year ended November&nbsp;30, 2009, 
+there were
+several new accounting pronouncements issued by FASB. Each of these 
+pronouncements, as applicable,
+has been or will be adopted by the Company. Management does not believe the 
+adoption of any of
+these accounting pronouncements has had or will have a material impact on the 
+Company&#146;s financial
+position or operating results. The Company will monitor these emerging issues to
+assess any
+potential future impact on its consolidated financial statements.
+</DIV>
+<!-- xbrl,n -->
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>6. Related Party 
+Transactions:</B>
+</DIV>
+<!-- xbrl,body -->
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The Company conducts 
+substantial transactions with Gulftex. These related party transactions have a
+significant impact on the financial condition and operations of the Company. If 
+these transactions
+were conducted with third parties, the financial condition and operations of the
+Company could be
+materially different from reported results.
+</DIV>
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size:
+10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">a.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>During the three months ended February&nbsp;28, 2010 the Company had a 
+net reduction in
+advances from Gulftex totaling $5,630. During the three months ended 
+February&nbsp;28, 2009 the
+Company received</TD>
+</TR>
+</TABLE>
+</DIV>
+<P align="center" style="font-size: 10pt"><!-- Folio -->F-7<!-- /Folio -->
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#tocpage">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV style="margin-top: 6pt"><TABLE width="100%" border="0" cellpadding="0" 
+cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>advances from Gulftex totaled $106,243. The balance due Gulftex as of
+February&nbsp;28, 2010 is $490,972.</TD>
+</TR>
+<TR valign="top" style="font-size: 6pt; color: #000000; background: 
+transparent">
+    <TD colspan="4">&nbsp;</TD>
+</TR>
+<TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="3%" nowrap align="left">b.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Company is charging Gulftex rent for a portion of the Company&#146;s
+office space plus
+administrative expenses paid by the Company that relates to Gulftex&#146;s 
+operations. The
+Company
+billed $23,434 for the three months ended February&nbsp;28, 2010 and $11,407 for
+the three months
+ended February&nbsp;28, 2009.</TD>
+</TR>
+</TABLE>
+</DIV>
+<!-- xbrl,n -->
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>7. Stock Based 
+Compensation:</B>
+</DIV>
+<!-- xbrl,body -->
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The Company executed 
+an amended Employment Agreement effective August&nbsp;4, 2005 with our president
+Mr.&nbsp;Tim Burroughs for three years. Among other items, the agreement 
+provides that Mr.&nbsp;Burroughs has
+the contractual right to require TBX to issue, upon his request, up to 250,000 
+common share options
+subject to certain conditions. The conditions are that the options will not be 
+issued unless Mr.
+Burroughs makes a demand for their issuance and the number of shares so demanded
+have vested (the
+agreement provides that 50,000 potential options vest at the beginning of each 
+employment year for
+the five year term of the agreement and are cumulative.) The amendment also 
+changed how the options
+are to be priced. The options are to be priced at a maximum exercise price of 
+one-half the bid
+price for TBX common stock as of August&nbsp;4, 2005 or $0.70 per share (one-
+half $1.40 the closing bid
+price on August&nbsp;4, 2005.) In the event the closing bid price of TBX&#146;s 
+common stock is below $0.70
+on the date of a call by Mr.&nbsp;Burroughs, the exercise price would be reduced
+to the lower actual bid
+price. Mr.&nbsp;Burroughs&#146; Employment Agreement was further amended in 
+April&nbsp;2007. In exchange for TBX
+dropping the three year service requirement, Mr.&nbsp;Burroughs agreed to forgo 
+his eligibility to call
+for stock options for fiscal years 2005 and 2006. Mr.&nbsp;Burroughs did not 
+call any of his potential
+stock options as of February&nbsp;28, 2010. In accordance with the terms of 
+April l, 2007 Amended
+Employment Agreement, no compensation expense is recognized as of 
+February&nbsp;28, 2010 related to Mr.
+Burroughs&#146; potential common stock options.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The Company executed 
+an amended Employment Agreement effective April&nbsp;1, 2006 with our Vice
+President of Investor Relations, Dick O&#146;Donnell, having a term of one year,
+which automatically
+renews unless otherwise terminated as provided in said agreement. Under the 
+terms of the agreement
+the Company agreed to issue Mr.&nbsp;O&#146;Donnell options to acquire 25,000 
+shares of common stock per
+quarter beginning April&nbsp;1, 2006 for a period of up to three years at an 
+exercise price of $0.15 per
+share. The option exercise period is one year from its date. 
+Mr.&nbsp;O&#146;Donnell&#146;s options to acquire
+common stock expired on January&nbsp;1, 2009.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">A summary of the 
+status of the Company&#146;s equity awards as of February&nbsp;28, 2010 and the 
+changes
+during the period then ended is presented below:
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="76%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2"><B>Weighted-Average</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid 
+#000000"><B>Shares</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid 
+#000000"><B>Exercise Price</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px"><B>Outstanding 
+December&nbsp;1, 2009</B></DIV></TD>
+    <TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+    <TD align="right">25,000</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">0.15</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Granted</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Exercised</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Forfeited</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(25,000</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">0.15</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+<TD><DIV style="margin-left:15px; text-indent:-15px"><B>Outstanding 
+February&nbsp;28, 2010</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px"><B>Options exercisable 
+at February&nbsp;28, 2010</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The Company does not 
+have vested and nonvested shares at February&nbsp;28, 2010.
+</DIV>
+<!-- xbrl,n -->
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>8. Commitments And
+Contingencies:</B>
+</DIV>
+<!-- xbrl,body -->
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The Company is 
+currently obligated for $75,942 under an operating lease agreement for rent of 
+its
+office space in Dallas, Texas. The term of the lease is from February&nbsp;1, 
+2004 through February&nbsp;28,
+2011. The
+</DIV>
+<P align="center" style="font-size: 10pt"><!-- Folio -->F-8<!-- /Folio -->
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#tocpage">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">average monthly base 
+lease payment over the remaining term of the lease is approximately
+$6,329.Rent expense for the three months ended February&nbsp;28, 2010 and 
+February&nbsp;28, 2009 is $17,848
+and $17,579, respectively.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Trio Consulting 
+&#038; Management and Merrit Operating are the bonded operators for the 
+Company&#146;s Denton
+and Wise County, Texas wells and is responsible for compliance with the laws and
+regulations
+relating to the protection of the environment. While it is not possible to 
+quantify with certainty
+the potential impact of actions regarding environmental matters, particularly 
+any future
+remediation and other compliance efforts, in the opinion of management, 
+compliance with the present
+environmental protection laws will not have a material adverse affect on the 
+financial condition,
+competitive position or capital expenditures of TBX Resources. However, the 
+Company&#146;s cost to
+comply with increasingly stringent environmental regulations may have an adverse
+effect on the
+Company&#146;s future earnings.
+</DIV>
+<!-- xbrl,n -->
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size:
+10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="1%" nowrap align="left"><B>9.</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><B>Lawsuit Settlement:</B></TD>
+</TR>
+</TABLE>
+</DIV>
+<!-- xbrl,body -->
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">On May&nbsp;28, 2009 
+the Company, along with Grasslands I, L.P., intervened as third party plaintiffs
+in
+a lawsuit originally captioned as Clay Bain, et. al. v. Earthwise Energy, Inc. 
+(EEI)&nbsp;which was
+filed in April&nbsp;2009 in the 14<SUP style="FONT-size: 85%; vertical-align: 
+text-top">th</SUP> Judicial District, Dallas County Texas, Cause No.
+095253. Our petition requested that we be given certain injunctive relief and be
+awarded
+unspecified damages for certain alleged causes of action including, but not 
+limited to, fraud,
+conversion and violation of fiduciary duty against defendant Earthwise Energy, 
+Inc. but also as
+against two individuals, Jeffery C. Reynolds and Steven C. Howard who were added
+to the lawsuit as
+third party defendants. Mr.&nbsp;Reynolds is a former member of our Board of 
+Directors who resigned in
+July&nbsp;2008. The lawsuit was settled on February&nbsp;11, 2010 wherein it is 
+acknowledged that the
+Company is the rightful owner of certain interests in the Wise and Denton 
+County, Texas. Gulftex
+Operating received $97,909 (net of expenses) on behalf of the Company for the 
+Johnson Nos. 1 and 2
+gas wells in Wise County, Texas covering the period March&nbsp;1, 2008 through 
+October&nbsp;31, 2009. The
+$97,909 received by Gulftex Operating was used to pay down a portion of its 
+loans to the Company.
+The Company&#146;s also received $13,973 (net of expenses) for its overrides in 
+nine gas wells in Denton
+County, Texas covering the period Mach 1, 2008 through October&nbsp;31, 2009. It
+is intended that these
+payments fully resolve all claims by the Company against the defendants.
+</DIV>
+<!-- xbrl,n -->
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>10. Income 
+taxes:</B>
+</DIV>
+<!-- xbrl,body -->
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The Company computes 
+income taxes using the asset and liability approach. The Company currently has
+no issue that creates timing differences that would mandate deferred tax 
+expense. Due to the
+uncertainty as to the utilization of net operating loss carryforwards, an 
+evaluation allowance has
+been made to the extent of any tax benefit that net operating losses may 
+generate. No provision for
+income taxes has been recorded for the three months ended February&nbsp;28, 2010
+and February&nbsp;28, 2009
+due to the Company&#146;s net operating losses.
+</DIV>
+<!-- xbrl,n -->
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>11. Court Ordered 
+Restitution:</B>
+</DIV>
+<!-- xbrl,body -->
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">On May&nbsp;26, 2000 
+a former employee was sentenced to three years probation for forging Company
+checks. As part of the sentencing the former employee is required to make
+restitution to the
+Company in the amount of $152,915. Because of the uncertainty of collecting the 
+amount owed, the
+Company has not recorded a receivable but instead is recording income as 
+payments are made by the
+U.S. District Court of Dallas, Texas. The Company received $6,942 in 
+February&nbsp;2010 and the balance
+outstanding as of February&nbsp;28, 2010 is approximately $143,446.
+</DIV>
+<!-- /xbrl,ns -->
+<P align="center" style="font-size: 10pt"><!-- Folio -->F-9<!-- /Folio -->
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#tocpage">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left">
+<A name="107"></A>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>ITEM 2. 
+MANAGEMENT&#146;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS</B></DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Cautionary Statement</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Statements in this report which are not 
+purely historical facts, including statements
+regarding the Company&#146;s anticipations, beliefs, expectations, hopes, 
+intentions or strategies for
+the future, may be forward-looking statements within the meaning of 
+Section&nbsp;21E of the Securities
+Act of 1934, as amended. All forward-looking statements in this report are based
+upon information
+available to us on the date of the report. Any forward-looking statements 
+involve risks and
+uncertainties that could cause actual results or events to differ materially 
+from events or results
+described in the forward-looking statements. Readers are cautioned not to place 
+undue reliance on
+these forward-looking statements.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Description Of Properties</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>General</B>: We currently have wells in 
+Denton and Wise Counties, Texas.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Properties</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following is a breakdown of our 
+properties by field as of February&nbsp;28, 2010:
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="76%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Gross</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Net</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Producing</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Producing</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000"><B>Name of 
+Field or Well</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid 
+#000000"><B>Well Count</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid 
+#000000"><B>Well Count</B></TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Newark East, Working 
+Interest</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0.74</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Newark East, Override
+Interest</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">9</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0.04</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Productive Wells and Acreage:</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following is a breakdown of our 
+productive wells and acreage as of February&nbsp;28, 2010:
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="52%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" colspan="2"><B>Proved</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" colspan="2"><B>Proved</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+<TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" colspan="2"><B>Proved</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" colspan="2"><B>Proved</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" colspan="2"><B>Developed</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" colspan="2"><B>Developed</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" colspan="2"><B>Reserves:</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" colspan="2"><B>Reserves:</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" colspan="2"><B>Reserves:</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" colspan="2"><B>Reserves:</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>Name of</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" colspan="2"><B>Oil</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" colspan="2"><B>Gas</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" colspan="2"><B>Oil</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" colspan="2"><B>Gas</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000"><B>Field or
+Well</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" colspan="2" style="border-bottom: 1px solid 
+#000000"><B>(bbls)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" colspan="2" style="border-bottom: 1px solid 
+#000000"><B>(mcf)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" colspan="2" style="border-bottom: 1px solid 
+#000000"><B>(bbls)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" colspan="2" style="border-bottom: 1px solid 
+#000000"><B>(mcf)</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Newark East</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,861</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">78,121</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,861</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">78,121</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Notes</B>:
+</DIV>
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size:
+10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="3%" nowrap align="left">1.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Total Gross Wells are those wells in which the Company holds a working 
+or overriding interest
+in as of February&nbsp;28, 2010.</TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="3%" nowrap align="left">2.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Net Productive Wells was calculated by multiplying the working or 
+overriding interest held by
+the Company in each of the 11 Gross Wells and adding the resulting 
+products.</TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="3%" nowrap align="left">3.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Total Gross Developed Acres is equal to the total surface acres of the 
+properties in which
+the Company holds a working or overriding interest.</TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="3%" nowrap align="left">4.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Net Developed Acres is equal to the Total Gross Developed Acres 
+multiplied by the percentage
+of the total working or overriding interest held by the Company in the 
+respective properties.</TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="3%" nowrap align="left">5.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>All acreage in which we hold a working interest as of February&nbsp;28, 
+2010 have or had existing
+wells located thereon; thus all acreage leased by the Company may be accurately 
+classified as
+developed.</TD>
+</TR>
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: 
+transparent">
+    <TD width="3%" nowrap align="left">6.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Acreage that has existing wells and may be classified as developed may 
+also have additional
+development potential based on the number of producible zones beneath the 
+surface acreage. A
+more comprehensive study of all properties currently leased by us would be 
+required to
+determine precise developmental potential.</TD>
+</TR>
+</TABLE>
+</DIV>
+<P align="center" style="font-size: 10pt"><!-- Folio -->3<!-- /Folio -->
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#tocpage">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Oil And Gas Partnership Interests</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We currently own a 59.16% partnership 
+interest in the Johnson No.&nbsp;1-H, a 65.60% partnership
+interest in the Johnson No.&nbsp;2-H, and a 0.4% overriding interest in the
+Grasslands L. P. We did not
+acquire any additional partnership interests in the current quarter.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Critical 
+Accounting Policies</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">A summary of 
+significant accounting policies is included in Note 2 to the audited financial
+statements included on Form 10-K for the year ended November&nbsp;30, 2009 as 
+filed with the United
+States Securities and Exchange Commission. Management believes that the 
+application of these
+policies on a consistent basis enables the Company to provide useful and 
+reliable financial
+information about our operating results and financial condition.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The preparation of 
+financial statements in conformity with generally accepted accounting principles
+requires management to make estimates and assumptions that affect the reported 
+amounts of assets
+and liabilities and disclosure of contingent assets and liabilities at the date 
+of the financial
+statements and the reported amounts of revenues and expenses during the 
+reporting period. Actual
+results may differ from those estimates.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Overview</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Going Concern and 
+Liquidity Problems</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our auditors have included an explanatory 
+paragraph in their audit opinion with respect to our
+consolidated financial statements at November&nbsp;30, 2009. The paragraph 
+states that our recurring
+losses from operations and resulting continued dependence on access to external 
+financing raise
+substantial doubts about our ability to continue as a going concern. 
+Furthermore, the factors
+leading to and the existence of the explanatory paragraph may adversely affect 
+our relationship
+with customers and suppliers and have an adverse effect on our ability to obtain
+financing.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our company has experienced operating losses 
+over the past several years. We do not have
+sufficient working capital to sustain our operations. We have been unable to 
+generate sufficient
+revenues to sustain our operations. If no additional funds are received, we will
+be forced to rely
+on existing oil and gas revenue and upon additional funds which may or may not 
+be loaned by an
+affiliate to preserve the integrity of the corporate entity. No formal 
+commitments or arrangements
+currently exist with the affiliate to advance or loan funds to the Company. In 
+the event we are
+unable to acquire sufficient funds, the Company&#146;s ongoing operations will 
+be negatively impacted
+and we may not be able to continue as a going concern and we may have to curtail
+or terminate our
+operations and liquidate our business.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Results Of 
+Operations</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">For the quarter ended
+February&nbsp;28, 2010 we had a net loss of $48,240 as compared to a net loss
+of $127,959 for the same quarter last year. The components of these results are 
+explained in the
+following revenue and expenses explanations.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Revenue- </B>Total
+revenue increased $7,843, 54.0%, from $14,525 for the three months ended
+February&nbsp;28, 2009 to $22,368 for the three months ended February&nbsp;28, 
+2010.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The average price per MBTU increased $1.67 
+and the MBTU sold decreased 900.42 from the quarter
+ended February&nbsp;28, 2009. The average price per barrel increased $38.29 and 
+the quantity sold
+increased by 94.40 barrels from the quarter ended February&nbsp;28, 2009. The 
+increase in the barrels
+sold is attributable to increased production on both the Johnson No.&nbsp;1-H 
+and Johnson No.&nbsp;2-H. The
+decrease in the quantity of gas sold is primarily attributable to the decline in
+production from
+both the Johnson No.&nbsp;1-H and Johnson No.&nbsp;2-H.
+</DIV>
+<P align="center" style="font-size: 10pt"><!-- Folio -->4<!-- /Folio -->
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#tocpage">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="28%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+<TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Gas</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">MBTU</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Price/</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Oil</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Bbls</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Price/</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid 
+#000000">Sales</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid 
+#000000">Sold</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid 
+#000000">MBTU</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid 
+#000000">Sales</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid 
+#000000">Sold</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+<TD nowrap align="center" colspan="2" style="border-bottom: 1px solid 
+#000000">Bbl</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px"><B>February&nbsp;28, 
+2010</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">12,103</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,947.58</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">6.21</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">10,265</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">140.05</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">73.29</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+<TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px"><B>February&nbsp;28, 
+2009</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">12,927</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,848.00</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">4.54</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">1,598</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">45.65</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">35.00</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+<TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">3 Month 
+Change</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px"><B>2010 vs 
+2009</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Amount</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">$</TD>
+    <TD align="right">(824</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">(900.42</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">1.67</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>$</TD>
+    <TD align="right">8,667</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">94.40</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">38.29</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+<TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Percentage</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD nowrap align="right">-6.37</TD>
+    <TD nowrap>%</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD nowrap align="right">-31.62</TD>
+    <TD nowrap>%</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">36.78</TD>
+    <TD nowrap>%</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">542.37</TD>
+    <TD nowrap>%</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">206.79</TD>
+    <TD nowrap>%</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">109.40</TD>
+    <TD nowrap>%</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As the above table shows, gas revenue 
+decreased 6.4% and oil revenue increased 542.4%
+from fiscal year 2009.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Expenses- </B>The 
+components of our expenses for the first quarter ended February&nbsp;28, 2010
+and February
+28, 2009 are as follows:
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" 
+width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="64%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">%</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2">Increase</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid 
+#000000">2010</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid 
+#000000">2009</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="2" style="border-bottom: 1px solid 
+#000000">(Decrease)</TD>
+<TD>&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Lease operating and 
+taxes</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">8,150</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">11,760</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD nowrap align="right">-30.70</TD>
+    <TD nowrap>%</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">General and 
+administrative</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">66,408</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">128,329</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD nowrap align="right">-48.25</TD>
+    <TD nowrap>%</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Depreciation, 
+depletion, amortization., &#038; accretion</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,991</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,395</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD align="right">24.89</TD>
+    <TD nowrap>%</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+<TD nowrap colspan="2" align="right" style="border-top: 1px solid 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:30px; text-indent:-15px">Total 
+expenses</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">77,549</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">$</TD>
+    <TD align="right">142,484</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">&nbsp;</TD>
+    <TD nowrap align="right">-45.57</TD>
+    <TD nowrap>%</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+        <TD nowrap colspan="2" align="right" style="border-top: 3px double 
+#000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lease operating expenses decreased $3,610 
+which is primarily attributable to the decline
+in gas production.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;General and administrative expenses decreased
+$61,920. The decrease is attributable to lower
+professional fees of $50,927, lower payroll expense of $9,011 and lower expenses
+in all other
+categories totaling $1,982.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Depreciation, depletion, amortization and 
+accretion decreased $596. The decrease in
+depreciation, depletion and amortization expense of $596 is attributable to the 
+lower oil and gas
+property values. Accretion expense of $255 remained the same as last year.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other income for the quarter ended
+February&nbsp;28, 2010 consists of a partial recovery of losses
+sustained when a former employee forged Company checks for personal use. On 
+May&nbsp;26, 2000, the
+former employee was sentenced to three years probation. As part of the 
+sentencing he was required
+to make restitution to the Company in the amount of $152,915.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We have not recorded any income taxes for the
+three months ended February&nbsp;28, 2010 because of
+our continued operating losses. Also, since there is continued uncertainty as to
+the realization
+of a tax asset, we have not recorded any tax benefit.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Liquidity And 
+Capital Resources</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The Company had a 
+cash balance of $8,890 as of February&nbsp;28, 2010. Our current ratio at 
+February&nbsp;28,
+2010 was .08:1, and we have no long-term debt other than our asset retirement 
+obligation of
+$21,276. As of February&nbsp;28, 2010, our stockholders&#146; deficit was 
+$455,305. Our cash provided by
+operations totaled $9,193 for the quarter ended February&nbsp;28, 2010 while 
+cash used for operations
+totaled $107,871 for the quarter ended February
+28, 2009. This represents a decrease of $117,064 in cash used for operating 
+activities. There were
+no investment activities for the quarters ended February&nbsp;28, 2010 and 2009.
+Net advances from
+Gulftex decreased $5,630 during the quarter ended February&nbsp;28, 2010 and 
+increased $106,243 during
+the quarter ended February&nbsp;28, 2009.
+</DIV>
+<P align="center" style="font-size: 10pt"><!-- Folio -->5<!-- /Folio -->
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#tocpage">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Plan Of Operation
+For The Future</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">In the past we have 
+primarily acquired producing oil and gas properties with opportunities for
+future development and contracted well operations to contractors. Currently, our
+primary focus is
+to secure additional capital through business alliances with third parties or 
+other debt/equity
+financing arrangements to acquire producing oil and gas leases and wells,
+acquire additional oil
+and gas prospect leases and to acquire an exploration company that can also act 
+as an operator of
+our wells. However, we cannot assure you that we will be able to raise 
+sufficient funds to execute
+our plans or that if successful in securing the funds our actual results will 
+improve.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">We expect that the 
+principal source of funds in the near future will be from oil and gas revenues
+and advances from an affiliate. We have not yet established an ongoing source of
+revenue sufficient
+to cover our operating costs and continue as a going concern. Management&#146;s 
+plan is to obtain
+operating loans from an affiliate to meet its minimal operating expenses (no 
+formal commitments or
+arrangements currently exist with the affiliate to advance or loan funds to the 
+Company) and seek
+equity and/or debt financing. Any such additional funding will be done on an 
+&#147;as needed&#148; basis and
+will only be done in those instances in which we believe such additional 
+expenditures will increase
+our profitability. However, actual results may differ from management&#146;s 
+plan and the amount may be
+material.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Our ability to 
+acquire additional properties or equipment is strictly contingent upon our 
+ability
+to locate adequate financing or equity to pay for these additional properties or
+equipment. There
+can be no assurance that we will be able to obtain the opportunity to buy 
+properties or equipment
+that are suitable for our investment or that we may be able to obtain financing 
+or equity to pay
+for the costs of these additional properties or equipment at terms that are 
+acceptable to us..
+Additionally, if economic conditions justify the same, we may hire additional 
+employees although we
+do not currently have any definite plans to make additional hires.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">The oil and gas 
+industry is subject to various trends. In particular, at times crude oil prices
+increase in the summer, during the heavy travel months, and are relatively less 
+expensive in the
+winter. Of course, the prices obtained for crude oil are dependent upon numerous
+other factors,
+including the availability of other sources of crude oil, interest rates, and 
+the overall health of
+the economy. We are not aware of any specific trends that are unusual to our 
+company, as compared
+to the rest of the oil and gas industry.
+</DIV>
+<DIV align="left">
+<A name="108"></A>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;3. 
+Quantitative And Qualative Disclosures About Market Risk.</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Not required for 
+smaller reporting companies.
+</DIV>
+<DIV align="left">
+<A name="109"></A>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>Item&nbsp;4T. 
+Controls and Procedures</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Disclosure Controls 
+and Procedures
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Our management 
+evaluated, with the participation of Tim Burroughs our Chief Executive Officer
+(CEO)/Chief Financial Officer (CFO), the effectiveness of the design and 
+operation of our
+disclosure controls and procedures (as defined in Rules&nbsp;13a-15(e) and 15d-
+15(e) under the
+Securities Exchange Act of 1934, as amended (the &#147;Exchange Act&#148;) as of
+the end of the quarter
+covered by this quarterly report on Form 10-Q. Based on this evaluation, 
+management has concluded
+that, as of February&nbsp;28, 2010 our disclosure controls and procedures were 
+effective to ensure that
+the information we are required to disclose in reports that we file or submit 
+under the Exchange
+Act is recorded, processed, summarized and reported. Management is currently 
+looking for a
+professional accounting person to become part of its management team in an 
+effort to provide not
+only complete but timely reports to the Securities and Exchange Commission as 
+required by its rules
+and forms.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Internal Control Over
+Financial Reporting
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">There have not been 
+any changes in the Company&#146;s internal control over financial reporting (as 
+such
+term is defined in Rules&nbsp;13a-15(f) and 15d-15(f) under the Exchange Act) 
+during the fiscal quarter
+to which this report relates that have materially affected, or are reasonably 
+likely to materially
+affect, the Company&#146;s internal control over financial reporting. As a 
+result, no corrective actions
+were required or undertaken.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Limitations on the
+Effectiveness of Controls. </B>The Company&#146;s management, including the 
+CEO/CFO,
+does not expect that it&#146;s Disclosure Controls or its Internal Controls will
+prevent all errors and
+all fraud. A control system, no matter how well conceived and operated, can 
+provide only
+reasonable, not absolute,
+</DIV>
+<P align="center" style="font-size: 10pt"><!-- Folio -->6<!-- /Folio -->
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#tocpage">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">assurance that the 
+objectives of the control system are met. Further, the
+design of a control system must reflect the fact that there are resource 
+constraints, and the
+benefits of controls must be considered relative to their costs. Because of the 
+inherent
+limitations in all control systems, no evaluation of controls can provide 
+absolute assurance that
+all control issues and instances of fraud, if any, within the Company have been 
+detected. These
+inherent limitations include the realities that judgments in decision-making can
+be faulty, and
+that breakdowns can occur because of simple error or mistake. Additionally, 
+controls can be
+circumvented by the individual acts of some persons, by collusion of two or more
+people, or by
+management override of the control. The design of any system of controls also is
+based in part upon
+certain assumptions about the likelihood of future events, and there can be no 
+assurance that any
+design will succeed in achieving its stated goals under all potential future 
+conditions; over time,
+control may become inadequate because of changes in conditions, or the degree of
+compliance with
+the policies or procedures may deteriorate. Because of the inherent limitations 
+in a cost-effective
+control system, misstatements due to error or fraud may occur and not be 
+detected.
+</DIV>
+<DIV align="left">
+<A name="110"></A>
+</DIV>
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>PART II. OTHER 
+INFORMATION</B>
+</DIV>
+<DIV align="left">
+<A name="111"></A>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Item&nbsp;1. Legal 
+Proceedings
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;None.
+</DIV>
+<DIV align="left">
+<A name="112"></A>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Item&nbsp;2. Changes 
+in Securities
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;None.
+</DIV>
+<DIV align="left">
+<A name="113"></A>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Item&nbsp;3. Defaults
+Upon Senior Securities
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;None.
+</DIV>
+<DIV align="left">
+<A name="114"></A>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Item&nbsp;5. Other 
+Information
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Due to the current financial condition of the
+Company, two of our officers, Tim Burroughs and
+Sherri Cecotti have agreed, effective February&nbsp;16, 2010, to draw no salary 
+until such time as the
+revenues of the Company are sufficient to sustain the operations of the Company 
+including the
+payment of their salaries. The forbearance of the above officer&#146;s salary is
+a complete forbearance
+and not a deferral.
+</DIV>
+<DIV align="left">
+<A name="115"></A>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Item&nbsp;6. Exhibits
+and Reports On Form&nbsp;8-K
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;Exhibits:
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 
+2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;31.1 Certification of Chief Executive 
+Officer/Chief Financial Officer pursuant to 18 U.S.C.
+Section&nbsp;1350, as adopted pursuant to Section&nbsp;302 of the Sarbanes-Oxley
+Act of 2002.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 
+2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;32.1 Certification of Chief Executive 
+Officer/Chief Financial Officer pursuant to 18 U.S.C.
+Section&nbsp;1350, as adopted pursuant to Section&nbsp;906 of the Sarbanes-Oxley
+Act of 2002.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;Reports on Form 8-K:
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 
+2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;None
+</DIV>
+<P align="center" style="font-size: 10pt"><!-- Folio -->7<!-- /Folio -->
+</DIV>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#tocpage">Table of 
+Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left">
+<A name="116"></A>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">SIGNATURES
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In accordance with the requirements of the 
+Exchange Act, the registrant caused this report to
+be signed by the undersigned, hereunto duly authorized.
+</DIV>
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size:
+10pt">
+<TR>
+    <TD width="0%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="63%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">TBX RESOURCES, INC.<BR>
+<BR>
+<BR>
+DATE: September&nbsp;2, 2010<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3">SIGNATURE: /s/ Tim Burroughs
+<DIV align="left" style="border-bottom: 1px solid #000000; font-size: 1px; 
+width: 100%; margin-left: 75px"></DIV>
+</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">TIM BURROUGHS, PRESIDENT/&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+<TD align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">CHIEF FINANCIAL OFFICER&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+<P align="center" style="font-size: 10pt"><!-- Folio -->8<!-- /Folio -->
+</DIV>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31.1
+<SEQUENCE>2
+<FILENAME>d75881exv31w1.htm
+<DESCRIPTION>EX-31.1
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>exv31w1</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 
+12pt"><B>Exhibit&nbsp;31.1</B>
+</DIV>
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>CERTIFICATION 
+PURSUANT TO<BR>
+18 U.S.C. SECTION 1350,<BR>
+AS ADOPTED PURSUANT TO<BR>
+SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I, Tim Burroughs, certify that:
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.&nbsp;I have reviewed this quarterly report
+on Form 10-Q of TBX Resources, Inc.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.&nbsp;Based on my knowledge, this quarterly
+report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements 
+made, in light of
+the circumstances under which such statements were made, not misleading with 
+respect to the period
+covered by this quarterly report.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.&nbsp;Based on my knowledge, the financial 
+statements, and other financial information included
+in this quarterly report, fairly present in all material respects the financial 
+condition, results
+of operations and cash flows of the registrant as of, and for, the periods 
+presented in this
+quarterly report.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.&nbsp;I am responsible for establishing and
+maintaining disclosure controls and procedures (as
+defined in Exchange Act Rule&nbsp;13a-14 and 15d-14) for the registrant and 
+have:
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 
+2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a) designed such disclosure controls and 
+procedures, or caused such disclosure controls
+and procedures to be designed under my supervision, to ensure that material 
+information relating
+to the registrant, including its consolidated subsidiaries, is made known to us 
+by others within
+those entities, particularly during the period in which this quarterly report is
+being prepared;
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 
+2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b) designed such internal control over 
+financial reporting, or caused such internal
+control over financial reporting to be designed under my supervision, to provide
+reasonable
+assurance regarding the reliability of financial reporting and the preparation 
+of financial
+statements for external purposes in accordance with generally accepted 
+accounting principles;
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 
+2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c) evaluated the effectiveness of the 
+registrant&#146;s disclosure controls and procedures and
+presented in this report my conclusions about the effectiveness of the 
+disclosure controls and
+procedures, as of the end of the period covered by this report based on such 
+evaluation; and
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 
+2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d) disclosed in this report any change in the
+registrant&#146;s internal control over financial
+reporting that occurred during the registrant&#146;s most recent fiscal quarter 
+(the registrant&#146;s
+fourth quarter in the case of an annual report) that has materially affected, or
+is reasonably
+likely to materially affect, the registrant&#146;s internal control over 
+financial reporting.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.&nbsp;I have disclosed, based on our most 
+recent evaluation, to the registrant&#146;s auditors and the
+audit committee of registrant&#146;s board of directors (or persons performing 
+the equivalent function):
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 
+2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a) all significant deficiencies in the design
+or operation of internal controls which
+could adversely affect the registrant&#146;s ability to record, process, 
+summarize and report
+financial data and have identified for the registrant&#146;s auditors any 
+material weaknesses in
+internal controls; and
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 
+2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b) any fraud, whether or not material, that 
+involves management or other employees who
+have a significant role in the registrant&#146;s internal controls.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Dated this 2nd day of
+September&nbsp;2010
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">/s/ Tim Burroughs
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Tim Burroughs, 
+President<BR>
+Principal Executive and Financial Officer
+</DIV>
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-32.1
+<SEQUENCE>3
+<FILENAME>d75881exv32w1.htm
+<DESCRIPTION>EX-32.1
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>exv32w1</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 
+12pt"><B>Exhibit&nbsp;32.1</B>
+</DIV>
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>CERTIFICATION 
+PURSUANT TO<BR>
+18 U.S.C. SECTION 1350,<BR>
+AS ADOPTED PURSUANT TO<BR>
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002</B>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In connection with the Quarterly Report of 
+TBX Resources, Inc. (the &#147;<B><I>Company</I></B>&#148;) on Form 10-Q
+for the period ended February&nbsp;28, 2010, as filed with the Securities and 
+Exchange Commission on the
+date hereof (the &#147;<B><I>Report</I></B>&#148;), I, Tim Burroughs, President,
+Chief Executive Officer and Principal
+Executive and Financial Officer of the Company, certify, pursuant to 18 U.S.C. 
+&#167; 1350, as adopted
+pursuant to Section&nbsp;906 of the Sarbanes-Oxley Act of 2002, that to my 
+knowledge:
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.&nbsp;The Report fully complies with the 
+requirements of Section 13(a) or 15(d) of the Securities
+Exchange Act of 1934, as applicable; and
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 
+6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.&nbsp;The information contained in the 
+Report fairly presents, in all material respects, the
+financial condition and results of operations of the Company at the dates and 
+for the periods
+indicated.
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Dated this 2nd day of
+September&nbsp;2010
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">By: /s/ Tim 
+Burroughs, President
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Tim Burroughs, 
+President<BR>
+Principal Executive and Financial Officer
+</DIV>
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

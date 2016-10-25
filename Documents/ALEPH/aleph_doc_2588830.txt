@@ -1,0 +1,931 @@
+
+<SEC-DOCUMENT>0001102624-16-003197.txt : 20160803
+<SEC-HEADER>0001102624-16-003197.hdr.sgml : 20160803
+<ACCEPTANCE-DATETIME>20160803065529
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+6-K
+2
+20160803
+0001102624-16-003197
+20160803
+20160803
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: GOLD & SILVER ORES [1040]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+ENDEAVOUR SILVER CORP
+0001277866
+000000000
+1231
+A1
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 001-33153
+FILM NUMBER:
+6-K
+1934 Act
+161802180
+BUSINESS ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+700 WEST PENDER STREET
+SUITE 301
+VANCOUVER
+A1
+V6C 1G8
+604-685-9775
+MAIL ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+FORMER COMPANY:
+700 WEST PENDER STREET
+SUITE 301
+VANCOUVER
+A1
+V6C 1G8
+FORMER CONFORMED NAME: ENDEAVOUR GOLD CORP
+DATE OF NAME CHANGE:
+20040128
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>endeavoursilvercorp6k.htm
+<DESCRIPTION>ENDEAVOUR SILVER CORP. 6-K
+<TEXT>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+ <title>Edgar-6K</title>
+ <!-- IMPORTANT NOTE: This form must comply with SEC's requirements for EDGAR 
+online submissions,
+ which can be found in "EDGAR Filer Manual (Volume II)" or online at 
+"http://www.sec.gov/info/edgar/edmanuals.htm" -->
+</head>
+<body>
+<div style="width:80%; margin-left:auto; margin-right:auto;">
+<div style="text-align:center;height:20px"> </div>
+<div style="text-align:center;padding:1px;font-weight:bold;">UNITED 
+STATES</div>
+ <div style="text-align:center;padding:1px;font-weight:bold;">SECURITIES AND 
+EXCHANGE COMMISSION</div>
+ <div style="text-align:center;padding:1px">Washington, D.C. 20549</div>
+ <hr style="width:350px" size="1" />
+<div style="text-align:center;height:20px"> </div>
+ <div style="text-align:center;padding:1px;font-weight:bold;">FORM 6-K</div>
+<div style="text-align:center;height:20px"> </div>
+ <div style="text-align:center;padding:1px;font-weight:bold;">Report of Foreign 
+Private Issuer</div>
+ <div style="text-align:center;padding:1px;font-weight:bold;">Pursuant to Rule 
+13A-16 or 15D-16<br />of the Securities Exchange Act of 1934</div>
+<div style="text-align:center;height:20px"> </div>
+ <div style="text-align:center;padding:1px;">For the month of <font>August 
+2016</font></div>
+<div style="text-align:center;height:20px"> </div>
+ <div style="text-align:center;padding:1px;font-weight:bold;">Commission File 
+Number: <font>001-33153</font></div>
+<div style="text-align:center;height:20px"> </div>
+ <div style="text-align:center;padding:1px;font-weight:bold;">Endeavour Silver 
+Corp.</div>
+ <div style="text-align:center;padding:1px;">(Translation of registrant's name 
+into English)</div>
+<div style="text-align:center;height:20px"> </div>
+ <div style="text-align:center;padding:1px;font-weight:bold;">700 WEST PENDER 
+STREET, SUITE 301, VANCOUVER</div>
+ <div style="text-align:center;padding:1px;">(Address of principal executive 
+offices)</div>
+<div style="text-align:center;height:20px"> </div>
+<table style="padding:0px;width:100%">
+         <tr>
+             <td style="width:760px; text-align:left; vertical-align:middle;" 
+colspan="2">
+                 Indicate by check mark whether the registrant files or will 
+file annual reports under cover of Form 20-F or Form 40-F.
+             </td>
+        </tr>
+         <tr>
+            <td colspan="2">
+                <div style="text-align:center;height:10px"> </div>
+            </td>
+         </tr>
+        <tr>
+            <td style="width:140px;">
+                <div style="margin-left:60px;padding:1px;">Form 20-F</div>
+            </td>
+             <td style="width:auto; text-align:left; vertical-align:middle;">
+                <div style="width:1.2em; height:1.2em; margin-left:1px; 
+float:left;padding:1px;border:solid 1px #000000; font-size:0.8em; text-
+align:center; font-weight:bold;" id="Div4">&nbsp;</div>
+            </td>
+         </tr>
+<tr>
+            <td style="width:140px;">
+                <div style="margin-left:60px;padding:1px;">Form 40-F</div>
+            </td>
+             <td style="width:auto; text-align:left; vertical-align:middle;">
+                <div style="width:1.2em; height:1.2em; margin-left:1px; 
+float:left;padding:1px;border:solid 1px #000000; font-size:0.8em; text-
+align:center; font-weight:bold;" id="Div5">X</div>
+            </td>
+         </tr>
+         <tr>
+            <td colspan="2">
+                <div style="text-align:center;height:10px"> </div>
+            </td>
+         </tr>
+     </table>
+<table style="padding:0px;width:100%">
+         <tr>
+             <td style="width:760px; text-align:left; vertical-align:middle;">
+                 Indicate by check mark if the registrant is submitting the Form
+6-K in paper as permitted by Regulations S-T Rule 101(b)(1):
+             </td>
+             <td style="width:auto; text-align:left; vertical-align:middle;">
+                <div style="width:1.2em; height:1.2em; margin-left:1px; 
+float:left;padding:1px;border:solid 1px #000000; font-size:0.8em; text-
+align:center; font-weight:bold;" id="Div1">&nbsp;</div>
+            </td>
+         </tr>
+         <tr>
+            <td colspan="2">
+                <div style="text-align:center;height:10px"> </div>
+            </td>
+         </tr>
+         <tr>
+            <td colspan="2">
+                <div style="margin-
+left:60px;padding:1px;"><strong>Note</strong>: Regulation S-T Rule 101(b)(1) 
+only permits the submission in paper of a Form 6-K if submitted solely to 
+provide an attached annual report to security holders.</div>
+            </td>
+         </tr>
+         <tr>
+            <td colspan="2">
+                <div style="text-align:center;height:10px"> </div>
+            </td>
+         </tr>
+     </table>
+<table style="padding:0px;width:100%">
+         <tr>
+             <td style="width:760px; text-align:left; vertical-align:middle;">
+                 Indicate by check mark if the registrant is submitting the Form
+6-K in paper as permitted by Regulations S-T Rule 101(b)(7):
+             </td>
+             <td style="width:auto; text-align:left; vertical-align:middle;">
+                <div style="width:1.2em; height:1.2em; margin-left:1px; 
+float:left;padding:1px;border:solid 1px #000000; font-size:0.8em; text-
+align:center; font-weight:bold;" id="form-6k-in-paper">&nbsp;</div>
+            </td>
+         </tr>
+         <tr>
+            <td colspan="2">
+                <div style="text-align:center;height:10px"> </div>
+</td>
+         </tr>
+         <tr>
+            <td colspan="2">
+                <div style="margin-
+left:60px;padding:1px;"><strong>Note</strong>: Regulation S-T Rule 101(b)(7) 
+only permits the submission in paper of a Form 6-K if submitted to furnish a 
+report or other document that the registrant foreign private issuer must furnish
+and make public under the laws of the jurisdiction in which the registrant is 
+incorporated, domiciled or legally organized (the registrant's "home country"), 
+or under the rules of the home country exchange on which the registrant's 
+securities are traded, as long as the report or other document is not a press 
+release, is not required to be and has not been distributed to the registrant's 
+security holders, and, if discussing a material event, has already been the 
+subject of a Form 6-K submission or other Commission filing on EDGAR.</div>
+            </td>
+         </tr>
+         <tr>
+            <td colspan="2">
+                <div style="text-align:center;height:10px"> </div>
+            </td>
+         </tr>
+     </table>
+<table style="padding:0px;width:100%">
+         <tr>
+             <td style="width:760px; text-align:left; vertical-align:middle;" 
+colspan="2">
+                 Indicate by check mark whether by furnishing the information 
+contained in this Form, the registrant is also thereby furnishing the 
+information to the Commission pursuant to Rule 12g3-2(b) under the Securities 
+Exchange Act of 1934.
+             </td>
+        </tr>
+         <tr>
+            <td colspan="2">
+                <div style="text-align:center;height:10px"> </div>
+            </td>
+         </tr>
+        <tr>
+            <td style="width:50px;">
+                <div style="margin-left:60px;padding:1px;">Yes</div>
+            </td>
+             <td style="width:auto; text-align:left; vertical-align:middle;">
+                <div style="width:1.2em; height:1.2em; margin-left:1px; 
+float:left;padding:1px;border:solid 1px #000000; font-size:0.8em; text-
+align:center; font-weight:bold;" id="Div2">&nbsp;</div>
+            </td>
+         </tr>
+        <tr>
+            <td style="width:50px;">
+                <div style="margin-left:60px;padding:1px;">No</div>
+            </td>
+             <td style="width:auto; text-align:left; vertical-align:middle;">
+                <div style="width:1.2em; height:1.2em; margin-left:1px; 
+float:left;padding:1px;border:solid 1px #000000; font-size:0.8em; text-
+align:center; font-weight:bold;" id="Div3">X</div>
+            </td>
+         </tr>
+     </table>
+<div style="text-align:center;height:20px"> </div>
+ <div style="padding:1px;">If "Yes" is marked, indicate below the file number 
+assigned to the registrant in connection with Rule 12g3-2(b): <br />
+82-<font></font>
+ </div>
+ <div style="text-align:center;height:20px"> </div>
+<hr />
+<div style="text-align:center;height:20px"> </div>
+  <div style="text-align:center;padding:1px;font-weight:bold;">Signature</div>
+  <p>Pursuant to the requirements of the Securities Exchange Act of 1934, the 
+registrant has duly caused this report to be signed on its behalf by the 
+undersigned hereunto duly authorized.</p>
+  <table style="width:100%">
+   <tr>
+    <td style="width:30%;text-align:left">
+     <font>Dated: </font><font>August 3, 2016</font>
+    </td>
+    <td style="width:40%"> </td>
+    <td style="width:30%;text-align:left">
+     <font style="font-weight:bold">Endeavour Silver Corp.</font><br /><br />
+     <font>By:&#160;</font><font style="text-
+decoration:underline">/s/&#160;&#160;Bradford Cooke</font><br />
+     <font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font>Bradford 
+Cooke</font><br />
+     <font> &nbsp;&nbsp;&nbsp&nbsp;&nbsp;</font><font style="font-
+style:italic">CEO</font>
+    </td>
+   </tr>
+  </table>
+<hr />
+<div style="text-align:center;height:20px"> </div>
+ <div style="text-align:center;padding:1px;font-weight:bold;">Exhibit 
+Index</div>
+<table style="width:100%;">
+  <tr>
+   <td style="text-align:center;text-decoration:underline;padding:1px;font-
+weight:bold;width:35%">Exhibit</td>
+   <td style="width:30%"> </td>
+   <td style="text-align:center;text-decoration:underline;padding:1px;font-
+weight:bold;width:35%">Description of Exhibit</td>
+  </tr>
+  <tr>
+   <td style="text-align:center;padding:1px;">99.1</td>
+   <td> </td>
+   <td style="text-align:center;padding:1px;">
+    <a href="exhibit99.htm">Press Release of <font>Endeavour Silver Corp. dated 
+August 3, 2016</font></a>
+   </td>
+  </tr>
+ </table>
+<div style="text-align:center;height:20px"> </div>
+</div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>exhibit99.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<p></p>
+<b>Endeavour Silver Reports Financial Results for Second Quarter, 2016; 
+Conference Call at 10am PDT (1pm EDT) Today</b>
+<p>
+VANCOUVER, BC -- (Marketwired - August 03, 2016) - Endeavour Silver Corp. (NYSE:
+EXK) (TSX: EDR) released today its financial results for the second quarter 
+ended June 30, 2016. Endeavour owns and operates three underground silver-gold 
+mines in Mexico: the Guanacevi mine in Durango state, and the Bolanitos and El 
+Cubo mines in Guanajuato state.
+</p>
+<p>
+(Please click here for an audio review of Q2 highlights).
+</p>
+<p>
+The Company's financial performance in the Second Quarter, 2016 improved 
+compared to the Second Quarter, 2015. Revenues were down due to lower silver 
+production and lower silver prices, but earnings were up as a result of lower 
+operating costs. Management successfully strengthened the balance sheet over the
+past six months through two ATM equity offerings and improved free cash flow.
+</p>
+<p>
+Highlights of Second Quarter 2016 (Compared to Second Quarter 2015)
+</p>
+<p>
+Financial
+</p>
+<pre>
+--  Net earnings of $1.7 million(1) ($0.01 per share) compared to a net loss
+    of $1.0 million (loss of $0.01 per share)
+--  EBITDA(2) decreased 7% to $10.1 million
+--  Cash flow from operations before working capital changes decreased 15%
+    to $9.4 million
+--  Mine operating cash flow before taxes(1) increased 5% to $17.3 million
+--  Revenue decreased 7% to $44.5 million
+--  Realized silver price increased 1% to $16.54 per ounce (oz) sold
+--  Realized gold price increased 8% to $1,289 per oz sold
+--  Cash costs(2) decreased 38% to $5.37 per oz silver payable (net of gold
+    credits)
+--  All-in sustaining costs (AISC)(2) decreased 38% to $10.53 per oz silver
+    payable (net of gold credits)
+--  Raised net proceeds of $30.8 million in Q2, 2016 through two At-the-
+    Market (ATM) equity financings. Endeavour completed its second ATM
+    equity offering subsequent to quarter end, raising an additional $13.9
+    million in net proceeds
+--  Cash increased 178% to $56.8 million and working capital increased 318%
+    to $72.1 million from year end
+</pre>
+<p>
+Operations
+</p>
+<pre>
+--  Silver production decreased 14% to 1,551,851 oz
+--  Gold production increased 17% to 15,649 oz
+--  Silver equivalent production was 2.7 million oz (at a 75:1 silver: gold
+    ratio)
+--  Silver oz sold down 22% to 1,493,790 oz
+--  Gold oz sold up 11% to 15,364 oz
+--  Bullion inventory at quarter-end included 113,064 oz silver and 221 oz
+    gold
+--  Concentrate inventory at quarter-end included 41,209 oz silver and 903
+    oz gold
+--  Acquired the El Compas gold-silver mine project in Zacatecas, Mexico
+--  Outlined several prospective veins over a seven km by seven km area at
+    the Terronera project
+--  Raised 2016 production guidance to 9.0 million to 9.8 million oz silver
+    equivalent, increased capital budget to $17.4 million and exploration
+    budget to $10.1 million to accelerate growth projects, including 23,000
+    metres extra drilling
+</pre>
+<pre>
+1.  The Consolidated Interim Financial Statements and Management's
+    Discussion & Analysis can be viewed on the Company's website at
+    www.edrsilver.com, on SEDAR at www.sedar.com and EDGAR at www.sec.gov.
+    All amounts are reported in US$
+2.  Mine operating cash flow, EBITDA, cash costs and all-in sustaining costs
+    are non-IFRS measures. Please refer to the definitions in the Company's
+    Management Discussion & Analysis
+</pre>
+<p>
+Endeavour CEO Bradford Cooke commented, "Having successfully minimized our all-
+in sustaining costs and boosted our free cash flows in recent quarters, 
+management returned its attention to optimizing near-term production and long-
+term growth in Q2, 2016. Our production is well ahead of plan for the year and 
+as a result, we revised our operating plan and raised our production guidance by
+about 13% for 2016.
+</p>
+<p>
+"Thanks to the turn-around in precious metal prices, we were able to 
+substantially boost our cash and working capital and return some of our focus to
+exploration, development and acquisitions. Endeavour made its first acquisition 
+in four years with the purchase of Oro Silver and its high quality El Compas 
+gold-silver project in Zacatecas. We also sampled several new high grade veins 
+at Terronera.
+</p>
+<p>
+"Upcoming catalysts for the second half of 2016 include permitting a new mine at
+Guanacevi, developing a new ore-body at Bolanitos, evaluating a production ramp-
+up at El Cubo, exploration results across all projects, advancing updated 
+resource estimates and engineering studies at Terronera and El Compas, and 
+adding to our land position in Zacatecas."
+</p>
+<p>
+Operations Update, Revised Operating Plan
+</p>
+<p>
+At Guanacevi, throughput of 1,085 tonnes per day (tpd) in Q2, 2016 lagged behind
+plan as the new mining contractor focused on mine development in order to 
+provide better stope access in H2, 2016. Ore grades were lower and metal
+recoveries were higher compared to Q1, 2016. Management expects production to 
+meet the low range of 2016 production guidance.
+</p>
+<p>
+The Company plans to invest $2.8 million in H2, 2016, part of a three-year, $8.4
+million capital investment, to commence mine development and ramp down into the 
+Santa Cruz Sur ore-body to access an indicated resource of over 650,000 tonnes 
+grading 250 g/t silver and 0.70 g/t gold. The currently defined ore-body is open
+to the south and at depth. Underground drilling is planned to continue exploring
+the mineralized zone once underground access is available.
+</p>
+<p>
+At Bolanitos, throughput averaging 1,498 tpd exceeded plan as mining at LL-
+Asunci&#243;n uncovered new extensions of the ore-body beyond the resource 
+blocks and also in and around historic mine workings. Ore grades were lower and 
+metal recoveries were higher compared to Q1, 2016. Management has revised 2016 
+production guidance higher to 900,000-1,000,000 oz silver and 24,000-26,000 oz 
+gold, with throughput decreasing to 800 tpd in H2, 2016 as originally guided.
+</p>
+<p>
+On July 11, 2016, the Company announced plans to invest $1.7 million capital in 
+H2, 2016 to develop the Plateros orebody located only 50 metres from the 
+existing LL-Ascunci&#243;n mine workings. The development will access an 
+indicated resource of over 130,000 tonnes grading 116 g/t silver and 1.61 g/t 
+gold, still open at depth. Underground drilling is planned to continue exploring
+the mineralized zone once underground access is available.
+</p>
+<p>
+At El Cubo, throughput was above plan at 1,562 tpd as management elected to 
+continue mine development sufficient to sustain 1,500 tpd in Q2, 2016 and 1,000 
+tpd in H2, 2016 given the rising precious metal prices. Endeavour has also made 
+a decision not to ramp down production to care and maintenance by year-end as 
+previously guided, and various operating plans are under evaluation for 
+production to return to 1,500 tpd with additional mine development. Management 
+has revised the 2016 production guidance higher to 1,700,000-1,900,000 silver 
+ounces and 19,000-21,000 gold ounces.
+</p>
+<p>
+On July 11, 2016, the Company announced plans to invest $1.6 million in H2, 2016
+to extend the V-Asunci&#243;n ramp an additional 1.6 km in order to access an 
+indicated resource of more than 300,000 tonnes grading 141 g/t silver and 1.55 
+g/t gold. The V-Asunci&#243;n ore-body extends well south of the current mine 
+plan, but further evaluation work is needed before Endeavour can commit to any 
+additional development.
+</p>
+<p>
+Financial Results
+</p>
+<p>
+For the second quarter ended June 30, 2016, the Company generated revenue 
+totaling $44.5 million (2015 - $47.7 million). During the quarter, the Company 
+sold 1,493,790 silver oz and 15,364 gold oz at realized prices of $16.54 and 
+$1,289 per oz respectively, compared to sales of 1,912,595 silver oz and 13,797 
+gold oz at realized prices of $16.34 and $1,191 per oz respectively in Q2, 2015.
+</p>
+<p>
+After cost of sales of $31.6 million (2015 - $40.9 million), mine operating 
+earnings amounted to $12.9 million (2015 - $6.8 million) from mining and milling
+operations in Mexico. Excluding depreciation and depletion of $4.1 million (2015
+- $9.3 million), and share-based compensation of $0.2 million (2015 - $0.2 
+million), mine operating cash flow before taxes was $17.3 million (2015 - $16.4 
+million) in Q2, 2016. Net earnings were $1.7 million (2015 - net loss of $1.0 
+million) after exploration expense of $3.2 million (2015 - $2.6 million) and 
+corporate general and administrative costs of $1.9 million (2015 - $2.5 
+million).
+</p>
+<p>
+The falling Mexican peso and continued focus on cost reductions resulted in 
+lower consolidated operating costs, which fell 12% to $73.01 per tonne in Q2, 
+2016. This resulted in lower cash costs per oz, net of by-product credits (a 
+non-IFRS measure and a standard of the Silver Institute), which decreased 38% to
+$5.37 per oz of payable silver compared to $8.60 per oz in Q2, 2015. Similarly 
+the lower operating costs and lower exploration and development expenditures 
+resulted in all in sustaining costs (also a non-IFRS measure) decreasing 38% to 
+$10.53 per oz compared to Q2, 2015. Resuming mine development and exploration 
+programs will increase all in sustaining costs for the second half of the year.
+</p>
+<p>
+Cash holdings grew to $56.8 million and working capital at the end of Q2, 2016 
+rose to $71.2 million which is sufficient for the Company to meet its short and 
+medium term growth goals.
+</p>
+<p>
+Conference Call
+</p>
+<p>
+A conference call to discuss the results will be held on Wednesday, August 3 at 
+10am PDT (1pm EDT). To participate in the conference call, please dial the 
+following:
+</p>
+<p>
+Toll-free in Canada and the US: 1-800-319-4610
+</p>
+<p>
+Local Vancouver: 604-638-5340
+</p>
+<p>
+Outside of Canada and the US: 1-604-638-5340
+</p>
+<p>
+No pass-code is necessary to participate in the conference call.
+</p>
+<p>
+A replay of the conference call will be available by dialing 1-800-319-6413 in 
+Canada and the US (toll- free) or 1-604-638-9010 outside of Canada and the US. 
+The required pass-code is 00647 followed by the # sign. The audio replay and a 
+written transcript will also be made available on the Company's website at 
+www.edrsilver.com.
+</p>
+<p>
+About Endeavour - Endeavour is a mid-tier silver mining company focused on 
+growing production, reserves and resources in Mexico. Since start-up in 2004,
+Endeavour has posted nine consecutive years of accretive growth of its silver 
+mining operations. Endeavour's three silver-gold mines in Mexico combined with 
+its strategic acquisition and exploration programs should facilitate Endeavour's
+goal to become a premier senior silver producer.
+</p>
+<p>
+Cautionary Note Regarding Forward-Looking Statements
+</p>
+<p>
+This news release contains "forward-looking statements" within the meaning of 
+the United States private securities litigation reform act of 1995 and "forward-
+looking information" within the meaning of applicable Canadian securities 
+legislation. Such forward-looking statements and information herein include but 
+are not limited to statements regarding Endeavour's anticipated performance in 
+2014 and the timing and results of exploration drill programs. The Company does 
+not intend to, and does not assume any obligation to update such forward-looking
+statements or information, other than as required by applicable law.
+</p>
+<p>
+Forward-looking statements or information involve known and unknown risks, 
+uncertainties and other factors that may cause the actual results, level of 
+activity, performance or achievements of Endeavour and its operations to be 
+materially different from those expressed or implied by such statements. Such 
+factors include, among others, changes in national and local governments, 
+legislation, taxation, controls, regulations and political or economic 
+developments in Canada and Mexico; operating or technical difficulties in 
+mineral exploration, development and mining activities; risks and hazards of 
+mineral exploration, development and mining; the speculative nature of mineral 
+exploration and development, risks in obtaining necessary licenses and permits, 
+and challenges to the Company's title to properties; fluctuations in the prices 
+of commodities and their impact on reserves and resources as well as those 
+factors described in the section "risk factors" contained in the Company's most 
+recent form 40F/Annual Information Form filed with the S.E.C. and Canadian 
+securities regulatory authorities.
+</p>
+<p>
+Forward-looking statements are based on assumptions management believes to be 
+reasonable, including but not limited to: the continued operation of the 
+Company's mining operations, no material adverse change in the market price of 
+commodities, mining operations will operate and the mining products will be 
+completed in accordance with management's expectations and achieve their stated 
+production outcomes, and such other assumptions and factors as set out herein. 
+Although the Company has attempted to identify important factors that could 
+cause actual results to differ materially from those contained in forward-
+looking statements or information, there may be other factors that cause results
+to be materially different from those anticipated, described, estimated, 
+assessed or intended. There can be no assurance that any forward-looking 
+statements or information will prove to be accurate as actual results and future
+events could differ materially from those anticipated in such statements or 
+information. Accordingly, readers should not place undue reliance on forward-
+looking statements or information.
+</p>
+<pre>
+ENDEAVOUR SILVER CORP.
+COMPARATIVE HIGHLIGHTS
+----------------------------------------------------------------------------
+Three Months Ended June 30                     Six Months Ended June 30
+                             Q2 2016 Highlights
+                           %                                             %
+    2016        2015    Change                    2016        2015    Change
+----------------------------------------------------------------------------
+                                 Production
+----------------------------------------------------------------------------
+                                Silver ounces
+ 1,551,851   1,805,569   (14%)    produced     3,061,916   3,625,619   (16%)
+                                 Gold ounces
+   15,649      13,430     17%     produced       31,609      29,238     8%
+                               Payable silver
+ 1,511,109   1,761,926   (14%)     ounces      2,984,791   3,531,850   (15%)
+                                  produced
+                                Payable gold
+   15,200      13,122     16%      ounces        30,718      28,551     8%
+                                  produced
+                                   Silver
+                                 equivalent
+ 2,725,526   2,745,669   (1%)      ounces      5,432,591   5,672,279   (4%)
+                                 produced(1)
+                               Cash costs per
+    5.37        8.60     (38%)     silver         6.49        7.88     (18%)
+                                  ounce(2)
+                                    Total
+                                 production
+    8.30       13.88     (40%)    costs per       9.61       13.43     (28%)
+                                  ounce(2)
+                                   All -in
+                                 sustaining
+   10.53       16.86     (38%)    costs per      10.82       15.09     (28%)
+                                  ounce(2)
+                                  Processed
+  377,198     371,745     1%       tonnes       785,751     752,537     4%
+                                   Direct
+                                 production
+   73.01       82.80     (12%)    costs per      73.66       82.73     (11%)
+                                  tonne(2)
+                                 Silver co-
+    9.94       11.05     (10%)  product cash     10.41       10.85     (4%)
+                                  costs (2)
+                                  Gold co-
+    774         806      (4%)   product cash      823         784       5%
+                                  costs (2)
+----------------------------------------------------------------------------
+                                  Financial
+----------------------------------------------------------------------------
+                                 Revenue ($
+    44.5        47.7     (7%)     millions)       86.0        98.8     (13%)
+                                Silver ounces
+ 1,493,790   1,912,595   (22%)      sold       3,005,109   3,774,570   (20%)
+                                 Gold ounces
+   15,364      13,797     11%       sold         30,619      29,596     3%
+                                  Realized
+   16.54       16.34      1%    silver price     15.86       16.72     (5%)
+                                  per ounce
+                                Realized gold
+   1,289       1,191      8%      price per      1,254       1,207      4%
+                                    ounce
+                                Net earnings
+    1.7        (1.0)     274%     (loss) ($       3.5         0.4     (821%)
+                                  millions)
+                               Mine operating
+                                  earnings
+12.9        6.8       88%     (loss) ($       19.2        15.9      21%
+                                  millions)
+                               Mine operating
+    17.3        16.4      5%    cash flow(2)      28.7        36.0     (20%)
+                                ($ millions)
+                               Operating cash
+                                 flow before
+    9.4         11.0     (15%)     working        16.9        24.8     (32%)
+                                   capital
+                                 changes (2)
+                                  Earnings
+    10.1        10.9     (7%)    before ITDA      18.8        27.2     (31%)
+                                     (2)
+                                   Working
+    72.1        26.7     170%    capital ($       72.1        26.7     170%
+                                  millions)
+----------------------------------------------------------------------------
+                                Shareholders
+----------------------------------------------------------------------------
+                                  Earnings
+    0.01       (0.01)    200%    (loss) per       0.03        0.00     100%
+                                share - basic
+                               Operating cash
+                                 flow before
+                                   working
+    0.08        0.11     (23%)     capital        0.15        0.24     (36%)
+                                 changes per
+                                  share (2)
+                                  Weighted
+113,236,504 101,976,901   11%  average shares 108,941,454 101,976,901   7%
+                                 outstanding
+----------------------------------------------------------------------------
+</pre>
+<pre>
+(1)  Silver equivalent ounces calculated using 75:1 ratio in 2016 and 70:1
+     in 2015
+(2)  Cost metrics, EBITDA, mine operating cash flow, operating cash flow
+     before working capital changes are non-IFRS measures. Please refer to
+     the definitions in the Company's Management Discussion & Analysis.
+</pre>
+<pre>
+ENDEAVOUR SILVER CORP.
+CONSOLIDATED INTERIM STATEMENTS OF CASH FLOWS
+(expressed in thousands of U.S. dollars)
+----------------------------------------------------------------------------
+                                   Three Months Ended     Six Months Ended
+                                  June 30,    June 30   June 30,    June 30
+                                    2016       2015       2016       2015
+----------------------------------------------------------------------------
+Operating activities
+Net earnings (loss) for the
+ period                          $   1,699  $    (974) $   3,528  $     383
+Items not affecting cash:
+  Share-based compensation           1,404      1,114      1,861      1,594
+  Depreciation and depletion         4,211      9,457      9,433     19,975
+Deferred income tax expense
+   (recovery)                           46      1,075        (57)     2,078
+  Unrealized foreign exchange
+   loss (gain)                         108          8       (134)       148
+  Loss on available for sale
+   assets                                -          -        269          -
+  Loss on derivative liability       1,372          -      1,372          -
+  Finance costs                        518        306        581        612
+Net changes in non-cash working
+ capital                               828      8,078     (9,496)    (1,441)
+----------------------------------------------------------------------------
+Cash from (used in) operating
+ activities                         10,186     19,064      7,357     23,349
+----------------------------------------------------------------------------
+Investing activites
+  Property, plant and equipment
+   expenditures                     (4,122)    (9,352)    (7,209)   (18,017)
+  Proceeds from disposition of
+   available for sale assets             -          -        448          -
+  Investment in long term
+   deposits                              -          -        133          -
+----------------------------------------------------------------------------
+Cash used in investing
+ activities                         (4,122)    (9,352)    (6,628)   (18,017)
+----------------------------------------------------------------------------
+Financing activities
+  Repayment of revolving credit
+   facility                         (5,000)    (4,000)    (8,000)    (4,000)
+  Repayment of obligation under
+   finance lease                      (163)         -       (389)         -
+  Debt issuance costs                 (170)         -       (474)         -
+  Interest paid                       (215)         -       (389)         -
+  Public equity offerings           32,026          -     41,124          -
+  Exercise of options and
+   warrants                          5,254       (224)     5,285       (449)
+  Share issuance costs              (1,168)         -     (1,446)         -
+----------------------------------------------------------------------------
+Cash from (used in) financing
+ activites                          30,564     (4,224)    35,711     (4,449)
+----------------------------------------------------------------------------
+Increase (decrease) in cash and
+ cash equivalents                   36,628      5,488     36,440        883
+Effect of exchange rate change
+ on cash and cash equivalents         (165)        (8)        (5)      (148)
+Cash and cash equivalents,
+ beginning of period                20,385     26,300     20,413     31,045
+----------------------------------------------------------------------------
+Cash and cash equivalents, end
+ of period                       $  56,848  $  31,780  $  56,848  $  31,780
+----------------------------------------------------------------------------
+</pre>
+<p>
+This statement should be read in conjunction with the condensed consolidated 
+interim financial statements for the period ended June 30, 2016 and the related 
+notes contained therein.
+</p>
+<pre>
+ENDEAVOUR SILVER CORP.
+CONSOLIDATED INTERIM STATEMENTS OF COMPREHENSIVE INCOME
+(expressed in thousands of US dollars, except for shares and per share
+ amounts)
+----------------------------------------------------------------------------
+                          Three Months Ended           Six Months Ended
+                        June 30,      June 30,      June 30,      June 30,
+                          2016          2015          2016          2015
+----------------------------------------------------------------------------
+Revenue              $     44,510  $     47,719  $     86,051  $     98,828
+Cost of sales:
+    Direct
+     production
+     costs                 26,975        31,091        56,819        62,360
+    Royalties                 276           243           485           491
+    Share-based
+     compensation             230           167           286           240
+    Depreciation and
+     depletion              4,144         9,382         9,298        19,836
+  --------------------------------------------------------------------------
+                           31,625        40,883        66,888        82,927
+Mine operating
+ earnings                  12,885         6,836        19,163        15,901
+Expenses:
+  Exploration               1,908         2,479         3,107         3,553
+  General and
+   administrative           3,155         2,574         5,183         4,403
+  --------------------------------------------------------------------------
+                            5,063         5,053         8,290         7,956
+Operating earnings
+ (loss)                     7,822         1,783        10,873         7,945
+Finance costs                 294           354           581           667
+Other income
+ (expense):
+  Foreign exchange         (1,847)         (704)       (1,333)       (1,371)
+  Investment and
+   other                      (43)          330          (184)          684
+  --------------------------------------------------------------------------
+                           (1,890)         (374)       (1,517)         (687)
+Earnings (loss)
+ before income taxes        5,638         1,055         8,775         6,591
+Income tax expense
+ (recovery):
+  Current income tax        3,480           954         4,891         4,130
+  Deferred income
+   tax                        459         1,075           356         2,078
+  --------------------------------------------------------------------------
+                            3,939         2,029         5,247         6,208
+----------------------------------------------------------------------------
+Net earnings (loss)
+ for the period             1,699          (974)        3,528           383
+----------------------------------------------------------------------------
+Other comprehensive
+ income (loss), net
+ of tax
+  Net change in fair
+   value of
+   available for
+   sale investments            45           256           207           660
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------
+Comprehensive income
+ (loss) for the
+ period              $      1,744  $       (718) $      3,735  $      1,043
+----------------------------------------------------------------------------
+Basic earnings
+ (loss) per share
+ based on net
+ earnings            $       0.01  $      (0.01) $       0.03  $       0.00
+----------------------------------------------------------------------------
+Diluted earnings
+ (loss) per share
+ based on net
+ earnings            $       0.01  $      (0.01) $       0.03  $       0.00
+----------------------------------------------------------------------------
+Basic weighted
+ average number of
+ shares outstanding   113,236,504   101,976,901   108,941,454   101,976,901
+----------------------------------------------------------------------------
+Diluted weighted
+ average number of
+ shares outstanding   114,661,697   101,976,901   109,969,054   101,976,901
+----------------------------------------------------------------------------
+</pre>
+<p>
+This statement should be read in conjunction with the condensed consolidated 
+interim financial statements for the period ended June 30, 2016 and the related 
+notes contained therein.
+</p>
+<pre>
+ENDEAVOUR SILVER CORP.
+CONSOLIDATED INTERIM STATEMENTS OF FINANCIAL POSITION
+(expressed in thousands of US dollars)
+----------------------------------------------------------------------------
+                                                    June 30,    December 31,
+                                                      2016          2015
+----------------------------------------------------------------------------
+ASSETS
+Current assets
+  Cash and cash equivalents                      $     56,848  $     20,413
+  Investments                                             104           614
+  Accounts receivable                                  30,962        24,343
+  Inventories                                          12,608        17,350
+  Prepaid expenses                                      1,823         2,510
+----------------------------------------------------------------------------
+Total current assets                                  102,345        65,230
+Non-current deposits                                      874           855
+Deferred income tax asset                                   -           223
+Mineral properties, plant and equipment                53,419        47,925
+----------------------------------------------------------------------------
+Total assets                                     $    156,638  $    114,233
+----------------------------------------------------------------------------
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities
+  Accounts payable and accrued liabilities       $     14,248  $     18,949
+  Derivative liablitiy                                  1,372             -
+  Finance lease obligation                                388         1,180
+  Income taxes payable                                  4,191         5,844
+  Credit facility                                      10,000        22,000
+----------------------------------------------------------------------------
+Total current liabilities                              30,199        47,973
+Credit facility - long term                             4,000             -
+Provision for reclamation and rehabilitation            7,804         7,762
+Deferred income tax liability                           7,204         7,623
+----------------------------------------------------------------------------
+Total liabilities                                      49,207        63,358
+----------------------------------------------------------------------------
+Shareholders' equity
+Share capital, unlimited common shares
+ authorized, no par value, issued
+and outstanding 120,983,022 shares (Dec 31, 2015
+ - 102,776,470 shares)                                422,492       368,898
+Contributed surplus                                     8,327         9,465
+Accumulated comprehensive income (loss)                    62          (145)
+Retained earnings (deficit)                          (323,450)     (327,343)
+----------------------------------------------------------------------------
+Total shareholders' equity                            107,431        50,875
+----------------------------------------------------------------------------
+Total liabilities and shareholders' equity       $    156,638  $    114,233
+----------------------------------------------------------------------------
+</pre>
+<p>
+This statement should be read in conjunction with the condensed consolidated 
+interim financial statements for the period ended June 30, 2016 and the related 
+notes contained therein.
+</p>
+<pre>
+For more information, please contact:
+Meghan Brown
+Director Investor Relations
+Toll free: 1-877-685-9775
+Tel: 604-640-4804
+Fax: 604-685-9744
+Email: mbrown@edrsilver.com
+Website: www.edrsilver.com</pre>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

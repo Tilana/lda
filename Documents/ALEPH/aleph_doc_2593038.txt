@@ -1,0 +1,643 @@
+
+<SEC-DOCUMENT>0001185185-16-005227.txt : 20160815
+<SEC-HEADER>0001185185-16-005227.hdr.sgml : 20160815
+<ACCEPTANCE-DATETIME>20160815161532
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+EFFECTIVENESS DATE:
+NT 10-Q
+1
+20160630
+0001185185-16-005227
+20160815
+20160815
+20160815
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: METAL MINING [1000]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+NORTH BAY RESOURCES INC
+0001450524
+000000000
+DE
+1231
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 000-54213
+FILM NUMBER:
+NT 10-Q
+1934 Act
+161832905
+BUSINESS ADDRESS:
+STREET 1:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+3995 YERKES ROAD
+COLLEGEVILLE
+PA
+19426
+215-661-1100
+MAIL ADDRESS:
+STREET 1:
+CITY:
+STATE:
+ZIP:
+3995 YERKES ROAD
+COLLEGEVILLE
+PA
+19426
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>NT 10-Q
+<SEQUENCE>1
+<FILENAME>northbay-nt10q063016.htm
+<DESCRIPTION>NT 10-Q
+<TEXT>
+<html>
+<head>
+<title></title>
+<!--Licensed to: Federal Filings
+    Document created using EDGARfilings PROfile 4.1.0.0
+    Copyright 1995 - 2016 Summit Financial Printing, LLC.  All rights 
+reserved.-->
+</head>
+<body style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif" 
+bgcolor="#ffffff" text="#000000">
+<div>
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: normal">
+<hr style="BORDER-TOP: black 4px solid; HEIGHT: 10px; BORDER-BOTTOM: black 1px 
+solid; COLOR: #ffffff; TEXT-ALIGN: center; MARGIN-LEFT: auto; BACKGROUND-COLOR: 
+#ffffff; MARGIN-RIGHT: auto" align="center">
+<font style="FONT-SIZE: 16pt; FONT-WEIGHT: bold">UNITED STATES</font></div>
+<div style="FONT-SIZE: 16pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+WEIGHT: bold; TEXT-ALIGN: center; LINE-HEIGHT: 18.25pt">SECURITIES AND EXCHANGE 
+COMMISSION</div>
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+WEIGHT: bold; TEXT-ALIGN: center; LINE-HEIGHT: 11.4pt">WASHINGTON, DC 
+20549</div>
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+WEIGHT: bold; TEXT-ALIGN: center; LINE-HEIGHT: 11.4pt">&#160;</div>
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 11.4pt">
+<hr style="HEIGHT: 1px; WIDTH: 12%; COLOR: #000000; TEXT-ALIGN: center; MARGIN-
+LEFT: auto; BACKGROUND-COLOR: #000000; MARGIN-RIGHT: auto" align="center" 
+noshade="noshade">
+</div>
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 11.4pt">&#160;</div>
+<div style="FONT-SIZE: 16pt; FONT-WEIGHT: bold; TEXT-ALIGN: center; LINE-HEIGHT:
+normal">FORM 12b-25</div>
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+WEIGHT: bold; TEXT-ALIGN: center; LINE-HEIGHT: 11.4pt">NOTIFICATION OF LATE 
+FILING</div>
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+WEIGHT: bold; TEXT-ALIGN: center; LINE-HEIGHT: 11.4pt">&#160;</div>
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+WEIGHT: bold; TEXT-ALIGN: center; LINE-HEIGHT: 11.4pt">
+<hr style="HEIGHT: 1px; WIDTH: 12%; COLOR: #000000; TEXT-ALIGN: center; MARGIN-
+LEFT: auto; BACKGROUND-COLOR: #000000; MARGIN-RIGHT: auto" align="center" 
+noshade="noshade">
+</div>
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+WEIGHT: bold; TEXT-ALIGN: center; LINE-HEIGHT: 11.4pt">&#160;</div>
+<table id="z05d7bab00bdf4f15afffc846e220bee9" style="FONT-SIZE: 10pt; FONT-
+FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" 
+cellpadding="0">
+<tr>
+<td style="WIDTH: 15%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+WEIGHT: bold; TEXT-ALIGN: left; LINE-HEIGHT: 11.4pt">(Check One):</div>
+</td>
+<td style="WIDTH: 85%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+WEIGHT: bold; TEXT-ALIGN: left; LINE-HEIGHT: 11.4pt"><font style="FONT-SIZE: 
+10pt; FONT-FAMILY: 'Segoe UI Symbol', sans-serif">&#9744;</font>&#160; Form 10-K
+&#160;&#160;&#160;<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', 
+Times, serif">&#9744;</font>&#160;&#160; Form 20-F&#160;&#160;&#160;&#160;<font 
+style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, 
+serif">&#9744;</font>&#160; Form 11-K&#160;&#160;&#160; &#160;<font style="FONT-
+SIZE: 10pt; FONT-FAMILY: 'Segoe UI Symbol', sans-serif">&#9746;&#160; 
+</font>Form 10-Q&#160; &#160;&#160;<font style="FONT-SIZE: 10pt; FONT-FAMILY: 
+'Times New Roman', Times, serif">&#9744;</font>&#160; Form N-SAR 
+&#160;&#160;&#160;<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', 
+Times, serif">&#9744;</font>&#160; Form N-CSR</div>
+</td>
+</tr>
+</table>
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 11.4pt"><br style="LINE-HEIGHT:
+11.4pt">
+</div>
+<table id="z891731b301e145b4b3b3dd778253edf5" style="FONT-SIZE: 10pt; FONT-
+FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" 
+cellpadding="0">
+<tr>
+<td style="WIDTH: 15%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 85%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+WEIGHT: bold; TEXT-ALIGN: left; LINE-HEIGHT: 11.4pt">For Period Ended:&#160;June
+30, 2016</div>
+</td>
+</tr>
+<tr>
+<td style="WIDTH: 15%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 85%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+<tr>
+<td style="WIDTH: 15%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 85%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+WEIGHT: bold; TEXT-ALIGN: left; LINE-HEIGHT: 11.4pt"><font style="FONT-SIZE: 
+10pt; FONT-FAMILY: 'Times New Roman', Times, serif">&#9744;</font> Transition 
+Report on Form 10-K</div>
+</td>
+</tr>
+<tr>
+<td style="WIDTH: 15%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 85%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+WEIGHT: bold; TEXT-ALIGN: left; LINE-HEIGHT: 11.4pt"><font style="FONT-SIZE: 
+10pt; FONT-FAMILY: 'Times New Roman', Times, serif">&#9744;</font> Transition 
+Report on Form 20-F</div>
+</td>
+</tr>
+<tr>
+<td style="WIDTH: 15%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 85%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+WEIGHT: bold; TEXT-ALIGN: left; LINE-HEIGHT: 11.4pt"><font style="FONT-SIZE: 
+10pt; FONT-FAMILY: 'Times New Roman', Times, serif">&#9744;</font> Transition 
+Report on Form 11-K</div>
+</td>
+</tr>
+<tr>
+<td style="WIDTH: 15%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 85%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+WEIGHT: bold; TEXT-ALIGN: left; LINE-HEIGHT: 11.4pt"><font style="FONT-SIZE: 
+10pt; FONT-FAMILY: 'Times New Roman', Times, serif">&#9744;</font> Transition 
+Report on Form 10-Q</div>
+</td>
+</tr>
+<tr>
+<td style="WIDTH: 15%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 85%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+WEIGHT: bold; TEXT-ALIGN: left; LINE-HEIGHT: 11.4pt"><font style="FONT-SIZE: 
+10pt; FONT-FAMILY: 'Times New Roman', Times, serif">&#9744;</font> Transition 
+Report on Form N-SAR</div>
+</td>
+</tr>
+<tr>
+<td style="WIDTH: 15%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 85%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+<tr>
+<td style="WIDTH: 15%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 85%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+WEIGHT: bold; TEXT-ALIGN: left; LINE-HEIGHT: 11.4pt">For the Transition Period 
+Ended: ____________________</div>
+</td>
+</tr>
+</table>
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 11.4pt"><br style="LINE-HEIGHT: 
+11.4pt">
+</div>
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+WEIGHT: bold; TEXT-ALIGN: justify; LINE-HEIGHT: 11.4pt">Nothing in this form 
+shall be construed to imply that the Commission has verified any information 
+contained herein.</div>
+<div style="LINE-HEIGHT: 11.4pt"><br style="LINE-HEIGHT: 11.4pt">
+</div>
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-
+ALIGN: justify; LINE-HEIGHT: 11.4pt">If the notification relates to a portion of
+the filing checked above, identify the item(s) to which the notification 
+relates:</div>
+<div style="LINE-HEIGHT: 11.4pt"><br style="LINE-HEIGHT: 11.4pt">
+</div>
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+WEIGHT: bold; TEXT-ALIGN: left; LINE-HEIGHT: 11.4pt">PART I -- REGISTRANT 
+INFORMATION</div>
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 11.4pt"><br style="LINE-HEIGHT: 
+11.4pt">
+</div>
+<table id="z845e901f05cd495ab923c9dcef1607d4" style="FONT-SIZE: 10pt; FONT-
+FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" 
+cellpadding="0">
+<tr>
+<td style="WIDTH: 40%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+WEIGHT: bold; TEXT-ALIGN: left; LINE-HEIGHT: 11.4pt">North Bay 
+Resources&#160;Inc.</div>
+</td>
+<td style="WIDTH: 60%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+<tr>
+<td style="WIDTH: 40%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+STYLE: italic; TEXT-ALIGN: left; LINE-HEIGHT: 11.4pt">Full Name of 
+Registrant</div>
+</td>
+<td style="WIDTH: 60%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+<tr>
+<td style="WIDTH: 40%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 60%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+<tr>
+<td style="WIDTH: 40%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px 
+solid">&#160;</td>
+<td style="WIDTH: 60%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+<tr>
+<td style="WIDTH: 40%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+STYLE: italic; TEXT-ALIGN: left; LINE-HEIGHT: 11.4pt">Former Name if 
+Applicable</div>
+</td>
+<td style="WIDTH: 60%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+<tr>
+<td style="WIDTH: 40%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 60%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+<tr>
+<td style="WIDTH: 40%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+WEIGHT: bold; TEXT-ALIGN: left; LINE-HEIGHT: 11.4pt">3995 Yerkes Rd.</div>
+</td>
+<td style="WIDTH: 60%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+<tr>
+<td style="WIDTH: 40%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+STYLE: italic; TEXT-ALIGN: left; LINE-HEIGHT: 11.4pt">Address of Principal 
+Executive Office (Street and Number)</div>
+</td>
+<td style="WIDTH: 60%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+<tr>
+<td style="WIDTH: 40%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 60%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+<tr>
+<td style="WIDTH: 40%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+WEIGHT: bold; TEXT-ALIGN: left; LINE-HEIGHT: 11.4pt">Collegeville, PA 
+19426</div>
+</td>
+<td style="WIDTH: 60%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+<tr>
+<td style="WIDTH: 40%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+STYLE: italic; TEXT-ALIGN: left; LINE-HEIGHT: 11.4pt">City, State and Zip 
+Code</div>
+</td>
+<td style="WIDTH: 60%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+</table>
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 11.4pt"><br style="LINE-HEIGHT: 
+13.7pt">
+ &#160;</div>
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP:
+10pt">
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 
+100%; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; 
+BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+</div>
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+<div style="LINE-HEIGHT: 11.4pt"><br style="LINE-HEIGHT: 11.4pt">
+</div>
+<div style="LINE-HEIGHT: 11.4pt"><br style="LINE-HEIGHT: 11.4pt">
+</div>
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+WEIGHT: bold; TEXT-ALIGN: left; LINE-HEIGHT: 11.4pt">PART II -- RULES 12b-25(b) 
+AND (c)</div>
+<div style="LINE-HEIGHT: 11.4pt"><br style="LINE-HEIGHT: 11.4pt">
+</div>
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-
+ALIGN: justify; LINE-HEIGHT: 11.4pt">If the subject report could not be filed 
+without unreasonable effort or expense and the registrant seeks relief pursuant 
+to Rule 12b-25(b), the following should be completed. (Check box if 
+appropriate.)</div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 11.4pt; TEXT-INDENT: 36pt"><br 
+style="LINE-HEIGHT: 11.4pt">
+</div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 11.4pt">
+<table id="zd5f916b2982745ae8a8f7b180c429004" class="DSPFListTable" style="FONT-
+SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" 
+cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH:
+27pt; VERTICAL-ALIGN: top; align: right">(a)</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH:
+auto; VERTICAL-ALIGN: top; TEXT-ALIGN: justify">The reason described in 
+reasonable detail in Part III of this form could not be eliminated without 
+unreasonable effort or expense;</td>
+</tr>
+</table>
+</div>
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 11.4pt"><br style="LINE-HEIGHT: 
+11.4pt">
+</div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 11.4pt">
+<table id="zdc064ffcb3694cc9ad46d1c9f48d0c9c" class="DSPFListTable" style="FONT-
+SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" 
+cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH:
+27pt; VERTICAL-ALIGN: top; align: right">(b)</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH:
+auto; VERTICAL-ALIGN: top; TEXT-ALIGN: justify">The subject annual report, semi-
+annual report, transition report on Form 10-K, 20-F, 11-K, or Form N-CSR, or 
+portion thereof, will be filed on or before the fifteenth calendar day following
+the prescribed due date; or the subject quarterly report or transition report on
+Form 10-Q, or portion thereof will be filed on or before the fifth calendar day 
+following the prescribed due date; and</td>
+</tr>
+</table>
+</div>
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 11.4pt">&#160;</div>
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 11.4pt">
+<table id="zd5f916b2982745ae8a8f7b180c429004" class="DSPFListTable" style="FONT-
+SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" 
+cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH:
+27pt; VERTICAL-ALIGN: top; align: right">(c)</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH:
+auto; VERTICAL-ALIGN: top; TEXT-ALIGN: justify">The accountant's statement or 
+other exhibit required by Rule 12b-25(c) has been attached if applicable.</td>
+</tr>
+</table>
+</div>
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 11.4pt">&#160;</div>
+<div style="FONT-WEIGHT: bold; TEXT-ALIGN: left; LINE-HEIGHT: 11.4pt">PART III 
+-- NARRATIVE</div>
+<div style="LINE-HEIGHT: 11.4pt"><br style="LINE-HEIGHT: 11.4pt">
+</div>
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-
+ALIGN: justify; LINE-HEIGHT: 11.4pt">State below in reasonable detail the 
+reasons why Forms 10-K,&#160;20-F, 11-K, 10-Q,&#160;N-SAR, or the transition 
+report portion thereof, could not be filed within the prescribed time 
+period.</div>
+<div style="LINE-HEIGHT: 11.4pt"><br style="LINE-HEIGHT: 11.4pt">
+</div>
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-
+ALIGN: justify; LINE-HEIGHT: 11.4pt">The Registrant's Quarterly Report on Form 
+10-Q for the&#160;period ended June 30, 2016, cannot be filed within the 
+prescribed time period because the Registrant is experiencing delays in the 
+compilation of certain financial and other information required to be included 
+in the Form 10-Q.&#160; The Registrant intends to file the&#160;Quarterly Report
+on Form 10-Q on or before the fifth&#160;&#160;calendar day following the 
+prescribed&#160;due date.</div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 11.4pt"><br style="LINE-HEIGHT: 
+11.4pt">
+</div>
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+WEIGHT: bold; TEXT-ALIGN: left; LINE-HEIGHT: 11.4pt">PART IV -- OTHER 
+INFORMATION</div>
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 11.4pt"><br style="LINE-HEIGHT: 
+11.4pt">
+</div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 11.4pt">
+<table id="z3eb79983ab7f43d2af77dec9ab409cd9" class="DSPFListTable" style="FONT-
+SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" 
+cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH:
+27pt; VERTICAL-ALIGN: top; align: right">(1)</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH:
+auto; VERTICAL-ALIGN: top; TEXT-ALIGN: justify">Name and telephone number of 
+person to contact in regard to this notification</td>
+</tr>
+</table>
+</div>
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 11.4pt"><br style="LINE-HEIGHT: 
+11.4pt">
+</div>
+<table id="za3cf11f96e9a4a50b30be80516da5788" style="FONT-SIZE: 10pt; FONT-
+FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" 
+cellpadding="0">
+<tr>
+<td style="WIDTH: 3.01%; VERTICAL-ALIGN: middle">&#160;</td>
+<td style="WIDTH: 34%; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px 
+solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+WEIGHT: bold; TEXT-ALIGN: center; LINE-HEIGHT: 11.4pt">Perry Leopold</div>
+</td>
+<td style="WIDTH: 5%; VERTICAL-ALIGN: middle">&#160;</td>
+<td style="WIDTH: 19%; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px 
+solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+WEIGHT: bold; TEXT-ALIGN: center; LINE-HEIGHT: 11.4pt">215</div>
+</td>
+<td style="WIDTH: 5%; VERTICAL-ALIGN: middle">&#160;</td>
+<td style="WIDTH: 34%; VERTICAL-ALIGN: middle; BORDER-BOTTOM: #000000 2px 
+solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+WEIGHT: bold; TEXT-ALIGN: center; LINE-HEIGHT: 11.4pt">661-1100</div>
+</td>
+</tr>
+<tr>
+<td style="WIDTH: 3.01%; VERTICAL-ALIGN: middle">&#160;</td>
+<td style="WIDTH: 34%; VERTICAL-ALIGN: middle">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-
+ALIGN: center; LINE-HEIGHT: 11.4pt">(Name)</div>
+</td>
+<td style="WIDTH: 5%; VERTICAL-ALIGN: middle">&#160;</td>
+<td style="WIDTH: 19%; VERTICAL-ALIGN: middle">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-
+ALIGN: center; LINE-HEIGHT: 11.4pt">(Area Code)</div>
+</td>
+<td style="WIDTH: 5%; VERTICAL-ALIGN: middle">&#160;</td>
+<td style="WIDTH: 34%; VERTICAL-ALIGN: middle">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-
+ALIGN: center; LINE-HEIGHT: 11.4pt">(Telephone Number)</div>
+</td>
+</tr>
+</table>
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 11.4pt"><br style="LINE-HEIGHT: 
+11.4pt">
+</div>
+<table id="z44e13282ebe841939fe94effb4afa3bc" style="FONT-SIZE: 10pt; FONT-
+FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" 
+cellpadding="0">
+<tr>
+<td style="WIDTH: 3%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-
+ALIGN: left; LINE-HEIGHT: 11.4pt">(2)</div>
+</td>
+<td style="WIDTH: 97%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-
+ALIGN: justify; LINE-HEIGHT: 11.4pt">Have all other periodic reports required 
+under Section 13 or 15(d) of the Securities Exchange Act of 1934 or Section 30 
+of the Investment Company Act of 1940 during the preceding 12 months or for such
+shorter period that the registrant was required to file such report(s) been 
+filed? If the answer is no, identify report(s).</div>
+</td>
+</tr>
+<tr>
+<td style="WIDTH: 3%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 97%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-
+ALIGN: right; LINE-HEIGHT: 11.4pt">Yes&#160;<font style="FONT-SIZE: 10pt; FONT-
+FAMILY: 'Segoe UI Symbol', sans-serif">&#9744;&#160;&#160;&#160; </font>No 
+&#9746;</div>
+</td>
+</tr>
+<tr>
+<td style="WIDTH: 3%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 97%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-
+ALIGN: left; LINE-HEIGHT: 11.4pt">December 31, 2015 10-K, March 31, 2016 10-
+Q</div>
+</td>
+</tr>
+<tr>
+<td style="WIDTH: 3%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 97%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+<tr style="HEIGHT: 13px">
+<td style="WIDTH: 3%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-
+ALIGN: left; LINE-HEIGHT: 11.4pt">(3)</div>
+</td>
+<td style="WIDTH: 97%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-
+ALIGN: justify; LINE-HEIGHT: 11.4pt">Is it anticipated that any significant 
+change in results of operations from the corresponding period for the last 
+fiscal year will be reflected by the earnings statements to be included in the 
+subject report or portion thereof?</div>
+</td>
+</tr>
+<tr>
+<td style="WIDTH: 3%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 97%; VERTICAL-ALIGN: middle">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-
+ALIGN: right; LINE-HEIGHT: 11.4pt">&#160;Yes <font style="FONT-SIZE: 10pt; FONT-
+FAMILY: Wingdings">o </font>No <font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times
+New Roman', Times, serif">&#9746;</font></div>
+</td>
+</tr>
+<tr>
+<td style="WIDTH: 3%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 97%; VERTICAL-ALIGN: middle">&#160;</td>
+</tr>
+<tr>
+<td style="WIDTH: 3%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 97%; VERTICAL-ALIGN: middle">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-
+ALIGN: justify; LINE-HEIGHT: 11.4pt">If so, attach an explanation of the 
+anticipated change, both narratively and quantitatively, and, if appropriate, 
+state the reasons why a reasonable estimate of the results cannot be made.</div>
+</td>
+</tr>
+<tr>
+<td style="WIDTH: 3%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 97%; VERTICAL-ALIGN: middle">&#160;</td>
+</tr>
+<tr>
+<td style="WIDTH: 3%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 97%; VERTICAL-ALIGN: middle">&#160;</td>
+</tr>
+</table>
+<div style="TEXT-ALIGN: right; LINE-HEIGHT: 11.4pt"><br style="LINE-HEIGHT: 
+11.4pt">
+</div>
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 11.4pt">&#160;</div>
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP:
+10pt">
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 
+100%; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; 
+BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+</div>
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+<div style="LINE-HEIGHT: 11.4pt"><br style="LINE-HEIGHT: 11.4pt">
+</div>
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 11.4pt"><br style="LINE-HEIGHT: 
+11.4pt">
+</div>
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+WEIGHT: bold; TEXT-ALIGN: center; LINE-HEIGHT: 11.4pt"><u>North Bay Resources 
+Inc.</u></div>
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-
+ALIGN: center; LINE-HEIGHT: 11.4pt">(Name of Registrant as Specified in 
+Charter)</div>
+<div style="LINE-HEIGHT: 11.4pt"><br style="LINE-HEIGHT: 11.4pt">
+</div>
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-
+ALIGN: justify; LINE-HEIGHT: 11.4pt">has caused this notification to be signed 
+on its behalf by the undersigned hereunto duly authorized.</div>
+<div style="LINE-HEIGHT: 11.4pt"><br style="LINE-HEIGHT: 11.4pt">
+</div>
+<table id="zf01e3bfe784341b69abdf49fadd7a33d" style="FONT-SIZE: 10pt; FONT-
+FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" 
+cellpadding="0">
+<tr>
+<td style="WIDTH: 48.62%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 4.16%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 47.22%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+<tr>
+<td style="WIDTH: 48.62%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-
+ALIGN: left; LINE-HEIGHT: 11.4pt">Date: August 15, 2016</div>
+</td>
+<td style="WIDTH: 4.16%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-
+ALIGN: left; LINE-HEIGHT: 11.4pt">By:&#160;&#160;</div>
+</td>
+<td style="WIDTH: 47.22%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px 
+solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-
+ALIGN: left; LINE-HEIGHT: 11.4pt">/s/ Perry Leopold</div>
+</td>
+</tr>
+<tr>
+<td style="WIDTH: 52.78%; VERTICAL-ALIGN: top" colspan="2">&#160;</td>
+<td style="WIDTH: 47.22%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-
+ALIGN: left; LINE-HEIGHT: 11.4pt">Perry Leopold</div>
+</td>
+</tr>
+<tr>
+<td style="WIDTH: 52.78%; VERTICAL-ALIGN: top" colspan="2">&#160;</td>
+<td style="WIDTH: 47.22%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; TEXT-
+ALIGN: left; LINE-HEIGHT: 11.4pt">Chief Executive Officer</div>
+</td>
+</tr>
+<tr>
+<td style="WIDTH: 52.78%; VERTICAL-ALIGN: top" colspan="2">&#160;</td>
+<td style="WIDTH: 47.22%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+</table>
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+<div style="LINE-HEIGHT: 13.7pt">&#160;</div>
+<div style="LINE-HEIGHT: 13.7pt">&#160;</div>
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+ &#160;</div>
+</div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

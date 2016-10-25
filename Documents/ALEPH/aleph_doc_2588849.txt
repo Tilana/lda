@@ -1,0 +1,4589 @@
+
+10-Q 1 dvn-10q_20160630.htm FORM 10-Q dvn-10q_20160630.htm
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+Form 10-Q
+(Mark One)
+þQUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended June 30, 2016
+or
+oTRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+Commission File Number 001-32318
+DEVON ENERGY CORPORATION
+(Exact name of registrant as specified in its charter)
+Delaware
+(State or other jurisdiction of
+73-1567067
+(I.R.S. Employer
+incorporation or organization)
+ 
+333 West Sheridan Avenue, Oklahoma City, Oklahoma 73102-5015
+(Address of principal executive offices)
+identification No.)
+(Zip code)
+Registrant’s telephone number, including area code: (405) 235-3611
+Former name, address and former fiscal year, if changed from last report: Not applicable
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the
+Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required
+to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes  þ    No   o
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every
+Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter)
+during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such
+files).    Yes  þ    No  o
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a
+smaller reporting company. See the definitions of “large accelerated filer,” “accelerated filer” and “smaller reporting company”
+in Rule 12b-2 of the Exchange Act.
+Large accelerated filer þ  Accelerated filer
+o
+Non-accelerated filer  o  Smaller reporting company o
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).    Yes  o    No  þ
+On July 20, 2016, 523.6 million shares of common stock were outstanding.
+DEVON ENERGY CORPORATION
+FORM 10-Q
+TABLE OF CONTENTS
+Part I. Financial Information
+Item 1.
+ 
+ 
+ 
+ 
+ 
+Item 2.
+Item 3.
+Item 4.
+ 
+Part II. Other Information
+Item 1.
+ Legal Proceedings
+Item 1A.
+ Risk Factors
+Item 2.
+ Unregistered Sales of Equity Securities and Use of Proceeds
+Item 3.
+ Defaults Upon Senior Securities
+Item 4.
+ Mine Safety Disclosures
+Item 5.
+ Other Information
+Item 6.
+ Exhibits
+ 
+  
+Signatures
+6
+ Financial Statements
+6
+ Consolidated Comprehensive Statements of Earnings
+7
+ Consolidated Statements of Cash Flows
+8
+ Consolidated Balance Sheets
+9
+ Consolidated Statements of Stockholders’ Equity
+ Notes to Consolidated Financial Statements
+10
+ Management’s Discussion and Analysis of Financial Condition and Results of Operations30
+45
+ Quantitative and Qualitative Disclosures About Market Risk
+45
+ Controls and Procedures
+ 
+  
+ 
+46
+46
+46
+46
+46
+46
+47
+ 
+48
+2
+DEFINITIONS
+Unless the context otherwise indicates, references to “us,” “we,” “our,” “ours,” “Devon” and the “Company” refer to Devon
+Energy Corporation and its consolidated subsidiaries. In addition, the following are other abbreviations and definitions of
+certain terms used within this Quarterly Report on Form 10-Q:
+“ASU” means Accounting Standards Update.
+“Bbl” or “Bbls” means barrel or barrels.
+“Boe” means barrel of oil equivalent. Gas proved reserves and production are converted to Boe, at the pressure and
+temperature base standard of each respective state in which the gas is produced, at the rate of six Mcf of gas per Bbl of oil,
+based upon the approximate relative energy content of gas and oil. Bitumen and NGL proved reserves and production are
+converted to Boe on a one-to-one basis with oil.
+“Btu” means British thermal units, a measure of heating value.
+“Canada” means the division of Devon encompassing oil and gas properties located in Canada. All dollar amounts
+associated with Canada are in U.S. dollars.
+“Canadian Plan” means Devon Canada Corporation Incentive Savings Plan.
+“DD&A” means depreciation, depletion and amortization expenses.
+“Devon Plan” means Devon Energy Corporation Incentive Savings Plan.
+“E&P” means exploration and production activities.
+“EnLink” means EnLink Midstream Partners, L.P., a master limited partnership.
+“FASB” means Financial Accounting Standards Board.
+“G&A” means general and administrative expenses.
+“GAAP” means U.S. generally accepted accounting principles.
+“General Partner” means EnLink Midstream, LLC, the indirect general partner of EnLink.
+“Inside FERC” refers to the publication Inside F.E.R.C.’s Gas Market Report.
+“LIBOR” means London Interbank Offered Rate.
+“LOE” means lease operating expenses.
+“MBbls” means thousand barrels.
+“MBoe” means thousand Boe.
+“Mcf” means thousand cubic feet.
+“MMBoe” means million Boe.
+“MMBtu” means million Btu.
+“MMcf” means million cubic feet.
+3
+“N/M” means not meaningful.
+“NGL” or “NGLs” means natural gas liquids.
+“NYMEX” means New York Mercantile Exchange.
+“OPIS” means Oil Price Information Service.
+“SEC” means United States Securities and Exchange Commission.
+“Senior Credit Facility” means Devon’s syndicated unsecured revolving line of credit.
+“TSR” means total shareholder return.
+“U.S.” means United States of America.
+“VEX” means Victoria Express Pipeline and related truck terminal and storage assets.
+“WTI” means West Texas Intermediate.
+“/d” means per day.
+“/gal” means per gallon.
+4
+INFORMATION REGARDING FORWARD-LOOKING STATEMENTS
+This report includes “forward-looking statements” as defined by the SEC. Such statements include those concerning
+strategic plans, our expectations and objectives for future operations, as well as other future events or conditions, and are
+often identified by use of the words “expects,” “believes,” “will,” “would,” “could,” “forecasts,” “projections,” “estimates,” “plans,”
+“expectations,” “targets,” “opportunities,” “potential,” “anticipates,” “outlook” and other similar terminology. Such forward-
+looking statements are based on our examination of historical operating trends, the information used to prepare our
+December 31, 2015 reserve reports and other data in our possession or available from third parties. Such statements are
+subject to a number of assumptions, risks and uncertainties, many of which are beyond our control. Consequently, actual
+future results could differ materially from our expectations due to a number of factors, including, but not limited to:
+·the volatility of oil, gas and NGL prices, including the currently depressed commodity price environment;
+ ·uncertainties inherent in estimating oil, gas and NGL reserves;
+ ·the extent to which we are successful in acquiring and discovering additional reserves;
+ ·the uncertainties, costs and risks involved in exploration and development activities;
+ ·risks related to our hedging activities;
+ ·counterparty credit risks;
+ ·regulatory restrictions, compliance costs and other risks relating to governmental regulation, including with respect to
+environmental matters;
+ ·risks relating to our indebtedness;
+ ·our ability to successfully complete mergers, acquisitions and divestitures;
+ ·the extent to which insurance covers any losses we may experience;
+ ·our limited control over third parties who operate some of our oil and gas properties;
+ ·midstream capacity constraints and potential interruptions in production;
+ ·competition for leases, materials, people and capital;
+ ·cyberattacks targeting our systems and infrastructure; and
+ ·any of the other risks and uncertainties discussed in this report, our 2015 Annual Report on Form 10-K and our other filings
+with the SEC.
+All subsequent written and oral forward-looking statements attributable to Devon, or persons acting on its behalf, are
+expressly qualified in their entirety by the cautionary statements above. We assume no duty to update or revise our forward-
+looking statements based on new information, future events or otherwise.
+5
+Part I.  Financial Information
+Item 1.  Financial Statements
+DEVON ENERGY CORPORATION AND SUBSIDIARIES
+CONSOLIDATED COMPREHENSIVE STATEMENTS OF EARNINGS
+562
+860
+2015
+2016
+2015
+Six Months
+Oil, gas and NGL sales
+Oil, gas and NGL derivatives
+Marketing and midstream revenues
+Total operating revenues
+Lease operating expenses
+Marketing and midstream operating expenses
+General and administrative expenses
+Production and property taxes
+Depreciation, depletion and amortization
+Asset impairments
+Restructuring and transaction costs
+Other operating items
+Total operating expenses
+Operating loss
+Net financing costs
+Other nonoperating items
+Loss before income taxes
+Income tax benefit
+Net loss
+Net earnings (loss) attributable to noncontrolling interests   7
+Net loss attributable to Devon
+Net loss per share attributable to Devon:
+Basic
+Three Months
+ 
+ Ended June 30,   Ended June 30,
+ 
+ 2016
+ (Unaudited)
+ 
+ (Millions, except per share amounts) 
+ $1,085   $1,587   $1,910   $2,926  
+   (142 )   (282 )   (109 )   12
+ 
+   1,545     2,088     2,813     3,720  
+   2,488     3,393     4,614     6,658  
+   416
+    1,115  
+   1,338     1,863     2,404     3,302  
+ 
+   147
+    341
+    153
+   75
+ 
+   484
+    1,026     1,744  
+   1,497     4,168     4,532     9,628  
+ 
+   24
+   4
+ 
+   3,985     7,756     9,611     16,516  
+   (1,497)   (4,363)   (4,997)   (9,858 )
+ 
+   163
+   85
+ 
+   (1,745)   (4,479)   (5,430)   (10,103 )
+   (182 )   (1,686)   (399 )   (3,721 )
+   (1,563)   (2,793)   (5,031)   (6,382 )
+ 
+ $(1,570) $(2,816) $(4,626) $(6,415 )
+    
+ 
+ $(3.04 ) $(6.94 ) $(9.33 ) $(15.81 )
+—     271
+    21
+    24
+212
+    116
+    814
+(405 )   33
+463
+    224
+125
+    (9
+327
+)   106
+242
+    3
+—
+    40
+23
+Diluted
+Comprehensive loss:
+Net loss
+Other comprehensive earnings (loss), net of tax:
+Foreign currency translation
+Pension and postretirement plans
+Other comprehensive earnings (loss), net of tax
+Comprehensive loss
+Comprehensive earnings (loss) attributable to
+noncontrolling interests
+Comprehensive loss attributable to Devon
+$(3.04 ) $(6.94 ) $(9.33 ) $(15.81 )
+    
+ 
+ $(1,563) $(2,793) $(5,031) $(6,382 )
+ 
+    
+)
+   3
+   5
+ 
+   8
+)
+   (1,555)   (2,746)   (4,996)   (6,633 )
+(258
+    7
+    (251
+44
+    3
+    47
+26
+    9
+    35
+23
+7
+ 
+ $(1,562) $(2,769) $(4,591) $(6,666 )
+(405 )   33
+See accompanying notes to consolidated financial statements.
+6
+DEVON ENERGY CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+Three Months
+Six Months
+Ended June 30,   Ended June 30,  
+ 2016
+2015
+2016
+2015
+Cash flows from operating activities:
+Net loss
+Adjustments to reconcile net loss to net cash from operating
+2015
+2016
+2015
+2016
+ 
+ (Unaudited)
+ 
+ (Millions)
+    
+ 
+ $(1,563) $(2,793) $(5,031) $(6,382)
+814
+activities:
+    1,026     1,744  
+   484
+Depreciation, depletion and amortization
+   1,497     4,168     4,532     9,628  
+Asset impairments
+   (179 )   (1,593)   (386 )   (3,640)
+Deferred income tax benefit
+    417
+Derivatives and other financial instruments
+   223
+    (125 )
+Cash settlements on derivatives and financial instruments    (44
+    (148 )   1,183  
+ 
+   88
+Other noncash charges
+    21
+    266
+ 
+   (153 )   (189 )   45
+Net change in working capital
+    26
+    159
+)   18
+   (40
+Change in long-term other assets
+    13
+ 
+Change in long-term other liabilities
+   22
+    (134 )   (5
+)   (110 )
+305
+)   464
+    41
+Net cash from operating activities
+Cash flows from investing activities:
+Capital expenditures
+Acquisitions of property, equipment and businesses
+Divestitures of property and equipment
+Other
+Net cash from investing activities
+Cash flows from financing activities:
+Borrowings of long-term debt, net of issuance costs
+Repayments of long-term debt
+Net short-term debt repayments
+Issuance of common stock
+Sale of subsidiary units
+Issuance of subsidiary units
+Dividends paid on common stock
+Distributions to noncontrolling interests
+Other
+Net cash from financing activities
+Effect of exchange rate changes on cash
+Net change in cash and cash equivalents
+Cash and cash equivalents at beginning of period
+Cash and cash equivalents at end of period
+See accompanying notes to consolidated financial statements.
+7
+DEVON ENERGY CORPORATION AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+ASSETS
+8
+)   (5
+)   (13
+    6
+)   (8
+2,094     846
+1,101     484
+2,749  
+   335
+    
+     
+ 
+   (489 )   (1,432)   (1,238)   (3,149)
+)   (1,638)   (417 )
+   (11
+ 
+    209
+   191
+   (26
+)   (27
+)
+   (335 )   (1,447)   (2,694)   (3,563)
+     
+    
+ 
+   450
+    3,051  
+   (290 )   (1,034)   (549 )   (1,521)
+   —     (778 )   (626 )   (763 )
+   —     —     1,469     —  
+ 
+   —     85
+    —     654
+    776
+    2
+   49
+ 
+   (33
+)   (98
+)   (158 )   (197 )
+)   (147 )   (118 )
+)   (65
+   (74
+    (2
+)   4
+   (2
+)
+    1,609     1,102  
+    210
+   100
+    (43
+   (12
+)   3
+    14
+)
+   88
+ 
+    (133 )   (587 )   245
+   1,635     1,858     2,310     1,480  
+ $1,723   $1,725   $1,723   $1,725
+)   (8
+4
+June 30, 2016  December 31, 2015 
+ (Unaudited)
+(Millions, except share data)
+ASSETS
+Current assets:
+Cash and cash equivalents
+Accounts receivable
+Assets held for sale
+Other current assets
+Total current assets
+Property and equipment, at cost:
+Oil and gas, based on full cost accounting:
+Subject to amortization
+Not subject to amortization
+Total oil and gas
+Midstream and other
+Total property and equipment, at cost
+Less accumulated depreciation, depletion and amortization
+Property and equipment, net
+Goodwill
+Other long-term assets
+Total assets
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+Accounts payable
+Revenues and royalties payable
+Short-term debt
+Liabilities held for sale
+Other current liabilities
+Total current liabilities
+Long-term debt
+Asset retirement obligations
+Other long-term liabilities
+Deferred income taxes
+Stockholders’ equity:
+Common stock, $0.10 par value. Authorized 1.0 billion shares; issued 524 million and
+$ 1,723
+   1,167
+   728
+   364
+   3,982
+  
+  
+   80,066
+   3,798
+   83,864
+   10,243
+   94,107
+   (77,292
+   16,815
+   4,159
+   2,288
+ $ 27,244
+  
+  
+ $ 545
+   819
+   350
+   205
+   1,010
+   2,929
+   12,357
+   1,473
+   1,011
+   555
+$ 2,310
+    1,105
+    —
+    606
+    4,021
+   
+   
+    78,190
+    2,584
+    80,774
+    10,380
+    91,154
+)  
+(72,086
+    19,068
+    5,032
+    1,330
+  $ 29,451
+   
+   
+  $ 906
+    763
+    976
+    —
+    650
+    3,295
+    12,056
+    1,370
+    853
+    888
+418 million shares in 2016 and 2015, respectively
+Additional paid-in capital
+Retained earnings (accumulated deficit)
+Accumulated other comprehensive earnings
+Total stockholders’ equity attributable to Devon
+Noncontrolling interests
+Total stockholders’ equity
+Commitments and contingencies (Note 19)
+Total liabilities and stockholders’ equity
+See accompanying notes to consolidated financial statements.
+52
+   7,500
+   (2,970
+   265
+   4,847
+   4,072
+   8,919
+  
+ $ 27,244
+42
+    4,996
+)   1,781
+    230
+    7,049
+    3,940
+    10,989
+   
+  $ 29,451
+8
+)
+DEVON ENERGY CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+Accumulated
+2,117
+$ 42
+$ 4,996
+103
+10
+—     —
+—     —     —
+—     —     —
+—     —     (33
+—     —     (21
+Common Stock   Paid-In
+ Shares  Amount  Capital
+ (Unaudited)
+ (Millions)
+418
+  —     —     —
+Six Months
+Ended June
+30, 2016
+Balance as of
+December 31,
+2015
+Net loss
+Other
+comprehensive
+earnings, net of
+tax
+Restricted
+stock grants,
+net of
+cancellations   3
+Common stock
+repurchased
+Common stock
+retired
+Common stock
+dividends
+Common stock
+issued
+Share-based
+compensation   —     —     123
+Subsidiary
+equity
+transactions
+Distributions to
+noncontrolling
+interests
+Balance as of
+June 30, 2016   524
+Six Months
+Ended June
+30, 2015
+Balance as of
+December 31,
+2014
+Net earnings
+(loss)
+Other
+comprehensive
+loss, net of tax   —     —     —
+Stock option
+exercises
+Restricted
+stock grants,
+net of
+cancellations   2
+Common stock
+repurchased
+Common stock
+retired
+Common stock
+dividends
+Share-based
+—     —     318
+—     —     (23
+—     —     —
+—     —     —
+—     —     —
+—     —     —
+—     —     4
+—     —
+409
+$ 41
+$ 52
+$ 7,500
+$ 4,088
+—     —     89
+Additional  Retained
+  Earnings
+  (Accumulated Deficit)  Earnings
+Accumulated
+ 
+  Other
+ 
+  Comprehensive  Treasury  Noncontrolling  Stockholders’
+Total
+Interests
+Equity
+Stock
+$ 1,781
+   
+(4,626
+$ 230
+)   —
+$ —   $ 3,940
+    —    
+(405
+$ 10,989
+)  
+(5,031
+—
+35
+—     —
+35
+—
+—
+)   —
+)
+(125
+—
+—
+—
+—
+—
+—
+—
+)   —
+—
+—
+—     —
+(21
+)   —
+21
+—
+—
+(21
+—
+—     —
+(158
+—     —
+2,127
+—     —
+123
+—
+—     684
+1,002
+—
+—
+(147
+)
+(147
+$ (2,970
+) $ 265
+$ —   $ 4,072
+$ 8,919
+$ 16,631
+$ 779
+$ —   $ 4,802
+$ 26,341
+(6,415
+)   —
+—     33
+(6,382
+—
+—
+—
+—
+)   —
+(197
+—
+(251
+)   —     —
+(251
+—
+—     —
+4
+—
+—
+—
+)   —
+—
+—     —
+(23
+)   —
+23
+—
+—
+(23
+—
+—     —
+(197
+—     —
+89
+)
+)
+)
+)
+)
+)
+)
+)
+—     —     578
+Share-based
+compensation   —     —     89
+Subsidiary
+equity
+transactions
+Distributions to
+noncontrolling
+interests
+Other
+Balance as of
+June 30, 2015   411
+—     —     —
+  —     —     —
+$ 41
+$ 4,736
+—
+—
+—
+   
+(1
+—
+—     —
+89
+—
+—     111
+689
+—
+)   —
+—    
+    —     —
+(118
+)
+(118
+(1
+$ 10,018
+$ 528
+$ —   $ 4,828
+$ 20,151
+)
+)
+See accompanying notes to consolidated financial statements.
+9
+DEVON ENERGY CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+1.Summary of Significant Accounting Policies
+The accompanying unaudited interim financial statements and notes of Devon have been prepared pursuant to the rules and
+regulations of the SEC. Pursuant to such rules and regulations, certain disclosures normally included in financial statements
+prepared in accordance with U.S. GAAP have been omitted. The accompanying unaudited interim financial statements and
+notes should be read in conjunction with the financial statements and notes included in Devon’s 2015 Annual Report on
+Form 10-K.
+The accompanying unaudited interim financial statements furnished in this report reflect all adjustments that are, in the
+opinion of management, necessary for a fair statement of Devon’s results of operations and cash flows for the three-month
+and six-month periods ended June 30, 2016 and 2015 and Devon’s financial position as of June 30, 2016.
+Recently Issued Accounting Standards
+The FASB issued ASU 2016-09, Compensation – Stock Compensation (Topic 718): Improvements to Employee Share-
+Based Payment Accounting. Its objective is to simplify several aspects of the accounting for share-based payments,
+including accounting for income taxes when awards vest or are settled, statutory withholding and accounting for forfeitures.
+Classification of these aspects on the statement of cash flows is also addressed. This ASU is effective for Devon beginning
+January 1, 2017. Devon is evaluating the impact this ASU will have on its consolidated financial statements and related
+disclosures and does not plan on early adopting.
+The FASB issued ASU 2014-09, Revenue from Contracts with Customers (Topic 606). This ASU will supersede the revenue
+recognition requirements in Topic 605, Revenue Recognition and industry-specific guidance in Subtopic 932-605, Extractive
+Activities – Oil and Gas – Revenue Recognition. This ASU provides guidance concerning the recognition and measurement
+of revenue from contracts with customers. Its objective is to increase the usefulness of information in the financial statements
+regarding the nature, timing and uncertainty of revenues. The effective date for ASU 2014-09 was delayed through the
+issuance of ASU 2015-14, Revenue from Contracts with Customers – Deferral of the Effective Date, to annual and interim
+periods beginning in 2018, with early adoption permitted in 2017. The ASU is required to be adopted using either the
+retrospective transition method, which requires restating previously reported results or the cumulative effect (modified
+retrospective) transition method, which utilizes a cumulative-effect adjustment to retained earnings in the period of adoption
+to account for prior period effects rather than restating previously reported results. Devon intends to use the cumulative effect
+transition method and is evaluating the impact this ASU will have on its consolidated financial statements and related
+disclosures. Devon does not plan on early adopting.
+The FASB issued ASU 2016-02, Leases (Topic 842). This ASU will supersede the lease requirements in Topic 840, Leases.
+Its objective is to increase transparency and comparability among organizations. This ASU provides guidance requiring
+lessees to recognize most leases on their balance sheet. Lessor accounting does not significantly change from Topic 840,
+except for some changes made to align with Topic 606. This ASU is effective for Devon beginning January 1, 2019 and will
+be applied using a modified retrospective transition method, which requires applying the new guidance to leases that exist or
+are entered into after the beginning of the earliest period in the financial statements. Early adoption is permitted. Devon is
+evaluating the impact this ASU will have on its consolidated financial statements and related disclosures and does not plan
+on early adopting.
+2.Acquisitions and Divestitures
+Devon Acquisitions
+On January 7, 2016, Devon acquired approximately 80,000 net acres and assets in the STACK play for approximately $1.5
+billion, subject to certain adjustments. Devon funded the acquisition with $847 million of cash and $659 million of common
+equity shares. The allocation of the purchase price at June 30, 2016 was approximately $1.3 billion to unproved properties
+and approximately $200 million to proved properties.
+10
+DEVON ENERGY CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – (Continued)
+(Unaudited)
+EnLink Acquisitions
+On January 7, 2016, EnLink acquired Anadarko Basin gathering and processing midstream assets, along with dedicated
+acreage service rights and service contracts, for approximately $1.5 billion, subject to certain adjustments. EnLink funded the
+acquisition with approximately $215 million of General Partner common units and approximately $800 million of cash,
+primarily funded with the issuance of EnLink preferred units. The remaining $500 million of the purchase price is to be paid
+within one year with the option to defer $250 million of the final payment 24 months from the close date. The first $250 million
+of undiscounted future installment payment is reported in other current liabilities in the accompanying consolidated balance
+sheets with the remaining $250 million payment reported in other long-term liabilities. The accretion of the discount is
+reported within net financing costs in the accompanying consolidated comprehensive statement of earnings. A preliminary
+allocation of the purchase price at June 30, 2016 was $1.0 billion to intangible assets and $420 million to property and
+equipment.
+On August 1, 2016, EnLink formed a joint venture to operate and expand its midstream assets in the Delaware Basin. The
+joint venture is initially owned 50.1% by EnLink and 49.9% by the joint venture partner. EnLink contributed approximately
+$230 million of existing assets to the joint venture and committed an additional $285 million in capital to fund potential future
+development projects and potential acquisitions. The joint venture partner committed an aggregate of approximately $400
+million of capital, including an initial contribution of approximately $115 million, and granted to EnLink call rights beginning
+in 2021 to acquire increasing portions of the joint venture partner’s interest.
+Devon Asset Divestitures
+In December 2015, Devon announced its intent to divest certain non-core upstream assets in the U.S. and its interest in the
+Access Pipeline in Canada. Proceeds from these divestitures are expected to be used primarily for debt repayment and to
+support capital investment in Devon’s core resource plays.
+On June 30, 2016, Devon sold its Mississippian assets for $200 million, subject to certain adjustments. Estimated proved
+reserves associated with these assets were approximately 11 MMBoe, or less than 1% of total U.S. proved reserves. Under
+full cost accounting rules, sales or dispositions of oil and gas properties are generally accounted for as adjustments to
+capitalized costs, with no recognition of a gain or loss. No gain or loss was recognized on the sale of the Mississippian
+assets.
+During the second quarter of 2016, Devon entered into definitive agreements to divest approximately $1.8 billion of non-core
+assets located primarily in east Texas, the Anadarko Basin and the Midland Basin to five separate purchasers. Through
+August 3, 2016, Devon has closed approximately $1.2 billion of the announced asset divestitures. Devon expects to close
+the remaining transactions in the third quarter of 2016. Devon is evaluating whether the impact of these divestitures will
+result in an adjustment to its capitalized costs or in the recognition of a gain in the consolidated statement of earnings.
+As of June 30, 2016, Devon held approximately $95 million in cash related to the pending transactions. The cash deposits
+are restricted until the closing of the transactions. As a result, Devon has classified these amounts in other current assets and
+other current liabilities in the accompanying consolidated balance sheet.
+Assets held for sale
+In July 2016, Devon reached an agreement to sell its interest in the Access Pipeline for $1.1 billion ($1.4 billion Canadian
+dollars). The transaction is expected to close in the third quarter of 2016. As of June 30, 2016, Devon’s Access Pipeline
+assets and liabilities were classified as held for sale. Upon this classification change, Devon ceased recording depreciation
+on Access Pipeline. Based on the contracted sales price, no fair value adjustment to the carrying value of these assets and
+liabilities was warranted at June 30, 2016, and Devon expects to recognize a gain of approximately $400 million to $600
+million upon the closing of the sale. Under the terms of the related transportation agreement, Devon’s Canadian thermal-oil
+acreage is dedicated to Access Pipeline for an initial term of 25 years. A market-based toll will be applied to production from
+Devon’s thermal-oil projects.
+11
+DEVON ENERGY CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – (Continued)
+(Unaudited)
+3.Derivative Financial Instruments
+Objectives and Strategies
+Devon periodically enters into derivative financial instruments with respect to a portion of its oil, gas and NGL production to
+hedge future prices received. Additionally, Devon and EnLink periodically enter into derivative financial instruments with
+respect to a portion of their oil, gas and NGL marketing activities. These commodity derivative financial instruments include
+financial price swaps, basis swaps, costless price collars and call options. Devon periodically enters into interest rate swaps
+to manage its exposure to interest rate volatility and foreign exchange forward contracts to manage its exposure to
+fluctuations in the U.S. and Canadian dollar exchange rates. As of June 30, 2016, Devon did not have any open foreign
+exchange contracts.
+Devon does not intend to hold or issue derivative financial instruments for speculative trading purposes and has elected not
+to designate any of its derivative instruments for hedge accounting treatment.
+As of December 31, 2015, Devon’s other current assets in the accompanying consolidated balance sheet included $236
+million of accrued settlements that it received in January 2016.
+Counterparty Credit Risk
+By using derivative financial instruments, Devon is exposed to credit risk. Credit risk is the failure of the counterparty to
+perform under the terms of the derivative contract. To mitigate this risk, the hedging instruments are placed with a number of
+counterparties whom Devon believes are acceptable credit risks. It is Devon’s policy to enter into derivative contracts only
+with investment-grade rated counterparties deemed by management to be competent and competitive market makers.
+Additionally, Devon’s derivative contracts generally contain provisions that provide for collateral payments, if Devon’s or its
+counterparty’s credit rating falls below certain credit rating levels.
+As of December 31, 2015, Devon held $75 million of cash collateral which represented the estimated fair value of certain
+derivative positions in excess of Devon’s credit guidelines. The collateral is reported in other current liabilities in the
+accompanying consolidated balance sheets.
+Commodity Derivatives
+As of June 30, 2016, Devon had the following open oil derivative positions. The first table presents Devon’s oil derivatives
+that settle against the average of the prompt month NYMEX WTI futures price. The second table presents Devon’s oil
+derivatives that settle against the respective indices noted within the table.
+Price Swaps
+Price Collars
+Call Options Sold
+Weighted
+Weighted
+Weighted
+Average
+Weighted
+Volume
+Average
+Volume
+Average Floor
+Ceiling Price
+Volume
+Average Price
+Price ($/Bbl)
+(Bbls/d)  
+Period
+  33,000   $ 48.37
+Q3 2016
+Q4 2016
+  30,000   $ 48.58
+Q1-Q4 2017  2,623   $ 51.79
+Price ($/Bbl)
+(Bbls/d)  
+   65,000   $ 40.37
+   20,000   $ 40.85
+   7,248   $ 47.21
+($/Bbl)
+  $ 46.91
+  $ 50.85
+  $ 57.21
+($/Bbl)
+(Bbls/d)  
+   18,500   $ 55.00
+   18,500   $ 55.00
+   —
+$ —
+Oil Basis Swaps
+Weighted Average
+Differential to WTI
+Index
+Period
+Q3-Q4 2016 Western Canadian Select   41,500
+   5,000
+Q3-Q4 2016 West Texas Sour
+Q3-Q4 2016 Midland Sweet
+   13,000
+Volume (Bbls/d)
+($/Bbl)
+  $ (13.43
+  $ (0.53
+  $ 0.25
+)
+)
+12
+DEVON ENERGY CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – (Continued)
+(Unaudited)
+As of June 30, 2016, Devon had the following open natural gas derivative positions. The first table presents Devon’s natural
+gas derivatives that settle against the Inside FERC first of the month Henry Hub index. The second table presents Devon’s
+natural gas derivatives that settle against the respective indices noted within the table.
+Price Swaps
+Price Collars
+Call Options Sold
+Weighted
+Weighted
+Weighted
+Average Floor
+Average
+Weighted
+Volume
+Average Price
+Volume
+Price
+Ceiling Price
+Volume
+Average Price
+($/MMBtu)
+Period
+Q3 2016
+Q4 2016
+Q1-Q4 2017  79,397
+(MMBtu/d)  
+  140,000   $ 2.78
+  155,000   $ 2.83
+  $ 3.00
+($/MMBtu)
+(MMBtu/d)  
+   105,000   $ 2.57
+   275,000   $ 2.70
+   42,411
+  $ 2.96
+($/MMBtu)
+  $ 2.85
+  $ 2.90
+  $ 3.26
+($/MMBtu)
+(MMBtu/d)  
+   400,000   $ 2.80
+   400,000   $ 2.80
+   —
+$ —
+Natural Gas Basis Swaps
+Weighted Average
+Differential to
+Volume
+Henry Hub
+($/MMBtu)
+Index
+(MMBtu/d)
+Period
+Q3-Q4 2016 Panhandle Eastern Pipe Line  175,000   $ (0.34
+  125,000   $ (0.12
+Q3-Q4 2016 El Paso Natural Gas
+  $ 0.11
+  30,000
+Q3-Q4 2016 Houston Ship Channel
+Q3-Q4 2016 Transco Zone 4
+  70,000
+  $ 0.01
+Q1-Q4 2017 Panhandle Eastern Pipe Line  150,000   $ (0.34
+  $ (0.13
+Q1-Q4 2017 El Paso Natural Gas
+  80,000
+  35,000
+Q1-Q4 2017 Houston Ship Channel
+  $ 0.06
+Q1-Q4 2017 Transco Zone 4
+  205,000   $ 0.03
+)
+)
+ 
+ 
+)
+)
+As of June 30, 2016, Devon had the following open NGL derivative positions. Devon’s NGL positions settle against the
+average of the prompt month OPIS Mont Belvieu, Texas index.
+Price Swaps
+Price Collars
+Weighted
+Weighted
+Weighted
+Average
+Volume
+Average Price
+Volume
+Average Floor
+Ceiling Price
+Product
+Period
+($/Bbl)
+Q3-Q4 2016 Ethane   6,000   $ 9.34
+Q3-Q4 2016 Propane  —
+(Bbls/d)
+$ —
+Price ($/Bbl)
+(Bbls/d)  
+   10,500   $ 8.20
+   5,000   $ 19.61
+($/Bbl)
+  $ 9.46
+  $ 21.71
+As of June 30, 2016, EnLink had the following open derivative positions associated with gas processing and fractionation.
+EnLink’s NGL derivative positions settle by purity product against the average of the prompt month OPIS Mont Belvieu,
+Texas index. EnLink’s natural gas derivatives settle against the Henry Hub Gas Daily index.
+Weighted Average
+Weighted Average
+Volume (Total)  
+Period
+ Product
+  273  MBbls
+Q3 2016-Q4 2016 Ethane
+Q3 2016-Q2 2017 Propane
+  557  MBbls
+Q3 2016-Q2 2017 Normal Butane   122  MBbls
+Q3 2016-Q2 2017 Natural Gasoline  66
+ MBbls
+Q3 2016-Q2 2017 Natural Gas
+ Condensate
+Q4 2016
+Price Paid
+ $0.29/gal
+ Index
+ Index
+ Index
+  7,082 MMBtu/d Index
+ Index
+  50
+MBbls
+Price Received
+ Index
+ $0.72/gal
+ $0.58/gal
+ $0.95/gal
+ $2.86/MMbtu
+ $40.20/bbl
+13
+DEVON ENERGY CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – (Continued)
+(Unaudited)
+Interest Rate Derivatives
+As of June 30, 2016, Devon had the following open interest rate derivative positions:
+Notional   Rate Received
+(Millions)     
+$ 100
+$ 750
+$ 100
+Three Month LIBOR    0.92%
+  Three Month LIBOR    2.98%
+    1.76%
+Rate Paid
+Expiration
+   
+  December 2016
+  December 2048 (1)
+Three Month LIBOR  January 2019
+14
+(1)Mandatory settlement in December 2018.
+Financial Statement Presentation
+The following table presents the net gains and losses by derivative financial instrument type followed by the corresponding
+individual consolidated comprehensive statements of earnings caption.
+Three Months
+Six Months
+  
+ 
+ 
+Ended June 30,
+Ended June 30,
+ 2016   2015   2016   2015  
+ 
+ 
+ (Millions)
+ 
+ 
+    
+Commodity derivatives:
+ 
+ $ (142 ) $ (282 ) $ (109 ) $ 12
+Oil, gas and NGL derivatives
+)   2
+ 
+)   —     (6
+Marketing and midstream revenues   (6
+ 
+     
+    
+Interest rate derivatives:
+     
+     
+ 
+    (143 )   2
+   (71 )   1
+Other nonoperating items
+     
+     
+    
+Foreign currency derivatives:
+     
+ 
+Other nonoperating items
+   (4
+)   (24
+)   (159 )   109  
+ $ (223 ) $ (305 ) $ (417 ) $ 125  
+Net gains (losses) recognized
+DEVON ENERGY CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – (Continued)
+(Unaudited)
+The following table presents the derivative fair values by derivative financial instrument type followed by the corresponding
+individual consolidated balance sheet caption.
+June 30, 2016  December 31, 2015 
+ 
+ 
+ (Millions)
+ 
+ 
+  
+Commodity derivative assets:
+ $ 14
+ 
+Other current assets
+ 
+2
+  
+Other long-term assets
+ 
+ 
+  
+Interest rate derivative assets:
+ 
+1
+  
+Other current assets
+  
+2
+ 
+Other long-term assets
+ 
+  
+ 
+Foreign currency derivative assets:
+ 
+   —
+Other current assets
+ 
+ $ 19
+Total derivative assets
+  
+ 
+ 
+ 
+  
+Commodity derivative liabilities:
+ 
+ $ 104
+Other current liabilities
+ 
+  
+Other long-term liabilities
+  
+ 
+Interest rate derivative liabilities:
+ 
+Other long-term liabilities
+  
+ 
+Foreign currency derivative liabilities:  
+ 
+Other current liabilities
+Total derivative liabilities
+34
+1
+ 
+1
+1
+ 
+8
+45
+ 
+ 
+14
+4
+ 
+22
+ 
+8
+48
+$
+   
+   
+   
+   
+   
+   
+  $
+   
+   
+  $
+   
+   
+   
+   
+   
+  $
+—
+ $ 277
+7
+ 
+166
+15
+DEVON ENERGY CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – (Continued)
+(Unaudited)
+4.Share-Based Compensation
+The following table presents the effects of share-based compensation included in Devon’s accompanying consolidated
+comprehensive statements of earnings. Gross G&A expense for the first six months of 2016 and 2015 includes $12 million
+and $18 million, respectively, of unit-based compensation related to grants made under EnLink’s long-term incentive plans.
+The vesting for certain share-based awards was accelerated in 2016 in conjunction with the reduction of workforce
+described in Note 6. For the six months ended June 30, 2016, approximately $67 million of associated expense for these
+accelerated awards is included in restructuring and transaction costs in the accompanying consolidated comprehensive
+statements of earnings.
+Gross G&A for share-based compensation
+Share-based compensation expense capitalized
+pursuant to the full cost method of accounting
+Six Months Ended June 30, 
+ 2016
+ 
+ 
+ (Millions)
+ $
+$ 127
+2015
+80
+for oil and gas properties
+Related income tax benefit
+$
+ $
+21
+2
+$ 31
+    $ 26
+Under its approved long-term incentive plan, Devon granted share-based awards to certain employees in the first six months
+of 2016. The following table presents a summary of Devon’s unvested restricted stock awards and units, performance-based
+restricted stock awards and performance share units granted under the plan.
+Restricted Stock
+ Awards and Units
+Performance
+  Performance-Based
+  Restricted Stock Awards  Share Units
+Weighted
+Average
+Weighted
+Average
+Weighted
+Average
+Awards and
+Grant-Date
+Grant-Date
+Grant-Date
+Unvested at 12/31/15  4,738
+  4,299
+Granted
+Vested
+  (2,051
+Forfeited
+  (121
+Unvested at 6/30/16   6,865
+Fair Value   Awards   
+Units
+ (Thousands, except fair value data)
+Fair Value
+$ 62.49
+  $ 19.46
+) $ 62.50
+) $ 50.58
+  $ 35.74
+434
+    330
+    (102
+    —
+    662
+$ 60.48
+  $ 19.22
+) $ 62.55
+  $ —
+  $ 39.57
+Units
+Fair Value
+$ 76.17
+   1,859 
+   1,388 
+  $ 10.41
+   (602 )   $ 63.37
+   (7
+)   $ 81.67
+   2,638(1)  $ 46.52
+(1)A maximum of 5.3 million common shares could be awarded based upon Devon’s final TSR ranking relative to Devon’s
+peer group established under applicable award agreements.
+The following table presents the assumptions related to the performance share units granted in 2016, as indicated in the
+previous summary table.
+16
+2016
+ 
+ 
+ $9.24   —  $10.61 
+Grant-date fair value
+    0.94 %
+    
+Risk-free interest rate
+    37.7 %
+Volatility factor
+    
+Contractual term (years)    
+    2.83
+DEVON ENERGY CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – (Continued)
+(Unaudited)
+The following table presents a summary of the unrecognized compensation cost and the related weighted average
+recognition period associated with unvested awards and units as of June 30, 2016.
+Unrecognized compensation cost (millions)
+Restricted Stock   Restricted Stock
+ Awards and Units  Awards
+ $
+8
+170
+$
+Performance-Based
+Performance 
+  Share Units  
+  $ 34
+Weighted average period for recognition (years)
+2.6
+2.5
+1.8
+EnLink Share-Based Awards
+The following table presents a summary of the unrecognized compensation cost and the related weighted average
+recognition period associated with the General Partner’s and EnLink’s unvested restricted incentive units and performance
+units as of June 30, 2016.
+Unrecognized compensation cost (millions)
+Weighted average period for recognition (years) 1.7
+General Partner
+ Restricted
+ Incentive Units  Units
+  $ 4
+ $
+19
+2.0
+Performance
+2.0
+Incentive Units  Units
+  $ 4
+  $
+  1.8
+19
+EnLink
+Performance  Restricted
+5.Asset Impairments
+The following table presents the components of asset impairments recognized by Devon.
+2015
+Three Months Ended June 30,  Six Months Ended June 30, 
+ 
+ 
+ 2016
+ 
+ 
+ (Millions)
+ 
+ 
+U.S. oil and gas assets
+ $ 885
+Canada oil and gas assets   612
+ 
+ 
+EnLink goodwill
+ 
+Other assets
+Total asset impairments
+$ 4,167
+      —
+      —
+      1
+    $ 4,168
+$ 9,625
+      —
+      —
+      3
+    $ 9,628
+$ 2,493
+    1,166
+    873
+    —
+  $ 4,532
+—
+   —
+ $ 1,497
+2015
+2016
+Oil and Gas Impairments
+Under the full cost method of accounting, capitalized costs of oil and gas properties, net of accumulated DD&A and deferred
+income taxes, may not exceed the full cost “ceiling” at the end of each quarter. The ceiling is calculated separately for each
+country and is based on the present value of estimated future net cash flows from proved oil and gas reserves, discounted at
+10% per annum, net of related tax effects. Estimated future net cash flows are calculated using end-of-period costs and an
+unweighted arithmetic average of commodity prices in effect on the first day of each of the previous 12 months.
+The oil and gas impairments resulted from declines in the U.S. and Canada full cost ceilings. The lower ceiling values
+resulted primarily from significant decreases in the 12-month average trailing prices for oil, bitumen, gas and NGLs, which
+significantly reduced proved reserves values and, to a lesser degree, proved reserves.
+EnLink Goodwill Impairments
+In the first quarter of 2016, Devon recognized goodwill impairments related to EnLink’s business. Additional information
+regarding the impairments is discussed in Note 13.
+17
+DEVON ENERGY CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – (Continued)
+(Unaudited)
+6.Restructuring and Transaction Costs
+The following table summarizes restructuring and transaction costs presented in the accompanying consolidated
+comprehensive statement of earnings.
+June 30, 2016
+ 
+ 
+ Three Months Ended  Six Months Ended 
+ 
+ (Millions)
+ 
+ 
+ 
+  
+2016 reduction in workforce:
+ 
+ $
+Employee-related costs
+ 
+  
+Lease obligations
+  
+ 
+Asset impairments
+ 
+Transaction costs
+  
+Restructuring and transaction costs $
+236
+17
+3
+15
+271
+2
+17
+3
+2
+24
+$
+   
+   
+   
+  $
+The following table summarizes Devon’s restructuring liabilities.
+Other
+     
+  Long-term
+Other
+ 
+ Current
+ 
+ 
+ Liabilities  Liabilities   Total 
+ 
+ (Millions)
+ 
+ 
+  $76  
+Balance as of December 31, 2015
+ $ 13
+    120 
+Changes due to 2016 workforce reductions    107
+Changes related to prior years' restructurings   3
+)   (3 )
+  $193 
+Balance as June 30, 2016
+     
+ 
+ 
+  $20  
+Balance as of December 31, 2014
+Changes related to prior years' restructurings  
+)   (5 )
+  $15  
+Balance as of June 30, 2015
+$ 63
+13
+   
+   
+(6
+  $ 70
+   
+ 
+  $ 7
+)  
+(2
+  $ 5
+$ 123
+  
+ $ 13
+(3
+ $ 10
+Reduction in Workforce
+In the first six months of 2016, Devon recognized $236 million in employee-related costs associated with a reduction in
+workforce that was made in response to the depressed commodity price environment. Of these employee-related costs,
+approximately $67 million resulted from accelerated vesting of share-based grants, which are noncash charges. Additionally,
+approximately $30 million resulted from estimated defined benefit settlements. These cash and noncash charges included
+estimates for employees released from service during the first six months of 2016, as well as amounts based on the number
+of employees expected to be impacted by certain of its non-core asset divestitures. Devon expects to complete these
+pending divestitures in the third quarter of 2016.
+As a result of the reduction in workforce and asset divestitures, Devon ceased using certain office space that was subject to
+non-cancellable operating lease arrangements. Consequently, Devon recognized $17 million of restructuring costs that
+represent the present value of its future obligations under the leases. Additionally, Devon recognized $3 million of asset
+impairment charges for leasehold improvements and furniture associated with the office space it ceased using.
+Transaction Costs
+In the first six months of 2016, Devon and EnLink recognized transaction costs primarily associated with the closing of the
+acquisitions discussed in Note 2.
+18
+DEVON ENERGY CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – (Continued)
+(Unaudited)
+7.Income Taxes
+The following table presents Devon’s total income tax benefit and a reconciliation of its effective income tax rate to the U.S.
+statutory income tax rate.
+Total income tax benefit (millions)
+ 
+ 
+U.S. statutory income tax rate
+(35
+Deferred tax asset valuation allowance   27
+Non-deductible goodwill impairment
+   0
+   3
+Taxation on Canadian operations
+(2
+  
+State income taxes
+(3
+  
+Other
+Effective income tax rate
+  
+(10
+Three Months Ended June 30, 
+ 
+ 2016
+ $ (182
+)
+ 
+  
+%)   (35
+  
+%    24
+%    6
+%    2
+%)   (1
+%)   (3
+%)   (7
+)
+ 
+%)
+%     0
+%     0
+%     1
+(2
+%)
+(2
+%)
+%)
+(38
+2015
+  $ (1,686
+(35
+(35
+2015
+ $ (3,721
+Six Months Ended June 30, 
+ 
+ 2016
+ $ (399
+)
+ 
+  
+%)
+%
+%
+%
+%)
+%)
+%)
+)
+ 
+%)
+%    0
+%    0
+%    1
+(2
+%)
+(1
+%)
+%)
+(37
+Devon estimates its annual effective income tax rate in recording its quarterly provision for income taxes in the various
+jurisdictions in which it operates. Statutory tax rate changes and other significant or unusual items are recognized as discrete
+items in the quarter in which they occur.
+At December 31, 2015, Devon recorded a 100%, or $967 million, valuation allowance against the U.S. deferred tax assets
+that largely resulted from the full cost impairments recognized during 2015. Through the first six months of 2016, Devon
+provided an additional $1.3 billion valuation allowance against the U.S. deferred tax assets due to its continued financial
+losses incurred largely by the additional full cost impairments.
+In the first quarter of 2016, EnLink recorded a goodwill impairment of approximately $873 million. This impairment is not
+deductible for purposes of calculating income tax and therefore has an impact on the effective tax rate.
+Devon and its subsidiaries are subject to U.S. federal income tax as well as income or capital taxes in various state and
+foreign jurisdictions. Devon’s tax reserves are related to tax years that may be subject to examination by the relevant taxing
+authority. Devon is under audit in the U.S. and various foreign jurisdictions as part of its normal course of business.
+19
+DEVON ENERGY CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – (Continued)
+(Unaudited)
+8.Net Loss Per Share Attributable to Devon
+8.Net Loss Per Share Attributable to Devon
+The following table reconciles net loss attributable to Devon and weighted-average common shares outstanding used in the
+calculations of basic and diluted net loss per share.
+Net loss:
+Net loss attributable to Devon
+Attributable to participating securities
+Basic and diluted loss
+Common shares:
+Common shares outstanding - total
+Attributable to participating securities
+Common shares outstanding - basic
+Dilutive effect of potential common
+2015
+June 30,
+  2016
+Three Months Ended  Six Months Ended 
+ 
+ June 30,
+  2015
+ 2016
+ 
+ 
+ (Millions, except per share amounts)
+    
+ 
+ $ (1,570 ) $ (2,816 ) $(4,626 ) $(6,415 )
+   (1
+)
+ $ (1,571 ) $ (2,817 ) $(4,627 ) $(6,417 )
+)   (1
+)   (1
+)   (2
+524
+   (6
+   518
+411
+)   (5
+    406
+502
+)   (6
+    496
+411
+)   (5
+    406
+)
+shares issuable
+Common shares outstanding - diluted
+Net loss per share attributable to Devon:    
+Basic
+Diluted
+Antidilutive options (1)
+$ (3.04
+ $ (3.04
+   3
+—
+   518
+—
+    406
+     
+) $ (6.94
+) $ (6.94
+    3
+—
+    406
+—
+ 
+    496
+     
+ 
+) $(9.33 ) $(15.81 )
+) $(9.33 ) $(15.81 )
+ 
+    3
+4
+(1)Amounts represent options to purchase shares of Devon’s common stock that are excluded from the diluted net loss per
+share calculations because the options are antidilutive.
+20
+DEVON ENERGY CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – (Continued)
+(Unaudited)
+9.Other Comprehensive Earnings
+Components of other comprehensive earnings consist of the following:
+Foreign currency translation:
+Beginning accumulated foreign currency translation
+Change in cumulative translation adjustment
+Income tax benefit (expense)
+Ending accumulated foreign currency translation
+2015
+2015
+June 30,
+  2016
+Three Months Ended  Six Months Ended 
+ 
+ June 30,
+ 
+ 2016
+ 
+(Millions)
+  
+ 
+      
+   $ 983
+ $ 447
+ 
+     (277 )
+   2
+ 
+)   19
+   1
+   450
+     725
+$ 681
+     60
+    
+(16
+     725
+$ 424
+    53
+)   (27
+    450
+Pension and postretirement benefit plans:
+Beginning accumulated pension and postretirement
+Beginning accumulated pension and postretirement
+benefits
+Recognition of net actuarial loss and prior service
+cost in earnings (1)
+Income tax expense
+Ending accumulated pension and postretirement
+(190
+)
+(200
+)   (194 )   (204 )
+8
+   (3
+5
+)   
+(2
+13
+)   (4
+11
+)   (4
+)
+benefits
+   (185
+Accumulated other comprehensive earnings, net of tax $ 265
+)   
+(197
+   $ 528
+)   (185 )   (197 )
+ 
+  $ 265
+$ 528
+(1)These accumulated other comprehensive earnings components are included in the computation of net periodic benefit
+cost, which is a component of G&A on the accompanying consolidated comprehensive statements of earnings. See Note
+16 for additional details.
+10.Supplemental Information to Statements of Cash Flows
+Net change in working capital accounts, net of assets and
+liabilities assumed:
+Accounts receivable
+Income taxes receivable
+Other current assets
+Accounts payable
+Revenues and royalties payable
+Other current liabilities
+Net change in working capital
+Interest paid (net of capitalized interest)
+Income taxes paid (received)
+Three Months Ended June 30,  Six Months Ended June 30, 
+ 
+ 2016
+ (Millions)
+2015
+2016
+2015
+$ (140
+(14
+  
+(107
+  
+  
+(30
+   95
+   43
+ $ (153
+ $ 174
+ $ 5
+)   $ 36
+)    
+(9
+)     87
+)    
+(87
+      53
+     
+(269
+)   $ (189
+    $ 112
+    $ 84
+$ 6
+)   101
+    144
+)  
+(151
+(6
+   
+)  
+(49
+) $ 45
+  $ 289
+  $ (123
+(6
+(102
+(183
+(539
+$ 440
+      416
+     
+)    
+)    
+)    
+    $ 26
+    $ 230
+)   $ (330
+)
+)
+)
+)
+ 
+ 
+)
+Devon’s acquisition of certain STACK assets during the first three months of 2016 included the noncash issuance of Devon
+common stock. See Note 2 for additional details.
+EnLink’s acquisition of Anadarko Basin gathering and processing midstream assets during the first quarter of 2016 included
+noncash issuance of General Partner common units. See Note 2 for additional details. During the first six months of 2015,
+EnLink’s acquisitions included $360 million of noncash equity issuance.
+21
+DEVON ENERGY CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – (Continued)
+(Unaudited)
+11.Accounts Receivable
+11.Accounts Receivable
+Components of accounts receivable include the following:
+June 30, 2016  December 31, 2015 
+ 
+ 
+ (Millions)
+ 
+ 
+ $ 440
+Oil, gas and NGL sales
+   107
+ 
+Joint interest billings
+ 
+Marketing and midstream revenues   552
+ 
+   83
+Other
+ 
+   1,182
+Gross accounts receivable
+Allowance for doubtful accounts
+  
+)
+ 
+ $ 1,167
+Net accounts receivable
+$ 362
+   
+211
+520
+   
+30
+   
+1,123
+   
+)  
+(18
+  $ 1,105
+(15
+12.Other Current Liabilities
+Components of other current liabilities include the following:
+Installment payment - see Note 2 $ 236
+   150
+Accrued interest payable
+Restructuring liabilities
+   123
+   501
+Other
+Other current liabilities
+ $ 1,010
+June 30, 2016  December 31, 2015 
+ 
+ (Millions)
+$ —
+   
+   
+   
+  $
+149
+13
+488
+650
+13.Goodwill and Other Intangible Assets
+Goodwill
+Devon performs an annual impairment test of goodwill at October 31, or more frequently if events or changes in
+circumstances indicate that the carrying value of a reporting unit may not be recoverable. Sustained weakness in the overall
+energy sector driven by low commodity prices, together with a decline in EnLink’s unit price, caused a change in
+circumstances warranting an interim impairment test of EnLink’s reporting units in the first quarter of 2016. Based on that test,
+EnLink recorded a noncash goodwill impairment of $873 million. This consisted of a full impairment charge of $93 million
+related to its Crude and Condensate reporting unit and partial impairment to its Texas and General Partner reporting units of
+$473 million and $307 million, respectively.
+Other Intangible Assets
+The following table presents other intangible assets reported in other long-term assets in the accompanying consolidated
+balance sheets. See Note 2 for discussion of changes in other intangible assets resulting from EnLink acquisitions during
+the first six months of 2016.
+22
+Customer relationships
+Accumulated amortization  
+Net intangibles
+June 30, 2016  December 31, 2015 
+ 
+ (Millions)
+ $ 1,779
+ 
+)
+(112
+ $ 1,667
+745
+(55
+690
+$
+)  
+  $
+DEVON ENERGY CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – (Continued)
+(Unaudited)
+The weighted-average amortization period for other intangible assets is 14 years. Amortization expense for intangibles was
+approximately $30 million and $18 million for the three months ended June 30, 2016 and 2015, respectively and $58 million
+and $30 million for six months ended June 30, 2016 and 2015, respectively. The remaining amortization expense is
+estimated to be $117 million each of the next five years.
+14.Debt
+A summary of debt is as follows:
+Devon debt:
+Commercial paper
+Debentures and notes
+Net discount on debentures and notes
+Debt issuance costs
+Total Devon debt
+EnLink debt:
+Credit facilities
+Debentures and notes
+Net premium on debentures and notes
+Debt issuance costs
+Total EnLink debt
+Total debt
+Less amount classified as short-term debt (1)   350
+Total long-term debt
+(27
+(55
+(28
+(57
+June 30, 2016  December 31, 2015 
+ 
+(Millions)
+ 
+  
+ 
+ $ —
+   9,425
+ 
+)
+  
+)
+  
+ 
+   9,343
+  
+ 
+ 
+   712
+ 
+   2,663
+ 
+   11
+  
+(22
+)
+ 
+   3,364
+ 
+   12,707
+$ 626
+    9,425
+)  
+)  
+    9,966
+   
+    414
+    2,663
+    13
+)  
+(24
+    3,066
+    13,032
+    976
+  $ 12,056
+$ 12,357
+(1)Short-term debt as of June 30, 2016 consists of $350 million of floating rate due on December 15, 2016. Short-term debt
+as of December 31, 2015 consists of $626 million of commercial paper and $350 million floating rate due on
+December 15, 2016.
+As of January 1, 2016, Devon adopted ASU 2015-03, Interest – Imputation of Interest (Topic 835): Simplifying the
+Presentation of Debt Issuance Costs. This ASU requires debt issuance costs related to a recognized debt liability to be
+presented on the balance sheet as a direct deduction from the carrying amount of that debt liability rather than as an
+asset. As a result of the adoption, Devon reclassified unamortized debt issuance costs of $81 million as of December 31,
+2015 from other long-term assets to a reduction of long-term debt on the consolidated balance sheets.
+Commercial Paper
+During the six months ended June 30, 2016, Devon reduced commercial paper borrowings by $626 million. As of June 30,
+2016, Devon had no outstanding commercial paper borrowings.
+Credit Lines
+Devon has a $3.0 billion Senior Credit Facility. As of June 30, 2016, there were $66 million in outstanding letters of credit
+and no borrowings under the Senior Credit Facility. The Senior Credit Facility contains only one material financial covenant.
+This covenant requires Devon’s ratio of total funded debt to total capitalization, as defined in the credit agreement, to be no
+greater than 65%. Under the terms of the credit agreement, total capitalization is adjusted to add back noncash financial
+write-downs such as full cost ceiling impairments or goodwill impairments. As of June 30, 2016, Devon was in compliance
+with this covenant with a debt-to-capitalization ratio of 23.1%.
+23
+DEVON ENERGY CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – (Continued)
+(Unaudited)
+EnLink Debt
+All of EnLink’s and the General Partner’s debt is non-recourse to Devon.
+EnLink has a $1.5 billion unsecured revolving credit facility. As of June 30, 2016, there were $11 million in outstanding
+letters of credit and $697 million in outstanding borrowings at an average rate of 2.12% under the $1.5 billion credit facility.
+The General Partner has a $250 million secured revolving credit facility. As of June 30, 2016, the General Partner had $15
+million in outstanding borrowings at an average rate of 4.25%. EnLink and the General Partner were in compliance with all
+financial covenants in their respective credit facilities as of June 30, 2016.
+In July 2016, EnLink issued $500 million of 4.85% unsecured senior notes due 2026. EnLink intends to use the net proceeds
+to repay outstanding borrowings under its revolving credit facility and for general partnership purposes.
+15.Asset Retirement Obligations
+The following table presents the changes in Devon’s asset retirement obligations.
+Six Months Ended June 30, 
+ 
+ 
+ 2016
+ 
+ 
+ 
+ (Millions)
+Asset retirement obligations as of beginning of period $ 1,414
+ 
+ 
+Liabilities incurred and assumed through acquisitions   15
+)
+  
+Liabilities settled and divested
+(51
+ 
+   70
+Revision of estimated obligation
+Accretion expense on discounted obligation
+   39
+ 
+)
+   30
+Foreign currency translation adjustment
+$ 1,399
+      33
+)    
+(31
+      61
+      38
+(45
+2015
+Asset retirement obligations as of end of period
+Less current portion
+Asset retirement obligations, long-term
+1,517
+   44
+ $ 1,473
+1,455
+      64
+    $ 1,391
+During the first six months of 2016, Devon reduced its asset retirement obligation by $35 million for those obligations that
+were assumed by the purchasers of certain Devon non-core upstream U.S. assets.
+16.Retirement Plans
+The following table presents the components of net periodic benefit cost for Devon’s pension and postretirement benefit
+plans.
+Postretirement Benefits
+Service cost
+Interest cost
+Expected return on plan assets
+Amortization of prior service cost (1)   1
+Net actuarial loss (1)
+   7
+Net periodic benefit cost (2)
+ $ 9
+Pension Benefits
+ 
+ Three Months Ended  Six Months Ended  Three Months Ended  Six Months Ended 
+ June 30,
+ 
+ 
+ 2016
+ (Millions)
+ 
+  $ —     $ —   $ —    $ —  
+ $ 3
+   11
+    —       —     —      —  
+)   —       —     —      —  
+(13
+  
+    —      
+)
+    —       —     —      —  
+)
+  $ —     $ (1
+$ 8
+      13
+)    
+(15
+      1
+      5
+    $ 12
+$ 16
+     26
+)   
+(30
+     2
+     10
+   $ 24
+$ 9
+    23
+)  
+(26
+    1
+    13
+  $ 20
+June 30,
+  2016
+June 30,
+  2016
+June 30,
+  2016
+2015
+2015
+) $ (1
+)  $ (1
+2015
+2015
+(1
+)
+(1
+)
+(1
+24
+DEVON ENERGY CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – (Continued)
+(Unaudited)
+(1)These net periodic benefit costs were reclassified out of other comprehensive earnings in the current period.
+(2)Net periodic benefit cost is a component of G&A in the accompanying consolidated comprehensive statements of
+earnings.
+17.Stockholders’ Equity
+Common Stock Issued
+In January 2016, Devon issued approximately 23 million shares of common stock in conjunction with the STACK asset
+acquisition discussed in Note 2.
+In February 2016, Devon issued 79 million shares of common stock to the public, inclusive of 10 million shares sold as part
+of the underwriters’ option. Net proceeds from the offering were $1.5 billion.
+Dividends
+The table below summarizes the dividends Devon paid on its common stock.
+Rate
+Quarter Ended 2016: 
+First quarter 2016
+$ 125
+Second quarter 2016  33
+Total year-to-date
+$ 158
+Quarter Ended 2015: 
+First quarter 2015
+$ 99
+Second quarter 2015  98
+Total year-to-date
+$ 197
+Amount
+ 
+(Millions)  (Per Share)
+$ 0.24
+  $ 0.06
+   
+   
+  $ 0.24
+  $ 0.24
+In response to the depressed commodity price environment, Devon reduced its quarterly dividend to $0.06 per share in the
+second quarter of 2016.
+18.Noncontrolling Interests
+Subsidiary Equity Transactions
+During the first quarter of 2016, EnLink issued common units in conjunction with the acquisition discussed in Note 2. In
+addition, during the first six months of 2016, EnLink issued approximately 3 million common units for net proceeds of $52
+million. As a result of these transactions, Devon’s ownership interest in EnLink decreased from 28% at December 31, 2015
+to 24% at June 30, 2016, excluding the interest held by the General Partner. Additionally, as a result of the transaction
+described in Note 2, Devon’s ownership in the General Partner decreased from 70% to 64% during the same time period.
+The net gains and losses and related income taxes resulting from these transactions have been recorded as an adjustment
+to equity, with the change in ownership reflected as an adjustment to noncontrolling interests.
+Distributions to Noncontrolling Interests
+EnLink and the General Partner distributed $147 million and $118 million to non-Devon unitholders during the first six
+months of 2016 and 2015, respectively.
+25
+DEVON ENERGY CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – (Continued)
+(Unaudited)
+19.Commitments and Contingencies
+Devon is party to various legal actions arising in the normal course of business. Matters that are probable of unfavorable
+outcome to Devon and which can be reasonably estimated are accrued. Such accruals are based on information known
+about the matters, Devon’s estimates of the outcomes of such matters and its experience in contesting, litigating and settling
+similar matters. None of the actions are believed by management to involve future amounts that would be material to
+Devon’s financial position or results of operations after consideration of recorded accruals. Actual amounts could differ
+materially from management’s estimates.
+Royalty Matters
+Numerous oil and natural gas producers and related parties, including Devon, have been named in various lawsuits alleging
+royalty underpayments. The suits allege that the producers and related parties used below-market prices, made improper
+deductions, used improper measurement techniques and entered into gas purchase and processing arrangements with
+affiliates that resulted in underpayment of royalties in connection with oil, natural gas and NGLs produced and sold. Devon is
+also involved in governmental agency proceedings and is subject to related contracts and regulatory controls in the ordinary
+course of business, some that may lead to additional royalty claims. Devon does not currently believe that it is subject to
+material exposure with respect to such royalty matters.
+Environmental Matters
+Devon is subject to certain laws and regulations relating to environmental remediation activities associated with past
+operations, such as the Comprehensive Environmental Response, Compensation, and Liability Act and similar state
+statutes. In response to liabilities associated with these activities, loss accruals primarily consist of estimated uninsured
+remediation costs. Devon’s monetary exposure for environmental matters is not expected to be material.
+Other Matters
+Devon is involved in other various legal proceedings incidental to its business. However, to Devon’s knowledge, there were
+no other material pending legal proceedings to which Devon is a party or to which any of its property is subject.
+26
+DEVON ENERGY CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – (Continued)
+(Unaudited)
+20.Fair Value Measurements
+The following table provides carrying value and fair value measurement information for certain of Devon’s financial assets
+and liabilities. The carrying values of cash, accounts receivable, other current receivables, accounts payable, other current
+payables and accrued expenses included in the accompanying consolidated balance sheets approximated fair value at
+June 30, 2016 and December 31, 2015. Therefore, such financial assets and liabilities are not presented in the following
+table. Additionally, the fair values of oil and gas assets, goodwill and other intangible assets and related impairments are
+measured as of the impairment date using Level 3 inputs. More information on these items is provided in Note 5 and Note
+13.
+June 30, 2016 assets (liabilities):
+Cash equivalents
+Commodity derivatives
+Commodity derivatives
+Inputs
+Carrying   Total Fair  Level 1   Level 2
+ Amount   Value
+  Inputs
+(Millions)
+    
+ $1,241   $1,241
+ $16
+ $(111
+Fair Value Measurements Using: 
+  Level 3  
+ 
+  Inputs
+ 
+ 
+   
+  $ —  
+  $ —  
+) $ —
+$ 1,163   $ 78
+  $ 16
+  $ —
+) $ —
+  $ (111
+$16
+) $(111
+$3
+) $(166
+) $(452
+) $(12
+$ —  
+  $ 3
+  $ —
+ $3
+Interest rate derivatives
+  $ (166
+) $ —  
+ $(166
+) $ —
+Interest rate derivatives
+  $ (12,901 ) $ —  
+ $(12,707) $(12,901 ) $ —
+Debt
+) $ —  
+  $ (452
+) $ —
+ $(447
+Installment payment
+  $ (12
+) $ —  
+ $(12
+) $ —
+Capital lease obligations
+ 
+   
+     
+     
+ 
+    
+   
+     
+ 
+     
+December 31, 2015 assets (liabilities):    
+  $ —  
+  $ 1,471   $ 400
+Cash equivalents
+ $1,871   $1,871
+  $ —  
+Commodity derivatives
+  $ —
+  $ 35
+ $35
+) $ —  
+  $ (18
+) $ —
+Commodity derivatives
+ $(18
+  $ —  
+  $ 2
+  $ —
+Interest rate derivatives
+ $2
+) $ —  
+  $ (22
+) $ —
+Interest rate derivatives
+ $(22
+  $ —  
+Foreign currency derivatives
+  $ —
+  $ 8
+ $8
+  $ (8
+ $(8
+Foreign currency derivatives
+) $ —  
+) $ —
+  $ (11,927 ) $ —  
+ $(13,032) $(11,927 ) $ —
+Debt
+Capital lease obligations
+ $(17
+) $ —
+  $ (16
+) $ —
+$35
+) $(18
+  $2
+) $(22
+  $8
+) $(8
+) $(16
+The following methods and assumptions were used to estimate the fair values in the table above.
+Level 1 Fair Value Measurements
+Cash equivalents – Amounts consist primarily of money market investments. The fair value approximates the carrying value.
+Level 2 Fair Value Measurements
+Cash equivalents – Amounts consist primarily of commercial paper and Canadian agency and provincial securities
+investments. The fair value approximates the carrying value.
+Commodity, interest rate and foreign currency derivatives – The fair values of commodity, interest rate and foreign currency
+derivatives are estimated using internal discounted cash flow calculations based upon forward curves and data obtained
+from independent third parties for contracts with similar terms or data obtained from counterparties to the agreements.
+Debt – Devon’s debt instruments do not actively trade in an established market. The fair values of its debt are estimated
+based on rates available for debt with similar terms and maturity. The fair values of commercial paper and credit facility
+balances are the carrying values.
+27
+DEVON ENERGY CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – (Continued)
+(Unaudited)
+Installment payment – The fair value of the EnLink installment payment as of June 30, 2016 was based on Level 2 inputs
+from third-party market quotations.
+Capital lease obligations – The fair value was calculated using inputs from third-party banks.
+21.Segment Information
+Devon manages its operations through distinct operating segments, which are defined primarily by geographic areas. For
+financial reporting purposes, Devon aggregates its U.S. operating segments into one reporting segment due to the similar
+nature of the businesses. However, Devon’s Canadian E&P operating segment is reported as a separate reporting segment
+primarily due to the significant differences between the U.S. and Canadian regulatory environments. Devon’s U.S. and
+Canadian segments are both primarily engaged in oil and gas E&P activities.
+Devon considers EnLink, combined with the General Partner, to be an operating segment that is distinct from the U.S. and
+Canadian operating segments. EnLink’s operations consist of midstream assets and operations located across the U.S.
+Additionally, EnLink has a management team that is primarily responsible for capital and resource allocation decisions.
+Therefore, EnLink is presented as a separate reporting segment.
+Canada  EnLink  Eliminations  Total
+$857   $ —
+Three Months Ended June 30, 2016:
+Revenues from external customers
+Intersegment revenues
+Depreciation, depletion and amortization
+Interest expense
+Asset impairments
+Restructuring and transaction costs
+Loss before income taxes
+Income tax benefit
+Net earnings (loss)
+Net earnings attributable to noncontrolling interests $1
+Net loss attributable to Devon
+Capital expenditures, including acquisitions
+U.S.
+ (Millions)
+    
+ $1,365   $ 266
+ $—   $ —   $176   $ (176
+ $256
+  $125   $ —
+ $108
+  $47
+  $ (23
+  $—   $ —
+ $885
+ $19
+  $1
+  $ —
+) $ —
+ $(1,097) $ (647 ) $(1
+) $ —
+ $(6
+) $ (174 ) $(2
+  $ —
+ $(1,091) $ (473 ) $1
+  $ —   $6
+  $ —
+ $(1,092) $ (473 ) $(5
+) $ —
+  $139   $ —
+ $284
+$ 103
+  $ 33
+  $ 612
+  $ 4
+$ 29
+$2,488  
+) $—  
+ 
+  $484
+) $165
+ 
+  $1,497  
+  $24
+ 
+  $(1,745)
+  $(182 )
+  $(1,563)
+  $7
+ 
+  $(1,570)
+  $452
+$ 29
+Capital expenditures, including acquisitions
+ 
+Three Months Ended June 30, 2015:
+Revenues from external customers
+Intersegment revenues
+Depreciation, depletion and amortization
+Interest expense
+Asset impairments
+Earnings (loss) before income taxes
+Income tax expense (benefit)
+Net earnings (loss)
+Net earnings attributable to noncontrolling interests $1
+Net earnings (loss) attributable to Devon
+Capital expenditures, including acquisitions
+$139   $ —
+     
+     
+  $1,103  $ —
+$284
+    
+    
+ $1,930   $ 360
+ $—   $ —   $171   $ (171
+  $ —
+ $595
+ $88
+  $ (11
+ $4,168   $ —   $—   $ —
+ $(4,498) $ (36
+  $ —
+) $55
+  $ —
+ $(1,736) $ 40
+  $10
+  $ —
+ $(2,762) $ (76
+) $45
+  $ —
+  $ —   $22
+  $ —
+) $23
+  $158   $ —
+$(2,763) $ (76
+  $ 146
+ $887
+$ 121
+  $ 23
+$98
+  $26
+$452
+ 
+     
+     
+ 
+  $3,393  
+) $—  
+ 
+  $814
+) $126
+ 
+  $4,168  
+  $(4,479)
+  $(1,686)
+  $(2,793)
+  $23
+ 
+  $(2,816)
+  $1,191
+28
+DEVON ENERGY CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS – (Continued)
+(Unaudited)
+Canada  EnLink   Eliminations  Total
+$6
+$10
+) $(382 ) $(6
+$—
+  $212
+  $67
+Six Months Ended June 30, 2016:
+Revenues from external customers
+Intersegment revenues
+Depreciation, depletion and amortization
+Interest expense
+Asset impairments
+Restructuring and transaction costs
+Loss before income taxes
+Income tax benefit
+Net loss
+Net earnings (loss) attributable to noncontrolling interests $1
+Net loss attributable to Devon
+Property and equipment, net
+Total assets
+Capital expenditures, including acquisitions
+ 
+Six Months Ended June 30, 2015:
+Revenues from external customers
+Intersegment revenues
+Depreciation, depletion and amortization
+Interest expense
+Asset impairments
+Earnings (loss) before income taxes
+Income tax expense (benefit)
+Net earnings (loss)
+Net earnings attributable to noncontrolling interests
+Net earnings (loss) attributable to Devon
+Property and equipment, net
+Total assets
+Capital expenditures, including acquisitions
+U.S.
+ (Millions)
+     
+    
+  $1,564   $ —
+ $2,667   $383
+  $ (359
+  $359
+ $—
+  $ —
+  $247
+ $567
+  $ (43
+ $215
+  $91
+  $ —
+ $2,493   $1,166   $873
+ $255
+  $ —
+ $(3,162 ) $(1,396 ) $(872 ) $ —
+ $(11
+) $ —
+ $(3,151 ) $(1,014 ) $(866 ) $ —
+  $(406 ) $ —
+ $(3,152 ) $(1,014 ) $(460 ) $ —
+ $7,823   $2,832   $6,160   $ —
+ $12,856  $4,283   $10,162  $ (57
+  $684
+  $ —
+ $2,177   $110
+     
+    
+   
+     
+    
+   
+  $1,888   $ —
+ $4,189   $581
+  $ (327
+  $327
+ $—
+  $ —
+  $189
+ $1,307   $248
+  $ (23
+  $45
+ $175
+  $48
+  $ —
+ $9,628   $—
+  $—
+  $ —
+ $(9,986 ) $(208 ) $91
+  $ —
+ $(3,729 ) $(13
+) $21
+  $ —
+ $(6,257 ) $(195 ) $70
+  $ —
+ $1
+  $32
+ $(6,258 ) $(195 ) $38
+  $ —
+ $15,852  $6,422   $5,550   $ —
+ $21,897  $7,637   $11,103  $ (111
+ $2,231   $370
+$672
+$ —
+$—
+$—
+$—
+$4,614  
+) $—
+ 
+  $1,026  
+) $330
+ 
+  $4,532  
+  $271
+ 
+  $(5,430 )
+  $(399
+)
+  $(5,031 )
+  $(405
+)
+  $(4,626 )
+  $16,815  
+) $27,244  
+  $2,971  
+     
+ 
+     
+ 
+  $6,658  
+) $—
+ 
+  $1,744  
+) $245
+ 
+  $9,628  
+  $(10,103)
+  $(3,721 )
+  $(6,382 )
+  $33
+ 
+  $(6,415 )
+  $27,824  
+) $40,526  
+  $3,273
+29
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion and analysis addresses material changes in our results of operations and capital resources and
+uses for the three-month and six-month periods ended June 30, 2016 compared to the three-month and six-month periods
+ended June 30, 2015 and in our financial condition and liquidity since December 31, 2015. For information regarding our
+critical accounting policies and estimates, see our 2015 Annual Report on Form 10-K under “Item 7. Management’s
+Discussion and Analysis of Financial Condition and Results of Operations.”
+Overview of 2016 Results
+Key components of our financial performance are summarized below.
+2015
+Three Months Ended June 30, 
+ 
+ 2016
+  Change  
+ 
+ (Millions, except per share amounts)
+ 
+ $(1,570 ) $(2,816 )   +44
+Net loss attributable to Devon
+ $(3.04 ) $(6.94 )   +56
+Net loss per share attributable to Devon
+Core earnings (loss) attributable to Devon (1)
+    - 90
+ $33
+Core earnings (loss) per share attributable to Devon (1) $0.06
+    - 92
+Core production (MBoe/d) (2)
+    0
+   545
+   644
+Total production (MBoe/d)
+    - 4
+Realized price per Boe (3)
+ $18.50   $25.86     - 28
+Operating cash flow
+ $335
+  $1,101     - 70
+  $1,191     - 62
+Capitalized costs, including acquisitions
+ $452
+    - 34
+  $163
+Shareholder and noncontrolling interests distributions  $107
+     
+     
+Cash and cash equivalents
+Total debt
+Six Months Ended June 30, (4) 
+  Change  
+ 2016
+ 
+%
+% $(4,626 ) $(6,415 )  +28
+%
+) $(15.81 )  +41
+% $(9.33
+   - 153 %
+) $409
+% $(216
+   - 144 %
+% $(0.44
+) $0.99
+%
+   +2
+    553
+%   563
+%
+%   665
+   - 2
+    679
+%
+% $15.78   $23.80    - 34
+% $484
+  $2,749    - 82
+%
+%
+% $2,971   $3,273    - 9
+%
+% $305
+   - 3
+%
+ $1,723   $1,725    0
+ 
+ 
+ $12,707   $11,964    +6
+%
+$315
+2015
+$320
+  $0.78
+    547
+    674
+(1)Core earnings (loss) and core earnings (loss) per share attributable to Devon are financial measures not prepared in
+accordance with GAAP. For a description of core earnings (loss) and core earnings (loss) per share attributable to Devon,
+as well as reconciliations to the comparable GAAP measures, see “Non-GAAP Measures” in this Item 2.
+(2)Core production is comprised of production in our key operating areas as outlined in our “Oil, Gas and NGL Production”
+table in this Item 2.
+(3)Excludes any impact of oil, gas and NGL derivatives.
+(4)Except for balance sheet amounts, which are presented as of June 30.
+During the first six months of 2016, commodity prices continued to be volatile. The WTI oil price has ranged from
+approximately $30/Bbl to $50/Bbl and NYMEX Henry Hub natural gas prices have ranged from approximately $1.75/Mcf to
+$3.00/Mcf in 2016. As compared to the first quarter of 2016, we have seen moderate improvements in the commodity price
+environment; however, commodity prices are substantially lower than the second quarter of 2015. Despite the improvements
+over the first quarter of 2016, relatively low prices remained a challenge for us and the upstream energy sector. In spite of
+this, we have continued to execute on our strategy and position our company for long-term success. To that end, we have
+taken financial and operational steps during 2016 by making prudent investments and upgrades to our portfolio of assets,
+bringing the value of certain non-core oil and gas assets forward through divestiture, further optimizing our production
+operations to minimize production declines and controlling costs to strengthen our balance sheet. Specifically, we had
+several key achievements:
+·Expanded our position in the STACK by acquiring approximately 80,000 net acres and assets for $1.5 billion.
+ ·Reduced exploratory and developmental capital investment by 69% as compared to the first six months of 2015.
+ ·Raised net proceeds of $1.5 billion in an offering of our common stock.
+ ·
+Entered into agreements totaling $3.2 billion to sell non-core assets across our portfolio, surpassing the top end of our
+Entered into agreements totaling $3.2 billion to sell non-core assets across our portfolio, surpassing the top end of our
+guidance range. These agreements include our non-core Mississippian, east Texas, Anadarko Basin and Midland Basin
+assets, bringing total E&P non-core transactions to $2.1 billion. Subsequent to quarter-end, we entered into an agreement
+to sell our interest in the Access Pipeline for $1.1 billion.
+ ·Raised 2016 production guidance for core assets by 3%.
+30
+·Reduced LOE by $28 million or 6% as compared to the first quarter of 2016 and by $146 million or 26% compared to the
+second quarter of 2015. 
+ ·Reduced gross G&A by $67 million as compared to the first quarter of 2016, primarily through cost reduction initiatives
+resulting from our February 2016 workforce reduction, the full benefits of which have yet to be realized. Through the first six
+months of 2016, our gross G&A is approximately $200 million lower than the same time period in 2015. The reductions are
+expected to decrease gross G&A costs by approximately $400 million on an annualized basis.
+ ·Exited the second quarter of 2016 with $4.6 billion of liquidity, consisting of $1.7 billion of cash and $2.9 billion of capacity
+on our Senior Credit Facility. We have managed our debt maturity schedule to provide maximum flexibility with near-term
+liquidity; we have no major long-term debt maturities until December 2018.
+In conjunction with the workforce reduction and transactions discussed above, we incurred $271 million of restructuring and
+transaction costs in the first six months of 2016. Additionally, during the first six months of 2016, we recognized $4.5 billion of
+asset impairments related to the continued depressed prices for commodities. While these impairments significantly
+impacted our earnings, they had no effect on our operating cash flow or debt covenants.
+31
+Results of Operations
+Oil, Gas and NGL Production
+Oil (MBbls/d)
+Barnett Shale
+Delaware Basin
+Eagle Ford
+Rockies Oil
+STACK
+Heavy Oil
+Core assets
+Other assets (1)
+Total
+Bitumen (MBbls/d)
+Heavy Oil
+Gas (MMcf/d)
+Barnett Shale
+Delaware Basin
+Eagle Ford
+Rockies Oil
+STACK
+Heavy Oil
+Core assets
+Other assets (1)
+Total
+NGLs (MBbls/d)
+2015
+    
+   1
+   41
+   67
+   16
+   6
+   25
+   156
+   41
+   197
+    
+   73
+    
+   805
+   75
+   146
+   41
+   221
+   20
+Three Months Ended June 30,   Six Months Ended June 30, 
+ 2016   2015   Change  
+ 2016
+  Change  
+   
+   
+ 
+    
+ 
+    
+%
+%   1
+   - 27
+  1
+   - 31
+%
+%   36
+   - 14
+  36
+   - 2
+%
+%   50
+   - 38
+  41
+   - 29
+  15
+   - 6
+%   16
+%
+   +14
+   +185 %
+%   16
+   +190
+  17
+%
+   - 9
+%   24
+   - 13
+  22
+%
+   - 8
+%   143
+   - 16
+  132
+  28
+   - 31
+%   29
+   - 29
+%
+%
+   - 12
+%   172
+   - 19
+  160
+ 
+    
+ 
+    
+   
+%
+   +34
+%   100
+   +36
+  99
+   
+    
+ 
+    
+ 
+%
+   - 9
+%   744
+   - 8
+  739
+%
+   +30
+%   91
+   +33
+  99
+%
+   - 14
+%   124
+   - 29
+  103
+  31
+   - 26
+%   31
+   - 21
+%
+%
+   +23
+%   277
+   +21
+  267
+%
+%   22
+  28
+   +38
+   - 11
+  1,267    1,308    - 3
+%   1,289    1,320    - 2
+%
+%
+   - 16
+%   265
+   - 18
+  260
+1
+   37
+   71
+   14
+   6
+   26
+   155
+   41
+   196
+    
+   75
+    
+   816
+   70
+   144
+   40
+   226
+   24
+319
+316
+1,527    1,627    - 6
+%   1,554    1,636    - 5
+%
+NGLs (MBbls/d)
+Barnett Shale
+Delaware Basin
+Eagle Ford
+STACK
+Rockies Oil
+Core assets
+Other assets (1)
+Total
+Combined (MBoe/d)   
+Barnett Shale
+Delaware Basin
+Eagle Ford
+Rockies Oil
+STACK
+Heavy Oil
+Core assets
+Other assets (1)
+Total
+43
+  13
+  17
+  29
+  1
+  103
+  28
+  131
+167
+  65
+  75
+  21
+  91
+  126
+  545
+  99
+  644
+49
+   10
+   24
+   16
+   1
+   100
+   34
+   134
+    
+   185
+   64
+   114
+   24
+   59
+   101
+   547
+   127
+   674
+- 14
+   +32
+   - 27
+   +79
+   - 11
+   +3
+   - 18
+   - 2
+    
+   - 10
+   +2
+   - 34
+   - 12
+   +54
+   +24
+   - 0
+   - 22
+   - 4
+%   42
+%   12
+%   21
+%   29
+%   1
+%   105
+%   29
+%   134
+ 
+%   168
+%   64
+%   91
+%   22
+%   91
+%   127
+%   563
+%   102
+%   665
+50
+   9
+   23
+   19
+   1
+   102
+   34
+   136
+    
+   188
+   58
+   118
+   22
+   62
+   105
+   553
+   126
+   679
+- 15
+   +38
+   - 11
+   +51
+   +16
+   +3
+   - 15
+   - 1
+    
+   - 11
+   +10
+   - 23
+   +3
+   +46
+   +21
+   +2
+   - 19
+   - 2
+%
+%
+%
+%
+%
+%
+%
+%
+ 
+%
+%
+%
+%
+%
+%
+%
+%
+%
+(1)Other assets are located primarily in the Midland Basin, east Texas, Granite Wash and Mississippian-Lime areas.
+32
+Oil, Gas and NGL Pricing
+Oil (per Bbl)
+U.S.
+Canada
+Total
+Bitumen (per Bbl)
+Canada
+Gas (per Mcf)
+U.S.
+NGLs (per Bbl)
+Three Months Ended June 30, 
+ 2016 (1)   2015 (1)
+  Change  
+ 
+    
+     
+% $34.70   $47.74     - 27
+ $ 41.56   $ 52.52     - 21
+ $ 27.62   $ 42.60     - 35
+% $19.86   $35.57     - 44
+% $32.64   $46.11     - 29
+ $ 39.64   $ 51.25     - 23
+ 
+    
+% $14.73   $27.39     - 46
+ $ 21.40   $ 34.38     - 38
+    
+ 
+% $1.47   $2.29     - 36
+ $ 1.40
+Six Months Ended June 30, 
+ 2016 (1)   2015 (1)   Change  
+ 
+    
+%
+%
+%
+ 
+%
+ 
+%
+$ 2.13
+- 34
+U.S.
+Combined (per Boe)    
+U.S.
+Canada
+Total
+$ 10.14   $ 10.31     - 2
+$ 17.68   $ 24.18     - 27
+ $ 21.85   $ 35.33     - 38
+ $ 18.50   $ 25.86     - 28
+% $8.46   $9.85     - 14
+ 
+% $15.89   $22.93     - 31
+% $15.33   $28.56     - 46
+% $15.78   $23.80     - 34
+%
+ 
+%
+%
+%
+(1)Prices presented exclude any effects of oil, gas and NGL derivatives.
+Commodity Sales
+The volume and price changes in the tables above caused the following changes to our oil, gas and NGL sales between the
+three and six months ended June 30, 2016 and 2015.
+Three Months Ended June 30,
+ Oil
+Bitumen  Gas   NGLs  Total
+2015 sales
+(Millions)
+ $917   $ 228
+$316   $126   $1,587
+$917   $ 228
+2015 sales
+Change due to volumes   (174)   83
+Change due to prices
+2016 sales
+$316   $126   $1,587 
+    (19 )   (2 )   (112 )
+   (168)   (118 )   (102)   (2 )   (390 )
+ $575   $ 193
+  $195   $122   $1,085
+Bitumen  Gas   NGLs  Total
+Six Months Ended June 30,
+ 
+ Oil
+ 
+ (Millions)
+ 
+2015 sales
+ $1,634  $ 371
+Change due to volumes   (193 )   128
+Change due to prices
+2016 sales
+$678   $243   $2,926 
+    (30 )   (2 )   (97 )
+   (421 )   (231 )   (233)   (34 )   (919 )
+  $415   $207   $1,910 
+ $1,020  $ 268
+Oil, gas and NGL sales decreased due to a change in production volumes during the second quarter and the first six months
+of 2016. While continued development of our Delaware Basin and our enhanced positions in the STACK drove production
+increases, these increases were more than offset by reduced completion activity in the Eagle Ford and natural production
+declines in the Barnett Shale and in our non-core properties. Additionally, our bitumen production increased primarily due to
+Jackfish 3 exceeding nameplate capacity in the first six months of 2016.
+Oil, bitumen, gas and NGL sales decreased in the second quarter and the first six months of 2016 due to significant price
+decreases for all commodities. The decrease in oil and bitumen sales resulted from lower average WTI crude oil index
+prices, which were 26% lower than the first six months of 2015. The decreases in gas and NGL sales were due to lower
+North American regional index prices upon which our gas sales are based and lower NGL prices at the Mont Belvieu, Texas
+hub.
+33
+Oil, Gas and NGL Derivatives
+A summary of our open commodity derivative positions is included in Note 3 to the financial statements included in “Part I.
+Financial Information – Item 1. Financial Statements” of this report. The following tables provide financial information
+associated with our oil, gas and NGL hedges. The first table presents the cash settlements and fair value gains and losses
+recognized as components of our revenues. The subsequent tables present our oil, gas and NGL prices with, and without,
+the effects of the cash settlements. The prices do not include the effects of fair value gains and losses.
+2015
+2016
+2015
+Three Months Ended June 30,  Six Months Ended June 30, 
+ 
+ 
+ 2016
+ 
+ (Millions)
+ 
+ 
+ 
+  
+Cash settlements:
+ 
+ $ (61
+Oil derivatives
+ 
+   32
+Gas derivatives
+  
+(2
+ 
+NGL derivatives
+ 
+(31
+Total cash settlements
+  
+ 
+ 
+Gains (losses) on fair value changes:  
+)
+(28
+  
+Oil derivatives
+Gas derivatives
+  
+(77
+)
+ 
+(6
+  
+NGL derivatives
+)
+  
+Total losses on fair value changes
+(111
+Oil, gas and NGL derivatives
+ $ (142
+)   $ 394
+      86
+)     —
+)     480
+ 
+     
+(667
+)    
+(95
+)    
+)     —
+)    
+(762
+)   $ (282
+)   $ 911
+      162
+)     —
+)     1,073
+     
+)    
+)    
+)     —
+)    
+)   $ 12
+(948
+(113
+$ (61
+    51
+   
+(2
+(12
+   
+ 
+   
+(30
+)  
+)  
+(61
+(6
+   
+)  
+(97
+) $ (109
+(1,061
+Realized price without hedges
+Cash settlements of hedges
+Bitumen   Gas
+Three Months Ended June 30, 2016
+ Oil
+ 
+  NGLs
+ (Per Bbl)  (Per Bbl)  (Per Mcf)  (Per Bbl)  (Per Boe) 
+  $ 10.14   $ 18.50  
+ $ 39.64   $ 21.40   $ 1.40
+   (4.17 )   —
+    0.24
+    (0.25 )   (0.53
+)
+Boe
+(4.17 )   —
+)
+Cash settlements of hedges
+    0.24
+  $ 17.97  
+Realized price, including cash settlements $ 35.47   $ 21.40   $ 1.64
+ 
+     
+    
+ 
+ 
+ Three Months Ended June 30, 2015
+ 
+ 
+ Oil
+  NGLs
+ 
+ (Per Bbl)  (Per Bbl)  (Per Mcf)  (Per Bbl)  (Per Boe) 
+ 
+  $ 10.31   $ 25.86  
+ $ 51.25   $ 34.38   $ 2.13
+Realized price without hedges
+    —
+Cash settlements of hedges
+   22.04     —
+    0.58
+ 
+Realized price, including cash settlements $ 73.29   $ 34.38   $ 2.71
+  $ 10.31   $ 33.69
+(0.25 )   (0.53
+  $ 9.89
+Bitumen   Gas
+7.83
+Boe
+Boe
+NGLs
+Bitumen   Gas
+Six Months Ended June 30, 2016
+ 
+ Oil
+ 
+ 
+ (Per Bbl)  (Per Bbl)  (Per Mcf)  (Per Bbl)  (Per Boe) 
+ 
+  $ 15.78  
+ $ 32.64   $ 14.73   $ 1.47
+Realized price without hedges
+  $ 8.46
+Cash settlements of hedges
+   (1.94 )   —
+    0.18
+)
+    (0.13 )   (0.10
+  $ 15.68  
+Realized price, including cash settlements $ 30.70   $ 14.73   $ 1.65
+  $ 8.33
+ 
+     
+ 
+    
+     
+ 
+ 
+ Six Months Ended June 30, 2015
+ Oil
+ 
+ 
+ (Per Bbl)  (Per Bbl)  (Per Mcf)  (Per Bbl)  (Per Boe) 
+ 
+Realized price without hedges
+ $ 46.11   $ 27.39   $ 2.29
+  $ 23.80  
+    8.72
+Cash settlements of hedges
+ 
+    0.55
+   25.69     —
+Realized price, including cash settlements $ 71.80   $ 27.39   $ 2.84
+  $ 32.52
+$ 9.85
+    —
+  $ 9.85
+Bitumen   Gas
+NGLs
+Boe
+Cash settlements as presented in the tables above represent realized gains or losses related to various commodity
+derivatives. In addition to cash settlements, we also recognize fair value changes on our oil, gas and NGL derivative
+instruments in each reporting period. The changes in fair value resulted from new positions and settlements that occurred
+during each period, as well as the relationships between contract prices and the associated forward curves. Including the
+cash settlements discussed above, our oil, gas
+34
+and NGL derivatives incurred net losses in the second quarter of 2016 and 2015. Including the cash settlements discussed
+above, our oil, gas and NGL derivatives incurred a net loss in the first six months of 2016 and generated a net gain in the first
+six months of 2015.
+Marketing and Midstream Revenues and Operating Expenses
+Operating revenues
+Product purchases
+Operations and maintenance expenses   (90
+Operating profit
+ $207
+Three Months Ended June 30, 
+ 2016
+  Change  
+ (Millions)
+ $1,545   $2,088     - 26
+   (1,248 )   (1,762 )   - 29
+)   - 11
+    - 8
+)   (101
+  $225
+2015
+2015
+Six Months Ended June 30, 
+  Change  
+ 2016
+ 
+%
+%
+%
+%
+% $2,813   $3,720     - 24
+%   (2,227 )   (3,110 )   - 28
+%   (177 )   (192 )   - 8
+% $409
+    - 2
+$418
+Devon profit  $(4 ) $15    - 127% $(19 ) $13    - 246%
+EnLink profit   211    210   +0 %   428    405   +6 %
+Total profit
+ $207  $225   - 8 % $409  $418   - 2 %
+The overall decrease in marketing and midstream margin in the second quarter of 2016 was primarily due to lower margins
+on Devon’s downstream marketing commitments. The overall decrease in the marketing and midstream margin in the six
+months ended period was due to lower margins on Devon’s downstream marketing commitments partially offset by EnLink’s
+acquisition activity in 2015 and the first quarter of 2016.
+Lease Operating Expenses
+2015
+Three Months Ended June 30, 
+ 
+ 2016
+  Change  
+ 
+ (Millions, except per Boe amounts)
+ 
+    
+    
+LOE:
+ $ 295
+U.S.
+   121
+Canada
+ $ 416
+Total
+ 
+    
+LOE per Boe:    
+U.S.
+Canada
+Total
+- 27
+    - 24
+    - 26
+     
+     
+ $ 6.25
+    - 19
+ $ 10.58   $ 17.35     - 39
+ $ 7.09
+    - 23
+Six Months Ended June 30, 
+  Change  
+ 2016   2015
+ 
+ 
+%
+%
+%
+ 
+ 
+%
+%
+%
+- 21
+% $638   $ 812
+%   222     303
+    - 27
+% $860   $ 1,115     - 23
+     
+ 
+     
+ 
+% $6.52   $ 7.81
+    - 16
+% $9.58   $ 15.95     - 40
+% $7.11   $ 9.07
+    - 22
+$ 402
+    160
+  $ 562
+     
+     
+  $ 7.71
+$ 9.16
+LOE and LOE per Boe decreased during the second quarter and the first six months of 2016 primarily due to our well
+optimization and cost reduction initiatives and changes in the Canadian to U.S. foreign exchange rate. Our cost reduction
+initiatives have been primarily focused on reducing costs associated with water disposal, power and fuel, compression and
+workovers.
+Upon closing the Access Pipeline divestiture discussed in Note 2 in “Part I. Financial Information – Item 1. Financial
+Statements,” we expect LOE to increase approximately $35 million to $40 million in the last six months of 2016 as a result of
+our transportation commitment on the pipeline.
+General and Administrative Expenses
+Change
+Three Months Ended June 30, 
+ 2016    2015
+ 
+ (Millions)
+ $ 225    $ 344
+Gross G&A
+     - 35
+Capitalized G&A    (56 )   (101 )   - 45
+Reimbursed G&A   (22 )   (31
+)   - 29
+     - 30
+ $ 147    $ 212
+Net G&A
+Six Months Ended June 30, 
+ 2016   2015   Change  
+ 
+%
+%
+%
+%
+% $ 517   $ 719     - 28
+%   (129 )   (195 )   - 34
+%   (47 )   (61 )   - 23
+% $ 341   $ 463     - 26
+35
+Gross G&A and capitalized G&A decreased during the second quarter and the first six months of 2016 largely due to lower
+Devon employee costs resulting from recent workforce reductions, as discussed in Note 6 in “Part I. Financial Information –
+Item 1. Financial Statements,” and other cost reduction initiatives. Reimbursed G&A decreased primarily due to a reduction
+in drilling activity in response to the decline in commodity prices.
+Production and Property Taxes
+2015
+Change
+Three Months Ended June 30, 
+ 
+ 2016  
+ 
+ 
+ (Millions)
+ 
+ $ 38  
+Production
+   37  
+Property and other
+ $ 75  
+Production and property taxes
+ 
+ 
+    
+Percentage of oil, gas and NGL sales:    
+ 
+Production
+Property and other
+3.5 %    3.7 %    - 6
+   3.4 %    3.6 %    - 4
+$ 59  
+   57  
+ $ 116
+- 36
+   - 35
+   - 35
+2015
+Six Months Ended June 30, 
+ Change  
+ 2016  
+ 
+%
+%
+%
+ 
+ 
+%
+%
+% $71  
+%   82  
+% $153  
+ 
+ 
+ 
+ 
+%   3.7 %   3.8 %   - 3
+%   4.3 %   3.9 %   +11
+$112  
+   112  
+ $224
+- 37
+   - 28
+   - 32
+Property and other
+Total
+3.4 %    3.6 %    - 4
+   6.9 %    7.3 %    - 5
+%   4.3 %   3.9 %   +11
+%   8.0 %   7.7 %   +4
+%
+%
+Production taxes decreased during the second quarter and the first six months of 2016 on an absolute dollar basis primarily
+due to a decrease in our U.S. revenues, on which the majority of our production taxes are assessed. Furthermore, property
+and other taxes decreased from the prior year primarily as a result of lower property value assessments from the local taxing
+authorities across our key operating areas. Property taxes do not change in direct correlation with the decline in oil, gas and
+NGL sales, and are generally determined based on the valuation of the underlying assets.
+Depreciation, Depletion and Amortization
+Three Months Ended June 30, 
+ 2016   2015
+ 
+ (Millions, except per Boe amounts)
+Change
+DD&A:
+Oil and gas properties $ 313   $ 675
+   171     139
+Other assets
+Total
+ $ 484   $ 814
+    
+DD&A per Boe:
+- 54
+    +23
+    - 41
+2015
+Six Months Ended June 30, 
+  Change  
+ 2016
+ 
+ 
+%
+%
+%
+$1,475     - 53
+% $691
+%   335
+    269
+    +25
+% $1,026   $1,744     - 41
+Oil and gas properties $ 5.33   $ 11.00     - 52
+% $5.71   $12.00     - 52
+%
+DD&A from our oil and gas properties decreased in the second quarter and the first six months of 2016 compared to the
+second quarter and the first six months of 2015 largely due to lower DD&A rates, as a result of the oil and gas asset
+impairments recognized in 2015 and the first quarter of 2016. Other DD&A increased primarily due to EnLink’s acquisitions
+in 2016 and 2015.
+Asset Impairments
+We recognized asset impairments during the second quarter and the first six months of 2016 and 2015. For further
+discussion, see Note 5 in “Part I. Financial Information – Item 1. Financial Statements” of this report.
+Restructuring and Transaction Costs
+During the first six months of 2016, we recognized restructuring costs of $256 million as a result of the workforce reductions,
+which were driven by our cost reduction initiatives and anticipated divestitures of non-core properties. These restructuring
+costs include estimated employee-related cash and non-cash severance costs afforded under the terms of our severance
+policy. When estimating these costs, certain assumptions were made with respect to the timing of employee terminations and
+the number of employees that may receive employment offers from the purchasers of our divested assets. Based on the
+percentage of employees receiving offers from purchasers through the date of this report, we do not expect to incur
+significant additional severance costs related to the pending divestiture transactions. In addition, we incurred lease
+obligation costs due to non-cancellable operating lease agreements and asset impairments related to the vacated office
+space. See Note 6 in “Part I. Financial Information – Item 1. Financial Statements” of this report.
+36
+During the first six months of 2016, we recognized transaction costs of $15 million, primarily associated with the closing of
+the acquisitions discussed in Note 2 in “Part I. Financial Information – Item 1. Financial Statements” of this report.
+Net Financing Costs
+Interest based on debt outstanding
+Three Months Ended June 30, 
+ 2016    2015    Change
+ 
+ (Millions)
+ $ 163    $ 136      +19
+Six Months Ended June 30, 
+ 
+ 2016   2015   Change
+ 
+%
+% $ 324   $ 266     +21
+Capitalized interest
+(18 )   (15 )   +16
+%   (35 )   (29 )   +20
+%
+(18 )   (15 )   +16
+Capitalized interest
+     —    N/M
+Interest accretion on deferred installment   13
+   7
+Other fees and expenses
+     5
+     +26
+   165      126      +30
+Interest expense
+Interest income
+   (2
+)   +19
+ $ 163    $ 125      +30
+Net financing costs
+)   (1
+%   (35 )   (29 )   +20
+    —   N/M
+ 
+   26
+%   15
+    8
+    +81
+%   330     245     +34
+%   (3
+)   - 25
+% $ 327   $ 242     +35
+)   (3
+%
+ 
+%
+%
+%
+%
+Net financing costs increased during the second quarter and the first six months of 2016 primarily due to an increase in
+Devon and EnLink fixed-rate borrowings and accretion of future installment payments related to EnLink acquisition activity in
+the first quarter of 2016. For further discussion of the accretion of future installment payments, see Note 2 in “Part I. Financial
+Information – Item 1. Financial Statements.”
+As discussed in “Liquidity” in this Item 2. we anticipate using a portion of divestiture proceeds for debt repayment. Upon
+repayment of outstanding debt, and excluding one-time costs we expect to incur upon retirement, we would expect a decline
+in net financing costs in future reporting periods. The extent of the decline will be largely dependent upon the timing of
+closing the divestiture transactions, as well as the amount and timing of debt retired. As such, we are unable to estimate the
+magnitude of the impact of debt repayments on net financing costs at this time.
+Income Taxes
+Total income tax benefit (millions) $ (182
+(10
+Effective income tax rate
+Three Months Ended June 30, 
+ 
+ 2016
+)
+%)   (7
+2015
+  $ (1,686
+Six Months Ended June 30, 
+ 
+ 2016
+ $ (399
+)
+%)
+2015
+ $ (3,721
+)
+%)
+)
+%)
+(38
+(37
+For further discussion of our income tax benefit, see Note 7 in “Part I. Financial Information – Item 1. Financial Statements.”
+37
+Capital Resources, Uses and Liquidity
+Sources and Uses of Cash
+The following table presents the major changes in our cash and cash equivalents for the six months ended June 30, 2016
+and 2015.
+Consolidated
+  2015
+EnLink
+  2016   2015   2016
+Devon
+ 
+ 
+ 2016   2015
+ 
+ 
+(Millions)
+ 
+ $180   $2,472   $304   $277   $484
+  $2,749  
+Operating cash flow
+   1,469    —     —     —     1,469     —  
+Issuance of common stock
+   208     8
+ 
+Divestitures of property and equipment
+   (950 )   (2,800)   (288)   (349)   (1,238)   (3,149)
+Capital expenditures
+)   (791)   (325)   (1,638)   (417 )
+Acquisitions of property, equipment and businesses    (847 )   (92
+Debt activity, net
+)   298     797     (329 )   767
+ 
+   (627 )   (30
+Shareholder and noncontrolling interests distributions   (158 )   (197 )   (147)   (118)   (305 )   (315 )
+    (133)   (137)   —     —  
+EnLink and General Partner distributions
+    —     (171)   —     —  
+EnLink dropdowns
+ 
+Issuance of subsidiary units
+Sale of subsidiary units
+133     137
+   —     171
+   —     —     776     4
+   —     654
+—     —     —     654
+—     209
+776
+1
+8
+4
+Effect of exchange rate and other
+Net change in cash and cash equivalents
+13
+    (82
+ $(579 ) $241
+)   (28 )   26     (15
+  $(8
+)   (56
+  $(587 ) $245
+) $4
+)
+Net change in cash and cash equivalents
+Cash and cash equivalents at end of period
+Operating Cash Flow
+$(579 ) $241
+ $1,713  $1,653   $10   $72   $1,723   $1,725
+$(587 ) $245
+$(8
+) $4
+Net cash provided by operating activities decreased 82% primarily due to lower commodity prices and the impact of cash
+settlements associated with our commodity derivatives during 2015.
+Excluding payments made for acquisitions, our consolidated operating cash flow funded 39% and 87% of our capital
+expenditures during the first six months of 2016 and 2015, respectively. In 2016, leveraging our liquidity, we also used cash
+balances and proceeds from our common stock offering to fund our acquisitions and capital expenditures.
+Issuance of Common Stock
+In February 2016, we issued 79 million shares of our common stock to the public, inclusive of 10 million shares sold as part
+of the underwriters’ option. Net proceeds from the offering were approximately $1.5 billion.
+Divestitures of Property and Equipment
+On June 30, 2016, we sold our non-core Mississippian assets for approximately $200 million. For further discussion, see
+Note 2 in “Part 1. Financial Information – Item 1. Financial Statements.”
+38
+Capital Expenditures and Acquisitions of Property, Equipment and Businesses
+The amounts in the table below reflect cash payments for capital expenditures, including cash paid for capital expenditures
+incurred in prior periods.
+2015
+Six Months Ended June 30, 
+ 
+ 
+ 2016
+ 
+ 
+ (Millions)
+ 
+ $ 932
+ 
+Oil and gas
+ 
+   4
+Midstream
+ 
+Corporate and other
+   14
+ 
+Devon capital expenditures    950
+EnLink capital expenditures   288
+ 
+ 
+Total capital expenditures  $ 1,238
+ 
+Devon acquisitions
+ 
+EnLink acquisitions
+Total acquisitions
+$ 2,711
+      29
+      60
+      2,800
+      349
+    $ 3,149
+    $ 92
+      325
+    $ 417
+$ 847
+   791
+ $ 1,638
+Capital expenditures consist of amounts related to our oil and gas exploration and development operations, midstream
+operations, other corporate activities and EnLink growth and maintenance activities. The vast majority of Devon’s capital
+expenditures are for the acquisition, drilling and development of oil and gas properties. In response to lower commodity
+prices, Devon’s 2016 capital program is designed to be substantially lower than 2015, evidenced by a 69% decrease in
+exploration and development costs from the first six months of 2015 as well as a 53% decrease from the last six months of
+2015 to the first six months of 2016.
+Capital expenditures for Devon’s and EnLink’s midstream operations are primarily for the construction and expansion of oil
+and gas gathering facilities and pipelines. Midstream capital expenditures are largely impacted by oil and gas drilling and
+development activities.
+Acquisition capital for the first six months of 2016 primarily consisted of Devon’s acquisition of assets in the STACK play for
+approximately $1.5 billion and EnLink’s acquisition of Anadarko Basin gathering and processing midstream assets for $1.5
+billion. Approximately $847 million and $800 million, respectively, was paid in cash at the closings with the remainder of the
+purchase prices funded with equity consideration and debt. For additional information, see Note 2 in “Part I. Financial
+Information – Item 1. Financial Statements” in this report.
+Debt Activity, Net
+During the first six months of 2016, we reduced our debt by $329 million. The decrease was primarily due to reducing our
+commercial paper balances by $626 million partially offset by EnLink’s increased credit facility borrowings to fund
+acquisitions and growth capital expenditures.
+In June 2015, we issued $750 million of 5.0% senior notes. The proceeds were used to repay the aggregate principal
+amount of our December 15, 2015 floating rate senior notes, as well as outstanding commercial paper balances. Our net
+debt borrowings during the first six months of 2015 increased $767 million, which was primarily due to EnLink borrowings
+made to fund acquisitions and dropdowns.
+39
+Shareholder and Noncontrolling Interests Distributions
+The following table summarizes our common stock dividends during the first six months of 2016 and 2015. In the second
+quarter of 2016, we decreased our quarterly dividend to $0.06 per share.
+Quarter Ended 2016: 
+First quarter 2016
+$ 125
+Second quarter 2016  33
+Total year-to-date
+$ 158
+Quarter Ended 2015: 
+First quarter 2015
+$ 99
+Second quarter 2015  98
+Total year-to-date
+$ 197
+Rate
+Amount
+ 
+(Millions)  (Per Share)
+$ 0.24
+  $ 0.06
+   
+   
+  $ 0.24
+  $ 0.24
+EnLink and the General Partner distributed $147 million and $118 million to non-Devon unitholders during the first six
+months of 2016 and 2015, respectively.
+EnLink and General Partner Distributions
+Devon received $133 million and $137 million in distributions from EnLink and the General Partner during the first six
+months of 2016 and 2015, respectively.
+EnLink Dropdowns
+In the second quarter of 2015, Devon received $171 million in cash from EnLink in exchange for VEX.
+Issuance of Subsidiary Units
+In February 2016, as part of its acquisition of Anadarko Basin gathering and processing midstream assets, EnLink issued
+50 million preferred units in a private placement generating proceeds of approximately $725 million. Also in conjunction with
+this acquisition, the General Partner issued 15.6 million of common units with an aggregate value of $215 million.
+Additionally, during the first six months of 2016, EnLink issued 3 million common units for net proceeds of $52 million.
+Sale of Subsidiary Units
+In March 2015, we conducted an underwritten secondary public offering of 23 million common units representing limited
+partner interests in EnLink, raising proceeds of $569 million, net of underwriting discount. In April 2015, as part of the
+secondary public offering, underwriters fully exercised their option to purchase an additional 3.4 million common units,
+raising $85 million of net proceeds.
+Liquidity
+Historically, our primary sources of capital and liquidity have been our operating cash flow and cash on hand. Additionally,
+we maintain a commercial paper program, supported by our revolving line of credit, which can be accessed as needed to
+supplement operating cash flow and cash balances. Available sources of capital and liquidity include, among others, debt
+and equity securities that can be issued pursuant to our shelf registration statement filed with the SEC, as well as the sale of
+a portion of our common units representing interests in our investment in EnLink and the General Partner. The most
+significant source of liquidity in 2016 will come from proceeds related to our asset divestitures. Through August 3, 2016 we
+have closed approximately $1.2 billion of the announced asset divestitures. We expect to close the remaining transactions in
+the third quarter of 2016. We estimate the combination of these sources of capital will continue to be adequate to fund future
+capital expenditures, debt repayments and other contractual commitments.
+40
+Operating Cash Flow
+Our operating cash flow is sensitive to many variables, the most volatile of which are the prices of the oil, bitumen, gas and
+NGLs we produce and sell. Our consolidated operating cash flow decreased 82% in the first six months of 2016 compared to
+the first six months of 2015 as a result of the significant decreases in commodity prices, as well as in the settlement value of
+our hedge contracts. In spite of this decline, we expect operating cash flow to continue to be a key source of liquidity as we
+adjust our capital program in response to lower commodity prices. Additionally, we anticipate utilizing divestiture proceeds
+and our credit availability to provide additional liquidity as needed.
+To mitigate some of the risk inherent in prices, we utilize various derivative financial instruments to protect a portion of our
+production against downside price risk. For additional information, see Note 3 in “Part I. Financial Information – Item 1.
+Financial Statements” in this report.
+Capital Expenditures
+With the success of the non-core asset divestitures discussed below, we increased our estimated capital program spending
+$200 million. Excluding acquisitions and EnLink, our 2016 capital expenditures are expected to range from $1.4 billion to
+$1.6 billion, including $1.1 billion to $1.3 billion for our oil and gas capital program.
+Credit Availability
+As of June 30, 2016, we had $66 million in outstanding letters of credit and no outstanding borrowings under our $3.0 billion
+Senior Credit Facility. This credit facility supports our $3.0 billion commercial paper program. At June 30, 2016, we had no
+outstanding commercial paper borrowings.
+The Senior Credit Facility contains only one material financial covenant. This covenant requires us to maintain a ratio of total
+funded debt to total capitalization, as defined in the credit agreement, to be no greater than 65%. As of June 30, 2016, we
+were in compliance with this covenant with a debt-to-capitalization ratio of 23.1%.
+EnLink has a $1.5 billion unsecured revolving credit facility, and the General Partner has a $250 million secured revolving
+credit facility. As of June 30, 2016, there were $11 million in outstanding letters of credit and $697 million in outstanding
+borrowings under the $1.5 billion credit facility, and the General Partner had $15 million in outstanding borrowings under the
+$250 million credit facility.
+Asset Divestitures
+In December 2015, we announced our intent to divest our interest in the Access Pipeline and certain non-core upstream
+assets targeting total proceeds of $2 billion to $3 billion. During the second quarter of 2016, we closed the divestiture of our
+Mississippian assets for approximately $200 million. Additionally, in June 2016, we entered into definitive agreements to sell
+the remaining upstream assets in the U.S. for approximately $1.8 billion. Subsequent to the end of the second quarter, we
+entered into a definitive agreement to sell our 50% ownership interest in the Access Pipeline for approximately $1.1 billion.
+The remaining transactions have or are expected to close in the third quarter of 2016 and will conclude our divestitures with
+expected proceeds of approximately $3.2 billion, surpassing the top end of our guidance range. We anticipate using a
+portion of these asset divestiture proceeds for debt repayment in the second half of 2016.
+EnLink Capital Resources and Expenditures
+In January 2016, EnLink acquired additional gathering and processing midstream assets in the Anadarko Basin for
+approximately $1.5 billion in cash and equity, subject to certain adjustments. The first installment of $1.02 billion for the
+acquisition was paid at closing, and the final installment of $500 million is due no later than the first anniversary of the
+closing date, with the option to defer $250 million of the final installment up to 24 months following the closing date.
+Debt Ratings
+We receive debt ratings from the major ratings agencies in the U.S. In determining our debt ratings, the agencies consider a
+number of qualitative and quantitative items including, but not limited to, commodity pricing levels, our liquidity, asset quality,
+reserve mix, debt levels, cost structure, planned asset sales, near-term and long-term production growth opportunities and
+capital allocation challenges. In February 2016, our credit rating was revised by Standard & Poor’s Financial Services from
+BBB+ with a negative outlook to BBB with a stable outlook. In March 2016, Fitch Ratings affirmed our BBB+ rating but
+revised our outlook from
+41
+stable to negative. In July 2016, Moody’s Investor Service revised our senior unsecured rating from Ba2 with negative
+outlook to a stable outlook.
+There are no “rating triggers” in any of our or EnLink’s contractual debt obligations that would accelerate scheduled
+maturities should our debt rating fall below a specified level. However, these downgrades could adversely impact our and
+EnLink’s interest rate on any credit facility borrowings and the ability to economically access debt markets in the future.
+Contractual Obligations
+As discussed in Note 2 in “Part 1. Financial Information – Item 1. Financial Statements” of this report, we reached an
+agreement to sell our 50% interest in the Access Pipeline. Under the terms of the agreement, we dedicated our thermal-oil
+acreage to Access Pipeline for an initial term of 25 years. Upon closing of the transaction in the third quarter of 2016, we
+expect our annualized LOE to increase approximately $100 million.
+Critical Accounting Estimates
+Full Cost Method of Accounting and Proved Reserves
+Under the full cost method of accounting, sales or dispositions of oil and gas properties are generally accounted for as
+adjustments to capitalized costs, with no recognition of a gain or loss. The determination of whether a gain or loss is to be
+recognized is dependent upon whether the disposition significantly alters the relationship between capitalized costs and
+proved reserves, the conclusion of which involves a significant amount of judgment. We are evaluating whether the pending
+non-core oil and gas property divestiture transactions discussed in Note 2 in “Part 1. Financial Information – Item 1. Financial
+Statements” of this report will result in the recognition of a gain. The final determination will largely depend on factors such
+as how and whether the disposal transactions are aggregated.
+We perform a full cost ceiling impairment test each quarter for our U.S. and Canadian oil and gas properties. The ceiling
+tests for the first six months of 2016 resulted in recognizing ceiling impairments on our U.S. and Canadian properties totaling
+$3.7 billion.
+Depending on the relationship between our capitalized costs and calculated full cost ceiling at the time of the most recent
+ceiling test performed, uncertain future prices limit our ability to predict and measure potential future full cost impairments.
+However, because the ceiling test computation uses a 12-month trailing price to determine future cash flows, we can
+typically predict when circumstances will result in future impairments that are material, particularly in the next one to two
+quarters. However, due to the nature of estimating future cash flows, measuring any potential impairments is more difficult.
+Based on prices from the last nine months of the trailing 12-month average and the short-term pricing outlook for the third
+quarter of 2016 and an assumption that we complete the Access Pipeline divestiture in the third quarter, we expect to
+recognize an additional Canadian full cost impairment in the third quarter of 2016. We expect the impairment on our
+Canadian oil and gas properties to approximate amounts recognized in the first and second quarter of 2016. As discussed
+above, we are currently evaluating the accounting impact of the U.S. divestiture transactions, which would impact the amount
+of any impairment recorded on our U.S. full cost pool. Our full cost impairments have no effect on liquidity or capital
+resources. However, they adversely affect our results of operations in the period recognized.
+Goodwill
+We test goodwill for impairment annually at October 31, or more frequently if events or changes in circumstances dictate that
+the carrying value of goodwill may not be recoverable. Sustained weakness in the overall energy sector driven by low
+commodity prices, together with a decline in the EnLink unit price, caused a change in circumstances warranting an interim
+impairment test for EnLink’s reporting units.
+The goodwill assessment is performed at the reporting unit level and primarily utilizes a discounted cash flow analysis,
+supplemented by a market approach analysis in the assessment. Key assumptions in the analysis include the use of an
+appropriate discount rate, terminal year multiples and estimated future cash flows, including volume forecasts and estimated
+operating and G&A costs. In estimating cash flows, current and historical market information, among other factors, are
+incorporated.
+Using the fair value approaches described above, in the first quarter of 2016 it was determined that the estimated fair value of
+EnLink’s Texas, General Partner and Crude and Condensate reporting units were less than their carrying amounts, primarily
+due to changes in assumptions related to commodity prices and discount rates. Through the analysis, a goodwill impairment
+loss of $473
+42
+million, $307 million and $93 million for EnLink’s Texas, General Partner and Crude and Condensate reporting units,
+respectively, was recognized in the first quarter of 2016.
+As of March 31, 2016, the goodwill allocated to the Crude and Condensate reporting unit was fully impaired. Other than
+those mentioned above, no other goodwill impairment was identified or recorded for the remaining reporting units as a result
+of the interim goodwill assessment, as their estimated fair values were in excess of carrying values. However, the fair value
+of EnLink’s Texas and General Partner reporting units are not substantially in excess of their carrying value. The fair value of
+the Texas and General Partner reporting units approximates their carrying values after considering the impairment loss
+above and, as of June 30, 2016, $230 million and $1.1 billion of goodwill remains allocated to the reporting units,
+respectively.
+Our impairment determinations involved significant assumptions and judgments, as discussed above. Differing assumptions
+regarding any of these inputs could have a significant effect on the various valuations. If actual future results are not
+consistent with these assumptions and estimates, or the assumptions and estimates change due to new information, we may
+be exposed to additional goodwill impairment charges, which would be recognized in the period in which we would
+determine that the carrying value exceeds fair value. We would expect that a prolonged or sustained period of lower
+commodity prices would adversely affect the estimate of future operating results, which could result in future goodwill
+impairments for other reporting units due to the potential impact on the cash flows of our operations.
+The goodwill impairment has no effect on liquidity or capital resources. However, it adversely affects net earnings in the
+period recognized.
+Income Taxes
+The amount of income taxes recorded requires interpretations of complex rules and regulations of federal, state, provincial
+and foreign tax jurisdictions. We recognize current tax expense based on estimated taxable income for the current period
+and the applicable statutory tax rates. We routinely assess potential uncertain tax positions and, if required, estimate and
+establish accruals for such amounts. We have recognized deferred tax assets and liabilities for temporary differences,
+operating losses and other tax carryforwards. We routinely assess our deferred tax assets and reduce such assets by a
+valuation allowance if we deem it is more likely than not that some portion or all of the deferred tax assets will not be
+realized. At December 31, 2015, we recorded a 100% valuation allowance against the U.S. deferred tax assets that largely
+resulted from the full cost impairments recognized during 2015. As a result of the continued financial losses in the second
+quarter of 2016, we continued to have a 100% valuation allowance against our U.S. deferred tax assets as of June 30, 2016.
+The accruals for deferred tax assets and liabilities are often based on assumptions that are subject to a significant amount of
+judgment by management. These assumptions and judgments are reviewed and adjusted as facts and circumstances
+change. Material changes to our income tax accruals may occur in the future based on the progress of ongoing audits,
+changes in legislation or resolution of other pending matters.
+Non-GAAP Measures
+We make reference to “core earnings (loss) attributable to Devon” and “core earnings (loss) per share attributable to Devon”
+in “Overview of 2016 Results” in this Item 2. that are not required by or presented in accordance with GAAP. These non-
+GAAP measures are not alternatives to GAAP measures, and should not be considered in isolation or as a substitute for
+analysis of our results reported under GAAP. Core earnings (loss) attributable to Devon, as well as the per share amount,
+represent net earnings excluding certain noncash and other items that are typically excluded by securities analysts in their
+published estimates of our financial results. Our non-GAAP measures are typically used as a quarterly performance
+measure. Amounts excluded for the second quarter and first six months of 2016 relate to derivatives and financial instrument
+fair value changes, noncash asset impairments (including an impairment of goodwill), deferred tax asset valuation allowance
+and restructuring and transaction costs. Amounts excluded for the second quarter and first six months of 2015 relate to
+derivatives and financial instrument fair value changes and noncash asset impairments. We believe these non-GAAP
+measures facilitate comparisons of our performance to earnings estimates published by securities analysts. We also believe
+these non-GAAP measures can facilitate comparisons of our performance between periods and to the performance of our
+peers.
+43
+Below are reconciliations of our core earnings (loss) and core earnings (loss) per share attributable to Devon to their
+comparable GAAP measures.
+2016
+Loss attributable to Devon (GAAP)
+Adjustments:
+Fair value changes in financial
+Three Months Ended June 30,
+Six Months Ended June 30,
+After
+After
+Before
+After
+Noncontrolling
+Per
+Before
+After
+Noncontrolling
+Per
+Tax
+Tax
+Share
+Interests
+Tax
+(Millions, except per share amounts)
+     
+   
+) $(3.04) $(5,430 ) $(5,031) $ (4,626
+$(1,745) $(1,563) $ (1,570
+   
+     
+    0.25     217
+  205
+130
+134
+89
+94
+Interests
+Tax
+Share  
+ 
+     
+ 
+) $(9.33 )
+     
+ 
+    0.18
+0.34  
+    2.57  
+    5.80
+) $(0.44 )
+     
+ 
+) $(15.81)
+     
+ 
+    1.75
+instruments and foreign currency
+    16
+Restructuring and transaction costs
+Deferred tax asset valuation allowance  —     467
+Asset impairments
+  1,497     990
+Core earnings (loss) attributable to
+24
+16
+    467
+    990
+174
+    0.03     271
+    0.91     —
+    1,275     1,275
+    1.91     4,532     3,290     2,874
+172
+Devon (Non-GAAP)
+2015
+Loss attributable to Devon (GAAP)
+Adjustments:
+Fair value changes in financial
+instruments and foreign currency
+Asset impairments
+Core earnings attributable to Devon
+) $44
+$ 33
+$(19
+   
+$(4,479) $(2,793) $ (2,816
+   
+  761
+490
+490
+) $(198 ) $ (216
+$0.06   $(410
+     
+) $(6.94) $(10,103) $(6,382) $ (6,415
+     
+    1.20     1,079     711
+711
+4,168     2,646     2,646
+6.52     9,628     6,113     6,113
+15.05
+(Non-GAAP)
+$450
+$343
+$ 320
+$0.78   $604
+$442
+$ 409
+$0.99
+44
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+Commodity Price Risk
+As of June 30, 2016, we have commodity derivatives that pertain to a portion of our production for the last six months of 2016,
+as well as 2017. The key terms to our open oil, gas and NGL derivative financial instruments are presented in Note 3 in “Part
+I. Financial Information – Item 1. Financial Statements” in this report.
+The fair values of our commodity derivatives are largely determined by the forward curves of the relevant price indices. At
+June 30, 2016, a 10% change in the forward curves associated with our commodity derivative instruments would have
+changed our net asset positions by the following amounts:
+Interest Rate Risk
+10% Increase  10% Decrease 
+ 
+ 
+ (Millions)
+ 
+  
+ 
+Gain (loss):
+ 
+ $
+Gas derivatives
+ 
+ $
+Oil derivatives
+ 
+NGL derivatives
+ $
+Processing and fractionation derivatives $
+(56
+(90
+(5
+(4
+) $
+) $
+) $
+) $
+49
+81
+5
+4
+At June 30, 2016, we had total debt of $12.7 billion. Of this amount, $11.6 billion bears fixed interest rates averaging 5.4%,
+and approximately $1.1 billion is comprised of floating rate debt with interest rates averaging 1.9%.
+As of June 30, 2016, we had open interest rate swap positions that are presented in Note 3 in “Part I. Financial Information –
+Item 1. Financial Statements” in this report. The fair values of our interest rate swaps are largely determined by estimates of
+the forward curves of the 3-month LIBOR rate. A 10% change in these forward curves would not have materially impacted
+our balance sheet at June 30, 2016.
+Foreign Currency Risk
+Our net assets, net earnings and cash flows from our Canadian subsidiaries are based on the U.S. dollar equivalent of such
+amounts measured in the Canadian dollar functional currency. Assets and liabilities of the Canadian subsidiaries are
+translated to U.S. dollars using the applicable exchange rate as of the end of a reporting period. Revenues, expenses and
+cash flow are translated using an average exchange rate during the reporting period. A 10% unfavorable change in the
+Canadian-to-U.S. dollar exchange rate would not have materially impacted our June 30, 2016 balance sheet.
+Our non-Canadian foreign subsidiaries have a U.S. dollar functional currency. However, some of our subsidiaries hold
+Canadian-dollar cash and engage in intercompany loans with Canadian subsidiaries that are based in Canadian dollars.
+The value of the Canadian-dollar cash and intercompany loans increases or decreases from the remeasurement of the cash
+and loans into the U.S. dollar functional currency.
+Item 4. Controls and Procedures
+Disclosure Controls and Procedures
+We have established disclosure controls and procedures to ensure that material information relating to Devon, including its
+consolidated subsidiaries, is made known to the officers who certify Devon’s financial reports and to other members of senior
+management and the Board of Directors.
+Based on their evaluation, our principal executive and principal financial officers have concluded that our disclosure controls
+and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934) were effective as
+of June 30, 2016 to ensure that the information required to be disclosed by Devon in the reports that it files or submits under
+the Securities Exchange Act of 1934 is recorded, processed, summarized and reported within the time periods specified in
+the SEC rules and forms.
+Changes in Internal Control Over Financial Reporting
+There were no changes in our internal control over financial reporting that occurred during our most recent fiscal quarter that
+have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+45
+PART II. Other Information
+Item 1. Legal Proceedings
+We are involved in various legal proceedings incidental to our business. However, to our knowledge as of the date of this
+report, there were no material pending legal proceedings to which we are a party or to which any of our property is subject.
+Devon Gas Services, L.P., a wholly owned subsidiary of the Company, is currently in negotiations with the Environmental
+Protection Agency with respect to alleged noncompliance with the leak detection and repair requirements of Environmental
+Protection Agency regulations promulgated under the Clean Air Act at its Beaver Creek Gas Plant located near Riverton,
+Wyoming. Although management cannot predict the outcome of settlement negotiations, the resolution of this matter may
+result in a fine or penalty in excess of $100,000.
+Item 1A. Risk Factors
+There have been no material changes to the information included in Item 1A. “Risk Factors” in our 2015 Annual Report on
+Form 10-K.
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+The following table provides information regarding purchases of our common stock that were made by us during the second
+quarter of 2016.
+Total Number of
+Average Price Paid
+Shares Purchased (1)
+Period
+April 1 - April 30    3,729
+May 1 - May 31    229,199
+June 1 - June 30   41,763
+Total
+   274,691
+per Share
+  $ 31.40
+  $ 33.30
+  $ 36.32
+  $ 33.74
+(1)Share repurchases represent shares received by us from employees and directors for the payment of personal income tax
+withholding on vesting of awards and exercises of stock options.
+Under the Devon Plan, eligible employees may purchase shares of our common stock through an investment in the Devon
+Stock Fund, which is administered by an independent trustee. Eligible employees purchased approximately 16,400 shares
+of our common stock in the second quarter of 2016, at then-prevailing stock prices, that they held through their ownership in
+the Stock Fund. We acquired the shares of our common stock sold under the Devon Plan through open-market purchases.
+Similarly, eligible Canadian employees may purchase shares of our common stock through an investment in the Canadian
+Plan, which is administered by an independent trustee, Sun Life Assurance Company of Canada. Shares sold under the
+Canadian Plan were acquired through open-market purchases. These shares and any interest in the Canadian Plan were
+offered and sold in reliance on the exemptions for offers and sales of securities made outside of the U.S., including under
+Regulation S for offers and sales of securities to employees pursuant to an employee benefit plan established and
+administered in accordance with the law of a country other than the U.S. In the second quarter of 2016, there were no shares
+purchased by Canadian employees.
+Item 3. Defaults Upon Senior Securities
+Not applicable.
+Item 4. Mine Safety Disclosures
+Not applicable.
+Item 5. Other Information
+Not applicable.
+46
+Item 6. Exhibits
+Exhibit
+Certification of principal executive officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+ 
+ Certification of principal financial officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+ 
+ Certification of principal executive officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+ 
+ Certification of principal financial officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+Number  Description
+ 
+  31.1
+ 
+  31.2
+ 
+  32.1
+ 
+  32.2
+ 
+101.INS  XBRL Instance Document
+ 
+101.SCH XBRL Taxonomy Extension Schema Document
+ 
+101.CAL  XBRL Taxonomy Extension Calculation Linkbase Document
+ 
+101.LAB  XBRL Taxonomy Extension Labels Linkbase Document
+ 
+101.PRE XBRL Taxonomy Extension Presentation Linkbase Document
+ 
+101.DEF  XBRL Taxonomy Extension Definition Linkbase Document
+47
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned thereunto duly authorized.
+DEVON ENERGY CORPORATION
+Date: August 3, 2016   /s/ Jeremy D. Humphers
+Jeremy D. Humphers
+   Senior Vice President and Chief Accounting Officer
+48
+INDEX TO EXHIBITS
+Exhibit
+Number   Description
+ 
+  31.1
+ 
+  31.2
+ 
+  32.1
+ 
+  32.2
+ 
+101.INS   XBRL Instance Document
+Certification of principal executive officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+ 
+  Certification of principal financial officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+ 
+  Certification of principal executive officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+ 
+  Certification of principal financial officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+101.INS   XBRL Instance Document
+ 
+101.SCH  XBRL Taxonomy Extension Schema Document
+ 
+101.CAL   XBRL Taxonomy Extension Calculation Linkbase Document
+ 
+101.LAB   XBRL Taxonomy Extension Labels Linkbase Document
+ 
+101.PRE  XBRL Taxonomy Extension Presentation Linkbase Document
+ 
+101.DEF   XBRL Taxonomy Extension Definition Linkbase Document
+49

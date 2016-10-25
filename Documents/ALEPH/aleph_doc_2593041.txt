@@ -1,0 +1,857 @@
+
+<SEC-DOCUMENT>0001654954-16-001499.txt : 20160812
+<SEC-HEADER>0001654954-16-001499.hdr.sgml : 20160812
+<ACCEPTANCE-DATETIME>20160812162523
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+6-K
+3
+20160812
+0001654954-16-001499
+20160812
+20160812
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: METAL MINING [1000]
+IRS NUMBER:
+FISCAL YEAR END:
+Vale S.A.
+0000917851
+000000000
+1231
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 001-15030
+FILM NUMBER:
+6-K
+1934 Act
+161828534
+BUSINESS ADDRESS:
+STREET 1:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+AVENIDA GRACA ARANHA #26
+RIO DE JANEIRO
+D5
+20005-900
+552138144540
+MAIL ADDRESS:
+STREET 1:
+CITY:
+STATE:
+ZIP:
+AVENIDA GRACA ARANHA #26
+RIO DE JANEIRO
+D5
+20005-900
+FORMER COMPANY:
+FORMER CONFORMED NAME: Companhia Vale do Rio Doce
+DATE OF NAME CHANGE:
+20051108
+FORMER COMPANY:
+FORMER CONFORMED NAME: VALLEY OF THE RIO DOCE CO
+DATE OF NAME CHANGE:
+20020129
+FORMER COMPANY:
+FORMER CONFORMED NAME: VALLEY OF THE DOCE RIVER CO
+DATE OF NAME CHANGE:
+19950602
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>vale_form6k.htm
+<DESCRIPTION>6-K FORM
+<TEXT>
+<html>
+<head>
+<!-- Document created using Blueprint(R) - powered by Issuer Direct - 
+www.issuerdirect.com -->
+<!-- Copyright 2016 Issuer Direct Corporation -->
+<title>Blueprint</title>
+</head>
+<body>
+<div id="pgbrk" style="width: 100%; text-indent: 0px; margin-right: 0px; margin-
+left: 0px;">
+<div id="hdr">
+<div style="text-align: left; width: 100%; text-indent: 0px; margin-right: 0px; 
+margin-left: 0px;"><font style="font-family: Times New Roman; font-size: 
+13px;">&#xA0;</font></div>
+<div style="text-align: left; width: 100%; text-indent: 0px; margin-right: 0px; 
+margin-left: 0px;"><font style="font-family: Times New Roman; font-size: 
+13px;">&#xA0;</font></div>
+<div style="text-align: left; width: 100%; text-indent: 0px; margin-right: 0px; 
+margin-left: 0px;"><font style="font-family: Times New Roman; font-size: 
+13px;">&#xA0;</font></div></div></div>
+<div style="text-align: center; width: 100%; height: 8px; margin-right: 0px; 
+margin-bottom: 6px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-
+bottom-color: rgb(0, 0, 0); border-top-width: 4px; border-bottom-width: 1px; 
+border-top-style: solid; border-bottom-style: solid;">
+<!--style header-->
+<br></div>
+<div style="text-align: center; text-indent: 0px; margin-right: 0px; margin-
+left: 0px;"><font style="font-family: Times New Roman; font-size: 
+16px;">&#xA0;</font></div>
+<div style="text-align: center; text-indent: 0px; margin-right: 0px; margin-
+left: 0px;"><font style="font-size: 13px;"><font style="font-family: Times New 
+Roman;">United States</font></font></div>
+<div style="text-align: center; text-indent: 0px; margin-right: 0px; margin-
+left: 0px;"><font style="font-family: Times New Roman; font-size: 
+13px;">Securities and Exchange Commission</font></div>
+<div style="text-align: center; text-indent: 0px; padding-bottom: 16px; margin-
+right: 0px; margin-left: 0px;"><font style="font-family: Times New Roman; font-
+size: 13px;">Washington, D.C. 20549</font></div>
+<div style="text-align: center; text-indent: 0px; padding-bottom: 16px; margin-
+right: 0px; margin-left: 0px;"><font style="font-family: Times New Roman; font-
+size: 13px; font-weight: bold;"><font style="font-size: 16px">FORM 6-
+K</font></font></div>
+<div style="text-align: center; text-indent: 0px; margin-right: 0px; margin-
+left: 0px;"><font style="font-family: Times New Roman; font-size: 13px;">Report 
+of Foreign Private Issuer</font></div>
+<div style="text-align: center; text-indent: 0px; margin-right: 0px; margin-
+left: 0px;"><font style="font-family: Times New Roman; font-size: 
+13px;">Pursuant to Rule 13a-16 or 15d-16</font></div>
+<div style="text-align: center; text-indent: 0px; margin-right: 0px; margin-
+left: 0px;"><font style="font-family: Times New Roman; font-size: 13px;">of 
+the</font></div>
+<div style="text-align: center; text-indent: 0px; padding-bottom: 16px; margin-
+right: 0px; margin-left: 0px;"><font style="font-family: Times New Roman; font-
+size: 13px;">Securities Exchange Act of 1934</font></div>
+<div style="text-align: center; text-indent: 0px; padding-bottom: 16px; margin-
+right: 0px; margin-left: 0px;"><font style="font-family: Times New Roman; font-
+size: 13px;">For the month of</font></div>
+<div style="text-align: center; text-indent: 0px; padding-bottom: 16px; margin-
+right: 0px; margin-left: 0px;"><font style="font-family: Times New Roman; font-
+size: 13px;">August 2016</font></div>
+<div style="text-align: center; text-indent: 0px; padding-bottom: 16px; margin-
+right: 0px; margin-left: 0px;"><font style="font-family: Times New Roman; font-
+size: 13px; font-weight: bold;"><font style="font-size: 19px">Vale 
+S.A</font>.</font></div>
+<div style="text-align: center; text-indent: 0px; margin-right: 0px; margin-
+left: 0px;"><font style="font-family: Times New Roman; font-size: 13px;">Avenida
+das Am&#xE9;ricas, No. 700 &#x2013; Bloco 8, Sala 218</font></div>
+<div style="text-align: center; text-indent: 0px; margin-right: 0px; margin-
+left: 0px;"><font style="font-family: Times New Roman; font-size: 13px;">22640-
+100 Rio de Janeiro, RJ, Brazil</font></div>
+<div style="text-align: center; text-indent: 0px; padding-bottom: 16px; margin-
+right: 0px; margin-left: 0px;"><font style="font-size: 13px;"><font style="font-
+family: Times New Roman;">(Address of principal executive 
+office)</font></font></div>
+<div style="text-align: left; text-indent: 0px; padding-bottom: 16px; margin-
+right: 0px; margin-left: 0px;"><font style="font-family: Times New Roman; font-
+size: 13px;">(Indicate by check mark whether the registrant files or will file 
+annual reports under cover of Form 20-F or Form 40-F.)</font></div>
+<div style="text-align: left; text-indent: 0px; padding-bottom: 16px; margin-
+right: 0px; margin-left: 24px;"><font style="font-family: Times New Roman; font-
+size: 13px;">(Check One) Form 20-F </font><font style="font-family: Times New 
+Roman; font-size: 13px;">&#x2612;</font><font style="font-family: Times New 
+Roman; font-size: 13px;"> &#xA0;&#xA0; Form 40-F &#x2610;</font></div>
+<div style="text-align: left; text-indent: 0px; padding-bottom: 16px; margin-
+right: 0px; margin-left: 0px;"><font style="font-family: Times New Roman; font-
+size: 13px;">(Indicate by check mark if the registrant is submitting the 
+Form&#xA0;6-K in paper </font><font style="font-family: Times New Roman; font-
+size: 13px;">as permitted by Regulation&#xA0;S-T Rule&#xA0;101(b)
+(1))</font></div>
+<div style="text-align: left; text-indent: 0px; padding-bottom: 16px; margin-
+right: 0px; margin-left: 24px;"><font style="font-family: Times New Roman; font-
+size: 13px;">(Check One) Yes </font><font style="font-family: Times New Roman; 
+font-size: 13px;"><font style="font-family: Times New Roman; font-size: 
+13px;">&#x2610;</font> &#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; No &#xA0;&#xA0; 
+&#x2612;</font></div>
+<div style="text-align: left; text-indent: 0px; padding-top: 6.7px; padding-
+bottom: 6.7px; margin-right: 0px; margin-left: 0px;"><font style="font-family: 
+Times New Roman; font-size: 13px;">(Indicate by check mark if the registrant is 
+submitting the Form&#xA0;6-K in paper </font><font style="font-family: Times New
+Roman; font-size: 13px;">as permitted by Regulation&#xA0;S-T Rule&#xA0;101(b)
+(7))</font>
+<div style="text-align: left; text-indent: 0px; padding-top: 6.7px; padding-
+bottom: 6.7px; margin-right: 0px; margin-left: 24px;"><font style="font-family: 
+Times New Roman; font-size: 13px;">(Check One) Yes </font><font style="font-
+family: Times New Roman; font-size: 13px;"><font style="font-family: Times New 
+Roman; font-size: 13px;">&#x2610;</font> &#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; No
+&#xA0;&#xA0; &#x2612;</font></div></div>
+<div style="text-align: left; text-indent: 0px; padding-top: 6.7px; padding-
+bottom: 6.7px; margin-right: 0px; margin-left: 0px;"><font style="font-family: 
+Times New Roman; font-size: 13px;">(Indicate by check mark whether the 
+registrant by furnishing the information contained in this Form is also thereby 
+furnishing information to the Commission pursuant to Rule 12g3-2(b) under the 
+Securities Exchange Act of 1934.)</font></div>
+<div style="text-align: left; text-indent: 0px; padding-bottom: 16px; margin-
+right: 0px; margin-left: 24px;"><font style="font-family: Times New Roman; font-
+size: 13px;">(Check One) Yes </font><font style="font-family: Times New Roman; 
+font-size: 13px;"><font style="font-family: Times New Roman; font-size: 
+13px;">&#x2610;</font> &#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; No &#xA0;&#xA0; 
+&#x2612;</font></div>
+<div style="text-align: left; text-indent: 0px; padding-bottom: 16px; margin-
+right: 0px; margin-left: 0px;"><font style="font-family: Times New Roman; font-
+size: 13px;">(If &#x201C;Yes&#x201D; is marked, indicate below the file number 
+assigned to the registrant in connection with Rule 12g3-2(b). 82-<font 
+style="text-decoration: underline;">&#xA0;</font>.)</font></div>
+<div style="text-align: center; width: 100%; height: 8px; margin-right: 0px; 
+margin-bottom: 6px; margin-left: 0px; border-top-color: rgb(0, 0, 0); border-
+bottom-color: rgb(0, 0, 0); border-top-width: 1px; border-bottom-width: 4px; 
+border-top-style: solid; border-bottom-style: solid;">
+<!--style footer-->
+<br></div>
+<div style="text-align: justify; text-indent: 0px; margin-right: 0px; margin-
+left: 0px;"><font style="font-family: Times New Roman; font-size: 
+13px;">&#xA0;</font></div>
+<div id="pgbrk" style="width: 100%; text-indent: 0px; margin-right: 0px; margin-
+left: 0px;">
+<div id="ftr">
+<div style="text-align: left; width: 100%; text-indent: 0px; margin-right: 0px; 
+margin-left: 0px;"><font style="font-family: Times New Roman; font-size: 
+13px;">&#xA0;</font></div></div>
+<div id="pb" style="text-align: center; width: 100%; height: 1px; margin-right: 
+0px; margin-bottom: 6px; margin-left: 0px; page-break-after: always; background-
+color: rgb(0, 0, 0);">
+<!--page break-->
+</div>
+<div id="hdr">
+<div style="text-align: left; width: 100%; text-indent: 0px; margin-right: 0px; 
+margin-left: 0px;"><font style="font-family: Times New Roman; font-size: 
+13px;">&#xA0;</font></div></div></div>
+<div style="text-align: justify; text-indent: 0px; margin-right: 0px; margin-
+left: 0px;"><font style="font-family: Times New Roman; font-size: 
+13px;">&#xA0;</font></div>
+<div style="text-align: justify; text-indent: 0px; margin-right: 0px; margin-
+left: 0px;"><font style="font-family: Times New Roman; font-size: 
+13px;">&#xA0;</font></div>
+<div>
+</div>
+<div>
+<table cellpadding="0" cellspacing="0" style="width: 100%; font-family: Times 
+New Roman; font-size: 13px;">
+<tr>
+<td style="width: 49%; vertical-align: top;">
+<div style="text-align: left; text-indent: 0px; margin-right: 0px; margin-left: 
+0px;">
+</div>
+<br>
+<div><img src="vale_logo.jpg" alt=""></div></td>
+<td style="width: 51%; vertical-align: top;">
+<div style="text-align: right; text-indent: 0px; margin-right: 0px; margin-left:
+0px;"><font style="font-family: Times New Roman; font-size: 24px;"><font 
+style="color: rgb(0, 126, 122);">Press Release</font><font style="color: rgb(0, 
+126, 122); font-size: 32px;">&#xA0;</font></font></div></td></tr><tr>
+<td colspan="2" style="width: 100%; vertical-align: top;">
+<div style="text-align: center"><img src="wave.jpg" 
+alt=""></div></td></tr></table></div>
+<div style="text-align: justify; text-indent: 0px; margin-right: 0px; margin-
+left: 0px;"><font style="font-family: Times New Roman; font-size: 
+13px;">&#xA0;</font></div>
+<div style="text-align: left; text-indent: 0px; padding-top: 16px; padding-
+bottom: 4px; margin-right: 0px; margin-left: 0px;"><font style="color: rgb(0, 
+126, 122); font-family: Times New Roman; font-size: 16px;"><font style="font-
+size: 24px;">Vale pays interest on infrastructure debentures</font></font></div>
+<div style="text-align: justify; text-indent: 0px; margin-right: 0px; margin-
+left: 0px;"><font style="font-family: Times New Roman; font-size: 
+13px;">&#xA0;</font></div>
+<div style="text-align: justify; text-indent: 0px; margin-right: 0px; margin-
+left: 0px;"><font style="color: rgb(0, 0, 0); font-family: Times New Roman; 
+font-size: 13px;">Rio de Janeiro, August 12<font style="font-size: 70%; 
+vertical-align: top;">th</font>, 2016 &#x2013; Vale S.A. (Vale) informs that it 
+will pay the interest on its shareholders debentures (debentures) on August 
+15<font style="font-size: 70%; vertical-align: top;">th</font>, 2016, through 
+the Banco Bradesco S.A. The unit prices are: R$ 66.00127821 for
+each of the 800,000 debentures of the 1<font style="font-size: 70%; vertical-
+align: top;">st</font> Series and R$ 65.72091469 for each of the 550,000 
+debentures of the 2<font style="font-size: 70%; vertical-align: top;">nd</font> 
+Series. The total amount to be paid on August 15<font style="font-size: 70%; 
+vertical-align: top;">th</font>, 2016 is R$ 88,947,525.65.</font></div>
+<div style="text-align: justify; text-indent: 0px; margin-right: 0px; margin-
+left: 0px;"><font style="font-family: Times New Roman; font-size: 
+13px;">&#xA0;</font></div>
+<div style="text-align: right; text-indent: 0px; margin-right: 0px; margin-left:
+0px;"><font style="font-family: Times New Roman; font-size: 
+13px;">&#xA0;</font></div>
+<div style="text-align: right; text-indent: 0px; margin-right: 0px; margin-left:
+0px;"><font style="color: rgb(0, 0, 0); font-size: 13px;"><font style="color: 
+rgb(0, 0, 0); font-family: Times New Roman; font-weight: bold;">For further 
+information, please contact:</font></font></div>
+<div style="text-align: right; text-indent: 0px; margin-right: 0px; margin-left:
+0px;"><font style="color: rgb(0, 0, 0); font-family: Times New Roman; font-size:
+13px;">+55-21-3485-3900</font></div>
+<div style="text-align: right; text-indent: 0px; margin-right: 0px; margin-left:
+0px;"><font style="color: rgb(0, 0, 0); font-family: Times New Roman; font-size:
+13px;">Andre Figueiredo: andre.figueiredo@vale.com</font></div>
+<div style="text-align: right; text-indent: 0px; margin-right: 0px; margin-left:
+0px;"><font style="color: rgb(128, 128, 128); font-family: Times New Roman; 
+font-size: 13px;"><font style="color: rgb(0, 0, 0);">Carla Albano Miller: 
+carla.albano@vale.com</font></font></div>
+<div style="text-align: right; text-indent: 0px; margin-right: 0px; margin-left:
+0px;"><font style="color: rgb(128, 128, 128); font-family: Times New Roman; 
+font-size: 13px;"><font style="color: rgb(0, 0, 0);">Fernando Mascarenhas: 
+fernando.mascarenhas@vale.com</font></font></div>
+<div style="text-align: right; text-indent: 0px; margin-right: 0px; margin-left:
+0px;"><font style="color: rgb(128, 128, 128); font-family: Times New Roman; 
+font-size: 13px;"><font style="color: rgb(0, 0, 0);">Andrea Gutman: 
+andrea.gutman@vale.com</font></font></div>
+<div style="text-align: right; text-indent: 0px; margin-right: 0px; margin-left:
+0px;"><font style="color: rgb(128, 128, 128); font-family: Times New Roman; 
+font-size: 13px;"><font style="color: rgb(0, 0, 0);">Bruno Siqueira: 
+bruno.siqueira@vale.com</font></font></div>
+<div style="text-align: right; text-indent: 0px; margin-right: 0px; margin-left:
+0px;"><font style="color: rgb(128, 128, 128); font-family: Times New Roman; 
+font-size: 13px;"><font style="color: rgb(0, 0, 0);">Claudia Rodrigues: 
+claudia.rodrigues@vale.com</font></font></div>
+<div style="text-align: right; text-indent: 0px; margin-right: 0px; margin-left:
+0px;"><font style="color: rgb(128, 128, 128); font-family: Times New Roman; 
+font-size: 13px;"><font style="color: rgb(0, 0, 0);">Denise Caruncho: 
+denise.caruncho@vale.com</font></font></div>
+<div style="text-align: right; text-indent: 0px; margin-right: 0px; margin-left:
+0px;"><font style="color: rgb(0, 0, 0);"><font style="color: rgb(0, 0, 
+0);"><font style="color: rgb(0, 0, 0);"><font style="color: rgb(0, 0, 0); font-
+family: Times New Roman; font-size: 13px;">Mariano Szachtman: 
+mariano.szachtman@vale.com</font></font></font></font></div>
+<div style="text-align: right; text-indent: 0px; margin-right: 0px; margin-left:
+0px;"><font style="color: rgb(0, 0, 0);"><font style="color: rgb(0, 0, 
+0);"><font style="color: rgb(0, 0, 0); font-family: Times New Roman; font-size: 
+13px;">Renata Capanema: renata.capanema@vale.com</font></font></font></div>
+<div style="text-align: justify; text-indent: 0px; margin-right: 0px; margin-
+left: 0px;"><font style="font-family: Times New Roman; font-size: 
+13px;">&#xA0;</font></div>
+<div style="text-align: justify; text-indent: 0px; margin-right: 0px; margin-
+left: 0px;"><font style="color: rgb(0, 0, 0);"><font style="color: rgb(0, 0, 0);
+font-size: 13px;"><font style="color: rgb(0, 0, 0); font-family: Times New 
+Roman;">This press release may include statements that present Vale&#x2019;s 
+expectations about future events or results. All statements, when based upon 
+expectations about the future, involve various risks and uncertainties. Vale 
+cannot guarantee that such statements will prove correct.
+These risks and uncertainties include factors related to the following: (a) the 
+countries where we operate, especially Brazil and Canada; (b) the global 
+economy; (c) the capital markets; (d) the mining and metals prices and their 
+dependence on global industrial production, which is cyclical by nature; and (e)
+global competition in the markets in which Vale operates. To obtain further 
+information on factors that may lead to results different from those forecast by
+Vale, please consult the reports Vale files with
+the U.S. Securities and Exchange Commission (SEC), the Brazilian Comiss&#xE3;o 
+de Valores Mobili&#xE1;rios (CVM), and the French Autorit&#xE9; des March&#xE9;s
+Financiers (AMF), and in particular the factors discussed under &#x201C;Forward-
+Looking Statements&#x201D; and &#x201C;Risk Factors&#x201D; in Vale&#x2019;s 
+annual report on Form 20-F.</font></font></font></div>
+<div style="text-align: justify; text-indent: 0px; margin-right: 0px; margin-
+left: 0px;"><font style="font-family: Times New Roman; font-size: 
+13px;">&#xA0;</font></div>
+<div style="text-align: justify; text-indent: 0px; margin-right: 0px; margin-
+left: 0px;"><font style="font-family: Times New Roman; font-size: 
+13px;">&#xA0;</font></div>
+<div id="pgbrk" style="width: 100%; text-indent: 0px; margin-right: 0px; margin-
+left: 0px;">
+<div id="ftr">
+<div style="text-align: left; width: 100%; text-indent: 0px; margin-right: 0px; 
+margin-left: 0px;"><font style="font-family: Times New Roman; font-size: 
+13px;">&#xA0;</font></div></div>
+<div id="pb" style="text-align: center; width: 100%; height: 1px; margin-right: 
+0px; margin-bottom: 6px; margin-left: 0px; page-break-after: always; background-
+color: rgb(0, 0, 0);">
+<!--page break-->
+</div>
+<div id="hdr">
+<div style="text-align: left; width: 100%; text-indent: 0px; margin-right: 0px; 
+margin-left: 0px;"><font style="font-family: Times New Roman; font-size: 
+13px;">&#xA0;</font></div></div></div><font style="font-weight: 
+bold;">&#xA0;&#xA0;&#xA0;&#xA0; </font><font style="font-family: Times New 
+Roman; font-size: 13px;">
+<br></font>
+<div style="text-align: center"><font><font style="font-weight: 
+bold;">Signatures<br></font></font></div>
+<div><font style="font-family: Times New Roman; font-size: 
+13px;">&#xA0;</font></div>
+<div><font>Pursuant to the requirements of the Securities Exchange Act of 1934, 
+the registrant has duly caused this report to be signed on its behalf by the 
+undersigned, thereunto duly authorized.</font></div>
+<div><font style="font-family: Times New Roman; font-size: 
+13px;">&#xA0;</font></div>
+<div>
+<table cellpadding="0" cellspacing="0" style="width: 100%; margin-right: 0px; 
+margin-left: 0px;">
+<tr>
+<td rowspan="1" style="width: 50%; vertical-align: top;">
+<div style="text-indent: 0px; margin-right: 0px; margin-left: 0px;"><font 
+style="font-family: Times New Roman; font-size: 13px;">&#xA0; </font></div></td>
+<td colspan="2" rowspan="1" style="width: 38%; vertical-align: bottom;">
+<div><font> </font>
+<div style="text-align: left; text-indent: 0px; margin-right: 0px; margin-left: 
+0px;"><font style="font-family: Times New Roman; font-size: 13px;">Vale 
+S.A.</font></div>
+<div style="text-align: left; text-indent: 0px; margin-right: 0px; margin-left: 
+0px;"><font style="font-family: Times New Roman; font-size: 
+13px;">(Registrant)</font></div>&#xA0; <font>
+<br></font></div></td>
+<td rowspan="1" style="width: 12%; vertical-align: top;">
+<div style="text-indent: 0px; margin-right: 0px; margin-left: 0px;"><font 
+style="font-family: Times New Roman; font-size: 13px;">&#xA0; 
+</font></div></td></tr><tr>
+<td style="width: 50%; vertical-align: top;">
+<div style="text-indent: 0px; margin-right: 0px; margin-left: 0px;"><font 
+style="font-family: Times New Roman; font-size: 13px;">&#xA0; </font></div></td>
+<td style="width: 3%; vertical-align: top;">
+<div style="text-indent: 0px; margin-right: 0px; margin-left: 0px;"><font 
+style="font-family: Times New Roman; font-size: 13px;">&#xA0; </font></div></td>
+<td style="width: 35%; vertical-align: top;">
+<div style="text-indent: 0px; margin-right: 0px; margin-left: 0px;"><font
+style="font-family: Times New Roman; font-size: 13px;">&#xA0; </font></div></td>
+<td style="width: 12%; vertical-align: top;">
+<div style="text-indent: 0px; margin-right: 0px; margin-left: 0px;"><font 
+style="font-family: Times New Roman; font-size: 13px;">&#xA0; 
+</font></div></td></tr><tr>
+<td style="width: 50%; vertical-align: top; border-bottom-color: rgb(255, 255, 
+255); border-bottom-width: medium; border-bottom-style: solid;">
+<div style="text-align: left; text-indent: 0px; margin-right: 0px; margin-left: 
+0px;"><font style="font-family: Times New Roman; font-size: 13px;">Date 
+</font><font style="font-family: Times New Roman; font-size: 13px;">August 12, 
+2016</font></div></td>
+<td style="width: 3%; vertical-align: top; border-bottom-color: rgb(255, 255, 
+255); border-bottom-width: medium; border-bottom-style: solid;">
+<div style="text-align: left; text-indent: 0px; margin-right: 0px; margin-left: 
+0px;"><font style="font-family: Times New Roman; font-size: 
+13px;">By:&#xA0;&#xA0; </font></div></td>
+<td style="width: 35%; vertical-align: top; border-bottom-color: black; border-
+bottom-width: 2px; border-bottom-style: solid; white-space: nowrap;">
+<div style="text-align: left; text-indent: 0px; margin-right: 0px; margin-left: 
+0px;"><font style="font-family: Times New Roman; font-size: 13px;">/s/&#xA0; 
+</font><font style="font-family: Times New Roman; font-size: 13px;">Andr&#xE9; 
+Figueiredo</font></div></td>
+<td style="width: 12%; vertical-align: top; border-bottom-color: rgb(255, 255, 
+255); border-bottom-width: medium; border-bottom-style: solid;">
+<div style="text-indent: 0px; margin-right: 0px; margin-left: 0px;"><font 
+style="font-family: Times New Roman; font-size: 13px;">&#xA0; 
+</font></div></td></tr><tr>
+<td style="width: 50%; vertical-align: top;">
+<div style="text-indent: 0px; margin-right: 0px; margin-left: 0px;"><font 
+style="font-family: Times New Roman; font-size: 13px;">&#xA0; </font></div></td>
+<td style="width: 3%; vertical-align: top;">
+<div style="text-indent: 0px; margin-right: 0px; margin-left: 0px;"><font 
+style="font-family: Times New Roman; font-size: 13px;">&#xA0; </font></div></td>
+<td style="width: 35%; vertical-align: bottom; white-space: nowrap;">
+<div style="text-align: left; text-indent: 0px; margin-right: 0px; margin-left: 
+0px;"><font style="font-family: Times New Roman; font-size: 13px;"><font 
+style="font-family: Times New Roman; font-size: 13px;">Director of Investor 
+Relations</font>
+<br></font></div></td>
+<td style="width: 12%; vertical-align: top;">
+<div style="text-indent: 0px; margin-right: 0px; margin-left: 0px;"><font 
+style="font-family: Times New Roman; font-size: 13px;">&#xA0; 
+</font></div></td></tr></table></div>
+<div style="text-align: left; text-indent: 0px; padding-bottom: 16px; margin-
+right: 0px; margin-left: 0px;"><font style="font-family: Times New Roman; font-
+size: 13px;">&#xA0;</font></div>
+<div style="text-align: justify; text-indent: 0px; padding-bottom: 16px; margin-
+right: 0px; margin-left: 0px;"><font style="font-family: Times New Roman; font-
+size: 13px;">&#xA0;</font></div>
+<div id="pgbrk" style="width: 100%; text-indent: 0px; margin-right: 0px; margin-
+left: 0px;">
+<div id="ftr">
+<div style="text-align: left; width: 100%; text-indent: 0px; margin-right: 0px; 
+margin-left: 0px;"><font style="font-family: Times New Roman; font-size: 
+13px;">&#xA0;</font></div></div>
+<div id="pb" style="text-align: center; width: 100%; height: 1px; margin-right: 
+0px; margin-bottom: 6px; margin-left: 0px; background-color: rgb(0, 0, 0);">
+<!--page break-->
+</div></div></body></html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>vale_logo.jpg
+<DESCRIPTION>IMAGE
+<TEXT>
+begin 644 vale_logo.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_X0 Z17AI9@  34T *@    @  U$0  $
+M   ! 0   %$1  0    !     %$2  0    !          #_VP!#  @&!@<&
+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
+M@CEQ@U)I5KH[Z5;F5+8OMY)QG- &Y:W$5U;)- <QN,J<5/4%LUOY06V*>6O
+M"=!4] !1110 4444 )7&^/?"@U[3_M%LH%] "4/]X>E=EVHIQ;3NC.K2C5@X
+M2V9\OE7CDV.C"0-M*=P?2O9/AYX2_LBS_M*\0&\G&1_L+5Z;P)I\WBM-:;&T
+M#<T.."_8UUH ' XQ6U2KS*R/-P>7^QFYS^0ZBBBL#U@HHHH *QCX<LO[7745
+M!$BG=M'W2?6MFB@!K+N0KG&1C(K*TK0+72II9HF=Y)#RSG-:]% "$9!![UD:
+M=X?MM,OI+FW>0>9U3/RUL44 86I^%[/5+S[3,\@?&/E;%5!X'T\'(FGSG/+U
+MU%% &9J.C6^IV$=G,SB-,8*G!XK)_P"$&T[_ )ZSX[?/TKJ:* ,S2-%M]&BD
+MCMV<JYR=QS6G110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1
+1110 4444 %%%% !1110!_]D!
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>wave.jpg
+<DESCRIPTION>IMAGE
+<TEXT>
+begin 644 wave.jpg
+M_]C_X  02D9)1@ ! 0$ > !X  #_X1#X17AI9@  34T *@    @ ! $[  (
+M   /   (2H=I  0    !   (6IR=  $    >   0TNH<  <   @,    /@
+M   <Z@    @
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M                                                 $IO:&XN66%P
+M=6YD:6-H    !9 #  (    4   0J) $  (    4   0O)*1  (    #-C0
+M )*2  (    #-C0  .H<  <   @,   (G      <Z@    @
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M
+M                         #(P,38Z,#@Z,3$@,3,Z-3$Z,S  ,C Q-CHP
+M.#HQ,2 Q,SHU,3HS,    $H ;P!H &X +@!9 &$ < !U &X 9 !I &, :
+M /_A"R%H='1P.B\O;G,N861O8F4N8V]M+WAA<"\Q+C O #P_>'!A8VME="!B
+M96=I;CTG[[N_)R!I9#TG5S5-,$UP0V5H:4AZ<F53>DY48WIK8SED)S\^#0H\
+M>#IX;7!M971A('AM;&YS.G@](F%D;V)E.FYS.FUE=&$O(CX\<F1F.E)$1B!X
+M;6QN<SIR9&8](FAT=' Z+R]W=W<N=S,N;W)G+S$Y.3DO,#(O,C(M<F1F+7-Y
+M;G1A>"UN<R,B/CQR9&8Z1&5S8W)I<'1I;VX@<F1F.F%B;W5T/2)U=6ED.F9A
+M9C5B9&0U+6)A,V0M,3%D82UA9#,Q+60S,V0W-3$X,F8Q8B(@>&UL;G,Z9&,]
+M(FAT=' Z+R]P=7)L+F]R9R]D8R]E;&5M96YT<R\Q+C$O(B\^/')D9CI$97-C
+M<FEP=&EO;B!R9&8Z86)O=70](G5U:60Z9F%F-6)D9#4M8F$S9"TQ,61A+6%D
+M,S$M9#,S9#<U,3@R9C%B(B!X;6QN<SIX;7 ](FAT=' Z+R]N<RYA9&]B92YC
+M;VTO>&%P+S$N,"\B/CQX;7 Z0W)E871E1&%T93XR,#$V+3 X+3$Q5#$S.C4Q
+M.C,P+C8T,#PO>&UP.D-R96%T941A=&4^/"]R9&8Z1&5S8W)I<'1I;VX^/')D
+M9CI$97-C<FEP=&EO;B!R9&8Z86)O=70](G5U:60Z9F%F-6)D9#4M8F$S9"TQ
+M,61A+6%D,S$M9#,S9#<U,3@R9C%B(B!X;6QN<SID8STB:'1T<#HO+W!U<FPN
+M;W)G+V1C+V5L96UE;G1S+S$N,2\B/CQD8SIC<F5A=&]R/CQR9&8Z4V5Q('AM
+M;&YS.G)D9CTB:'1T<#HO+W=W=RYW,RYO<F<O,3DY.2\P,B\R,BUR9&8M<WEN
+M=&%X+6YS(R(^/')D9CIL:3Y*;VAN+EEA<'5N9&EC:#PO<F1F.FQI/CPO<F1F
+M.E-E<3X-"@D)"3PO9&,Z8W)E871O<CX\+W)D9CI$97-C<FEP=&EO;CX\+W)D
+M9CI21$8^/"]X.GAM<&UE=&$^#0H@(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @"B @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" *(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @( H@(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @"B @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" *(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @( H@(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @"B @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" *(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @( H@(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @"B @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" *(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @( H@(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @"B @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" *(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @( H@(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @"B @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" *(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @( H@(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @"B @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" *(" @(" @(" @(" @(" @(" @(" @(" @(" @(#P_
+M>'!A8VME="!E;F0])W<G/S[_VP!#  <%!08%! <&!08(!P<("A$+"@D)"A4/
+M$ P1&!4:&1@5&!<;'B<A&QTE'1<8(BXB)2@I*RPK&B O,R\J,B<J*RK_VP!#
+M 0<(" H)"A0+"Q0J'!@<*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ
+M*BHJ*BHJ*BHJ*BHJ*BHJ*BHJ*BK_P  1" !% O<# 2(  A$! Q$!_\0 'P
+M 04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%! 0
+M  %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*%A<8
+M&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U=G=X
+M>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&Q\C)
+MRM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$! 0$!
+M 0        $" P0%!@<("0H+_\0 M1$  @$"! 0#! <%! 0  0)W  $" Q$$
+M!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF)R@I
+M*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$A8:'
+MB(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4U=;7
+MV-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P#Z1HHHH **** "
+MBBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **
+M** "BBB@ HHHH **** "BBFF5%ZNH^II-I;@.HJ$WELO6XB'U<4PZC9KG-Q'
+MQZ-6+Q%&.\U]Z'RLLT53.K62]9U_"F'6[!>LWY*:R>.PBWJQ^]#Y)=B_16<=
+M=L .)6/_   TG]O67]YO^^34/,L$O^7L?O0^278TJ*S?[>LO[S?]\FE&NV)Z
+MR,/^ &C^TL$_^7L?O0>SEV-&BJ UJQ;I-^:FGKJMDV,3K^/%7''866U2/WH7
+M)+L7**KB_M&Z7,7XN*D%Q"WW94/T85O&M2E\,D_F*S)**0$'H<TM:B"BBB@
+MHHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "B
+MBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH **** "BBB@ HHHH BN;
+MA+2W::7.Q<9P/4XJD->LC_$X^JTSQ+<I9^';F>7.Q-F<#U<#^M<(OB/3SU:0
+M'_<KYG-LQQF%KJ%"-U:^W6[-Z<(R5V>A#6K _P#+<#Z@T]=4LFQMN$YKSY=>
+MT]O^6V/J*>-8T]L'[2@SZFO,7$&.7Q4U]S_S-/8P[GH0O;9NDR?G3Q/$>DJ?
+M]]"O/AJ5BQPMW"3_ +U/6\M3RD\9QW#5:XDKKXJ/XO\ R%[!=ST 2(>CJ?QI
+M<@]"*X-;I,92<8/HU2"XDP-LS8[8<UHN)_YJ7X_\ 7L/,[FBN)%W< Y%Q)_W
+MV:>NH72]+A_^^JU7$]+K3?WH/J[[G9T5QPU2\7I<-^E.&KWPZ7!_(5HN)L-U
+MA+\/\Q>PEW.OHKDO[9O_ /GX_P#'5_PIW]N7W_/4?]\BK7$N#?V9?<O\Q>PD
+M=717*?VY??\ /4?]\BC^W+[_ )ZC_OD4_P#63!]I?<O\P]A(ZNBN4_MR^_YZ
+MC_OD4AUN^/28#Z**7^LN#_EE]R_S#V$CK**Y'^V;\_\ +S_XZO\ A33JUZ1S
+M<G]*E\387I"7X?YC]A+N=A17&'4;IA@W+?\ ?5,>]GZO<R#W\PUD^)Z/2F_O
+M0>P?<[4L!U('XTTRQCK(H_X$*X<WF>MR3_P.HVNHLX>=<^[5E+B9_9I?C_P!
+M^P\SN6N[=?O3(/\ @51-JEDGWKA!7$FZM@,F:,#_ 'J;]OL_^?F+_OJL9<28
+ME_#27XO_ "*]A'N=HVMV*])MWT%1-XALUZ"1OHH_QKCCJ=B#@WD(/^_36U:P
+M4?\ 'W$?HU82S_,);12^3'[&!UK>(X1]R%S]3BHF\2M_#;#ZE_\ ZU<M_;&G
+M_P#/TGYTS^W-/_Y^!^5<\LXS26SM_P!NK_(KV5,Z=O$5R?NQH/KS43:]?-_$
+M@^BUSAU[3P<><3]%IK>(=.7_ ):.?HE<\L;F4]YR'R070WVU:^;_ )>&'TJ)
+MK^Z;[UQ(?QK#/B/3L<-(?^V9IO\ PDMCZ2?]\UA*6-G\3E][*M%&R99&^](Q
+M_&DW'U/YUB'Q-: \)(?PI&\3VP^[#(?QQ6/U>N]TQW1MT5A'Q3 !Q;R$^FX4
+MW_A*XO\ GT?_ +['^%'U2M_*',C?HKGCXJ&>+4X_WJ:WBH_PVWYM3^IU^P<R
+M.CHKF_\ A*7_ .?9?SIG_"4S_P#/"/\ 6G]2K]@YD=/17+GQ3<_PP19]\_XT
+MG_"47G_/&#\C_C3^HUNP<R.IHKE&\3WA/$<(^@/^-)_PDU[_ '8OR-/ZC6\A
+M<R.LHR1T)_.N2/B6^/01CZ"D_P"$CO\ U3_OFFL!6\@YD=>'<'AV'XU*MY<I
+M]R=Q^-<7_P )'?\ JG_?-'_"1W_JG_?-7'"8F/PRM\Q<T3N5U6]7_EX<_6IE
+MUV^7^)#]5K@/^$CO_5/^^:4>);X#D1GW(KIC_:$/AJ/[V+W'T/1%\17(^_'&
+MWTXJ9?$I_CMA]0__ -:O-QXFO0>4B/L0:</%-WGF"''L#_C71'%YK#:I^3_-
+M$\M-]#TM?$<!^_#(/IS4RZ_9-U\Q?JM>8KXIFS\UNA'L33U\5''S6W/LU=$<
+MTS6.]G\D3[.F>H+K-@W_ "W ^H-2KJ%J_P!V=#^->7KXJA)^:U<>^\5(OB>T
+M.-T4B_K6\<\S"/Q4D_Z]6+V,.YZB+B%NDJ'_ ($*>'4]&!^AKR]?$FG]S(I_
+MW*L)XBLOX;IE_,5K'B"NOCH?C_P!>Q7<])HKSU/$$'\.I8QZRFK,>OG^#4 <
+M<_?!K5<207Q4I(7L'W.YHKCDUV[/"7@.?8&IAKEZ/^6JG\!6BXEPG6,E\E_F
+M+V$CJZ*Y<:_> _\ +,_44\>(KL=8XC]0?\:U7$6!>]_N%[&9TM%<V/$=SGYH
+M8L>V?\:=_P ))/\ \\8_UJUQ!@']I_<P]C,Z*BN='B2;/,*8_&G?\)(__/!?
+MSJEGV ?V_P &+V,SH**YYO$DO\,"?B32?\))/_SQC_6E_;^ _F?W,?L9G145
+MSA\1W/\ ##%^.?\ &FGQ%=GI'$/H#_C4OB' KJ_N#V,SI:*Y<Z_>$\;!]!49
+MUN_/2;'T45E+B3!K92?R7^8_82.LHKCVU2];K<-^@J)KRX;[UQ)_WV:YY<3T
+M/LTW^'_!'[!]SLS(@ZLH^IIC7,"_>F0?\"%<696;[TA/U:HFEB3.YU&.N37-
+M+B>3^"E^/_ *]AYG:-J5FGWKA*C.LV _Y;@_0&N+:]M4^]<1#_@51-JU@O\
+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
+M-=#K>1?I7FF]O[S?G29/J:I<,T>LOP(?$4NE/\?^ >E?\)5/_P _T'YK3/\
+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
+M?R_BSQ)_@9JJKE-7M&/IY;"HO^%'ZU_T$;3_ +Y:O<J*/;S%_9.%[?B>#O\
+M!7Q KD)<VKKV;.,U _P;\3J^$%LX_O>:!7O]%/V\R7D^%??[SYYD^$/BY6PE
+MI;R#'47"C^9J&3X4>+X\9TZ-L_W9U/\ 6OHRBG]8F2\FPW=_?_P#YME^&/BV
+M( G2F;)_A<-_*H9/AUXKC0L=&G..RC)KZ8HH^L2(>2T.DF?,)\!^*0,_V%>_
+M]^C4/_"'>)O^A?U/_P !'_PKZDHI_6)=B?[$I?S,^5G\,:]&Y5]%OU8=0;=N
+M/TJ.3P]K,2[I-*O$'JT##^E?5N!Z4A4'J!^5/ZP^Q/\ 8D/YW]Q\G_V/J?\
+MT#[K_OT:CDT^\B;;+:3(WHT9%?6FQ?[H_*D\M#U1?RH^L/L3_8<>D_P_X)\D
+M_8[G_GWE_P"^#39()HEW2Q.@SC+*17UQY4?]Q?RI#%&>L:_]\BG]9\A?V&O^
+M?GX?\$^1**^N_)B_YYI_WR*/)B_YYI_WR*/K/D+^PW_S\_#_ ()\B45]=^3%
+M_P \T_[Y%'DQ?\\T_P"^11]9\@_L-_\ /S\/^"?(E3"TN",BWDQ_N&OK7R8O
+M^>:?]\BE\J/^XOY4?6?(%D?_ $\_#_@GR4+.Z)P+>4D]/D-3?V/J?_0/NO\
+MOTU?5_E1_P!Q?RI=B_W1^5'UA]BED<>L_P /^"?*B^'-:=0R:1>L#T(MVY_2
+MIU\(>)'4,F@:D0>A%J_/Z5]28'H*6E]8?8I9)3ZS9\R1^ /%,C!1HEV">[1D
+M"K4?PQ\6RJ2NE,O^^X'\Z^D:*7UB1HLEH=9,^>H_A!XM=COM8(QCJ;A3_(U>
+MA^"GB"3'G7-K%QGDD\^G%>[T5/MYFJR?#+O]YXM%\"[\_P"OUBW''1(FK2@^
+M!EE_R\ZO<$9_Y9HHX_$5ZO12]M/N:QRO"+[/XL\YM_@KX>BQYUQ>3_[S@?R%
+M;6F_#/PMI=Y#=VVGM]H@D$D<CS.=K Y!QG'!%=914.I-]3>.#P\'=07W!111
+M4'6%%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !111
+M0 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%%
+M!1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %
+M%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 44
+144 %%%% !1110 4444 ?_]D!
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

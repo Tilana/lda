@@ -1,0 +1,2337 @@
+
+EX-2.1 2 p0705_ex2-1.htm AGREEMENT AND PLAN OF MERGER Unassociated Document
+EXHIBIT 2.1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AGREEMENT AND PLAN OF MERGER
+ 
+BY AND AMONG
+ 
+GOLD AND MINERALS COMPANY, INC.,
+ 
+EL CAPITAN PRECIOUS METALS, INC.
+ 
+AND
+ 
+MERGERCO
+ 
+JUNE 28, 2010
+TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ARTICLE I DEFINITIONS 
+ARTICLE II MERGER
+2.1 The Merger
+ 
+2.2 Effects of Merger
+ 
+ 
+2.3 Effect on G&M Capital Stock and MergerCo Capital Stock
+2.4 Rights of Holders of G&M Capital Stock; Restrictions on Transfer
+ 
+2.5 Procedure for Exchange of G&M Common Stock and G&M Preferred Stock
+ 
+ 
+2.6 Distributions with Respect to Unexchanged Shares
+2.7 Unissued Shares Distributed
+ 
+2.8 Dissenting Shares
+ 
+ 
+2.9 Directors and Officers of the Surviving Corporation
+ARTICLE III REPRESENTATIONS AND WARRANTIES OF G&M
+3.1 Organization and Qualification
+3.2 Authority Relative to this Agreement; Non-Contravention
+3.3 No Conflicts
+3.4 Capitalization
+3.5 Litigation
+3.6 No Brokers or Finders
+3.7 Subsidiaries
+3.8 Tax Matters
+3.9 Contracts and Commitments
+3.10 Affiliate Transactions
+3.11 Compliance with Laws; Permits
+3.12 Financial Statements
+3.13 Books and Records
+3.14 Real Property
+3.15 Insurance
+3.16 No Undisclosed Liabilities
+3.17 Environmental Matters
+3.18 Absence of Certain Developments
+3.19 Employee Benefit Plans
+3.20 Employees
+3.21 Intellectual Property
+3.22 Tax-Free Reorganization
+3.23 Vote Required
+3.24 Proxy Statement and Registration Statement
+3.25 Full Disclosure
+Page
+   
+  1
+  4
+  4
+  4
+  5
+  6
+  7
+  7
+  8
+  8
+  8
+  8
+  8
+  9
+  9
+  9
+  10
+  10
+  10
+  10
+  11
+  11
+  12
+  12
+  12
+  12
+  12
+  13
+  13
+  14
+  14
+  14
+  15
+  15
+  15
+  15
+  15
+4.1 Organization and Qualification
+4.2 Authority Relative to this Agreement; Non-Contravention
+4.3 No Conflicts
+4.4 Capitalization
+4.5 Exchange Act Reports
+4.6 Litigation
+4.7 Subsidiaries
+4.8 No Brokers or Finders
+ARTICLE IV REPRESENTATIONS AND WARRANTIES OF ECPN AND MERGERCO   15
+  16
+ 
+ 
+  16
+  16
+ 
+  16
+ 
+  17
+ 
+ 
+  17
+  17
+ 
+ 
+  17
+ 
+ 
+ 
+i
+4.9 Tax Matters
+4.10 Contracts and Commitments      
+4.11 Affiliate Transactions
+4.12 Compliance with Laws; Permits
+4.13 Validity of the ECPN Common Stock
+4.14 Real Property
+4.15 Insurance
+4.16 No Undisclosed Liabilities
+4.17 Environmental Matters
+4.18 Absence of Certain Developments            
+4.19 Employee Benefit Plans
+4.20 Employees
+4.21 Intellectual Property
+4.22 Tax-Free Reorganization
+4.23 Financial Statements
+4.24 Proxy Statement and Registration Statement
+4.25 Full Disclosure
+ARTICLE V CONDUCT OF BUSINESS PENDING THE MERGER
+ 
+ 
+ARTICLE VI ADDITIONAL COVENANTS AND AGREEMENTS
+5.1 Conduct of Business by ECPN and MergerCo
+5.2 Conduct of Business by G&M
+6.1 Governmental Filings      
+6.2 Expenses
+6.3 Due Diligence; Access to Information; Confidentiality
+6.4 Tax Treatment
+6.5 Press Releases
+6.6 Preparation of Disclosure Documents
+6.7 G&M Stockholders’ Meeting; Materials to Stockholders
+6.8 Affiliate Letters
+Page
+   
+  18
+  18
+  19
+  19
+  19
+  19
+  19
+  19
+  20
+  20
+  20
+  21
+  21
+  21
+  21
+  21
+  22
+  22
+  22
+  22
+  23
+  23
+  23
+  23
+  24
+  24
+  25
+  25
+  25
+7.1 Conditions to Obligations of Each Party
+7.2 Additional Conditions to Obligation of ECPN and MergerCo
+7.3 Additional Conditions to Obligation of G&M
+8.1 Termination
+6.9 Failure to Fulfill Conditions
+6.10 Notification of Certain Matters
+ARTICLE VII CONDITIONS
+ 
+ 
+ 
+ARTICLE VIII TERMINATION
+ 
+ARTICLE IX GENERAL PROVISIONS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ii
+9.1 Notices      
+9.2 No Survival
+9.3 Interpretation
+9.4 Severability
+9.5 Amendment
+9.6 Waiver
+9.7 Miscellaneous
+9.8 Counterparts
+9.9 Third Party Beneficiaries
+9.10 Governing Law
+9.11 Jurisdiction; Service of Process
+25
+  26
+  26
+  26
+  26
+  27
+  28
+  28
+  29
+  29
+  30
+  30
+  30
+  30
+  30
+  30
+  30
+  30
+  30
+  31
+AGREEMENT AND PLAN OF MERGER
+ 
+This Agreement and Plan of Merger (this “Agreement”) is entered into as of June 28, 2010, by
+and among Gold and Minerals Company, Inc., a Nevada corporation (“G&M”), El Capitan
+Precious Metals, Inc., a Nevada corporation (“ECPN”), and MergerCo, a Nevada corporation and
+wholly-owned subsidiary of ECPN (“MergerCo”).
+ 
+W I T N E S S E T H
+ 
+WHEREAS, the Boards of Directors of G&M, ECPN and MergerCo have determined that it is in
+the best interests of such corporations and their respective stockholders for ECPN to acquire
+G&M through the merger of MergerCo with and into G&M, with G&M as the surviving corporation
+(the “Merger”);
+ 
+WHEREAS, ECPN, as the sole stockholder of MergerCo, has approved this Agreement, the
+Merger and the transactions contemplated by this Agreement pursuant to action taken by written
+consent in accordance with the requirements of Chapters 78 and 92A of the Nevada Revised
+Statutes (the “NRS”) and the Bylaws of MergerCo;
+ 
+WHEREAS, pursuant to the Merger, among other things, the outstanding shares of capital stock
+of G&M shall be converted into the Merger Consideration (as hereinafter defined) upon the
+Effective Time (as hereinafter defined);
+WHEREAS, the parties to this Agreement intend to adopt this Agreement as a plan of
+reorganization within the meaning of Section 368(a) of the Internal Revenue Code of 1986, as
+amended (the “Code”) and the regulations promulgated thereunder, and intend that the Merger
+and the transactions contemplated by this Agreement be undertaken pursuant to that
+plan.  Accordingly, the parties to this Agreement intend that the Merger qualify as a
+“reorganization,” within the meaning of Section 368(a) of the Code, and that ECPN, MergerCo
+and G&M will each be a “party to a reorganization,” within the meaning of Section 368(b) of the
+Code, with respect to the Merger.
+ 
+AGREEMENT
+ 
+NOW, THEREFORE, in consideration of the representations, warranties and covenants
+contained herein, the parties hereto agree as follows:
+ 
+ARTICLE I
+DEFINITIONS
+ 
+As used herein, the following terms shall have the following meanings (such meaning to be
+equally applicable to both the singular and plural forms of the terms defined):
+ 
+“Affiliate” has the meaning as defined in Rule 12b-2 promulgated under the Exchange Act, as
+such regulation is in effect on the date hereof.
+ 
+“Articles of Merger” shall mean the Articles of Merger in substantially the form attached hereto as
+Exhibit A.
+ 
+“Closing” shall have the meaning as set forth in Section 2.2(d) hereof.
+ 
+“Closing Date” shall have the meaning as set forth in Section 2.2(d) hereof.
+“Code” has the meaning ascribed thereto in the preambles to this Agreement.
+ 
+“Copyrights” shall mean registered and unregistered copyrights and copyright applications.
+ 
+“Dissenting Shares” shall have the meaning as set forth in Section 2.8 hereof.
+ 
+“ECL” shall mean El Capitan, Ltd., an Arizona corporation and a Subsidiary of G&M.
+ 
+“ECPN Common Stock” shall mean the common stock, par value $.001 per share, of ECPN.
+ 
+“ECPN 8-K Reports” shall have the meaning ascribed thereto in Section 4.5.
+“ECPN Insiders” shall have the meaning ascribed thereto in Section 4.11.
+ 
+“ECPN Intellectual Property” shall have the meaning ascribed thereto in Section 4.21.
+ 
+“ECPN Latest Balance Sheet” shall have the meaning ascribed thereto in Section 4.16.
+ 
+“ECPN Permits” shall have the meaning ascribed thereto in Section 4.12(b).
+ 
+“ECPN Returns” shall have the meaning ascribed thereto in Section 4.9(a).
+ 
+“ECPN SEC Filings” shall have the meaning ascribed thereto in Section 4.5.
+ 
+“ECPN 10-K Report” shall have the meaning ascribed thereto in Section 4.5.
+ 
+“ECPN 10-Q Reports” shall have the meaning ascribed thereto in Section 4.5.
+ 
+“Effective Date” shall have the meaning ascribed thereto in Section 2.2(d) hereof.
+ 
+“Effective Time” shall have the meaning ascribed thereto in Section 2.2(d) hereof.
+ 
+“ERISA” means the Employee Retirement Income Security Act of 1974, as amended, or any
+successor law and the rules and regulations promulgated thereunder.
+ 
+“Evaluation Material” shall have the meaning ascribed thereto in Section 6.3(a).
+ 
+“Exchange Act” shall mean the Securities Exchange Act of 1934, as amended, including the
+rules and regulations promulgated thereunder.
+ 
+“Exchange Ratio” shall mean the ratio set forth in Section 2.3(b) hereof.
+ 
+“GAAP” shall mean United States generally accepted accounting principles as in effect from time
+to time.
+ 
+“G&M Common Stock” means the common stock, par value $.001 per share, of G&M.
+ 
+“G&M Financial Statements” shall have the meaning as set forth in Section 3.12 hereof.
+ 
+ 
+2
+“G&M Insiders” shall have the meaning as set forth in Section 3.10 hereof.
+ 
+“G&M Interim Statements” shall have the meaning as set forth in Section 3.12 hereof.
+ 
+“G&M Intellectual Property” shall have the meaning as set forth in Section 3.21 hereof.
+“G&M Latest Balance Sheet” shall have the meaning as set forth in Section 3.16 hereof.
+ 
+“G&M Permits” shall have the meaning as set forth in Section 3.11(b) hereof.
+ 
+“G&M Plans” shall have the meaning as set forth in Section 3.19(a) hereof.
+ 
+“G&M Preferred Stock” means the preferred stock, par value $.001 per share, of G&M.
+ 
+“G&M Returns” shall have the meaning as set forth in Section 3.8(a) hereof.
+ 
+“G&M Stockholder Meeting” shall have the meaning ascribed thereto in Section 6.7 hereof.
+ 
+“Intellectual Property” means any software together with Patents, Copyrights, Trademarks, and
+Know-How.
+ 
+“Know-How” means trade secrets, confidential or proprietary technical information, know-how,
+designs, processes, research in progress, inventions and invention disclosures (whether
+patentable or unpatentable).
+ 
+“Knowledge” means, with respect to an individual, that such individual is actually aware of a
+particular fact or other matter, with no obligation to conduct any inquiry or other investigation to
+determine the accuracy of such fact or other matter.  A Person other than an individual shall be
+deemed to have Knowledge of a particular fact or other matter if the officers, directors or other
+management personnel of such Person had Knowledge of such fact or other matter.
+ 
+“Material Adverse Effect” shall, with respect to an entity, mean a material adverse effect on the
+business, operations, results of operations or financial condition of such entity on a consolidated
+basis.
+ 
+“Merger” shall have the meaning ascribed thereto in the preambles of this Agreement.
+ 
+“Merger Consideration” means the shares of ECPN Common Stock issuable in connection with
+the Merger to the holders of G&M Common Stock and G&M Preferred Stock based on the
+Exchange Ratio.
+ 
+“NRS” shall mean the Nevada Revised Statutes.
+ 
+“Patents” shall mean patents, including any registrations, continuations, continuations in part,
+renewals, and any applications for any of the foregoing.
+ 
+“Person” means any individual, corporation (including any non-profit corporation), general or
+limited partnership, limited liability company, joint venture, estate, trust, association, organization,
+labor union, governmental authority or other entity.
+ 
+“Representatives” shall have the meaning ascribed thereto in Section 6.3(a).
+ 
+“Requisite G&M Stockholder Vote” shall have the meaning ascribed thereto in Section 3.2.
+3
+“SEC” shall mean the United States Securities and Exchange Commission.
+ 
+“Securities Act” shall mean the Securities Act of 1933, as amended, including the rules and
+regulations promulgated thereunder.
+ 
+“Subsidiary” shall, with respect to any Person, mean (i) each corporation in which such Person
+owns directly or indirectly fifty percent (50%) or more of the voting securities of such corporation
+and (ii) any other Person in which such Person owns at least a majority voting interest, and shall,
+in each case, unless otherwise indicated, be deemed to refer to both direct and indirect
+subsidiaries of such Person.
+ 
+“Surviving Corporation” shall have the meaning ascribed thereto in Section 2.1.
+ 
+“Tax” or “Taxes” shall mean any federal, state, local or foreign income, gross receipts, license,
+payroll, employment, excise, severance, stamp, occupation, premium, property or windfall profits
+taxes, environmental taxes, customs duties, capital stock, franchise, employees’ income
+withholding, foreign or domestic withholding, social security, unemployment, disability, workers’
+compensation, employment-related insurance, real property, personal property, sales, use,
+transfer, value added, alternative or add-on minimum or other governmental tax, fee, assessment
+or charge of any kind whatsoever including any interest, penalties or additions to any Tax or
+additional amounts in respect of the foregoing.
+ 
+“Transfer Agent” shall mean OTR Transfer, Inc., the transfer agent for ECPN and G&M.
+ 
+“Trademarks” means registered and unregistered trademarks, service marks, trade names,
+slogans, logos, designs and general intangibles of the like nature, together with all registrations
+and applications therefor.
+ 
+ARTICLE II
+MERGER
+ 
+2.1          The Merger.  Subject to the satisfaction or waiver of the conditions set forth in Article VII,
+at the Effective Time, (i) MergerCo will merge with and into G&M, and (ii) G&M will become a
+wholly-owned subsidiary of ECPN. The term “Surviving Corporation” as used herein shall mean
+G&M, as a wholly-owned subsidiary of ECPN after giving effect to the Merger.  The Merger will
+be effected pursuant to the Articles of Merger in accordance with the provisions of, and with the
+effect provided in, Section 92A.200 of the NRS.
+ 
+2.2          Effects of Merger.
+ 
+(a)           From and after the Effective Time and until further amended in accordance with law, (i)
+the Articles of Incorporation of MergerCo as in effect immediately prior to the Effective Time shall
+be the Articles of Incorporation of the Surviving Corporation, and (ii) the Bylaws of MergerCo as
+in effect immediately prior to the Effective Time shall be the Bylaws of the Surviving Corporation.
+ 
+ 
+4
+(b)           From and after the Effective Time, (i) all of the rights, privileges, immunities, powers,
+franchises and authority (both public and private) of G&M and MergerCo shall vest in the
+Surviving Corporation; (ii) all of the assets and property of G&M and MergerCo of every kind,
+nature and description (real, personal and mixed, and both tangible and intangible) and every
+interest therein, wheresoever located, including without limitation all debts or other obligations
+belonging or due to G&M or MergerCo (other than any such debts or other obligations between
+them), all claims and all causes of action, shall be vested absolutely and unconditionally in the
+Surviving Corporation; and (iii) all debts and obligations of G&M and MergerCo (other than any
+such debts or other obligations between them), all rights of creditors of G&M  or MergerCo and all
+liens or security interests encumbering any of the property of G&M or MergerCo shall be vested
+in the Surviving Corporation and shall remain in full force and effect without modification or
+impairment and shall be enforceable against the Surviving Corporation and its assets and
+properties with the same full force and effect as if such debts, obligations, liens or security
+interests had been originally incurred or created by the Surviving Corporation in its own name
+and for its own behalf.  Without limiting the generality of the foregoing, Surviving Corporation
+specifically assumes all continuing obligations which G&M or MergerCo would otherwise have to
+indemnify its officers and directors, to the fullest extent currently provided in the Surviving
+Corporation’s Articles of Incorporation, Bylaws and pursuant to the NRS, with respect to any and
+all claims arising out of actions taken or omitted by G&M’s officers and directors prior to the
+Effective Date.
+ 
+(c)           ECPN, G&M and MergerCo, respectively, shall each use its best efforts to take all such
+action as may be necessary or appropriate to effectuate the Merger in accordance with the NRS
+at the Effective Time. If at any time after the Effective Time, any further action is necessary or
+desirable to carry out the purposes of this Agreement and to vest the Surviving Corporation with
+full right, title and possession to all properties, rights, privileges, immunities, powers and
+franchises of either G&M or MergerCo, the officers of the Surviving Corporation are fully
+authorized in the name of ECPN, G&M and MergerCo or otherwise to take, and shall take, all
+such lawful and necessary action.
+ 
+(d)           Subject to the provisions of Article VII and Article VIII hereof, the closing (the “Closing”)
+of the transactions contemplated hereby shall take place at 15225 N. 49th Street, Scottsdale,
+Arizona 85254, or such other time and place as G&M and ECPN mutually agree at the earliest
+practicable time after the satisfaction or waiver of the conditions in Article VII (the “Closing Date”),
+ but in no event later than ten (10) business days after all such conditions have been satisfied or
+waived, or on such other date as may be mutually agreed by the parties hereto.  On the Closing
+Date, or as soon thereafter as practicable, to effect the Merger, the parties hereto will cause the
+Articles of Merger to be filed with the Nevada Secretary of State in accordance with the NRS. The
+Merger shall be effective when the Articles of Merger are filed with the Nevada Secretary of State
+(the “Effective Time”). As used herein, the term “Effective Date” shall mean the date on which the
+Articles of Merger are filed with the Nevada Secretary of State.
+2.3          Effect on G&M Capital Stock and MergerCo Capital Stock.  To effectuate the Merger,
+and subject to the terms and conditions of this Agreement, at the Effective Time:
+ 
+(a)           Subject to the issuance of one whole share in lieu of fractional shares as provided in
+Section 2.3(b), each share of G&M Common Stock and G&M Preferred Stock issued and
+outstanding immediately prior to the Effective Time (except Dissenting Shares and shares
+extinguished pursuant to this Section 2.3) shall automatically be converted into and
+exchangeable for the number of fully paid and nonassessable shares of ECPN Common Stock
+equal to one (1) multiplied by the Exchange Ratio at the Effective Time of the Merger;
+ 
+(b)           The Exchange Ratio shall be equal to the ratio (rounded to the nearest six decimal
+places) when (i) the numerator is equal to the product of the number 1.5 multiplied by the number
+of outstanding shares of ECPN Common Stock plus the number of shares of ECPN Common
+Stock underlying all outstanding ECPN warrants and options at the Effective Time of the Merger
+and (ii) the denominator is equal to the total number of outstanding shares of G&M Common
+Stock plus the total number of outstanding shares of G&M Preferred Stock at the Effective Time of
+the Merger.  On June 28, 2010, the number of outstanding shares of ECPN Common Stock was
+91,816,412 and the number of shares of ECPN Common Stock underlying the outstanding
+ECPN warrants and options was 3,666,667.  On June 28, 2010, the number of outstanding
+shares of G&M Common Stock was 96,255,869 and the number of outstanding shares of G&M
+Preferred Stock was 4,985,000.  On June 28, 2010, the Exchange Ratio would be 1.414692.
+ 
+ 
+5
+(c)           In lieu of fractional shares, each G&M stockholder who would otherwise have been
+entitled to a fraction of a share of ECPN Common Stock pursuant to this Section 2.3 (after
+aggregating all fractional shares otherwise to be received by such G&M stockholder) shall
+receive, one (1) whole share of ECPN Common Stock;
+ 
+(d)           All shares of G&M Common Stock and G&M Preferred Stock held at the Effective Time
+by G&M as treasury stock will be canceled and no payment will be made with respect to those
+shares;
+ 
+(e)           Each share of G&M Common Stock and G&M Preferred Stock issued and outstanding
+immediately prior to the Effective Time and owned by MergerCo or ECPN, if any, shall be
+cancelled and extinguished without any conversion thereof and no payment shall be made with
+respect thereto; and
+ 
+(f)           All shares of common stock, $.001 par value per share, of MergerCo issued and
+outstanding immediately prior to the Effective Time will be converted into and become one (1)
+validly issued, fully paid and nonassessable share of common stock of the Surviving
+Corporation.
+ 
+2.4          Rights of Holders of G&M Capital Stock; Restrictions on Transfer
+(a)           On and after the Effective Date and until surrendered for exchange, each outstanding
+stock certificate that immediately prior to the Effective Date represented shares of G&M Common
+Stock and G&M Preferred Stock (except Dissenting Shares and shares extinguished pursuant to
+Section 2.3) shall be deemed for all purposes, to evidence ownership of and to represent the
+number of whole shares of ECPN Common Stock into which such shares of G&M Common
+Stock and G&M Preferred Stock shall have been converted pursuant to Section 2.3 above.  The
+record holder of each such outstanding certificate representing shares of G&M Common Stock
+and G&M Preferred Stock, shall, after the Effective Date, be entitled to vote the shares of ECPN
+Common Stock into which such shares of G&M Common Stock and G&M Preferred Stock shall
+have been converted on any matters on which the holders of record of ECPN Common Stock, as
+of any date subsequent to the Effective Date, shall be entitled to vote.  In any matters relating to
+such certificates of G&M Common Stock and G&M Preferred Stock, ECPN may rely conclusively
+upon the record of stockholders maintained by G&M’s Transfer Agent containing the names and
+addresses of the holders of record of G&M Common Stock and G&M Preferred Stock on the
+Effective Date.
+ 
+(b)           Each G&M stockholder who will be receiving 10,000 or less of shares of ECPN
+Common Stock in the conversion described in Section 2.3(a) hereof will be issued one (1)
+unrestricted stock certificate. Each G&M stockholder who will be receiving more than 10,000
+shares of ECPN Common Stock in the conversion will be issued one (1) unrestricted certificate
+for 10,000 shares of ECPN Common Stock and one (1) restricted certificate for the remaining
+number of shares of ECPN Common Stock to be received in the conversion.
+ 
+Ninety (90) days after the Effective Date, a G&M stockholder may return his restricted ECPN
+Common Stock certificate to ECPN's Transfer Agent and, if the number of restricted shares of
+ECPN Common Stock is 10,000 or less, he will receive an unrestricted ECPN Common Stock
+certificate from the Transfer Agent. If the number of shares of ECPN Common Stock in the
+returned restricted certificate is more than 10,000 shares, the G&M stockholder will receive an
+unrestricted certificate for 10,000 shares of ECPN Common Stock plus an unrestricted certificate
+for 25% of his remaining shares of ECPN Common Stock, and a restricted certificate for 75% of
+his remaining shares of ECPN Common Stock he returned to the Transfer Agent.  A G&M
+stockholder may repeat this process of removing the restrictive legend from a portion of his
+restricted ECPN Common Stock every ninety (90) days.  One (1) year after the Effective Date, a
+G&M stockholder who has received a restricted ECPN Common Stock certificate may have the
+restrictive legend removed from all of his shares of restricted ECPN Common Stock received in
+the conversion, irrespective of the number of shares of ECPN Common Stock.
+ 
+ 
+6
+Each registered holder of G&M Common Stock and G&M Preferred Stock will be issued ECPN
+Common Stock certificates bearing legends consistent with the restrictions set forth in this
+Section 2.4(b).
+ 
+2.5          Procedure for Exchange of G&M Common Stock and G&M Preferred Stock.
+(a)           After the Effective Time, holders of certificates theretofore evidencing outstanding
+shares of G&M Common Stock and G&M Preferred Stock (except shares cancelled or
+extinguished pursuant to Section 2.3), upon surrender of such certificates to the Transfer Agent,
+shall be entitled to receive certificates representing the number of shares of ECPN Common
+Stock into which shares of G&M Common Stock and G&M Preferred Stock theretofore
+represented by the certificates so surrendered are exchangeable as provided in Section 2.3(a)
+and Section 2.4(b) hereof.  ECPN shall not be obligated to deliver any such shares of ECPN
+Common Stock to which any former holder of shares of G&M Common Stock and G&M Preferred
+Stock is entitled until such holder surrenders the certificate or certificates representing such
+shares.  Until surrendered in accordance with this Section 2.5, each certificate evidencing G&M
+Common Stock and G&M Preferred Stock shall represent for all purposes only the right to receive
+Merger Consideration and, if applicable, amounts under Section 2.6.  Upon surrender, each
+certificate evidencing G&M Common Stock and G&M Preferred Stock shall be canceled.  If there
+is a transfer of G&M Common Stock or G&M Preferred Stock ownership which is not registered in
+the transfer records of G&M, a certificate representing the proper number of shares of ECPN
+Common Stock may be issued to a person other than the person in whose name the certificate so
+surrendered is registered if: (x) upon presentation to the Transfer Agent or Secretary of ECPN,
+such certificate shall be properly endorsed or otherwise be in proper form for transfer, including
+an appropriate signature guarantee, and (y) the person requesting such payment shall pay any
+transfer or other taxes required by reason of the issuance of shares of ECPN Common Stock to a
+person other than the registered holder of such certificate or establish to the reasonable
+satisfaction of ECPN that such tax has been paid or is not applicable. If any certificate evidencing
+G&M Common Stock or G&M Preferred Stock has not been surrendered immediately prior to the
+date eighteen (18) months after the Effective Date, any such shares of ECPN Common Stock,
+dividends or distributions in respect of such certificate shall, to the extent permitted by applicable
+law, be maintained by the Transfer Agent in trust (the “Unissued Shares”) free and clear of all
+claims or interest of any person previously entitled thereto, until issued pursuant to Section 2.7
+below.  None of ECPN, the Surviving Corporation or the Transfer Agent shall be liable to any
+person in respect of any shares (or dividends or distributions with respect thereto) or cash
+payments delivered to a public official pursuant to any escheat, abandoned property or similar
+applicable law.
+ 
+(b)           All shares of ECPN Common Stock issued upon the surrender for exchange of G&M
+Common Stock and G&M Preferred Stock in accordance with the above terms and conditions
+shall be deemed to have been issued and paid in full satisfaction of all rights pertaining to such
+shares of G&M Common Stock and G&M Preferred Stock.
+ 
+(c)           In the event any certificate for G&M Common Stock or G&M Preferred Stock shall have
+been lost, stolen or destroyed, ECPN shall issue and pay in exchange for such lost, stolen or
+destroyed certificate, promptly following its receipt of an affidavit of that fact by the holder thereof,
+such shares of the ECPN Common Stock as may be required pursuant to this Agreement;
+provided, however, that ECPN’s Transfer Agent, in its discretion and as a condition precedent to
+the issuance and payment thereof, may require the owner of such lost, stolen or destroyed
+certificate to deliver a bond in such sum as it may direct as indemnity against any claim that may
+be made against ECPN or any other party with respect to the certificate alleged to have been
+lost, stolen or destroyed.
+2.6          Distributions with Respect to Unexchanged Shares.  No dividend or other distribution
+declared with respect to ECPN Common Stock with a record date after the Effective Time shall
+be paid to holders of unsurrendered certificates evidencing G&M Common Stock or G&M
+Preferred Stock, including holders of certificates who comply with the provisions of Section 2.5(c)
+(with regard to lost certificates) until such holders surrender such certificates or submit an affidavit
+(and a bond, as applicable) in accordance with Section 2.5(c).  Upon the surrender of such
+certificates in accordance with this Section or Section 2.5(c), there shall be paid to such holders,
+promptly after such surrender or submission, as applicable, the amount of dividends or other
+distributions, without interest, declared with a record date after the Effective Time occurs and not
+paid because of the failure to surrender such certificates for exchange.
+ 
+ 
+7
+2.7          Unissued Shares Distributed.  In the event any shares of ECPN Common Stock have
+not been issued by the Transfer Agent pursuant to Section 2.5(a) above because one or more
+G&M stockholders did not surrender their G&M Common Stock and/or G&M Preferred Stock
+certificate within eighteen (18) months after the Effective Date, ECPN shall authorize the Transfer
+Agent to distribute these remaining shares of ECPN Common Stock to all of the G&M
+stockholders who did properly surrender their G&M Common Stock and/or G&M Preferred Stock
+certificates pursuant to Section 2.5(a) above, on a pro-rata basis of such properly surrendered
+G&M Common Stock and G&M Preferred Stock certificates.  No fractional shares of ECPN
+Common Stock shall be issued to any G&M stockholder pursuant to the distribution of ECPN
+Common Stock described in this Section 2.7.
+ 
+2.8          Dissenting Shares.  Shares of capital stock of G&M held by stockholders of G&M who
+have properly exercised and preserved appraisal rights with respect to those shares in
+accordance with Chapter 92A of the NRS (“Dissenting Shares”) shall not be converted into or
+represent a right to receive shares of ECPN Common Stock pursuant to Section 2.3 above, but
+the holders thereof shall be entitled only to such rights as are granted by Chapter 92A of the
+NRS.  Each holder of Dissenting Shares who becomes entitled to payment for such shares
+pursuant to Chapter 92A of the NRS shall receive payment therefor from the Surviving Company
+in accordance with such laws; provided, however, that if any such holder of Dissenting Shares
+shall have effectively withdrawn such holder’s demand for appraisal of such shares or lost such
+holder’s right to appraisal and payment of such shares under Chapter 92A of the NRS, such
+holder or holders (as the case may be) shall forfeit the right to appraisal of such shares and each
+such share shall thereupon be deemed to have been canceled, extinguished and exchanged, as
+of the Effective Time, into and represent the right to receive from ECPN shares of ECPN
+Common Stock as provided in Section 2.3 above.  Any payments in respect of Dissenting Shares
+will be deemed made by the Surviving Company.  G&M shall give ECPN prompt notice of any
+demand for appraisal received by G&M, withdrawals of such demands, and any other
+instruments served pursuant to Chapter 92A of the NRS and received by G&M.  G&M shall not,
+without the prior written consent of ECPN, make any payment with respect to any demand for
+appraisal or offer to settle or settle any such demand.
+ 
+2.9          Directors and Officers of the Surviving Corporation.  From and after the Effective Time,
+the directors and officers of the Surviving Corporation shall be the persons who were directors
+and officers of ECPN immediately prior to the Effective Time, respectively. These directors and
+officers of the Surviving Corporation shall hold office for the term specified in, and subject to the
+provisions contained in, the Articles of Incorporation and Bylaws of the Surviving Corporation
+and applicable law.  If, at or after the Effective Time, a vacancy shall exist on the board of
+directors or in any of the offices of the Surviving Corporation, such vacancy shall be filled in the
+manner provided in the Articles of Incorporation and Bylaws of the Surviving Corporation.
+ 
+ARTICLE III
+REPRESENTATIONS AND WARRANTIES OF G&M
+ 
+G&M hereby represents and warrants to ECPN and MergerCo as follows; provided, that with
+respect to this Article III, G&M’s representations and warranties regarding ECL, as a Subsidiary
+of G&M, are to be limited to G&M’s Knowledge:
+ 
+3.1          Organization and Qualification.  Each of G&M and its Subsidiaries (as identified in
+Section 3.7 hereof) is, and on the Effective Date will be, a corporation duly organized, validly
+existing and in good standing in the state in which it is incorporated, and has the requisite
+corporate power to carry on its business as now conducted. The copies of the Articles of
+Incorporation and Bylaws of G&M and each of its Subsidiaries, all of which have been made
+available to ECPN prior to the date of this Agreement, are correct and complete copies of such
+documents as in effect as of the date hereof, and shall be in effect on the Effective Date. Each of
+G&M and ECL is, and on the Effective Date will be, licensed or qualified to do business in every
+jurisdiction in which the nature of its business or its ownership of property requires it to be
+licensed or qualified, except where the failure to be so licensed or qualified would not have a
+Material Adverse Effect on G&M or the Surviving Corporation.
+ 
+ 
+8
+3.2          Authority Relative to this Agreement; Non-Contravention.  The execution and delivery of
+this Agreement by G&M and the consummation by G&M of the transactions contemplated hereby
+have been duly authorized by the Board of Directors of G&M.  Except for approval of this
+Agreement and the Merger by the affirmative vote of a majority of votes that holders of the
+outstanding shares of G&M Common Stock and G&M Preferred Stock are entitled to cast (the
+“Requisite G&M Stockholder Vote”), which will be obtained prior to Closing, no other corporate
+proceedings on the part of G&M are necessary to authorize the execution and delivery of this
+Agreement and the consummation of the transactions contemplated hereby.  This Agreement has
+been duly executed and delivered by G&M and, assuming it is a valid and binding obligation of
+ECPN and MergerCo, constitutes a valid and binding obligation of G&M enforceable in
+accordance with its terms except as enforcement may be limited by general principles of equity
+whether applied in a court of law or a court of equity and by bankruptcy, insolvency and similar
+laws affecting creditors’ rights and remedies generally. Except for (x) approvals under applicable
+Blue Sky laws and the effectiveness of the Form S-4 Registration Statement filed with the
+Securities and Exchange Commission, and (y) the filing of the Articles of Merger with the
+Secretary of State of Nevada, no authorization, consent or approval of, or filing with, any public
+body, court or authority is necessary on the part of G&M for the consummation by G&M of the
+transactions contemplated by this Agreement, except for such authorizations, consents,
+approvals and filings as to which the failure to obtain or make the same would not, in the
+aggregate, reasonably be expected to have a Material Adverse Effect on G&M or the Surviving
+Corporation or adversely affect the consummation of the transactions contemplated hereby.
+ 
+3.3          No Conflicts.  Neither G&M nor any of its Subsidiaries is subject to, or obligated under,
+any provision of (a) its Articles of Incorporation or Bylaws, (b) any agreement, arrangement or
+understanding, (c) any license, franchise or permit or (d) any law, regulation, order, judgment or
+decree, which would conflict with, be breached or violated, or in respect of which a right of
+termination or acceleration or any security interest, charge or encumbrance on any of its assets
+would be created, by the execution, delivery or performance of this Agreement, or the
+consummation of the transactions contemplated hereby, other than any such conflicts, breaches,
+violations, rights of termination or acceleration or security interests, charges or encumbrances
+which, in the aggregate, could not reasonably be expected to result in a Material Adverse Effect
+on G&M or the Surviving Corporation.
+ 
+3.4          Capitalization.
+ 
+(a)           The authorized, issued and outstanding shares of capital stock of G&M and each of its
+Subsidiaries as of the date hereof are correctly set forth on Schedule 3.4(a).  The issued and
+outstanding shares of capital stock of G&M and each of its Subsidiaries are, and on the Effective
+Date will be, duly authorized, validly issued, fully paid and nonassessable and not issued in
+violation of any preemptive rights and, to G&M’s Knowledge, free from any restrictions on transfer
+(other than restrictions under the Securities Act or state securities laws) or any option, lien,
+pledge, security interest, encumbrance or charge of any kind.  Other than as described on
+Schedule 3.4(a), G&M and each of its Subsidiaries have no other equity securities or securities
+containing any equity features authorized, issued or outstanding. Except as set forth in Schedule
+3.4(a) hereto, there are no agreements or other rights or arrangements existing which provide for
+the sale or issuance of capital stock by G&M or any of its Subsidiaries, and there are no rights,
+subscriptions, warrants, options, conversion rights or agreements of any kind outstanding to
+purchase or otherwise acquire from G&M or any of its Subsidiaries any shares of capital stock or
+other securities of any kind of G&M or any of its Subsidiaries, and there will not be any such
+agreements prior to or on the Effective Date without the prior written consent of ECPN.  There
+are, and on the Effective Date there will be, no agreements or other obligations (contingent or
+otherwise) which may require G&M or any of its Subsidiaries to repurchase or otherwise acquire
+any shares of capital stock of G&M or any of its Subsidiaries.
+ 
+(b)           Schedule 3.4(b) contains a list of the names of the owners of record as of the date of this
+Agreement of all issued and outstanding shares of the capital stock of each of the Subsidiaries of
+G&M and the number of shares of its Subsidiaries each of the owners holds.
+ 
+(c)           Neither G&M nor any of its Subsidiaries owns, or is party to any contract to acquire, any
+equity securities or other securities of any Person or any direct or indirect equity or ownership
+interest in any other Person.  Except as contemplated by this Agreement, neither G&M nor any of
+its Subsidiaries is a party to, and, to G&M’s Knowledge, there do not exist, any voting trusts,
+proxies, or other contracts with respect to the voting of shares of capital stock of G&M.
+9
+3.5          Litigatioon.  There are no material actions, suits, proceedings, orders or investigations
+pending or, to the Knowledge of G&M, threatened against G&M, its Subsidiaries, or any of their
+respective officers, directors, employees or Affiliates, individually or in the aggregate, at law or in
+equity, or before or by any federal, state or other governmental department, court, commission,
+board, bureau, agency or instrumentality, domestic or foreign, and to the Knowledge of G&M,
+there is no reasonable basis for any proceeding, claim, action or governmental investigation
+directly or indirectly involving G&M or any of its Subsidiaries or any of their respective officers,
+directors, employees or Affiliates, individually or in the aggregate.  Neither G&M nor any of its
+Subsidiaries is a party to any order, judgment or decree issued by any federal, state or other
+governmental department, court, commission, board, bureau, agency or instrumentality, domestic
+or foreign.
+ 
+3.6          No Brokers or Finders.  None of G&M, any of its Subsidiaries or their respective officers,
+directors, employees or Affiliates has employed any broker, finder, investment banker or
+investment advisor or Person performing similar function, or incurred any liability, for brokerage
+commissions, finders’ fees, investment advisory fees or similar compensation, in connection with
+the transactions contemplated by this Agreement.
+ 
+3.7          Subsidiaries.  Except as identified on Schedule 3.7, G&M does not have, and on the
+Effective Date will not have, any subsidiaries, or any direct or indirect interest in any other
+business entity.  Each of the entities identified on Schedule 3.7 shall be referred to as a
+“Subsidiary,” and all of such entities collectively as the “Subsidiaries.”
+ 
+3.8          Tax Matters.
+ 
+(a)           (i) Except as set forth on Schedule 3.8, G&M and each of its Subsidiaries has timely
+filed (or has had timely filed on its behalf) all returns, declarations, reports, estimates, information
+returns, and statements, including any schedules and amendments to such documents (“G&M
+Returns”), required to be filed or sent by it in respect of any Taxes or required to be filed or sent
+by it by any taxing authority having jurisdiction; (ii) all such G&M Returns are complete and
+accurate in all material respects; (iii) G&M and each of its Subsidiaries has timely and properly
+paid (or has had paid on its behalf) all Taxes required to be paid by it or any Subsidiary; (iv) G&M
+has established on the G&M Latest Balance Sheet, in accordance with GAAP, reserves that are
+adequate for the payment of any Taxes not yet paid; and (v) G&M and each of its Subsidiaries
+has complied with all applicable laws, rules, and regulations relating to the collection or
+withholding of Taxes from third parties (including without limitation employees) and the payment
+thereof (including, without limitation, withholding of Taxes under Sections 1441 and 1442 of the
+Code, or similar provisions under any foreign laws).
+ 
+(b)           To G&M’s Knowledge, there are no liens for Taxes upon any assets of G&M or any of its
+Subsidiaries, except liens for Taxes not yet due.
+ 
+(c)           No deficiency for any Taxes has been asserted, assessed or, to G&M’s Knowledge,
+proposed against G&M or any of its Subsidiaries that has not been resolved and paid in full or is
+not being contested in good faith.  No waiver, extension or comparable consent given by G&M or
+any of its Subsidiaries regarding the application of the statute of limitations with respect to any
+Taxes or Returns is outstanding, nor is any request for any such waiver or consent pending.
+There has been no Tax audit or other administrative proceeding or court proceeding with regard
+to any Taxes or G&M Returns, nor is any such Tax audit or other proceeding pending, nor has
+there been any notice to G&M or any of its Subsidiaries by any Taxing authority regarding any
+such Tax audit or other proceeding, or, to the Knowledge of G&M, is any such Tax audit or other
+proceeding threatened with regard to any Taxes or G&M Returns. Neither G&M nor any of its
+Subsidiaries expects the assessment of any additional Taxes of G&M or any of its Subsidiaries
+for any period prior to the date hereof and has no Knowledge of any unresolved questions,
+claims or disputes concerning the liability for Taxes of G&M or any of its Subsidiaries which
+would exceed the estimated reserves established on its books and records.
+ 
+ 
+10
+(d)           Neither G&M nor any of its Subsidiaries is a party to any agreement, contract or
+arrangement that would result, separately or in the aggregate, in the payment of any “excess
+parachute payments” within the meaning of Section 280G of the Code, and the consummation of
+the transactions contemplated by this Agreement will not be a factor causing payments to be
+made by G&M not to be deductible (in whole or in part) under Section 280G of the Code nor is a
+party to any gain recognition agreements under Section 367 of the Code and the regulations
+promulgated thereunder.  Neither G&M nor any of its subsidiaries is liable for Taxes of any other
+Person, and is not currently under any contractual obligation to indemnify any Person with
+respect to Taxes, or a party to any tax sharing agreement or any other agreement providing for
+payments by G&M or any of its Subsidiaries with respect to Taxes.  Schedule 3.8 contains a list
+of all jurisdictions in which G&M and each its Subsidiaries are required to file any G&M Return
+and no claim has ever been made by a taxing authority in a jurisdiction where G&M or any of its
+Subsidiaries does not currently file G&M Returns that G&M or any of its Subsidiaries is or may be
+subject to taxation by that jurisdiction.  There are no advance rulings in respect of any Tax
+pending or issued by any Taxing authority with respect to any Taxes of G&M or any of its
+Subsidiaries.
+ 
+(e)           Neither G&M nor any of its Subsidiaries has been neither a “distributing corporation” nor
+a “controlled corporation” (within the meaning of Section 355 of the Code) in a distribution of
+stock qualifying for tax-free treatment under Section 355 of the Code.
+ 
+(f)           Except as set forth on Schedule 3.8, neither G&M nor any of its Subsidiaries has
+requested any extension of time within which to file any G&M Return, which return has not since
+been filed.
+ 
+3.9          Contracts and Commitments.
+ 
+(a)           Schedule 3.9 hereto lists all of the agreements and provides copies of such agreements,
+whether oral or written, to which G&M or any of its Subsidiaries is a party, which are currently in
+effect, and which relate to the operation of G&M’s or any of its Subsidiaries’ businesses, except
+agreements that involve annual payments of less than $10,000 to and from G&M and involve
+capital expenditures of less than $10,000 by G&M.
+ 
+(b)           G&M and each of its Subsidiaries has performed all obligations required to be
+performed by such party in connection with the contracts, understandings, arrangements or
+commitments required to be disclosed in Schedule 3.9 hereto and is not in receipt of any claim of
+default under any contract, understanding, arrangement or commitment required to be disclosed
+under such caption.  G&M has no Knowledge of any breach or anticipated breach by any other
+party to any contract, understanding, arrangement or commitment required to be disclosed under
+such caption.
+ 
+3.10        Affiliate Transactions.  Other than pursuant to this Agreement, no officer, director or
+employee of G&M or any of its Subsidiaries, or any member of the immediate family of any such
+officer, director or employee, or any entity in which any of such persons owns any beneficial
+interest (other than any publicly-held corporation whose stock is traded on a national securities
+exchange, the Nasdaq Capital Market or on an over-the-counter market and less than one
+percent (1%) of the stock of which is beneficially owned by any of such persons) (collectively
+“G&M Insiders”), has any agreement with G&M or any of its Subsidiaries or any interest in any
+property, real, personal or mixed, tangible or intangible, used in or pertaining to the business of
+G&M and each of its Subsidiaries (other than ownership of capital stock of G&M or any such
+Subsidiary). Neither G&M nor any of its Subsidiaries is indebted to any G&M Insider (except for
+amounts due as normal salaries and bonuses and in reimbursement of ordinary business
+expenses) and no G&M Insider is indebted to G&M or any of its Subsidiaries (except for cash
+advances for ordinary business expenses). None of the G&M Insiders has any direct or indirect
+interest in any competitor, supplier or customer of G&M or any of its Subsidiaries or in any
+person, firm or entity from whom or to whom G&M or any of its Subsidiaries leases any property,
+or in any other person, firm or entity with whom G&M or any of its Subsidiaries transacts business
+of any nature.
+ 
+ 
+11
+3.11        Compliance with Laws; Permits.
+ 
+(a)           Except for any noncompliance that would not reasonably be expected to have a Material
+Adverse Effect on G&M or the Surviving Corporation, G&M and its Subsidiaries and their
+respective officers, directors, agents and employees have complied with all applicable laws,
+regulations and other requirements, including, but not limited to, federal, state, local and foreign
+laws, ordinances, rules, regulations and other requirements pertaining to equal employment
+opportunity, employee retirement, affirmative action and other hiring practices, occupational
+safety and health, workers’ compensation, unemployment and building and zoning codes, and
+no claims have been filed against G&M or any of its Subsidiaries, and G&M and its Subsidiaries
+have not received any notice alleging a violation of any such laws, regulations or other
+requirements. Neither G&M nor any of its Subsidiaries is relying on any exemption from or
+deferral of any such applicable law, regulation or other requirement that would not be available to
+the Surviving Corporation after it acquires G&M’s properties, assets and business.
+ 
+(b)           G&M and each of its Subsidiaries has, in full force and effect, all licenses, permits and
+certificates, from federal, state, local and foreign authorities (including without limitation federal
+and state agencies regulating occupational health and safety) necessary to conduct its business
+and operate its properties (collectively, the “G&M Permits”).  G&M and each of its Subsidiaries
+has conducted its business in compliance with all material terms and conditions of the G&M
+Permits, except for any noncompliance that would not reasonably be expected to have a Material
+Adverse Effect on G&M or the Surviving Corporation.
+ 
+3.12        Financial Statements.  G&M will make available to ECPN audited balance sheets of
+G&M as of December 31, 2008 and 2009, and the related audited statements of income, changes
+in stockholders’ equity, and cash flows of G&M for the year then ended and its balance sheet as
+well as unaudited statements of income, changes in stockholders’ equity, and cash flows of G&M
+for the year ended December 31, 2009 (the “G&M Financial Statements”), and its unaudited
+balance sheet as of March 31, 2010, and the related unaudited statements of income, change in
+stockholders’ equity and cash flows of G&M for the period then ended (the “G&M Interim
+Statements”).  The G&M Financial Statements will be audited by MaloneBailey, LLP,
+Independent Registered Public Accounting Firm, and be accompanied by their audit report. The
+G&M Financial Statements and the G&M Interim Statements will be prepared in accordance with
+GAAP consistently applied with past practice (except in each case as described in the notes
+thereto) and on that basis present fairly, in all material respects, the financial position and the
+results of operations, changes in stockholders’ equity, and cash flows of G&M and its
+Subsidiaries on a consolidated basis as of the dates of and for the periods referred to in the G&M
+Financial Statements and the G&M Interim Statements, respectively.
+ 
+3.13        Books and Records.  The books of account, minute books, stock record books, and
+other records of G&M and each of its Subsidiaries, complete copies of which have been made
+available to ECPN, have been properly kept and contain no inaccuracies except for inaccuracies
+that would not, individually or in the aggregate, reasonably be expected to have a Material
+Adverse Effect on G&M or the Surviving Corporation.  At the Closing, all of G&M’s and its
+Subsidiaries’ records will be in the possession of G&M.
+ 
+3.14        Real Property.  Neither G&M nor any of its Subsidiaries owns any real property,
+leaseholds or other interests in any real property, except the interest in the El Capitan Mine
+owned by ECL.
+ 
+3.15        Insurance.  The insurance policies owned and maintained by G&M and its Subsidiaries
+that are material to G&M and its Subsidiaries are in full force and effect, all premiums due and
+payable thereon have been paid (other than retroactive or retrospective premium adjustments
+that G&M or its Subsidiaries are not currently required, but may in the future be required, to pay
+with respect to any period ending prior to the date of this Agreement), and neither G&M nor any of
+its Subsidiaries has received any notice of cancellation or termination with respect to any such
+policy that has not been replaced on substantially similar terms prior to the date of such
+cancellation.
+ 
+ 
+12
+3.16        No Undisclosed Liabilities.  Except as reflected in the unaudited balance sheet of G&M
+at March 31, 2010 (the “G&M Latest Balance Sheet”), neither G&M nor any of its Subsidiaries has
+liabilities (whether accrued, absolute, contingent, unliquidated or otherwise) except (i) liabilities
+which have arisen after the date of G&M’s Latest Balance Sheet in the ordinary course of
+business (none of which is a material uninsured liability), or (ii) liabilities under this Agreement.
+ 
+3.17        Environmental Matters.
+ 
+(a)           Except as would not be expected to have a Material Adverse Effect, neither G&M nor
+any of its Subsidiaries has violated, is in violation of, or has been notified that it is in violation of
+any Environmental Law (as defined below), and except in full compliance with Environmental
+Laws, neither G&M nor any of its Subsidiaries (nor, to the Knowledge of G&M, any predecessor
+in interest in connection with the business of G&M or its Subsidiaries) has generated, used,
+handled, transported or stored any Hazardous Materials (as defined below) or shipped any
+Hazardous Materials for treatment, storage or disposal at any other site or facility.  There has
+been no generation, use, handling, storage or disposal of any Hazardous Materials in violation of
+any Environmental Law at any site owned or operated by, or premises leased by, G&M or its
+Subsidiaries (or, to the Knowledge of G&M, any predecessor in interest in connection with the
+business of G&M or its Subsidiaries) during the period of G&M’s or its Subsidiaries’ (or
+predecessor in interest’s) ownership, operation or lease or, to the Knowledge of G&M, prior
+thereto, except as would not reasonably be expected to have a Material Adverse Effect, nor has
+there been or is there threatened any Release (as defined below) of any Hazardous Materials
+into, on, at, under or from any such site or premises during such period or, to G&M’s Knowledge,
+prior thereto, in violation of any Environmental Law or which created or would, if discovered,
+create an obligation to report or respond in any way to such Release or would reasonably be
+expected to have a Material Adverse Effect.
+ 
+(b)           For purposes of this Agreement:
+ 
+(i)           “Environmental Laws” means any Federal, state, local or foreign Laws (including
+common Law), regulations, codes, rules, orders, ordinances, permits, requirements and final
+governmental determinations, in each case as amended and in effect in the jurisdiction in which
+the applicable site or premises are located, pertaining to the protection of human health, safety or
+the environment;
+ 
+(ii)           “Hazardous Materials” means (A) any chemicals, materials or substances defined as or
+included in the definition of “hazardous substances,” “hazardous wastes,” “hazardous materials,”
+“chemical substances,” “toxic substances,” “toxic pollutants,” “pollutants,” “contaminants,”
+“pesticides,” or “oil” or related materials as defined in any applicable Environmental Law, or (B)
+any petroleum or petroleum products, oil, natural or synthetic gas, radioactive materials,
+asbestos-containing materials, polychlorinated biphenyls, urea formaldehyde foam insulation,
+radon and any other substance defined or designated as hazardous, toxic or harmful to human
+health, safety or the environment under any Environmental Law; and
+ 
+(iii)           “Release” has the meaning specified in CERCLA.
+13
+3.18        Absence of Certain Developments.  Except as disclosed in the G&M Financial
+Statements or as otherwise contemplated by this Agreement, since the date of the G&M Latest
+Balance Sheet, G&M and each of its Subsidiaries has conducted its business only in the ordinary
+course consistent with past practice and there has not occurred or been entered into, as the case
+may be: (i) any event having a Material Adverse Effect on G&M or the Surviving Corporation, (ii)
+any event that could reasonably be expected to prevent or materially delay the performance of
+G&M’s or its Subsidiaries’ obligations pursuant to this Agreement, (iii) any material change by
+G&M or any of its Subsidiaries in its accounting methods, principles or practices, (iv) any
+amendment to the Articles of Incorporation or Bylaws of G&M or any of its Subsidiaries, (v) other
+than in the ordinary course of business consistent with past practice, any (w) capital expenditures
+by G&M or any of its Subsidiaries, (x) purchase, sale, assignment or transfer of any material
+assets by G&M or any of its Subsidiaries, (y) mortgage, pledge or existence of any lien,
+encumbrance or charge on any material assets or properties, tangible or intangible of G&M or
+any of its Subsidiaries, except for liens for taxes not yet due and such other liens, encumbrances
+or charges which do not, individually or in the aggregate, have a Material Adverse Effect on G&M
+or the Surviving Corporation, or (z) cancellation, compromise, release or waiver by G&M or any of
+its Subsidiaries of any rights of material value or any material debts or claims, (vi) any incurrence
+by G&M or any of its Subsidiaries of any material liability (absolute or contingent), except for
+current liabilities and obligations incurred in the ordinary course of business consistent with past
+practice, (vii) damage, destruction or similar loss, whether or not covered by insurance, materially
+affecting the business or properties of G&M or any of its Subsidiaries, (viii) any acceleration,
+termination, modification or cancellation of any agreement, contract, lease or license to which
+G&M or any of its Subsidiaries is a party or by which it is bound, (ix) entry by G&M or any of its
+Subsidiaries into any loan or other transaction with any officers, directors or employees of G&M
+or any of its Subsidiaries, (x) entry by G&M or any of its Subsidiaries into any transaction of a
+material nature other than in the ordinary course of business consistent with past practice, or (xi)
+any negotiation or agreement by the G&M or any of its Subsidiaries to do any of the things
+described in the preceding clauses (i) through (xi).
+ 
+3.19        Employee Benefit Plans.
+ 
+(a)           There are no (i) “employee benefit plans,” within the meaning of Section 3(3) of ERISA,
+of G&M and each of its Subsidiaries, (ii) bonus, stock option, stock purchase, stock appreciation
+right, incentive, deferred compensation, supplemental retirement, severance, and fringe benefit
+plans, programs, policies or arrangements, and (iii) employment or consulting agreements, for the
+benefit of, or relating to, any current or former employee (or any beneficiary thereof) of G&M or
+any of its Subsidiaries, in the case of a plan described in (i) or (ii) above, that is currently
+maintained by G&M or any of its Subsidiaries or with respect to which G&M or any of its
+Subsidiaries has an obligation to contribute, and in the case of an agreement described in
+(iii) above, that is currently in effect (the “G&M Plans”).
+ 
+(b)           No director, officer, or employee of G&M or any of its Subsidiaries will become entitled
+to retirement, severance or similar benefits or to enhanced or accelerated benefits (including any
+acceleration of vesting or lapsing of restrictions with respect to equity-based awards) under any
+G&M Plan solely as a result of consummation of the transactions contemplated by this
+Agreement.  No director of officer or control person of ECPN prior to the Effective Time has or
+shall have any liability, cost or expense (including reasonable attorneys fees and expenses)
+relating to any aspect of the G&M Plans. Such individuals and entities shall be able to rely on the
+representation and warranty in the foregoing sentence as a third party beneficiary hereof.
+ 
+3.20        Employees.  To the Knowledge of G&M, (a) neither any executive employee of G&M or
+any of its Subsidiaries, nor any group of G&M’s nor any of its Subsidiaries’ employees has any
+plans to terminate his, her or its employment; (b) neither G&M nor any of its Subsidiaries has
+material labor relations problem pending and its labor relations are satisfactory; (c) there are no
+workers’ compensation claims pending against G&M or any of its Subsidiaries, nor is G&M or
+any of its Subsidiaries aware of any facts that would give rise to such a claim; (d) to the
+Knowledge of G&M, no employee of G&M or any of its Subsidiaries is subject to any secrecy or
+noncompetition agreement or any other agreement or restriction of any kind that would impede in
+any way the ability of such employee to carry out fully all activities of such employee in
+furtherance of the business of G&M or any of its Subsidiaries; (e) no employee or former
+employee of G&M or any of its Subsidiaries has any claim with respect to any intellectual
+property rights of G&M or any of its Subsidiaries; and (f) there is no reasonable basis for any of
+the events described in the preceding clauses (a) through (e).
+ 
+ 
+14
+3.21        Intellectual Property.
+ 
+(a)           G&M does not own or license the right to use any (i) Patents, (ii) Copyrights, (iii)
+Trademarks, (iv) Know-How, or (v) software (collectively, the “G&M Intellectual Property”).
+ 
+(b)           To G&M Knowledge, G&M is not infringing upon the proprietary rights of any
+Person.  There are no claims pending or, to G&M’s Knowledge, threatened alleging that G&M is
+currently infringing upon or using in an unauthorized manner or violating the proprietary rights of
+any Person.
+ 
+(c)           G&M is not, nor will it be as a result of the execution and delivery of this Agreement or
+the performance of its obligations under this Agreement, in breach of any license, sublicense or
+other Contract relating to Intellectual Property that would reasonably be expected, individually or
+in the aggregate, to have a Material Adverse Effect on G&M.
+ 
+3.22        Tax-Free Reorganization.  Neither G&M nor, to G&M’s Knowledge, any of its Affiliates
+has through the date of this Agreement taken or agreed to take any action that would prevent the
+Merger from qualifying as a reorganization under Section 368(a) of the Code.
+ 
+3.23        Vote Required.  The Requisite G&M Stockholder Vote is the only vote of the holders of
+any class or series of G&M capital stock necessary to approve the Merger.
+3.24        Proxy Statement and Registration Statement.  None of the information supplied or to be
+supplied by G&M for inclusion or incorporation by reference in the registration statement on Form
+S-4 to be filed with the SEC in connection with the issuance of shares of ECPN Common Stock
+in the Merger (the “Registration Statement”) will, at the time the Registration Statement is filed
+with the SEC, at any time it is amended or supplemented or at the time it becomes effective under
+the Securities Act, contain any untrue statement of a material fact or omit to state any material fact
+required to be stated therein or necessary to make the statements therein not misleading.  None
+of the information supplied or to be supplied by G&M for inclusion or incorporation by reference in
+the Proxy Statement/Prospectus included in the Registration Statement (the “Proxy
+Statement/Prospectus”), on the date it is first mailed to holders of G&M Common Stock and G&M
+Preferred Stock, will contain any untrue statement of a material fact or omit to state any material
+fact required to be stated therein or necessary in order to make the statements therein, in light of
+the circumstances under which they were made, not misleading.
+ 
+3.25        Full Disclosure.  The representations and warranties of G&M contained in this
+Agreement (and in any schedule, exhibit, certificate or other instrument to be delivered under this
+Agreement) are true and correct in all material respects, and such representations and warranties
+do not omit any material fact necessary to make the statements contained therein, in light of the
+circumstances under which they were made, not misleading. There is no fact of which G&M has
+Knowledge that has not been disclosed to ECPN pursuant to this Agreement, including the
+schedules hereto, all taken together as a whole, which has had or could reasonably be expected
+to have a Material Adverse Effect on G&M or the Surviving Corporation or materially adversely
+affect the ability of G&M to consummate in a timely manner the transactions contemplated
+hereby.
+ 
+ARTICLE IV
+REPRESENTATIONS AND WARRANTIES OF ECPN AND MERGERCO
+ 
+ECPN and MergerCo hereby represent and warrant to G&M as follows:
+ 
+ 
+15
+4.1          Organization and Qualification. ECPN and MergerCo are, and on the Effective Date will
+be, corporations duly organized, validly existing and in good standing under the laws of the State
+of Nevada, and each has, and on the Effective Date will have, the requisite corporate power to
+carry on their respective businesses as now conducted. The copies of the Articles of
+Incorporation and Bylaws of ECPN and MergerCo that have been made available to G&M on or
+prior to the date of this Agreement are correct and complete copies of such documents as in
+effect as of the date hereof, and shall be in effect on the Effective Date.  ECPN and MergerCo
+are, and on the Effective Date each will be, licensed or qualified to do business in every
+jurisdiction which the nature of their respective businesses or their respective ownership of
+properties require each to be licensed or qualified, except where the failure to be so licensed or
+qualified would not have a Material Adverse Effect on ECPN or MergerCo, respectively.
+ 
+4.2          Authority Relative to this Agreement; Non-Contravention.  Each of ECPN and MergerCo
+has the requisite corporate power and authority to enter into this Agreement, and to carry out its
+obligations hereunder. The execution and delivery of this Agreement by ECPN and MergerCo,
+and the consummation by ECPN and MergerCo of the transactions contemplated hereby have
+been duly authorized by the Boards of Directors of ECPN and MergerCo.  Except for the approval
+of ECPN (as sole stockholder of MergerCo), no further corporate proceedings on the part of
+ECPN or MergerCo are necessary to authorize the execution and delivery of this Agreement and
+the consummation of the transactions contemplated hereby or will otherwise be sought by ECPN.
+This Agreement has been duly executed and delivered by ECPN and MergerCo and, assuming it
+is a valid and binding obligation of G&M, constitutes a valid and binding obligation of ECPN and
+MergerCo enforceable in accordance with its terms except as enforcement may be limited by
+general principles of equity whether applied in a court of law or a court of equity and by
+bankruptcy, insolvency and similar laws affecting creditors’ rights and remedies generally.
+Except for (x) approvals under applicable Blue Sky laws and the effectiveness of the Form S-4
+Registration Statement filed with the Securities and Exchange Commission for the distribution of
+the ECPN Common Stock, and (y) the filing of the Articles of Merger with the Nevada Secretary
+of State, no authorization, consent or approval of, or filing with, any public body, court or authority
+is necessary on the part of ECPN or MergerCo for the consummation by ECPN or MergerCo of
+the transactions contemplated by this Agreement, except for such authorizations, consents,
+approvals and filings as to which the failure to obtain or make the same would not, in the
+aggregate, reasonably be expected to have a Material Adverse Effect on ECPN or MergerCo, or
+adversely affect the consummation of the transactions contemplated hereby.
+ 
+4.3          No Conflicts.  Neither ECPN nor MergerCo nor, to ECPN’s Knowledge, ECL is subject
+to, or obligated under, any provision of (a) their respective Articles or Certificate of Incorporation
+or Bylaws, (b) any agreement, arrangement or understanding, (c) any license, franchise or permit,
+nor (d) any law, regulation, order, judgment or decree, which would conflict with, be breached or
+violated, or in respect of which a right of termination or acceleration or any security interest,
+charge or encumbrance on any of their respective assets would be created, by the execution,
+delivery or performance of this Agreement or the consummation of the transactions contemplated
+hereby, other than any such conflicts, breaches, violations, rights of termination or acceleration or
+security interests, charges or encumbrances which, in the aggregate, could not reasonably be
+expected to have a Material Adverse Effect on ECPN, MergerCo or ECL.
+ 
+4.4          Capitalization.
+ 
+(a)           As of the date hereof, ECPN is, and on the Effective Date will be, authorized to issue
+300,000,000 shares of common stock, par value $.001 per share, and 5,000,000 shares of
+preferred stock, par value $.001 per share, of which 91,816,412 shares of common stock, and no
+shares of preferred stock are currently issued and outstanding.  The issued and outstanding
+shares of capital stock of ECPN are, and on the Effective Date will be, duly authorized, validly
+issued, fully paid and nonassessable and not issued in violation of any preemptive rights and, to
+ECPN’s Knowledge, free from any restrictions on transfer (other than restrictions under the
+Securities Act or state securities laws) or any option, lien, pledge, security interest, encumbrance
+or charge of any kind.  Other than as described on Schedule 4.4(a), on the date of execution of
+this Agreement, ECPN has no other equity securities or securities containing any equity features
+authorized, issued or outstanding. Except as set forth in Schedule 4.4(a) hereto, on the date of
+execution of this Agreement, there are no agreements or other rights or arrangements existing
+which provide for the sale or issuance of capital stock by ECPN and there are no rights,
+subscriptions, warrants, options, conversion rights or agreements of any kind outstanding to
+purchase or otherwise acquire from ECPN any shares of capital stock or other securities of
+ECPN, and there will not be any such agreements prior to or on the Effective Date without the
+prior written consent of G&M.
+ 
+ 
+16
+(b)           ECPN is not a party to, and, to ECPN’s Knowledge, there do not exist, any voting trusts,
+proxies, or other contracts with respect to the voting of shares of capital stock of ECPN.
+ 
+(c)           The authorized capital of MergerCo consists of 1,000 shares of common stock, par value
+$.001 per share, all of which are, and on the Effective Date will be, issued and outstanding and
+held of record by ECPN.  The issued and outstanding shares of capital stock of MergerCo are,
+and on the Effective Date will be, duly authorized, validly issued, fully paid and nonassessable
+and have not been issued in violation of any preemptive rights, and, to ECPN’s Knowledge, free
+from any restrictions on transfer (other than restrictions under the Securities Act or state securities
+laws) or any option, lien, pledge, security interest, encumbrance or charge of any kind. There are
+no rights, subscriptions, warrants, options, conversion rights or agreements of any kind
+outstanding to purchase or otherwise acquire from MergerCo any shares of capital stock or other
+securities of MergerCo of any kind, and there will not be any such agreements prior to or on the
+Effective Date. There are, and on the Effective Date there will be, no agreements or other
+obligations (contingent or otherwise) which may require MergerCo to repurchase or otherwise
+acquire any shares of its capital stock.
+ 
+4.5          Exchange Act Reports.  Prior to the date of this Agreement, ECPN has made available
+to G&M complete and accurate copies of (a) ECPN’s Annual Report on Form 10-K for the year
+ended September 30, 2009 (the “ECPN 10-K Report”), (b) ECPN’s Quarterly Reports on Form
+10-Q for the quarters ended December 31, 2009, and March 31, 2010 as filed with the SEC (the
+“ECPN 10-Q Reports”), and (c) all current reports on Form 8-K filed with the SEC since
+December 31, 2009 (the “ECPN 8-K Reports,” and together with the ECPN 10-K Reports and
+ECPN 10-Q Reports, the “ECPN SEC Filings”).  As of their respective dates or as subsequently
+amended prior to the date hereof, each of the ECPN SEC Filings (i) did not contain any untrue
+statement of a material fact or omit to state a material fact required to be stated therein or
+necessary to make the statements therein, in light of the circumstances under which they were
+made, not misleading and (ii) complied as to form in all material respects with the applicable
+rules and regulations of the SEC.  The financial statements (including footnotes thereto) included
+in or incorporated by reference into the ECPN SEC Filings were prepared in accordance with
+GAAP applied on a consistent basis during the periods involved (except as otherwise noted
+therein) and fairly present, in all material respects, the financial condition of ECPN as of the dates
+thereof and results of operations for the periods referred to therein.
+ 
+4.6          Litigation.  Except as set forth on Schedule 4.6, there are no material actions, suits,
+proceedings, orders or investigations pending or, to the Knowledge of ECPN, threatened against
+ECPN, MergerCo or any of their respective officers, directors, employees or Affiliates, individually
+or in the aggregate, or to ECPN’s Knowledge against ECL, at law or in equity, or before or by any
+federal, state or other governmental department, court, commission, board, bureau, agency or
+instrumentality, domestic or foreign, and to the Knowledge of ECPN, there is no reasonable basis
+for any proceeding, claim, action or governmental investigation directly or indirectly involving
+ECPN or any of its officers, directors, employees or Affiliates, individually or in the aggregate, or
+against MergerCo or ECL. Neither ECPN nor MergerCo nor, to ECPN’s Knowledge, ECL, is a
+party to any order, judgment or decree issued by any federal, state or other governmental
+department, court, commission, board, bureau, agency or instrumentality, domestic or foreign.
+ 
+4.7          Subsidiaries.  ECPN does not have, and on the Effective Date will not have, any
+subsidiaries, or any direct or indirect interest in any other business entity, except for those set
+forth on Schedule 4.7.
+ 
+4.8          No Brokers or Finders.  None of ECPN or any of its officers, directors, employees or
+Affiliates has employed any broker, finder, investment banker or investment advisor or Person
+performing a similar function, or incurred any liability for brokerage commissions, finders’ fees,
+investment advisory fees or similar compensation in connection with the transactions
+contemplated by this Agreement.
+ 
+ 
+17
+4.9          Tax Matters.
+ 
+(a)           (i) ECPN has timely filed (or has had timely filed on its behalf) all returns, declarations,
+reports, estimates, information returns, and statements, including any schedules and
+amendments to such documents (“ECPN Returns”), required to be filed or sent by it in respect of
+any Taxes or required to be filed or sent by it by any taxing authority having jurisdiction; (ii) all
+such ECPN Returns are complete and accurate in all material respects; (iii) ECPN has timely
+and properly paid (or has had paid on its behalf) all Taxes required to be paid by it; (iv) ECPN
+has established on the ECPN Latest Balance Sheet, in accordance with GAAP, reserves that are
+adequate for the payment of any Taxes not yet paid; (v) ECPN has complied with all applicable
+laws, rules, and regulations relating to the collection or withholding of Taxes from third parties
+(including without limitation employees) and the payment thereof (including, without limitation,
+withholding of Taxes under Sections 1441 and 1442 of the Code, or similar provisions under any
+foreign laws).
+ 
+(b)           To ECPN’s Knowledge, there are no liens for Taxes upon any assets of ECPN, except
+liens for Taxes not yet due.
+ 
+(c)           No deficiency for any Taxes has been asserted, assessed or, to ECPN’s Knowledge,
+proposed against ECPN that has not been resolved and paid in full or is not being contested in
+good faith. No waiver, extension or comparable consent given by ECPN regarding the
+application of the statute of limitations with respect to any Taxes or Returns is outstanding, nor is
+any request for any such waiver or consent pending. There has been no Tax audit or other
+administrative proceeding or court proceeding with regard to any Taxes or ECPN Returns, nor is
+any such Tax audit or other proceeding pending, nor has there been any notice to ECPN by any
+Taxing authority regarding any such Tax audit or other proceeding, or, to the Knowledge of
+ECPN, is any such Tax audit or other proceeding threatened with regard to any Taxes or ECPN
+Returns. ECPN does not expect the assessment of any additional Taxes of ECPN for any period
+prior to the date hereof and has no Knowledge of any unresolved questions, claims or disputes
+concerning the liability for Taxes of ECPN which would exceed the estimated reserves
+established on its books and records.
+ 
+(d)           ECPN is not a party to any agreement, contract or arrangement that would result,
+separately or in the aggregate, in the payment of any “excess parachute payments” within the
+meaning of Section 280G of the Code and the consummation of the transactions contemplated
+by this Agreement will not be a factor causing payments to be made by ECPN not to be
+deductible (in whole or in part) under Section 280G of the Code. ECPN is not liable for Taxes of
+any other Person, and is not currently under any contractual obligation to indemnify any Person
+with respect to Taxes, or a party to any tax sharing agreement or any other agreement providing
+for payments by ECPN with respect to Taxes.  Schedule 4.8 contains a list of all jurisdictions in
+which ECPN is required to file any ECPN Return and no claim has ever been made by a taxing
+authority in a jurisdiction where ECPN does not currently file ECPN Returns that ECPN is or may
+be subject to taxation by that jurisdiction.  There are no advance rulings in respect of any Tax
+pending or issued by any Taxing authority with respect to any Taxes of ECPN.
+ 
+(e)           ECPN has been neither a “distributing corporation” nor a “controlled corporation” (within
+the meaning of Section 355 of the Code) in a distribution of stock qualifying for tax-free treatment
+under Section 355 of the Code.
+ 
+(f)           ECPN has not requested any extension of time within which to file any ECPN Return,
+which return has not since been filed.
+ 
+4.10        Contracts and Commitments.  Other than as referenced in the ECPN SEC Filings,
+ECPN is not a party to any material contract, agreement, arrangement or other understanding,
+whether written or oral, which are currently in effect, and which relate to ECPN or its business.
+ 
+ 
+18
+4.11        Affiliate Transactions.  Except as reported in the ECPN SEC Filings and other than
+pursuant to this Agreement, no officer, director or employee of ECPN, or any member of the
+immediate family of any such officer, director or employee, or any entity in which any of such
+persons owns any beneficial interest (other than any publicly-held corporation whose stock is
+traded on a national securities exchange, the Nasdaq Capital Market, or in an over-the-counter
+market and less than one percent (1%) of the stock of which is beneficially owned by any of such
+persons) (collectively “ECPN Insiders”), has any agreement with ECPN or ECL or any interest in
+any property, real, personal or mixed, tangible or intangible, used in or pertaining to the business
+of ECPN or ECL (other than ownership of capital stock of ECPN Subsidiaries). Neither ECPN
+nor ECL is indebted to any ECPN Insider (except for reimbursement of ordinary business
+expenses) and no ECPN Insider is indebted to ECPN or ECL) except for cash advances for
+ordinary business expenses). No ECPN Insider has any direct or indirect interest in any
+competitor, supplier or customer of ECPN or ECL or in any person, firm or entity from whom or to
+whom ECPN or ECL leases any property, or in any other person, firm or entity with whom ECPN
+or ECL transacts business of any nature.
+ 
+4.12        Compliance with Laws; Permits.
+ 
+(a)           Except for any noncompliance that would not reasonably be expected to have a Material
+Adverse Effect on ECPN or ECL, as the case may be, ECPN and its officers, directors, agents
+and employees and ECL have complied with all applicable laws, regulations and other
+requirements, including, but not limited to, federal, state, local and foreign laws, ordinances,
+rules, regulations and other requirements pertaining to equal employment opportunity, employee
+retirement, affirmative action and other hiring practices, occupational safety and health, workers’
+compensation, unemployment and building and zoning codes, and no claims have been filed
+against ECPN or ECL, and ECPN and ECL have not received any notice, alleging a violation of
+any such laws, regulations or other requirements; provided, that the representations herein as to
+ECL are to ECPN’s Knowledge.
+ 
+(b)           ECPN has no licenses, permits and certificates from federal, state, local and foreign
+authorities (including, without limitation, federal and state agencies regulating occupational
+health and safety), and none are necessary and material to its operations and business.
+ 
+4.13        Validity of the ECPN Common Stock.  The shares of ECPN Common Stock to be issued
+to holders of G&M Common Stock and G&M Preferred Stock pursuant to this Agreement will be,
+when issued, duly authorized, validly issued, fully paid and nonassessable.
+ 
+4.14        Real Property.  ECPN does not own any real property, leaseholds or other interests in
+real property.
+ 
+4.15        Insurance.  The insurance policies owned and maintained by ECPN that are material to
+ECPN are in full force and effect, all premiums due and payable thereon have been paid (other
+than retroactive or retrospective premium adjustments that ECPN is not currently required, but
+may in the future be required, to pay with respect to any period ending prior to the date of this
+Agreement), and ECPN has received no notice of cancellation or termination with respect to any
+such policy that has not been replaced on substantially similar terms prior to the date of such
+cancellation.
+ 
+4.16        No Undisclosed Liabilities.  Except as reflected in the unaudited consolidated balance
+sheet of ECPN at March 31, 2010 included in ECPN’s Quarterly Report on Form 10-Q for such
+period (the “ECPN Latest Balance Sheet”), ECPN has no liabilities (whether accrued, absolute,
+contingent, unliquidated or otherwise) except liabilities which have arisen after the date of the
+ECPN Latest Balance Sheet in the ordinary course of business (none of which is a material
+uninsured liability).
+ 
+ 
+19
+4.17        Environmental Matters.  Except as would not be expected to have a Material Adverse
+Effect, neither ECPN nor any of its Subsidiaries (including MergerCo) nor, to ECPN’s
+Knowledge, ECL, has violated, is in violation of, or has been notified that it is in violation of any
+Environmental Law (as defined in Section 3.17), and except in full compliance with
+Environmental Laws, neither ECPN nor any of its Subsidiaries (nor, to the Knowledge of ECPN,
+ECL or any predecessor in interest in connection with the business of ECPN or its Subsidiaries)
+has generated, used, handled, transported or stored any Hazardous Materials (as defined in
+Section 3.17) or shipped any Hazardous Materials for treatment, storage or disposal at any other
+site or facility.  There has been no generation, use, handling, storage or disposal of any
+Hazardous Materials in violation of any Environmental Law at any site owned or operated by, or
+premises leased by, ECPN or its Subsidiaries (or, to the Knowledge of ECPN, ECL or any
+predecessor in interest in connection with the business of ECPN or its Subsidiaries) during the
+period of ECPN’s or such Subsidiary’s (or predecessor in interest’s) ownership, operation or
+lease or, to the Knowledge of ECPN, prior thereto, except as would not reasonably be expected
+to have a Material Adverse Effect, nor has there been or is there threatened any Release (as
+defined in Section 3.17) of any Hazardous Materials into, on, at, under or from any such site or
+premises during such period or, to ECPN’s Knowledge, prior thereto, in violation of any
+Environmental Law or which created or would, if discovered, create an obligation to report or
+respond in any way to such Release or would reasonably be expected to have a Material
+Adverse Effect.
+ 
+4.18        Absence of Certain Developments.  Except as disclosed in the ECPN SEC Filings or as
+otherwise contemplated by this Agreement, since March 31, 2010, ECPN and ECL have
+conducted their respective businesses only in the ordinary course consistent with past practice
+and there has not occurred or been entered into, as the case may be: (i) any event having a
+Material Adverse Effect on ECPN or ECL, (ii) any event that would reasonably be expected to
+prevent or materially delay the performance of ECPN’s obligations pursuant to this Agreement,
+(iii) any material change by ECPN in its accounting methods, principles or practices, (iv) any
+amendment to the Articles of Incorporation or Bylaws of ECPN, (v) other than in the ordinary
+course of business consistent with past practice, any (w) capital expenditures by ECPN or ECL,
+(x) purchase, sale, assignment or transfer of any material assets by ECPN or ECL, (y) mortgage,
+pledge or existence of any lien, encumbrance or charge on any material assets or properties,
+tangible or intangible of ECPN or ECL, except for liens for taxes not yet due and such other liens,
+encumbrances or charges which do not, individually or in the aggregate, have a Material Adverse
+Effect on ECPN or ECL, as the case may be, or (z) cancellation, compromise, release or waiver
+by ECPN or ECL of any rights of material value or any material debts or claims, (vi) any
+incurrence by ECPN or ECL of any material liability (absolute or contingent), except for current
+liabilities and obligations incurred in the ordinary course of business consistent with past
+practice, (vii) damage, destruction or similar loss, whether or not covered by insurance, materially
+affecting the business or properties of ECPN or ECL, (viii) entry by ECPN or ECL into any
+agreement, contract, lease or license other than in the ordinary course of business consistent
+with past practice, (ix) any acceleration, termination, modification or cancellation of any
+agreement, contract, lease or license to which ECPN or ECL is a party or by which any of them is
+bound, (x) entry by ECPN or ECL into any loan or other transaction with any officers, directors or
+employees of ECPN, (xi) any charitable or other capital contribution by ECPN or ECL or pledge
+therefore, (xii) entry by ECPN or ECL into any transaction of a material nature other than in the
+ordinary course of business consistent with past practice, or (xiii) any negotiation or agreement
+by ECPN or ECL to do any of the things described in the preceding clauses (i) through (xii);
+provided, that the representations as to ECL herein are to ECPN’s Knowledge.
+ 
+4.19        Employee Benefit Plans.
+ 
+(a)           There are no (i) “employee benefit plans,” within the meaning of Section 3(3) of ERISA,
+of ECPN, (ii) bonus, stock option, stock purchase, stock appreciation right, incentive, deferred
+compensation, supplemental retirement, severance, and fringe benefit plans, programs, policies
+or arrangements, and (iii) employment or consulting agreements, for the benefit of, or relating to,
+any current or former employee (or any beneficiary thereof) of ECPN, in the case of a plan
+described in (i) or (ii) above, that is currently maintained by ECPN or with respect to which ECPN
+has an obligation to contribute, and in the case of an agreement described in (iii) above, that is
+currently in effect (the “ECPN Plans”), except as disclosed in the ECPN SEC filings.
+ 
+ 
+20
+(b)           No director, officer, or employee of ECPN or any of its Subsidiaries or, to ECPN’s
+Knowledge, of ECL, will become entitled to retirement, severance or similar benefits or to
+enhanced or accelerated benefits (including any acceleration of vesting or lapsing of restrictions
+with respect to equity-based awards) under any ECPN Plan solely as a result of consummation
+of the transactions contemplated by this Agreement.  No director of officer or control person of
+G&M prior to the Effective Time has or shall have any liability, cost or expense (including
+reasonable attorneys fees and expenses) relating to any aspect of the ECPN Plans. Such
+individuals and entities shall be able to rely on the representation and warranty in the foregoing
+sentence as a third party beneficiary hereof.
+ 
+4.20        Employees.  To the Knowledge of ECPN, (a) neither any executive employee of ECPN,
+nor any group of ECPN’s employees has any plans to terminate his, her or its employment; (b)
+ECPN does not have any material labor relations problem pending and its labor relations are
+satisfactory; (c) there are no workers’ compensation claims pending against ECPN, nor is ECPN
+aware of any facts that would give rise to such a claim; (d) to the Knowledge of ECPN, no
+employee of ECPN is subject to any secrecy or noncompetition agreement or any other
+agreement or restriction of any kind that would impede in any way the ability of such employee to
+carry out fully all activities of such employee in furtherance of the business of ECPN; (e) no
+employee or former employee of ECPN has any claim with respect to any intellectual property
+rights of ECPN; and (f) there is no reasonable basis for any of the events described in the
+preceding clauses (a) through (e).
+ 
+4.21        Intellectual Property.
+ 
+(a)           ECPN does not own or license the right to use any (i) Patents, (ii) Copyrights, (iii)
+Trademarks, (iv) Know-How, or (v) software (collectively, the “ECPN Intellectual Property”).
+ 
+(b)           To ECPN’s Knowledge, ECPN is not infringing upon the proprietary rights of any
+Person.  There are no claims pending or, to ECPN’s Knowledge, threatened alleging that ECPN
+is currently infringing upon or using in an unauthorized manner or violating the proprietary rights
+of any Person.
+ 
+(c)           ECPN is not, nor will it be as a result of the execution and delivery of this Agreement or
+the performance of its obligations under this Agreement, in breach of any license, sublicense or
+other Contract relating to Intellectual Property that would reasonably be expected, individually or
+in the aggregate, to have a Material Adverse Effect on ECPN.
+ 
+4.22        Tax-Free Reorganization.  Neither ECPN nor, to ECPN’s Knowledge, any of its
+Affiliates has through the date of this Agreement taken or agreed to take any action that would
+prevent the Merger from qualifying as a reorganization under Section 368(a) of the Code.
+ 
+4.23        Financial Statements.  The financial statements of ECPN included in the ECPN SEC
+Filings have been prepared in accordance with GAAP consistently applied with past practice
+(except in each case as described in the notes thereto) and on that basis present fairly, in all
+material respects, the financial position and the results of operations, changes in stockholders’
+equity, and cash flows of ECPN as of the dates of and for the periods referred to in such financial
+statements.
+ 
+4.24        Proxy Statement and Registration Statement.  None of the information supplied or to be
+supplied by ECPN for inclusion or incorporation by reference in the Registration Statement will,
+at the time the Registration Statement is filed with the SEC, at any time it is amended or
+supplemented or at the time it becomes effective under the Securities Act, contain any untrue
+statement of a material fact or omit to state any material fact required to be stated therein or
+necessary to make the statements therein not misleading.  None of the information supplied or to
+be supplied by ECPN for inclusion or incorporation by reference in the Proxy
+Statement/Prospectus on the date it is first mailed to holders of G&M Common Stock and G&M
+Preferred Stock, will contain any untrue statement of a material fact or omit to state any material
+fact required to be stated therein or necessary in order to make the statements therein, in light of
+the circumstances under which they were made, not misleading.
+ 
+ 
+21
+4.25        Full Disclosure.  The representations and warranties of ECPN and MergerCo contained
+in this Agreement (and in any schedule, exhibit, certificate or other instrument to be delivered
+under this Agreement) are true and correct in all material respects, and such representations and
+warranties do not omit any material fact necessary to make the statements contained therein, in
+light of the circumstances under which they were made, not misleading. There is no fact of which
+ECPN or MergerCo has Knowledge that has not been disclosed to G&M pursuant to this
+Agreement, including the schedules hereto, all taken together as a whole, which has had or
+could reasonably be expected to have a Material Adverse Effect on ECPN, MergerCo or ECL, or
+materially adversely affect the ability of ECPN, MergerCo or ECL, to consummate in a timely
+manner the transactions contemplated hereby
+ 
+ARTICLE V
+CONDUCT OF BUSINESS PENDING THE MERGER
+5.1          Conduct of Business by ECPN and MergerCo.  From the date of this Agreement to the
+Effective Date, unless G&M shall otherwise agree in writing or as otherwise expressly
+contemplated or permitted by other provisions of this Agreement, including but not limited to this
+Section 5.1, neither ECPN nor MergerCo shall, directly or indirectly, (a) amend its Articles of
+Incorporation or Bylaws, (b) split, combine or reclassify any outstanding shares of capital stock of
+ECPN, (c) declare, set aside, make or pay any dividend or distribution in cash, stock, property or
+otherwise with respect to the capital stock of ECPN, (d) default in its obligations under any
+material debt, contract or commitment which default results in the acceleration of obligations due
+thereunder, except for such defaults arising out of ECPN’s entry into this Agreement for which
+consents, waivers or modifications are required to be obtained, (e) conduct its business other
+than in the ordinary course on an arms-length basis and in accordance in all material respects
+with all applicable laws, rules and regulations and ECPN’s past custom and practice, (f) issue or
+sell any additional shares of, or options, warrants, conversions, privileges or rights of any kind to
+acquire any shares of its capital stock, (g) acquire (by merger, exchange, consolidation,
+acquisition of stock or assets or otherwise) any corporation, partnership, joint venture or other
+business organization or division or material assets thereof or (h) make or change any material
+tax elections, settle or compromise any material tax liability or file any amended tax return.
+ 
+5.2          Conduct of Business by G&M.  From the date of this Agreement to the Effective Date,
+unless ECPN shall otherwise agree in writing or otherwise expressly contemplated or permitted
+by other provisions of this Agreement, including but not limited to this Section 5.2, G&M shall not,
+directly or indirectly, (a) amend its Articles of Incorporation or Bylaws, (b) split, combine or
+reclassify any outstanding shares of capital stock of G&M, (c) declare, set aside, make or pay any
+dividend or distribution in cash, stock, property or otherwise with respect to the capital stock of
+G&M, (d) default in its obligations under any material debt, contract or commitment which default
+results in the acceleration of obligations due thereunder, except for such defaults arising out of
+G&M’s entry into this Agreement for which consents, waivers or modifications are required to be
+obtained, (e) conduct its business other than in the ordinary course on an arms-length basis and
+in accordance in all material respects with all applicable laws, rules and regulations and G&M’s
+past custom and practice, (f) issue or sell any additional shares of, or options, warrants,
+conversions, privileges or rights of any kind to acquire any shares of, any of its capital stock, (g)
+acquire (by merger, exchange, consolidation, acquisition of stock or assets or otherwise) any
+corporation, partnership, joint venture or other business organization or division or material
+assets thereof, (h) make or change any material tax elections, settle or compromise any material
+tax liability or file any amended tax return or (i) sell or transfer, mortgage, pledge, lease, license
+or otherwise encumber any of its assets or those of its Subsidiaries other than in the ordinary
+course of business, in accordance with past practices, and in a manner not exceeding in the
+aggregate of $10,000.  Notwithstanding the foregoing, G&M may sell shares of ECPN Common
+Stock held by it.
+ 
+ 
+22
+ARTICLE VI
+ADDITIONAL COVENANTS AND AGREEMENTS
+6.1          Governmental Filings.  Subject to the terms and conditions herein provided, each party
+will use all reasonable efforts to take, or cause to be taken, all actions and to do, or cause to be
+done, all things necessary, proper or advisable to consummate and make effective as promptly
+as practicable the transactions contemplated by this Agreement.  Each party will use all
+reasonable efforts and will cooperate with the other party in the preparation and filing, as soon as
+practicable, of all filings, applications or other documents required under applicable laws,
+including, but not limited to, the Exchange Act, to consummate the transactions contemplated by
+this Agreement. Prior to submitting each filing, application, registration statement or other
+document with the applicable regulatory authority, each party will, to the extent practicable,
+provide the other party with an opportunity to review and comment on each such application,
+registration statement or other document to the extent permitted by applicable law. Each party will
+use all reasonable efforts and will cooperate with the other party in taking any other actions
+necessary to obtain such regulatory or other approvals and consents at the earliest practicable
+time, including participating in any required hearings or proceedings.
+ 
+6.2          Expenses.  Except as otherwise provided in this Agreement, all costs and expenses
+incurred in connection with this Agreement and the transactions contemplated hereby shall be
+paid by the party incurring such costs and expenses.
+ 
+6.3          Due Diligence; Access to Information; Confidentiality.
+ 
+(a)           Between the date hereof and the Closing Date, G&M and ECPN shall afford to the other
+party and their authorized representatives the opportunity to conduct and complete a due
+diligence investigation of the other party as described herein. In light of the foregoing, each party
+shall permit the other party full access on reasonable notice and at reasonable hours to its
+properties and shall disclose and make available (together with the right to copy) to the other
+party and its officers, employees, attorneys, accountants and other representatives (hereinafter
+collectively referred to as “Representatives”), all books, papers, and records relating to the
+assets, stock, properties, operations, obligations and liabilities of such party and its subsidiaries,
+including, without limitation, all books of account (including, without limitation, the general
+ledger), tax records, minute books of directors’ and stockholders’ meetings, organizational
+documents, bylaws, contracts and agreements, filings with any regulatory authority, accountants’
+work papers, litigation files (including, without limitation, legal research memoranda), attorney’s
+audit response letters, documents relating to assets and title thereto (including, without limitation,
+abstracts, title insurance policies, surveys, environmental reports, opinions of title and other
+information relating to the real and personal property), plans affecting employees, securities
+transfer records and stockholder lists, and any books, papers and records (collectively referred to
+herein as “Evaluation Material”) relating to other assets or business activities in which such party
+may have a reasonable interest, and otherwise provide such assistance as is reasonably
+requested in order that each party may have a full opportunity to make such investigation and
+evaluation as it shall reasonably desire to make of the business and affairs of the other party;
+provided, however, that the foregoing rights granted to each party shall, whether or not and
+regardless of the extent to which the same are exercised, in no way affect the nature or scope of
+the representations, warranties and covenants of the respective party set forth herein. In addition,
+each party and its Representatives shall cooperate fully (including providing introductions, where
+necessary) with such other party to enable the party to contact third parties, including customers,
+prospective customers, specified agencies or others as the party deems reasonably necessary to
+complete its due diligence; provided that such party agrees not to initiate such contacts without
+the prior approval of the other party, which approval will not be unreasonably withheld.
+ 
+(b)           G&M and ECPN agree that each such party will not use the Evaluation Material for any
+purpose other than in connection with the Merger and the transactions contemplated
+hereunder.  Each agrees not to disclose or allow disclosure to others of any Evaluation Material,
+except to such party’s Affiliates or Representatives, in each case, to the extent necessary to
+permit such Affiliate or Representative to assist such party in connection with the Merger and the
+transactions contemplated hereunder.  Each agrees that it will, within ten (10) days of the other
+party’s request, re-deliver to such party all copies of that party’s Evaluation Material in its
+possession or that of its Affiliates or Representatives if the Merger does not close as
+contemplated herein.
+ 
+ 
+23
+(c)            In the event any party or anyone to whom Evaluation Material has been transmitted in
+accordance with the terms herein is requested in connection with any proceeding to disclose any
+Evaluation Material, or a party has determined that it is required under applicable law or
+regulation to disclose Evaluation Material, such party will give the other party prompt notice of
+such request or determination so that the other party may seek an appropriate protective order or
+other remedy or waive compliance with this Agreement, and such party will cooperate with the
+other party to obtain such protective order.  In the event such protective order is not obtained, the
+other party waives compliance with the relevant provisions of this Section, such party (or such
+person to whom such request is directed) will furnish only that portion of the Evaluation Material
+which is required to be disclosed. The parties acknowledge that, upon execution and delivery,
+this Agreement (but not the exhibits and schedules thereto) will be filed by ECPN with the
+Securities and Exchange Commission under cover of Form 8-K.
+ 
+(d)           Notwithstanding any of the foregoing, if prior to Closing, for any reason, the transactions
+contemplated by this Agreement are not consummated, neither ECPN nor G&M nor any of their
+Representatives shall disclose to third parties or otherwise use any Evaluation Material or other
+confidential information received from the other party in the course of investigating, negotiating,
+and performing the transactions contemplated by this Agreement; provided, however, that
+nothing shall be deemed to be confidential information which:
+ 
+(i)           is or becomes generally available to the public other than as a result of a disclosure by
+such party, its affiliates or Representatives;
+ 
+(ii)           was available to such party on a non-confidential basis prior to its disclosure;
+ 
+(iii)           becomes available to such party on a non-confidential basis from a source other than
+the other party or its agents, advisors or Representatives;
+ 
+(iv)           developed by such party independently of any disclosure by the other party; or
+(v)           is disclosed in compliance with Section 6.3(c).
+ 
+Nothing in this Section 6.3 shall prohibit the disclosure of information required to be made under
+federal or state securities laws. If any disclosure is so required, the party making such disclosure
+shall consult with the other party prior to making such disclosure, and the parties shall use all
+reasonable efforts, acting in good faith, to agree upon a text for such disclosure which is
+satisfactory to both parties.
+ 
+(e)           ECPN and G&M each agree that money damages would not be sufficient to remedy any
+breach by the other party of this Section, and that, in addition to all other remedies, each party
+against which a breach of this Section has been committed shall be entitled to specific
+performance and injunctive or other equitable relief as a remedy of such breach.
+ 
+6.4          Tax Treatment.  It is intended by the parties hereto that the Merger shall constitute a
+reorganization within the meaning of Section 368(a) of the Code.  Each of the parties hereto
+adopts this Agreement as a “plan of reorganization” within the meaning of Treasury Regulation
+§1.368-2(g) and §1.368-3(a).
+ 
+6.5          Press Releases.  G&M and ECPN shall agree with each other as to the form and
+substance of any press release or public announcement related to this Agreement or the
+transactions contemplated hereby; provided, however, that nothing contained herein shall
+prohibit either party, following notification to the other party, from making any disclosure which is
+required by law or regulation. If any such press release or public announcement is so required,
+the party making such disclosure shall consult with the other party prior to making such
+disclosure, and the parties shall use all reasonable efforts, acting in good faith, to agree upon a
+text for such disclosure which is satisfactory to both parties.
+ 
+ 
+24
+6.6          Preparation of Disclosure Documents.
+ 
+(a)           As soon as practical following the date of this Agreement, G&M and ECPN shall
+prepare the Proxy Statement/Prospectus.  G&M shall, in cooperation with ECPN, file the Proxy
+Statement/Prospectus with the SEC as its preliminary Proxy Statement/Prospectus and ECPN
+shall, in cooperation with G&M, prepare and file with the SEC the Registration Statement, in
+which the Proxy Statement/Prospectus will be included.  Each of G&M and ECPN shall use
+reasonable commercial efforts to have the Registration Statement declared effective under the
+Securities Act as promptly as practicable after such filing and to keep the Registration Statement
+effective as long as is necessary to consummate the Merger.  G&M shall use reasonable
+commercial efforts to mail the Proxy Statement/Prospectus to its stockholders as promptly as
+practicable after the Registration Statement is declared effective under the Securities Act and, if
+necessary, after the Proxy Statement/Prospectus shall have been so mailed, promptly circulate
+supplemental or amended proxy/prospectus material, and, if required in connection therewith,
+resolicit proxies.  ECPN shall also take any action (other than qualifying to do business in any
+jurisdiction in which it is not now so qualified or to file a general consent to service of process)
+required to be taken under any applicable state securities laws in connection with the issuance of
+ECPN Common Stock in the Merger and G&M shall furnish all information concerning G&M and
+the stockholders of G&M as may be reasonably requested in connection with any such action.
+ 
+(b)           Except as required by applicable law, no amendment or supplement to the Proxy
+Statement/Prospectus or the Registration Statement shall be made by ECPN or G&M without the
+approval of the other party (which shall not be unreasonably withheld or delayed).  Each party
+shall advise the other party, promptly after it receives notice thereof, of the time when the
+Registration Statement has become effective or any supplement or amendment has been filed, of
+the issuance of any stop order or the suspension of the qualification of the ECPN Common Stock
+issuable in connection with the merger for offering or sale in any jurisdiction, or of any request by
+the SEC for amendment of the Proxy Statement/Prospectus or the Registration Statement or
+comments thereon and responses thereto or requests by the SEC for additional information.
+ 
+6.7          G&M Stockholders’ Meeting; Materials to Stockholders.
+ 
+(a)           G&M shall, in accordance with Section 92A.120 of the NRS and its Articles of
+Incorporation and Bylaws, duly call, give notice of, convene and hold a special meeting of G&M
+stockholders (the “G&M Stockholder Meeting”) as promptly as practicable after the date on which
+the Registration Statement is declared effective for the purpose of considering and taking action
+upon this Agreement and the Merger.
+ 
+(b)           G&M shall as promptly as practicable following the date of this Agreement prepare and
+mail to G&M stockholders all information as may required to comply with the NRS, the Securities
+Act and the Exchange Act.
+ 
+6.8          Affiliate Letters.  G&M shall identify to ECPN all persons who G&M believes may be
+“affiliates” of G&M within the meaning of Rule 145 under the Securities Act.  G&M shall use
+reasonable commercial efforts to provide ECPN with such information as ECPN shall reasonably
+request for purposes of making its own determination of persons who may be deemed to be
+affiliates of G&M.  G&M shall use reasonable commercial efforts to deliver to ECPN a letter from
+each of such affiliates identified by G&M and ECPN in substantially the form attached hereto as
+Exhibit B (the “Affiliate Letters”) as soon as practicable after the date hereof but in no event later
+than the day preceding the filing of the Registration Statement.
+ 
+6.9          Failure to Fulfill Conditions.  In the event that either of the parties hereto determines that
+a condition to its respective obligations to consummate the transactions contemplated hereby
+cannot be fulfilled on or prior to the termination of this Agreement, it will promptly notify the other
+party.
+ 
+ 
+25
+6.10        Notification of Certain Matters.  On or prior to the Effective Date, each party shall give
+prompt notice to the other party of (i) the occurrence or failure to occur of any event or the
+discovery of any information, which occurrence, failure or discovery would be likely to cause any
+representation or warranty on its part contained in this Agreement to be untrue, inaccurate or
+incomplete after the date hereof in any material respect or, in the case of any representation or
+warranty given as of a specific date, would be likely to cause any such representation or warranty
+on its part contained in this Agreement to be untrue, inaccurate or incomplete in any material
+respect as of such specific date, and (ii) any material failure of such party to comply with or satisfy
+any covenant or agreement to be complied with or satisfied by it hereunder.
+ 
+ 
+ARTICLE VII
+CONDITIONS
+ 
+7.1          Conditions to Obligations of Each Party.  The respective obligations of each party to
+effect the transactions contemplated hereby are subject to the fulfillment or waiver at or prior to
+the Effective Date of the following conditions:
+ 
+(a)           No Prohibitive Change of Law. There shall have been no law, statute, rule or regulation,
+domestic or foreign, enacted or promulgated which would prohibit or make illegal the
+consummation of the transactions contemplated hereby.
+ 
+(b)           Stockholder Approvals.  This Agreement and the Merger shall have been approved by
+the Requisite G&M Stockholder Vote.
+ 
+(c)           Registration Statement. The Registration Statement shall have been declared effective;
+no stop order suspending the effectiveness of the Registration Statement shall have been issued,
+and not withdrawn, by the SEC and no proceedings for that purpose shall be underway at the
+SEC; and no similar proceeding in respect of the Proxy Statement shall be underway at the SEC
+or, to the Knowledge of ECPN or G&M, threatened by the SEC.
+ 
+(d)           Adverse Proceedings.  There shall not be threatened, instituted or pending any action or
+proceeding before any court or governmental authority or agency (i) challenging or seeking to
+make illegal, or to delay or otherwise directly or indirectly restrain or prohibit, the consummation
+of the transactions contemplated hereby or seeking to obtain material damages in connection
+with such transactions, (ii) seeking to prohibit direct or indirect ownership or operation by ECPN
+or MergerCo of all or a material portion of the business or assets of G&M, or to compel ECPN or
+MergerCo or G&M to dispose of or to hold separately all or a material portion of the business or
+assets of ECPN or MergerCo or of G&M, as a result of the transactions contemplated hereby;
+(iii) seeking to invalidate or render unenforceable any material provision of this Agreement or any
+of the other agreements attached as exhibits hereto or contemplated hereby, or (iv) otherwise
+relating to and materially adversely affecting the transactions contemplated hereby.
+ 
+(e)           Governmental Action.  There shall not be any action taken, or any statute, rule,
+regulation, judgment, order or injunction proposed, enacted, entered, enforced, promulgated,
+issued or deemed applicable to the transactions contemplated hereby, by any federal, state or
+other court, government or governmental authority or agency, that would reasonably be expected
+to result, directly or indirectly, in any of the consequences referred to in Section 7.1(d).
+ 
+7.2          Additional Conditions to Obligation of ECPN and MergerCo.  The obligation of ECPN
+and MergerCo to consummate the transactions contemplated hereby in accordance with the
+terms of this Agreement is also subject to the fulfillment or waiver of the following conditions:
+ 
+ 
+26
+(a)           Representations and Compliance.  The representations of G&M contained in this
+Agreement were accurate as of the date of this Agreement and are accurate as of the Closing
+Date, in all respects (in the case of any representation containing any materiality qualification) or
+in all material respects (in the case of any representation without any materiality qualification),
+except for representations and warranties made as of a specific date, which shall be accurate as
+of such date.  G&M shall in all material respects have performed each obligation and agreement
+and complied with each covenant to be performed and complied with by it hereunder at or prior to
+the Closing Date.
+ 
+(b)           Officers’ Certificate.  G&M shall have furnished to ECPN and MergerCo a certificate of
+the Chief Executive Officer of G&M, dated as of the Closing Date, in which such officers shall
+certify that, to their best Knowledge, the conditions set forth in Section 7.2(a) have been fulfilled.
+ 
+(c)           Secretary’s Certificate.  G&M shall have furnished to ECPN (i) copies of the text of the
+resolutions by which the corporate action on the part of G&M necessary to approve this
+Agreement, the Articles of Merger and the transactions contemplated hereby and thereby were
+taken, and (ii) a certificate from the Secretary of State of Nevada evidencing the good standing of
+G&M in such jurisdiction as of a day within three business days prior to the Closing Date.
+ 
+(d)           Consents and Approvals.  G&M shall have obtained all consents and approvals
+necessary to consummate the transactions contemplated by this Agreement, in order that the
+transactions contemplated herein not constitute a breach or violation of, or result in a right of
+termination or acceleration of, or creation of any encumbrance on any of G&M’s assets pursuant
+to the provisions of, any agreement, arrangement or undertaking of or affecting G&M or any
+license, franchise or permit of or affecting G&M.
+ 
+(e)           Delivery of G&M Financial Statements.  G&M shall have completed and delivered to
+ECPN audited financial statements for the fiscal years ending December 31, 2008 and
+December 31, 2009 (the “G&M Audited Financials”) and reviewed financial statements for the
+three-month period ended March 31, 2010, and any interim quarterly periods subsequent to G&M
+Audited Financials evidencing the financial and operational performance of G&M (the “G&M
+Interim Financials”).  Additionally, G&M shall deliver to ECPN auditor consents for inclusion of
+the G&M Audited Financials into the applicable filings of ECPN with the Securities and
+Exchange Commission.
+ 
+(f)           Material Changes.  G&M shall not have had any material changes to its Business or its
+warranties and representations within this Agreement since the date of the G&M Interim
+Statements.
+ 
+(g)           Dissenting Shares.  Immediately prior to the Effective Time of the Merger, the number of
+Dissenting Shares which had validly notified G&M of their appraisal rights under Chapter 92A of
+NRS shall not be unacceptable to the ECPN Board of Directors in its sole discretion, which shall
+not be unreasonably exercised.
+ 
+(h)           Merger Certificate.  G&M shall have executed and delivered to ECPN a copy of the
+Articles of Merger.
+ 
+7.3          Additional Conditions to Obligation of G&M.  The obligation of G&M to consummate the
+transactions contemplated hereby in accordance with the terms of this Agreement is also subject
+to the fulfillment or waiver of the following conditions:
+ 
+(a)           Representations and Compliance.  The representations of ECPN and MergerCo
+contained in this Agreement were accurate as of the date of this Agreement and are accurate as
+of the Closing Date, in all respects (in the case of any representation containing any materiality
+qualification) or in all material respects (in the case of any representation without any materiality
+qualification), except for representations and warranties made as of a specific date, which shall
+be accurate as of such date. ECPN and MergerCo, respectively, shall in all material respects
+have performed each obligation and agreement and complied with each covenant to be
+performed and complied with by them hereunder at or prior to the Closing Date.
+ 
+ 
+27
+(b)           Officers’ Certificate.  ECPN and MergerCo shall have furnished to G&M certificates of
+their respective Chief Executive Officers, dated as of the Closing Date, in which such officers
+shall certify that, to their best Knowledge, the conditions set forth in Section 7.3(a) have been
+fulfilled.
+ 
+(c)           Secretary’s Certificate.  ECPN and MergerCo shall have furnished to G&M (i) copies of
+the text of the resolutions by which the corporate action on the part of ECPN and MergerCo is
+necessary to approve this Agreement and the Articles of Merger, the election of the directors of
+ECPN to serve following the Closing Date and the transactions contemplated hereby and
+thereby were taken, and (ii) certificates from the Secretary of State of Nevada evidencing the
+good standing of ECPN and MergerCo in such jurisdiction as of a day within three business days
+prior to the Closing Date.
+ 
+(d)           Consents and Approvals.  ECPN and MergerCo shall have obtained all consents and
+approvals necessary to consummate the transactions contemplated by this Agreement in order
+that the transactions contemplated herein not constitute a breach or violation of, or result in a right
+of termination or acceleration of, or creation of any encumbrance on any of ECPN’s or
+MergerCo’s assets pursuant to the provisions of, any agreement, arrangement or undertaking of
+or affecting ECPN or any license, franchise or permit of or affecting ECPN.
+ 
+(e)           Material Changes.  ECPN shall not have had any material changes to its Business or its
+warranties and representations within this Agreement since the date of the ECPN Interim
+Statements.
+(f)           Dissenting Shares.  Immediately prior to the Effective Time of the Merger, the number of
+Dissenting Shares which had validly notified G&M of their appraisal rights under Chapter 92A of
+NRS shall not be unacceptable to the G&M Board of Directors in its sole discretion, which shall
+not be unreasonably exercised.
+ 
+(g)           Merger Certificate.  ECPN shall have executed and delivered to G&M a copy of the
+Articles of Merger.
+ 
+ARTICLE VIII
+TERMINATION
+ 
+8.1          Termination.  This Agreement may be terminated prior to the Effective Date:
+ 
+(a)           by mutual consent of G&M and ECPN, if the boards of directors of each so determines
+by vote of a majority of the members of its entire board;
+ 
+(b)           by ECPN, if G&M shall have breached any of its representations, or failed to perform
+any of its covenants, in either case as contained in this Agreement, which breach or failure to
+perform (i) causes the condition set forth in Section 7.2(a) not to be satisfied, and (ii) is incapable
+of being cured or has not been cured within twenty (20) business days after the giving of written
+notice of such breach or failure to perform; provided, however, that ECPN may only terminate this
+Agreement pursuant this Section 8.1(b) if the subject breach or failure to perform would be
+reasonably likely to have a Material Adverse Effect on ECPN and the Surviving Corporation
+taken as a whole; or
+ 
+ 
+28
+(c)           by G&M, if ECPN or MergerCo shall have breached any of their representations, or
+failed to perform any of their covenants, in either case as contained in this Agreement, which
+breach or failure to perform (i) causes the condition set forth in Sections 4.2 and 7.3(a) not to be
+satisfied, and (ii) is incapable of being cured or has not been cured within twenty (20) business
+days after the giving of written notice of such breach or failure to perform; provided, however, that
+G&M may only terminate this Agreement pursuant this Section 8.1(c) if the subject breach or
+failure to perform would be reasonably likely to have a Material Adverse Effect on G&M.
+ 
+Any party desiring to terminate this Agreement shall give prior written notice of such termination
+and the reasons therefor to the other parties.
+ 
+ARTICLE IX
+GENERAL PROVISIONS
+ 
+9.1          Notices.  All notices and other communications hereunder shall be in writing and shall
+be sufficiently given if made by hand delivery, by telecopier, by overnight delivery service for next
+business day delivery, or by registered or certified mail (return receipt requested), in each case
+with delivery charges prepaid, to the parties at the following addresses (or at such other address
+for a party as shall be specified by it by like notice):
+If to G&M:
+With copies to:
+If to ECPN
+or MergerCo:
+With copies to:
+Gold and Minerals Company, Inc.
+P. O. Box 5148
+Scottsdale, Arizona 85260
+Facsimile: (480) 860-6308
+Attn:  Larry Lozensky, President & CEO
+ 
+Arly Richau, Esq.
+6710 N. Scottsdale Road, Suite 210
+Scottsdale, Arizona  85253
+Facsimile: (480) 951-1343
+ 
+El Capitan Precious Metals, Inc.
+15225 N. 49th Street
+Scottsdale, Arizona 85254
+Facsimile: (480) 595-4427
+Attn:  Charles C. Mottley, President and
+CEO
+ 
+Michael K. Hair, P.C.
+7407 E. Ironwood Court
+Scottsdale, Arizona 85258
+Facsimile:  (480) 443-1908
+Attn: Michael K. Hair, Esq.
+All such notices and other communications shall be deemed to have been duly given as follows:
+when delivered by hand, if personally delivered, when received; (i) if delivered by registered or
+certified mail (return receipt requested), when receipt acknowledged; or (ii) if telecopied, on the
+day of transmission or, if that day is not a business day, on the next business day; and the next
+business day delivery after being timely delivered to a recognized overnight delivery service. No
+Survival
+ 
+ 
+29
+9.2          No Survival.  The representations and warranties and obligations contained in this
+Agreement will terminate at the Effective Time or on termination of this Agreement in accordance
+with Section 8.1, except that the obligations contained in Article II and any other obligation
+contained in this Agreement requiring performance or compliance after the Effective Time
+(including without limitation Section 6.3(d) will survive the Effective Time indefinitely.
+ 
+9.3          Interpretation.  The headings contained in this Agreement are for reference purposes
+only and shall not affect in any way the meaning or interpretation of this Agreement.  References
+to Sections and Articles refer to Sections and Articles of this Agreement unless otherwise stated.
+Words such as “herein,” “hereinafter,” “hereof,” “hereto,” “hereby” and “hereunder,” and words of
+like import, unless the context requires otherwise, refer to this Agreement (including the
+schedules hereto). As used in this Agreement, the masculine, feminine and neuter genders shall
+be deemed to include the others if the context requires.
+ 
+9.4          Severability.  If any term, provision, covenant or restriction of this Agreement is held by a
+court of competent jurisdiction to be invalid, void or unenforceable, the remainder of the terms,
+provisions, covenants and restrictions of this Agreement shall remain in full force and effect and
+shall in no way be affected, impaired or invalidated, and the parties shall negotiate in good faith
+to modify this Agreement and to preserve each party’s anticipated benefits under this Agreement.
+ 
+9.5          Amendment.  This Agreement may not be amended or modified except by an instrument
+in writing approved by the parties to this Agreement and signed on behalf of each of the parties
+hereto.
+ 
+9.6          Waiver.  At any time prior to the Effective Date, any party hereto may (i) extend the time
+for the performance of any of the obligations or other acts of the other party hereto or (ii) waive
+compliance with any of the agreements of the other party or with any conditions to its own
+obligations, in each case only to the extent such obligations, agreements and conditions are
+intended for its benefit. Any such extension or waiver shall only be effective if made in writing and
+duly executed by the party giving such extension or waiver.
+ 
+9.7          Miscellaneous.  This Agreement (together with all other documents and instruments
+referred to herein): (i) constitutes the entire agreement, and supersedes all other prior
+agreements and undertakings, both written and oral, among the parties, with respect to the
+subject matter hereof; and (ii) shall be binding upon and inure to the benefit of the parties hereto
+and their respective successors and assigns, but shall not be assignable by either party hereto
+without the prior written consent of the other party hereto.
+ 
+9.8          Counterparts.  This Agreement may be executed in any number of counterparts, and
+each such counterpart shall be deemed to be an original instrument, but all such counterparts
+together shall constitute but one agreement.
+ 
+9.9          Third Party Beneficiaries.  Each party hereto intends that this Agreement, except as
+expressly provided herein, shall not benefit or create any right or cause of action in or on behalf
+of any person other than the parties hereto.
+ 
+9.10        Governing Law.  This Agreement is governed by the internal laws of the State of Arizona
+without regard to such State’s principles of conflicts of laws that would defer to the substantive
+laws of another jurisdiction.
+ 
+ 
+30
+9.11        Jurisdiction; Service of Process.  Any action or proceeding seeking to enforce any
+provision of, or based on any right arising out of, this Agreement must, to the extent such courts
+will accept such jurisdiction, be brought against any of the parties in the courts of the State of
+Arizona, or, if it has or can acquire jurisdiction, in the United States District Court for the District of
+Arizona, and each of the parties consents to the jurisdiction of those courts (and of the
+appropriate appellate courts) in any such action or proceeding and waives any objection to
+venue laid therein.  Process in any such action or proceeding may be served by sending or
+delivering a copy of the process to the party to be served at the address and in the manner
+provided for the giving of notices in Section 9.1. Nothing in this Section 9.11, however, affects the
+right of any party to serve legal process in any other manner permitted by law.
+ 
+ 
+ [Remainder of Page Left Intentionally Blank – Signature Page to Follow]
+ 
+ 
+31
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed on the
+date first written above by their respective officers.
+GOLD AND MINERALS COMPANY,
+INC.
+ 
+ 
+ 
+ 
+By:/s/ Larry Lozensky
+  Name: Larry Lozensky 
+  Title:   President and Chief
+Executive Officer
+EL CAPITAN PRECIOUS METALS,
+INC.
+ 
+ 
+ 
+ 
+By:/s/ Charles C. Mottley
+  Name: Charles C. Mottley
+  Title:   President and Chief
+Executive Officer
+MERGERCO
+ 
+ 
+By:/s/ Charles C. Mottley
+  Name: Charles C. Mottley
+  Title:   President and Chief
+Executive Officer
+32
+EXHIBIT A
+ 
+ARTICLES OF MERGER
+OF
+MERGERCO
+AND
+GOLD AND MINERAL COMPANY, INC.
+ 
+ 
+Articles of Merger made as of the _______day of ________ 2010, by and among El Capitan
+Precious Metals, Inc., a Nevada corporation ("ECPN"), MergerCo, a Nevada corporation (herein
+"MC"), and Gold and Minerals Company, Inc., a Nevada corporation ("G&M").  MC and G&M are
+sometimes hereinafter collectively referred to as the "Constituent Corporations".
+ 
+RECITALS:
+ 
+ECPN is a publicly traded Nevada corporation with authorized capital consisting of 300,000,000
+shares of common stock, $.001 par value (the "ECPN Common Stock"), of which ___________
+shares were issued and outstanding as of _____________, 2010 and 5,000,000 shares of
+preferred stock, $.001 par value, of which no shares were issued and outstanding as of
+___________, 2010. ECPN owns 100% of the issued and outstanding capital stock of MC.
+ 
+MC is a recently formed Nevada corporation with authorized capital consisting of 1,000 shares of
+common stock, $.001 par value, of which 1,000 shares were issued to ECPN and are
+outstanding as of _______________, 2010.
+ 
+G&M is a Nevada corporation with authorized capital consisting of 100,000,000 shares of
+common stock, $.001 par value (the "G&M Common Stock") of which ___________ shares were
+issued and outstanding as of ___________, 2010 and no additional shares of G&M Common
+Stock were reserved for issuance upon exercise of any outstanding common stock purchase
+warrants or options; and 10,000,000 shares of preferred stock, .001 par value (the “G&M
+Preferred Stock”), of which ___________ shares were issued and outstanding as of
+__________, 2010.
+ 
+ECPN, G&M and MC have entered into an Agreement and Plan of Merger dated June 28, 2010
+(the "Merger Agreement") setting forth certain representations, warranties, agreements and
+conditions in connection with the merger provided for herein (the "Merger").
+ 
+The respective Board of Directors of ECPN, MC and G&M have, by resolution, duly approved the
+execution of and the transaction contemplated by the Merger Agreement and these Articles of
+Merger and directed that they be submitted to the stockholders of G&M for adoption and approval.
+NOW, THEREFORE, in consideration of the premises and of the mutual covenants and
+agreements herein contained, the parties hereto have agreed and do hereby agree, subject to the
+terms and conditions hereinafter set forth, as follows:
+ 
+I
+ 
+MERGER
+ 
+1.1           In accordance with the provisions of these Articles and Article II of Merger Agreement,
+ECPN will acquire G&M through the merger of MC with and into G&M; and G&M will become a
+wholly-owned subsidiary of ECPN.  G&M shall thereby become and is herein sometimes referred
+to as the "Surviving Corporation."
+ 
+1.2           Upon the Effective Time of the Merger (as defined in Article III hereof) the Surviving
+Corporation: (i) shall become vested absolutely with all of the rights and property of G&M and
+MC, as constituted immediately prior to the Effective Time of the Merger, and (ii) shall continue
+subject to all of debts and liabilities of G&M and MC, as the same shall have existed immediately
+prior to the Effective Time of the Merger.  All rights of creditors and all liens upon the property of
+each of the Constituent Corporations shall be preserved unimpaired.
+ 
+1.3           ECPN hereby agrees that after the Effective Time of the Merger, as defined below,
+ECPN will issue certificates representing that number of shares of ECPN Common Stock
+(collectively, the "Merger Shares") into which shares of G&M Common Stock and G&M Preferred
+Stock issued and outstanding immediately prior to the Effective Time of the Merger shall be
+automatically converted into as hereinafter provided by virtue of the Merger, but not subject to
+validly exercised rights of dissent and appraisal pursuant to Nevada Revised Statutes, Chapter
+92A.
+ 
+1.4           The Merger shall not become effective until the following actions shall have been
+completed:  (i) the Merger Agreement shall have been adopted and approved at a Special
+Stockholders Meeting by the stockholders of a majority of the outstanding shares of G&M
+Common Stock and G&M Preferred Stock in accordance with the requirements of Nevada
+corporate law; and (ii) all of the other conditions precedent to the consummation of the Merger
+specified in the Merger Agreement shall have been satisfied or duly waived by the party entitled
+to satisfaction thereof.
+ 
+II
+ 
+EXCHANGE OF SHARES
+ 
+The manner and basis of exchanging the converted shares of G&M Common Stock and G&M
+Preferred Stock for the Merger Shares and the exchange of certificates therefor, shall be as
+follows:
+2
+2.1           Each one (1.0) share of G&M Common Stock and G&M Preferred Stock, which shall be
+issued and outstanding immediately prior to the Effective Time of the Merger shall, by virtue of
+the Merger be automatically converted into and exchangeable for, at the Effective Time of the
+Merger, ______________ shares of the Merger Shares.  If between the date hereof and the
+Effective Time of the Merger, ECPN or G&M shall either effect any reclassification,
+recapitalization, subdivision, combination or exchange of shares, in respect of their respective
+outstanding common stock, or a stock dividend thereon shall be declared with a record date
+within said period, the per share amounts of the Merger Shares to be issued and delivered as
+provided in these Articles of Merger and the Merger Agreement shall be appropriately adjusted.
+ 
+2.2           After the Effective Time of the Merger, certificates representing outstanding shares of
+G&M Common Stock and G&M Preferred Stock shall evidence the right of the holder thereof to
+receive certificates for the Merger Shares at the applicable rate stated in Section 2.1 hereinabove
+but only upon the surrender of the certificates for the G&M Common Stock and G&M Preferred
+Stock to ECPN's stock transfer agent, which shall act as the exchange agent (the "Exchange
+Agent") for such G&M stockholders to effect the conversion and exchange of certificates on their
+behalf.  Each holder of G&M Common Stock and/or G&M Preferred Stock, upon surrender of the
+certificate or certificates of G&M Common Stock and/or G&M Preferred Stock to the Exchange
+Agent, shall be entitled upon such surrender to receive in conversion and exchange therefor a
+certificate or certificates representing the number of whole shares of the Merger Shares into
+which the shares of G&M Common Stock and G&M Preferred Stock so surrendered shall have
+been converted as described herein.  No dividends or distributions will be paid to persons
+entitled to receive certificates for the Merger Shares pursuant hereto until such persons shall
+have surrendered their G&M Common Stock and/or G&M Preferred Stock certificates to the
+Exchange Agent; but there shall be paid to the record holder of each such certificate, with respect
+to the number of whole shares of the Merger Shares issued in conversion therefor (i) upon such
+surrender, the amount of any dividends or distributions with a record date subsequent to the
+Effective Time of the Merger and prior to surrender which shall have become payable thereon
+since the Effective Time of the Merger, without interest, and (ii) after such surrender, the amount
+of any dividends thereon with a record date subsequent to the Effective Time of the Merger and
+prior to surrender and the payment date of which shall be subsequent to surrender; such amount
+to be paid on such payment date.
+ 
+2.3           (a)           Each G&M stockholder who will be receiving 10,000 or less Merger Shares in
+the conversion described in this Article II will be issued one unrestricted stock certificate. Each
+G&M stockholder who will be receiving more than 10,000 Merger Shares in the conversion will
+be issued one unrestricted certificate for 10,000 Merger Shares and one restricted certificate for
+the remaining number of Merger Shares to be received in the conversion.
+ 
+(b)           Ninety (90) days after the Effective Time a G&M stockholder may return his restricted
+Merger Shares certificate to the Exchange Agent and, if the number of restricted Merger Shares is
+10,000 or less, he will receive an unrestricted Merger Shares certificate from the Exchange
+Agent. If the number of Merger Shares in the returned restricted certificate is more than 10,000,
+the G&M stockholder will receive an unrestricted certificate for 10,000 Merger Shares plus an
+unrestricted certificate for 25% of his remaining Merger Shares, and a restricted certificate for
+75% of his remaining Merger Shares.  A G&M stockholder may repeat this process of removing
+the restrictive legend from a portion of his restricted Merger Shares certificate issued in the
+conversion every ninety (90) days.  One year after the Effective Time of the Merger, a G&M
+stockholder who has received a restricted Merger Shares certificate may have the restrictive
+legend removed from all of his restricted Merger Shares received in the conversion, irrespective
+of the number of Merger Shares.
+ 
+ 
+3
+2.4           No certificate representing a fraction of a share of the Merger Shares will be issued and
+no right to vote or receive any distribution or any other right of a stockholder shall attach to any
+fractional interest in a share of the Merger Shares to which any holder of G&M Common Stock
+and/or G&M Preferred Stock would otherwise be entitled hereunder.  In lieu thereof, each holder
+of G&M Common Stock and/or G&M Preferred Stock entitled to a fraction of a share of the Merger
+Shares shall receive one whole share of Merger Shares for each fraction of a share entitled
+thereto (after aggregating all fractional shares otherwise to be received by such G&M
+stockholder).
+ 
+2.5           In the event any Merger Shares have not been issued by the Exchange Agent pursuant
+to this Article II because one or more G&M stockholders did not surrender their G&M Common
+Stock and/or G&M Preferred Stock certificate within eighteen (18) months after the Effective
+Time, ECPN shall authorize the Exchange Agent to distribute the remaining Merger Shares to all
+of the G&M stockholders who did properly surrender their G&M Common Stock and/or G&M
+Preferred Stock certificates pursuant to this Article II, on a pro-rata basis of such properly
+surrendered G&M Common Stock and/or G&M Preferred Stock.  No fractional Merger Shares
+shall be issued to any G&M stockholder pursuant to the distribution of Merger Shares described
+in this Section 2.5.
+ 
+2.6           At the Effective Time of the Merger, all shares of G&M Common Stock and/or G&M
+Preferred Stock which shall then be held in its treasury, if any, shall cease to exist, and all
+certificates representing such shares shall be canceled.
+ 
+III
+ 
+EFFECTIVE TIME OF MERGER; ABANDONMENT OF MERGER
+ 
+3.1           Subject to the provisions of this Article III, the terms and conditions of these Articles of
+Merger shall be submitted to the stockholders of G&M, along with the Merger Agreement.  If
+adopted and approved by the vote of the stockholders of each of the Constituent Corporations, as
+required by Nevada statute, and if all of the conditions precedent to the consummation of the
+Merger specified in the Merger Agreement shall have been satisfied or duly waived by the party
+entitled to satisfaction thereof, then unless terminated as provided in this Article III, these Articles
+of Merger shall be filed with the office of the Secretary of State of Nevada (the "Secretary of
+State's Office").  The "Effective Time@ of the Merger shall be the date and time  upon which a
+duly executed copy of these Articles of Merger are filed and become effective with the Secretary
+of State's Office.
+ 
+3.2           These Articles of Merger may be terminated and the proposed Merger abandoned at
+any time prior to the Effective Time of the Merger, and whether before or after approval of the
+Merger Agreement by the Board of Directors or stockholders of either of the Constituent
+Corporations, in the manner provided in Article VIII of the Merger Agreement.
+ 
+ 
+4
+IV
+ 
+MISCELLANEOUS
+ 
+4.1           For the convenience of the parties hereto and to facilitate the filing of these Articles of
+Merger, any number of counterparts hereof may be executed; and each such counterpart shall be
+deemed to be an original instrument.
+ 
+4.2           At any time prior to the Effective Time of the Merger the parties hereto may, by written
+agreement, (a) extend the time for the performance of any of the obligations or other acts of the
+parties hereto, (b) waive (in the manner specified in Section 9.6 of the Merger Agreement) any
+breach or inaccuracy in the representations and warranties contained in these Articles of Merger
+or in the Merger Agreement or in any document delivered pursuant thereto, or (c) waive (in the
+manner specified in Section 9.6 of the Merger Agreement) compliance with any of the covenants,
+conditions or agreements contained in these Articles of Merger or in the Merger Agreement.
+ 
+4.3  The corporation parties to these Articles are also parties to the Merger Agreement. The two
+agreements are intended to be construed together in order to effectuate their purposes, and said
+agreements are intended as a plan of reorganization within the meaning of Section 368 of the
+Internal Revenue Code of 1954, as amended.
+ 
+[Remainder of Page Left Intentionally Blank – Signature Page to Follow]
+ 
+ 
+5
+IN WITNESS WHEREOF, each of the undersigned corporations has caused these Articles of
+Merger to be signed in its corporate name by its duly authorized officers and its corporate seal to
+be affixed hereto, all as of the date first above written.
+EL CAPITAN PRECIOUS METALS,
+INC.
+6
+By: 
+  Charles C. Mottley
+  President and Chief Executive
+Officer
+MERGERCO
+ 
+ 
+ 
+ 
+By: 
+  Charles C. Mottley
+  President and Chief Executive
+Officer
+GOLD AND MINERALS COMPANY,
+INC.
+ 
+ 
+ 
+ 
+By: 
+ 
+  President and Chief Executive
+Larry Lozensky
+Officer
+EXHIBIT B
+ 
+Affiliate Letters
+ 
+ 
+ 
+El Capitan Precious Metals, Inc.
+15225 N. 49th Street
+Scottsdale, Arizona 85254
+ 
+Re: Rule 145
+ 
+Gentlemen:
+ 
+I, ____________________, the undersigned Director of Gold and Minerals Company, Inc.
+("G&M"), in conjunction with the common stock shares of El Capitan Precious Metals, Inc.
+("ECPN") which are to be issued to me (the "Shares") pursuant to the acquisition of G&M by
+ECPN through the merger of G&M with MergerCo, a newly formed wholly-owned subsidiary of
+ECPN (the "Merger"), as described in the Agreement and Plan of Merger, dated June 28, 2010,
+by and between ECPN, G&M and MergerCo (the "Merger Agreement"), hereby represent and
+warrant to ECPN as follows:
+ 
+I understand and acknowledge that pursuant to Rule 145(d) promulgated by the Securities and
+Exchange Commission (the "SEC"), irrespective of any contrary statement, representation or
+covenant in the Merger Agreement:
+ 
+1.     I am prohibited from selling any of the Shares for the first ninety (90) days after the effective
+date of the Merger; and
+ 
+2.     Thereafter, I may only sell the Shares in accordance with paragraphs (c), (e), (f) and (g) of
+SEC Rule 144; or
+ 
+3.     Thereafter, I may only sell the Shares after I have not been an affiliate of ECPN, as that term
+is defined in Rule 144, for at least three (3) months and at least six (6) months have elapsed
+since the effective date of the Merger and ECPN meets the requirements of paragraph (c) of Rule
+144; or
+ 
+4.     Thereafter, I may only sell the Shares after I have not been an affiliate of ECPN for at least
+three (3) months and at least twelve (12) months have elapsed since the effective date of the
+Merger.
+ 
+ 
+Dated:  _______________, 2010
+Name

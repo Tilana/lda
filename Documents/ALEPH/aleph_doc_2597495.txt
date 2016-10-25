@@ -1,0 +1,1275 @@
+
+10-Q 1 form10-q.htm
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-Q
+[X] QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+For the quarterly period ended June 30, 2016
+or
+[  ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+For the transition period from ___________ to ___________
+ECO-STIM ENERGY SOLUTIONS, INC.
+(Exact name of registrant as specified in its charter)
+Nevada
+(State or Other Jurisdiction of  (Primary Standard Industrial  (IRS Employer
+Incorporation or Organization) Classification Code Number) Identification Number)
+20-8203420
+31104
+2930 W. Sam Houston Pkwy N., Suite 275, Houston, TX 77043
+(Address of principal executive offices)
+(Zip Code)
+281-531-7200
+(Registrant’s telephone number, including area code)
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by
+Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or
+for such shorter period that the registrant was required to file such reports), and (2) has been
+subject to such filing requirements for the past 90 days. Yes [X] No [  ]
+Indicate by check mark whether the registrant has submitted electronically and posted to its
+corporate Web site, if any, every Interactive Data File required to be submitted and posted
+pursuant to Rule 405 of Registration S-T during the preceding 12 months (or for such shorter
+period that the registrant was required to submit and post such files). Yes [X] No [  ]
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, or a
+non-accelerated filer. See definition of “accelerated filer and large accelerated filer” in Rule 12b-2
+of the Exchange Act. (Check one):
+Large accelerated filer [  ]
+ 
+Non-accelerated filer [  ] (Do not check if a smaller reporting
+company)
+Accelerated filer [  ]
+  
+Smaller reporting company
+ 
+[X]
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the
+Exchange Act.): Yes [  ] No [X]
+The registrant had 13,644,489 shares of common stock outstanding at August 15, 2016.
+TABLE OF CONTENTS
+CAUTIONARY STATEMENTS REGARDING FORWARD-LOOKING STATEMENTS
+PART I – FINANCIAL INFORMATION
+ITEM 1. FINANCIAL STATEMENTS
+CONDENSED CONSOLIDATED BALANCE SHEETS
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+CONDENSED CONSOLIDATED STATEMENT OF CHANGES IN STOCKHOLDERS’
+EQUITY
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+Notes to Condensed Consolidated Financial Statements
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+ITEM 4. CONTROLS AND PROCEDURES
+PART II – OTHER INFORMATION
+ITEM 1. LEGAL PROCEEDINGS
+ITEM 1A. RISK FACTORS
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+ITEM 4. MINE SAFETY DISCLOSURES
+ITEM 5. OTHER INFORMATION
+ITEM 6. EXHIBITS
+SIGNATURES
+3
+ 
+5
+5
+6
+7
+8
+9
+17
+21
+21
+ 
+21
+21
+22
+22
+22
+22
+22
+23
+2
+CAUTIONARY STATEMENTS REGARDING FORWARD-LOOKING STATEMENTS
+This Quarterly Report on Form 10-Q (this “Form 10-Q”) contains “forward-looking statements”
+within the meaning of Section 27A of the Securities Act of 1993, as amended (the “Securities
+Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange
+Act”). All statements, other than statements of historical facts, included in this Form 10-Q that
+address activities, events or developments that we expect, project, believe or anticipate will or
+may occur in the future are forward-looking statements. These forward-looking statements are
+based on management’s current belief, based on currently available information, as to the
+outcome and timing of future events. Forward-looking statements may include statements that
+relate to, among other things, our:
+●future financial and operating performance and results;
+    
+ ●business strategy and budgets;
+    
+ ●technology;
+    
+ ●financial strategy;
+    
+ ●amount, nature and timing of capital expenditures;
+    
+ ●competition and government regulations;
+    
+ ●operating costs and other expenses;
+    
+ ●cash flow and anticipated liquidity;
+    
+ ●property and equipment acquisitions and sales; and
+    
+ ●plans, forecasts, objectives, expectations and intentions.
+All statements, other than statements of historical fact included in this Form 10-Q, regarding our
+strategy, future operations, financial position, estimated revenues and losses, projected costs,
+prospects, plans and objectives of management are forward-looking statements. When used in
+this Form 10-Q, the words “could,” “believe,” “anticipate,” “intend,” “estimate,” “expect,” “project”
+and similar expressions are intended to identify forward-looking statements, although not all
+forward-looking statements contain such identifying words. These forward-looking statements are
+based on our current expectations and assumptions about future events and are based on
+currently available information as to the outcome and timing of future events.
+Forward-looking statements involve known and unknown risks, uncertainties and other factors
+that may cause our actual results, performance or achievements to be materially different from the
+anticipated future results or financial condition expressed or implied by the forward-looking
+statements. These risks, uncertainties and other factors include but are not limited to:
+●the cyclical nature of the oil and natural gas industry;
+    
+ ●the potential for our oil-company customers to backward-integrate by starting their own well
+service operations;
+    
+ ●the potential for excess capacity in the oil and natural gas service industry;
+    
+ ●dependence on the spending and drilling activity by the onshore oil and natural gas industry;
+    
+ ●competition within the oil and natural gas service industry;
+●concentration of our customer base and fulfillment of existing customer contracts;
+    
+ ●our ability to maintain pricing and obtain contracts;
+    
+ ●deterioration of the credit markets;
+    
+ ●our ability to raise additional capital to fund future and committed capital expenditures;
+●increased vulnerability to adverse economic conditions due to indebtedness;
+    
+ ●our limited operating history on which investors will evaluate our business and prospects;
+    
+ ●our ability to obtain raw materials and specialized equipment;
+    
+ ●technological developments or enhancements;
+    
+ ●asset impairment and other charges;
+    
+ ●our identifying, making and integrating acquisitions;
+    
+ ●our major shareholders and management control over stockholder voting;
+3
+●loss of key executives;
+    
+ ●the ability to employ skilled and qualified workers;
+    
+ ●work stoppages and other labor matters;
+    
+ ●hazards inherent to the oil and natural gas industry;
+    
+ ●inadequacy of insurance coverage for certain losses or liabilities;
+    
+ ●delays in obtaining required permits;
+    
+ ●ability to import equipment or spare parts into Argentina on a timely basis;
+    
+ ●regulations affecting the oil and natural gas industry;
+    
+ ●legislation and regulatory initiatives relating to well stimulation;
+●future legislative and regulatory developments;
+    
+ ●foreign currency exchange rate fluctuations;
+    
+ ●effects of climate change;
+    
+ ●volatility of economic conditions in Argentina;
+    
+ ●market acceptance of turbine pressure pumping technology;
+    
+ ●the profitability for our customers of shale oil and gas as commodity prices decrease;
+    
+ ●risks of doing business in Argentina and the United States; and
+    
+ ●costs and liabilities associated with environmental, health and safety laws, including any
+changes in the interpretation or enforcement thereof.
+For additional information regarding known material factors that could affect our operating results
+and performance, please read (1) “Risk Factors” in Part II—Item 1A of this Form 10-Q, as well as
+“Part I—Item 1A—Risk Factors” in our Annual Report on Form 10-K for the fiscal year ended
+December 31, 2015 and (2) “Management’s Discussion and Analysis of Financial Condition and
+Results of Operations” in Part I—Item 2 of this Form 10-Q, as well as in our Annual Report on
+Form 10-K for the fiscal year ended December 31, 2015. Should one or more of these known
+material risks occur, or should the underlying assumptions prove incorrect, our actual results,
+performance, achievements or plans could differ materially from those expressed or implied in
+any forward-looking statement.
+We believe that it is important to communicate our expectations of future performance to our
+investors. However, events may occur in the future that we are unable to accurately predict, or
+over which we have no control. When considering our forward-looking statements, you should
+keep in mind the cautionary statements in this Form 10-Q, which provide examples of risks,
+uncertainties and events that may cause our actual results to differ materially from those
+contained in any forward-looking statement.
+All subsequent written and oral forward-looking statements attributable to us or any person acting
+on our behalf are expressly qualified in their entirety by the cautionary statements contained or
+referred to in this section and any other cautionary statements that may accompany such forward-
+looking statements. Except as otherwise required by applicable law, we disclaim any duty to
+update any forward-looking statements, all of which are expressly qualified by the statements in
+this section, to reflect events or circumstances after the date of this Form 10-Q.
+You should not place undue reliance on forward-looking statements. Each forward-looking
+statement speaks only as of the date of the particular statement.
+4
+PART I – FINANCIAL INFORMATION
+ITEM 1. FINANCIAL STATEMENTS
+ECO-STIM ENERGY SOLUTIONS, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+Assets
+Current assets:
+Cash and cash equivalents
+Accounts receivable
+Inventory
+Prepaids
+Other assets
+Total current assets
+ 
+Property, plant and equipment, net
+Other non-current assets
+Total assets
+ 
+Liabilities and stockholders’ equity
+Current liabilities:
+Accounts payable
+Accrued expenses
+Short-term notes payable
+Current portion of long term notes payable
+Current portion of capital lease payable
+Total current liabilities
+ 
+Non-current liabilities:
+48,648
+December
+  
+31,2015
+June 30,
+ 
+2016
+ 
+ (Unaudited)    
+ 
+     
+    
+    
+ 
+     
+ $2,893,975   $11,742,489  
+   5,376,311     8,155,264  
+   1,961,882     1,546,463  
+   2,176,277     3,328,265  
+   43,745
+ 
+   12,452,190     24,821,129  
+    
+ 
+   39,287,868     37,142,578  
+   488,633
+ 
+ $52,228,691   $62,452,340  
+ 
+    
+ 
+    
+    
+ 
+ $2,320,205   $1,112,812  
+   2,636,565     3,843,497  
+    —
+   98,493
+ 
+   838,800
+    2,825,428  
+   736,112
+ 
+    686,624
+   6,630,175     8,468,361
+488,633
+Long-term notes payable
+Long-term capital lease payable
+Total non-current liabilities
+ 
+Stockholders’ equity
+Preferred stock, $0.001 par value, 50,000,000 shares authorized,
+none issued
+Common stock, $0.001 par value, 200,000,000 shares authorized,
+13,601,739 issued and 13,579,889 outstanding at June 30, 2016
+and 13,572,989 issued and 13,566,050 outstanding at December
+31, 2015
+Additional paid-in capital
+Treasury stock, at cost; 21,850 common shares at June 30, 2016
+and 6,939 common shares at December 31, 2015
+Accumulated deficit
+Total stockholders’ equity
+Total liabilities and stockholders’ equity
+21,830,084     21,737,403  
+   1,139,912     1,485,686  
+   22,969,996     23,223,089
+—
+—
+13,601
+13,572
+57,735,321     57,302,953
+(57,469
+)   (20,294
+)
+(35,062,933)   (26,535,341)
+   22,628,520     30,760,890  
+ $52,228,691   $62,452,340
+See accompanying notes to the unaudited condensed consolidated financial statements.
+5
+ECO-STIM ENERGY SOLUTIONS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(Unaudited)
+Revenues
+Operating cost and expenses:
+Cost of services
+Selling, general, and administrative
+expenses
+Research and development
+Depreciation and amortization expense
+Six Months Ended June
+  
+30,
+  2016
+Three Months Ended
+ 
+June 30,
+ 2016
+ 
+ $2,337,579   $3,985,419   $4,171,484   $6,877,112  
+    
+ 
+   2,470,038     3,839,345     4,706,165     6,998,882
+2015
+2015
+1,579,808     1,933,092     3,153,072     3,509,947
+106,359
+    251,816
+   1,211,960     900,845
+274,815
+ 
+    2,116,190     1,647,129
+493,362
+Total operating costs and expenses
+ 
+Operating loss
+ 
+Other income (expense):
+Gain on sale of trading securities
+Interest expense
+Other income (expense)
+Total other expense
+Provision for income taxes
+Net loss
+ 
+Basic and diluted loss per share
+Weighted average number of common
+shares outstanding-basic and diluted
+—
+587,407
+5,368,165     6,925,098     10,250,242    12,649,320 
+    
+ 
+   (3,030,586 )   (2,939,679)   (6,078,758 )   (5,772,208 )
+ 
+    
+ 
+    
+   —
+ 
+   (937,216 )   (1,018,481)   (2,131,927 )   (2,002,676 )
+   376,734
+    (169,194 )   (172,434 )   (300,927 )
+   (560,482 )   (600,268 )   (2,304,361 )   (1,430,683 )
+   (72,237
+ 
+ $(3,663,305 ) $(3,539,947) $(8,527,592 ) $(7,202,891 )
+ 
+    
+ $(0.27
+)
+872,920
+(144,473 )   —
+) $(1.11
+) $(0.52
+) $(0.63
+)   —
+13,579,848    6,791,088     13,579,889    6,502,362
+See accompanying notes to the unaudited condensed consolidated financial statements.
+6
+ECO-STIM ENERGY SOLUTIONS, INC.
+CONDENSED CONSOLIDATED STATEMENT OF CHANGES IN STOCKHOLDERS’ EQUITY
+(Unaudited)
+Balance at
+December 31, 2015
+Treasury Stock
+Stock based
+compensation
+Net loss
+Balance at June
+30, 2016
+Common Stock
+ Shares
+Additional
+  Paid-in
+  Amount  Capital
+Treasury  Accumulated   
+  Stock
+Deficit
+Total
+13,566,050  $13,572   $57,302,953  $(20,294 ) $(26,535,341 ) $30,760,890
+(14,911
+)
+—
+(37,175 )   —
+28,750
+—
+29
+—
+432,368
+—
+—
+—
+—
+(37,175
+432,397
+)
+(8,527,592 )   (8,527,592 )
+13,579,889  $13,601   $57,735,321  $(57,469 ) $(35,062,933 ) $22,628,520
+See accompanying notes to the unaudited condensed consolidated financial statements.
+7
+ECO-STIM ENERGY SOLUTIONS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited)
+Operating Activities
+Net loss
+Depreciation and amortization
+Amortization of debt discount and loan origination cost
+Stock based compensation
+Gain on the sale of trading securities
+Changes in operating assets and liabilities:
+Accounts receivable
+Inventory
+Prepaids and other assets
+Accounts payable and accrued expenses
+Net cash used in operating activities
+Investing Activities
+Purchases of equipment
+Proceeds from sale of trading securities
+Purchase of trading securities
+Net cash used in investing activities
+Financing Activities
+Proceeds from sale of common stock
+Sale of common stock issuance cost
+Proceeds from notes payable
+Payments on notes payable
+Payments on capital lease
+Purchase of treasury stock
+Net cash provided by (used in) financing activities
+Net decrease in cash and cash equivalents
+)   237,475
+2015
+127,765
+    814,255
+    (872,920
+Six Months Ended June 30, 
+ 2016
+ 
+    
+ 
+ $(8,527,592 ) $(7,202,891 )
+   2,116,190     1,647,129  
+ 
+   127,771
+ 
+   432,397
+   —
+)
+    
+ 
+   2,778,953     (4,272,116 )
+   (415,419
+ 
+   1,156,886     (1,091,358 )
+   (1,463,793 )   2,668,676  
+   (3,794,607 )   (7,943,985 )
+    
+ 
+   (2,706,050 )   (2,400,194 )
+   —
+    5,232,067  
+    (2,998,379 )
+   —
+)
+   (2,706,050 )   (166,506
+    
+ 
+     
+    6,045,412  
+   —
+)
+    (814,062
+   —
+   194,611
+    400,000
+ 
+)
+   (2,173,922 )   (652,831
+)
+)   (288,313
+   (331,371
+   (37,175
+)   —
+ 
+   (2,347,857 )   4,690,206  
+   (8,848,514 )   (3,420,285 )
+Cash and cash equivalents, beginning of period
+Cash and cash equivalents, end of period
+Supplemental Disclosure of Cash Flow Information
+Cash paid during the year for interest
+Cash paid during the year for income taxes
+Non-cash transactions
+Property plant and equipment additions in account payable $1,566,823   $426,536
+11,742,489     7,013,556  
+ $2,893,975   $3,593,271  
+    
+ 
+ 
+ $3,288,283   $293,503
+ 
+ $81,642
+$—
+See accompanying notes to the unaudited condensed consolidated financial statements.
+8
+ECO-STIM ENERGY SOLUTIONS, INC.
+Notes to Condensed Consolidated Financial Statements
+June 30, 2016
+(Unaudited)
+Note 1 – Organization and Nature of Business
+Eco-Stim Energy Solutions, Inc. (the “Company,” “we” or “us”) is a stage technology-driven
+independent oilfield services company providing well stimulation, coiled tubing and field
+management services to the upstream oil and gas industry. We are focused on reducing the
+ecological impact and improving the economic performance of the well stimulation process. We
+have assembled technologies and processes that have the ability to (1) reduce the surface
+footprint, (2) reduce emissions and (3) conserve fuel and water during the stimulation process.
+The Company will focus on the most active shale resource basins outside of the United States,
+using our technology to differentiate our service offerings. Our management team has extensive
+international industry experience. Our first operation is in Argentina, home to the Vaca Muerta,
+the world’s third-largest shale resource basin as measured by technically recoverable reserves.
+We also intend to pursue other markets including Mexico, Colombia and the United States or any
+other location where we believe we can offer clear advantages and achieve strong returns. The
+Company may also explore opportunistic acquisitions and/or joint ventures with established
+companies in target markets.
+Note 2 – Basis of Presentation and Significant Accounting Policies
+The accompanying unaudited condensed consolidated financial statements have been prepared
+in accordance with accounting principles generally accepted in the United States (“U.S. GAAP”)
+for interim financial information. Accordingly, they do not include all of the information and
+footnotes required by U.S. GAAP for complete financial statements. The December 31, 2015
+consolidated balance sheet was derived from audited financial statements, but does not include
+all the disclosures required by U.S. GAAP. However, the Company believes that the disclosures
+are adequate to make the information presented not misleading. In the Company’s opinion, all
+the adjustments (consisting of normal recurring adjustments) considered necessary for fair
+presentation have been included. The results of operations for the six month period ended June
+30, 2016 are not necessarily indicative of the results that may be achieved for the full fiscal year
+or for any future period. The unaudited condensed consolidated financial statements included
+herein should be read in conjunction with the consolidated financial statements and notes thereto
+for the year ended December 31, 2015, a copy of which was filed with the Company’s Annual
+Report on Form 10-K for the year ended December 31, 2015.
+Principles of Consolidation
+We consolidate all wholly-owned subsidiaries, controlled joint ventures and variable interest
+entities where the Company has determined it is the primary beneficiary. All material
+intercompany accounts and transactions have been eliminated in consolidation.
+Use of Estimates
+The preparation of financial statements in conformity with U.S. GAAP requires management to
+make estimates and assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial statements, and the
+reported amounts of revenue and expenses during the reporting period. Estimates are used in,
+but are not limited to, determining the following: allowance for doubtful accounts, recoverability of
+long-lived assets and intangibles, useful lives used in depreciation and amortization, income
+taxes and stock-based compensation. The accounting estimates used in the preparation of the
+consolidated financial statements may change as new events occur, as more experience is
+acquired, as additional information is obtained and as the Company’s operating environment
+changes.
+Cash and Cash Equivalents
+The Company considers all highly liquid investments with a maturity of three months or less
+when purchased to be cash equivalents. The Company maintains deposits in several financial
+institutions, which may at times exceed amounts covered by insurance provided by the U.S.
+Federal Deposit Insurance Corporation (“FDIC”). The Company has not experienced any losses
+related to amounts in excess of FDIC limits.
+9
+Revenue Recognition
+The Company’s revenue is heavily dependent on three major customers. All revenue is
+recognized when persuasive evidence of an arrangement exists, the price is fixed or
+determinable, and collection is reasonably assured as follows:
+Well Stimulation Revenue
+The Company provides well stimulation services based on contractual arrangements, such as
+term contracts and pricing agreements, or on a spot market basis. Revenue will be recognized
+and customers will be invoiced upon the completion of each job, which can consist of one or
+more stimulation stages.
+Under term pricing agreement arrangements, customers commit to targeted utilization levels at
+agreed-upon pricing, but without termination penalties or obligations to pay for services not used
+by the customer. In addition, the agreed-upon pricing is typically subject to periodic review.
+Spot market basis arrangements are based on an agreed-upon hourly spot market rate. The
+Company also charges fees for setup and mobilization of equipment depending on the job,
+additional equipment used on the job, if any, and materials that are consumed during the well
+stimulation process. Generally, these fees and other charges vary depending on the equipment
+and personnel required for the job and market conditions in the region in which the services are
+performed.
+The Company also generates revenues from chemicals and proppants that are consumed while
+performing well stimulation services.
+Coiled Tubing Revenue
+The Company began providing coiled tubing and other well stimulation services in early 2015.
+Jobs for these services are typically short term in nature, lasting anywhere from a few hours to
+multiple days. Revenue is recognized upon completion of each day’s work based upon a
+completed field ticket. The Company charges the customer for mobilization, services performed,
+personnel on the job, equipment used on the job, and miscellaneous consumables at agreed-
+upon spot market rates.
+Field Management Revenue
+The Company enters into arrangements to provide field management services. Field
+management revenue relates primarily to geophysical predictions and production monitoring,
+utilizing down-hole diagnostics tools. Revenue is recognized and customers are invoiced upon
+the completion of each job. The service invoices are for a set amount, which includes charges for
+the mobilization of the equipment to the location, the service performed, the personnel on the job,
+additional equipment used on the job, consumables used throughout the course of the service,
+and processing and interpretation of data acquired via down-hole diagnostic tools.
+Fair Value of Financial Instruments
+The Company’s financial instruments consist of cash and cash equivalents, accounts receivable,
+other assets, accounts payable, accrued expenses, capital lease obligations and notes payable.
+The recorded values of cash and cash equivalents, accounts receivable, other assets, accounts
+payable, and accrued expenses approximate their fair values based on their short-term nature.
+The carrying value of capital lease obligations and notes payable approximate their fair value,
+and the interest rates approximate market rates.
+Functional and Presentation Currency
+Items included in the financial statements of each of the Company’s entities are measured using
+the currency of the primary economic environment in which the entity operates (the “functional
+currency”). The functional currency for the Norwegian and Argentine subsidiaries is the U.S.
+Dollar. The consolidated financial statements are presented in U.S. Dollars, which is the
+Company’s presentation currency.
+10
+Marketable Securities
+Investments in marketable securities are classified as trading, available-for-sale or held-to-
+maturity. Our marketable equity investments are classified as trading and their cost basis is
+determined by the specific identification method. Realized and unrealized gains and losses on
+trading securities are included in net income.
+During the six months ended June 30, 2015, the Company purchased and sold Argentine bonds
+to capitalize its subsidiary in Argentina. This resulted in a gain on the sale of trading securities of
+$872,920 for the six months ended June 30, 2015. This increase was primarily due to the
+Company taking advantage of the favorable spread in exchange rates between the U.S. Dollar
+and Argentine Peso.
+Net Loss per Common Share
+For the six months ended June 30, 2016 and 2015, the weighted average shares outstanding
+excluded certain stock options and potential shares from convertible debt of 4,412,132 and
+4,117,964, respectively, from the calculation of diluted earnings per share because these shares
+would be anti-dilutive. Anti-dilutive warrants of 100,000 for each of the six months ended June
+30, 2016 and 2015 were also excluded from the calculation.
+Reclassifications
+Certain prior year amounts have been reclassified to conform to the 2015 presentation.
+Accounts Receivable
+Accounts receivable are stated at amounts management expects to collect from outstanding
+balances both billed and unbilled (unbilled accounts receivable represent amounts recognized
+as revenue for which invoices have not yet been sent to clients). Management provides for
+probable uncollectible amounts through a charge to earnings and a credit to a valuation
+allowance based on its assessment of the current status of individual accounts. To date, the
+Company has not recognized any losses due to uncollectible accounts. Balances still
+outstanding after management has used reasonable collection efforts are written off through a
+charge to the valuation allowance and a credit to accounts receivable. The Company evaluated
+all accounts receivable and determined that no reserve for doubtful accounts was necessary at
+June 30, 2016 and 2015.
+Prepaids
+Prepaid expenses are primarily comprised of Argentinian value added tax and prepaid
+insurance. The prepaid value added tax will be reduced as the Company continues to invoice
+customers in Argentina.
+Inventory
+Inventories are stated at the lower of cost or market (net realizable value) using the average
+method and appropriate consideration is given to deterioration, obsolescence and other factors in
+evaluating net realizable value.
+Property, Plant and Equipment
+Property, Plant and Equipment (“PPE”) is stated at historical cost less depreciation. Historical
+cost includes expenditures that are directly attributable to the acquisition of the items.
+Depreciation is computed using the straight-line method over the estimated useful lives of the
+assets for financial reporting purposes. Expenditures for major renewals and betterments that
+extend the useful lives are capitalized. Expenditures for normal maintenance and repairs are
+expensed as incurred. The cost of assets sold or abandoned and the related accumulated
+depreciation are eliminated from the accounts and any gains or losses are reflected in the
+accompanying consolidated statements of operations for the respective period.
+The estimated useful lives of our major classes of PPE are as follows:
+11
+Leases
+Major Classes of PPE
+Machinery and equipment
+Vehicles
+Leasehold improvements
+Furniture and office equipment 3-5 years
+Estimated Useful Lives
+ 2-7 years
+ 5 years
+ 5 years (or the life of the lease)
+The Company leases certain equipment under lease agreements. The Company evaluates each
+lease to determine its appropriate classification as an operating or capital lease for financial
+reporting purposes. Any lease that does not meet the criteria for a capital lease is accounted for
+as an operating lease. The assets and liabilities under capital leases are recorded at the lower of
+the present value of the minimum lease payments or the fair market value of the related assets.
+Assets under capital leases are amortized using the straight-line method over the lease term.
+Amortization of assets under capital leases is included in depreciation expense.
+Stock-Based Compensation
+The Company accounts for its stock options, warrants, and restricted stock grants under the fair
+value recognition provisions of the Financial Accounting Standards Board (“FASB”) Accounting
+Standards Codification (“ASC”) Topic 718. The Company currently uses the straight-line
+amortization method for recognizing stock option and restricted stock compensation costs. The
+measurement and recognition of compensation expense for all share-based payment awards
+made to our employees, directors or outside service providers are based on the estimated fair
+value of the awards on the grant dates. The grant date fair value is estimated using either an
+option-pricing model which is consistent with the terms of the award or a market observed price, if
+such a price exists. Such cost is recognized over the period during which an employee, director
+or outside service provider is required to provide service in exchange for the award, i.e., “the
+requisite service period” (which is usually the vesting period). The Company also estimates the
+number of instruments that will ultimately be earned, rather than accounting for forfeitures as they
+occur.
+Impairment of Long-Lived Assets
+The Company reviews its long-lived assets for impairment when changes in circumstances
+indicate that the carrying amount of an asset may not be recoverable. ASC Topic 360 requires
+the Company to review long-lived assets for impairment whenever events or changes in
+circumstances indicate the carrying amount of an asset or group of assets may not be
+recoverable. The impairment review includes a comparison of future cash flows expected to be
+generated by the asset or group of assets with their associated carrying value. If the carrying
+value of the asset or group of assets exceeds expected cash flows (undiscounted and without
+interest charges), an impairment loss is recognized to the extent that the carrying value exceeds
+the fair value. If estimated future cash flows are not achieved with respect to long-lived assets,
+additional write-downs may be required. The Company evaluated its long-lived assets for
+impairment at June 30, 2016 and has determined no impairment is necessary.
+Major Customers and Concentration of Credit Risk
+The majority of the Company’s business is conducted with major and independent oil and gas
+companies in Argentina. The Company evaluates the financial strength of its customers and
+provides allowances for probable credit losses when deemed necessary. The Company derives
+a large amount of revenue from a small number of major and independent oil and gas
+companies.
+We derive a significant portion of our revenue from a limited number of major clients. For the six
+months ended June 30, 2016, three major customers accounted for approximately 91.2% of our
+services revenue. Our accounts receivable, at June 30, 2016 were concentrated, with major
+customers representing 92.2%. Pluspetrol, YPF and Madalena represent our largest customers.
+12
+Income Taxes
+Deferred income taxes are determined using the asset and liability method in accordance with
+ASC Topic 740. Deferred tax assets and liabilities are recognized for the future tax
+consequences attributable to differences between the financial statement carrying amounts of
+existing assets and liabilities and their respective tax bases. Deferred income taxes are
+measured using enacted tax rates expected to apply to taxable income in years in which such
+temporary differences are expected to be recovered or settled. The effect of a change in tax rates
+on deferred income taxes is recognized in the consolidated statement of operations of the period
+that includes the enactment date. In addition, a valuation allowance is established to reduce any
+deferred tax asset for which it is determined that it is more likely than not that some portion of the
+deferred tax asset will not be realized.
+The Company is subject to U.S. federal and foreign income taxes along with state income taxes
+in Texas. When tax returns are filed, it is highly certain that some positions taken would be
+sustained upon examination by the taxing authorities, while others are subject to uncertainty
+about the merits of the position taken or the amount of the position that would be ultimately
+sustained. The benefit of a tax position is recognized in the financial statements in the period
+during which, based on all available evidence, management believes it is more likely than not
+that the position will be sustained upon examination, including the resolution of appeals or
+litigation processes, if any. Tax positions taken are not offset or aggregated with other positions.
+Tax positions that meet the more-likely-than-not recognition threshold are measured as the
+largest amount of tax benefit that is more than 50% likely of being realized upon settlement with
+the applicable taxing authority. The portion of the benefits associated with tax positions taken that
+exceeds the amount measured as described above is reflected as a liability for unrecognized tax
+benefits in the accompanying consolidated balance sheets along with any associated interest
+and penalties that would be payable to the taxing authorities upon examination.
+Recent Accounting Pronouncements
+In April 2015, the FASB issued ASU 2015-03, “Simplifying the Presentation of Debt Issuance
+Costs,” which amends the current presentation of debt issuance costs in the financial statements.
+ASU 2015-03 requires that debt issuance costs related to a recognized debt liability be
+presented in the balance sheet as a direct deduction from the carrying amount of that debt
+liability, consistent with debt discounts, instead of as an asset. The amendments are to be
+applied retrospectively and are effective for public business entities for fiscal years, and for
+interim periods within those fiscal years, beginning after December 15, 2015, but early adoption
+is permitted. We adopted ASU 2015-03 during the quarter ended March 31, 2016 resulting in
+reclassification of short-term debt issuance cost of $185,362 and $185,362 as of June 30, 2016
+and December 31, 2015 respectively; and long-term debt issuance cost of $169,916 and
+$262,597 as of June 30, 2016 and December 31, 2015 respectively.
+13
+Note 3 – Accounts Receivable
+June 30, 2016  December 31, 2015 
+ 
+ 
+ $ 2,936,722
+Billed
+   2,439,589
+ 
+Unbilled
+ 
+Total accounts receivable $ 5,376,311
+$ 2,386,863
+    5,768,401
+  $ 8,155,264
+Note 4 – Stock-Based Compensation
+The Company has two stock incentive plans, the 2013 Stock Incentive Plan (the “2013 Plan”)
+and the 2015 Stock Incentive Plan (the “2015 Plan”), for the granting of stock-based incentive
+awards, including incentive stock options, non-qualified stock options and restricted stock, to
+employees, consultants and members of the Company’s board of directors (the “Board”). The
+2013 Plan was adopted in 2012 and amended in 2013 and authorizes 1,000,000 shares to be
+issued under the 2013 Plan. The 2015 Plan, f/k/a “the 2014 Stock Incentive Plan,” was adopted
+in 2014; in 2015 it was amended and 500,000 additional shares were authorized, resulting in a
+maximum of 1,000,000 shares being authorized for issue under the modified 2015 Plan. The
+2015 Plan was further amended in 2016 to authorize an additional 200,000 shares. Both the
+2013 Plan and the 2015 Plan, as amended, have been approved by the shareholders of the
+Company. As of June 30, 2016, 18,328 shares were available for grant under the 2013 Plan and
+741,000 shares were available for grant under the 2015 Plan.
+The Black-Scholes option valuation model was developed for use in estimating the fair value of
+traded options, which have no vesting restrictions and are fully transferable. In addition, option
+valuation models require the input of highly subjective assumptions including the expected stock
+price volatility. The expected life of awards granted represents the period of time that they are
+expected to be outstanding. The Company determined the initial expected life based on a
+simplified method in accordance with the FASB Accounting Standards Codification Topic 718,
+giving consideration to the contractual terms, vesting schedules, and pre-vesting and post-
+vesting forfeitures.
+During the six months ended June 30, 2016 and 2015, the Company recorded $432,397 and
+$814,255, respectively, of stock-based compensation, which is included in cost of services,
+selling, general and administrative expense, and research and development in the
+accompanying condensed consolidated statements of operations. Total unamortized stock-
+based compensation expense at June 30, 2016 was $1,248,730 and will be fully expensed
+through 2019.
+Note 5 – Commitments and Contingencies
+Capital Lease Obligations
+In the fourth quarter of 2013, the Company purchased and upgraded equipment from non-related
+third parties, investing approximately $3.5 million. In December 2013, the Company sold the
+equipment to a related party leasing company, Impact Engineering, AS. Simultaneously, the
+equipment package was leased back to Eco-Stim Energy Solutions Argentina SA (“EcoStim
+Argentina”), a subsidiary of the Company, as a capital lease for a 60-month period with payments
+beginning in February of 2014. The Company agreed to prepay one year of payments in the
+amount of approximately $1.0 million and maintain a balance of no less than six months of
+prepayments until the final six months of the lease. These prepayments were made prior to
+December 31, 2013. Further rent payments are $81,439 per month and commenced on February
+1, 2014. The final six months prepaid is shown as other non-current assets in the condensed
+consolidated balance sheets with a balance of $488,633.
+14
+The minimum present value of the lease payments is $3.1 million with a 60-month term and
+implied interest of 14%. The next four years of lease payments are scheduled as follows:
+Capital Lease Payments 
+ 
+ 
+ $ 488,633
+2016
+ 
+   977,267
+2017
+ 
+   977,267
+2018
+   2,443,167
+ 
+Total future payments
+)
+(175,418
+  
+Less debt discount due to warrants
+)
+  
+(391,725
+Less amount representing interest
+   1,876,024
+ 
+ 
+)
+Less current portion of capital lease obligations
+(736,112
+  
+Capital lease obligations, excluding current installments $ 1,139,912
+Operating Leases
+The Company’s operating leases correspond to equipment facilities and office space in
+Argentina and the United States. The combined future minimum lease payments as of June 30,
+2016 are as follows:
+2016
+2017
+Thereafter   —
+Total
+Operating Leases 
+ $ 343,357
+ 
+ 
+   315,207
+$ 658,564
+Note 6 – Debt
+On May 28, 2014 (the “Closing Date”), the Company entered into a Convertible Note Facility
+Agreement (the “Note Agreement”) with ACM Emerging Markets Master Fund I, L.P. (“ACM”). The
+proceeds from the Note Agreement have been used primarily for capital expenditures, certain
+working capital needs and approved operating budget expenses.
+The Note Agreement allowed the Company to issue ACM a multiple draw secured promissory
+note with a maximum aggregate principal amount of $22 million, convertible into the common
+stock of the Company (the “Common Stock”) at a price of $6.00 per share at the option of ACM.
+The outstanding debt under the facility is convertible immediately and accrues interest at 14%
+per annum with interest payments due annually in arrears. The debt can be prepaid in full under
+certain conditions after the first anniversary of the Closing Date and matures on the date that is
+four years following the Closing Date.
+As of June 30, 2016, the Company has drawn down the full $22 million available under the Note
+Agreement, which was primarily used for capital expenditures, certain working capital needs and
+approved operating budget expenses. The balance for accrued interest at June 30, 2016 was
+$286,904.
+On May 28, 2015, the Company entered into an amendment with ACM. ACM and the Company
+agreed to give ACM the ability to have the $2,485,162 interest payment, which was due on May
+28, 2015 (the “Deferred Interest”), paid in the form of shares of the Company’s common stock
+upon the consummation of a future equity offering, should one occur. On July 15, 2015, the
+Company issued 523,192 shares of unregistered common stock at a price of $4.75 per share to
+ACM as payment for the Deferred Interest.
+All obligations under the Note Agreement are secured by liens on substantially all of the assets
+of the Company and have subsidiary guarantees and pledges of the capital stock of the
+subsidiary guarantors subject to certain terms and exceptions. From time to time, management
+has obtained amendments and waivers to the agreement to accommodate and adapt to the
+changing business environment. Management believes that the Company will be in compliance
+with the amended covenants, but there can be no assurance that the Company will achieve such
+compliance. Failure to comply with these covenants could result in an event of default which, if
+not cured or waived, would have a material adverse effect on us. The Company was in
+compliance with all covenants or had obtained any necessary waiver as of June 30, 2016.
+15
+On October 10, 2014, the Company entered into an equipment purchase agreement for the TPUs
+equipment and related spare parts for a total purchase price of approximately $6,500,000, of
+which $4,100,000 was financed. The total amount financed, including any accrued interest, was
+to become due and payable on April 1, 2015. On March 12, 2015, the Company amended the
+agreement to add a blender, two data vans and a manifold at an increased cost of $400,000, and
+amended the due date of the final payment to March 31, 2016. The amended agreement provides
+for monthly installment payments of $50,000 beginning in May 2015. The second amended
+agreement provides for monthly installment payments of $25,000 beginning in April 2016. The
+note accrues interest at a rate of 9% per annum from April 1, 2016 until maturity on December 15,
+2016. As of June 30, 2016, the Company had a balance of $1,041,458 and accrued interest of
+$38,464.
+On January 1, 2016, the Company financed its operational insurance premiums with US
+Premium Finance for a total of $194,611 at an interest rate of 5.87%. As of June 30, 2016, the
+Company had a balance of $98,493 and accrued interest of $482.
+Note 7 – Subsequent Events
+On July 13, 2016, the Company entered into an At Market Issuance Sales Agreement (the
+“Agreement”) with FBR Capital Markets & Co. and MLV & Co. LLC (the “Distribution Agents”).
+Pursuant to the terms of the Agreement, the Company may sell from time to time through the
+Distribution Agents shares of the Company’s common stock, par value $0.001 per share, with an
+aggregate sales price of up to $5,801,796 (the “Shares”). Sales of the Shares, if any, will need to
+be approved by the Company’s Board of Directors and will be made by any method permitted
+that is deemed an “at the market offering” as defined in Rule 415 under the Securities Act of
+1933, as amended (the “Securities Act”), including sales made directly on or through the
+NASDAQ Capital Market, the existing trading market for our common stock or on any other
+existing trading market for our common stock, sales made to or through a market maker other
+than on an exchange or otherwise, in negotiated transactions at market prices, and/or any other
+method permitted by law. Sales of the Shares may be made at market prices prevailing at the
+time of sale, at prices related to prevailing market prices or at negotiated prices, and subject to
+such other terms as may be agreed upon at the time of sale including a minimum sales price that
+may be stipulated by the Company’s Board of Directors.
+16
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS
+The following discussion and analysis of our financial condition and results of operations should
+be read in conjunction with the unaudited condensed consolidated financial statements and the
+related notes thereto included elsewhere in this Form 10-Q, together with the audited
+consolidated financial statements and notes thereto and “Management’s Discussion and
+Analysis of Financial Condition and Results of Operations” included in our Annual Report on
+Form 10-K for the year ended December 31, 2015. Unless the context otherwise requires, “we,”
+“us,” the “Company” or like terms refer to Eco-Stim Energy Solutions, Inc. and its subsidiaries.
+This section contains forward-looking statements that involve risks and uncertainties. Our actual
+results may differ materially from those discussed in any forward-looking statement because of
+various factors, including those described in the section titled “Cautionary Statements Regarding
+Forward-Looking Statements” in this Form 10-Q.
+Overview
+We are a technology-driven independent oilfield services company providing well stimulation,
+coiled tubing and field management services to the upstream oil and gas industry. We are
+focused on reducing the ecological impact and improving the economic performance of the well
+stimulation process. We have assembled proven technologies and processes that have the
+ability to (1) reduce the surface footprint, (2) reduce emissions and (3) conserve fuel and water
+during the stimulation process. We will focus on bringing these technologies and processes to
+the most active shale resource basins outside of the United States, using our technology to
+differentiate our service offerings. Our management team has extensive international industry
+experience. Our first operation is in Argentina, home to the Vaca Muerta basin, the world’s third-
+largest shale resource basin as measured by technically recoverable reserves. We also intend to
+pursue other markets that meet our investment criteria, which may include Mexico, Colombia and
+the United States as well as other markets and where we believe we can offer clear strategic
+advantages and achieve acceptable financial returns. We may also explore opportunistic
+acquisitions and/or joint ventures with established companies in target markets.
+Our management team has extensive experience in operating well stimulation fleets, coiled
+tubing units and other downhole completion equipment, as well as providing “sweet spot”
+analysis in shale resource basins using geophysical predictive modeling. We expect to leverage
+our management’s experience and historical local relationships in undersupplied markets to
+pursue profitable long-term contracts. We expect to compete for business with a limited number
+of other service companies based on technical capability, quality of equipment, local experience
+and existing relationships rather than solely on price. We also believe that we benefit from our
+association with our largest investors, which give us strategic advantages in emerging markets
+such as Argentina.
+Results of Operations
+For the Three Months Ended June 30, 2016 and 2015
+Revenue for the three months ended June 30, 2016 decreased $1,647,840 to $2,337,579 from
+$3,985,419 for the three months ended June 30, 2015. This decrease was primarily due to a
+reduction in well simulation services of $1,498,024, coiled tubing services of $294,096, offset by
+an increase of $144,280 in field services. The decrease in activity was related to (1) uncertainty
+surrounding the energy policy of the newly elected president of Argentina; (2) the depressed
+international oil price which reduced global capital expenditures for oil and gas companies; (3)
+the departure of the CEO of our largest customer; and (4) an oversupply of equipment which
+reduced pricing for our services.
+Cost of services decreased $1,369,307 to $2,470,038 for the three months ended June 30, 2016
+compared to $3,839,345 for the three months ended June 30, 2015. This decrease was primarily
+due to lower activity levels during the second quarter of 2016 compared to the first quarter of
+2015 and certain cost reduction efforts.
+Our selling, general, and administrative expenses decreased $353,284 to $1,579,808 for the
+three months ended June 30, 2016 compared to $1,933,092 for the three months ended June 30,
+2015. This decrease was mainly as a result of lower costs associated with professional,
+consulting, travel expenses, labor and benefits cost of $407,915; partially offset by an increase in
+rent, administrative office costs and marketing expenses of $45,722; and insurance costs of
+$8,909. Overall, we have focused on reducing costs to better match the lower activity levels.
+17
+Research and development for the three months ended June 30, 2016 decreased $145,457 to
+$106,359 for the three months ended June 30, 2016 compared to $251,816 for the three months
+ended June 30, 2015. Research and development includes the cost associated with research
+activities of fiber optics technology and latest generation turbine-powered pressure pumping
+technology. The research efforts around the initial reconfiguration of the turbine powered
+pressure pumping units was substantially completed during the second quarter.
+Net other expense decreased $39,786 to $560,482 for the three months ended June 30, 2016
+compared to $600,268 for the three months ended June 30, 2015, This decrease was primarily
+due to a higher interest income of $466,977: lower interest expenses, foreign currency and other
+expenses of $160,216; offset by the absence of the gain on sale of trading securities which was
+$587,407 for the second quarter of 2015.
+For the Six Months Ended June 30, 2016 and 2015
+Revenue for the six months ended June 30, 2016 decreased $2,705,628 to $4,171,484 from
+$6,877,112 for the six months ended June 30, 2015. This decrease was primarily due to a
+reduction in well simulation services of $2,743,648, field services of $47,075, offset by an
+increase of $85,095 in coiled tubing services.
+Cost of services decreased $2,292,717 to $4,706,165 for the six months ended June 30, 2016
+compared to $6,998,882 for the six months ended June 30, 2015. This decrease was primarily
+due to lower activity levels during the six months ended June 2016 compared to the six months
+ended June 2015.
+Our selling, general and administrative expenses decreased $356,875 to $3,153,072 for the six
+months ended June 30, 2016 compared to $3,509,947. This decrease was mainly as a result of
+lower costs associated with professional, consulting, travel expenses of $240,895; decreased
+stock compensation of $237,956 partially offset by rent, administrative office costs and marketing
+expenses of $85,460; labor and benefits cost $13,059 and insurance costs of $23,457. Overall,
+we have focused on reducing costs to better match the lower activity levels.
+Research and development for the six months ended June 30, 2016 decreased $218,547 to
+$274,815 for the six months ended June 30, 2016 compared to $493,362 for the six months
+ended June 30, 2015. Research and development includes the cost associated with research
+activities of fiber optics technology and latest generation turbine-powered pressure pumping
+technology. The research efforts around the initial reconfiguration of the turbine powered
+pressure pumping units was substantially completed during the second quarter.
+Net other expense increased $873,678 to $2,304,361 for the six months ended June 30, 2016
+compared to $1,430,683 for the six months ended June 30, 2015. This increase was primarily
+due to a higher interest expenses, foreign currency and other expenses of $631,325; plus,
+absence of the gain on sale of trading securities which was $872,920, offset by interest income of
+$630,567.
+Liquidity and Capital Resources
+Our primary sources of liquidity to date have been proceeds from various equity and debt
+offerings. We completed a public offering during the first quarter of 2015 and a second offering on
+July 15, 2015 as discussed in in our Annual Report on Form 10-K for the year ended December
+31, 2015 Part II – Item 8 – Financial Statements and Supplemental Data – Notes to consolidate
+financial statements – Note 11 – “Equity Offering.”
+We continually monitor potential capital sources, including equity and debt financings, in order to
+meet our planned capital expenditures and liquidity requirements. The successful execution of
+our growth strategy depends on our ability to raise capital as needed to, among other things,
+finance the purchase of additional equipment. If we are unable to obtain additional capital on
+favorable terms or at all, we may be unable to sustain or increase our current level of growth in
+the future. The availability of equity and debt financing will be affected by prevailing economic
+conditions in our industry and financial, business and other factors, many of which are beyond
+our control.
+18
+Capital Requirements
+The energy services business is capital intensive, requiring significant investment to expand,
+upgrade and maintain equipment. Our primary uses of capital have been the acquisition of
+equipment, working capital to finance the start of our operations and general administrative
+expenses.
+Going forward, we expect our capital requirements to consist primarily of:
+●growth capital expenditures, such as those to acquire additional equipment and other assets to
+grow our business; and
+    
+ ●maintenance capital expenditures, which are capital expenditures made to extend the useful
+life of our assets.
+Additionally, we continually monitor new advances in well stimulation equipment and down-hole
+technology as well as technologies that may complement our business and opportunities to
+acquire additional equipment to meet our customers’ needs. Our ability to make any significant
+acquisition for cash would likely require us to obtain additional equity or debt financing, which
+may not be available to us on favorable terms or at all.
+Our ability to fund operations, and to fund planned and committed 2016 capital expenditures will
+depend upon our future operating performance, and more broadly, on the availability of equity
+and debt financing, which will be affected by prevailing economic conditions, market conditions
+in the exploration and production industry and financial, business and other factors, many of
+which are beyond our control.
+Sources and Uses of Cash
+Net cash used in operating activities was $3,794,607 for the six months ended June 30, 2016
+compared to $7,943,985 for the six months ended June 30, 2015. This decrease was primarily
+due to lower activity levels during the six months ended June 2016 compared to the six months
+ended June 2015.
+Net cash used in investing activities was $2,706,050 for the six months ended June 30, 2016
+compared to net cash used in investing activities of $166,506 for the six months ended June 30,
+2015. This decrease is primary related to absence of the gain on sale of trading securities in the
+six months of 2016.
+Net cash used in financing activities was $2,347,857 for the six months ended June 30, 2016
+compared to net cash provided for financing activities of $4,690,206 for the six months ended
+June 30, 2015. This decrease is primarily due to absence of sale of common stock in the six
+months of 2016.
+The following table summarizes our cash flows from financing activities for the six months ended
+June 30, 2016 and 2015:
+Financing Activities
+Proceeds from sale of common stock
+Sale of common stock issuance cost
+Proceeds from notes payable
+Payments on notes payable
+Six Months Ended June 30, 
+ 2016
+ 
+  2015
+     
+    
+ 
+  $6,045,412  
+ $—
+   —
+    (814,062
+)
+ 
+   194,611
+    400,000
+   (2,173,922 )   (652,831
+)
+)
+Payments on capital lease
+Purchase of treasury stock
+ 
+Net cash provided by (used in) financing activities $(2,347,857 ) $4,690,206
+)   (288,313
+)   —
+(331,371
+   (37,175
+On December 15, 2015, the board of directors authorized the Company to repurchase, from time
+to time from December 16, 2015 through December 16, 2017, up to $5 million in shares of its
+outstanding common stock. As of June 30, 2016 the Company had purchased 21,850 shares at a
+cost of $57,469 under the buy-back program.
+19
+We had a net decrease in cash and cash equivalents of $8,848,514 for the six months ended
+June 30, 2016 compared to a net decrease in cash and cash equivalents of $3,420,285 for the
+six months ended June 30, 2015, primarily resulting from our operating activities and capital
+expenditures.
+We do not generate positive cash flow at this time. Further, while we believe we will begin
+generating positive cash flow from operations in second half of 2016, our liquidity provided by our
+existing cash and cash equivalents may not be sufficient to fund our full capital expenditure plan
+and working capital needs. Our current capital commitments will require us to obtain additional
+equity or debt financing, which may not be available to us on favorable terms or at all.
+Impact of Inflation on Operations
+Management is of the opinion that inflation has not had a significant impact on our business to
+date. We purchase our equipment and materials from suppliers who provide competitive prices,
+and employ skilled workers from competitive labor markets. If inflation in the general economy
+increases, our costs for equipment, materials and labor could increase as well. Also, increases in
+activity in oilfields can cause upward wage pressures in the labor markets from which we hire
+employees as well as increases in the costs of certain materials and key equipment components
+used to provide services to our customers.
+Industry Trends and Outlook
+We face many challenges and risks in the industry in which we operate. Although many factors
+contributing to these risks are beyond our ability to control, we continuously monitor these risks
+and have taken steps to mitigate them to the extent practicable. In addition, while we believe that
+we are well positioned to capitalize on available growth opportunities, we may not be able to
+achieve our business objectives and, consequently, our results of operations may be adversely
+affected. Please read this section in conjunction with the factors described in the sections titled
+“Cautionary Statements Regarding Forward-Looking Statements” and “Risk Factors” for
+additional information about the known material risks that we face.
+Our business depends on the capital spending programs of our customers. Revenue from our
+stimulation and field management segments are expected to be generated by providing services
+to oil and natural gas exploration and production companies throughout Argentina, Colombia,
+Mexico and other countries. Demand for our services is a function of our customers’ willingness
+to make operating and capital expenditures to explore for, develop and produce hydrocarbons in
+these areas, which in turn is affected by current and expected levels of oil and natural gas prices.
+Companies in the energy services industry have historically tended to delay capital equipment
+projects, including maintenance and upgrades, during industry downturns.
+The oil and gas industry has traditionally been volatile, is highly sensitive to a combination of
+long-term and cyclical trends, including the domestic and international supply and demand for oil
+and natural gas, current and expected future prices for oil and natural gas and the perceived
+stability and sustainability of those prices, production depletion rates and the resultant levels of
+cash flows generated and allocated by exploration and production companies to their drilling and
+workover budget, as well as domestic and international economic conditions, political instability
+in oil producing countries and merger, acquisition and divestiture activity among exploration and
+production companies. The volatility of the oil and gas industry, and the consequent impact on
+exploration and production activity could adversely impact the level of drilling and workover
+activity by our customers. This volatility affects the demand for our services and our ability to
+negotiate pricing at levels generating desirable margins, especially in our stimulation business.
+Off-Balance Sheet Arrangements
+As of June 30, 2016, we do not have any off-balance sheet arrangements that have or are
+reasonably likely to have a current or future effect on our financial condition, changes in financial
+condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital
+resources that is material to investors. The term “off-balance sheet arrangement” generally
+means any transaction, agreement or other contractual arrangement to which an entity
+unconsolidated with us is a party, under which we have (i) any obligation arising under a
+guarantee contract, derivative instrument or variable interest or (ii) a retained or contingent
+interest in assets transferred to such entity or similar arrangement that serves as credit, liquidity
+or market risk support for such assets.
+20
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+Pursuant to Item 305(e) of Regulation S-K (§ 229.305(e)), we are not required to provide the
+information required by this Item as we are a “smaller reporting company,” as defined by Rule
+229.10(f)(1).
+ITEM 4. CONTROLS AND PROCEDURES
+Evaluation of Disclosure Controls and Procedures
+We maintain disclosure controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) of
+the Exchange Act consisting of controls and other procedures designed to give reasonable
+assurance that information we are required to disclose in the reports we file or submit under the
+Exchange Act is recorded, processed, summarized and reported within the time periods specified
+in the SEC’s rules and forms and that such information is accumulated and communicated to
+management, including our chief executive officer and our chief financial officer, to allow timely
+decisions regarding such required disclosure. Based on their evaluation as of the end of the
+quarterly period covered by this Form 10-Q, our Chief Executive Officer and Chief Financial
+Officer have concluded that our disclosure controls and procedures, as defined in Rules 13a-15
+and 15d-15 under the Exchange Act, were effective as of June 30, 2016.
+Changes in Internal Control over Financial Reporting
+There have been no changes in our system of internal control over financial reporting (as such
+term is defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) during the quarter
+ended June 30, 2016 that have materially affected, or are reasonably likely to materially affect,
+the Company’s internal control over financial reporting.
+PART II – OTHER INFORMATION
+ITEM 1. LEGAL PROCEEDINGS
+We are not a party to, and none of our property is the subject of, any pending legal proceedings.
+To our knowledge, no governmental authority is contemplating any such proceedings.
+ITEM 1A. RISK FACTORS
+Investors should carefully consider the risk factors included under Part I, Item 1A, Risk Factors, in
+our Annual Report on Form 10-K for the year ended December 31, 2015 and the risk factor
+included under Part II, Item IA, Risk Factors, in our previous Quarterly Report on Form 10-Q for
+the quarter ended March 31, 2016, together with all of the other information included in this
+document, and in our other public filings, press releases and discussions with our management.
+Notwithstanding the matters discussed herein, there have been no material changes in our risk
+factors as previously disclosed in Part I, Item 1A, Risk Factors, in our Annual Report on Form 10-
+K for the year ended December 31, 2015, and Part II, Item IA, Risk Factors, in our Quarterly
+Report on Form 10-Q for the quarter ended March 31, 2016.
+21
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+None.
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+None.
+ITEM 4. MINE SAFETY DISCLOSURES
+Not applicable.
+ITEM 5. OTHER INFORMATION
+None.
+ITEM 6. EXHIBITS
+(a) Exhibits.
+3.1
+3.2
+Amended and Restated Articles of Incorporation (incorporated by reference to our Current
+Report on Form 8-K filed on November 26, 2013).
+ 
+Amended and Restated Bylaws (incorporated by reference to our Current Report on Form
+8-K filed on June 4, 2014).
+31.1*Rule 13(a)-14(a) Certification of the Chief Executive Officer.
+ 
+31.2*Rule 13(a)-14(a) Certification of the Chief Financial Officer.
+ 
+32.1*Section 1350 Certification of the Chief Executive Officer.
+ 
+32.2*Section 1350 Certification of the Chief Financial Officer.
+* Filed herewith.
+** Furnished herewith.
+22
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized.
+Date: August 15, 2016ECO-STIM ENERGY SOLUTIONS, INC.
+By:/s/ Jon Christopher Boswell
+ 
+  President and Chief Executive Officer
+ 
+By:/s/ Alexander Nickolatos
+  Alexander Nickolatos
+  Chief Financial Officer and Assistant Secretary
+Jon Christopher Boswell
+23

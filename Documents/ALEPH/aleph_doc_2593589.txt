@@ -1,0 +1,415 @@
+
+<SEC-DOCUMENT>0001102624-16-003267.txt : 20160811
+<SEC-HEADER>0001102624-16-003267.hdr.sgml : 20160811
+<ACCEPTANCE-DATETIME>20160811114707
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+6-K
+2
+20160811
+0001102624-16-003267
+20160811
+20160811
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: METAL MINING [1000]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+ALMADEN MINERALS LTD
+0001015647
+000000000
+1231
+A1
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 001-32702
+FILM NUMBER:
+6-K
+1934 Act
+161823578
+BUSINESS ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+1385 WEST 8TH AVENUE
+SUITE 310
+VANCOUVER
+A1
+V6H 3V9
+(604) 689-7644
+MAIL ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+1385 WEST 8TH AVENUE
+SUITE 310
+VANCOUVER
+A1
+V6H 3V9
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>almaden6k.htm
+<DESCRIPTION>ALMADEN MINERALS LTD. 6-K
+<TEXT>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+ <title>Edgar-6K</title>
+ <!-- IMPORTANT NOTE: This form must comply with SEC's requirements for EDGAR 
+online submissions,
+ which can be found in "EDGAR Filer Manual (Volume II)" or online at 
+"http://www.sec.gov/info/edgar/edmanuals.htm" -->
+</head>
+<body>
+<div style="width:80%; margin-left:auto; margin-right:auto;">
+<div style="text-align:center;height:20px"> </div>
+<div style="text-align:center;padding:1px;font-weight:bold;">UNITED
+STATES</div>
+ <div style="text-align:center;padding:1px;font-weight:bold;">SECURITIES AND 
+EXCHANGE COMMISSION</div>
+ <div style="text-align:center;padding:1px">Washington, D.C. 20549</div>
+ <hr style="width:350px" size="1" />
+<div style="text-align:center;height:20px"> </div>
+ <div style="text-align:center;padding:1px;font-weight:bold;">FORM 6-K</div>
+<div style="text-align:center;height:20px"> </div>
+ <div style="text-align:center;padding:1px;font-weight:bold;">Report of Foreign 
+Private Issuer</div>
+ <div style="text-align:center;padding:1px;font-weight:bold;">Pursuant to Rule 
+13A-16 or 15D-16<br />of the Securities Exchange Act of 1934</div>
+<div style="text-align:center;height:20px"> </div>
+ <div style="text-align:center;padding:1px;">For the month of <font>August 
+2016</font></div>
+<div style="text-align:center;height:20px"> </div>
+ <div style="text-align:center;padding:1px;font-weight:bold;">Commission File 
+Number: <font>001-32702</font></div>
+<div style="text-align:center;height:20px"> </div>
+ <div style="text-align:center;padding:1px;font-weight:bold;">Almaden Minerals 
+Ltd.</div>
+ <div style="text-align:center;padding:1px;">(Translation of registrant's name 
+into English)</div>
+<div style="text-align:center;height:20px"> </div>
+ <div style="text-align:center;padding:1px;font-weight:bold;">310 -- 1385 West 
+8th Avenue, Vancouver, BC</div>
+ <div style="text-align:center;padding:1px;">(Address of principal executive 
+offices)</div>
+<div style="text-align:center;height:20px"> </div>
+<table style="padding:0px;width:100%">
+         <tr>
+             <td style="width:760px; text-align:left; vertical-align:middle;" 
+colspan="2">
+                 Indicate by check mark whether the registrant files or will 
+file annual reports under cover of Form 20-F or Form 40-F.
+             </td>
+        </tr>
+         <tr>
+            <td colspan="2">
+                <div style="text-align:center;height:10px"> </div>
+            </td>
+         </tr>
+        <tr>
+            <td style="width:140px;">
+                <div style="margin-left:60px;padding:1px;">Form 20-F</div>
+            </td>
+             <td style="width:auto; text-align:left; vertical-align:middle;">
+                <div style="width:1.2em; height:1.2em; margin-left:1px; 
+float:left;padding:1px;border:solid 1px #000000; font-size:0.8em; text-
+align:center; font-weight:bold;" id="Div4">X</div>
+            </td>
+         </tr>
+        <tr>
+            <td style="width:140px;">
+                <div style="margin-left:60px;padding:1px;">Form 40-F</div>
+            </td>
+<td style="width:auto; text-align:left; vertical-align:middle;">
+                <div style="width:1.2em; height:1.2em; margin-left:1px; 
+float:left;padding:1px;border:solid 1px #000000; font-size:0.8em; text-
+align:center; font-weight:bold;" id="Div5">&nbsp;</div>
+            </td>
+         </tr>
+         <tr>
+            <td colspan="2">
+                <div style="text-align:center;height:10px"> </div>
+            </td>
+         </tr>
+     </table>
+<table style="padding:0px;width:100%">
+         <tr>
+             <td style="width:760px; text-align:left; vertical-align:middle;">
+                 Indicate by check mark if the registrant is submitting the Form
+6-K in paper as permitted by Regulations S-T Rule 101(b)(1):
+             </td>
+             <td style="width:auto; text-align:left; vertical-align:middle;">
+                <div style="width:1.2em; height:1.2em; margin-left:1px; 
+float:left;padding:1px;border:solid 1px #000000; font-size:0.8em; text-
+align:center; font-weight:bold;" id="Div1">&nbsp;</div>
+            </td>
+         </tr>
+         <tr>
+            <td colspan="2">
+                <div style="text-align:center;height:10px"> </div>
+            </td>
+         </tr>
+         <tr>
+            <td colspan="2">
+                <div style="margin-
+left:60px;padding:1px;"><strong>Note</strong>: Regulation S-T Rule 101(b)(1) 
+only permits the submission in paper of a Form 6-K if submitted solely to 
+provide an attached annual report to security holders.</div>
+            </td>
+         </tr>
+         <tr>
+            <td colspan="2">
+                <div style="text-align:center;height:10px"> </div>
+            </td>
+         </tr>
+     </table>
+<table style="padding:0px;width:100%">
+         <tr>
+             <td style="width:760px; text-align:left; vertical-align:middle;">
+                 Indicate by check mark if the registrant is submitting the Form
+6-K in paper as permitted by Regulations S-T Rule 101(b)(7):
+             </td>
+             <td style="width:auto; text-align:left; vertical-align:middle;">
+                <div style="width:1.2em; height:1.2em; margin-left:1px; 
+float:left;padding:1px;border:solid 1px #000000; font-size:0.8em; text-
+align:center; font-weight:bold;" id="form-6k-in-paper">&nbsp;</div>
+            </td>
+         </tr>
+         <tr>
+            <td colspan="2">
+                <div style="text-align:center;height:10px"> </div>
+            </td>
+         </tr>
+         <tr>
+            <td colspan="2">
+<div style="margin-
+left:60px;padding:1px;"><strong>Note</strong>: Regulation S-T Rule 101(b)(7) 
+only permits the submission in paper of a Form 6-K if submitted to furnish a 
+report or other document that the registrant foreign private issuer must furnish
+and make public under the laws of the jurisdiction in which the registrant is 
+incorporated, domiciled or legally organized (the registrant's "home country"), 
+or under the rules of the home country exchange on which the registrant's 
+securities are traded, as long as the report or other document is not a press 
+release, is not required to be and has not been distributed to the registrant's 
+security holders, and, if discussing a material event, has already been the 
+subject of a Form 6-K submission or other Commission filing on EDGAR.</div>
+            </td>
+         </tr>
+         <tr>
+            <td colspan="2">
+                <div style="text-align:center;height:10px"> </div>
+            </td>
+         </tr>
+     </table>
+<table style="padding:0px;width:100%">
+         <tr>
+             <td style="width:760px; text-align:left; vertical-align:middle;" 
+colspan="2">
+                 Indicate by check mark whether by furnishing the information 
+contained in this Form, the registrant is also thereby furnishing the 
+information to the Commission pursuant to Rule 12g3-2(b) under the Securities 
+Exchange Act of 1934.
+             </td>
+        </tr>
+         <tr>
+            <td colspan="2">
+                <div style="text-align:center;height:10px"> </div>
+            </td>
+         </tr>
+        <tr>
+            <td style="width:50px;">
+                <div style="margin-left:60px;padding:1px;">Yes</div>
+            </td>
+             <td style="width:auto; text-align:left; vertical-align:middle;">
+                <div style="width:1.2em; height:1.2em; margin-left:1px; 
+float:left;padding:1px;border:solid 1px #000000; font-size:0.8em; text-
+align:center; font-weight:bold;" id="Div2">&nbsp;</div>
+            </td>
+         </tr>
+        <tr>
+            <td style="width:50px;">
+                <div style="margin-left:60px;padding:1px;">No</div>
+            </td>
+             <td style="width:auto; text-align:left; vertical-align:middle;">
+                <div style="width:1.2em; height:1.2em; margin-left:1px; 
+float:left;padding:1px;border:solid 1px #000000; font-size:0.8em; text-
+align:center; font-weight:bold;" id="Div3">X</div>
+            </td>
+         </tr>
+     </table>
+<div style="text-align:center;height:20px"> </div>
+ <div style="padding:1px;">If "Yes" is marked, indicate below the file number 
+assigned to the registrant in connection with Rule 12g3-2(b): <br />
+ 82-<font></font>
+ </div>
+ <div style="text-align:center;height:20px"> </div>
+<hr />
+<div style="text-align:center;height:20px"> </div>
+  <div style="text-align:center;padding:1px;font-weight:bold;">Signature</div>
+  <p>Pursuant to the requirements of the Securities Exchange Act of 1934, the 
+registrant has duly caused this report to be signed on its behalf by the 
+undersigned hereunto duly authorized.</p>
+  <table style="width:100%">
+   <tr>
+    <td style="width:30%;text-align:left">
+     <font>Dated: </font><font>August 11, 2016</font>
+    </td>
+    <td style="width:40%"> </td>
+    <td style="width:30%;text-align:left">
+     <font style="font-weight:bold">Almaden Minerals Ltd.</font><br /><br />
+     <font>By:&#160;</font><font style="text-
+decoration:underline">/s/&#160;&#160;Douglas McDonald</font><br />
+     <font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font>Douglas 
+McDonald</font><br />
+     <font> &nbsp;&nbsp;&nbsp&nbsp;&nbsp;</font><font style="font-
+style:italic">Vice President</font>
+    </td>
+   </tr>
+  </table>
+<hr />
+<div style="text-align:center;height:20px"> </div>
+ <div style="text-align:center;padding:1px;font-weight:bold;">Exhibit 
+Index</div>
+<table style="width:100%;">
+  <tr>
+   <td style="text-align:center;text-decoration:underline;padding:1px;font-
+weight:bold;width:35%">Exhibit</td>
+   <td style="width:30%"> </td>
+   <td style="text-align:center;text-decoration:underline;padding:1px;font-
+weight:bold;width:35%">Description of Exhibit</td>
+  </tr>
+  <tr>
+   <td style="text-align:center;padding:1px;">99.1</td>
+   <td> </td>
+   <td style="text-align:center;padding:1px;">
+    <a href="exhibit99.htm">Press Release of <font>Almaden Minerals Ltd. dated 
+August 11, 2016</font></a>
+   </td>
+  </tr>
+ </table>
+<div style="text-align:center;height:20px"> </div>
+</div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>exhibit99.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<p></p>
+<b>Almaden Announces Resignation of Director and Appointment of New Director</b>
+<p>
+VANCOUVER, BC -- (Marketwired - August 11, 2016) - Almaden Minerals Ltd. 
+("Almaden" or "the Company") (TSX: AMM) (NYSE MKT: AAU) announces that Dr. Joe 
+Montgomery has resigned from the Board of Directors. He has served the Board 
+faithfully since 1999. Management and the Board of Directors would like to 
+acknowledge and thank the important contributions that Dr. Montgomery has made 
+over his tenure as Director, and wish him and his family all the very best.
+</p>
+<p>
+The Company is pleased to announce that David Strang has been appointed as a 
+Director effective immediately. Mr. Strang has a notable history serving in 
+various management and director capacities in public companies that have 
+successfully developed and capitalized on the value of important mineral assets 
+around the world. He will add valuable insight based on these experiences.
+</p>
+<p>
+Mr. Strang currently serves as Director, Chief Executive Officer and President 
+of Ero Copper Corp, a private company and is a managing partner of Ero Resource 
+Partners. Previously, Mr. Strang served as Director, Chief Executive Officer and
+President of Lumina Copper Corp. and Lumina Royalty Corp. Mr. Strang also served
+as Chief Executive Officer and President of Global Copper Corp. and Lumina 
+Resources Corp. Prior to these positions Mr. Strang served as President of 
+Regalito Copper Corp. and Vice President, Corporate Development of Northern Peru
+Copper Corp. and the original Lumina Copper Corp.
+</p>
+<p>
+Mr. Strang holds a Bachelor of Science in Applied Earth Sciences from Stanford 
+University.
+</p>
+<p>
+About Almaden
+</p>
+<p>
+Almaden Minerals Ltd. is a well-financed company which owns 100% of the Tuligtic
+project in Puebla State, Mexico, subject to a 2.0% NSR royalty held by Almadex 
+Minerals Limited. Tuligtic covers the Ixtaca Gold-Silver Deposit, which was 
+discovered by Almaden in 2010.
+</p>
+<p>
+On Behalf of the Board of Directors
+</p>
+<p>
+"Morgan Poliquin"
+</p>
+<p>
+Morgan J. Poliquin, Ph.D., P.Eng.
+</p>
+<p>
+President, CEO and Director
+</p>
+<p>
+Almaden Minerals Ltd.
+</p>
+<p>
+Neither the Toronto Stock Exchange (TSX) nor the NYSE MKT have reviewed or 
+accepted responsibility for the adequacy or accuracy of the contents of this 
+news release which has been prepared by management. Except for the statements of
+historical fact contained herein, certain information presented constitutes
+"forward-looking statements" within the meaning of the United States Private 
+Securities Litigation Reform Act of 1995 and Canadian securities laws. Such 
+forward-looking statements, including but not limited to, those with respect to 
+potential expansion of mineralization, potential size of mineralized zone, and 
+size and timing of exploration and development programs, estimated project 
+capital and other project costs and the timing of submission and receipt and 
+availability of regulatory approvals involve known and unknown risks, 
+uncertainties and other factors which may cause the actual results, performance 
+or achievement of Almaden to be materially different from any future results, 
+performance or achievements expressed or implied by such forward-looking 
+statements. Such factors include, among others, risks related to international 
+operations and joint ventures, the actual results of current exploration 
+activities, conclusions of economic evaluations, uncertainty in the estimation 
+of mineral resources, changes in project parameters as plans continue to be 
+refined, environmental risks and hazards, increased infrastructure and/or 
+operating costs, labour and employment matters, and government regulation and 
+permitting requirements as well as those factors discussed in the section 
+entitled "Risk Factors" in Almaden's Annual Information form and Almaden's 
+latest Form 20-F on file with the United States Securities and Exchange 
+Commission in Washington, D.C. Although Almaden has attempted to identify 
+important factors that could cause actual results to differ materially, there 
+may be other factors that cause results not to be as anticipated, estimated or 
+intended. There can be no assurance that such statements will prove to be 
+accurate as actual results and future events could differ materially from those 
+anticipated in such statements. Almaden disclaims any intention or obligation to
+update or revise any forward-looking statements, whether as a result of new 
+information, future events or otherwise, other than as required pursuant to 
+applicable securities laws. Accordingly, readers should not place undue reliance
+on forward-looking statements.
+</p>
+<pre>
+Almaden Minerals Ltd.
+Tel. 604.689.7644
+info@almadenminerals.com
+www.almadenminerals.com</pre>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

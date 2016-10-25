@@ -1,0 +1,1068 @@
+
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ M/lIpnoEd0miR5PhH+0b68gF7sXto70fYQ3RlR0H1p1S+7jYJwkLHPFApExfT7Zb
+ UXpvYDOTo5tFiNZDKl74mA==
+<SEC-DOCUMENT>0001188112-05-001983.txt : 20051114
+<SEC-HEADER>0001188112-05-001983.hdr.sgml : 20051111
+<ACCEPTANCE-DATETIME>20051114151447
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+10-Q
+3
+20050930
+0001188112-05-001983
+20051114
+20051114
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: CRUDE PETROLEUM & NATURAL GAS
+ISRAMCO INC
+0000719209
+[1311]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+133145265
+DE
+1231
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 000-12500
+FILM NUMBER:
+10-Q
+1934 Act
+051200753
+BUSINESS ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+1770 ST JAMES PL
+STE 607
+HOUSTON
+TX
+77056
+7136213882
+MAIL ADDRESS:
+1770 ST JAMES PLACE
+SUITE 607
+HOUSTON
+TX
+77056
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>t10q-8222.txt
+<DESCRIPTION>10-Q
+<TEXT>
+<PAGE>
+SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+FORM 10-Q
+CHECK ONE
+|X| Quarterly report under Section 13 or 15(d) of the Securities Exchange
+          Act of 1934 for the quarterly period ended September 30, 2005
+or
+|_| Transition report under Section 13 or 15(d) of the Securities Exchange
+                       Act of 1934 from _______ to ______
+COMMISSION FILE NUMBER 0-12500
+ISRAMCO, INC.
+(Exact Name of Registrant as Specified in its Charter)
+Delaware                                            13-3145265
+(State or other Jurisdiction of                         I.R.S. Employer Number
+Incorporation or Organization)
+11767 KATY FREEWAY, HOUSTON, TX 77079
+                    (Address of Principal Executive Offices)
+713-621-3882
+              (Registrant's Telephone Number, Including Area Code)
+Indicate by check whether the registrant: (1) filed all reports required to be
+filed by Section 13 or 15(d) of the Exchange Act of 1934 during the preceding 12
+months (or for such shorter period that the registrant was required to file such
+reports), and (2) has been subject to such filing requirements for the past 90
+days. Yes |X| No |_|
+Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Exchange Act). Yes |_| No |X|
+Indicate by check mark whether the registrant is a shell company (as defined in
+Rule 12b-2 of the Exchange Act.). Yes |_| No |X|
+The number of shares outstanding of the registrant's Common Stock as of November
+11, 2005 was 2,717,891.
+<PAGE>
+PART I - FINANCIAL INFORMATION:
+Page
+Item 1. Financial Statements                                               (ii)
+Consolidated Balance Sheets at September 30, 2005 and
+      December 31, 2004                                                      1
+Consolidated Statements of Operations for the three and
+      nine months ended September 30, 2005 and 2004                          2
+Consolidated Statements of Cash Flows for the nine months
+      ended September 30, 2005 and 2004                                      3
+Notes to Consolidated Financial Statements                             4
+Item 2. Management's discussion and analysis of financial statements         7
+Item 3. Quantitative and Qualitative Disclosures about Market Risk          11
+Item 4. Controls and Procedures                                             11
+PART II. OTHER INFORMATION                                                  11
+Item 1. Legal Proceedings                                                   11
+Item 2. Changes in Securities & Use of Proceeds                             11
+Item 3. Defaults upon senior securities                                     11
+Item 4. Submission of Matters to a Vote of Security Holders                 11
+Item 5. Other Information                                                   11
+Item 6. Exhibits and Reports on Form 8-K                                    11
+Signatures                                                                  12
+<PAGE>
+FORWARD LOOKING STATEMENTS
+CERTAIN STATEMENTS MADE IN THIS QUARTERLY REPORT ON FORM 10-Q ARE
+"FORWARD-LOOKING STATEMENTS" WITHIN THE MEANING OF THE PRIVATE SECURITIES
+LITIGATION REFORM ACT OF 1995. FORWARD-LOOKING STATEMENTS CAN BE IDENTIFIED BY
+TERMINOLOGY SUCH AS "MAY", "WILL", "SHOULD", "EXPECTS", "INTENDS",
+"ANTICIPATES", "BELIEVES", "ESTIMATES", "PREDICTS", OR "CONTINUE" OR THE
+NEGATIVE OF THESE TERMS OR OTHER COMPARABLE TERMINOLOGY AND INCLUDE, WITHOUT
+LIMITATION, STATEMENTS BELOW REGARDING EXPLORATION AND DRILLING PLANS, FUTURE
+GENERAL AND ADMINISTRATIVE EXPENSES, FUTURE GROWTH, FUTURE EXPLORATION, FUTURE
+GEOPHYSICAL AND GEOLOGICAL DATA, GENERATION OF ADDITIONAL PROPERTIES, RESERVES,
+NEW PROSPECTS AND DRILLING LOCATIONS, FUTURE CAPITAL EXPENDITURES, SUFFICIENCY
+OF WORKING CAPITAL, ABILITY TO RAISE ADDITIONAL CAPITAL, PROJECTED CASH FLOWS
+FROM OPERATIONS, OUTCOME OF ANY LEGAL PROCEEDINGS, DRILLING PLANS, THE NUMBER,
+TIMING OR RESULTS OF ANY WELLS, INTERPRETATION AND RESULTS OF SEISMIC SURVEYS OR
+SEISMIC DATA, FUTURE PRODUCTION OR RESERVES, LEASE OPTIONS OR RIGHTS,
+PARTICIPATION OF OPERATING PARTNERS, CONTINUED RECEIPT OF ROYALTIES, AND ANY
+OTHER STATEMENTS REGARDING FUTURE OPERATIONS, FINANCIAL RESULTS, OPPORTUNITIES,
+GROWTH, BUSINESS PLANS AND STRATEGY. BECAUSE FORWARD-LOOKING STATEMENTS INVOLVE
+RISKS AND UNCERTAINTIES, THERE ARE IMPORTANT FACTORS THAT COULD CAUSE ACTUAL
+RESULTS TO DIFFER MATERIALLY FROM THOSE EXPRESSED OR IMPLIED BY THESE
+FORWARD-LOOKING STATEMENTS. ALTHOUGH THE COMPANY BELIEVES THAT EXPECTATIONS
+REFLECTED IN THE FORWARD-LOOKING STATEMENTS ARE REASONABLE, IT CANNOT GUARANTEE
+FUTURE RESULTS, PERFORMANCE OR ACHIEVEMENTS. MOREOVER, NEITHER THE COMPANY NOR
+ANY OTHER PERSON ASSUMES RESPONSIBILITY FOR THE ACCURACY AND COMPLETENESS OF
+THESE FORWARD-LOOKING STATEMENTS. THE COMPANY IS UNDER NO DUTY TO UPDATE ANY
+FORWARD-LOOKING STATEMENTS AFTER THE DATE OF THIS REPORT TO CONFORM SUCH
+STATEMENTS TO ACTUAL RESULTS.
+(ii)
+<PAGE>
+<TABLE>
+<CAPTION>
+                                          ISRAMCO INC. AND SUBSIDIARIES
+                                           CONSOLIDATED BALANCE SHEETS
+                                   (in thousands except for share information)
+September 30,     December 31,
+                                                                                
+2005              2004
+                                                                                
+----------        ----------
+                                                                                
+(Unaudited)
+<S>                                                                             
+<C>               <C>
+ASSETS
+Current assets:
+         Cash and cash equivalents                                              
+$    1,609        $    2,087
+         Marketable securities, at market                                       
+6,512             6,203
+         Accounts receivable - Trade                                            
+683               776
+         Prepaid expenses and other current assets                              
+425               193
+                                                                                
+----------        ----------
+         Total current assets                                                   
+9,230             9,260
+Property and equipment (successful efforts method for oil and gas
+properties)                                                                     
+3,640             3,190
+Real Estate                                                                     
+1,887             1,887
+Marketable securities, at market                                                
+4,146             6,225
+Investment in affiliates                                                        
+12,792            12,044
+Investment in Vessel                                                            
+8,821             8,590
+Other                                                                           
+162               162
+                                                                                
+----------        ----------
+                  Total assets                                                  
+$   40,679        $   41,358
+                                                                                
+==========        ==========
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current Liabilities:
+         Accounts payable and accrued expenses                                  
+$    1,978        $    1,261
+         Credit from Bank                                                       
+1,215               676
+         Bank Loan                                                              
+--               733
+                                                                                
+----------        ----------
+Total current liabilities                                                       
+3,193             2,670
+Long Term Liabilities
+Asset retirement obligations
+350               314
+Deferred tax liability                                                          
+2,853             2,989
+Current portion of long-term bank loan                                          
+3,525             4,869
+                                                                                
+----------        ----------
+Total Long Term Liabilities                                                     
+6,728             8,172
+Commitments, contingencies and other matters
+Common stock $.0l par value; 7,500,000 authorized
+                shares; 2,747,158 issued shares; 2,717,891
+                shares outstanding at September 30, 2005 and 2,639,853
+                shares outstanding at December 31, 2004                         
+27                27
+Additional paid-in capital                                                      
+26,240            26,240
+Retained earnings                                                               
+3,069             3,169
+Accumulated other comprehensive income (loss)                                   
+1,586             1,244
+Treasury stock, 29,267 shares at
+                September 30, 2005 and December 31, 2004                        
+(164)             (164)
+                                                                                
+----------        ----------
+Total shareholders' equity                                                      
+30,757            30,516
+                                                                                
+----------        ----------
+                        Total liabilities and shareholders' equity              
+$   40,679        $   41,358
+                                                                                
+==========        ==========
+See notes to the consolidated financial statements.
+-1-
+</TABLE>
+<PAGE>
+<TABLE>
+<CAPTION>
+                                             ISRAMCO INC. AND SUBSIDIARIES
+                                         CONSOLIDATED STATEMENTS OF OPERATIONS
+                                      (in thousands except for share 
+information)
+                                                      (Unaudited)
+Three Months 
+Ended              Nine Months Ended
+                                                                  September 30, 
+September 30,
+                                                           
+--------------------------     ---------------------------
+                                                              2005            
+2004            2005            2004
+                                                           -----------    
+-----------     -----------     -----------
+<S>                                                        <C>            <C>   
+<C>             <C>
+REVENUES:
+         Operator fees from related party                           18
+36              54             108
+         Oil and gas sales                                         775          
+836           2,292           2,448
+         Interest income                                           164          
+159             320             572
+         Office services to affiliate and other                    130          
+192             586             580
+         Gain on Marketable securities                             124          
+13             343             ---
+         Equity in net income of investees                       1,182          
+71           1,571             926
+         Other Income                                              172          
+28             236              98
+         Magic 1 vessel revenues                                   736          
+1,809           1,304           1,809
+                                                           -----------    
+-----------     -----------     -----------
+                                                                 3,301          
+3,144           6,706           6,541
+                                                           -----------    
+-----------     -----------     -----------
+COSTS AND EXPENSES:
+         Financial expenses                                         57          
+65             213             117
+         Cost of revenues of vessel                                201          
+1,082             942           1,277
+         Depreciation, depletion and
+           amortization                                            542          
+361           1,372             672
+         Accretion expenses                                         29          
+12              48              34
+         Lease operating expenses and
+           severance taxes                                         499          
+374           1,124             806
+         Exploration costs                                         ---          
+---             160              --
+         Operator expense                                          133          
+250             495             594
+         General and administrative                                498          
+412           1,301           1,228
+         Loss on marketable securities                             ---          
+---             ---              37
+                                                           -----------    
+-----------     -----------     -----------
+Total expenses                                                   1,959          
+2,534           5,655           4,765
+                                                           -----------    
+-----------     -----------     -----------
+Income (loss) before income taxes                                1,342          
+588           1,051           1,776
+Income taxes                                                      (350)        
+(1,183)           (350)         (1,526)
+                                                           -----------    
+-----------     -----------     -----------
+Net income (Loss)                                          $       992    $     
+(595)    $       701     $       250
+                                                           ===========    
+===========     ===========     ===========
+Earnings per common share:
+  Basic                                                    $      0.36    $     
+(0.23)    $      0.26     $      0.09
+  Diluted                                                         0.36
+(0.23)           0.26            0.09
+Weighted average number of shares outstanding:
+  Basic                                                      2,717,891      
+2,639,853       2,717,891       2,639,853
+  Diluted                                                    2,717,891      
+2,639,853       2,717,891       2,639,853
+See notes to the consolidated financial statements.
+-2-
+</TABLE>
+<PAGE>
+<TABLE>
+<CAPTION>
+                                    ISRAMCO INC. AND SUBSIDIARIES
+                                CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                           (in thousands)
+                                             (Unaudited)
+Nine Months 
+Ended September 30,
+                                                                
+-----------------------------------
+                                                                    2005        
+2004
+                                                                   ------       
+------
+<S>                                                              <C>            
+<C>
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net income                                                       $       701    
+$       250
+Adjustments to reconcile net income to net
+Cash provided by operating activities:
+Depreciation, depletion and amortization                               1,376    
+672
+Accretion expense                                                         --    
+34
+Loss (gain) on marketable securities                                    (393)   
+37
+Equity in net loss (gain) of investees                                (1,570)   
+(926)
+Deferred taxes                                                           100    
+1,240
+Changes in assets and liabilities:
+Accounts receivable                                                       93    
+(571)
+Prepaid expenses and other current assets                               (231)   
+30
+Accounts payable and accrued liabilities                                 715    
+313
+                                                                 -----------    
+-----------
+Net cash provided by operating activities                                791    
+1,079
+                                                                 -----------    
+-----------
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Purchase of property and equipment                                    (2,021)   
+(702)
+Proceed from sale of other investment                                     --
+609
+Purchase of Vessel                                                        --    
+(8,273)
+Purchase of marketable securities                                     (2,177)   
+(4,202)
+Proceeds from sale of marketable securities                            4,467    
+4,482
+                                                                 -----------    
+-----------
+Net cash provided (used) in investing activities                         269    
+(8,086)
+                                                                 -----------    
+-----------
+Net cash provided by financial activities
+Proceeds from Bank loan                                                   --    
+7,035
+Repayment of loan                                                     (1,538)   
+--
+                                                                 -----------    
+-----------
+Net cash provided used by financial activities                        (1,538)   
+7,035
+                                                                 -----------    
+-----------
+NET INCREASE (Decrease) IN CASH AND CASH EQUIVALENTS                    (478)   
+28
+Cash and cash equivalents-beginning of year                            2,087    
+2,429
+                                                                 -----------    
+-----------
+Cash and cash equivalents-end period                             $     1,609    
+$     2,457
+                                                                 ===========    
+===========
+Supplemental disclosures:
+  Cash paid for interest                                         $       213    
+$       117
+  Cash paid for income taxes                                              --    
+97
+See notes to the consolidated financial statements.
+-3-
+</TABLE>
+<PAGE>
+ISRAMCO INC. AND SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                   (Unaudited)
+NOTE 1 - BASIS OF PRESENTATION
+As used in these financial statements, the terms "Company" and "Isramco" refer
+to Isramco, Inc. and subsidiaries.
+The accompanying unaudited consolidated financial statements have been prepared
+in accordance with accounting principles generally accepted in the United States
+for interim financial information and with the instructions to Form 10-Q and
+Article 10 of Regulation S-X. Accordingly, they do not include all of the
+information and footnotes required by accounting principles generally accepted
+in the United States for complete financial statements. In the opinion of
+management, all adjustments (consisting of only normal recurring adjustments)
+considered necessary for a fair presentation have been included. Results
+presented for the interim periods ended June 30, 2005, are not necessarily
+indicative of the results that may be expected for the year ended December 31,
+2005. For further information, refer to the consolidated financial statements
+and footnotes thereto included in Isramco's Annual Report on Form 10-K for the
+fiscal year ended December 31, 2004 filed with the Securities and Exchange
+Commission.
+STOCK-BASED COMPENSATION
+We account for employee stock-based compensation granted under our long-term
+incentive plans using the intrinsic value method prescribed by Accounting
+Principles Board Opinion No. 25, Accounting for Stock Issued to Employees, and
+related interpretations. Isramco did not have any stock-based compensation
+expense for the nine months ended September 30, 2005 and 2004, as there were no
+options granted in either of the periods and options historically granted were
+fully vested on the date of grant.
+NOTE 2 - VESSEL LEASE
+In March 2005, Magic 1 Cruise Line Corp., a wholly owned subsidiary of the
+Company, entered into a bareboat lease with a European-based tour operator
+pursuant to which it leased its cruise liner Magic 1 for $8,000 per day during
+the period from April 14, 2005 to October 31, 2005. Under such agreement all
+maintenance and operating costs associated with the vessel were borne by the
+operator.
+NOTE 3 - SEGMENT INFORMATION
+The Company's operations involve two industry segments - the exploration,
+development and production of oil and natural gas and holding and leasing its
+cruise line vessel. Its current oil and gas activities are concentrated in the
+United States and Israel.
+<TABLE>
+<CAPTION>
+                                                         United                 
+Total Oil                  Consolidated
+                                                         States        Israel   
+and gas       Vessel          Total
+                                                        --------      --------  
+---------     --------     ------------
+<S>                                                     <C>           <C>       
+<C>           <C>          <C>
+Identifiable assets at September 30, 2005               $  3,583      $     66  
+$   3,639     $  8,821     $     12,470
+Cash and corporate assets                                                       
+28,209
+                                                                                
+------------
+Total Assets at September 30, 2005                                              
+$     40,679
+                                                                                
+============
+Identifiable assets at December 31, 2004                $  3,135      $     59  
+$   3,194     $  8,590     $     11,784
+Cash and corporate assets                                                       
+29,574
+                                                                                
+------------
+Total Assets at December 31, 2004                                               
+$     41,358
+============
+</TABLE>
+-4-
+<PAGE>
+<TABLE>
+<CAPTION>
+<S>                                                     <C>           <C>       
+<C>           <C>          <C>
+Nine Months Ended September 30, 2005
+Sales and other operating revenue                       $  2,428      $    504  
+$   2,932     $  1,304     $      4,236
+Costs and operating expenses                            $ (1,816)     $   (558) 
+$  (2,374)    $ (1,767)          (4,156)
+                                                        --------      --------  
+---------     --------     ------------
+Operating profit                                        $    612      $    (54) 
+$     558     $   (463)              95
+                                                        ========      ========  
+=========     ========     ============
+Financial income, net                                                           
+107
+General corporate expenses                                                      
+(1,301)
+Gain on marketable securities                                                   
+343
+equity in net income of investees                                               
+1,571
+Other income                                                                    
+236
+Income Taxes                                                                    
+(350)
+                                                                                
+------------
+Net Income                                                                      
+$        701
+                                                                                
+============
+Nine Months Ended September 30, 2004
+Sales and other operating revenue                       $  2,584      $    552  
+$   3,136     $  1,809     $      4,945
+Costs and operating expenses                              (1,288)         (611) 
+$  (1,899)    $  1,483     $     (3,382)
+                                                        --------      --------  
+---------     --------     ------------
+Operating profit                                        $  1,296      $    (59) 
+$   1,237     $    326     $      1,563
+                                                        ========      ========  
+=========     ========     ============
+Financial Income, net                                                           
+455
+General corporate expenses                                                      
+(1,131)
+Loss on marketable securities                                                   
+(37)
+Equity in net income of investees                                               
+926
+Income Taxes
+(1,526)
+                                                                                
+------------
+                                                                                
+$        250
+Net Income                                                                      
+============
+Three Months Ended September 30, 2005
+Sales and other operating revenue                       $    819      $    104  
+$     923     $    736     $      1,659
+Costs and operating expenses                                (700)         (186) 
+(886)        (530)          (1,416)
+                                                        --------      --------  
+---------     --------     ------------
+Operating profit                                        $    119      $     82  
+$      37     $    206              243
+                                                        ========      ========  
+=========     ========     ============
+Financial Income, net                                                           
+107
+General corporate expenses                                                      
+(486)
+Gain on marketable securities                                                   
+124
+Equity in net loss of investees                                                 
+1,182
+Other income                                                                    
+172
+Income taxes                                                                    
+(250)
+                                                                                
+------------
+Net Income                                                                      
+$      1,092
+                                                                                
+============
+</TABLE>
+-5-
+<PAGE>
+<TABLE>
+<CAPTION>
+<S>                                                     <C>           <C>       
+<C>           <C>          <C>
+Three Months Ended September 30, 2004
+Sales and other operating revenue                       $    880      $    184  
+$   1,064     $  1,809     $      2,873
+Costs and operating expenses                                (523)         (267) 
+(790)      (1,287)          (2,077)
+                                                        --------      --------  
+---------     --------     ------------
+Operating profit                                        $    357      $    (83) 
+$     274     $    522              796
+                                                        ========      ========  
+=========     ========     ============
+Financial Income, net                                                           
+92
+General corporate expenses                                                      
+(412)
+Gain (Loss) on marketable securities                                            
+13
+Equity in net income of investees                                               
+71
+Income Taxes                                                                    
+28
+Other expenses (net)                                                            
+(1,183)
+                                                                                
+------------
+Net income (loss)                                                               
+(595)
+                                                                                
+============
+</TABLE>
+NOTE 4 - COMPREHENSIVE INCOME
+Isramco's comprehensive income for the nine-month periods ended September 30,
+2005 and 2004 were as follows (in thousands):
+Nine months ended
+                                                          September 30,
+                                                     2005             2004
+                                                     ----             ----
+Net income (loss)                                 $     701        $     250
+Other comprehensive gain (loss)
+  available-for-sale securities                          84              415
+  foreign currency translation adjustments             (543)            (158)
+                                                  ---------        ---------
+Comprehensive income (loss)                       $     242        $     507
+                                                  =========        =========
+NOTE 5 -- SUBSEQUENT EVENT
+On November 1, 2005, Jay Petroleum LLC, a wholly owned subsidiary of the
+Company, ("Jay") purchased from Ness Energy International Inc., an oil and gas
+company based in Texas, 15% working interests in certain Barnett Shale acreage
+in Parker County, north central Texas, for a purchase price of $2.1 million. The
+purchase was financed from cash generated by the sale of marketable securities
+held by the Company. In addition, under the agreement Jay has the right to
+participate for up to 40% working interest in any well that will be drilled by
+Ness in shallower formations from the surface to the top of the Barnett Shale.
+About 80 locations for new development wells in the Barnet Shale have been so
+far identified in this acreage based on 3D seismic survey.
+-6-
+<PAGE>
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+THE FOLLOWING COMMENTARY SHOULD BE READ IN CONJUNCTION WITH THE CONSOLIDATED
+FINANCIAL STATEMENTS AND RELATED NOTES CONTAINED ELSEWHERE IN THIS REPORT ON
+FORM 10-Q. THE DISCUSSION CONTAINS FORWARD-LOOKING STATEMENTS THAT INVOLVE RISKS
+AND UNCERTAINTIES. THESE STATEMENTS RELATE TO FUTURE EVENTS OR OUR FUTURE
+FINANCIAL PERFORMANCE. IN SOME CASES, YOU CAN IDENTIFY THESE FORWARD-LOOKING
+STATEMENTS BY TERMINOLOGY SUCH AS "MAY," "WILL," "SHOULD," "EXPECT," "PLAN,"
+"ANTICIPATE," "BELIEVE," "ESTIMATE," "PREDICT," "POTENTIAL," "INTEND," OR
+"CONTINUE," AND SIMILAR EXPRESSIONS. THESE STATEMENTS ARE ONLY PREDICTIONS. OUR
+ACTUAL RESULTS MAY DIFFER MATERIALLY FROM THOSE ANTICIPATED IN THESE
+FORWARD-LOOKING STATEMENTS AS A RESULT OF A VARIETY OF FACTORS.
+OVERVIEW
+Isramco, Inc., a Delaware company, is active in the exploration of oil and gas
+in Israel and the United States. The Company acts as an operator of certain
+leases and licenses and also holds participation interests in certain other
+interests. The Company also holds certain non-oil and gas properties.
+CRITICAL ACCOUNTING POLICIES
+In response to the Release No. 33-8040 of the Securities and Exchange
+Commission, "Cautionary Advice Regarding Disclosure And Critical Accounting
+Policies," the Company identified the accounting principles which it believes
+are most critical to the reported financial status by considering accounting
+policies that involve the most complex of subjective decisions or assessments.
+The Company maintains allowances for doubtful accounts for estimated losses
+resulting from the inability of customers to make required payments. If the
+financial condition of customers were to deteriorate, resulting in an impairment
+of their ability to make payments, additional allowances may be required.
+The Company records an investment impairment charge when it believes an
+investment has experienced a decline in value that is other than is temporary.
+Future adverse changes in market conditions or poor operating results of
+underlying investments could result in losses or an inability to recover the
+carrying value of the investment that may not be reflected in an investment's
+current carrying value, thereby possibly requiring an impairment charge in the
+future.
+The Company records a valuation allowance to reduce its deferred tax assets to
+the amount that is more likely than not to be realized. While the Company has
+considered future taxable income and ongoing prudent and feasible tax planning
+strategies in assessing the need for the valuation allowance, in the event that
+the Company were to determine that it would be able to realize its deferred tax
+assets in the future in excess of its net recorded amount, an adjustment to the
+deferred tax asset would increase net income in the period such determination
+was made.
+The Company does not participate in, nor has it created, any off-balance sheet
+special purpose entities or other off-balance sheet financing. In addition, the
+Company does not enter into any derivative financial instruments.
+The Company records a liability for asset retirement obligation at fair value in
+the period in which it is incurred and a corresponding increase in the carrying
+amount of the related long live assets.
+LIQUIDITY AND CAPITAL RESOURCES
+The Company finances its operations primarily from cash generated by operations.
+The decrease in the Company's consolidated cash and cash equivalents of $478,000
+from $2,087,000 at December 31, 2004 to $1,609,000 at September 30, 2005, is
+primarily attributable to investments in oil and gas wells in Texas and in the
+cruise line Vessel.
+Net cash provided from investing activities for the nine-month period ended
+September 30, 2005 was $ 269,000 compared to $8,086,000 used during the
+nine-month period ended September 30, 2004. The cash used in 2004 was primarily
+for the purchase of the Magic 1 cruise liner.
+-7-
+<PAGE>
+Capital expenditures for property and equipment during the nine months ended
+September 30, 2005 were $2,021,000 compared to $702,000 for the same period in
+2004. Capital expenditures are primarily attributable to investments in the
+Magic 1 cruise liner and in drilling of oil and gas wells in Texas.
+The Company believes that existing cash balances and cash flows from activities
+will be sufficient to meet its financing needs. The Company intends to finance
+its ongoing oil and gas exploration activities from working capital.
+On November 1, 2005, Jay Petroleum, LLC, a wholly owned subsidiary purchased a
+15% working interest in certain oil and gas acreage in North Central Texas, for
+a purchase price of $2.1 million. The purchase, which is discussed further below
+in "Summary of Exploration Efforts in the United States," was made from internal
+cash resources generated from sale of marketable securities held by the Company.
+RESULTS OF OPERATIONS
+NINE MONTHS ENDED SEPTEMBER 30, 2005 (THE "2005 PERIOD") COMPARED TO THE NINE
+MONTHS ENDED SEPTEMBER 30, 2004 (THE "2004 PERIOD") AND THE THREE MONTHS ENDED
+SEPTEMBER 30, 2005 COMPARED TO THE THREE MONTHS ENDED SEPTEMBER 30, 2004.
+The Company reported a net profit of $701,000 ($0.26 per share) for the
+nine-month period ended September 30, 2005 compared to net income of $250,000
+($0.09 per share) for the same period in 2004. The increase in the net income
+for the nine months ended September 30, 2005 compared to the nine months ended
+September 30, 2004 is attributable to the following:
+i)      increase in equity in net income of Investee from $926,000 in
+                2004 Period to $1,574,000 in 2005 Period;
+        ii)     decrease in income taxes from $1,526,000 in 2004 Period to
+                $160,000 in 2005 period;
+        iii)    increase in the net loss of the Vessel from $526,000 in 2004
+                period to $760,000 in 2005 Period; and
+        iv)     decrease in oil and gas sales in 2005 compared to 2004 due to
+                decline of the gas production of the Company wells.
+Set forth below is a break-down of these results:
+<TABLE>
+<CAPTION>
+United States
+Oil and Gas Revenues (in thousands)
+Three Months ended September 30,      Nine Months 
+ended September 30,
+                                2005             2004                2005       
+2004
+<S>                          <C>              <C>                <C>            
+<C>
+Oil Volume Sold (Bbl)            5.1              4.6                12.2       
+14
+Gas Volume Sold (MCF)            90               110                 285       
+366
+Oil Sales ($)                    258              184                 583       
+500
+Gas Sales ($)                    554              641               1,735       
+1,940
+Average Unit Price
+Oil ($/Bbl) *                 $  50.5          $ 39.43            $ 47.70
+$ 35.93
+                              $  6.15          $  5.81            $  6.08       
+$  5.29
+Gas ($/MCF) **
+o Bbl - Stock Market Barrel Equivalent to 42 U.S. Gallons
+** MCF - 1,000 CUBIC FEET
+</TABLE>
+-8-
+<PAGE>
+SUMMARY OF EXPLORATION EFFORTS IN ISRAEL
+MED YAVNE LEASE
+The Med Yavne Lease covers approximately 53 square kilometers (approximately
+12,000 acres). The Company's participation share of the Med Yavne Lease is
+0.4585%.
+MED ASHDOD LEASE
+The Med Ashdod Lease covers approximately 250 square kilometers (approximately
+62,000 acres). The Company serves as the operator of the Med Ashdod Lease and
+holds a 0.3625% interest therein.
+On February 28, 2005, the Company, on behalf of Isramco Negev 2 LP ("Negev 2"),
+a lease participant and an affiliate of the Company, issued a Sole Risk notice
+to the other partners in the lease to drill a gas well ("Gad 1" well) to a total
+depth of 2,600 meter (8,350 feet) at a total budget of $13 million. As a result
+of the Sole Risk notice, the rights of partners who did not respond to the
+notice were transferred to Negev 2 such that its rights in the Gad 1 well
+increased to 85.103%.
+In August and September 2005, Negev 2 transferred 40% working interests in the
+Gad 1 well to -third Parties. On September 25, 2005 the Gad 1 well was spudded.
+The updated total Budget of the well is $ 19.5 million (including production
+tests, If performed)
+SUMMARY OF EXPLORATION EFFORTS IN THE UNITED STATES
+The Company, through its wholly-owned subsidiaries, Jay Petroleum LLC ("Jay
+Petroleum") and Jay Management LLC ("Jay Management"), is involved in oil and
+gas exploration and production in the United States. Jay Petroleum owns varying
+working interests in oil and gas wells in Louisiana, Texas, Oklahoma and
+Wyoming. Independent estimates of the reserves held by Jay Petroleum as of
+December 31, 2004 are approximately 140,000 net barrels of proved developed
+producing oil and 2,011 MMCFs of proved developed producing natural gas. Jay
+Management acts as the operator of certain of the producing oil and gas wells
+owned by Jay Petroleum.
+During the nine-month period ended September 30, 2005 the Company participated
+in the drilling of two wells (Vaquero #1 and Vaquero #2) on the Welder Ranch
+property in Victoria Country, Texas. The Company holds 5% working interests in
+each of the two wells. The Company invested $ 801,000 in the drilling of Vaquero
+1 and 2. Both of the wells start to produce gas.
+On November 2, 2005 Jay Petroleum purchased 15% working Interests in 12,000
+Barnett shale acreages in Parker County in north central Texas, for a purchase
+price of $2.1 million. About 80 locations, for new development well, have been
+identified in the Barnett shale acreage, based on 3D seismic survey. In
+addition, Jay Petroleum has the right to participate for up to 40% working
+Interests in any well that will be drilled in formations shallower than the
+Barnett shale.
+OPERATOR'S FEES
+During the 2005 Period, the Company earned $54,000 in operator fees compared to
+$108,000 for the 2004 Period and $18,000 for the three months ended September
+30, 2005 compared to $36,000 for the corresponding periods in 2004. The decrease
+in 2005 Period and for the three months ended September 30, 2005 compared to the
+same periods in 2004 is primarily attributable to a decrease in the activity in
+the Israeli offshore licenses.
+OIL & GAS REVENUES
+During the 2005 Period, the Company had oil and gas revenues of $2,292,000
+compared to $2,448,000 for the 2004 Period and $775,000 for the three months
+ended September 30, 2004 compared to $836,000 for the comparable period in 2004.
+The decrease in the 2005 Period and for the three months ended June 2005
+compared to the same period in 2004 is primarily attributable to the decline in
+the gas production of the Company's wells.
+LEASE OPERATING EXPENSES AND SEVERANCE TAXES
+Lease operating expenses and severance taxes were primarily in connection with
+oil and gas fields in the United States. Oil and gas lease operating expenses
+and severance taxes for the 2005 Period were $1,124,000 compared to $806,000 for
+the 2004 Period and $499,000 for the three months ended September 30, 2005
+compared to $374,000 for the comparable period in 2004. The increase in the 2005
+Period and for the three months ended September 30, 2005 is primarily
+attributable to a work over on two of the wells in Texas.
+-9-
+<PAGE>
+OIL AND GAS EXPLORATION COSTS
+During the 2005 Period the Company incurred expenses for exploration costs in
+the amount of $160,000. These costs were related to a participation of 15%
+working interests in two dry-holes in Texas.
+INTEREST INCOME
+Interest income in respect of the 2005 Period was $320,000 compared to $572,000
+for the 2004 Period and $164,000 in respect of the three months ended September
+30, 2005 compared to $159,000 for the same period in 2004.
+GAIN (LOSS) ON MARKETABLE SECURITIES
+During the 2005 Period, the Company recognized a net realized gain on trading
+securities of $343,000 compared to loss of $37,000 for the 2004 Period and gain
+of $124,000 for the three months ended September 30, 2005 compared to gain of
+$13,000 for the same period in 2004.
+Increases or decreases in the gains and losses from marketable securities are
+dependent on the market prices in general and the composition of the portfolio
+of the Company.
+EQUITY IN NET INCOME OF INVESTEE - AFFILIATES
+The Company's equity in the net income of investees for the 2005 Period was
+$1,571,000 compared to its equity in net income of $926,000 for the 2004 Period
+and $1,182,000 in respect of the three months ended September 30, 2005 compared
+to $71,000 for the same three month period in 2004. The increase is primarily
+attributable to incline in the market value of the marketable securities held by
+Negev 2 and IOC Dead Sea LP, investee - affiliates of the Company.
+OPERATOR EXPENSE
+Operator expenses were incurred primarily in connection with the offshore
+activities in Israel. Operator expenses for the 2005 Period were $495,000
+compared to $594,000 for the 2004 Period and $133,000 for the three months ended
+September 30, 2005 compared to $250,000 for the corresponding period in 2004.
+GENERAL AND ADMINISTRATIVE EXPENSES
+General and administrative expenses for the 2005 Period were $1,301,000 compared
+to $1,228,000 for the 2004 Period and $498,000 for the three months ended
+September 30, 2005 compared to $412,000 for the same period in 2004.
+CRUISE LINE VESSEL REVENUES
+During the 2005 Period the Company earned $1,304,000 from leasing the cruise
+line vessel as compared to $1,809,000 during 2004 period. The most recent lease
+began in April 14, 2005 and expired in October 31, 2005. Currently, there is no
+lease in effect for the vessel and no assurance can be provided that a lease on
+commercially acceptable terms or at all can be entered into.
+CRUISE LIVE VESSEL EXPENSES
+Cruise Line vessel expenses for the 2005 period were $942,000 and $201,000 for
+the three months ended September 30, 2005. The expenses are primarily
+attributable to maintenance, repairs and payroll. Expenses for 2004 Period were
+$1,277,000 and 1,082,000 for the three months ended September 30, 2004.
+DEPRECIATION, DEPLETION AND AMORTIGATION
+Depreciation depletion and amortization expenses are connected to the producing
+wells in the United States and to the cruise line vessel. During the 2005
+period, the Company recorded the amount of $1,372,000 compared to $672,000 for
+the 2004 period and $ 542,000 for the three months ended June 2005 compared to
+$361,000 for the comparable period in 2004. The increase is 2005 the period and
+for the three months is primarily attributable to the depreciation of the
+vessel.
+-10-
+<PAGE>
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+Market risks relating to changes in interest rates and foreign currency
+exchanges rates were reported in Item 7A of the Company's Annual Report on Form
+10-K for the year ended December 31, 2004. There has been no material change in
+these market risks since the end of the fiscal year 2004.
+ITEM 4. CONTROLS AND PROCEDURES
+EVALUATION OF DISCLOSURE CONTROLS AND PROCEDURES. The Company maintains
+disclosure controls and procedures that are designed to ensure that information
+required to be disclosed in the Company's Exchange Act reports is recoded,
+processed, summarized and reported within the time periods specified in the
+SEC's rules and forms, and that such information is accumulated and communicated
+to management, including our Chief Executive Officer (and Principal Financial
+and Accounting Officer), as appropriate, to allow timely decisions regarding
+required disclosure based closely on the definition of "disclosure controls and
+procedures" in Rule 13 a- 14 c.
+As of the end of the period covered by this report, the Company carried out an
+evaluation, under the supervision and with participation of management,
+including its Chief Executive Officer (and Principal Financial and Accounting
+Officer), of the effectiveness of the design and operation of the disclosure
+controls and procedures. Based of the foregoing, the Company's Chief Executive
+Officer (and Principal Financial and Accounting Officer) concluded that the
+Company's disclosure controls and procedures were effective.
+CHANGES IN INTERNAL CONTROLS OVER FINANCIAL REPORTING. During the quarter ended
+September 30, 2005, there have been no changes in the Company's internal
+controls over financial reporting that have materially affected, or are
+reasonably likely to materially affect, these controls.
+PART II -- OTHER INFORMATION
+ITEM 1. LEGAL PROCEEDINGS
+On February 10, 2004, the Company initiated a lawsuit in the Superior Court of
+California, County of Los Angeles, against several named defendants
+(collectively, the "Defendants"), alleging breach of contract and tort claims in
+connection with an agreement between the Company and the Defendants to jointly
+purchase and develop certain parcels of real estate outside Los Angeles. In its
+lawsuit, the Company is seeking damages in excess of $50 million.
+In March 2005 the defendants filed notion for summary Judgment on the grounds
+that there are no triable issues of any material fact and defendants are
+entitled to judgment as a matter of law. The motion was denied. A hearing date
+for the trial has been scheduled for November 28, 2005.
+ITEM 2. CHANGE IN SECURITIES, USE OF PROCEEDS AND ISSUER PURCHASES OF EQUITY
+SECURITIES
+None
+ITEM 3. DEFAULT UPON SENIOR SECURITIES
+None
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+None
+ITEM 5. OTHER INFORMATION
+None
+ITEM 6. EXHIBITS
+EXHIBITS
+31 Certification of Chief Executive and Principal Financial Officer pursuant to
+Section 302 of Sarbanes-Oxley Act
+32 Certification of Chief Executive and Principal Financial Officer pursuant to
+18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002
+-11-
+<PAGE>
+SIGNATURES
+In accordance with the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+ISRAMCO, INC.
+DATE: NOVEMBER 14, 2005                   BY /S/ HAIM TSUFF
+                                          --------------------------------------
+                                          CHIEF EXECUTIVE OFFICER (AND PRINCIPAL
+                                          FINANCIAL AND ACCOUNTING OFFICER)
+-12-
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31
+<SEQUENCE>2
+<FILENAME>tex31-8222.txt
+<DESCRIPTION>EX-31
+<TEXT>
+<PAGE>
+EXHIBIT 31
+                    RULE 13A-14(A) / 15D-14(A) CERTIFICATIONS
+I, Haim Tsuff, Chief Executive Officer (and Principal Financial and Accounting
+Officer) of Isramco, Inc., certify that:
+1. I have reviewed this quarterly report on Form 10-Q of Isramco, Inc. for the
+quarter ended September 30, 2005;
+2. Based on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report;
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;
+4. I am responsible for establishing and maintaining disclosure controls and
+procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and
+internal control over financial reporting (as defined in Exchange Act Rules
+13a-15(f) and 15d-15(f)) for the registrant and have:
+a) Designed such disclosure controls and procedures, or caused such disclosure
+controls and procedures to be designed under my supervision, to ensure that
+material information relating to the registrant, including its consolidated
+subsidiaries, is made known to me by others within those entities, particularly
+during the period in which this report is being prepared;
+b) Evaluated the effectiveness of the registrant's disclosure controls and
+procedures and presented in this report my conclusions about the effectiveness
+of the disclosure controls and procedures, as of the end of the period covered
+by this report based on such evaluation; and
+c) Disclosed in this report any change in the registrant's internal control over
+financial reporting that occurred during the registrant's most recent fiscal
+quarter that has materially affected, or is reasonably likely to materially
+affect, the registrant's internal control over financial reporting; and
+5. I have disclosed, based on my most recent evaluation of the internal control
+over financial reporting, to the registrant's auditors and the audit committee
+of registrant's board of directors (or persons fulfilling the equivalent
+functions):
+a) All significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process,
+summarize and report financial information; and
+b) Any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal control over
+financial reporting.
+DATE: NOVEMBER 14, 2005
+/S/ HAIM TSUFF
+                                --------------
+                                HAIM TSUFF
+                                CHIEF EXECUTIVE OFFICER
+                                (AND PRINCIPAL FINANCIAL AND ACCOUNTING OFFICER)
+-13-
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-32
+<SEQUENCE>3
+<FILENAME>tex32-8222.txt
+<DESCRIPTION>EX-32
+<TEXT>
+<PAGE>
+EXHIBIT 32
+CERTIFICATION BY CHIEF EXECUTIVE OFFICER
+                       PURSUANT TO 18 U.S.C. SECTION 1350,
+      AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+In connection with the Quarterly Report of Isramco, Inc. (the "Company") on Form
+10-Q for the three months ended September 30, 2005 (the "Report") filed with the
+Securities and Exchange Commission, I, Haim Tsuff, Chief Executive Officer (and
+Principal Financial and Accounting Officer) of the Company, certify, pursuant to
+18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002, that:
+(1) The Company's Report fully complies with the requirements of Section 13(a)
+or 15(d) of the Securities Exchange Act of 1934; and
+(2) The information contained in the Report fairly presents, in all material
+respects, the financial condition and results of operations of the Company.
+NOVEMBER 14, 2005                          /S/ HAIM TSUFF
+                                        ------------------------
+                                        HAIM TSUFF
+                                        CHIEF EXECUTIVE OFFICER
+                                        (AND PRINCIPAL FINANCIAL AND
+                                        ACCOUNTING OFFICER)
+A signed original of this statement required by Section 906 has been provided to
+Isramco, Inc. and will be retained by Isramco, Inc. and furnished to the
+Securities and Exchange Commission or its staff upon request.
+-14-
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

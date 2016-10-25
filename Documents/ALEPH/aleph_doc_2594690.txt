@@ -1,0 +1,3318 @@
+
+EX-99.1 2 rougeaugust2016technicalrepo.htm TECHNICAL REPORT Technical Report
+NI 43-101 TECHNICAL REPORT
+On The
+PAMPAS EL PEÑON PROPERTY,
+Province and Municipality of Antofagasta,
+Antofagasta Region (II), Chile
+Centered at Approximately
+Latitude 24° 11’ South by Longitude 69o 26’ West
+- Report Prepared For -
+Rouge Resources Ltd.
+- Report Prepared By -
+JAMES A. McCREA. P. Geo.
+10743 139 Street, 306
+Surrey, BC, V3T 4L8
+Effective Date:
+July 4, 2016
+IMPORTANT NOTICE
+This  report  was  prepared  as  a  National  Instrument  43-101  Technical  Report  for  Rouge
+Resources  Ltd.  by  James  A.  McCrea,  P.Geo.    The  quality  of  information  and  conclusions
+contained herein are consistent with the level of effort involved in Mr. McCrea’s services, based
+on: i) information available at the time of preparation, ii) data supplied by outside sources, and iii)
+the assumptions, conditions and qualifications set forth in this report.  This report is intended to
+be used by Rouge Resources Ltd., subject to the terms and conditions of its contract with Mr.
+McCrea.  This contract permits Rouge Resources Ltd. to file this report as a Technical Report to
+satisfy TSX Venture Policy requirements pursuant to National Instrument 43-101, Standards of
+Disclosure  for  Mineral  Projects.  Except  for  the  purposes  legislated  under  provincial  securities
+law, any other use of this report by any third party is at that party’s sole risk.
+* - Cover photograph – Pampa Augusta Victoria Pit, Yamana Gold.
+Rouge Resources Ltd.
+Date and Signature Page
+CERTIFICATE OF QUALIFIED PERSON
+Page i
+I, James Albert McCrea, am a professional geologist residing at 306 - 10743 139 Street, Surrey,
+British Columbia, Canada do hereby certify that:
+I am the author of the "NI 43-101 Technical Report on the Pampas El Peñon Property, Province
+and Municipality of Antofagasta, Antofagasta Region (II), Chile”, dated July 4, 2016;
+·
+I  am  a  Registered  Professional  Geoscientist  (P.  Geo.),  Practising,  with  the  Association  of
+Professional Engineers and Geoscientists of British Columbia, (Licence # 21450).  I graduated
+from the University of Alberta, Canada, with a B. Sc. in Geology in 1988.
+·
+I  have  worked  as  a  geoscientist  in  the  minerals  industry  for  over  25  years  and  I  have  been
+directly  involved  in  the  mining,  exploration  and  evaluation  of  mineral  properties  mainly  in
+Canada, the United States, Mexico, Peru, Chile, Argentina, Bolivia and Colombia for gold, silver,
+copper, molybdenum and base metals;
+·
+I visited the Pampas El Peñon Property and area on May 31st to June 1st, 2016.
+·
+I had no prior involvement with the property before I visited it in May of 2016;
+·
+I was retained by Rouge Resources Ltd. to prepare an exploration summary on the Pampas El
+Peñon  Property,  Province  and  Commune  of  Antofagasta,  Antofagasta  Region  (II),  Chile,  in
+accordance with National Instrument 43-101.  The report is based on my review of project files
+and  information  provided  by  Arena  Minerals  Inc.,  the  Property  vendor,  and  discussions  with
+company personnel;
+·
+I am responsible for all sections of the "NI 43-101 Technical Report on the Pampas El Peñon
+Property, Province and Municipality of Antofagasta, Antofagasta Region (II), Chile”, dated July 4,
+2016.
+·
+I  am  independent  of  Rouge  Resources  Ltd.  and  Arena  Minerals  Inc.  as  independence  is
+described  by  Section  1.5  of  NI  43-101.  I  have  not  received,  nor  do  I  expect  to  receive,  any
+interest, directly or indirectly, in Rouge Resources Ltd. or Arena Minerals Inc.
+·
+I have read National Instrument 43-101 and Form 43-101F1 and, by reason of education and
+past  relevant  work  experience,  I  fulfill  the  requirements  to  be  a  “Qualified  Person”  for  the
+purposes  of  NI  43-101.  This  technical  report  has  been  prepared  in  compliance  with  National
+Instrument 43-101 and Form 43-101F1;
+·
+As of the date of this certificate, to the best of my knowledge, information and belief, the technical
+report contains all scientific and technical information that is required to be disclosed to make the
+technical report not misleading.
+·
+I,  the  undersigned  prepared  this  report  titled  “NI  43-101  Technical  Report  on  the  Pampas  El
+Peñon Property, Province and Municipality of Antofagasta, Antofagasta Region (II), Chile”, dated
+July 4, 2016, in support of the public disclosure of technical aspects for the Pampas El Peñon
+Property by Rouge Resources Ltd.
+Effective Date: July 4, 2016
+Signed By James A. McCrea
+_______________________
+James A. McCrea, B. Sc., P. Geo.
+(signed and sealed original copy on file)
+Dated this 4th day of July, 2016
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+DATE and SIGNATURE PAGE
+Introduction
+Property Description and Ownership
+Table of Contents
+ 
+ 
+1.0 SUMMARY
+   1.1
+   1.2
+       1.2.1 Description of the Transaction
+Accessibility and Physiography
+   1.3
+History
+   1.4
+   1.5
+Geological Setting and Mineralization
+Exploration and Drilling
+   1.6
+Mineral Processing and Metallurgical Testing
+   1.7
+   1.8
+Mineral Resources
+Interpretations and Conclusions
+   1.9
+   1.10
+Recommendations
+2.0
+   2.1
+   2.2
+   2.3
+   2.4
+   2.5
+3.0 RELIANCE ON OTHER EXPERTS
+4.0 PROPERTY DESCRIPTION AND LOCATION
+   4.1
+   4.1
+   4.2
+   4.3
+   4.4
+       4.4.1 Rouge Resources and Arena Minerals
+Introduction and Terms of Reference
+Site Visit
+Sources of Information
+Abbreviations and Units of Measure
+Acknowledgements
+Property Location
+Property Description
+Surface Rights and Permits
+Environmental Liabilities
+Underlying Agreements
+INTRODUCTION
+4.4.2
+Arena Minerals and Sociedad Quimica y Minera de Chile
+July 4, 2016
+Page ii
+Page No.
+i
+1
+1
+1
+1
+2
+2
+2
+2
+3
+3
+3
+3
+5
+5
+5
+5
+6
+7
+7
+8
+8
+8
+9
+9
+11
+11
+11
+Chile Mining Regulations
+Safety Considerations
+4.4.2
+            4.4.2.1
+   4.5
+       4.5.1 Mineral Tenure
+       4.5.2
+Surface Rights
+       4.5.3 Rights of Way
+       4.5.4 Water Rights
+       4.5.5
+       4.5.6 Mine Closure
+   4.6
+       4.6.1
+            4.6.1.1
+            4.6.1.2
+            4.6.1.3
+            4.6.1.4
+            4.6.1.5
+            4.6.1.6
+   4.7
+       4.7.1
+       4.7.2
+Environmental
+Income Taxes
+Taxation
+Arena Minerals and Sociedad Quimica y Minera de Chile
+Property Reductions and Payment Dates
+Taxation on Dividends
+Taxation on Capital gains
+Investments under Decree Law 600 (“DL 600”)
+Customs Duties
+Value Added Tax
+Mining Taxation and Royalties
+Sectorial Environmental Permits
+Indigenous Consultants
+11
+12
+12
+13
+15
+15
+15
+16
+16
+17
+17
+17
+19
+20
+21
+21
+22
+23
+24
+25
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page iii
+Land Use
+Foreign Investment
+Accessibility
+Climate
+Local Resources and Infrastructure
+Physiography
+4.7.3
+   4.8
+5.0 ACCESSIBILITY, CLIMATE, LOCAL RESOURCES, INFRASTRUCTURE and
+PHYSIOGRAPHY
+   5.1
+   5.2
+   5.3
+   5.4
+6.0 HISTORY
+   6.1
+   6.2
+7.0 GEOLOGICAL SETTING and MINERALIZATION
+Regional Geology
+   7.1
+   7.2
+Local Geology
+8.0 DEPOSIT TYPES
+9.0 EXPLORATION
+Caliche Exploitation in Northern Chile
+Property History
+9.1
+Aster Alteration Image Mapping
+25
+25
+29
+29
+29
+29
+30
+31
+31
+32
+35
+35
+41
+43
+45
+45
+Verification Sampling Results
+Aster Alteration Image Mapping
+Geochemical Sampling
+Exploration Results and Interpretation
+9.1
+   9.2
+   9.3
+10.0 DRILLING
+11.0 SAMPLE PREPARATION, ANALYSES AND SECURITY
+   11.1
+Arena 2013/2014 Program
+   11.2 Quality Control Measures
+       11.2.1 General procedures
+       11.2.2 Definitions
+   11.3
+Conclusions
+12.0 DATA VERIFICATION
+   12.1
+13.0 MINERAL PROCESSING and METALLURGICAL TESTING
+14.0 MINERAL RESOURCE ESTIMATES
+23.0 ADJACENT PROPERTIES
+24.0 OTHER RELEVANT DATA and INFORMATION
+25.0 INTERPRETATION and CONCLUSIONS
+26.0 RECOMMENDATIONS
+27.0 REFERENCES
+ 
+List of Tables
+ 
+Table 4.1: Pampas El Peñon Property Mining Concessions
+Table 4.2: SQM Agreement Summary – Worked Claims
+Table 4.3: SQM Agreement Summary – Greenfield Claims
+Table 11.1: Description of standards used for quality control
+Table 11.2: Results of assays of certified reference standards
+Table 12.1: Verification Samples from the Pampas El Peñon Property
+ 
+List of Figures
+ 
+Figure 4.1: Location Map of the Pampas El Peñon Property
+Figure 4.2: Mining Concession Map of Pampas El Peñon Property
+45
+45
+52
+57
+58
+58
+58
+59
+59
+61
+62
+62
+64
+65
+66
+67
+68
+69
+70
+8
+11
+12
+60
+60
+62
+9
+10
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page iv
+Figure 6.1: Summary of SQM Exploration Results 2010/11
+Figure 7.1: Physiographic Provinces of Northern Chile with Concession Outline
+Figure 7.2: Paleocene to Early Eocene Copper Belt (after Sillitoe et al., 2005)
+Figure 7.3: Simplified Regional Geology of Chile, Region II
+34
+35
+38
+39
+Figure 7.3: Simplified Regional Geology of Chile, Region II
+Figure 7.4: Legend for Simplified Regional Geology of Chile, Region II
+Figure 7.5: Local Geology Map, Sernagiomin, 2003
+Figure 8.1: Porphyry Copper System showing related deposit types
+Figure 9.1: Pampas El Peñon Geochemical Sampling – Silver
+Figure 9.2: Pampas El Peñon Geochemical Sampling – Arsenic
+Figure 9.3: Pampas El Peñon Geochemical Sampling – Lead
+Figure 9.4: Pampas El Peñon Geochemical Sampling – Antimony
+Figure 9.5: Pampas El Peñon Geochemical Sampling – Zinc
+Figure 9.6: Pampas El Peñon Plan Map Showing Exploration Results, Section Locations and
+Proposed Drilling
+Figure 9.7: Pampas El Peñon Schematic Sections with Proposed Drilling
+Figure 12.1: Verification Sample Locations
+ 
+List of Photographs
+ 
+Photograph No. 1: Photograph of Rhyolite Dome and SQM Trench from Target B
+Photograph No. 2: Core Photographs from Yamana’s Pampa Augusta Victoria Deposit, Core
+from Holes DDV 0002 and DDV 0003 Showing High Manganese and Goethite Content
+Photograph No. 3: Photograph of Chert from Target B
+Photograph No. 4: Photograph of Manganese Breccia from Target D
+Photograph No. 5: Sample 1 from the SQM Trench on Drill Target B
+39
+40
+42
+44
+47
+48
+49
+50
+51
+54
+56
+63
+46
+53
+53
+55
+62
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 1
+1.0
+SUMMARY
+1.1
+Introduction
+The Pampas El Peñon Property is a gold-silver exploration property in the Antofagasta Region
+(II)  of  northern  Chile  subject  to  an  agreement  where  Rouge  Resources  Ltd.  (‘Rouge‘  or  the
+‘Company’),  purchases  100%  of  Arena  Minerals  Inc.’s  (‘Arena’)  interest  in  4-year  option
+agreement to earn an 80% interest in Pampas El Peñon Property, plus the remaining 20% of the
+property held by the underlying owner Sociedad Química y Minera de Chile S.A. (‘SQM’).
+At the request of Rouge Resources Ltd., James A. McCrea, P. Geo., carried out an independent
+review  of  the  Pampas  El  Peñon  Property  (the  ‘Property’)  in  the  Municipality  of  Antofagasta,
+Antofagasta Region (II), Chile.  The author conducted a property examination, reviewed available
+exploration results and prepared this independent technical report (the ‘Report’) in accordance
+with the requirements of National Instrument 43-101 (‘NI 43-101’) and Form 43-101F1 (Standards
+of Disclosure for Mineral Properties) to be a comprehensive review of the exploration activities on
+the property, and, if warranted, to provide recommendations for future work.  For the purposes of
+NI 43-101, the Property is considered an early-stage exploration property.
+The  sources  of  information  for  this  technical  report  are  the  results  from  the  site  visit;  internal
+company reports from the Property owner, internal company reports from the Vendor, reports from
+the operating mines in the area, plus other published government reports and scientific papers.
+  Information  concerning  the  mining  concessions  comes  from  Arena  and  has  not  been
+independently verified by the author.
+1.2
+Property Description and Ownership
+The  Property  consists  of  two  groups  of  contiguous  mining  concessions  containing  13  mining
+concessions  and  totalling  approximately  3,400  hectares.    The  concessions  are  all  mining
+concessions and are owned by Sociedad Química y Minera de Chile S.A. under option to Rouge.
+  The  concessions  optioned  to  Rouge  are  listed  in  Table  4.1.    The  concessions  are  shown  in
+Figure 4.2.
+1.2.1
+Description of the Transaction
+Rouge Resources has executed a Letter of Intent (‘LOI’), dated May 26, 2016, to purchase 100%
+of Arena Minerals’ interest in a four-year definitive option agreement (‘SQM Option Agreement’)
+to acquire between 85% and 100% of various claim blocks in the Pampas El Peñon project on
+February 11, 2013.  To earn this interest, Rouge will pay Arena 9,550,000 common shares and
+assume  Arena‘s  requirement  to  pay  to  the Sociedad  Química  y  Minera  de  Chile  S.A.  certain
+annual  payments  and  complete  certain  minimum  work  commitment  expenditures  over  the
+remainder of the four year period on a per hectare basis.  Rouge will issue 5,350,000 common
+shares to Sociedad Química y Minera de Chile S.A. for consideration of a waiver by SQM of the
+exploration commitments under the option agreements and for the purchase of a 15% ownership
+in 1700 hectares bringing Rouges final interest in the Property to 100%.  The waiver limits the
+total work commitment as not more than $1.83 million.  Rouge is required to pay SQM $225,000
+and complete the work commitment of not more than $1.83 million by July 27, 2017.
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+July 4, 2016
+Page 2
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+1.3
+Accessibility and Physiography
+The Property is located 140 km southeast of the City of Antofagasta and access to the Property is
+via Route CH-28 to Route CH-5, which is part of the Pan-American Highway and then east on
+Route  B-55  which  passes  just  north  of  the  Augusta  Victoria  North  concession  group.    The
+Property is readily accessible from a paved highway and hence on dirt roads across the desert to
+access the individual prospects.  Total travel time from Antofagasta to the Property is about two
+and a half hours.  The City of Antofagasta, the capital of Antofagasta Region and Province with a
+population  of  345,420  (2012,  Wikipedia),  can  be  accessed  via  numerous  daily  flights  from
+Santiago  and  other  centres  in  the  north  of  the  country  and  from  Lima,  Peru.    Flight  time  from
+Santiago  to  Antofagasta  is  2  hours.    The  Pan-American  Highway  connects  Antofagasta  with
+Santiago, 1,100 km to the south and the rest of Chile.
+1.4
+History
+SQM historically exploited and explored for non-metallic minerals such as nitrates, sulphates and
+iodine  on  the  Property.    The  modern  form  of  this  exploration  was  by  drilling  short  reverse
+circulation holes on a 200 to 300 m grid, in a similar fashion to the early exploration programs
+using hand-dug pits.  The holes were drilled mainly in the areas of the pampas (plains).  The
+holes were concentrated in areas where they believed they would find caliche and so they were
+generally away from areas of obvious rock outcrop.
+SQM held the Property for non-metallic minerals and possibly conducted preliminary exploration
+for nitrates on the Property but no evidence was seen in the field for hand dug pits or short, grid
+drilled, RC holes which are the common methods used by SQM to explore for nitrites.  The author
+does not know the timing of this preliminary exploration.  The possible reason for limited nitrate
+exploration on the Property appears to be related to the geomorphology not being ideal for the
+formation of caliches.
+Recent  exploration,  in  2010-2011  was  focused  on  epithermal  gold-silver  vein  systems.    This
+exploration,  which  included  prospecting,  geochemical  sampling,  trenching,  mapping  and  RC
+drilling, was carried out only on the western concession group, as the northern concession group
+has no outcrop.
+1.5
+Geological Setting and Mineralization
+The Paleocene to early Eocene belt, hosting the third largest copper concentration in the central
+Andes, extends for ~1,900 km from southern Peru to central Chile (lat 17º–32º S) and averages
+30 to 50 km in width (Figure 7.2).  The belt is defined principally by porphyry-type deposits but
+also  includes  associated  epithermal  deposits  like  the  high-sulphidation  epithermal  enargite-
+bearing vein deposit at El Guanaco and epithermal gold-silver at El Peñon and at Faride.  The
+most important epithermal deposit in the belt is El Peñon.
+1.6
+Exploration and Drilling
+The initial exploration work was designed to verify the validity of previous work carried out on the
+Property and review the existing exploration targets.  Existing trenches were visited and selected
+samples were collected to verify the previously reported anomalies of trace elements. The RC
+chips from the short drill hole program carried out by the previous owners were reviewed and the
+existing geology mapping was reviewed.
+There is no current drilling on the Property.  The SQM RC drill program in 2010-2011 is the last
+drilling done on the property and is discussed in the history section.
+The  Property  is  considered  prospective  for  the  discovery  of  new  epithermal  gold-silver
+mineralization.
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 3
+1.7
+Mineral Processing and Metallurgical Testing
+There are currently no metallurgical studies for the Property.
+1.8
+Mineral Resources
+There are currently no 43-101-compliant Mineral Resource estimates for the Property.
+1.9
+Interpretations and Conclusions
+The  Pampas  El  Peñon  Property  displays  styles  of  mineralization  characteristic  of  the  low  to
+intermediate sulphidation epithermal deposits similar to El Peñon where the veins do not crop
+out on surface.  The Central Andean Paleocene belt is ~1900 kilometres long and extends from
+southern Peru to central Chile.  Mineralization is associated with an orogen-parallel metallogenic
+belt of highly prospective Jurassic and Paleocene-Early Miocene volcanic and intrusive rocks.
+  This  suite  of  rocks  hosts  the  Lomas  Bayas,  Spence,  Sierra  Gorda,  El  Peñon,  and  Mantos
+Blancos mines from the Antofagasta Region of Northern Chile and the region accounts for almost
+18% of world copper production (2011) and significant gold production.
+Current  exploration  on  the  Property  has  identified  five  priority  targets  with  geochemical  and
+geological features similar to the productive low- to intermediate-sulphidation epithermal veins
+found on Yamana Gold’s Pampa Augusta Victoria mine located immediately to the East of the
+property limit.
+The author has been unable to verify this information about Pampa Augusta Victoria and that the
+information may not be indicative of the mineralization on the Property.
+The Property is in the early exploration stage, the risks and uncertainties associated with this
+stage  of  exploration  are  the  challenges  in  discovering  new,  potentially  economic,  epithermal
+systems  on  a  property  where  the  majority  of  the  property  is  covered  by  recent  colluvial  and
+alluvial deposits.  The foreseeable impacts of these risks and uncertainties would be the failure
+to discover additional mineralization that would limit its exploration potential.
+The Pampas El Peñon property warrants further exploration for epithermal gold-silver systems
+with the potential of discovering a low to intermediate sulphidation epithermal deposit.
+1.10
+Recommendations
+The recommended exploration and work programs, in US dollars, for the five drill targets on the
+Property, are as follows:
+Phase I $889,000
+·
+Geophysical survey $7,000
+Ground Magnetic Survey
+·
+6,500 m RC drill program $715,000
+·
+Geologists $70,000
+·
+Assays $70,000
+·
+Truck rentals $10,000
+Includes fuel and maintenance
+·
+Accommodations $5,000
+·
+Travel $7,000
+·
+Supplies and misc. $5,000
+The work program will consist of 700-line kms of ground magnetics covering both concession
+groups.
+The RC drill program will test the five drill targets on the concession groups as detailed in Figure
+9.7.
+The Phase II program is contingent upon positive results from the Phase I program.  Following a
+thorough  compilation  and  review  by  a  qualified  person  the  following  Phase  II  drill  program  is
+recommended to further test significant results from Phase I:
+Phase II $220,000
+·
+1,500 m RC drill program $165,000
+·
+Geologists $20,000
+·
+Assays $20,000
+·
+Truck rentals and maintenance $5,000
+·
+Travel $5,000
+·
+Accommodations $3,000
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+July 4, 2016
+Page 4
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+·
+Supplies and misc. $2,000
+The follow up drill program is to test any significant results from Phase I.
+Program total $1,109,000
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+July 4, 2016
+Page 5
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+2.0
+INTRODUCTION
+2.1
+Introduction and Terms of Reference
+At the request of Rouge Resources Ltd.  (‘Rouge‘),  James  A.  McCrea,  P.  Geo.,  carried  out  an
+independent  review  of  the  Pampas  El  Peñon  Property  (the  ‘Property’)  in  the  Province  and
+Commune  of  Antofagasta,  Antofagasta  Region  (II),  Chile.    The  author  conducted  a  property
+examination and site visit, reviewed available exploration results and prepared this independent
+technical report (the ‘Report’).  The report was prepared in accordance with the requirements of
+National  Instrument  43-101  (‘NI  43-101’)  and  Form  43-101F1  (Standards  of  Disclosure  for
+Mineral Properties) to be a comprehensive review of the exploration activities on the property,
+and, if warranted, to provide recommendations for future work.  For the purposes of NI 43-101, the
+Property is considered an early-stage exploration property.  This Report is intended to be read in
+its entirety.
+2.2
+Site Visit
+The author, an independent qualified person according to NI 43-101, visited the Property on May
+31st, 2016.  The author examined several mineral showings, trenches and historic drill pads, and
+collected  two  verification  samples  from  surface  showings  or  trenches.    The  Property  is
+considered an exploration-stage property with the North prospect having no drilling and the West
+prospect drilling shows no significant assay results but do provide geochemical and geological
+information.
+2.3
+Sources of Information
+The author was not involved in any previous exploration activities on the Property.  This report
+refers  to  the  past  works  undertaken  by  other  qualified  geologists  and  professional  field
+personnel.    Other  non-project  specific  reports  by  qualified  personnel  have  been  referenced
+whenever  possible.    The  information,  conclusions,  opinions  and  recommendations  are  based
+upon:
+·
+information available to the author at the time of the preparation of this report;
+·
+assumptions, conditions and qualifications as set forth in this report; and
+·
+data, reports and other information provided by Arena Minerals Inc. and other third party sources.
+·
+reports  from  the  operating  mines  in  the  area,  plus  other  published  government  reports  and
+scientific papers.
+·
+During  the  site  visit  and  while  preparing  this  report,  the  author  reviewed  all  of  the  readily
+available  exploration  and  technical  reports  pertaining  to  this  property.    This  exploration
+information is of good quality, and there is no reason to believe that any of the information is
+incomplete or inaccurate.
+Information concerning mining concessions was provided by Arena Minerals Inc. (‘Arena’), the
+Property vendor, and has not been independently verified by the author.  Population statistics,
+weather  and 
+from  Wikipedia
+(http://www.en.wikipedia.org/wiki/antofagasta).    A  detailed  list  of  references  and  sources  of
+information is provided in the References section of this report.
+the  project  area  was  obtained
+for
+local
+information
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 6
+2.4
+Abbreviations and Units of Measure
+Metric units are used throughout in this report and currencies are in United States Dollars (US$)
+unless otherwise stated.  Market gold or silver metal prices are reported in US$ per troy ounce.  A
+list of abbreviations that may be used in this report is provided below.
+Abbreviation Description
+%
+AA
+Ag
+AMSL
+as
+Au
+AuEq
+Az
+percent
+atomic absorption
+silver
+above mean sea level
+arsenic
+gold
+gold equivalent grade
+azimuth
+Abbreviation Description
+ 
+li
+  m
+  m2
+  m3
+  Ma
+  mg
+  mm
+limonite
+metre
+square metre
+cubic metre
+million years ago
+magnetite
+millimetre
+square millimetre
+mm2
+b.y.
+CAD$
+cl
+cm
+cm2
+cm3
+cc
+cp
+Cu
+cy
+°C
+°F
+DDH
+ep
+ft
+ft2
+ft3
+g
+gl
+go
+GPS
+gpt
+ha
+hg
+hm
+ICP
+kf
+kg
+km
+km2
+l
+mm2
+  mm3
+  mn
+  Mo
+  Moz
+  ms
+  Mt
+  mu
+  m.y.
+  NI 43-101
+opt
+ 
+ 
+oz
+  Pb
+pf
+ 
+ppb
+ 
+ 
+ppm
+ 
+py
+  QA
+  QC
+ 
+qz
+  RC
+billion years
+Canadian dollar
+chlorite
+centimetre
+square centimetre
+cubic centimetre
+chalcocite
+chalcopyrite
+copper
+clay
+degree Celsius
+degree Fahrenheit
+diamond drill hole
+epidote
+feet
+square feet
+cubic feet
+gram
+galena
+goethite
+Global Positioning System   RQD
+grams per tonne
+sb
+hectare
+Sedar
+mercury
+hematite
+induced coupled plasma
+potassic feldspar
+kilogram
+kilometre
+square kilometre
+litre
+SG
+ 
+sp
+st
+ 
+t
+ 
+ 
+to
+ 
+um
+  US$
+  Zn
+cubic millimetre
+pyrolusite
+Molybdenum
+million troy ounces
+sericite
+million tonnes
+muscovite
+million years
+National Instrument 43-101
+ounces per short ton
+troy ounce (31.1035 grams)
+lead
+plagioclase
+parts per billion
+parts per million
+pyrite
+Quality Assurance
+Quality Control
+quartz
+reverse circulation drilling
+rock quality description
+antimony
+System for Electronic
+Document Analysis and
+Retrieval 
+specific gravity
+sphalerite
+short ton (2,000 pounds)
+tonne (1,000 kg or 2,204.6 lbs)
+tourmaline
+micron
+United States dollar
+zinc
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+July 4, 2016
+Page 7
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+2.5
+Acknowledgements
+The author wishes to thank the officers and personnel of Arena Minerals Inc. for providing the
+technical materials and the assistance required to prepare this report.
+3.0
+RELIANCE ON OTHER EXPERTS
+For this report, the author was provided with a letter from a law firm in Santiago confirming the
+validity and status of the option agreement and that concession information is current as of July 4,
+2016  when  the  title  opinion  was  requested.    The  law  firm  is:  Morales  &  Besa  –  Av.  Isidora
+Goyenechea 3477, Piso 19, Las Condes, Santiago, Chile
+Morales & Besa also provided the Chilean Mining Regulations found in Section 4.3 of this report.
+The author is not an expert in legal matters, such as the assessment of the legal validity of mining
+concessions, mineral rights, and property agreements.  The author did not conduct any detailed
+investigations of the environmental or social-economic issues associated with the Property, and
+the author is not an expert with respect to these issues. The author has relied on Arena and SQM
+to  provide  full  information  concerning  the  legal  status  of  mineral  tenures,  material  terms  of  all
+agreements, and material environmental and permitting information that pertain to the Property.
+ The author has not personally verified the concession titles.
+This report has been prepared for use by Rouge Resources Ltd.  The Report is intended to be
+read as a whole, and sections or parts thereof should therefore not be read or relied upon out of
+context.
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 8
+4.0
+PROPERTY DESCRIPTION and LOCATION
+4.1
+Property Location
+The Pampas El Peñon Property is located in the Antofagasta Region (II) of northern Chile, 140
+kilometres southeast of the city of Antofagasta in the Province and Municipality (Commune) of
+Antofagasta.    The  geographic  coordinates  near  the  centre  of  the  Property  are  approximately
+latitude 24° 11’ S by longitude 69o 26’ W or in WGS 84 Zone 19S, at 7,326,000 m North by
+456,000 m East. The Property location is shown in Figure 4.1 along with local infrastructure and
+highways.
+4.1
+Property Description
+The Property is located in an area with extensive mining development and neighbouring world-
+class  gold  and  copper  mines.    The  property  covers  a  poorly  tested  portion  of  the  highly
+prospective  Paleocene-Early  Eocene  magmatic  arc  rocks  known  as  the  Paleocene  belt.    The
+Property is adjacent to the epithermal Pampa Augusta Victoria (PAV) deposit of Yamana Gold’s
+El Peñon mine and contains similar geochemical and structural features, which are prospective
+for  the  discovery  of  low  to  intermediate  epithermal  gold/silver  systems  similar  to  those  in
+production at El Peñon.
+The author has been unable to verify this information about Pampa Augusta Victoria and that the
+information may not be indicative of the mineralization on the Property.
+The  property  consists  of  two  groups  of  contiguous  mining  concessions  containing  13
+concessions and totalling approximately 3,400 ha.  The concessions are all mining concessions
+and  are  owned  by  SQM  under  option  to  Rouge.    The  concessions  are  permitted  mining
+concessions  and  maintenance  of  the  concessions  requires  the  payment  of  an  annual  tax  or
+canon to the Chilean government.  The annual tax has been paid for 2016.  The concessions
+optioned to Rouge are listed in Table 4.1 and shown in Figure 4.2.
+Table 4.1: Pampas El Peñon Property Mining Concessions
+FID
+Name
+Concession Group
+Area Ha
+ROL
+FID
+Name
+Concession Group
+Area Ha
+ROL
+AUGUSTA 46 DEL 1 AL
+20
+Augusta Victoria West
+200
+494-2006
+AUGUSTA 47 DEL 1 AL
+30
+Augusta Victoria West
+300
+495-2006
+AUGUSTA 48 DEL 1 AL
+30
+Augusta Victoria West
+300
+496-2006
+AUGUSTA 49 DEL 1 AL
+30
+Augusta Victoria West
+300
+497-2006
+AUGUSTA 55 DEL 1 AL
+15
+Augusta Victoria North
+150
+503-2006
+AUGUSTA 56 DEL 1 AL
+20
+Augusta Victoria North
+200
+504-2006
+AUGUSTA 57 DEL 1 AL
+25
+Augusta Victoria North
+250
+505-2006
+AUGUSTA 58 DEL 1 AL
+30
+Augusta Victoria North
+300
+506-2006
+AUGUSTA 59 DEL 1 AL
+30
+Augusta Victoria North
+300
+507-2006
+Augusta Victoria North
+Augusta Victoria West
+Augusta Victoria West
+Augusta Victoria West
+300
+200
+300
+300
+508-2006
+15.866
+15.867
+15.868
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+AUGUSTA 60 DEL 1 AL
+30
+GRILLO V 1/20
+GRILLO VI 1/30
+GRILLO VII 1/30
+Note: Title information effective July 4, 2016
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+July 4, 2016
+Page 9
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+4.2
+Surface Rights and Permits
+The  government  of  Chile  owns  the  surface  rights  and  there  are  no  permits  or  agreements
+required for access to the Property.  Permits for basic exploration are not required in Chile and
+SQM, the original owner, had acquired the necessary permits to drill the Property.  There is no
+surface water on the Property and as such, no water permit is required.
+4.3
+Environmental Liabilities
+To  the  best  of  the  author’s  knowledge,  there  are  no  known  environmental  liabilities  or
+encumbrances on the Property.
+Figure 4.1: Location Map of the Pampas El Peñon Property
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 10
+Figure 4.2: Mining Concession Map of Pampas El Peñon Property
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+James A. McCrea, P.Geo.
+Antofagasta,
+Antofagasta Region (II), Chile
+July 4, 2016
+July 4, 2016
+Page 11
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+4.4
+Underlying Agreements
+4.4.1
+Rouge Resources and Arena Minerals
+Arena Minerals Inc. executed with Rouge Resources Ltd. a letter of intent, dated May 26, 2016,
+regarding the acquisition by Rouge of 100% of Arena Minerals’ interest in an option agreement to
+acquire  between  85%  and  100%  of  various  claim  blocks,  collectively  called  the  Pampas  El
+Peñon  project  on  February  11,  2013.    To  earn  this  interest,  Rouge  will  pay  Arena  9,550,000
+common shares and assume Arena‘s requirement to pay to the Sociedad Química y Minera de
+Chile  S.A.  certain  annual  payments  and  complete  certain  minimum  work  commitment
+expenditures over the remainder of the four year period on a per hectare basis.  Rouge will issue
+5,350,000  common  shares  to Sociedad Química y Minera de Chile S.A. for consideration of a
+waiver  by  SQM  of  the  exploration  commitments  under  the  option  agreements  and  for  the
+purchase of a 15% ownership in 1700 hectares bringing Rouges final interest in the Property to
+100%.  The waiver limits the total work commitment as not more than $1.83 million.  Rouge is
+required to pay SQM $225,000 and complete the work commitment of not more than $1.83 million
+by July 27, 2017.
+Sociedad Química y Minera de Chile S.A. sent the author a signed consent letter for the transfer
+of Arena’s interest in the Property to Rouge.
+4.4.2
+Arena Minerals and Sociedad Química y Minera de Chile
+Arena Minerals, formally Antofagasta Gold, entered into an option agreement dated February 21,
+2013  with Sociedad Química y Minera de Chile S.A. (‘SQM’, the “Vendor”) to acquire between
+85% and 100% of various claim blocks, collectively called the Pampas El Peñon  property.  The
+Pampas El Peñon  property has been reduced to two groups of claims, the worked claims and
+the greenfield claims, based on the mineral exploration work completed by the Vendor.
+Pursuant  to  the  option  agreement  entered  into  between  the  Company  and  the  Vendor  with
+respect to the 4,300 hectares of worked claims, the Company may acquire a 100% interest in
+the  property  by  making  aggregate  cash  payments  to  the  Vendor  and  incur  exploration  and
+development expenditures on the worked claims over the option term as listed in Table 4.2.
+Table 4.2: SQM Agreement Summary – Worked Claims
+Timing
+On signing, Feb
+21, 2013
+By May 11,
+2014
+By Feb. 11,
+2015
+By Feb. 11,
+2016
+By Feb. 11,
+2017
+Totals
+Maximum
+Land
+Package
+(ha)
+Work
+Commitments
+(USD/ha)
+Maximum
+Work
+Commitments
+(USD)
+4,300
+-
+-
+2,400
+$150
+2,400
+1,700
+1,700
+1,700
+$250
+$325
+$350
+$1075
+$360,000
+(incurred)
+$600,000
+(incurred)
+$552,500
+$595,000
+$2,107,500
+Cash
+Maximum Cash
+Payment
+(USD/ha)
+$10
+$20
+$50
+$130
+$240
+$450
+Payments
+(USD)
+$43,000
+(completed)
+$86,000
+(completed)
+$120,000
+(completed)
+$279,500
+$408,000
+$936,500
+(Arena Minerals MD&A, Q1, 2013)
+The Vendor shall retain a sliding-scale royalty of 0.8% - 5% with respect to the precious metals
+produced from the Pampas El Peñon  property.
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 12
+In addition, pursuant to the option agreement entered into between the Company and the Vendor
+with  respect  to  various greenfield  claims,  the  Company  may  acquire  an  85%  interest  in  the
+property  by  making  aggregate  cash  payments  to  the  Vendor  and  incur  exploration  and
+development expenditures on the greenfield claims over the option term as listed in Table 4.3.
+Table 4.3: SQM Agreement Summary – Greenfield Claims
+Timing
+On signing, Feb
+21, 2013
+By May 11,
+2014
+By Feb. 11,
+2015
+By Feb. 11,
+2016
+By Feb. 11,
+2017
+Totals
+Maximum
+Land
+Package
+(ha)
+14,900
+6,250
+6,250
+1,700
+1,700
+1,700
+Work
+Commitments
+(USD/ha)
+Maximum
+Work
+Commitments
+(USD)
+-
+$10
+$20
+$50
+$290
+$370
+-
+$62,500
+(incurred)
+$125,000
+(incurred)
+85,000
+$493,000
+$765,500
+Cash
+Maximum Cash
+Payment
+(USD/ha)
+$1
+$3
+$6
+$15
+$40
+$65
+Payments
+(USD)
+$14,900
+(completed)
+$18,750
+(completed)
+$37,500
+(completed)
+25,500
+68,000
+$156,000
+(Arena Minerals MD&A, Q1, 2013)
+The Company may reduce the land position by any number of hectares it chooses at its sole
+discretion during the term of the option agreement, thus reducing the size of its worked claims
+property package, future payments and exploration commitments.
+4.4.2.1
+Property Reductions and Payment Dates
+On February 11, 2014, the Company entered into an agreement with the Vendor to extend the
+February 11, 2014 cash payment and exploration and development expenditure to May 11, 2014
+for a cash payment of US$30,000.
+On May 11, 2014, the Company reduced its land position to 2,400 hectares of worked claims and
+6,250  hectares  of  Greenfield  claims.      On  February  27,  2015,  the  Company  reduced  its  land
+position to 1,700 hectares of worked claims and 1,700 hectares of Greenfield claims.
+On  April  18,  2016,  the  Company  entered  into  an  agreement  with  the  Vendor  to  extend  the
+February  11,  2016  cash  payment  and  exploration  and  development  expenditure  for  a  cash
+payment of US$50,000.
+4.5
+Chile Mining Regulations
+Chile’s  mining  policy  is  based  on  legal  provisions  that  were  enacted  as  part  of  the  1980
+Constitution.  These were established to stimulate the development of mining and to guarantee
+the  property  rights  of  both  local  and  foreign  investors.    According  to  Chilean  Constitution  and
+relevant laws, such as the Constitutional Organic Law on Mining Concessions, enacted in 1982
+and the Mining Code, enacted in 1983, the State owns all mineral resources, but exploration and
+exploitation of these resources by private parties is permitted through mining concessions, which
+are granted by the courts (Morales & Besa, 2015).
+The  National  Geology  and  Mining  Service  (“SERNAGEOMIN”)  is  the  Government  agency  in
+charge of providing geological information, technical assistance to public and private interests
+and to regulate the mining industry in Chile.
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+July 4, 2016
+Page 13
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+4.5.1
+Mineral Tenure
+Mining concessions grant both rights and obligations, as defined by the Constitutional Organic
+Law on Mining Concessions and the Mining Code.  Concessions, as soon as they are registered,
+can  be  mortgaged  or  transferred  and  the  concession  holder  has  full  ownership  of  the  rights.
+ Once the concessions are granted, the holder is entitled to obtain the necessary easements and
+rights of way to facilitate the exploration and exploitation.  In addition, the concession holder has
+the  right  to  defend  his  ownership  against  the  State  and  third  parties,  including  the  owner  of
+surface  rights,  as  detailed  below.    A  concession  includes  all  relevant  minerals  that  may  exist
+within an area, and is obtained by filing a claim application and processing it through a judicial
+procedure.1 Many of the steps involved in the constitution of mining concession are published
+weekly in Chile’s Official Mining Bulletin for the relevant region.
+Mining rights in Chile are acquired in the following stages:
+Pedimento:
+A Pedimento is an initial exploration claim whose position is well defined by UTM coordinates
+defining north-south and east-west boundaries.  The minimum size of a Pedimento is 100 ha,
+and the maximum size is 5,000 ha, with a maximum length-to-width ratio of 5:1.
+The duration of an exploration concession is for a maximum period of 2 years; however, at the
+end of this 2 year period, the holder of the concession may apply for an extension of 2 additional
+years if he resigns at least 50% of the total surface of the original concession. The holder of the
+concession  must  pay  a  yearly  mining  property  payment  every  March.    If  this  obligation  is  not
+fulfilled  properly,  the  holder  may  still  restore  it  to  good  standing  by  paying  twice  the  annual
+property payment before the concession is taken to auction.  After that, the concession could be
+bought by a third party or declared terminated by the relevant court.
+N e w Pedimentos  are  allowed  to  overlap  with  pre-existing  ones;  however,  the  underlying
+(previously staked) claim or granted exploration concession have a preference right over the new
+claims  or  granted  exploration  concessions.    If  a  third  party  wants  to  measure  or  survey
+(“Mensurar”) over the area, the holder of the underlying claim or granted exploration concession
+must object to the new claim in the relevant time period, otherwise he will lose his preference
+right to obtain an exploitation concession over the area where eventually the court may grant the
+third party an exploitation concession.
+Manifestación:
+A  Manifestación  is  an  initial  exploitation  claim  whose  position  is  well  defined  by  UTM
+coordinates  defining  north-south  and  east-west  boundaries.    The  minimum  size  of  a
+Manifestación is 1 ha, and the maximum size is 10 ha.  One Manifestación (claim) can contain
+one or more pertenencias (exploitation applications) but the Manifestación cannot exceed in total
+1.000 ha.
+________________________________
+1 According to the Constitution minerals are classify  into three groups: (i) Minerals which only the
+State can take advantage of, such as lithium, oil and other minerals expressly set forth by the
+Law; (ii) Minerals which are not considered as such by the Law, therefore, belong to the owner of
+the surface/land, such as the superficial clays and others also stated by the Law; and (iii) The
+remaining  minerals  which  are  not  included  in  the  previous  groups,  which  can  be  subject  to
+exploration or exploitation concessions.
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 14
+The duration of an exploitation concession is undefined as long as the holder pays the mining
+property payments.  Furthermore, the holder must pay a yearly mining property payment every
+March.  In case this obligation is not fulfilled properly, the holder could restore it to good standing
+by paying twice the annual property payment before the concession is taken to auction.  After
+that, the concession could be bought by a third party or declared terminated by the relevant court.
+A Manifestación could be the result of exercising the preference right granted by an exploration
+concession or it could be filed by any person who was not necessarily the previous holder of an
+exploration concession.
+Within 220 days of filing a Manifestación, the applicant must file a request for survey (”Solicitud
+de Mensura”) before the relevant court, in which case the court will order its publication in the
+Official Mining Bulletin.  Subsequently, third parties may oppose the survey (“Mensura”) within 30
+days from the request for survey publication.
+Mensura:
+The time period to do the Mensura will depend on the filing of objections by third parties.  If no
+objection has been filed, the survey can be made once the period of time to file objections has
+expired and within 15 months from the application of the Manifestación.  If an objection has been
+filed, the survey can only be executed once the opposition trial had ended by a final resolution of
+the relevant court.  In this last event, even though the term of 15 months mentioned before does
+not  apply,  the  procedure  must  not  be  suspended  for  more  than  three  months.    Otherwise,  the
+court will declare the expiration of the procedure.  Once surveyed and the Survey Certificate and
+map presented to the court and reviewed by the National Mining Service (“SERNAGEOMIN”),
+the application is granted by the court as a permanent property right (“Pertenencia”),  which  is
+equivalent to a “patented claim” or exploitation right.
+Claim Processes:
+At each of the stages of the claim-acquisition process, several steps are required (application
+filing,  publication  and  registration,  fees  payments,  proportionate  property  payment  and  survey
+application) before court grants a mining concession in favor of the applicant.  A full description of
+this process is documented in Chile’s Mining Code.
+Many of the steps involved in granting the claim are published in Chile’s Official Mining Bulletin
+for the relevant region (published weekly).  At the Mensura stage if third party oppositions are
+filed, a process for resolution of conflicting claims is allowed.  Most companies in Chile retain a
+mining claim specialist to review the weekly mining bulletins and ensure that their land position
+is kept secure.
+Fees:
+There are two types of mining payments.  The first type, the holder of a mining concession has to
+pay a yearly license fee equivalent to a fiftieth % of the Monthly Tax Unit (UTM) per hectare in the
+case of exploration concessions, and the equivalent to a tenth % of a UTM per hectare in the
+case of exploitation concessions.  The payment must be made in the month of March of each
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 15
+year.  Failure to pay the annual property payment may result in the loss of the mining concession
+title. Nevertheless, the holder could pay after the expiration of the legal term but charged with the
+double amount and before the auction.
+The second type of mining payment refers to a proceeding fee that the holder of the claim must
+pay before the application for the granting judgement, in the case of an exploration concession,
+or before the survey application, in case of exploitation concessions.  This fee is equivalent to
+half, two, three or four hundredths of a UTM depending on if the Pedimento has less than 300 ha,
+less than 1.500 ha, less than 3.000 or more than 3,000 ha, respectively, and the equivalent to
+one, two, four, or five hundredth of a UTM depending on if the Manifestación has less than 100
+ha, less than 300, less than 600, or more than 600 ha, respectively.
+The owner of an exploration or an exploitation concession is not obligated to do mining works or
+expend  work  or  money  on  such  activities.    The  only  obligation  of  the  owner  has  to  retain  the
+concession is to pay the annual license fee.
+4.5.2
+Surface Rights
+Concession owners are not required to have surface rights over the underlying land; however,
+they do have the right to explore or mine the concession.  Articles 120 to 125 of the Chilean
+Mining Code refer to mining easements.  Mining laws recognize the necessity of easements for
+exploring and mining a project, and, therefore, the law seeks to facilitate their constitution.  In
+case there is no agreement with the owner of the surface rights, the law establishes a summary
+procedure  through  the  Courts  for  obtaining  easements  and  determine  the  amount  of  the
+compensation to be paid to the owner of surface rights.  Easements must be established for the
+particular purpose of benefit to the concession.  Therefore, easements are essentially temporary
+and will expire with the concession or be restricted or extended according to the activities for
+which the easements were granted.
+4.5.3
+Rights of Way
+The Mining Code also grants the holder of a mining concession general rights to establish rights
+of way, subject to payment of reasonable compensation to the owner of the surface land.  Rights
+of way are granted through a private agreement or court decision, which indemnifies the owner of
+the surface land or any person that might be affected by the easement.  A right of way must be
+established for a particular purpose and will expire after cessation of activities for which the right
+of way was granted.  The owners of mining easements are also obliged to allow owners of other
+mining properties the benefit of rights of way, as long as this does not affect their own exploitation
+activities and for the appropriate compensation.
+4.5.4
+Water Rights
+Pursuant  to  the  Water  Code  the  use  of  continental  waters  -whether  from  superficial  or
+underground sources- is subject to the prior application for a water rights concession (derecho de
+aprovechamiento  de  aguas),  granted  by  the  General  Waters  Bureau  (Dirección  General  de
+Aguas). This conditioning obeys to the nature of the waters as a “national good for public use”-
+jointly with the need for a rational first allocation of the available sources.  The administrative
+procedure  before  the  General  Waters  Bureau  includes  publications  in  the  official  gazette,
+technical reports and, eventually, the settlement of the opposition from third parties, to finally end
+with a resolution granting or rejecting –totally or partially - the applied water rights. It´s relevant to
+mention that only three requirements are necessary for the concession of water rights: (1) that no
+legal impediments exist; (2) that technical evidence exists that there are
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 16
+sufficient water resources at the natural source; and (3) that there is no overlapping with existing
+concessionaires.
+According  to  the  characteristics  of  the  water  rights,  they  may  be  consumptive  or  non
+consumptive,  permanently  or  eventually  exercisable,  and  continuously,  discontinuously  or
+alternately exercisable. Moreover, water rights are freely transferable to third parties.
+Additionally, articles 110 and 111 of the Chilean Mining Code establishes that the owner of a
+mining concession is entitled, by the sole operation of the law, to use waters found in the works
+within the limits of a mining concession, to the extent said waters are required for exploration,
+exploitation and processing works that may are needed pursuant to the type of concession in
+use.  The main characteristics of such water rights are the following: (i) they can only be used for
+mining purposes; (ii) they cannot be sold; and (iii) they are temporary, as they are inseparable
+from mining concession.
+4.5.5
+Safety Considerations
+The Supreme Decree No 132, issued on 2002 by the Mining Ministry (Mine Safety Regulation),
+establishes  the  main  safety  regulatory  framework  applicable  to  the  mining  industry.  Such
+regulations are enforced by the SERNAGEOMIN, which develops authorization processes and
+inspections over mining projects.
+Pursuant to the Mine Safety Regulation, prior starting or restarting operations, mining companies
+must submit for SERNAGEOMIN´s approval an exploitation plan or its modification, along with a
+closure plan as describe below.
+Moreover  the  Mine  Safety  Regulation  establishes  several  rules  for  the  mining  companies,
+applicable  mainly  to  operational  procedures,  machinery,  ventilation  conditions,  workers  safety
+equipment, works procedures, risk prevention, among others, which every mine site must fulfill
+considering its nature (open or underground mine).
+The  infringements  to  the  above  regulations  could  be  sanctioned  by  the  SERNAGEOMIN  with
+fines up to 50 UTM. Additionally, in case of persistence or serious infringements the mine site
+could be temporary or definitively close.
+4.5.6
+Mine Closure
+Law No 20.551, for Mine Closure, issued on 2011, established the legal framework applicable to
+closure of mining operations, as part of the life cycle of a mining project. The SERNAGEOMIN is
+entrusted with the approval and enforcement of the closure plans.
+Per the Mine Closure Law, prior starting operations, the owner of a mining project must submit a
+closure  plan  before  the  SERNAGEOMIN.  The  approval  procedure  varies  upon  the  project
+capacity: i) large operations with a capacity of more than 10,000 tonnes per month are required to
+submit a detail closure plan and a financial guarantee to ensure full compliance; ii) operations
+equal or less than 10,000 tonnes per month and exploration projects are subject to a simplified
+authorization procedure and no guaranty is required.
+The financial guarantee for large projects should comply with the following requirements:
+v
+The amount of the guarantee must cover the total value of the cost for the closure plan including
+post-closure, and is determined by an estimate of the current costs of the plan.
+v
+The guarantee must be updated from time to time.
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+July 4, 2016
+Page 17
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+v
+The guarantee must be paid in full within the first two-thirds of the estimated life of the project if
+less than 20 years or within a period of 15 years if the estimated life of the project is more than 20
+years.
+v
+The  granting  of  the  guarantee  must  begin  from  the  date  of  the  communication  made  to  the
+SERNAGEOMIN of the start of operations. Within 30 days from the mentioned communication
+and during the first year, the value of the guarantee must be equal to 20% of the total closure
+costs. From the second year on, the payment must be proportional and pro rata to the period
+which  remains  for  the  complete  amount.    The  guarantee  increases  until  the  total  value  of  the
+closure costs is deposited.  The instruments of guarantee must be liquid and easy to execute.
+The financial guarantee can be gradually released as the closure plan is executed.
+v
+Once the closure is complete and a certificate of final closure is issued by SERNAGEOMIN all
+guarantees will be released.
+v
+The  sufficiency  of  the  guarantee  will  be  determinate  by  the  SERNAGEOMIN  along  with  the
+Security  and  Insurance  Superintendence  in  accordance  with  the  nature  of  the  guaranties
+proposed.
+Mining companies that are obliged to provide a guarantee have a period of two years to estimate
+the  cost  of  the  closure  plan.  The  closure  plan  must  be  approved  under  the  Mining  Safety
+Regulations and the environmental impact assessment system, if applicable.
+4.6
+Taxation
+4.6.1
+Income Taxes
+4.6.1.1
+Taxation on Dividends
+1.
+General.
+Regardless of the form of the entity through which a business may be conducted in Chile, such
+business will be subject to the corporate tax (the “Corporate Tax”) which is assessed on the net
+accrued taxable income of such business, currently at a flat rate of 22.5% (year 2015).  Likewise,
+any  and  all  profit  distributions  by  a  Chilean  entity  to  non-residents  are  subject  to  a  35%
+withholding tax (“WHT”) upon remittance abroad.
+Depending on the type of taxation system ultimately chosen (which we explain below) and the
+jurisdiction in which the foreign investor has residence, all or part of the Corporate Tax paid at the
+local entity level may be credited against the WHT.
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 18
+2.
+Periods 2015 and 2016.
+In accordance to the tax reform recently enacted (“Tax Reform”), in the periods 2015 and 2016
+distributions to non-domiciled or non-resident shareholders or partners (other than non-taxable
+income or capital reimbursement) are subject to WHT at a 35% rate regardless of the type of
+Chilean entity distributing or remitting dividends or profits.2 A credit against such WHT for the
+Corporate Tax paid by the Chilean entity is available.  The rate of the Corporate Tax for year
+2016 is 24%.
+Under this regime the WHT applies by the time the dividends or profits are remitted, distributed,
+credited  to  the  account,  placed  at  the  disposal  or  paid  to  the  corresponding  shareholder  or
+partner.
+3.
+Period 2017 and onwards.
+As of January 1st, 2017, Chilean companies may opt between two tax systems: (i) an attributed
+income system or (ii) a partially integrated system.
+Please note that under the attributed income system and the partially integrated system the WHT
+will  apply  regardless  of  the  existence  of  taxable  profits  and  regardless  of  the  type  of  Chilean
+entity generating and remitting the respective dividends or profits.
+i.
+Attributed income system: under this system, companies will be subject to a Corporate Tax that
+will  gradually  increase  to  25%  over  the  course  of  the  subsequent  three  years,  having
+commenced in 2014 (increasing each year from 20 to 21%, 22.5% in 2015, 24% in 2016 and
+25% in 2017).  At the shareholder or partner level, a 35% WHT will apply on an “attributed basis”
+from year 2017.  As a result, any non-Chilean resident shareholder or partner will be required to
+pay  a  35%  WHT  while  Chilean  resident  shareholders  will  be  required  to  pay  the  progressive
+Impuesto Global Complementario (“Complementary Global Tax”), with rates ranging between
+0% and 35%, regardless of whether the Chilean company makes a profit distribution or dividend
+payment.  The Corporate Tax paid by such company will be creditable against the WHT and the
+progressive Complementary Global Tax.  The actual income distribution to the shareholders or
+partners will not be taxable.
+Therefore, under this regime the overall tax burden on Chilean source income will be 35%, since
+100% of the Corporate Tax paid will be available as credit.
+ii.
+Partially  integrated  system:  under  this  system,  shareholders  or  partners  will  be  taxed  by  the
+profits actually distributed by a company.  In this case, for the year 2017, the Corporate Tax will
+be 25.5%, and from year 2018 and onwards the Corporate Tax will be 27%.  When the income is
+actually  withdrawn  from  a  company,  non-Chilean  resident  shareholders  or  partners  will  be
+subject to a 35% WHT (while Chilean resident shareholders or partners will be required to pay
+the progressive Complementary Global Tax, with rates ranging between 0% and 35%) against
+which  65%  of  the  Corporate  Tax  already  paid  by  such  company  will  be  used  as  a  credit.
+ However, shareholders or partners resident in a country
+_________________________
+2 Please note that in accordance to the provisions in force until December 31, 2014, distributions
+to a non-resident partner (other than non-taxable income or capital reimbursement) made from
+limited liability companies and branches were subject to WHT at a 35% rate, provided they do
+not exceed the Corporate Tax taxable profits.  WHT on the excess was deferred up to the next tax
+year when such taxable profits were available.  This is no longer available.
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 19
+with  which  Chile  has  agreed  a  double  taxation  treaty  will  have  the  right  to  deduct  a  credit  of
+100% of the Corporate Tax already paid on the relevant income.
+Therefore,  under  this  system  from  year  2018  and  onwards  the  overall  tax  burden  on  Chilean
+source income for foreign investors resident or domiciled in non-treaty countries will be increased
+from 35% to 44.45% as the full Corporate Tax credit will be included in the taxable base of the
+corresponding WHT, but only 65% of said Corporate Tax is actually creditable.3 Nevertheless,
+regarding foreign investors resident or domiciled in countries with which Chile has a tax treaty in-
+force, the overall tax burden will remain at 35% as these taxpayers are allowed to use as credit
+100% of the Corporate Tax.
+Although the applicability of a treaty executed under the OECD model does not reduce the WHT
+rate  to  be  applied  in  Chile  on  dividends  or  profits  (35%),  this  situation  allows  the  foreign
+shareholder or partner to have a total tax burden of 35%, even in the case the Chilean entity opts
+to  the  partially  integrated  system  referred  to  above.    Therefore,  please  note  that  having  a
+shareholder or partner domiciled in a country with which Chile has a tax treaty would compare
+favorably against the alternative of investing through a jurisdiction with no OECD treaty.
+Currently Chile has 25 treaties in force under the OECD model, with the following jurisdictions:
+Australia,  Belgium,  Brazil,  Canada,  Colombia,  Croatia,  Denmark,  Ecuador,  France,  Ireland,
+Korea,  Malaysia,  Mexico,  Norway,  New  Zeeland,  Paraguay,  Peru,  Poland,  Portugal,  Russia,
+Spain, Sweden, Switzerland, Thailand and the United Kingdom.
+4.6.1.2
+Taxation on Capital gains
+1.
+General.
+Generally, any gains obtained in the transfer of shares or equity rights will be taxable in Chile.
+ Due to the changes introduced by the Tax Reform, which will be fully in force in year 2017, there
+are special and provisory regimes for years 2015 and 2016.  As explained below, under certain
+circumstances, double taxation treaties provide for reduced taxation on capital gains derived from
+the transfer of shares or equity rights.
+2.
+Periods 2015 and 2016.
+The taxable gain is the sales price less the acquisition value adjusted by inflation.  When the
+owner of shares is a foreign investor that has registered its investment under DL 600, the tax
+basis  corresponds  to  the  higher  between  purchase  price  adjusted  for  inflation  or  the  amount
+originally brought in, converted into Chilean pesos at the date of the sale.
+Generally,  the  gain  would  be  taxable  with  an  overall  tax  burden  of  35%,  composed  by  the
+Corporate Tax at a rate of 22.5% (for year 2015) or 24% (for year 2016), plus the 35% WHT, but
+with the Corporate Tax being a credit against the WHT.
+Alternatively, the gain may be subject to the Corporate Tax as single tax treatment at a rate of
+22.5%  (for  year  2015)  or  24%  (for  year  2016).    The  sale  will  be  eligible  for  this  regime  if  the
+following three conditions are met: (i) the shares have been held for more than one year; (ii) the
+seller is not habitual (i.e., it is not deemed to participate in the business of buying and selling
+shares); and (iii) the sale is to an unrelated entity.
+____________________________
+3  For  year  2017  only,  the  overall  tax  burden  on  Chilean  source  income  for  foreign  investors
+resident or domiciled in non-treaty countries will be increased from 35% to 43.925%.
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 20
+There is a special tax regime allowing for exemption for the gain obtained on the sale of shares
+of  publicly  traded  companies  with  trading  presence,  when  the  sale  has  been  performed  in  a
+Chilean stock exchange or in another stock exchange authorized by the SVS (Chilean SEC) or
+in a public offer process, and provided they were purchased in a stock exchange or in a public
+offer  process  or  in  the  placement  of  shares  of  first  issue  due  to  an  incorporation  or  capital
+increase, or as a result of the exchange of bonds convertible into shares.
+3.
+Period 2017 and onwards.
+The tax basis is the same, this is, the sale price less the acquisition value adjusted by inflation.
+ However, taxpayers subject to the attributed income system which provides for a full integration
+(explained above) are entitled to deduct from the gain the portion of undistributed direct income
+(i.e.  income  that  has  been  previously  attributed  to  shareholders  and  taxed)  corresponding
+proportionally to the shares sold.
+The Tax Reform eliminates the possibility of having the capital gains realized either by residents
+or non-resident taxpayers on the disposition of shares or equity rights qualify for a sole capital-
+gain tax at the rate of the Corporate Tax.
+Under the new rules, the capital gain realized by non-resident will be subject to WHT at a rate of
+35% on net gain in all cases.  However, there are two possible scenarios, which at the end result
+in the same tax burden of 35%, having the only difference of the moment in which the taxes have
+to be paid and declared.  These scenarios are: (a) in case the sale of shares or equity rights is
+made  within  one  year  of  its  acquisition,  the  capital  gain  will  be  subject  to  Corporate  Tax  and
+WTH, on a cash or accrual basis; and (b) if the sale of shares or equity rights is made after 1 year
+of its acquisition, the capital gain will be subject to WHT with a rate of 35% as single tax on a
+cash or accrual basis. The difference is that under scenario (a) the Corporate Tax is paid in the
+month following the sale, and the shortfall between the Corporate Tax paid and the WHT, will
+have to be paid in April of the year following the sale.  In scenario (b) the WHT as single tax, has
+to be paid in April of the year following the sale.
+It  should  be  noted  that  the  applicability  of  several  treaties  executed  under  the  OECD  model
+reduces  the  WHT  rate  to  be  applied  in  Chile  on  capital  gains.    Under  certain  circumstances
+described in detail in each of the treaties, Spain, United Kingdom, France, Australia, Belgium,
+Ireland, Portugal and Sweden limits the WHT at 16%; Colombia and Switzerland limits the WHT
+at 17%, and Korea and Croatia limits the WHT at 20%.
+4.6.1.3
+Investments under Decree Law 600 (“DL 600”)
+As an alternative, until 31 December 31st 2015, an investment contract can be signed between a
+foreign investor and the government, allowing the investor to choose a tax rate that is effectively
+fixed at 42% for a period of 10 years.  This period can be extended up to 20 years if the Foreign
+Investment Committee grants to the foreign investor the rights contained in Article 11 bis of DL
+600.  The investor can choose to return to the normal tax regime only once.
+Foreign investors and their local companies are subject to the generally applicable indirect taxes
+(value-added  taxes)  and  import  duties.    However,  investors  may  request  that  their  foreign
+investment contracts include a clause providing that, for the term they are authorized to make the
+investment,  the  rates  of  both  the  value-added  taxes  and  import  duties  applicable  to  the
+importation  of  machinery  and  equipment  not  produced  in  Chile  will  be  kept  invariable,  to  the
+extent that these goods are included in a list prepared for this purpose by the Ministry of
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 21
+Economy, i.e., “grandfathered.” In such cases, the invariability will also apply to the companies
+receiving the foreign investment.
+In addition, investments on capital assets made by foreign investors under DL 600 that meet all
+the  requirements  listed  above  will  be  exempt  from  the  value-added  tax  applied  on  imported
+goods.
+It should be noted that DL 600 provides for further tax benefits depending on the amount of the
+respective investment project:
+1.
+Special tax regime for projects exceeding USD$50 million (Article 11 bis of DL 600): Under this
+regime, for investments of more than USD$50 million, the purpose of which is the development of
+industrial or extractive projects, including mining schemes, the following terms and rights may
+apply, if included in the foreign investment agreement: (a) the 10 year period referred to may be
+extended  to  20  years;  (b)  investors  may  effectively  freeze  all  tax  legal  provisions,  as  well  as
+interpretative  resolutions  of  the  Chilean  Internal  Revenue  Service  in  force  at  the  date  of
+execution of the contract, which relate to asset depreciation regimes, carrying forward of losses
+and  start-up  and  organizational  expenses;  (c)  investors  may  carry  their  accounting  records  in
+foreign currency; and (d) other benefits to be applied on projects involving the export of goods.
+In order to authorize this special regime, the Foreign Investment Committee must have previously
+received  a  favourable  report  issued  by  the  Council  of  the  Central  Bank,  which  sets  out  the
+operational  guidelines  and  conditions  regarding  access  to  foreign  currency  markets  to  remit
+capital and profits abroad.  Compliance with these guidelines and conditions is supervised by the
+Central Bank.
+2.
+Special tax regime for mining projects exceeding USD$50 million (Article 11 ter of DL 600: In the
+case  of  investments  of  at  least  USD$50  million,  the  purpose  of  which  is  the  development  of
+mining projects, the following terms and rights may apply for a term of 15 years, starting from the
+commencement  of  operations  of  the  company,  provided  that  they  are  included  in  the  foreign
+investment agreement: (a) investors can stipulate that the legal provisions regarding the specific
+tax on mining activities referred to in Articles 64 bis and 64 ter of the Income Tax Law applying at
+the time the foreign investment contract is signed, are invariable; (b) investors will not be affected
+by new taxes, including royalties or similar tax burdens, applied specifically on mining activities
+established  after  the  signature  of  a  foreign  investment  agreement;  (c)  investors  will  not  be
+affected by amendments to the amount or method of calculation of the exploration or exploitation
+mining licenses established in the Mining Code.
+The rights established in Article 11 ter are not compatible with those granted by Article 11 bis and
+the  invariable  tax  regime  for  income  tax  indicated  above,  except  for  the  right  to  maintain
+accounting in foreign currency.
+4.6.1.4
+Customs Duties
+Generally a flat rate of 6% is applicable on the cost, insurance and freight (C.I.F.) value for goods
+imported to Chile.  Goods which are considered as an original product from countries with which
+Chile has special free trade agreements are subject to lower import taxes or may be tax exempt.
+4.6.1.5
+Value Added Tax
+A  19%  Value  Added  Tax  ("VAT")  applies  to  sales  and  other  transactions  involving  tangible
+personal property, payments for certain services and certain real estate transactions.
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 22
+VAT applies to the sales of all movable physical assets sold by a person who is a customary
+seller, and to certain services rendered by business entities, as opposed to professionals.
+The  tax  basis  for  VAT  purposes  is  the  price  of  the  goods  or  services,  including  monetary
+correction, interests, finance charges and penalty interest.
+All persons and entities that engage in activities related to goods or services subject to VAT must
+register with the tax authorities, and must issue stamped and registered receipts or invoices for
+every transaction.
+The VAT liability is determined on a monthly basis, and is calculated over the amount of VAT
+charged by the taxpayer on all sales made and services rendered (VAT debit), minus a credit for
+VAT paid by the taxpayer on acquisitions and services received during the same period (VAT
+credit).
+The VAT credit must be evidenced with the appropriate and duly stamped invoices issued by the
+suppliers of goods and services.  If the credit during a given month is greater than the tax due, the
+difference  can  be  carried  forward  and  credited  against  future  payments,  after  being  adjusted
+according to the Chilean inflation. Declaration and payment of VAT is made on a monthly basis
+with special forms provided by the Treasury Service.
+DL 600 establishes that foreign investments in tangible assets shall be subject to the general tax
+regulations  and  valued  added  tax.    However,  foreign  investors  may  freeze  the  VAT  (19%  at
+present) as well as the taxes for imported capital equipment at the prevailing rates as of the date
+of investment.  This special regime applies throughout the period authorized for the investment.
+ Some capital goods (such as machinery or equipment) are exempt from VAT when these are not
+produced in Chile and are considered to be in the interests of the country.  These capital goods
+are published in a list issued by the Ministry of Economy.
+4.6.1.6
+Mining Taxation and Royalties
+The Chilean Law establishes a royalty for mining companies, which has a progressive rate and
+is  calculated  based  on  two  concepts  defined  by  law:  (a)  the  “Mining  Operational  Taxable
+Income”, which is the net income that is calculated by the taxpayer deducing from the total mining
+revenues, the cost and expenses, and making the adjustments indicated in the Income Tax Law
+for the application of the Corporate Tax; and (b) the “Mining Operational Profit Margin” this is the
+Mining  Operational  Taxable  Income  divided  by  the  mining  operational  revenue,  multiplied  by
+100.
+Mining  companies  whose  annual  sales  exceeds  the  value  of  50,000  tons  of  fine  copper  are
+subject to a progressive tax rate on their Mining Operational Taxable Income that ranges from 5%
+to 34.5%, depending on the respective Mining Operational Profit Margin.  In this respect, mines
+with operating margins at a 35 index or below are subject to a 5% rate.  In the case of mines with
+a Mining Operational Profit Margin of higher than an 85 index, a 14% rate would apply over the
+part  that  exceeds  the  85  index.    Since  it  is  a  progressive  rate,  each  level  of  the  Mining
+Operational  Profit  Margin  index  is  taxed  with  a  different  rate.    The  Law  provides  rates  of  8%,
+10.5%, 13%, 15.5%, 18%, 21%, 24%, 27.5%, 31% and 34.5%, which varies depending on the
+Mining Operational Profit Margin index.
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 23
+Mining companies whose annual sales have a value between 12,000 tons and 50,000 tons of
+fine  copper  are  subject  to  a  progressive  tax  on  their  “operational  taxable  income”  that  ranges
+between  0.5%  and  4.5%.    Mining  companies  whose  annual  sales  are  equivalent  to  less  than
+12,000 tons of fine copper are not subject to this specific mining tax.
+4.7
+Environmental
+v
+Highlights of the Environmental Regulatory Framework
+The  Chilean  Constitution  grants  all  citizens  the  right  to  live  in  a  pollution-free  environment.  It
+adds that the State is duty bound to assure that such right will not be impaired and to provide for
+the conservation of nature. It further provides that the law may specifically limit other legal rights
+in order to protect the environment.
+The General Environmental Law (Law No. 19,300), enacted in 1994, set forth the framework and
+principles for a more integrated approach towards environmental protection and management.
+Therefore,  the  General  Environmental  Law  created  the  Environmental  Impact  Assessment
+System  (“SEIA”),  emission  and  quality  standards  and  prevention  and  decontamination  plans.
+Also introduced a civil liability system, based in negligence or fault, for environmental damage.
+Strict liability systems, contained in special laws, remains in force.
+The General Environmental Law was substantially amended in January 2010 pursuant to Law
+No.  20,417.  The  revisions  provided  for  the  establishment  of  (i)  the  Ministry  of  Environment
+(Ministerio  del  Medio  Ambiente),  responsible  for  developing  environmental  policies  and
+regulations,  (ii)  the  Environmental  Assessment  Service  (Servicio  de  Evaluación  Ambiental  or
+“SEA”),  responsible  for  administrating  the  SEIA,  and  (iii)  the  Environmental  Superintendence,
+entrusted  with  conducting  environmental  compliance  and  enforcement  of  projects  approved
+under the SEIA, emission and quality standards, prevention and decontamination plans and any
+other environmental instruments established by law.
+Lately, on June 28, 2012, Congress enacted Law No. 20,600, providing for the creation of three
+environmental  courts,  subject  to  the  Supreme  Court’s  supervision,  in  charge  of  hearing  and
+deciding on environmental disputes.
+v
+The SEIA
+The SEIA, regulated by Law 19,300 and the SEIA Regulations (Supreme Decree No 40/2013), is
+aimed  at  ensuring  the  environmental  sustainability  of  projects  and  activities  performed  by  the
+public and private sectors.
+The Environmental Assessment Service is responsible for implementing and administrating the
+SEIA,  and  coordinating  the  project´s  assessment  with  the  other  Chilean  public  environmental
+institutions.    Only  listed  investment  projects  or  activities  must  be  submitted  an  Environmental
+Impact Statement (Declaración de Impacto Ambiental or “DIA”) for assessment. If the project´s
+impacts are significant, an Environmental Impact Study (Estudio de Impacto Ambiental or “EIA”)
+is  required.    The  final  approval  of  the  DIA  or  EIA,  as  applicable,  is  granted  by  the  Regional
+Environmental  Assessment  Commissions  or  the  National  Director  of  the  Environmental
+Assessment Service, if the project affects more than one Region of Chile.
+Pursuant to Law 19,300 and the SEIA Regulations mining exploitation projects with a capacity of
+more  than  5,000  ton/month  must  be  submitted  to  the  SEIA.  In  the  case  of  pre-exploitation
+activities, only advance exploration works (prospections), which consider more than 40 platforms
+with their relevant drilling holes must be submitted to the SEIA. Exploration activities,
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 24
+such as discovery works, surveys and drilling works that consider less platforms are not required
+for an environmental assessment.
+The  SEIA  process  begins  with  the  DIA  or  EIA  submittal  to  the  SEA  of  the  Region  where  the
+works included in the project or activity will be carried out or the National Director, if affects more
+than one Region.  After an admissibility test, the SEA delivers the DIA or EIA to the sectorial
+environmental  authorities,  which  must  review  and  revert  with  comments  and  clarifications,  if
+applicable.  The SEA will consolidate the requests and send them back to the project holder,
+who must reply by means of one or two addenda to the DIA or EIA. The EIA´s assessment has a
+mandatory process of public participation.  Also, projects assessed through a DIA that generate
+environmental burdens, such as landfills or sewage treatment plants, could be subject to a public
+participation process. After public participation and the assessment by the sectorial authorities is
+completed,  the  SEA  must  elaborate  a  consolidated  report  (ICE)  containing  the  project´s
+description,  identified  impacts  and  it´s  mitigation,  compensation  and  compensatory  measures.
+  Finally  the  Regional  Environmental  Assessment  Commission  or  the  National  Director,  as
+applicable, must render a resolution approving (Resolución de Calificación Ambiental or “RCA”)
+or rejecting the project or activity.
+The project owner is entitled to file a complaint, in case the final decision rejects the DIA or EIA
+or imposes conditions or additional requirements. Also, individuals and legal entities that took
+part in the public participation are entitled to contest the environmental approval. The complaint
+must be filed before the National Director in case of a DIA and before a committee of Ministers
+(Comité de Ministros) in case of an EIA. The rulings of the National Director or the committee of
+Ministers may be challenged before the corresponding Environmental Courts.
+Another remedy granted by the Constitution, is the “Recurso de Protección”, in which the affected
+party can file it before the Court of Appeals with jurisdiction over the competent environmental
+authority, which is empowered to rule on the adoption of the measures it deems necessary to
+reestablish the law and ensure the protection of the affected party. Usually, if the Court finds that
+there  was  an  illegal  or  arbitrary  environmental  approval,  it  can  invalidate  such  resolution  and
+order  that  a  new  environmental  impact  assessment  be  carried  out.  Nevertheless  with  the
+environmental courts in place it is expected that the admissibility of this constitutional remedy
+shall be limited to exceptional circumstances.
+4.7.1
+Sectorial Environmental Permits
+The RCA authorizes to start the project´s construction and operation stages, subject to different
+environmental  requirements.    Additionally  some  sectorial  environmental  permits  (“PAS”)  and
+other sectorial permits are required to develop the project.
+The  Environmental  Law  Regulations  establish  the  requirements  of  environmental  nature  that
+must  be  incorporated  to  the  DIA  or  EIA  in  order  to  obtain  the  corresponding  PAS  during  the
+environmental assessment.
+If  the  RCA  approves  the  issuance  of  a  sectorial  environmental  permit  during  the  assessment
+process  it  means  that  such  PAS  was  granted  only  from  an  environmental  perspective.
+  Accordingly,  the  project  owner  shall  still  require  the  granting  of  the  PAS  before  the  relevant
+sectorial authorities.  Nevertheless, such authorities shall not be allowed to deny the PAS based
+on environmental issues, but could make requirements or observations of different nature (non-
+environmental).
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+July 4, 2016
+Page 25
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+4.7.2
+Indigenous Consultations
+Chile ratified Convention No 169, concerning Indigenous and Tribal People on 2008.  For the
+implementation of the Convention, was enacted Decree No 66, issued on March 4, 2014 by the
+Ministry  of  Social  Development,  which  regulates  the  procedure  for  consultations  regarding
+legislative and administrative decisions that may affect indigenous people.
+Moreover, according to the SEIA, indigenous consultations are only required for projects that are
+assessed  through  and  EIA,  as  they  may  produce  significant  impact  over  indigenous
+communities.
+4.7.3
+Land Use
+Chile’s  zoning  and  urban  planning  are  governed  by  the  General  Law  of  Urban  Planning  and
+Construction  (Ley  General  de  Urbanismo  y  Construcciones).    This  law  contains  several
+administrative provisions that are applicable to different geographical and hierarchical levels and
+sets specific standards for both urban and inter-urban areas.
+In addition to complying with the Environmental Law and other legal environmental requirements,
+projects must also comply with urban legislation governing the different types of land use.  Land
+use regulations are considered part of the Chilean environmental legal framework.
+Land  use  regulatory  requirements  are  diverse  and  operate  at  different  levels,  the  main
+instruments are the inter-community regulatory plans (Planes Reguladores Intercomunales, PRI)
+and  the  community  regulatory  plans  (Planes  Reguladores  Comunales,  PRC).    The  PRI’s
+regulate territories of more than one municipality, including urban and rural territory.
+4.8
+Foreign Investment
+Under Chilean law there are no limitations to foreign investors who want to wholly own a Chilean
+company.  Foreign companies and individuals can invest in all productive activities and sectors
+of  the  economy.    There  are,  however,  restrictions  in  certain  areas,  such  as  coastal  trade,  the
+mass media, fishing, and real estate property in border zones.
+Certain economic activities considered relevant to national security are restricted to the State,
+such as the exploration and exploitation of hydrocarbon deposits in coastal waters under national
+jurisdiction or in areas classified as important to national security, and the production of nuclear
+energy. However, in certain circumstances foreign companies can invest in these areas.
+Potential foreign investors have two legal mechanisms for bringing their capital into Chile.  These
+are  alternative  and  parallel  mechanisms  which,  in  both  cases,  serve  to  register  the  entry  of
+foreign capital.  Foreign investors can freely choose one of these alternatives when materializing
+an investment: (i) Chapter XIV of the Chilean Central Bank’s Compendium of Foreign Exchange
+Regulations; or (ii) Foreign Investment Statute established in DL 600.
+Chapter XIV of the Chilean Central Bank:  Under this administrative system, the entry of foreign
+capital  is  registered  by  commercial  banks  which,  in  turn,  coordinate  with  the  Central  Bank  of
+Chile,  as  provided  by  Chapter  14  of  the  Central  Bank  Foreign  Exchange  Regulations  (the
+“Foreign Exchange Regulations”).  A minimum of USD$10,000 can be brought in through this
+mechanism in the form of currency or loans.  This mechanism does not imply signing a contract
+with the State of Chile, nor limit or restrict the repatriation of capital invested in Chile or
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 26
+of the profits obtained from the investment. Capital entering Chile under Chapter XIV is subject to
+the general Chilean regulations and cannot apply to be subject to the provisions of DL 600.
+Foreign  Exchange  Regulations  impose  two  basic  restrictions  on  foreign  loans,  deposits,
+investments and capital contributions:
+- They must be made through the Formal Exchange Market; and
+- The parties must inform the Central Bank by filing in the appropriate registration forms.
+Foreign  Investment  Statute  or  Decree  Law  600  (DL  600):    DL  600  applies  to  investments
+made  in  Chile  by  foreign  individuals  and  foreign  public  and  private  legal  entities  (including
+companies, foundations, foreign states and international organizations), as well as by Chilean
+individuals  domiciled  abroad.    Under  DL  600  foreign  investors  enter  into  a  legally-binding
+contract  with  the  Chilean  State,  which  cannot  be  modified  unilaterally  by  the  State.  However,
+investors may request the amendment of the contract to increase the amount of the investment,
+change its purpose, or assign its rights to another foreign investor.
+Under DL 600, a “foreign investment” can be made in the form of:
+-  Freely  convertible  foreign  currency  brought  into  the  country  through  an  entity  authorized  to
+operate within the Formal Foreign Exchange Market (Mercado Cambiario Formal);
+- Tangible assets, in any form, which are valued according to the general procedures applying to
+imports;
+- Technology in its various forms, provided it can be capitalized and provided certain conditions
+regarding its valuation are met. Ownership or rights to the use of technology forming part of a
+foreign  investment  under  DL  600  cannot  be  sold  separately  from  the  entity  to  which  it  was
+contributed, nor can the technology be subject to amortization or depreciation;
+- Loans associated with foreign investments that are authorized by the Central Bank, including
+the corresponding  terms, conditions and interest, as well as the charges on the total cost borne
+by the borrower;
+- Capitalization of loans and foreign debt in freely convertible currency that have been obtained
+with due authorization; and/or
+- Capitalization of profits, which can be remitted abroad.
+To  have  access  to  this  mechanism,  the  minimum  investment  amount  is  USD$5  million  for
+investments made in foreign currency and associated loans.  For investments in tangible assets,
+technology, or capitalization of loans and foreign debt, the minimum amount is USD$2.5 million.
+ The Foreign Investment Committee retains the right to modify these amounts.
+In order to proceed under DL 600, the foreign investor’s investment must be authorised by the
+Foreign  Investment  Committee,  a  governmental  agency.    To  obtain  this  approval,  the  foreign
+investor  must  submit  an  application  which  includes  basic  information  about  the  investing
+company or individual, a description of the project to be undertaken in Chile, the amount and
+composition of the investment, and other details.
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 27
+Upon receiving approval from the Committee, the foreign investor enters into a foreign investment
+contract with the Chilean State, by public deed, before a Notary Public in Chile.  Although not a
+lengthy or complicated document, the standard term foreign investment contract establishes the
+respective  rights  and  obligations  of  the  parties  under  DL  600,  particularly  the  guarantees
+provided to the investor.
+In the case of investments in foreign currency, an investor can only execute a foreign exchange
+operation once a foreign investment contract has been signed with the Chilean State.  However,
+when submitting the application, the investor can request special authorization to exchange its
+currency  immediately.    Any  other  type  of  capital  contribution  requires  the  foreign  investment
+contract to be duly signed.
+The foreign investment contract shall specify the period during which the foreign investor may
+bring  its  investment  into  Chile.    This  period  shall  not  exceed  8  years  in  the  case  of  mining
+investments and 3 years in all other areas.  However, the Foreign Investment Committee may
+extend these limits to a maximum of 12 years, in case of mining investments that require previous
+exploration,  and  up  to  8  years,  in  case  of  investments  in  industrial  and  non-mining  extractive
+projects for amounts of no less than USD$50 million, considering the nature of the project.
+As  a  matter  of  policy,  from  time  to  time  the  Foreign  Investment  Committee  sets  limitations
+regarding the funding of the projects it approves.  Currently, the Committee requires a 75:25 debt
+to  equity  ratio.    This  means  that  equity  must  constitute  at  least  25%  of  the  approved  total
+investment amount of each project and the remaining 75% may be raised by the company in the
+form of international debt finance ( “associated credit”) or domestic debt finance ( “internal credit”).
+Article  11  of  DL  600  authorizes  the  Foreign  Investment  Committee  to  impose  restrictions  on
+access to local financing or internal credit.  Currently there are no such restrictions.
+DL 600 provides the following rights to foreign investors:
+v
+Discrimination complaint mechanisms
+DL  600  prohibits  discriminatory  treatment  of  foreign  investors,  guaranteeing  that  they  will  be
+subject  to  the  same  laws  and  regulations  as  local  investors  in  the  same  area,  except  where
+regulations limit access to internal loans for foreign investments under DL 600.  This prohibition
+parallels the general prohibition on discrimination contained in the Chilean Constitution.  In the
+event a foreign investor believes it is being discriminated  against, under DL 600 it can pursue a
+claim with either the Foreign Investment Committee, through an administrative procedure, or if
+the Committee is unable to resolve the claim, with the Chilean courts.
+v
+Repatriation of capital and profits
+DL 600 guarantees the foreign investor the right to remit equity capital overseas after a period of
+one  year  from  its  entry  into  Chile,  but  only  from  profits  or  from  the  proceeds  of  the  sale  or
+liquidation  of  all  or  part  of  the  assets,  business,  shares  or  rights  representing  the  investment.
+ Reinvested profits are not subject to this one year restriction, and may be repatriated at any time.
+No tax or other levy applies to such remittances up to the amount of the materialised investment.
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 28
+DL  600  guarantees  foreign  investors  access  to  the  Formal  Foreign  Exchange  Market,  for  the
+repatriation  of  the  capital  investment  and/or  profits.    Access  to  the  Formal  Foreign  Exchange
+Market for remitting capital or profits abroad requires a prior certificate from the Executive Vice-
+President of the Foreign Investment Committee stating the amount to be remitted.  This certificate
+is granted or refused for an express cause within 10 days from the date an application is filed.
+v
+Tax regime
+Under a foreign investment contract, foreign investors may have access to certain tax benefits
+(please see tax section above).
+Termination of DL 600 regime and new mechanism applicable to foreign investments over
+USD $5,000,000.
+The possibility for a foreign investor to have access to the DL 600 foreign investment agreement
+mechanism will be available until December 31, 2015, as provided by Law No. 20,780.
+All foreign investment agreements executed before such date will be valid and enforceable, and
+foreign  investors  will  keep  all  its  rights,  duties  and  special  regime  associated  with  DL  600
+mechanism.
+To replace DL 600 regime, a new law is under discussion in Chilean parliament.
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+July 4, 2016
+Page 29
+LOCAL  RESOURCES,
+INFRASTRUCTURE
+and
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+5.0
+ACCESSIBILITY,  CLIMATE, 
+PHYSIOGRAPHY
+5.1
+Accessibility
+The Property is located 140 km southeast of the City of Antofagasta and access to the Property is
+via Route CH-28 to Route CH-5, which is part of the Pan-American Highway and then east on
+Route  B-55  which  passes  just  north  of  the  Augusta  Victoria  North  concession  group.    The
+Property is readily accessible from a paved highway and hence on dirt roads across the desert to
+access the individual prospects.  Total travel time from Antofagasta to the Property is about two
+and a half hours.  The City of Antofagasta, the capital of Antofagasta Region and Province with a
+population  of  345,420  (2012,  Wikipedia),  can  be  accessed  via  numerous  daily  flights  from
+Santiago  and  other  centres  in  the  north  of  the  country  and  from  Lima,  Peru.    Flight  time  from
+Santiago  to  Antofagasta  is  2  hours.    The  Pan-American  Highway  connects  Antofagasta  with
+Santiago, 1,100 kms to the south and the rest of Chile.
+5.2
+Climate
+The climate in the area is typical of the Atacama Desert region between 1000 and 2000 metres
+elevation.  The Atacama Desert is renowned for being the driest desert in the world.  Average
+annual  rainfall  is  reported  as  1  to  3  mm  per  year  with  coastal  regions  receiving  an  annual
+average  of  3.4  mm  (Antofagasta).    Some  weather  stations  in  the  Atacama  Desert  have  never
+reported rainfall.
+The average annual temperature is 16.8 C.  The average daily low temperature in the warmest
+month,  January,  is  17.5°C  while  the  average  daily  high  temperature  is  23.2°.    The  coldest
+month, July, sees an average low temperature of 11.8 C and an average high temperature of
+16.5°C (Antofagasta,  Wikipedia).  The  climate  permits  exploration  and  development  activities
+year round on the Property
+Due to the warm and extremely arid climate, there is practically no natural vegetation or animal
+life on the Property
+5.3
+Local Resources and Infrastructure
+The population of the Antofagasta Region, where the concessions are located, is 530,879 (2012)
+where 65% of this population lives in the capital of Antofagasta.  The city of Antofagasta, is the
+regional  source  of  skilled  and  unskilled  labour,  mining  contractors  and  mining/exploration
+suppliers  for  the  eight  large  operating  copper-molybdenum/gold  mines  nearby  and  the  nitrate
+operations of SQM.  Food and basic supplies can be obtained in Antofagasta, the closest major
+centre and a two-and-a-half-hour drive from the Property.
+With  the  Pampa  Augusta  Victoria  deposit  of  Yamana  Gold’s  El  Peñon  mine  adjacent  to  the
+Property, power is available in the area.  Ground water may be available in some areas of the
+property but water for future mineral processing would most likely be seawater.  West of the town
+of  Sierra  Gorda  (144  kms  north),  the  new  400  MW  thermo-solar  power  complex  is  under
+construction, intended to provide power for future mine expansions in the area.  Surface rights
+are not required for the future mining operations under Chilean law as concession holders have
+the right to explore or exploit the concession.  Mining rights are dominant to surface rights and the
+Mining Code grants the owner of the mineral estate liberal rights to use the surface subject to the
+payment of reasonable compensation to the surface rights owner.  The area of the concessions is
+sufficient for any future exploration and development activities.
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+Antofagasta Region (II), Chile
+July 4, 2016
+Page 30
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+5.4
+Physiography
+The  Property  lies  in  an  area  of  low  rolling  hills  and  plains  called  the  ‘Precordillera’,  between
+1600 and 1,850 metres above sea level.  The terrain has moderate relief with isolated low hills
+rising  out  of  the  pampa  and  with  dry  drainages  cutting  across  the  landscape.    No  permanent
+surface  waters  exist  on  the  Property  and  the  drainages  are  only  active  during  seasonal  flash
+floods.
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+July 4, 2016
+Page 31
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+6.0
+HISTORY
+The  early  mining  history  of  the  Antofagasta  region  and  the  Property  are  related  to  the  nitrate
+industry of northern Chile as described in the following sections.
+6.1
+Caliche Exploitation in Northern Chile
+The following text has been modified after Garcés, 2000.
+The first shipment of caliche from Tarapacá went to the region of Concepcion, before 1800, in
+order  to  provide  alkali  in  the  manufacture  of  soap.    Tadeus  Haenke,  a  Polish  scientist  who
+entered Peru in 1794, contributed to Tarapaquenian industrial technology in 1808 when he gave
+the formula known in Europe to convert the caliche of Tarapacá to potassium nitrate.  On July 21,
+1830, Chile started exporting nitrate to major world markets as this is the date on which the first
+vessel-carrying nitrate arrived in the port of Liverpool.  The industrialization stage began in 1853
+with  the  incorporation  of  the  steam  engine  patented  by  Pedro  Gamboni,  starting  exports  of
+sodium nitrate and causing the construction of new plants and diversifying other operations.  At
+that time, all caliche was produced in Tarapacá, then part of Peru and now in the Chilean Region
+1.
+The process then, was to place the previously milled caliche in iron containers, and then adding
+mother liquor, obtained in a previous cycle.  This was vigorously stirred and heated to boiling.
+ The clays were then decanted to produce a sodium chloride precipitate.  The remaining liquor
+was  placed  in  wooden  trays,  which  crystallized  sodium  nitrate  upon  cooling.    Based  on  this
+process, several plants were built in San Antonio de Zapiga, east of Pisagua, located 127 road
+kilometres northeast of Iquique.  The increased production between 1809 and 1812 of 1,140 tons
+of nitrates were shipped to Lima for  the manufacture of explosives.  In 1810, nitrate mines were
+built in Pampa Negra, Zapiga and Negreiros.
+The nitrate process was used with minor modifications until 1880 when Chilean Pedro Gamboni
+(CORFO, 1989), replaced the fuel used in the process with direct steam injection.  Twenty years
+later the Englishman, James T. Humberstone introduced indirect steam injection and adopted the
+countercurrent leaching process developed by Shanks, for the production of soda ash by the Le
+Blanc process.  This "Shank" caliche process allowed using material with less than 15% nitrate,
+compared with 50% used in the above processes, thus translating into expanded exploitation of
+caliches that peaked with some 300 operations. Thus, the nitrate industry had become the main
+economic activity of the country.
+Following the application of additional taxes to the Chilean mining companies in the area, the
+territory  was  occupied  by  Chile  in  February  1879  resulting  in  the  Pacific  War  involving  Chile,
+Bolivia  and  Peru.    As  a  consequence  of  this  war,  the  Peruvian  Tarapacá  province  and  the
+Bolivian Pacific territories became part of Chile (Simon et al., 2005).
+The  export  of  nitrate  caused  a  large  influx  of  money  into  the  country  with  the  production  of  2
+million tons in 1909.  In 1916, there were 97 nitrate operations in Iquique, 10 in Tocopilla, 30 in
+Antofagasta, 14 in Aguas Blancas and 19 in Taltal, where the nitrate was known as ‘white gold’.
+The development of synthetic nitrates in 1909 (Wikipedia) along with the economic recession of
+the  30’s  severely  impacted  the  nitrate  industry  causing  a  drop  in  the  price  of  nitrate  and  the
+Shanks process became uneconomical under these conditions.  This was followed by the
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 32
+closing of operations and the beginning of the worst period experienced by the domestic industry.
+ On May 16, 1944, with the closing of Santa Laura operation, a symbolic date for Chilean people
+of  the  pampas,  only  four  nitrate  operations  were  kept  in  production  until  1978  when  Oficina
+Victoria ceased operations.
+Sociedad Quimica y Minera de Chile, SOQUIMICH (SQM) was created in 1968 as part of a plan
+to reorganize the nitrate industry in Chile.  Initially, the ownership of the company was shared
+between the state (CORFO) and a private entity (Cia. Salitrera Anglo Lautaro SA).  In 1971, the
+company was taken over by the state, and in 1983, CORFO began privatizing the company until
+1988.    Today  SQM  operates  a  thriving  industry  that  not  only  sells  natural  nitrates  but  has
+developed  new  products.    SQM  offers  to  world  markets:  potassium  nitrate,  sodium  sulfate,
+sodium nitrate, iodine and derivatives, potassium chloride, boric acid, lithium carbonate, and all
+mixtures  of  specialty  fertilizers,  industrial,  technical  grade,  etc.    In  recent  years,  the  caliche-
+related mining industry has expanded.  Modern processing plants have appeared in the desert,
+often  very  close  the  ruins  of  the  old  oficinas.    Chile  became  the  first  iodine  and  lithium  world
+supplier, as well as one of the major ulexite (hydrated sodium calcium borate hydroxide)  and
+natural nitrate producers.
+6.2
+Property History
+SQM held the Property for non-metallic minerals and possibly conducted preliminary exploration
+for nitrates on the Property but no evidence was seen in the field for hand dug pits or short, grid
+drilled, RC holes which are the common methods used by SQM to explore for nitrites.  The author
+does not know the timing of this preliminary exploration.  The possible reason for limited nitrate
+exploration on the Property appears to be related to the geomorphology not being ideal for the
+formation of caliches.
+In  2010  and  2011,  SQM  completed  an  exploration  program  on  the  Augusta  Victoria  West
+concession group, focused on epithermal gold-silver vein systems similar to Yamana’s adjacent
+Pampas Augusta Victoria deposit.
+The author has been unable to verify this information about Pampa Augusta Victoria and that the
+information may not be indicative of the mineralization on the Property.
+The program included:
+i)
+Geologic mapping at a scale of 1:5,000, which covered an area of 25 km2, and traced thirteen
+faults on the Property.  The mapping covered some 74% of the Property’s 34 km2.
+ii)
+Excavations of nineteen trenches, the trenches were reported oriented to crosscut the mapped,
+north trending, geologic structures.  In total 2,857 metres of trenches were excavated.
+iii)
+Systematic one-metre sampling of the trenches produced 1,288 samples.
+iv)
+Surface geochemical sampling of geologic structures following quartz float and this produced 22
+samples.
+v)
+Drilling of 26 RC holes for 1,710 m drilled. The drill holes were sampled on one-metre intervals
+producing 963 samples. The holes were drilled to between 50 and 162 metres depth. The drill
+holes showed anomalous values for arsenic and antimony. No significant results for gold or silver
+were recorded from the drilling and this is possibly due to short drill hole depths (Vega E., 2012).
+ Significant drill hole and trench results
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 33
+are  summarized  in  Figure  6.1.  To  the  Company’s  knowledge  no  further  exploration  was
+conducted by SQM on the Property.
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 34
+Figure 6.1: Summary of SQM Exploration Results 2010/11
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+Antofagasta,
+Antofagasta Region (II), Chile
+July 4, 2016
+Page 35
+7.0
+GEOLOGICAL SETTING and MINERALIZATION
+The  Pampas  El  Peñon  Property  is  located  in  Region  II  of  northern  Chile,  140  kilometres
+southeast of Antofagasta in the Province and Municipality (Commune) of Antofagasta.  This area
+of  northern  Chile  and  the  rest  of  the  central  Andes  have  been  known  as  a  preeminent
+metallogenic province for more than 100 years.  The central Andes currently produce some 40
+percent of world-mined copper (2011), as well as significant gold production
+7.1
+Regional Geology
+The  Property  in  situated  in  a  physiographic  area  of  the  Atacama  Desert  known  as  the
+‘Precordillera’ (Figure 7.1) or more commonly known as the ‘Cordillera Domeyko’.
+Figure 7.1: Physiographic Provinces of Northern Chile with Concession
+(after Delouis et el., 1998)
+Outline
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 36
+The Cordillera Domeyko is bounded to the west by the Central Depression and to the east lies
+the Preandean depression.
+This region is part of the approximately 6,000-km-long Andean Copper province and comprises
+several long and markedly linear, orogen-parallel metallogenic belts, each developed during a
+restricted  metallogenic  epoch.    In  the  central  Andes,  from  southern  Peru  to  central  Chile  and
+contiguous Argentina, an incipiently developed belt of late Paleozoic to early Mesozoic porphyry
+copper  mineralization  is  partly  overlapped  by  four  east-ward-younging  copper  belts,  namely:
+  middle  to  late  Mesozoic  (Middle-late  Jurassic  to  Early  Cretaceous)  on  the  Pacific  coast,
+Paleocene to early Eocene, middle Eocene to early Oligocene, and, along the eastern border of
+the  orogen,  Miocene  to  early  Pliocene,  all  but  the  first  dominated  by  porphyry  copper
+mineralization and associated deposit types.  Porphyry copper deposits in the northern part of the
+Paleocene to early Eocene belt, in southern Peru, and the southern part of the premier middle
+Eocene  to  early  Oligocene  belt,  in  northern  Chile,  coincide  with  major  orogen-parallel  fault
+systems that underwent syn-mineralization reverse displacement.  The middle to late Mesozoic
+belt  also  contains  major  orogen-parallel  faults  but  with  normal  and  normal-oblique  motions
+synchronous  with  copper  mineralization  of  iron  oxide-copper-gold,  manto-type  copper  (Manos
+Blancos), and subordinate porphyry copper types.  In contrast, remaining portions of the Tertiary
+Copper belts, along with the central Chile segment of the Miocene to early Pliocene belt, lack
+evidence for such clear-cut structural control on deposit location (after Sillitoe et al., 2005)
+The geology of the Cordillera Domeyko and the Central Depression are dominated by products
+of Late Cretaceous to early Eocene magmatic arcs that developed to the east of the Jurassic to
+Early Cretaceous magmatic arc following a Middle Cretaceous orogeny (Coira et al., 1982; Boric
+et al., 1990; Davidson and Mpodozis, 1991).  These rocks are part of the Paleocene belt (Figure
+7.2) which comprises basaltic to rhyolitic lavas and tuffs, subvolcanic porphyritic intrusions, and
+granitoid stocks that extend from southern Peru to central Chile and range in age from 72 to 40
+Ma (Boric et al., 1990; Marinovic et al., 1995; SERNAGEOMIN, 2003).
+The  Paleocene  belt  between  latitudes  22°45’  and  25°15’S  is  characterised  by  abundant
+exposures of felsic volcanic rocks and is host to several epithermal deposits, including El Peñón
+and the recently discovered Pampa Augusta Victoria deposit, which lies just east of the Property
+concession  boundary.  North  of  this  part  of  the  belt,  exposures  of  felsic  to  intermediate
+subvolcanic  and  intrusive  rocks  are  associated  with  Paleocene  porphyry  Cu-Mo  deposits  at
+Spence, Sierra Gorda, Cerro Colorado, and Mocha. To the south, the geology is characterised by
+exposures  of  intermediate-composition  volcanic  rocks  between  latitudes  25°15’  and  26°30’S,
+intermediate  and  felsic  volcanic  rocks  between  26°30’  and  27°30’S,  and  dominantly  felsic  to
+intermediate subvolcanic and intrusive rocks south of 27°30’S. The distribution of volcanic and
+intrusive rocks and occurrences of porphyry Cu deposits indicate uplift and erosion to relatively
+deep levels north and south of that part of the Paleocene belt which hosts Yamana’s El Peñón
+and other epithermal deposits (Sillitoe, 1991; SERNAGEOMIN, 2003).
+The author has been unable to verify this information about Pampa Augusta Victoria and that the
+information may not be indicative of the mineralization on the Property.
+Bedrock exposure is generally poor and concealed by caliche made up of massive crystalline
+salts and chusca, powdery low-solubility residual sulfates at the surface.  Basaltic to rhyolitic,
+pyroclastic and flow units, subvolcanic rhyolites, and volcaniclastic breccias of Late Cretaceous
+to early Eocene age and of inferred Early Cretaceous age are the main rock types in the district.
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 37
+Inferred  Early  Cretaceous  rocks  consist  of  several,  distinct,  thin  rhyolitic  pyroclastic  units  and
+dacitic  to  andesitic  flow  units  that  are  exposed  only  in  the  northern  part  of  the  district.    In  the
+western part of the district, voluminous, rhyolitic pyroclastic rocks with minor dacitic to andesitic
+flows of Late Cretaceous age overlie inferred Early Cretaceous rocks.  In this area, both the Early
+and Late Cretaceous volcanic rocks are intruded by 67 ± 2 Ma dioritic to monzodioritic rocks and
+locally by Late Cretaceous dacite domes.  Paleocene and early Eocene volcanic rocks host the
+El Peñón Mine and Pampa Augusta Victoria deposit.
+The author has been unable to verify this information about Pampa Augusta Victoria and that the
+information may not be indicative of the mineralization on the Property.
+This stratigraphy consists of a lower sequence of volcanic breccia and andesitic to basaltic flows
+overlain  by  a  sequence  of  rhyolitic  to  dacitic  pyroclastic  rocks  (59.2  ±  1.6  Ma;  Cornejo  et  al.,
+2003),  dacitic  to  andesitic  flows,  and  volcanic  breccia.    These  rocks  are  intruded  by,  and  the
+upper parts intercalated with, rhyolitic flows and domes (54-55 Ma; Cornejo et al., 2003).  The
+mostly flat-lying to gently east- and south-dipping volcanic rocks are intruded by minor andesitic
+dikes of likely early Eocene age that appear to be coeval with Au-Ag mineralisation at El Peñón
+mine (Robbins, 2000). Andesites south of the district have ages (50.5 ± 1.7 to 52.9 ± 1.8 Ma, K-
+Ar; Cornejo et al., 2003) that partly overlap the age of Au-Ag vein formation at El Peñón (Pearson
+and Rennie, 2008).
+The Paleocene and early Eocene volcanic rocks  are  locally  intruded  by  48.2  ±  1.3  Ma  (K-Ar;
+Rojas, 1994) diorite that is exposed in the eastern and southern parts of the district, locally in fault
+contact with the Augusta Victoria Formation.  The dominant faults in the district controlled the
+margins  of  a  graben  containing  Paleocene  and  early  Eocene  rocks.    On  the  west  side  of  the
+district, Falla Dominador trends north-northeast and places Early and Late Cretaceous volcanic
+rocks and Late Cretaceous intrusive rocks against Paleocene and Early Eocene volcanic rocks.
+ North-trending faults with up to hundreds of meters of displacement define the eastern margin of
+the  graben  and  place  Eocene  intrusions  against  Paleocene  and  Early  Eocene  rocks.
+ Throughout the district, faults displaying both normal and, less commonly, reverse displacement
+exhibit offsets of meters to tens of meters and trend north-south, northeast, or northwest.
+Veins  and  dikes  indicate  the  orientation  of  dilational  structures  active  during  their  formation.
+North-trending faults host the highest-grade Au-Ag-bearing veins, northeast trending faults host
+veins with generally lower Au-Ag grades, and northwest-trending faults host mostly barren quartz
+and  calcite  veins  (Robbins,  2000).    The  dominant  orientations  of  andesitic  dikes  are  north,
+northwest to north-northwest, and east to east-northeast.
+The  simplified  geology  map  of  the  Antofagasta  Region  (II)  is  shown  in  Figure  7.3
+(SERNAGEOMIN, 2003).
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 38
+Figure 7.2: Paleocene to Early Eocene Copper Belt (after Sillitoe et al., 2005)
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+Antofagasta,
+Antofagasta Region (II), Chile
+July 4, 2016
+Page 39
+Figure 7.3: Simplified Regional Geology of Chile, Region II
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+James A. McCrea, P.Geo.
+Antofagasta,
+Antofagasta Region (II), Chile
+July 4, 2016
+Rouge Resources Ltd.
+Page 40
+Figure 7.4: Legend for Simplified Regional Geology of Chile, Region II
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+July 4, 2016
+Page 41
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+7.2
+Local Geology
+The  rocks  on  the  Augusta  Victoria  property  correspond  mainly  to  an  acid  volcanic  sequence
+made up of dacites, rhyodacites and lesser rhyolite domes and dykes of the Augusta Victoria
+Formation.    The  sequence  generally  has  a  shallow  dip  to  the  west,  to  the  west  of  the
+concessions, and the composition tends to become slightly more mafic with andesite making up
+about half the outcrops found on the Augusta Victoria West concession group.
+Intrusive rocks correspond to rhyolite domes and dykes that are considered favorable targets to
+host  mineralized  veins  as  found  on  Yamana  Gold’s  Pampa  Augusta  Victoria  mine  located
+immediately east of the Property and at the main El Peñon  mine some thirty kilometres to the
+south.    There  are  five  areas  with  rhyolite  domes  and  dykes  on  the  Augusta  Victoria  West
+concession group and all of these areas contain anomalous trace element values similar those
+reported on Yamana’s PAV property to the east.  The Augusta Victoria North concession group
+has no bedrock outcrop and geologic mapping  was  completed  based  on  float.    Details  of  the
+recent geochemical sampling program are reported in the exploration section of this report.
+The author has been unable to verify this information about Pampa Augusta Victoria and that the
+information may not be indicative of the mineralization on the Property.
+The Chilean government geology map covering the property is shown in Figure 7.4.
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 42
+Figure 7.5: Local Geology Map, Sernagiomin, 2003
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+James A. McCrea, P.Geo.
+Rouge Resources Ltd.
+Antofagasta,
+Antofagasta Region (II), Chile
+July 4, 2016
+Page 43
+Rouge Resources Ltd.
+8.0
+DEPOSIT TYPES
+Page 43
+The  principal  deposit  type  on  the  Property  is  low  sulphidation  epithermal  gold-silver  deposits
+hosted  in  steeply  dipping  fault  controlled  veins  (Pearson  and  Rennie,  2008)  and  potentially
+intermediate epithermal systems as well.  Both deposit types are related to porphyry intrusive
+magmatic activity along the “West Fissure” or Precordillera fault system (Ruetter ert el., 1993).
+Porphyry copper systems commonly host skarn, carbonate replacement, sediment-hosted gold-
+silver  and  high,  intermediate  and  low  sulphidation  epithermal  deposit  types  in  addition  to  the
+porphyry  deposits  (Figure  8.1).    These  deposit  types  are  centred  on  plutons  that  form  at
+convergent plate boundaries (Sillitoe, 2010).  Porphyry copper deposits are an important source
+of copper supply and commonly rank among the largest copper deposits in the world.
+The  intrusive  rocks  that  host  porphyry  copper  deposits  are  typically  intermediate  to  felsic  in
+composition,  porphyritic  in  texture  and  are  often  associated  with  multiple  intrusive  events  that
+form composite intrusion centres (Seedorff et al., 2005).  There is a typical alteration zoning that
+exists  in  porphyry  copper  deposits  with  potassic  (K-feldspar-  biotite)  at  the  core  followed  by
+sericitic  (muscovite/sericite  ±  chlorite)  and  clay  dominant  assemblages  with  distance  from  the
+centre (Seedorff et al., 2005).  Much of the mineralization in porphyry deposits is contained within
+veins that include veins with sulphides associated with potassic alteration and pyritic veins with
+sericite halos (Seedorf, 2005).  Veins may also form stockworks, which are a common feature of
+porphyry style mineralization.  In addition to copper, porphyry deposits commonly contain gold,
+molybdenum, tungsten and tin.
+Copper skarns are one sub-type of a diverse group of deposits formed dominantly through the
+metasomatism of carbonate rocks.  The degree of metasomatism involved in skarn formation can
+vary from negligible, in the case of metamorphism of carbonate to produce calc-silicate hornfels,
+to complete, resulting in the formation of a metasomatic, coarse grained skarn (Meinert, 1993a).
+ It is this high degree of metasomatism where the composition of the metasomatic fluid controls
+the resulting skarn and ore mineralogy that often results in the most economic skarn deposits
+(Meinert, 1993a).  Copper skarns are the  most  abundant  skarn  type,  and  include  some  of  the
+world’s largest skarns (Einaudi et al., 1981; Meinert, 1993b).
+Epithermal deposits form at shallower depths (<1.5km) and lower temperatures (<300oC)  than
+porphyry deposits (Simmons et al., 2005).  Various classification schemes have been used for
+epithermal  deposits  but  three  types  are  generally  recognized.    High  sulphidation  deposits  are
+formed  from  acidic,  dominantly  magmatic  fluids  and  have  associated  alunite,  kaolinite,
+pyrophyllite  and  residual  (vuggy)  quartz.    Low  sulphidation  deposits  are  associated  with  near
+neutral,  primarily  meteoric 
+(±illite-calcite)
+assemblages.  Intermediate sulphidation deposits are associated with quartz-calcite with minor
+chalcedony and adularia, manganese carbonate fluorite, gypsum/anhydrite.  Gold or silver may
+be the dominant economic metal, although gold may be minor in some deposits.  Zinc and lead
+are commonly about 1% and copper and minor tin may increase at depth (White, 2011).
+fluids  and  have  associated  quartz-adularia
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 44
+Figure 8.1: Porphyry Copper System showing related deposit types
+(after Sillitoe, 2010).
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 45
+9.0
+EXPLORATION
+9.1
+Aster Alteration Image Mapping
+The exploration program during 2013/2014 started with an initial phase of target selection using
+satellite imagery (ASTER) to identify exposed alteration zones and main structural features and
+trends.  The Pampas El Peñon area was analyzed but the image interpretations did not produce
+any  priority  targets  on  the  Property  for  field  follow-up  with  prospecting  and  sampling.    The
+Augusta  Victoria  concessions  do  not  have  surface  alteration  of  interest  for  field  follow-up
+detectable by Aster and the possible reasons for the lack of Aster targets are that the potential
+targets lie under cover or have only small outcrop expressions (less than the 25 m resolution of
+ASTER images).
+9.2
+Geochemical Sampling
+The  surface  field  program  started  in  December  of  2013  and  continued  intermittently  for  five
+months.  The five rhyolite domes were systematically sampled with particular attention paid to the
+fault contacts and any mineralized or alteration zones including sections of the SQM trenches.
+ Following the sampling, a preliminary geological map was made of the area.  A total of 460 rock
+chip or float samples were collected during the program of exploration and areas with potential
+for epithermal gold-silver mineralization were identified as future drill targets.  Anomalous values
+for  silver,  arsenic,  lead,  antimony  and  zinc  were  encountered  and  the  interpretation  of  these
+results are discussed in the next section.  The results of the geochemical sampling are shown in
+Figures 9.1 to 9.5.  The figures also show the proposed drill targets labelled from A to E.
+Two different types of surface rock sampling have been used:
+1.
+Grab samples - chips/pieces of rock taken from outcrop, float or dumps;
+2.
+Panel samples - composite chip samples taken over an area of between 0.5x0.5m to 1x0.5m;
+All rock samples are placed into plastic sample bags, labelled and securely closed with single
+use ties as the samples are taken.
+The sample quality is good and the samples appear to be representative with no biases known to
+the author.  Sampling quality control is discussed in Section 11.
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 46
+Photograph No. 1: Photograph of Rhyolite Dome and SQM Trench from Target B
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+July 4, 2016
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 47
+Figure 9.1: Pampas El Peñon Geochemical Sampling – Silver
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+Antofagasta,
+Antofagasta Region (II), Chile
+July 4, 2016
+Page 48
+Figure 9.2: Pampas El Peñon Geochemical Sampling - Arsenic
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+Antofagasta,
+Antofagasta Region (II), Chile
+July 4, 2016
+Page 49
+Figure 9.3: Pampas El Peñon Geochemical Sampling - Lead
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+James A. McCrea, P.Geo.
+Antofagasta,
+Antofagasta Region (II), Chile
+July 4, 2016
+Rouge Resources Ltd.
+Page 50
+Figure 9.4: Pampas El Peñon Geochemical Sampling – Antimony
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+Antofagasta,
+Antofagasta Region (II), Chile
+July 4, 2016
+Page 51
+Figure 9.5: Pampas El Peñon Geochemical Sampling – Zinc
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 52
+9.3
+Exploration Results and Interpretation
+There are five areas with rhyolite domes and dykes on the Augusta Victoria West concession
+group.  All of these areas contain anomalous trace element values similar in range to that found
+on Yamana Gold’s mine property to the east.  Arsenic, antimony and to some extent zinc show
+anomalous  distributions  similar  to  that  found  on  the  Yamana  mine  property  (see  geochemical
+distribution maps above).
+The author has been unable to verify this information about Pampa Augusta Victoria and that the
+information may not be indicative of the mineralization on the Property.
+Target D also has a very strong manganese and goethite content within a hydrothermal breccia
+(possibly a diatreme) which is a common component of the veins at the PAV mine (see Photo 2).
+In  addition  to  the  geochemical  signatures,  the  selected  targets  have  the  favorable  geological
+context consisting of alteration, geochemical anomaly and a structure cutting or in close contact
+with the rhyolite/dacite-andesite sequence as described below:
+·
+Rhyolite dome (Target B): a prominent rhyolite dome is located just two kilometres southwest of
+Yamana’s Pampa Augusta Victoria pit.  The rhyolite is greyish in color, slightly porphyritic, with
+argillic alteration.  Two prominent north-south striking structures with anomalous arsenic values
+intersect the dome.  A zone of highly siliceous chert is located on the west side of the dome (see
+Photo 3) indicating possible proximity to the contact with the country rock although the contact is
+not  seen.    Such  contact  zones  are  considered  highly  favorable  exploration  targets  at  the  El
+Peñon mine (Arsenseau, V., personal comm.)
+·
+A zone of anomalous As-Sb in trenches and drill holes is located just over one km north of the
+dome  above  (Target  A).    Short  exploration  drill  holes  in  this  area  cut  strong  iron  oxides  with
+rhyolitic  sections  in  contact  with  dacite  and  quartz  veining.    Although  no  rhyolite  crops  out  at
+surface, the area is considered favorable for locating mineralized veins at depth.
+·
+A contact between andesite/dacite and rhyolite (Target C) with anomalous As and strong iron
+oxides in an SQM drill hole and a related structure was located during the re- mapping of the
+property.  This target is interpreted as the northern continuation of the structure located on the
+west side of the main rhyolite dome (target B) one kilometre to the south.
+·
+Target D: Near the west boundary of the claim block is an area of strong manganese and iron
+oxides within a major silicified hydrothermal breccia striking roughly N-S.  The breccia has a very
+fine matrix with heavy manganese and hematite.  Large blocks of the breccia are made up of a
+porous silica network possibly representing a gaseous phase.  This area has some of the highest
+As values on the property and is similar in appearance to zones hosting productive veins at the
+El Peñon mine.
+·
+The structure-hosting target D is interpreted to continue north one kilometre to Target F where it
+cuts into a possible rhyolite dome with high As values at surface.
+Although there are other structures on the property, none are associated with known occurrences
+of breccia or rhyolite dykes and domes.  For this reason, these structures are considered low
+priority exploration targets and not recommended for testing in the first phase of drilling.  Sections
+of the proposed drilling are shown in Figure 9.7.
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 53
+Photograph  No.  2:  Core  Photographs  from  Yamana’s  Pampa  Augusta  Victoria
+Deposit,
+Core from Holes DDV 0002 and DDV 0003 Showing High Manganese and Goethite
+Content.
+Photograph No. 3: Photograph of Chert from Target B
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 54
+Figure 9.6: Pampas El Peñon Plan Map Showing Exploration Results, Section Locations
+and Proposed Drilling
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+Antofagasta,
+Antofagasta Region (II), Chile
+July 4, 2016
+Page 55
+Photograph No. 4: Photograph of Manganese Breccia from Target D
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+Antofagasta Region (II), Chile
+July 4, 2016
+Page 56
+Figure 9.7: Pampas El Peñon Schematic Sections with Proposed Drilling
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+July 4, 2016
+Page 57
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+10.0
+DRILLING
+There is no current drilling on the Pampas El Peñon property.
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+July 4, 2016
+Page 58
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+11.0
+SAMPLE PREPARATION, ANALYSES AND SECURITY
+11.1
+Arena 2013/2014 Program
+This description is of the sampling procedure, security and analysis for samples from the 2013
+exploration program carried out by Arena Minerals.  Information regarding sample preparation,
+analyses and security for the historic programs of SQM was not disclosed to the author.
+Two different types of surface rock sampling have been used by Arena to date:
+1.
+Grab samples - chips/pieces of rock taken from outcrop, float or dumps;
+2.
+Panel samples - composite chip samples taken over an area of between 0.5 x 0.5 m to 1 x 0.5 m;
+All rock samples are placed into plastic sample bags, labelled and securely closed with single
+use ties as the samples are taken.
+All  samples  were  securely  stored  in  the  Barquedano  office  prior  to  shipment  to  the  Acme
+preparation laboratory in Copiapó by contract transportation personnel.  Samples were prepared
+in Copiapó and splits of the pulps were couriered to Acme Labs in Santiago and Vancouver for
+assay.    Acme's  Santiago  and  Vancouver  facilities  are  ISO  9001:2000  registered  laboratories.
+ Samples are analyzed for gold by fire assay followed by atomic absorption spectroscopy (AAS)
+finish  and  by  gravimetric  finish  for  samples  exceeding  the  upper  limit  of  analysis  (over  limit).
+ Silver, copper, molybdenum, lead and zinc, together with 30 other elements, were assayed by
+inductively  coupled  plasma-mass  spectrometry  (ICP-MS) 
+following  aqua  regia  (partial)
+dissolution of each pulp
+The  author  knows  of  no  relationship  between  Acme  Labs  (now  part  of  Bureau  Veritas
+(Inspectorate)) and Arena other than the provision of analytical services.
+11.2
+Quality Control Measures
+Arena has established a comprehensive QA/QC program that is applied to all of the company’s
+sampling activities whether from drilling, surface sampling, mapping, or trenching.  The control
+samples represent approximately fifteen percent of all samples taken in any given program and a
+summary of the procedure is provided below.
+The overall objective of the QA/QC program is to ensure that results are representative of the
+actual values for any given medium (drill core, RC chips, trench or hand samples, etc) and to
+detect  possible  contamination  and  errors  in  accuracy  or  precision  at  the  laboratory.    The
+procedures implemented by Arena were taken from generally accepted procedures available in
+the industry and were audited by outside consultants to ensure that they comply with generally
+accepted industry standards as well as current NI 43-101 requirements.  Control samples are
+included  in  the  sampling  stream,  before  shipment  to  the  assay  laboratory,  according  to  the
+following procedures:
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+Antofagasta Region (II), Chile
+July 4, 2016
+Page 59
+Sediments Drilling (DDH,
+1 in 20
+1 in 50
+1 in 50
+1 in 50
+RC)
+1 in 20
+1 in 20
+1 in 50
+1 in 50
+Type
+Standard
+Fine blank
+Coarse blank
+Duplicate
+Rocks, soils,
+etc
+1 in 20
+1 in 50
+1 in 50
+1 in 50
+11.2.1
+General procedures
+·
+Site geologists are responsible for ensuring that standards and blanks are inserted in the correct
+positions within the sample stream.
+·
+Site geologists are responsible for the selection of the twin and duplicate samples.
+·
+The field description-sampling template must include the correct code of the standards, as well
+as the identification of blanks and duplicates.
+·
+Sample tags must be visible on all bags and the sample number must always be written with a
+permanent marker on the outside of each bag.
+·
+Surface samples (rocks, soil, sediments, etc) should not weigh more than 2.0 kg.
+·
+Site  geologists  are  responsible  for  selecting  which  standard  to  include  in  the  sample  stream.
+ Standards must be mixed and the same standard should not be used in all batches.
+·
+In order to ensure adequate control on the “chain of custody”, samples were transported from site
+to the laboratory by private transport used exclusively for the company’s samples.
+·
+Samples were packed in large sealed sacks that have a separate numbered tag to ensure that
+samples are not manipulated during transport.
+11.2.2
+Definitions
+·
+Field duplicate samples (2%) Duplicates are obtained by splitting the half core into quarters, or
+taking a second channel sample parallel to one that has already been taken in order to obtain a
+second sample as close as possible to the original.  Both samples should be collected under the
+same conditions, prepared and assayed by the same laboratory. Each sample must have its own
+sample number and ideally be analysed in the same batch.  Twin samples are taken 1 in 50.
+·
+Coarse  preparation  duplicates  (2%)  These  are  duplicates  taken  immediately  after  the  first
+stage  of  crushing  and  splitting,  which  are  analysed  at  the  same  laboratory  but  with  different
+sample numbers.  The samples are used to evaluate errors in splitting or sub-sampling.  The
+frequency is also 1 in 50 and personnel from the laboratory are used to prepare these samples.
+  An  empty  sample  bag  prepared  with  its  sample  number  and  a  note  indicating  that  it  is  for  a
+coarse preparation duplicate is included in the sample stream at site.
+·
+Coarse blanks (2%) These are made up of coarse sterile material that must be submitted for the
+entire  assay  procedure  in  the  same  sample  stream  as  regular  exploration  samples.    Coarse
+blanks are to be inserted, normally, immediately following
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 60
+mineralized samples to check for potential contamination at the laboratory but at no less than a
+ratio of 1 in 50.
+·
+Pulp duplicate (2%) These are duplicates of regular samples that have been pulverized, split
+and assigned a different sample number from the original sample.  These samples are to verify
+the analytical precision of the laboratory and are inserted by laboratory personnel as instructed
+by the site geologist in the same way as for the coarse duplicates (1 in 50).
+·
+Fine blanks (2%)  These  are  pulverized  sterile  material  that  are  also  to  be  inserted,  normally,
+immediately  following  mineralized  samples  but  at  no  less  than  a  ratio  of  1  in  50  to  check  for
+potential contamination at the laboratory during the assay procedure.  Fine and coarse blanks
+are to be inserted in the sampling stream, one immediately following the other in all cases.
+·
+Certified standards (5%) They are samples prepared under controlled conditions by specialized
+companies,  which  must  form  part  of  the  regular  sample  stream  analysed  by  the  primary
+laboratory as well as the secondary laboratory (if it applies). Standards are included at a rate of 1
+in 20 in the sampling stream.
+The standards used in the 2013-2014 exploration program were manufactured by WCM Minerals
+of Burnaby, British Columbia, Canada.  The standards used in the program are listed in Table
+11.1  and  the  number  submitted  to  the  assay  lab  as  well  as  percent  difference  from  the
+recommended values for those standards analyzed are shown in Table 11.2.
+Table 11.1: Description of standards used for quality control
+Standard ID
+Recommended Values
+Au (ppm)
+Ag (ppm)
+Cu (%)
+PM927
+PM929
+PM1141
+2.95
+5.10
+0.55
+40
+65
+19
+-
+-
+1.09
+Table 11.2: Results of assays of certified reference standards
+Standard ID No. Assays Percentage difference from recommended value
+PM927
+PM929
+PM1141
+8
+10
+7
+Au
++2
+-4
++3
+Ag
++5
++5
+-1
+Cu
+-
+-
+-4
+The total number of standards analyzed was 25 and, of those, no failures were reported.
+During the program 22 blanks were analyzed with the samples, of those 11 were coarse blanks
+and 11 were fine blanks.  The results from the coarse blanks were reported at the detection limit
+for gold and silver.  The copper analyses of coarse blanks showed some low-grade scatter and
+three contaminated blanks.  Results from the fine blanks were similar with the reported values at
+detection limit for gold, silver, and again low-grade scatter for copper but with two anomalous
+values reported.
+Duplicates  analyzed  during  the  program  were  16  field  duplicates  and  8  of  both  coarse
+preparation and pulp duplicates.  No anomalies were noted on visual inspection.
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 61
+There were no remedial measures taken by the company to correct for the weakly anomalous
+copper values encountered in the blanks. The decision was taken in view of the relatively low
+values encountered and that the focus of the program was on Au and Ag which didn’t show any
+evidence of contamination.
+The samples from the 2016 verification sampling were delivered by the author to ALS Global’s
+preparation laboratory in Antofagasta.  Samples were collected in the field by the author as grab
+samples from surface subcrop or as a chip sample from a trench.  The samples were bagged,
+labelled and sealed at the time they were collected.  The samples remained in the custody of the
+author until they were delivered to ALS Global’s preparation laboratory in Antofagasta.
+Samples delivered to ALS Global’s preparation laboratory in Antofagasta used the same assay
+procedures as described for the program in Section 11.1.
+No QA/QC was included with the two verification samples.
+The  author  believes  the  sample  handling,  preparation  and  analyses  of  these  samples  is
+adequate for this stage of exploration on the Property.
+11.2.3
+Conclusions
+It  is  the  opinion  of  the  author  that  the  sample  preparation,  security,  analytical  procedures  and
+analyses  are  consistent  with  industry  best  practice  and  are  adequate  for  the  purposes  of  this
+technical report.
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+July 4, 2016
+Page 62
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+12.0
+DATA VERIFICATION
+12.1
+Verification Sampling Results
+The  trench  chip  sample  and  the  surface  grab  sample  confirm  the  presence  of  geochemically
+anomalous zones and mineralization related to epithermal vein systems on the property.  The
+author’s  verification  samples  were  taken  from  two  drill  targets  on  the  3,400  ha  property.    It
+appears that the data is adequate for the purposes of this technical report.  Sample locations are
+shown in Figure 12.1.  Photograph 4 shows the material sampled in sample 2 and Photograph 5
+shows sample 1.  Sample results are listed in Table 12.1.
+Data verifications for this report included examination and sampling of the mineral showings on
+the property, review of the results of previous exploration programs and confirmation of the option
+agreement and concession tiles by Arena Minerals’ lawyers.  The author believes that these data
+verifications are sufficient for this exploration stage property.
+Table 12.1: Verification Samples from the Pampas El Peñon Property
+Sample Ag ppm As ppm Sb ppm Zn ppm Width (m)
+1
+0.012
+162.5
+3.39
+29.8
+0.70
+Description
+Chip sample from
+trench on drill target B
+Grab sample from
+2
+0.017
+430
+1.325
+23.8
+Grab
+Grab sample from
+silicified manganese
+breccia on drill target
+D
+Photograph No. 5: Sample 1 from the SQM Trench on Drill Target B
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 63
+Figure 12.1: Verification Sample Locations
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+Antofagasta,
+Antofagasta Region (II), Chile
+July 4, 2016
+Page 64
+Rouge Resources Ltd.
+13.0
+MINERAL PROCESSING and METALLURGICAL TESTING
+Page 64
+The  author  is  not  aware  of  mineral  processing  or  metallurgical  testing  of  mineralized  material
+from the Pampas El Peñon Property.
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 65
+14.0
+MINERAL RESOURCE ESTIMATES
+The author is not aware of any Mineral Resource or Mineral Reserve estimates for the Pampas
+El Peñon Property.
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+July 4, 2016
+Page 66
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+23.0
+ADJACENT PROPERTIES
+Region (II) of Chile has numerous world-class mining operations and many of them are adjacent
+to  the  Property.    The  most  noteworthy  properties  within  10  km  (6  miles)  that  meet  the  criteria
+defined in NI 43-101, Section 1.1 are as follows:
+·
+Yamana Gold’s Pampa Augusta Victoria mine, which is part of the El Peñon mine.
+The sub-parallel Victoria vein system, within the Pampa Victoria vein system is described as a
+near surface, high-grade core of mineralization occurring over 400 metres along strike and 100
+metres down dip and remains open along strike and down dip (Yamana Gold NR, 2011).
+The  author  has  been  unable  to  verified  this  information  and  that  the  information  may  not  be
+indicative of the mineralization on the Property.
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 67
+24.0
+OTHER RELEVANT DATA and INFORMATION
+To the author’s best knowledge, all the relevant data and information has been provided in the
+preceding text.
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 68
+25.0
+INTERPRETATION and CONCLUSIONS
+The  Pampas  El  Peñon  Property  displays  styles  of  mineralization  characteristic  of  the  low  to
+intermediate sulphidation epithermal deposits similar to El Peñon where the veins do not crop
+out on surface.  The Central Andean Paleocene belt is ~1900 kilometres long and extends from
+southern Peru to central Chile.  Mineralization is associated with an orogen-parallel metallogenic
+belt of highly prospective Jurassic and Paleocene-Early Miocene volcanic and intrusive rocks.
+ This suite of rocks hosts the Lomas Bayas, Spence, Sierra Gorda, El Peñon, Faride and Mantos
+Blancos mines from the Antofagasta Region of Northern Chile and the region accounts for almost
+18% of world copper production (2011) and significant gold production.
+The author has been unable to verify this information about El Peñon and that the information
+may not be indicative of the mineralization on the Property.
+The initial exploration work was designed to verify the validity of previous work carried out on the
+property and review the existing exploration targets. Existing trenches were visited and selected
+samples were collected to verify the previously reported anomalies of trace elements. The RC
+chips from the short drill hole program carried out by the previous owners were reviewed and the
+existing geology mapping was reviewed.
+Current  exploration  on  the  Property  has  identified  five  priority  targets  with  geochemical  and
+geological  features  similar  to  productive  low-sulphidation  epithermal  veins  found  on  Yamana
+Gold’s Pampa Augusta Victoria mine located immediately to the East of the property limit.
+The author has been unable to verify this information about Pampa Augusta Victoria and that the
+information may not be indicative of the mineralization on the Property.
+The Property is in the early exploration stage, the risks and uncertainties associated with this
+stage  of  exploration  are  the  challenges  in  discovering  new,  potentially  economic,  epithermal
+systems  on  a  property  where  the  majority  of  the  property  is  covered  by  recent  colluvial  and
+alluvial deposits.  The foreseeable impacts of these risks and uncertainties would be the failure
+to discover additional mineralization that would limit its exploration potential.
+The Pampas El Peñon property warrants further exploration for epithermal gold-silver systems
+with the potential of discovering a low sulphidation epithermal deposit.
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+July 4, 2016
+Page 69
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+26.0
+RECOMMENDATIONS
+The recommended exploration and work programs, in US dollars, for the five drill targets on the
+Property, are as follows:
+Phase I $889,000
+·
+Geophysical survey $7,000
+Ground Magnetic Survey
+·
+6,500 m RC drill program $715,000
+·
+Geologists $70,000
+·
+Assays $70,000
+·
+Truck rentals $10,000
+Includes fuel and maintenance
+·
+Accommodations $5,000
+·
+Travel $7,000
+·
+Supplies and misc. $5,000
+The work program will consist of 700-line kms of ground magnetics covering both concession
+groups.
+The RC drill program will test the five drill targets on the concession groups as detailed in Figure
+9.7.
+The Phase II program is contingent upon positive results from the Phase I program.  Following a
+thorough  compilation  and  review  by  a  qualified  person  the  following  Phase  II  drill  program  is
+recommended to further test significant results from Phase I:
+Phase II $220,000
+·
+1,500 m RC drill program $165,000
+·
+Geologists $20,000
+·
+Assays $20,000
+·
+Truck rentals and maintenance $5,000
+·
+Travel $5,000
+·
+Accommodations $3,000
+·
+Supplies and misc. $2,000
+The follow up drill program is to test any significant results from Phase I.
+Program total $1,109,000
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+July 4, 2016
+Page 70
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+27.0
+REFERENCES
+Agar, B., 2014, Aster Alteration Mineral Mapping; Pampas El Peñon Area, N. Chile, prepared by
+Australian  Geological  and  Remote  Sensing  Services,  prepared  for  Arena  Minerals,  internal
+company report, 22 p.
+Arsenseau, V, 2016, Personal Communication
+Benavides-Caceres, V., 1999, Orogenic Evolution of the Perúvian Andes; in Geology and ore
+Deposits of the Central Andes, Society of Economic Geologists Special Publication Number 7,
+Skinner, B.J. (ed), pp. 61 - 107
+Boric,  R.;  Diaz,  F.,  Maksaev,  V.;  1990,  Geología  y  Yacimientos  Metalíferos  de  la  Region  de
+Antofagasta. Boletín Nº 40. Servicio Nacional de Geología y Minería. 246 p.
+Collins,  S.E.,  Moore,  C.M.,  and  Scott,  K.C.,  2010,  Technical  Report  on  the  El  Peñon  Mine,
+Northern Chile, prepared for Yamana Gold Inc., 132 pp., December 7, 2010.
+Cornejo,  P.,  Matthews,  S.,  and  Pérez  de  Arce,  C.,  2003,  The  “K-T”  compressive  deformation
+event in northern Chile (24-27°S): Congreso Geológico Chileno, 10th, Concepción, 2003, CD-
+ROM, 11p.
+Delouis,  B.,  Philip,  H.,  Dorbath,  L.,  Cisternas,  A.,  1998,  Recent  crustal  deformation  in  the
+Antofagasta region (northern Chile) and the subduction process, Geophysics Journal Int. (1998)
+12, 302-338.
+Erickson,  G.,  1981,  Geology  and  origin  of  the  Chilean  Nitrate  Deposits.    USGS  Professional
+Paper 1188, 37 pp.
+Ferraris, F, 1978, Carta Geologica de Chile, No. 35, 1:250,000, Hoja Anotofagasta
+Garcés  Millas,  I.,  2000,  Minerales  Industriales:  Boro,  Litio,  Salitre  y  sus  derivados.  Recursos,
+Procesos asociados, Mercados y Usos, Universidad de Antofagasta, Chile. 26 p.
+Marinovic, N., Smoje, I., Maksaev, V., Herve, M., and Mpodozis, C., 1995, Hoja Agua Blancas,
+Región  de  Antofagasta:  Carta  Geológica  de  Chile,  No.  70,  Santiago,  Servicio  Nacional  de
+Geología y Minería.
+Minerals  Yearbook,  Vol.  III,  2011,  Mineral  Industries  of  Latin  America  and  Canada,  USGS,
+Minerals Information, 198 p.
+Pearson,  J.  L.,  and  Rennie,  D.  W.,  2008,  Technical  Report  on  the  El  Peñón  Mine,  Chile,
+Resource Audit, prepared for Yamana Gold Inc., 130 pp., February 11, 2008.
+Peterson, U., 1999, Magmatic and Metallogenic Evolution of the Central Andes, in Geology and
+Ore Deposits of the Central Andes, B. J.Skinner Editor, pp. 114 - 116.
+Reutter, K.,J., Chong, G. and Scheuber, E., 1993, The “West Fissure” and The Precordillera Fault
+System of Northern Chile: Second ISAG, Oxford (UK), 1993, pp 237-240.
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+July 4, 2016
+Page 71
+Robbins, C.H., 2000, Geology of the El Peñón gold-silver deposit, northern Chile, in Cluer, J.K.,
+Price, J.G., Struhsacker, E.M., Hardyman, R.F., and Morris, C.L., eds., Geology and ore deposits
+2000:  The  Great  Basin  and  beyond:  Geological  Society  of  Nevada  Symposium,  Reno,  2000,
+Proceedings, p. 249-264.
+Rojas,  O.,  1994,  Geología,  alteración  y  mineralisación  del  prospecto  Anillo,  II  Región,  Chile:
+Santiago, Universidad de Chile, Memoria de título, 63p.
+Seedorff, E., Dilles, J. H., Proffett, J. M., Jr., Einaudi, M. T., Zurcher, L., Stavast, W. J.A., Johnson,
+D.  A.,  and  Barton,  M.  D.,  2005,  Porphyry  deposits;  characteristics  and  origin  of  hypogene
+features: Economic Geology 100th Anniversary Volume, p. 251-298.
+SERNAGEOMIN, 2003, Mapa geológico de Chile: versión digital: Servicio Nacional de Geología
+y Minería, Publicación Geológica Digital No. 4 (versión 1.0, 2003),Santiago.
+Sillitoe, R. H., 1985, Ore-related breccias in volcano plutonic arcs: Economic Geology, v 80, pp.
+1467 - 1514.
+Sillitoe, R. H., 1991, Intrusion related gold deposits.  In: Foster, R.P., (editor), Gold Metallogeny
+and Exploration. Glasgow, Blackie and Son, pp. 165 - 209.
+Sillitoe,  R.  H.,  2008,  Special  Paper:  Major  Gold  Deposits  and  Belts  of  the  North  and  South
+American Cordillera: Distribution, Tectonomagmatic Settings, and Metallogenic Considerations:
+Economic Geology, v. 103, pp. 663 – 687.
+Sillitoe, R. H., 2010, Porphyry Copper Systems: Economic Geology, v 105, pp. 3 - 41.
+Sillitoe,  R.  H.,  Perello,  j.  2005,  Andean  Copper  Province:  Tectomagmatic  Settings,  Deposit
+Types, Metallogeny, Exploration and Discovery: Economic Geology, v 100, pp. 845-890.
+Simon, A., Maycock, A., Marinho, R., 2005, Technical Report on the Aguas Blancas Property,
+Province of Antofagasta, Chile, prepared by AMEC International Chile S.A. for Atacama Minerals
+Corp., 490 p, filed on Sedar.
+Simmons, S.F., White, N.C., John, D.A., 2005, Geological Characteristics of Epithermal Precious
+and Base Metal Deposits: Economic Geology, v 100, pp. 485 - 522.
+Vega E., J., 20112012, Area de Interes El Peñon, 75 pp.., Internal SQM Report.
+Wikipedia, 2012, http://en.wikipedia.org/wiki/Antofagasta
+Yamana Gold News Release, Yamana Gold Provides 2011 Exploration Update, June 22, 2011,
+12 pp.
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+Antofagasta,
+Antofagasta Region (II), Chile
+July 4, 2016
+Page i
+James A. McCrea, P.Geo.
+ 
+ 
+Rouge Resources Ltd.
+Date and Signature Page
+CERTIFICATE OF QUALIFIED PERSON
+I, James Albert McCrea, am a professional geologist residing at 306 - 10743 139 Street, Surrey,
+British Columbia, Canada do hereby certify that:
+I am the author of the "NI 43-101 Technical Report on the Pampas El Peñon Property, Province
+and
+Municipality of Antofagasta, Antofagasta Region (II), Chile”, dated July 4, 2016;
+·
+I  am  a  Registered  Professional  Geoscientist  (P.  Geo.),  Practising,  with  the  Association  of
+Professional Engineers and Geoscientists of British Columbia, (Licence # 21450). I graduated
+from the University of Alberta, Canada, with a B. Sc. in Geology in 1988.
+·
+I  have  worked  as  a  geoscientist  in  the  minerals  industry  for  over  25  years  and  I  have  been
+directly  involved  in  the  mining,  exploration  and  evaluation  of  mineral  properties  mainly  in
+Canada, the United States, Mexico, Peru, Chile, Argentina, Bolivia and Colombia for gold, silver,
+copper, molybdenum and base metals;
+·
+I visited the Pampas El Peñon Property and area on May 31st to June 1st, 2016.
+·
+I had no prior involvement with the property before I visited it in May of 2016;
+·
+I was retained by Rouge Resources Ltd. to prepare an exploration summary on the Pampas El
+Peñon  Property,  Province  and  Commune  of  Antofagasta,  Antofagasta  Region  (II),  Chile,  in
+accordance with National Instrument 43-101. The report is based on my review of project files
+and  information  provided  by  Arena  Minerals  Inc.,  the  Property  vendor,  and  discussions  with
+company personnel;
+·
+I am responsible for all sections of the "NI 43-101 Technical Report on the Pampas El Peñon
+Property, Province and Municipality of Antofagasta, Antofagasta Region (II), Chile”, dated July 4,
+2016.
+·
+I  am  independent  of  Rouge  Resources  Ltd.  and  Arena  Minerals  Inc.  as  independence  is
+described  by  Section  1.5  of  NI  43-101.  I  have  not  received,  nor  do  I  expect  to  receive,  any
+interest, directly or indirectly, in Rouge Resources Ltd. or Arena Minerals Inc.
+·
+I have read National Instrument 43-101 and Form 43-101F1 and, by reason of education and
+past  relevant  work  experience,  I  fulfill  the  requirements  to  be  a  “Qualified  Person”  for  the
+purposes  of  NI  43-101.  This  technical  report  has  been  prepared  in  compliance  with  National
+Instrument 43-101 and Form 43-101F1;
+·
+As of the date of this certificate, to the best of my knowledge, information and belief, the technical
+report contains all scientific and technical information that is required to be disclosed to make the
+technical report not misleading.
+·
+I,  the  undersigned  prepared  this  report  titled  “NI  43-101  Technical  Report  on  the  Pampas  El
+Peñon Property, Province and Municipality of Antofagasta, Antofagasta Region (II), Chile”, dated
+July 4, 2016, in support of the public disclosure of technical aspects for the Pampas El Peñon
+Property by Rouge Resources Ltd.
+Dated this 29th day of July, 2016
+NI 43-101 Technical Report on the Pampa El Peñon Property, Province and Municipality of
+James A. McCrea, P.Geo.
+Antofagasta,
+Antofagasta Region (II), Chile
+July 4, 2016

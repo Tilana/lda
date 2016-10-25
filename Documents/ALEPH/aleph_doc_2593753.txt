@@ -1,0 +1,541 @@
+
+<SEC-DOCUMENT>0001594062-16-000562.txt : 20160816
+<SEC-HEADER>0001594062-16-000562.hdr.sgml : 20160816
+<ACCEPTANCE-DATETIME>20160816140557
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+EFFECTIVENESS DATE:
+NT 10-Q
+1
+20160630
+0001594062-16-000562
+20160816
+20160816
+20160816
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: CRUDE PETROLEUM & NATURAL GAS
+PetroGas Co
+0001609258
+[1311]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+981153516
+NV
+0331
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 333-196409
+FILM NUMBER:
+NT 10-Q
+1934 Act
+161835609
+BUSINESS ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+2800 POST OAK BOULEVARD
+SUITE 4100
+HOUSTON
+TX
+77056
+832-390-2273
+MAIL ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+FORMER COMPANY:
+2800 POST OAK BOULEVARD
+SUITE 4100
+HOUSTON
+TX
+77056
+FORMER CONFORMED NAME: America Resources Exploration Inc.
+DATE OF NAME CHANGE:
+20150506
+FORMER COMPANY:
+FORMER CONFORMED NAME: Alazzio Entertainment Corp
+DATE OF NAME CHANGE:
+20140527
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>NT 10-Q
+<SEQUENCE>1
+<FILENAME>ntform10q.htm
+<DESCRIPTION>NT 10-Q
+<TEXT>
+<html>
+<head>
+    <title>ntform10q.htm</title>
+    <!--Licensed to: The Ideal Connection -->
+    <!--Document Created using EDGARizerAgent 5.5.2.0-->
+    <!--Copyright 1995 - 2015 Summit Financial Printing. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; 
+DISPLAY: inline">
+<div>
+<hr style="COLOR: #000000; MARGIN-TOP: -5px" noshade size="4">
+<hr style="COLOR: #000000; MARGIN-TOP: -10px" noshade size="1">
+</div>
+<div><br>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; 
+FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="56%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new
+roman; FONT-WEIGHT: bold; DISPLAY: inline">UNITED STATES</font></div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new
+roman; FONT-WEIGHT: bold; DISPLAY: inline">SECURITIES AND EXCHANGE 
+COMMISSION</font></div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new
+roman; FONT-WEIGHT: bold; DISPLAY: inline">Washington, D.C. 20549</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new
+roman; FONT-WEIGHT: bold; DISPLAY: inline">FORM 12b-25</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new
+roman; FONT-WEIGHT: bold; DISPLAY: inline">NOTIFICATION OF LATE 
+FILING</font></div>
+</td>
+<td align="left" valign="top" width="28%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new 
+roman; DISPLAY: inline">OMB APPROVAL</font></div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new 
+roman; DISPLAY: inline">OMB Number:&#160;&#160;3235-0058</font></div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new 
+roman; DISPLAY: inline">Expires: August 31, 2015</font></div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new 
+roman; DISPLAY: inline">Estimated average burden</font></div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new 
+roman; DISPLAY: inline">hours per response ..............2.50</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new
+roman; DISPLAY: inline">SEC FILE NUMBER: 333-196409</font></div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new 
+roman; DISPLAY: inline"><font style="FONT-SIZE: 10pt; DISPLAY: inline">CUSIP 
+NUMBER:</font></font></div>
+</td>
+</tr></table>
+</div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times 
+New Roman; DISPLAY: inline">(<font style="FONT-STYLE: italic; DISPLAY: 
+inline">Check One</font>): &#173;&#173;____ Form 10-K&#160;&#160;&#160;<font 
+style="TEXT-DECORATION: underline; DISPLAY: 
+inline">&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>Form 20-
+F&#160;&#160;&#160;<font style="TEXT-DECORATION: underline; DISPLAY: 
+inline">&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>Form 11-
+K&#160;&#160;&#160;&#160;<font style="TEXT-DECORATION: underline; DISPLAY: 
+inline">&#160;&#160;X&#160;&#160;&#160;&#160;</font>Form 10-
+Q&#160;&#160;&#160;&#160;___Form 10-D <font style="TEXT-DECORATION: underline; 
+DISPLAY: inline">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>Form N-
+SAR</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: 
+inline">&#160;&#160;____Form N-CSR</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times 
+New Roman; DISPLAY: inline">For Period Ended: June 30, 2016</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times 
+New Roman; DISPLAY: inline">[&#160;&#160;]&#160;&#160;Transition Report on Form 
+10-K</font></div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times 
+New Roman; DISPLAY: inline">[&#160;&#160;]&#160;&#160;Transition Report on Form 
+20-F</font></div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times 
+New Roman; DISPLAY: inline">[&#160;&#160;]&#160;&#160;Transition Report on Form 
+11-K</font></div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times 
+New Roman; DISPLAY: inline">[&#160;&#160;]&#160;&#160;Transition Report on Form 
+10-Q</font></div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times 
+New Roman; DISPLAY: inline">[&#160;&#160;]&#160;&#160;Transition Report on Form 
+N-SAR</font></div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times 
+New Roman; DISPLAY: inline">For the Transition Period Ended:</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times 
+New Roman; FONT-STYLE: italic; DISPLAY: inline">Read Instruction (on back page) 
+Before Preparing Form.&#160;&#160;Please Print or Type.</font></div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times 
+New Roman; FONT-WEIGHT: bold; DISPLAY: inline">Nothing in this form shall be 
+construed to imply that the Commission has verified any information contained 
+herein.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times 
+New Roman; DISPLAY: inline">If the notification relates to a portion of the 
+filing checked above, identify the Item(s) to which the notification 
+relates:</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times 
+New Roman; FONT-WEIGHT: bold; DISPLAY: inline">PART I - REGISTRANT 
+INFORMATION</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times 
+New Roman; DISPLAY: inline">Full Name of Registrant: <font style="FONT-WEIGHT: 
+bold; DISPLAY: inline">PetroGas Company</font></font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times 
+New Roman; DISPLAY: inline">Former Name if Applicable:</font></div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="justify"><br>
+<font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: 
+inline">Address of Principal Executive Office (<font style="FONT-STYLE: italic; 
+DISPLAY: inline">Street and Number</font>):</font></div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times 
+new roman; FONT-WEIGHT: bold; DISPLAY: inline">2800 Post Oak Blvd, Suite 4100, 
+Houston, TX 77056</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New 
+Roman; FONT-WEIGHT: bold; DISPLAY: inline">PART II - RULES 12b-25(b) AND 
+(c)</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times 
+New Roman; DISPLAY: inline">If the subject report could not be filed without 
+unreasonable effort or expense and the registrant seeks relief pursuant to Rule 
+12b-25(b), the following should be completed.&#160;&#160;(Check box if 
+appropriate)&#160;&#160;&#160;<font style="TEXT-DECORATION: underline; DISPLAY: 
+inline"> x</font></font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times 
+New Roman; DISPLAY: inline">(a)&#160;&#160;The reason described in reasonable 
+detail in Part III of this form could not be eliminated without unreasonable 
+effort or expense.</font></div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times 
+New Roman; DISPLAY: inline">(b)&#160;&#160;The subject annual report, semi-
+annual report, transition report on Form 10-K, Form 20-F, 11-K, Form N-SAR or 
+Form N-CSR, or portion thereof, will be filed on or before the fifteenth 
+calendar day following the prescribed due date; or the subject quarterly report 
+of transition report on Form 10-Q or subject distribution report on Form 10-D, 
+or portion thereof, will be filed on or before the fifth calendar day following 
+the prescribed due date; and</font></div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times 
+New Roman; DISPLAY: inline">(c)&#160;&#160;The accountant's statement or other 
+exhibit required by Rule 12b-25(c) has been attached if applicable.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times 
+New Roman; FONT-WEIGHT: bold; DISPLAY: inline">PART III &#8211; 
+NARRATIVE</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times 
+New Roman; DISPLAY: inline">State below in reasonable detail the reasons why 
+Forms 10-K, 20-F, 11-K, 10-Q, N-SAR, N-CSR, or the transition report or portion 
+thereof, could not be filed within the prescribed time period. (Attach Extra 
+Sheets if Needed)</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times 
+New Roman; DISPLAY: inline">The Form 10-Q for the quarter ended June 30, 2016, 
+will not be submitted by the deadline due to a situation where the workload
+exceeds available personnel. The Registrant was unable to complete analysis of 
+all financial and non-financial information needed to be included in the 
+report.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="MARGIN-LEFT: 18pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times 
+New Roman; FONT-WEIGHT: bold; DISPLAY: inline">Persons who are to respond to the
+collection of information contained in this form are not required to respond 
+unless the form displays a currently valid OMB control number.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="FONT-SIZE: 8pt; 
+FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="FONT-SIZE: 8pt; FONT-
+FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="FONT-SIZE: 8pt; 
+FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+</div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times 
+New Roman; FONT-WEIGHT: bold; DISPLAY: inline">PART IV - OTHER 
+INFORMATION</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times 
+New Roman; DISPLAY: inline">(1)&#160;&#160;Name and telephone number of person 
+to contact in regard to this notification</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times
+new roman; FONT-WEIGHT: bold; DISPLAY: inline">W. SCOTT 
+LAWLER&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#
+160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#16
+0;&#160;&#160;&#160;&#160; 
+&#160;&#160;&#160;&#160;&#160;480&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160
+;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&
+#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#1
+60;&#160;&#160;&#160;&#160;&#160;&#160; 830-2700 </font>
+<div>
+<hr style="COLOR: black" align="left" noshade size="2" width="100%">
+</div>
+</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times 
+New Roman; DISPLAY: 
+inline">(Name)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#
+160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#16
+0;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+&#160;&#160;&#160;(Area 
+Code)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#1
+60;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(Telephone 
+Number)</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times 
+New Roman; DISPLAY: inline">(2)&#160;&#160;Have all other periodic reports 
+required under Section 13 or 15(d) of the Securities Exchange Act of 1934 or 
+Section 30 of the Investment Company Act of 1940 during the preceding 12 months 
+or for such shorter period that the registrant was required to file such 
+report(s) been filed?&#160;&#160;If answer is no, identify 
+report(s).&#160;&#160;&#160;&#160;<font style="TEXT-DECORATION: underline; 
+DISPLAY: inline"> 
+X&#160;&#160;&#160;&#160;&#160;</font>&#160;&#160;&#160;Yes&#160;&#160;&#160;&#1
+60;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;__ 
+No</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times 
+New Roman; DISPLAY: inline">(3)&#160;&#160;Is it anticipated that any 
+significant change in results of operations from the corresponding period for 
+the last fiscal year will be reflected by the earnings statements to be included
+in the subject report or portion thereof?&#160;&#160;&#160;&#160;<font 
+style="TEXT-DECORATION: underline; DISPLAY: 
+inline">&#160;&#160;&#160;&#160;&#160; 
+</font>&#160;&#160;&#160;Yes&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#16
+0;&#160;&#160;&#160;&#160;<font style="TEXT-DECORATION: underline; DISPLAY: 
+inline">&#160;&#160;X&#160;&#160;&#160;&#160;</font> No</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times 
+New Roman; DISPLAY: inline">If so, attach an explanation of the anticipated 
+change, both narratively and quantitatively, and, if appropriate, state the
+reasons why a reasonable estimate of the results cannot be made.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New
+Roman; FONT-WEIGHT: bold; DISPLAY: inline">PetroGas Company</font></div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New
+Roman; DISPLAY: inline">(Name of Registrant as Specified in 
+Charter)</font></div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New
+Roman; DISPLAY: inline">has caused this notification to be signed on its behalf 
+by the undersigned hereunto duly authorized.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New 
+Roman; DISPLAY: inline">Date:&#160;&#160;August 16, 
+2016&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#16
+0;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#
+160;&#160;&#160;&#160;By:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&
+#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#1
+60;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="TEXT-
+DECORATION: underline; DISPLAY: inline">/s/ Huang Yu<font id="TAB2" 
+style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" 
+style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" 
+style="LETTER-SPACING: 
+9pt">&#160;&#160;</font></font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&
+#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#1
+60;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160
+;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></div>
+<div style="MARGIN-LEFT: 144pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New 
+Roman; DISPLAY: 
+inline">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#
+160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#16
+0;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+&#160;&#160;&#160; Name &amp; Title: Huang Yu<font style="FONT-SIZE: 10pt; 
+DISPLAY: inline">, CEO</font></font></div>
+<div style="MARGIN-LEFT: 144pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New 
+Roman; DISPLAY: inline">&#160;</font><br>
+&#160;</div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New 
+Roman; DISPLAY: inline">INSTRUCTION:&#160;&#160;The form may be signed by an 
+executive officer of the registrant or by any other duly authorized 
+representative.&#160;&#160;The name and title of the person signing the form 
+shall be typed or printed beneath the signature.&#160;&#160;If the statement is 
+signed on behalf of the registrant by an authorized representative (other than 
+an executive officer), evidence of the representative's authority to sign on 
+behalf of the registrant shall be filed with the form.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New
+Roman; FONT-WEIGHT: bold; DISPLAY: inline">ATTENTION</font></div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New
+Roman; FONT-WEIGHT: bold; DISPLAY: inline">Intentional misstatements or 
+omissions of fact constitute Federal Criminal Violations (See 18 U.S.C. 
+1001).</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New
+Roman; FONT-WEIGHT: bold; DISPLAY: inline">GENERAL INSTRUCTIONS</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New 
+Roman; DISPLAY: inline">1.&#160;&#160;This form is required by Rule 12b-25 (17 
+CFR 240.12b-25) of the General Rules and Regulations under the Securities 
+Exchange Act of 1934.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New 
+Roman; DISPLAY: inline">2.&#160;&#160;One signed original and four conformed 
+copies of this form and amendments thereto must be completed and filed with the 
+Securities and Exchange Commission, Washington, D.C. 20549, in accordance with 
+Rule 0-3 of the General Rules and Regulations under the Act.&#160;&#160;The 
+information contained in or filed with the form will be made a matter of public 
+record in the Commission files.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New 
+Roman; DISPLAY: inline">3.&#160;&#160;A manually signed copy of the form and 
+amendments thereto shall be filed with each national securities exchange on 
+which any class of securities of the registrant is registered.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New 
+Roman; DISPLAY: inline">4.&#160;&#160;Amendments to the notifications must also 
+be filed on form 12b-25 but need not restate information that has been correctly
+furnished.&#160;&#160;The form shall be clearly identified as an amended 
+notification.</font></div>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: -0.55pt; TEXT-
+INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New 
+Roman; DISPLAY: inline">5.&#160;&#160;<font style="FONT-STYLE: italic; DISPLAY: 
+inline">Electronic Filers.</font>&#160;&#160;This form shall not be used by 
+electronic filers unable to timely file a report solely due to electronic 
+difficulties.&#160;&#160;Filers unable to submit a report within the time period
+prescribed due to difficulties in electronic filing should comply with either 
+Rule 201 or Rule 202 of Regulation S-T (section 232.201 or section 232.202 of 
+this chapter) or apply for an adjustment in filing date pursuant to rule 13(b) 
+of Regulation S-T (section 232.13(b) of this chapter.</font></div>
+<br>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; MARGIN-RIGHT: 0pt; TEXT-
+INDENT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="FONT-SIZE: 8pt; 
+FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="FONT-SIZE: 8pt; FONT-
+FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="FONT-SIZE: 8pt; 
+FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+</div>
+<br>
+</div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

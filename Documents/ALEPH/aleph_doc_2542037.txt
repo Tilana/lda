@@ -1,0 +1,430 @@
+
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ EAYYtMcKwhp3pbAfjJXGru3dVXVRDzjtoUw6O4rxw5fhJm1fPP4Lcx18BdOQXtkR
+ 5HijxjpY+8uFUf90A+3hgg==
+<SEC-DOCUMENT>0001209191-05-055899.txt : 20051107
+<SEC-HEADER>0001209191-05-055899.hdr.sgml : 20051107
+<ACCEPTANCE-DATETIME>20051107144919
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+4
+1
+20020111
+0001209191-05-055899
+20051107
+20051107
+REPORTING-OWNER:
+OWNER DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+ARMIJO RALPH
+0001029046
+CO
+1231
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 000-29098
+FILM NUMBER:
+4
+1934 Act
+051183040
+BUSINESS ADDRESS:
+BUSINESS PHONE:
+3037907565
+MAIL ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+14 INVERNESS DR
+BLDG F STE 116
+ENGLEWOOD
+CO
+80112
+ISSUER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: CRUDE PETROLEUM & NATURAL GAS
+BPZ ENERGY INC
+0001023734
+[1311]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+330502730
+CO
+1231
+BUSINESS ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+580 WESTLAKE PARK BLVD.
+SUITE 525
+HOUSTON
+TX
+77079
+2815566200
+MAIL ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+580 WESTLAKE PARK BLVD.
+SUITE 525
+HOUSTON
+TX
+77079
+FORMER CONFORMED NAME: NAVIDEC INC
+DATE OF NAME CHANGE:
+19961017
+FORMER COMPANY:
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>bdn29457_bdn2erja.xml
+<DESCRIPTION>MAIN DOCUMENT DESCRIPTION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+<schemaVersion>X0202</schemaVersion>
+<documentType>4</documentType>
+<periodOfReport>2002-01-11</periodOfReport>
+<issuer>
+        <issuerCik>0001023734</issuerCik>
+        <issuerName>BPZ ENERGY INC</issuerName>
+        <issuerTradingSymbol>BPZI</issuerTradingSymbol>
+    </issuer>
+<reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001029046</rptOwnerCik>
+            <rptOwnerName>ARMIJO RALPH</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>6510 S. FIDDLERS GREEN CIRCLE, STE 
+110</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>GREENWOOD VILLAGE</rptOwnerCity>
+            <rptOwnerState>CO</rptOwnerState>
+            <rptOwnerZipCode>80111</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>President &amp; CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+<nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>654654</value>
+</sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1674</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By daughter</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1674</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By son</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1674</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By son</value>
+                </natureOfOwnership>
+            </ownershipNature>
+</nonDerivativeHolding>
+    </nonDerivativeTable>
+<derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Stock Option</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>0</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2001-07-01</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2006-07-01</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>197333</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>197333</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>.41</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2002-01-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6250</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+</transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2003-01-11</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2007-01-11</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>6250</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6250</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>.41</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2002-01-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6250</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2004-01-11</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2007-01-11</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+</underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>6250</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6250</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>.41</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2002-01-11</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>12500</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2005-01-11</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2007-01-11</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>12500</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>12500</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+<directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+<footnotes>
+        <footnote id="F1">The issuer completed a reverse stock split on December
+5, 2002, by which 18 pre-split shares were converted into a single post-split 
+share.  Because the period covered by this report is before the split occurred, 
+it reflects pre-split ownership.</footnote>
+        <footnote id="F2">The foregoing table does not include an option to 
+purchase 150,000 shares purportedly granted to Mr. Armijo on September 21, 1999 
+which, although reported in the issuer's annual report on Form 10-K, is not 
+included in Mr. Armijo's records and, therefore, he disclaims any interest in or
+ownership of that option.</footnote>
+    </footnotes>
+<ownerSignature>
+        <signatureName>/s/ Ralph Armijo</signatureName>
+        <signatureDate>2005-10-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

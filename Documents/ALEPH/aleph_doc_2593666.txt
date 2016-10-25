@@ -1,0 +1,3658 @@
+
+EX-99.2 3 v446418_ex99-2.htm EXHIBIT 99.2
+Exhibit 99.2
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+August 9, 2016 – The following Management’s Discussion and Analysis of financial results (“MD&A”)
+as provided by the management of Bellatrix Exploration Ltd. (“Bellatrix” or the “Company”) should be
+read in conjunction with the unaudited interim condensed consolidated financial statements of the
+Company for the three and six months ended June 30, 2016 and 2015, and the audited consolidated
+financial statements of the Company for the years ended December 31, 2015 and 2014, and the
+related MD&A. Disclosure which is unchanged from the MD&A for the year ended December 31,
+2015 may not be repeated herein. This commentary is based on information available to, and is dated
+as of, August 9, 2016. The financial data presented is in Canadian dollars, except where indicated
+otherwise.
+CONVERSION: The term barrels of oil equivalent (“boe”) may be misleading, particularly if used in
+isolation. A boe conversion ratio of six thousand cubic feet of natural gas to one barrel of oil
+equivalent (6 mcf/bbl) is based on an energy equivalency conversion method primarily applicable at
+the burner tip and does not represent a value equivalency at the wellhead. Given that the value ratio
+based on the current price of crude oil as compared to natural gas is significantly different from the
+energy equivalency of 6:1, utilizing a conversion on a 6:1 basis may be misleading as an indication of
+value. All boe conversions in this report are derived from converting gas to oil in the ratio of six
+thousand cubic feet of gas to one barrel of oil.
+DRILLING LOCATIONS: This presentation discloses 521 net identified drilling locations. These
+identified drilling locations are comprised of 191 booked locations; and 330 unbooked locations.
+Booked locations are proved locations and probable locations derived from the Corporation's most
+recent independent reserves evaluation as prepared by Sproule Associates Limited, Bellatrix's
+independent reserves evaluator, as of December 31, 2015 and account for drilling locations that have
+associated proved and/or probable reserves, as applicable. Unbooked locations are internal
+estimates based on Bellatrix's prospective acreage and an assumption as to the number of wells that
+can be drilled per section based on industry practice and internal review. Unbooked locations have
+been identified by management as an estimation of our multi-year drilling activities based on
+evaluation of applicable geologic, seismic, engineering, production, pricing assumptions and
+reserves information. There is no certainty that Bellatrix will drill all booked or unbooked drilling
+locations and if drilled there is no certainty that such locations will result in additional oil and gas
+reserves, resources or production. The drilling locations on which Bellatrix actually drill wells will
+ultimately depend upon the availability of capital, regulatory approvals, seasonal restrictions, oil and
+natural gas prices, costs, actual drilling results, additional reservoir information that is obtained and
+other factors. While the majority of Bellatrix's unbooked locations are extensions or infills of the
+drilling patterns already recognized by the independent evaluator, other unbooked drilling locations
+are farther away from existing wells where management has less information about the characteristics
+of the reservoir and therefore there is more uncertainty whether wells will be drilled in such locations
+and if drilled there is more uncertainty that such wells will result in additional oil and gas reserves,
+resources or production.
+NON-GAAP MEASURES: This MD&A contains the term “funds flow from operations” which should
+not be considered an alternative to, or more meaningful than “cash flow from operating activities” as
+determined in accordance with generally accepted accounting principles (“GAAP”) as an indicator of
+the Company’s performance. Therefore reference to funds flow from operations or funds flow from
+operations per share may not be comparable with the calculation of similar measures for other
+entities. Management uses funds flow from operations to analyze operating performance and
+leverage and considers funds flow from operations to be a key measure as it demonstrates the
+Company’s ability to generate the cash necessary to fund future capital investments and to repay
+debt. Funds flow from operations is calculated as cash flow from operating activities, excluding
+decommissioning costs incurred and changes in non-cash working capital incurred. The
+reconciliation between cash flow from operating activities and funds flow from operations can be
+found in this MD&A. Funds flow from operations per share is calculated using the weighted average
+number of shares for the period.
+1
+This MD&A also contains the terms “total net debt”, “long-term debt”, “adjusted working capital
+deficiency (excess)”, “operating netbacks”, “adjusted net profit (loss)”, “total revenue” and “total capital
+expenditures – net”, which also are not recognized measures under GAAP. Therefore reference to the
+non-GAAP measures of total net debt, long-term debt, adjusted working capital deficiency (excess),
+operating netbacks, adjusted net profit (loss), total revenue or total capital expenditures – net may not
+be comparable with the calculation of similar measures for other entities. The Company’s calculation
+of total net debt excludes deferred lease inducements, decommissioning liabilities, the long-term
+finance lease obligation, and deferred tax liabilities. Total net debt includes the adjusted working
+capital deficiency (excess), current bank debt and long-term debt. Long-term debt includes the
+balances of bank debt and Senior Notes (as defined below). The adjusted working capital deficiency
+(excess) is a non-GAAP measure calculated as net working capital deficiency (excess) excluding
+current finance lease obligation, current deferred lease inducements, current portion of risk
+management assets and liabilities, and the current portion of bank debt. Management believes these
+measures are useful supplementary measures of the total amount of current and long-term debt.
+Operating netbacks are calculated by subtracting royalties, transportation, and operating expenses
+from total revenue. Management believes this measure is a useful supplemental measure of the
+amount of total revenue received after transportation, royalties and operating expenses. The
+Company’s calculation of total revenue includes petroleum and natural gas sales and other income,
+and excludes commodity price risk management. Adjusted net profit (loss) is calculated by excluding
+the after tax effect after adjusting for non-deductible tax items, of non-cash commodity contracts mark-
+to-market gains and losses, unrealized foreign exchange gains and losses, non-cash impairment
+charges and non-cash one time charges, as applicable, impacting net profit (loss). Management
+believes that, in addition to net profit (loss), adjusted net profit (loss) is a useful supplemental measure
+as it reflects the underlying performance of Bellatrix’s business activities. Readers are cautioned,
+however, that this measure should not be construed as an alternative to net profit or loss determined
+in accordance with GAAP as a measure of performance. Bellatrix’s method of calculating this
+measure may differ from other entities, and accordingly, may not be comparable to measures used by
+other companies. Total capital expenditures - net includes the cash impact of capital expenditures
+and property dispositions, as well as the non-cash capital impacts of corporate acquisitions,
+adjustments to the Company’s decommissioning liabilities, and share based compensation.
+JOINT ARRANGEMENTS: Bellatrix is a partner in the Grafton Joint Venture and the CNOR Joint
+Venture (all as defined below), which have all been separately assessed and classified under
+International Financial Reporting Standards (“IFRS”) as joint operations. This classification is on the
+basis that the arrangement is not conducted through a separate legal entity and the partners are
+legally obligated to pay their share of costs incurred and take their share of output produced from the
+various production areas, and all partners have rights to the assets and obligations for the liabilities
+resulting from the joint operations. The Company considered these factors as well as the terms of the
+individual agreements in determining the classification of a joint operation to be appropriate for each
+arrangement. For purposes of disclosure throughout the MD&A and financial statements, Bellatrix has
+referred to these arrangements by the common oil and gas industry term of joint ventures.
+GRAFTON JOINT VENTURE – During 2013 Bellatrix and Grafton Energy Co I Ltd.(“Grafton”)
+established a joint venture whereby Grafton agreed to contribute 82%, or $200 million, to participate
+in a Notikewin/Falher and Cardium well program in the Willesden Green and Brazeau areas of West-
+Central Alberta (the “Grafton Joint Venture”) with a two year funding period (expiring June 26, 2015).
+Under the terms of the Grafton Joint Venture agreement, Grafton earns 54% of Bellatrix’s working
+interest (“WI”) in each well drilled in the well program until payout (being recovery of Grafton's capital
+investment plus an 8% internal rate of return) on the total program, which reverts to  33% of Bellatrix's
+pre-Grafton Joint Venture WI after payout.  At any time after payout of the entire program, Grafton has
+the option to elect to convert all wells from the 33% WI to a 17.5% Gross Overriding Royalty
+(“GORR”). During 2014, Bellatrix announced that Grafton elected to exercise an option to increase
+committed capital investment to the Grafton Joint Venture by an additional $50 million on the same
+terms and conditions, for a total commitment by Grafton of $250 million. For wells relating to the
+exercised option, the funding period of the Grafton Joint Venture was extended to June 26, 2016.
+During the second quarter of 2015 the funding period for the initial $200 million commitment was
+extended to December 31, 2015 (from June 26, 2015). The funding obligation was satisfied by
+Bellatrix and Grafton by that date. In the first quarter of 2016,  the parties agreed to further extend the
+funding period for the remaining $50 million commitment under the Grafton Joint Venture to
+December 31, 2016 (from June 26, 2016) thereby providing additional operational flexibility for
+development drilling activity during the 2016 year. Bellatrix and Grafton expect to fulfill all of the
+spending commitments under the Grafton Joint Venture in the 2016 calendar year.
+2
+CNOR JOINT VENTURE - During the third quarter of 2014, Bellatrix announced that the Company
+and Canadian Non-Operated Resources Corp. ("CNOR"), a non-operated oil and gas company
+managed by Grafton Asset Management Inc., had completed the formation of a new multi-year joint
+venture arrangement (the “CNOR Joint Venture”), pursuant to which CNOR has committed $250
+million in capital towards future accelerated development of a portion of Bellatrix's extensive
+undeveloped land holdings. Under the terms of the agreement, CNOR will pay 50% of the drilling,
+completion, equipping and tie-in capital expenditures associated with development plans to be
+proposed by Bellatrix and approved by a management committee comprised of representatives of
+Bellatrix and CNOR in order to earn 33% of Bellatrix's working interest before payout (being recovery
+of CNOR’s capital investment plus an 8% return on investment) and automatically converting to a
+10.67% GORR on Bellatrix's pre-joint venture working interest after payout. On September 1, 2015,
+the parties amended the terms of the CNOR Joint Venture to extend the funding period to December
+31, 2019, and as a result Bellatrix is now required to propose a joint development plan on or before
+October 1, 2016 with the expectation that the funds will be primarily spent between 2017 through
+2019.
+Additional information relating to the Company, including Bellatrix’s Annual Information Form, is
+available on SEDAR at www.sedar.com and on the Company’s website at
+www.bellatrixexploration.com. The Company’s EDGAR filings and forms are available through the
+U.S. Securities and Exchange Commission at www.sec.gov.
+FORWARD LOOKING STATEMENTS: Certain information contained in this MD&A may contain
+forward looking statements within the meaning of applicable securities laws. The use of any of the
+words “remain”, “focus”, “believe”, “will”, “position”, “opportunity”, “maintain”, “continue”, “plan”, “future”,
+“strive”, “committed”, “expect”, “estimate”, “assume”, “target”, “forecast”, “intend”, “strategy”, “anticipate”,
+“enhance” and similar expressions are intended to identify forward-looking statements. More
+particularly and without limitation, this document contains forward-looking statements concerning
+management’s assessment of future plans, the expectation that the transactions discussed herein
+have preserved the Company's core assets and long-term value platform, expectation that Bellatrix
+will regain a growth trajectory at the end of 2016 heading into 2017 through focused investment in the
+Spirit River liquids-rich natural gas play, the expectation that the production and reserves acquired
+pursuant to the Grafton Acquisition (as defined below) will be processed through Bellatrix owned
+infrastructure and facilities and that such acquisition will have no incremental impact on general and
+administrative costs, the expected impact of the Facilities Monetization (as defined below) and Alder
+Flats Plant Sale (as defined below) on production expenses, the expectation that upon completion of
+Phase 2 of the Alder Flats Plant, production expenses will improve, expected timing and costs
+associated with completion of Phase 2 of the Alder Flats Plant, expected capacities and benefits of
+Phase 2 of the Alder Flats Plant, the expectation that the reduced cost profile resulting from
+completion of Phase 2 of the Alder Flats Plant will further enhance rate of return expectations on
+drilling projects in the greater Ferrier area and on future development drilling within liquids rich
+natural gas formations such as the Spirit River and Cardium, future drilling locations, expectations as
+to future risk management contracts to be put in place, expectation that the Term Facility (as defined
+herein) will be repaid prior to the November 11, 2016 maturity date utilizing cash received from its
+operations and potentially other sources of funds, expected result of the next borrowing base review
+under the Credit Facilities (as defined below), expected ability to be in compliance with certain
+covenants relating to the Credit Facilities and Senior Notes (as defined below), the expectation that
+the funds from the CNOR Joint Venture will be primarily spent between 2017 through 2019, expected
+future decommissioning liabilities of the Company, the ability to fund the 2016 capital expenditure
+program utilizing various available sources of capital, expectation that all spending commitments
+under the Grafton Joint Venture will be completed in 2016, guidance for the second half and full year
+of 2016 relating to production, natural gas weighting, capital expenditures and production expense,
+drilling plans and the timing thereof, intent to maintain strategic focus on investment in the Spirit River
+liquids-rich natural gas play, intent to proactively accelerate capital investment decisions into a firmer
+pricing environment, expectation that such strategy will provide enhanced benefits to shareholders
+over the near to medium term, intent to deliver accretive and profitable growth for shareholders and
+expectations relating to future commodity prices, expected commitments and timing of such
+commitments over the next five years, and expected sensitivities to changes in commodity prices,
+exchange rates and interest rates, may constitute forward-looking statements under applicable
+securities laws. To the extent that any forward-looking information contained herein constitute a
+financial outlook, they were approved by management on August 9, 2016 and are included herein to
+provide readers with an understanding of the anticipated funds available to Bellatrix to fund its
+operations and readers are cautioned that the information may not be appropriate for other purposes.
+Forward-looking statements necessarily involve risks, including, without limitation, risks associated
+with oil and gas exploration, development, exploitation, production, marketing and transportation, loss
+of markets, volatility of commodity prices, currency fluctuations, imprecision of reserve estimates,
+environmental risks, competition from other producers, inability to retain drilling rigs and other
+services, incorrect assessment of the value of acquisitions, failure to realize the anticipated benefits of
+acquisitions, delays resulting from or inability to obtain required regulatory approvals, actions taken
+by the Company's lenders that reduce the Company's available credit, any inability to repay the Term
+Facility prior to November 11, 2016, any inability to satisfy the covenant in the Credit Facilities, any
+reduction in the borrowing base of the Credit Facilities below levels of the outstanding debt under
+such Credit Facilities and ability to access sufficient capital from internal and external sources. Events
+or circumstances may cause actual results to differ materially from those predicted, as a result of the
+risk factors set out and other known and unknown risks, uncertainties, and other factors, many of
+which are beyond the control of Bellatrix. In addition, forward looking statements or information are
+based on a number of factors and assumptions which have been used to develop such statements
+and information but which may prove to be incorrect and which have been used to develop such
+statements and information in order to provide shareholders with a more complete perspective on
+Bellatrix’s future operations. Such information may prove to be incorrect and readers are cautioned
+that the information may not be appropriate for other purposes. Although the Company believes that
+the expectations reflected in such forward looking statements or information are reasonable, undue
+reliance should not be placed on forward looking statements because the Company can give no
+assurance that such expectations will prove to be correct. In addition to other factors and assumptions
+which may be identified herein, assumptions have been made regarding, among other things: the
+impact of increasing competition; the general stability of the economic and political environment in
+which the Company operates; the timely receipt of any required regulatory approvals; the ability of the
+Company to obtain qualified staff, equipment and services in a timely and cost efficient manner;
+drilling results; the ability of the operator of the projects which the Company has an interest in to
+operate the field in a safe, efficient and effective manner; the ability of the Company to obtain
+financing on acceptable terms; field production rates and decline rates; the ability to generate
+sufficient cash to repay the Term Facility; the ability to replace and expand oil and natural gas
+reserves through acquisition, development of exploration; the timing and costs of pipeline, storage
+and facility construction and expansion and the ability of the Company to secure adequate product
+transportation; future commodity prices; currency, exchange and interest rates; the regulatory
+framework regarding royalties, taxes and environmental matters in the jurisdictions in which the
+Company operates; and the ability of the Company to successfully market its oil and natural gas
+products. Readers are cautioned that the foregoing list is not exhaustive of all factors and
+assumptions which have been used. As a consequence, actual results may differ materially from
+those anticipated in the forward-looking statements. Additional information on these and other factors
+that could affect Bellatrix’s operations and financial results are included in reports (including, without
+limitation, under the heading “Risk Factors” in the Company’s Annual Information Form for the year
+ended December 31, 2015) on file with Canadian and United States securities regulatory authorities
+and may be accessed through the SEDAR website (www.sedar.com), through the SEC website
+(www.sec.gov), and at Bellatrix’s website (www.bellatrixexploration.com). Furthermore, the forward
+looking statements contained herein are made as at the date hereof and Bellatrix does not undertake
+any obligation to update publicly or to revise any of the included forward looking statements, whether
+as a result of new information, future events or otherwise, except as may be required by applicable
+securities laws.
+3
+The reader is further cautioned that the preparation of financial statements in accordance with GAAP
+requires management to make certain judgments and estimates that affect the reported amounts of
+assets, liabilities, revenues and expenses. Estimating reserves is also critical to several accounting
+estimates and requires judgments and decisions based upon available geological, geophysical,
+engineering and economic data. These estimates may change, having either a negative or positive
+effect on net earnings as further information becomes available, and as the economic environment
+changes.
+4
+Overview and Description of the Business
+Bellatrix Exploration Ltd. (“Bellatrix” or the “Company”) is a publicly traded Western Canadian based
+growth oriented oil and gas company engaged in the exploration for, and the acquisition,
+development and production of oil and natural gas reserves in the provinces of Alberta, British
+Columbia and Saskatchewan.
+Common shares of Bellatrix trade on the Toronto Stock Exchange (“TSX”) and on the New York Stock
+Exchange (“NYSE”) under the symbol “BXE”.
+Second Quarter 2016 Activities
+In the second quarter of 2016, Bellatrix continued to proactively execute on its strategy to reduce debt
+and focus on optimization initiatives. As is customary during spring-break up, the Company curtailed
+capital activity in the second quarter, and instead focused on a number of optimization initiatives,
+including the completion of 65 plunger lift installations and 15 wellbore cleanouts. These optimization
+efforts effectively attenuated the Company’s corporate decline rate, resulting in production volumes
+being maintained at 38,000 boe/d without drilling a single well in the second quarter of 2016. First half
+2016 production averaged 38,234 boe/d, exceeding first half guidance of 38,000 boe/d despite having
+underspent forecast capital expenditures in both the first and second quarters of 2016 relative to plan.
+Additionally, during the second quarter and subsequent to June 30, 2016, Bellatrix completed four
+strategic transactions which collectively have generated total gross proceeds of approximately $267.5
+million, increased operated volumes, cash flow and reserves, and enhanced liquidity, all while
+preserving the Company’s core asset base and long term value platform. During the second quarter,
+these strategic transactions include the monetization of certain production facilities for $75 million (the
+“Facilities Monetization”), the acquisition of approximately 2,000 boe/d of complementary Spirit River
+producing assets (the “Grafton Acquisition”). Subsequent to quarter end, Bellatrix completed the sale
+of a 35% minority working interest in the Bellatrix O'Chiese Nees-Ohpawganu'ck deep-cut gas plant
+at Alder Flats (the "Alder Flats Plant") for $112.5 million (the “Alder Flats Plant Sale”), and two
+financing transactions which combined have raised $80 million in gross proceeds.
+On a pro forma basis, these transactions have helped deliver a reduction in total bank debt
+outstanding from $314 million at the end of the second quarter 2016 down to approximately $122
+million, representing a reduction of 61% or $192 million at August 9, 2016. As a result of these
+strategic steps to reduce debt and re-position the Company, Bellatrix expects to regain a growth
+trajectory heading into 2017 through focused investment in the Spirit River liquids-rich natural gas
+play, which is one of the lowest supply cost natural gas plays in North America.
+ACHIEVED MATERIAL DEBT REDUCTION AND ENHANCED LIQUIDITY THROUGH
+STRATEGIC TRANSACTIONS
+Bellatrix has remained focused on debt reduction and liquidity enhancing initiatives through 2016.
+Accomplishments year to date include:
+the Facilities Monetization completed on May 3, 2016 which generated cash proceeds of $75 million.
+Bellatrix maintains operatorship and preferential access to the facilities for its operated production
+·
+volumes and retains, at its sole discretion, the option to repurchase the facilities at any time during
+the eight year term of the agreement. Net proceeds from the sale were used to repay bank
+indebtedness.
+the Grafton Acquisition which involved the acquisition of approximately 2,000 boe/d of operated
+producing assets from Grafton Energy Co. I Ltd. (“Grafton”) for consideration of $29.2 million satisfied
+on a cash-free basis through the issuance of common shares of Bellatrix, which closed on June 22,
+2016. The transaction is consistent with Bellatrix's strategy to consolidate operated production and
+·
+acreage within the Company’s core area at attractive metrics. The transaction adds highly
+complementary production and reserves which are expected to be processed through Bellatrix
+owned infrastructure and facilities and expected to have no incremental impact on general and
+administrative costs.
+5
+the Alder Flats Plant Sale which involved the sale of a 35% minority interest in the Alder Flats Plant
+to Keyera Partnership ("Keyera") for cash consideration of $112.5 million, which closed on August 9,
+2016. Following the transaction, Bellatrix remains operator of the Alder Flats Plant, maintains a 25%
+working interest ownership, and retains the option to reacquire a 5% interest in the Alder Flats Plant
+·
+near the end of the final year of the 10 year agreement with Keyera at a cost of $8 million. The $112.5
+million of cash consideration includes a prepayment by Keyera for 35% of the estimated future
+construction costs of Phase 2 of the Alder Flats Plant. Net proceeds from the sale were used to repay
+bank indebtedness.
+on August 9, 2016, Bellatrix closed two financings (together, the “Offerings”) for gross proceeds of
+$80 million. The Offerings included the issuance of $50 million principal amount of unsecured
+subordinated convertible debentures (the “Debentures”) and 25,000,000 subscription receipts (the
+“Subscription Receipts”) at a price of $1.20 per Subscription Receipt for gross proceeds of
+approximately $30 million. As a result of the completion of the Alder Flats Plant Sale, the maturity
+date of the Debentures has automatically been extended to September 30, 2021 and the
+Subscription Receipts have automatically converted into Common Shares. Net proceeds from the
+·
+Offerings of approximately $76.0 million were used to repay bank indebtedness. In connection with
+the Offerings, Bellatrix has granted the underwriters an option (the “Over-Allotment Option”) to
+purchase up to an additional $4.5 million of Subscription Receipts and $7.5 million principal amount
+of Debentures to cover over-allotments and for market stabilization purposes, exercisable in whole or
+in part at any time, and from time to time, until 30 days after the closing date of the Offerings. If the
+Over-Allotment Option is exercised in full, gross proceeds from the Offerings would increase by $12
+million to $92 million.
+Subsequent to the end of the second quarter, Bellatrix completed its semi-annual borrowing base
+redetermination and the renewal of its syndicated credit facilities (the "Credit Facilities"). Effective
+July 15, 2016, total commitments under the Company's Credit Facilities were set at $365 million,
+comprised of a $210 million revolving facility (the "Revolving Facility") with an extendible maturity
+date currently set at July 1, 2017, and a $155 non-revolving facility (the "Term Facility") with a maturity
+date set at November 11, 2016.
+Following completion of the Alder Flats Plant Sale and the Offerings and the application of the net
+proceeds therefrom, the Revolving Facility has been reduced to $160 million and the amount
+outstanding under the Term Facility reduced to approximately $13 million. The Company anticipates
+being able to fully repay all amounts owing under the Term Facility prior to the November 11, 2016
+maturity date by utilizing cash received from its operations and the proceeds, if any, from the full or
+partial exercise of the Over-Allotment Option. Alternatively, Bellatrix may undertake other transactions
+that would reduce outstanding indebtedness and repay the Term Facility in full prior to its maturity
+date. Bellatrix is also in active discussions with existing and new potential syndicate members about
+establishing a new long-term revolving credit facility prior to the next semi-annual redetermination and
+the maturity date of the Term Facility.
+DELIVERED ON GUIDANCE
+Second quarter 2016 production averaged 38,000 boe/d (72% natural gas weighted), which
+combined with first quarter volumes contributed to first half average production volumes of 38,234
+boe/d, exceeding first half 2016 guidance of 38,000 boe/d while underspending the first half capital
+budget by approximately 8%. Bellatrix exercised sagacious capital restraint given low commodity
+prices as evidenced by the Company having underspent forecast capital expenditures in both the first
+and second quarters of 2016, while effectively maintaining production volumes at or above corporate
+guidance.
+Activity in the second quarter of 2016 remained focused on optimization of existing assets given
+curtailed development drilling activity. Improving wellbore dynamics through the installation of
+plunger lift systems, wellbore cleanouts and the repositioning of pumps to optimize daily rate have
+contributed to further attenuation of the base corporate decline rate. Further optimization initiatives
+including gathering system modelling and the subsequent redirection of hydrocarbon directional flows
+have maximized deliverability of Bellatrix operated production across the gathering system. Active
+management of nominations during the ongoing restrictions of firm capacity on the Nova Gas
+Transmission Ltd. (“NGTL”) system has minimized production impacts. The aforementioned
+production initiatives have delivered positive results, with first half average production meeting
+Company guidance despite the shut in of minor non-core properties in Southern Alberta due to
+persistently low gas prices through the first and second quarters.
+6
+Production expenses in the first half of 2016 averaged $7.91/boe, slightly ahead of Company
+guidance. The Facilities Monetization impacted the cost structure in the first half of 2016 and the Alder
+Flats Plant Sale is anticipated to impact production expenses in the second half of 2016 as outlined
+within the Company’s updated outlook. Bellatrix expects that upon completion of Phase 2 of the Alder
+Flats Plant, production expenditures will realize a favourable step change reduction given the
+incremental 30 MMcf/d ownership capacity net to Bellatrix’s 25% working interest.
+First Half 2016 Actual Performance versus Guidance
+Average daily production (boe/d)
+Mid-point (+/- 500 boe/d)
+Natural gas weighting
+Net capital spending ($ millions) (1) $ 37
+Production expenses(2)  ($/boe)
+$ 7.91
+First Half
+ 
+2016 Results
+  
+   38,234
+   72%
+First Half
+  
+2016 Guidance
+   
+    38,000
+   72%
+  $ 40
+  $ 7.50
+Actual Versus
+  
+Guidance
+     
+    +1%
+   -
+    -8%
+    +5%
+(1) Capital spending includes exploration and development capital projects and corporate assets, and
+excludes property acquisitions and dispositions.
+(2) Production expenses before net processing revenue/fees.
+CONTINUOUS EMPHASIS ON COST CONTAINMENT AND REDUCTIONS
+Weak commodity prices persisted through the second quarter of 2016, most notably for natural gas
+prices with AECO daily and monthly indices averaging $1.39/mcf and $1.25/mcf, respectively, down
+24% and 41% compared to first quarter 2016 pricing and down 48% and 53%, respectively, compared
+with pricing in the second quarter 2015. Despite continued commodity price volatility and weakness,
+Bellatrix continued its focus on reducing and sustaining low costs across all business units during the
+second quarter of 2016. In the first half of 2016 compared with the first half of 2015, Bellatrix achieved:
+·Production expenses of $7.91/boe, a reduction of 8% from $8.57/boe
+·Transportation expenses of $0.90/boe were down 27% from $1.24/boe
+·Royalty expenses of $1.01/boe, a reduction of 68% from $3.11/boe
+·General and administrative (“G&A”) costs of $1.35/boe, down 26% from $1.82/boe
+·Capital costs per well drilled were reduced by approximately 22%
+ALDER FLATS PHASE 2 TO DELIVER ENHANCED REVENUE GENERATION AND REDUCED
+COSTS
+Bellatrix continues to advance the Phase 2 expansion project of the Alder Flats Plant which is
+expected to more than double the inlet capacity of the Plant from 110 MMcf/d currently to 230 MMcf/d.
+The project remains on time and budget, scheduled for completion in the first half 2018. Bellatrix
+invested approximately $5.1 million in the second quarter 2016 in facilities and infrastructure related
+capital including $4.3 million directly in Phase 2 of the Alder Flats Plant.
+The Phase 2 expansion project is similar in size and process to Phase 1, however Phase 2 is
+engineered with a colder process to provide deeper liquids extraction capability with approximately
+57% ethane extraction expected, versus approximately 19% ethane extraction engineered within
+Phase 1. Bellatrix entered into long term NGL fractionation and ethane pricing agreements for both
+Phase 1 and Phase 2 of the Plant, therefore expects to benefit from enhanced liquids extraction and
+revenue capture upon completion of Phase 2 in the first half of 2018.
+With an expected increase in available throughput at the Alder Flats Plant by approximately 30
+MMcf/d to 57.5 MMcf/d net to Bellatrix’s 25% net ownership interest, corporate operating costs are
+expected to recognize a step change reduction in the first half of 2018 further enhancing the
+Company’s long term competitiveness. The reduced cost profile further enhances rate of return
+expectations on drilling projects in the greater Ferrier area and on future development drilling within
+liquids rich natural gas formations such as the Spirit River and Cardium where Bellatrix holds an
+estimated inventory of approximately 521 net identified locations within close proximity to the
+Company’s core consolidated infrastructure and facility network.
+7
+Utilization remained strong at the Alder Flats Plant in the second quarter of 2016 averaging over 97%
+and since July 2015 the Plant has efficaciously averaged 100% capacity utilization. The Alder Flats
+Plant not only provides a strategic cost benefit but also provides Bellatrix the ability to re-direct
+additional natural gas volumes to the Plant during periods of third party facility constraints and
+unplanned downtime.
+STRONG HEDGE PORTFOLIO
+Bellatrix’s strategic planning is an active risk management policy providing reduced commodity price
+volatility and greater predictability of future revenue and cash flow. As at August 9, 2016 Bellatrix had
+strong risk management protection in place for the second half of 2016 with approximately 60% of
+gross natural gas volumes hedged at an average fixed price of approximately $2.96/mcf, based upon
+forecast second half of 2016 average production volumes of 34,500 boe/d (74% natural gas
+weighted). Additionally, Bellatrix maintains a firm level of risk management protection in 2017 with
+approximately 35% of gross natural gas volumes hedged at an average fixed price of approximately
+$3.37/mcf, based on forecast December 2016 average production volumes of 36,500 boe/d (74%
+natural gas weighted). Bellatrix did not add to its risk management portfolio during the second quarter
+given weak spot and forward strip natural gas prices. At August 1, 2016 the 2017 AECO forward strip
+had improved by approximately 10% compared with forward strip pricing on April 1, 2016.
+Management continues to monitor market pricing with the intent to enhance Bellatrix’s level of risk
+management protection in 2017 and further fortifying the portfolio with an inaugural base level of 2018
+risk management protection over the next several quarters.
+SAFE AND RESPONSIBLE OPERATIONS
+Although weak commodity prices have reduced industry exploration and development activity, the
+expectations set for environmental, safety, and regulatory activity continues to increase given
+heightened obligations and directives as set out in existing and new requirements. To that end,
+Bellatrix is pleased to announce second quarter results were achieved with no lost time incidents,
+and no material environmental or regulatory events. Bellatrix continues to execute our Inactive Well
+Compliance Program (“IWCP”), have achieved our target quota in year one, and have an effective
+proactive strategy in place to ensure the Company successfully achieves compliance for year two. In
+July, the Alberta Energy Regulator (“AER”) assessed Bellatrix’s Liability Management Ratio (“LMR”)
+at 8.8, more than double the industry average LMR of 4.2, and significantly above the Industry LMR
+Threshold of 1.0 demonstrating a continued strong LMR position.
+8
+SECOND QUARTER 2016 HIGHLIGHTS
+Three months ended
+ 
+June 30,
+ 2016
+ 
+   
+SELECTED FINANCIAL RESULTS
+(CDN$000s except share and per share amounts)   
+Total revenue (2)
+Funds flow from operations (3)
+Per basic share (6)
+Per diluted share (6)
+Cash flow from operating activities
+Per basic share (6)
+2015
+    
+    
+   88,941
+   28,378
+   $ 0.15
+   $ 0.15
+   16,475
+   $ 0.09
+48,285
+  9,048
+  $ 0.05
+  $ 0.05
+  7,675
+  $ 0.04
+2015
+Six months ended 
+  
+June 30,
+ 
+  2016
+ 
+    
+    
+ 
+   103,443    179,127  
+   21,924
+ 
+ 
+   $ 0.11
+ 
+   $ 0.11
+   18,008
+ 
+ 
+   $ 0.09
+53,235
+   $ 0.28
+   $ 0.28
+   39,027
+   $ 0.20
+$ 0.09
+$ 0.09
+$ 0.20
+)  $ (0.25
+)  $ (0.25
+)  $ (0.09
+)  $ (0.09
+)  $ (0.16
+)  $ (0.16
+$ 0.04
+ 
+  (32,254 )  (16,414 )  (48,283 )  (30,401 )
+  $ (0.17
+)
+  $ (0.17
+)
+  (55,193 )  (24,427 )  (35,846 )  (37,116 )
+)  $ (0.13
+  $ (0.28
+)
+)  $ (0.19
+)  $ (0.19
+)  $ (0.13
+)  $ (0.19
+  $ (0.28
+)
+)  $ (0.19
+   37,454
+   118,799  
+  7,766
+   36,784
+   1,957
+  23
+   3,111
+ 
+   54
+   749
+)  48
+  (2
+ 
+   1
+   122,659  
+  7,787
+   39,459
+   36,839
+  (77,704 )  (1,790
+)
+)  (77,829 )  (1,811
+   (40,990 )  120,848  
+  (69,917 )  37,669
+ 
+   29,178
+   -
+  29,178
+  (390
+)  (3,921
+)  1,554
+ 
+  (41,129 )  33,748
+   (10,258 )  124,402  
+  314,187    387,132    314,187    387,132  
+  313,279    298,125    313,279    298,125  
+  10,559
+ 
+  638,025    715,533    638,025    715,533  
+  1,607,674   2,233,516   1,607,674   2,233,516 
+  806,534    1,214,627   806,534    1,214,627
+-
+   3,554
+30,276
+10,559
+30,276
+Three months ended 
+ 
+June 30,
+ 2016
+(bbl/d)   10,550
+ (mcf/d)  164,699
+ (boe/d)  38,000
+  
+ ($/bbl)   49.32
+2015
+   
+   11,477
+   173,693
+   40,426
+    
+   66.95
+Per diluted share (6)
+Adjusted net loss (5)
+Per basic share (6)
+Per diluted share (6)
+Net loss
+Per basic share (6)
+Per diluted share (6)
+Capital – exploration and development
+Capital – corporate assets
+Property acquisitions
+Capital expenditures – cash
+Property dispositions – cash
+Total net capital expenditures – cash
+Property acquisitions – non-cash
+Other non-cash items
+Total capital expenditures – net (5)
+Bank debt
+Senior Notes
+Adjusted working capital deficiency (4)
+Total net debt (4)
+Total assets
+Total shareholders’ equity
+9
+SELECTED OPERATING RESULTS
+Average daily sales volumes
+Crude oil, condensate and NGLs
+Natural gas
+Total oil equivalent
+Average realized prices
+Crude oil and condensate
+Crude oil and condensate (including
+risk management (1))
+NGLs (excluding condensate)
+Crude oil, condensate and NGLs
+Natural gas
+Natural gas (including risk
+management (1))
+Total oil equivalent
+Total oil equivalent (including risk
+management (1))
+Six months ended 
+  
+June 30,
+  2016
+   
+   10,554
+   166,077
+   38,234
+    
+   44.10
+2015
+   
+   12,058
+   182,085
+   42,406
+    
+   57.69
+43.65
+11.74
+   23.42
+   1.75
+2.38
+14.06
+16.74
+58.28
+16.69
+   35.14
+   2.95
+2.99
+22.66
+22.98
+($/bbl)   48.66
+($/bbl)   13.05
+ ($/bbl)   25.57
+ ($/mcf)  1.50
+($/mcf)  2.34
+($/boe)  13.60
+($/boe)  17.19
+66.73
+15.15
+   37.77
+   2.91
+2.94
+23.23
+23.30
+0.0
+($/boe)  3.58
+($/boe)  7.17
+($/boe)  0.87
+ ($/boe)  8.46
+ ($/boe)  1.41
+8%
+2.8
+11.92
+11.99
+1.26
+   8.58
+   1.81
+11%
+5.7
+5.05
+7.73
+0.90
+   7.91
+   1.35
+8%
+6.0
+10.42
+10.74
+1.24
+   8.57
+   1.82
+15%
+Net wells drilled
+Selected Key Operating Statistics
+Operating netback (5)
+Operating netback (5) (including risk
+management (1))
+Transportation
+Production expenses
+General & administrative
+Royalties as a % of sales (after
+ transportation)
+ 
+COMMON SHARES
+Common shares outstanding
+Share options outstanding
+Fully diluted common shares
+outstanding
+Weighted average shares (6)
+SHARE TRADING STATISTICS
+TSX and Other (7)
+(CDN$, except volumes) based on
+intra-day trading
+High
+Low
+Close
+Average daily volume
+NYSE
+(US$, except volumes) based on
+intra-day trading
+High
+Low
+Close
+Average daily volume
+212,511,486   191,963,910   212,511,486   191,963,910 
+  11,518,167    13,847,836    11,518,167    13,847,836
+224,029,653   205,811,746   224,029,653   205,811,746
+193,770,290   191,960,174   192,867,100   191,956,654
+1.68
+  1.17
+  1.27
+  2,566,699
+4.05
+   2.87
+   2.91
+   1,852,296
+1.99
+   1.11
+   1.27
+   2,309,273
+4.46
+   2.38
+   2.91
+   2,382,730
+1.30
+  0.90
+  0.99
+  727,342
+3.38
+   2.31
+   2.33
+   733,698
+1.48
+   0.75
+   0.99
+   1,354,830
+3.81
+   1.86
+   2.33
+   809,725
+(1) The Company has entered into various commodity price risk management contracts which are
+considered to be economic hedges. Per unit metrics after risk management include only the realized
+portion of gains or losses on commodity contracts. The Company does not apply hedge accounting to
+these contracts. As such, these contracts are revalued to fair value at the end of each reporting date.
+This results in recognition of unrealized gains or losses over the term of these contracts which is
+reflected each reporting period until these contracts are settled, at which time realized gains or losses
+are recorded. These unrealized gains or losses on commodity contracts are not included for purposes
+of per unit metrics calculations disclosed.
+10
+(2) Total revenue is considered to be a non-GAAP measure. Therefore reference to the non-GAAP
+measure of total revenue may not be comparable with the calculation of similar measures for other
+entities. The Company’s calculation of total revenue includes petroleum and natural gas sales and
+other income, and excludes commodity price risk management. Management believes this measure
+is a useful supplementary measure of the revenue generated by the Company.
+(3) The term funds flow from operations is a non-GAAP measure which should not be considered an
+alternative to, or more meaningful than, cash flow from operating activities as determined in
+accordance with GAAP as an indicator of the Company’s performance. Therefore reference to the
+non-GAAP measures of funds flow from operations, or funds flow from operations per share may not
+be comparable with the calculation of similar measures for other entities. Management uses funds
+flow from operations to analyze operating performance and leverage and considers funds flow from
+operations to be a key measure as it demonstrates the Company’s ability to generate the cash
+necessary to fund future capital investments and to repay debt. The reconciliation between cash flow
+from operating activities and funds flow from operations can be found in the MD&A. Funds flow from
+operations per share is calculated using the weighted average number of common shares for the
+period.
+(4) Total net debt is considered to be a non-GAAP measure. Therefore reference to the non-GAAP
+measure of total net debt may not be comparable with the calculation of similar measures for other
+entities. The Company’s calculation of total net debt excludes deferred lease inducements,
+decommissioning liabilities, the long-term finance lease obligation and deferred tax liability. Total net
+debt includes the adjusted working capital deficiency (excess), current bank debt and long-term debt.
+The adjusted working capital deficiency (excess) is a non-GAAP measure calculated as net working
+capital deficiency (excess) excluding current commodity contract assets and liabilities, current finance
+lease obligation, current deferred lease inducements, and the current portion of bank debt. A
+reconciliation between total liabilities under GAAP and total net debt as calculated by the Company is
+found in this MD&A.
+(5) Operating netbacks, adjusted net profit (loss), and total capital expenditures – net are considered
+non-GAAP measures. Operating netbacks are calculated by subtracting royalties, transportation, and
+operating costs from total revenue. Adjusted net profit (loss) is calculated by excluding from net profit
+(loss) unrealized gains and losses on commodity contracts, unrealized gains and losses on foreign
+exchange, non-cash one time charges and non-cash impairments net of associated tax impacts after
+adjusting for non-deductible items. The detailed calculations of adjusted net profit (loss) are found in
+the MD&A. Adjusted net profit (loss) per share is calculated using the weighted average number of
+common shares for the period. Total capital expenditures – net includes the cash impact of capital
+expenditures and property dispositions, as well as the non-cash capital impacts of corporate
+acquisitions, property acquisitions, adjustments to the Company’s decommissioning liabilities, and
+share based compensation. The detailed calculations of operating netbacks are found in the MD&A.
+(6) Basic weighted average shares for the three and six months ended June 30, 2016 were
+193,770,290 (2015: 191,960,174) and 192,867,100 (2015: 191,956,654), respectively.
+In computing weighted average diluted loss per share, weighted average diluted adjusted net loss per
+share, weighted average diluted cash flow from operating activities per share, and weighted average
+diluted funds flow from operations per share for the three and six months ended June 30, 2016, a total
+of nil (2015: nil) and nil (2015: nil) common shares were added to the denominator as a consequence
+of applying the treasury stock method to the Company’s outstanding share options, resulting in diluted
+weighted average common shares of 193,770,290 (2015: 191,960,174) and 192,867,100 (2015:
+191,956,654), respectively.
+(7) TSX and Other includes the trading statistics for the TSX and other Canadian trading markets.
+Second Quarter 2016 Financial and Operational Results
+SALES VOLUMES
+Sales volumes for the three months ended June 30, 2016, decreased by 6% to an average of 38,000
+boe/d compared to 40,426 boe/d in the second quarter of 2015. Total sales volumes decreased
+between the three months ended June 30, 2016 and 2015 as drilling activity was curtailed in the latter
+half of 2015 and the first half of 2016 in response to the volatile and challenging commodity price
+environment as the Company balanced its focus on maintaining financial strength and liquidity as
+well as optimization of capital investments. Total crude oil, condensate and NGLs averaged 28% of
+sales volumes for the second quarter of 2016 compared to 28% in the same period in 2015.
+Sales volumes for the six months ended June 30, 2016, averaged 38,234 boe/d, a decrease of 10%
+from 42,406 boe/d realized in the first half of 2015. Total crude oil, condensate and NGLs averaged
+28% of sales volumes for the six months ended June 30, 2016, compared to 28% in the same period
+in 2015.
+Bellatrix focused operational activity in the first half of 2016 on optimization of existing assets,
+offsetting base declines and providing additional cash flow. Optimization of operations has provided
+Bellatrix the ability to mitigate downtime, reduce declines, and reduce operating costs across its
+operating areas. By improving wellbore dynamics through optimization projects daily rates are
+maximized and base production declines have flattened. Gathering system optimization was
+achieved through system modelling and subsequent redirection of flow has maximized deliverability
+of the gathering system. Active management of nominations during the ongoing NGTL restrictions of
+firm capacity has minimized production impacts as there have also been significant unplanned firm
+service restrictions on the NGTL system during the second quarter (80-85% of firm transport for
+several weeks). Despite the shut in of minor non-core properties in Southern Alberta due to
+persistently low gas prices, Bellatrix first half 2016 average production met the guidance of 37,500 to
+38,500 boe/d.
+11
+In response to low natural gas prices forecast through the summer and into the fall, Bellatrix has
+phased its second half 2016 development plans and on-stream delivery of new Spirit River wells to
+coincide with stronger forecast pricing later in the year. By delaying the on-stream delivery of new
+flush natural gas production to the latter part of 2016, Bellatrix plans to maximize the rate of return of
+the second half 2016 capital program.  Production volumes are anticipated to wane through the third
+quarter of 2016 before regaining a growth trajectory through the fourth quarter of 2016 with average
+daily production guidance for the second half of 2016 of 34,500 boe/d.
+Sales Volumes
+Three months ended
+ 
+June 30,
+ 2016
+  
+ 
+ (bbl/d)   3,641
+Crude oil and condensate
+NGLs (excluding condensate)
+ (bbl/d)   6,909
+Total crude oil, condensate and NGLs (bbl/d)   10,550
+Natural gas
+Total sales volumes (6:1 conversion)  (boe/d)  38,000
+Six months ended
+  
+June 30,
+ 
+  2016
+ 
+   3,811
+   6,743
+ 
+   10,554    12,058  
+ (mcf/d)  164,699    173,693    166,077    182,085  
+   38,234    42,406
+2015
+   5,012
+   6,465
+   11,477
+2015
+   5,425
+   6,633
+40,426
+Crude oil, condensate and NGL sales volumes decreased by 8% in the second quarter of 2016,
+averaging 10,550 bbl/d compared to 11,477 bbl/d in the same period in 2015. Crude oil, condensate
+and NGL sales volumes averaged 10,554 bbl/d in the first half of 2016, a decrease of 12% from
+12,058 bb/d realized in the first six months of 2015. Sales of natural gas averaged 164.7 MMcf/d
+during the three months ended June 30, 2016, compared to 173.7 MMcf/d in the same period in 2015,
+a decrease of 5%. Natural gas sales volumes decreased by 9% to 166.1 MMcf/d during the six
+months ended June 30, 2016, compared to 182.1 MMcf/d in the same period in 2015.
+DRILLING ACTIVITY
+Three months ended
+ 
+June 30, 2016
+Three months ended
+  
+June 30, 2015
+Gross   Net
+Success
+Rate
+-
+Gross  Net
+Success 
+Rate
+   2.8    100
+Spirit River liquids-rich natural gas   0
+0.0
+4
+%
+Total
+0
+0.0
+-
+4
+2.8    100
+%
+Six months ended
+ 
+June 30, 2016
+Gross  Net
+Success
+Rate
+Six months ended
+ 
+June 30, 2015
+Gross  Net
+Success
+Rate
+Cardium oil
+   3
+Spirit River liquids-rich natural gas   10    5.7    100 %   7
+Total
+1.2    100 %
+   4.8    100 %
+   10    5.7    100 %   10    6.0    100 %
+0
+0.0    -
+Bellatrix curtailed drilling activity in the second quarter of 2016 in response to the low commodity
+price environment. In the first six months of 2016, Bellatrix posted a 100% success rate, drilling and/or
+participating in 10 gross (5.7 net) wells Spirit River liquids-rich gas wells. Bellatrix’s drilling activity in
+the first six months of 2016 was weighted 100% towards liquids-rich natural gas wells. The Company
+has continued its drilling focus in the Spirit River liquids-rich natural gas play in response to ongoing
+suppressed oil prices in the global market, and to take advantage of processing capacity at the Alder
+Flats Plant. Bellatrix intends to continue to access up to $31 million of partner capital in the second
+half of 2016 under the Grafton Joint Venture on development drilling in the high impact Spirit River
+play.
+By comparison, during the second quarter of 2015, Bellatrix drilled and/or participated in 4 gross (2.8
+net) Spirit River liquids-rich gas wells. During the first half of 2015, Bellatrix drilled and/or participated
+in 10 gross (6.0 net) wells, consisting of 3 gross (1.2 net) Cardium light oil horizontal wells and 7
+gross (4.8 net) Spirit River liquids-rich gas wells. Bellatrix’s drilling activity in the six months of 2015
+was weighted 30% towards oil wells and 70% towards natural gas wells.
+12
+Bellatrix’s strategic priority remains focused on maintaining financial strength and liquidity as well as
+on profitable resource development in 2016. A net capital budget to not exceed $40 million has been
+set for the second half of 2016 with the majority of the Company’s second half capital budget
+expected to be invested directly in drilling, completion and tie-in activity.
+COMMODITY PRICES
+Average Commodity Prices
+Three months ended
+Six months ended
+Exchange rate (CDN$/US$1.00)
+ 
+Crude oil:
+WTI (US$/bbl)
+Canadian Light crude blend ($/bbl)
+Bellatrix’s average realized prices ($/bbl)
+Crude oil and condensate
+NGLs (excluding condensate)
+Total crude oil and NGLs
+Total crude oil and condensate (including
+risk management (1))
+ 
+Natural gas:
+NYMEX (US$/mmbtu)
+AECO daily index (CDN$/mcf)
+AECO monthly index (CDN$/mcf)
+Bellatrix’s average realized prices ($/mcf)
+Natural gas
+Natural gas (including risk management
+(1))
+Six months ended
+  
+June 30,
+Three months ended
+ 
+June 30,
+ 2016   2015   % Change  2016   2015   % Change 
+  
+ 
+ 
+  1.2882   1.2290    5
+ 
+     
+   
+   
+     
+ 
+)
+  45.59    57.95     (21
+)
+  55.01    68.88     (20
+   
+ 
+)
+  49.32    66.95     (26
+)
+  13.05    15.15     (14
+  25.57    37.77     (32
+)
+1.3289   1.2344    8
+     
+    
+    
+     
+)  39.52    53.34     (26
+)  48.11    61.08     (21
+    
+)  44.10    57.69     (24
+)  11.74    16.69     (30
+)  23.42    35.14     (33
+48.66    66.73     (27
+)  43.65    58.28     (25
+1.95
+  1.39
+  1.25
+   
+  1.50
+2.74
+   2.65
+   2.67
+    
+   2.91
+(29
+    (48
+    (53
+     
+    (48
+)  2.02
+)  1.61
+)  1.68
+    
+)  1.75
+2.77
+   2.70
+   2.81
+    
+   2.95
+(27
+    (40
+    (40
+     
+    (41
+2.34
+2.94
+(20
+)  2.38
+2.99
+(20
+)
+)
+)
+)
+ 
+)
+)
+(1) Per unit metrics including risk management include realized gains or losses on commodity
+contracts and exclude unrealized gains or losses on commodity contracts.
+The average CDN$/US$1.00 foreign exchange rate increased 5% to 1.2882 for the quarter ended
+June 30, 2016, from an average rate of 1.2290 in the same period of 2015 and increased by 8% to
+1.3289 for the six months ended June 30, 2016, from an average rate of 1.2344 in 2015. The
+devaluation of the Canadian dollar relative to the United States dollar serves to partially offset the
+impact of lower United States dollar-denominated crude oil for Canadian producers.
+Through the first half of 2016, continued high levels of global oil production have oversupplied the
+market and led to a supply-demand imbalance in the global marketplace, which has resulted in the
+prolonged price deterioration for crude oil. The market sentiment towards a rebalancing of supply and
+demand forces resulted in a 33% increase in crude benchmark pricing in the second quarter of 2016
+compared to the first quarter of 2016.
+Production of natural gas in North America has remained strong and has more than offset increased
+Mexican exports and higher than expected demand for natural gas used for power generation in the
+United States. Further impacting pricing has been robust natural gas storage levels in both Canada
+and the United States resulting in realized pricing down 25% in the second quarter of 2016 compared
+to the first quarter of 2016. Forest fires occurred in the Fort McMurray area of Alberta in early May
+temporarily leading to lower industrial demand for natural gas in Alberta as oil sands producers were
+required to curtail some production until the fires subsided, which lead to higher natural gas storage
+levels and additional downward pressure on AECO pricing.
+In the second quarter of 2016, Bellatrix realized an average price of $49.32/bbl before commodity
+price risk management contracts for crude oil and condensate, a decrease of 26% from the average
+price of $66.95/bbl received in the second quarter of 2015. By comparison, Canadian Light crude
+blend price decreased by 20% and the average WTI crude oil benchmark price decreased by 21%
+between the second quarters of 2016 and 2015. During the six months ended June 30, 2016, Bellatrix
+realized an average price for crude oil and condensate of $44.10/bbl before commodity price risk
+management contracts, a decrease of 24% from the average price of $57.69/bbl realized during the
+first half of 2015. By comparison Bellatrix’s realized price decreased in line with industry, the
+Canadian Light price decreased by 21% and the average WTI crude oil benchmark price decreased
+by 26% between the first six months of 2016 and 2015.
+13
+Bellatrix’s average realized price for NGLs (excluding condensate) decreased by 14% to $13.05/bbl
+during the second quarter of 2016, compared to $15.15/bbl received in the second quarter of 2015.
+NGL pricing in Western Canada remains challenged given individual market conditions for propane
+and butane products. Butane pricing has been impacted by higher product supply from key United
+States natural gas plays which has negatively impacted the overall supply-demand balance. Propane
+pricing has also been negatively impacted by supply-demand balance and logistical issues in
+Western Canada which has hindered deliveries to major demand markets. Realized propane prices
+have continued to improve in the second quarter of 2016 as seasonal demand has risen in key
+markets. Bellatrix’s average realized price for NGLs (excluding condensate) decreased by 30% to
+$11.74/bbl during the six months ended June 30, 2016, compared to $16.69/bbl received in the first
+half of 2015.
+Natural gas prices declined during the second quarter of 2016 as year-over-year storage levels
+remained robust due to strong production levels. Bellatrix’s natural gas sales are priced with
+reference to the daily or monthly AECO indices. Bellatrix’s natural gas sold has a higher heat content
+than the industry average, which results in slightly higher realized prices per mcf than the AECO daily
+index. During the three months ended June 30, 2016, the AECO daily reference price decreased by
+48% and the AECO monthly reference price decreased by approximately 53% compared to the
+second quarter of 2015. Bellatrix’s natural gas average sales price before commodity price risk
+management contracts for the second quarter of 2016 decreased by 48% to $1.50/mcf compared to
+$2.91/mcf in the same period in 2015. Bellatrix’s natural gas average price after including commodity
+price risk management contracts for the three months ended June 30, 2016 averaged $2.34/mcf
+compared to $2.94/mcf in the second quarter of 2015. During the first six months of 2016, the AECO
+daily reference price decreased by 40% and the AECO monthly reference price decreased by 40%
+compared to the same period in 2015. Bellatrix’s natural gas average sales price before commodity
+price risk management contracts for the six months ended June 30, 2016 decreased by 41% to
+$1.75/mcf compared to $2.95/mcf in the first half of 2015. Bellatrix’s natural gas average price after
+including commodity price risk management contracts for the six months ended June 30, 2016
+averaged $2.38/mcf compared to $2.99/mcf in the same period in 2015.
+REVENUE
+Total revenue of $48.3 million for the three months ended June 30, 2016 decreased by 46%
+compared to $88.9 million realized in the second quarter of 2015. During the first six months of 2016,
+Bellatrix’s total revenue decreased by 42% to $103.4 million, compared to $179.1 million in the same
+period in 2015. The lower realized total revenue in the six months ended June 30, 2016 compared to
+the same period in 2015 was primarily attributable to significantly lower realized commodity pricing for
+light oil, condensate, natural gas and NGLs. Further contributing to the decrease in total revenue was
+a 10% decrease in sales volumes resulting from lower drilling activity throughout the first half of 2016
+as compared to the same period of 2015.
+Crude oil and NGLs revenue before other income, royalties and commodity price risk management
+contracts for the three months ended June 30, 2016 decreased by 38% to $24.5 million from $39.4
+million realized during the second quarter of 2015. The decrease in revenue realized between the
+periods was the result of significantly reduced realized crude oil, condensate, and NGL prices when
+compared to the second quarter of 2015 and an 8% decrease in sales volumes resulting from the shift
+in capital activity to the Spirit River play. For the six months ended June 30, 2016, Bellatrix realized
+crude oil and NGLs revenue before other income, royalties and commodity price risk management
+contracts of $45.0 million, a 41% decrease from $76.7 million realized during the first half of 2015.
+The decrease in realized revenue between the six month periods was due to weaker average crude
+oil and NGL prices.
+For the three and six months ended June 30, 2016, total crude oil, condensate and NGL revenues
+contributed 52% and 46% of petroleum and natural gas sales, respectively, compared to 46% and
+44% in the comparable 2015 periods.
+14
+Natural gas revenue before other income, royalties and commodity price risk management contracts
+decreased by 51% in the second quarter of 2016 to $22.5 million from $46.0 million during the same
+period in 2015. This was a result of a 48% decrease in realized natural gas prices before risk
+management in conjunction with a 5% decrease in sales volumes between the periods. For the six
+months ended June 30, 2016, natural gas revenue before other income, royalties and commodity
+price risk management contracts decreased by approximately 46% to $52.9 million compared to
+$97.2 million realized during the first half of 2015. The decrease between the periods was the result of
+a 41% decrease in realized gas prices before risk management and a 9% decrease in sales volumes
+between the periods.
+Revenue
+2015
+Six months ended
+  
+June 30,
+  2016
+Three months ended
+ 
+June 30,
+ 
+ 2016
+($000s)
+  16,338    30,534    30,586    56,648  
+Crude oil and condensate
+  8,206
+   14,404    20,035  
+NGLs (excluding condensate)
+  24,544    39,446    44,990    76,683  
+Crude oil and NGLs
+Natural gas
+  22,473    46,002    52,861    97,225  
+Petroleum and natural gas sales  47,017    85,448    97,851    173,908  
+Other income (1)
+ 
+  1,268
+  48,285    88,941    103,443    179,127  
+Total revenue
+8,912
+2015
+3,493
+5,592
+5,219
+(1) Other income primarily consists of processing and other third party income.
+COMMODITY PRICE RISK MANAGEMENT
+The Company has a formal commodity price risk management policy which permits management to
+use specified price risk management strategies including fixed price contracts, collars, and the
+purchase of floor price options and other derivative financial instruments and physical delivery sales
+contracts to reduce the impact of price volatility for a maximum of thirty months beyond the transaction
+date. The program is designed to provide price protection on a portion of the Company’s future
+production in the event of adverse commodity price movement, while retaining significant exposure to
+upside price movements. By doing this, the Company seeks to provide a measure of stability to funds
+flow from operations, as well as to ensure Bellatrix realizes positive economic returns from its capital
+development and acquisition activities. The Company plans to continue its commodity price risk
+management strategies focusing on maintaining sufficient cash flow to fund Bellatrix’s capital
+expenditure program. Any remaining production is realized at market prices.
+As at June 30, 2016, the Company has entered into commodity price risk management arrangements
+as follows:
+Natural gas fixed price arrangements
+Type
+Period
+Natural gas
+fixed
+Natural gas
+July 1, 2016 to October 31, 2016
+Volume
+19,000
+  
+GJ/d
+90,000
+Price
+Floor
+Price Ceiling   Index
+$1.84 CDN   $1.84 CDN
+AECO
+July 1, 2016 to December 31, 2016
+$2.70 CDN   $2.70 CDN
+AECO
+January 1, 2017 to December 31,
+ 
+2017
+GJ/d
+62,220
+  
+GJ/d
+$2.94 CDN   $2.94 CDN
+AECO
+fixed
+Natural gas
+fixed
+Natural gas swap arrangements
+Average Volumes (GJ/d) / Average Price ($/GJ)
+Product
+Natural gas AECO basis swap January 1, 2017 to December 31, 2017  45,895    US$0.68
+Volume  Average Price
+Financial Contract Period
+Crude oil swap arrangements
+Average Volumes (bbl/d) / Average Price ($/bbl WTI)
+Financial Contract (1) Period
+Product
+Crude Oil WTI basis swap
+Crude Oil WTI basis swap
+Volume  Average Price 
+ 
+ 
+Settled on the monthly average Mixed Sweet Blend (“MSW”) Differential to WTI. The MSW
+differential refers to the discount between WTI and the mixed sweet crude grade at Edmonton,
+calculated on a monthly weighted average basis.
+July 1, 2016 to September 30, 2016  500
+   US$4.05
+ July 1, 2016 to December 31, 2016   1,500    US$4.05
+(1)
+When the Company has outstanding commodity price risk management contracts at a reporting date,
+the fair value, or mark-to-market value, of these contracts reflected in its financial statements as an
+unrealized asset or liability is based on the estimated amount that would have been received or paid
+to settle the contracts as at the reporting date and would differ from what would eventually be realized.
+Changes in the fair value of the commodity contracts are recognized in the Company’s Condensed
+Consolidated Statements of Comprehensive Loss within the financial statements.
+15
+The following are summaries of the gain (loss) on commodity price risk management contracts for the
+three months ended June 30, 2016 and 2015:
+Commodity contracts
+Three months ended June 30, 2016
+($000s)
+Realized cash gain (loss) on contracts   (217
+Unrealized gain (loss) on contracts (1)    131
+Crude Oil  Natural Gas  Total
+)  12,637
+   (29,850
+12,420  
+)  (29,719)
+Total (loss) on commodity contracts
+(86
+)  (17,213
+)  (17,299)
+Commodity contracts
+Three months ended June 30, 2015
+($000s)
+Realized cash gain (loss) on contracts   (233
+Unrealized gain (loss) on contracts (1)
+  (5,847
+Total gain (loss) on commodity contracts  (6,080
+Crude Oil  Natural Gas  Total
+ 
+   256
+ 
+   (2,341)
+   (2,085)
+)   489
+)   3,506
+)   3,995
+The following are summaries of the gain (loss) on commodity price risk management contracts for the
+six months ended June 30, 2016 and 2015:
+Commodity contracts
+Six months ended June 30, 2016
+($000s)
+Realized cash gain (loss) on contracts    (311
+Unrealized gain (loss) on contracts (1)
+   144
+Total gain (loss) on commodity contracts   (167
+Crude Oil  Natural Gas  Total
+)  18,968
+   (5,405
+)  13,563
+18,657 
+)  (5,261 )
+   13,396
+Commodity contracts
+Six months ended June 30, 2015
+ Crude Oil  Natural Gas  Total  
+($000s)
+   2,438 
+  1,277
+Realized cash gain on contracts
+Unrealized gain (loss) on contracts (1)
+   (611 )
+  (2,848
+Total gain (loss) on commodity contracts  (1,571
+   1,827
+1,161
+)   2,237
+)   3,398
+(1) Unrealized gain (loss) on commodity contracts represents non-cash adjustments for changes in the
+fair value of these contracts during the period.
+ROYALTIES
+Bellatrix pays royalties to the respective provincial governments and landowners in British Columbia,
+Alberta and Saskatchewan in which it operates. Each province that Bellatrix operates in has
+established a separate and distinct royalty regime which impacts Bellatrix’s average corporate royalty
+rate. The Company’s royalties are primarily paid in the province of Alberta. In Alberta, crown royalty
+rates are based on reference commodity prices, production levels and well depths and are offset by
+certain incentive programs, which usually have a finite period of time and are in place to promote
+drilling activity by reducing overall royalty expense.
+For the three months ended June 30, 2016, the Company incurred $3.6 million in royalties, compared
+to $8.9 million in the second quarter of 2015. As a percentage of petroleum and natural gas sales
+revenue (after transportation costs), royalties were 8% in the three months ended June 30, 2016,
+compared to 11% in the comparative 2015 period. For the six months ended June 30, 2016, Bellatrix
+incurred total royalties of $7.0 million compared to $23.9 million incurred in the first half of 2015.
+Overall royalties as a percentage of petroleum and natural gas sales revenue (after transportation
+costs) in the first six months of 2016 were 8%, compared with 15% in the same period in 2015.
+Lower average corporate royalty rates period over period include the impact from lower commodity
+prices reflecting the “sliding scale” effect included in the Alberta Royalty Framework and a change in
+corporate production volume commodity weighting as well as increased gas cost allowance (“GCA”)
+credits mainly associated with significant infrastructure and facilities investments by the Company
+over the past three years. The GCA credits have also increased as a result of the growth in custom
+processing from the Alder Flats Plant that was commissioned in 2015.
+16
+Royalties by Commodity Type
+Three months ended
+ 
+June 30,
+ 2016
+  4,911
+  5.12
+2015
+7.82
+   23
+Six months ended
+  
+June 30,
+  2016
+ 
+   9,155    17,064  
+   4.77
+ 
+ 
+   21
+ 
+    
+   (2,115 )  6,834
+ 
+ 
+)  0.21
+   (0.07
+ 
+)  8
+   (4
+    
+    
+ 
+   7,040    23,899  
+ 
+   1.01
+   8
+3.11
+   15
+($000s, except where noted)
+Crude oil, condensate, and NGLs
+$/bbl
+Average crude oil, condensate and NGLs royalty rate (%)  20
+ 
+Natural Gas
+$/mcf
+Average natural gas royalty rate (%)
+ 
+Total
+Total $/boe
+Average total royalty rate (%)
+(1,267
+  (0.08
+  (6
+   
+  3,644
+  1.05
+  8
+2015
+    8,064
+    7.72
+    21
+     
+)  844
+)  0.05
+)  2
+     
+    8,908
+    2.42
+    11
+Royalties by Type
+($000s)
+Crown royalties
+Three months ended
+ 
+June 30,
+ 2016
+  (366
+2015
+)   1,728
+Six months ended
+  
+June 30,
+  2016
+   (33
+2015
+)  7,168
+IOGC royalties
+  1,742
+Freehold & GORR  2,268
+Total
+  3,644
+1,755
+    5,425
+    8,908
+3,447    7,449
+   3,626    9,282
+ 
+   7,040    23,899
+The Company’s light crude oil, condensate, NGLs, and natural gas royalties are impacted by lower
+royalties on more recent wells in their early years of production under the Alberta New Well Royalty
+Rate program and the Natural Gas Deep Drilling royalty incentive program, offset in-part by wells
+drilled on Ferrier lands with higher combined Indian Oil and Gas Canada (“IOGC”) royalty and gross
+overriding royalty (“GORR”) rates.
+In the first half of 2016, the Government of Alberta completed its oil and gas royalty review, and
+announced a new Modernized Royalty Framework (“MRF”) which included, for conventional activity,
+no changes to the royalty structure of wells drilled prior to 2017 for a 10-year period from the MRF
+implementation date and improved transparency concerning disclosure of royalty information. In July
+2016, the Alberta government provided further formulaic details on the MRF which is currently being
+assessed by Bellatrix.
+EXPENSES
+Three months ended
+ 
+June 30,
+ 2016
+($000s)
+  29,263
+Production
+  3,013
+Transportation
+  3,644
+Royalties
+General and administrative
+  4,866
+Interest and financing charges (1)  12,017
+Share-based compensation
+  1,113
+2015
+   31,581
+   4,613
+   8,908
+   6,676
+   9,260
+   3,315
+2015
+Six months ended
+  
+June 30,
+  2016
+ 
+   55,045    65,801  
+   9,487
+   6,239
+ 
+   7,040
+   23,899  
+   9,388
+   14,006  
+   24,247    15,485  
+   1,304
+3,689
+(1) Excludes financing charges in relation to the Company’s accretion of decommissioning liabilities,
+unrealized foreign exchange gain (loss), and realized foreign exchange gain (loss).
+EXPENSES PER BOE
+Three months ended
+ 
+June 30,
+ 2016
+($/boe)
+   8.46
+Production
+   0.87
+Transportation
+   1.05
+Royalties
+General and administrative
+   1.41
+Interest and financing charges (1)   3.48
+   0.32
+Share-based compensation
+2015
+      8.58
+      1.26
+      2.42
+      1.81
+      2.52
+      0.90
+Six months ended
+  
+June 30,
+  2016
+   7.91
+   0.90
+   1.01
+   1.35
+   3.48
+   0.19
+2015
+      8.57
+      1.24
+      3.11
+      1.82
+      2.02
+      0.48
+(1) Excludes financing charges in relation to the Company’s accretion of decommissioning liabilities,
+unrealized foreign exchange gain (loss), and realized foreign exchange gain (loss).
+17
+PRODUCTION EXPENSES
+Production expenses for the three and six months ended June 30, 2016 totaled $29.3 million
+($8.46/boe) and $55.0 million ($7.91/boe), compared to $31.6 million ($8.58/boe) and $65.8 million
+($8.57/boe) in the comparative 2015 periods. The decrease in production expense on a per-boe basis
+between the three and six month periods ended June 30, 2016 and the comparative periods in 2015
+was primarily attributable to cost reductions realized from the Company’s investment in the Alder
+Flats Plant which reduced the sales volume flowing to higher cost structured third-party facilities, as
+well as increased operational efficiencies, field optimization work and increased competitive pricing
+of contract services. Bellatrix executed a strong optimization program in the first half of 2016, resulting
+in mitigation of downtime, moderating base declines and reducing production expenses. The
+culmination of the programs resulted in additional cash flow with relatively small capital investment.
+Production Expenses by Commodity Type
+Three months ended
+ 
+June 30,
+($000s, except where noted)
+ 2016
+Crude oil, condensate and NGLs  7,967
+  8.30
+$/bbl
+   
+ 
+  21,296
+Natural gas
+$/mcf
+  1.42
+   
+ 
+  29,263
+Total Production Expenses
+Total $/boe
+  8.46
+2015
+   8,837
+   8.46
+    
+   22,744
+   1.44
+    
+   31,581
+   8.58
+2015
+Six months ended
+  
+June 30,
+  2016
+ 
+   15,136    18,387  
+ 
+   7.88
+    
+ 
+   39,909    47,414  
+   1.32
+ 
+    
+ 
+   55,045    65,801  
+   7.91
+8.42
+1.44
+8.57
+TRANSPORTATION EXPENSES
+Transportation expenses for the three and six months ended June 30, 2016 were $3.0 million
+($0.87/boe) and $6.2 million ($0.90/boe), compared to $4.6 million ($1.26/boe) and $9.5 million
+($1.24/boe) in the same periods in 2015. The decrease in transportation costs per boe in the 2016
+year was due to Bellatrix completing the construction of pipeline infrastructure in the second half of
+2015 to transport liquids volumes from major compression facilities to processing facilities as
+opposed to trucking the production volumes. Additionally, in the latter part of 2015 and the first half of
+2016, Bellatrix shifted capital activity towards the development of Spirit River liquids-rich gas wells
+which have lower associated transportation costs than oil wells due to increased utilization of
+Company owned pipeline infrastructure associated with these wells.
+OPERATING NETBACK
+Operating Netback – Corporate (before risk management)
+Three months ended
+ 
+June 30,
+ 2016
+($/boe)
+Sales (1)
+  13.96
+  (8.46
+Production
+  (0.87
+Transportation
+  (1.05
+Royalties
+Operating netback  3.58
+2015
+    24.18
+)   (8.58
+)   (1.26
+)   (2.42
+    11.92
+Six months ended
+  
+June 30,
+  2016
+   2015
+   14.87     23.34
+)  (8.57
+)  (7.91
+)  (1.24
+)  (0.90
+)  (1.01
+)  (3.11
+    10.42
+   5.05
+)
+)
+)
+(1) Sales includes other income.
+During the three months ended June 30, 2016, the Company’s corporate operating netback before
+commodity risk management contracts decreased by 70% to $3.58/boe compared to $11.92/boe in
+the second quarter of 2015. The reduced netback realized in the second quarter of 2016 was primarily
+the result of depressed average realized commodity prices, partially offset by reduced production,
+transportation and royalty expenses. After including commodity risk management contracts, the
+corporate operating netback for the three months ended June 30, 2016 was $7.17/boe compared to
+$11.99/boe in the second quarter of 2015. Per unit metrics including risk management include
+realized gains or losses on commodity contracts and exclude unrealized gains or losses on
+commodity contracts.
+18
+For the six months ended June 30, 2016, the corporate operating netback (before commodity risk
+management contracts) was $5.05/boe a decrease of 52% compared to $10.42/boe in the first half of
+2015. The reduced netback realized in the first six months of 2016 was primarily the result of lower
+average realized commodity prices, partially offset by lower production, transportation and royalty
+expenses. After including commodity risk management contracts, the corporate operating netback for
+the six months ended June 30, 2016 was $7.73/boe compared to $10.74/boe in the first six months of
+2015.
+Operating Netback – Crude Oil, Condensate, and NGLs (before risk management)
+($/bbl)
+Three months ended
+ 
+June 30,
+ 2016
+2015
+Six months ended
+  
+June 30,
+  2016
+2015
+Sales
+  25.57
+Production
+  (8.30
+Transportation
+  (0.37
+Royalties
+  (5.12
+Operating netback  11.78
+37.77
+)   (8.46
+)   (1.34
+)   (7.72
+    20.25
+23.42     35.14
+)  (8.42
+)  (7.88
+)  (0.41
+)  (1.33
+)  (4.77
+)  (7.82
+   10.36     17.57
+)
+)
+)
+Operating netback before commodity price risk management contracts for crude oil, condensate and
+NGLs during the second quarter of 2016 averaged $11.78/bbl, a decrease of 42% from the $20.25/bbl
+realized during the same period in 2015. After including commodity price risk management contracts,
+the operating netback for crude oil, condensate, and NGLs for the three months ended June 30, 2016
+was $11.57/bbl compared to $20.03/bbl in the same period in 2015. The decrease between the
+periods was primarily a result of weaker crude oil, condensate and NGL commodity prices, partially
+offset by lower production, transportation and royalty expenses.
+Operating netback for crude oil, condensate, and NGLs decreased by 41% to $10.36/bbl for the six
+months ended June 30, 2016 from $17.57/bbl realized in the first half of 2015. After including
+commodity price risk management contracts, the operating netback for crude oil, condensate, and
+NGLs for the six months ended June 30, 2016 was $10.20/bbl compared to $18.16/bbl in the first half
+of 2015. The reduced netback was primarily attributable to suppressed crude oil, condensate, and
+NGL commodity prices, partially offset by lower production, transportation and royalty expenses.
+Operating Netback – Natural Gas (before risk management)
+Three months ended
+ 
+June 30,
+ 2016
+($/mcf)
+   1.50
+Sales
+   (1.42
+Production
+   (0.18
+Transportation
+Royalties
+   0.08
+Operating netback   (0.02
+2015
+      2.91
+)     (1.44
+)     (0.20
+      (0.05
+)     1.22
+Six months ended
+  
+June 30,
+  2016
+   1.75
+)  (1.32
+)  (0.18
+)  0.07
+   0.32
+2015
+    2.95
+)  (1.44
+)  (0.20
+    (0.21
+    1.10
+)
+)
+)
+The operating netback for natural gas before commodity price risk management contracts during the
+second quarter of 2016 of a loss of $0.02/mcf compared to $1.22/mcf recorded in the same period in
+2015. As a result Bellatrix’s active risk management strategy, the operating netback for natural gas for
+the second quarter of 2016 was $0.82/mcf compared to $1.25/mcf in the same period in 2015 after
+including commodity risk management contracts.
+The reduction to the realized netback between the second quarters of 2015 and 2016 was driven by a
+significant decrease in natural gas prices, partially offset by reduced production and transportation
+expenses and royalty recoveries in the second quarter of 2016. For the six months ended June 30,
+2016, Bellatrix realized an operating netback for natural gas of $0.32/mcf, a decrease of 71% from
+$1.10/mcf realized in the same period in 2015. The lower netback realized between the periods
+reflected lower natural gas prices, partially offset by decreased production, transportation and royalty
+expenses. After including commodity risk management contracts, the operating netback for natural
+gas for the first six months of 2016 was $0.95/mcf compared to $1.14/mcf in the same period in 2015.
+19
+GENERAL AND ADMINISTRATIVE
+Bellatrix incurred lower gross G&A expenses (before capitalized G&A and recoveries) in the second
+quarter of 2016 when compared to the same period of 2015 by 28% as the Company initiated
+numerous cost saving strategies to reduce gross G&A expenses. Net G&A expenses (after
+capitalized costs and recoveries) for the three and six months ended June 30, 2016 were $4.9 million
+($1.41/boe) and $9.4 million ($1.35/boe), respectively, compared to $6.7 million ($1.81/boe) and
+$14.0 million ($1.82/boe) in the comparative 2015 periods, a decrease of 27% and 33%, respectively.
+The overall decrease to net G&A was primarily attributable to a decrease in gross G&A expenses as
+a result of significant cost saving initiatives on discretionary G&A spending, workforce reductions and
+compensation expenses in the last half of 2015 and the first half of 2016. This decrease more than
+offset reduced recoveries from partners associated with lower capital spending in 2016 as compared
+to 2015.
+General and Administrative Expenses
+Three months ended
+ 
+June 30,
+ 2016
+($000s, except where noted)
+  8,144
+Gross expenses
+  (1,580
+Capitalized
+  (1,698
+Recoveries
+G&A expenses
+  4,866
+G&A expenses, per unit ($/boe)  1.41
+2015
+    11,299
+)  (1,706
+)  (2,917
+    6,676
+    1.81
+INTEREST AND FINANCING CHARGES
+2015
+Six months ended
+  
+June 30,
+  2016
+ 
+   17,031    24,398  
+)  (3,888 )  (3,964 )
+)  (3,755 )  (6,428 )
+   14,006  
+   9,388
+   1.35
+   1.82
+For the three and six months ended June 30, 2016, Bellatrix recorded $12.0 million ($3.48/boe) and
+$24.2 million ($3.48/boe) of interest and financing charges related to the bank debt and the
+outstanding US$250 million of 8.50% senior unsecured notes maturing on May 15, 2020 (“Senior
+Notes”), compared to $9.3 million ($2.52/boe) and $15.5 million ($2.02/boe) during the same periods
+in 2015, respectively.
+The overall increase in interest and financing charges between the second quarters of 2015 and 2016
+was mainly due to interest related to the Senior Notes which were issued during the second quarter of
+2015 partially offset by the decrease interest charges related to the lower Bank debt.
+Interest and Financing Charges (1)
+($000s, except where noted)
+Interest on Bank debt
+Interest on Senior Notes
+Interest and financing charges
+Interest and financing charges ($/boe)  3.48
+Three months ended
+ 
+June 30,
+ 2016
+  4,549
+  7,468
+  12,017
+2015
+   6,110
+   3,150
+   9,260
+   2.52
+Six months ended
+  
+June 30,
+  2015
+ 
+  2016
+   12,335  
+   8,820
+   15,427    3,150
+ 
+   24,247    15,485  
+   3.48
+2.02
+(1) Excludes financing charges in relation to the Company’s accretion of decommissioning liabilities,
+unrealized foreign exchange gain (loss), and realized foreign exchange gain (loss).
+Bellatrix’s total net debt at June 30, 2016 of $638.0 million included $314.2 million of bank debt,
+$313.3 million of Senior Notes which includes $20.0 million of unrealized foreign exchange gain
+recognized on the mark-to-market of the Company’s United States dollar denominated Senior Notes
+in the six months ended June 30, 2016, and an adjusted working capital deficiency of $10.6 million.
+20
+Reconciliation of Total Liabilities to Total Net Debt
+($000s)
+Total liabilities per financial statements
+Current liabilities (excluding bank debt)
+Decommissioning liabilities
+Finance lease obligation
+Deferred lease inducements
+Risk management contract liability
+Deferred taxes
+2015
+As at June 30,
+ 2016
+ 
+  801,140    1,018,889 
+  (64,408 )  (153,044 )
+  (98,121 )  (91,566 )
+)
+  (7,667
+)  (9,264
+  (2,217
+)
+)  (2,557
+)  -
+  (1,261
+ 
+  -
+   (77,201 )
+Adjusted working capital
+  (56,448 )  (119,029 )
+Current assets
+  219,408    153,044  
+Current liabilities
+ 
+  (155,000)  -
+Current portion of bank debt
+)
+  (1,597
+Current portion of finance lease
+)  (1,609
+  (340
+)
+Current portion of deferred lease inducements
+)  (340
+ 
+Current portion of risk management contract asset
+  4,782
+   1,058
+)
+Current portion of risk management contract liability  (246
+)  (2,848
+ 
+ 
+  10,559    30,276
+  638,025    715,533  
+Total net debt
+SHARE-BASED COMPENSATION
+Bellatrix has an Incentive Award Plan where the Company may grant Restricted Awards (“RAs”) and
+Performance Awards (“PAs”) to officers, employees, and other service providers. As at August 9,
+2016, Bellatrix had 1,390,681 RAs and 1,143,400 PAs outstanding. During the second quarter, the
+shareholders and the TSX approved the issuance of common shares on settlement of RAs and PAs
+under the Incentive Award Plan. As a result, awards under the Incentive Award Plan may be settled in
+cash, in common shares of the Company, or a combination thereof. In the case of PAs, settlement is
+subject to a “payout multiplier” (the payout multiplier shall be based on such corporate performance
+measures as determined by the Board of Directors (or the Compensation Committee) of the Company
+and may range between zero and two times.
+For the three months ended June 30, 2016, non-cash share-based compensation was an expense of
+$1.1 million ($0.32/boe) compared to $3.3 million ($0.90/boe) in the same period in 2015. The non-
+cash share-based compensation expense realized in the three months ended June 30, 2016 period
+was composed of an expense of $1.2 million (2015: $1.8 million) for the Company’s outstanding
+share options, an expense of $0.1 million for Deferred Share Units (“DSUs”) (2015: $0.9 million
+expense), an expense of $0.2 million (2015: $1.5 million expense) for RAs and an expense of $0.1
+million (2015: $0.2 million expense) for PAs. Share-based compensation expense was offset by
+capitalized share-based compensation. For the three months ended June 30, 2016, capitalized share-
+based compensation was $0.5 million compared to $1.1 million in the same period in 2015. As a
+result of the shareholder and TSX approval received, Bellatrix recorded $0.8 million to contributed
+surplus in the period in relation to certain awards that the Company expects will be equity settled.
+For the six months ended June 30, 2016, non-cash share-based compensation expense was $1.3
+million ($0.19/boe) compared to $3.7 million ($0.48/boe) in the first half of 2015. The decrease in non-
+cash share-based compensation expense was the result of a lower expense of $1.9 million (2015:
+$3.4 million expense) for the Company’s outstanding share options, a reduced expense of $0.2
+million (2015: $1.3 million expense) for RAs, an expense of $0.1 million (2015: $0.1 million expense)
+for PAs and a $0.2 million recovery for DSUs (2015: $0.4 million expense). The recovery recognized
+for DSUs during the six months ended June 30, 2016, was due to the revaluation of DSUs resulting
+from lower weighted average share trading price at June 30, 2016 than at December 31, 2015. Share-
+based compensation expense was offset by capitalized share-based compensation. For the six
+months ended June 30, 2016, capitalized share-based compensation was $0.7 million compared to
+$1.5 million in the same period in 2015.
+21
+DEPLETION AND DEPRECIATION
+Depletion and depreciation expense for the three and six months ended June 30, 2016, was $37.6
+million ($10.86/boe) and $75.2 million ($10.80/boe) compared to $44.2 million ($12.02/boe) and
+$92.6 million ($12.07/boe) recognized in the comparative 2015 periods, respectively. The decrease in
+the Company’s depletion and depreciation expense on a per boe basis between the periods can be
+attributed to the lower capital cost base stemming from the impairment of assets recognized in 2015, a
+decline in the associated future development costs attributable to the reserves in 2016, and a
+decrease in production volumes in 2016, resulting in a lower depletion rate.
+For the three months ended June 30, 2016, Bellatrix has included a total of $1.11 billion (2015: $1.21
+billion) for future development costs in the depletion calculation and excluded from the depletion
+calculation a total of $60.8 million (2015: $83.3 million) for estimated salvage value.
+Depletion and Depreciation
+Three months ended
+ 
+June 30,
+ 2016
+($000s, except where noted)
+  37,571
+Depletion and Depreciation
+Depletion and Depreciation per unit  ($/boe)  10.86
+2015
+   44,232
+   12.02
+Six months ended
+  
+June 30,
+  2016
+ 
+   75,162    92,614  
+ 
+   10.80
+12.07
+2015
+FOREIGN EXCHANGE
+Bellatrix incurs gains and losses in relation to the foreign currency translation of its Senior Notes. The
+Senior Notes are translated from the United States dollar to Canadian dollar using the closing foreign
+exchange rate for the period. Unrealized foreign exchange gains or losses are included in earnings in
+the period related to the translation of the outstanding balance of the Senior Notes at the end of the
+period. Realized foreign exchange gains and losses are recognized as the Senior Notes and other
+minor foreign currency based transactions are translated and settled during the period.
+($000s)
+Realized gain (loss) on foreign exchange
+Unrealized gain (loss) on foreign exchange
+Unrealized gain (loss) on foreign exchange contracts  111
+  (883
+Gain (loss) on foreign exchange
+Three months ended
+ 
+June 30,
+ 2016
+  523
+  (1,517
+2015
+    (22
+)  (6,279
+    -
+)  (6,301
+Six months ended
+  
+June 30,
+ 
+  2016
+)  505
+ 
+)  20,019    (6,279 )
+   (3,728 )  -
+ 
+)  16,796    (6,172 )
+2015
+   107
+For the three and six months ended June 30, 2016, Bellatrix recorded a foreign exchange loss of $0.9
+million and a gain of $16.8 million, respectively. This was due to the impact of the change over the
+three and six month periods ended June 30, 2016, in the value of the Canadian dollar relative to the
+United States dollar primarily on the Company’s United States dollar denominated Senior Notes ($1.5
+million loss and $20.0 million gain, respectively), net of the change in the fair value of its United
+States foreign exchange forward contract ($0.1 million gain and $3.7 million loss, respectively).
+The Company may utilize foreign exchange derivative contracts to manage foreign exchange risks in
+order to maintain cash flow stability. Foreign exchange derivative transactions are conducted in
+accordance with the risk management policy that has been approved by the Board of Directors. The
+aggregate amount hedged under all foreign exchange derivate contracts is limited to the outstanding
+principal amount of the Senior Notes and the term of foreign exchange contracts is limited to the
+remaining term of the related Senior Notes.
+As at June 30, 2016, the Company had entered into the following United States foreign exchange
+forward purchase contracts:
+Type  Value Date
+Foreign Exchange Rate
+Notional Amount 
+($000s USD)
+Settlement 
+($000s CDN)
+Fixed May 14, 2020 $ 32,500
+Fixed May 14, 2020 $ 30,000
+$ 1.3076
+  $ 1.3080
+$ 42,497
+  $ 39,240
+22
+The Company has recorded the following asset (liability) on its Condensed Consolidated Balance
+Sheets with regards to the foreign exchange contracts:
+June 30,  December 31,
+($000s)
+Foreign exchange contracts asset (liability)  (1,261 )   2,466
+2015
+2016
+INCOME TAXES
+Deferred income taxes arise from differences between the accounting and tax basis of the Company’s
+assets and liabilities. For the three and six months ended June 30, 2016, the Company recognized
+deferred income tax recoveries of $19.5 million and $18.6 million, compared to recoveries of $0.6
+million and $4.4 million realized during the same periods in 2015, respectively. The deferred income
+tax recovery recognized in the first six months of 2016 compared to the deferred tax recovery
+recognized in the first half of 2015 was primarily attributable to a greater net loss recognized in the
+2016 period compared to the net loss during the 2015 period, after adjusting for non-deductible tax
+items. At June 30, 2016 the Company had a total deferred tax asset balance of $77.9 million.
+At June 30, 2016, Bellatrix had approximately $1.65 billion in tax pools available for deduction
+against future income as follows:
+Tax Pools
+($000s)
+Intangible resource pools:
+Canadian exploration expenses
+Canadian development expenses
+Canadian oil and gas property expenses
+Foreign resource expenses
+Alberta non-capital losses greater than Federal non-capital
+losses
+Undepreciated capital cost (1)
+Non-capital losses (expire through 2033)
+Financing costs
+Rate %
+   
+  100
+  30
+  10
+  10
+June 30,
+  2015
+June 30,
+ 
+  2016
+    
+ 
+   119,100    117,300  
+   783,600    817,300  
+   205,500    189,700  
+ 
+   600
+700
+(Alberta) 100
+16,100
+16,100
+6 – 100
+  100
+  20 Straight-Line   5,300
+372,800    400,900  
+   151,000    162,300  
+ 
+   1,654,000   1,713,600
+9,300
+(1) Approximately $341 million of undepreciated capital cost pools are class 41, which is claimed at a
+25% rate.
+CASH FLOW FROM OPERATING ACTIVITIES, FUNDS FLOW FROM OPERATIONS, NET LOSS,
+AND ADJUSTED NET LOSS
+As detailed previously in this MD&A, funds flow from operations is a non-GAAP measure that does
+not have any standardized meaning under GAAP. Bellatrix’s method of calculating funds flow from
+operations may differ from that of other companies, and accordingly, may not be comparable to
+measures used by other companies. Funds flow from operations is calculated as cash flow from
+operating activities before decommissioning costs incurred and changes in non-cash working capital
+incurred.
+Reconciliation of Cash Flow from Operating Activities to Funds Flow from Operations
+($000s)
+Cash flow from operating activities   7,675
+  831
+Decommissioning costs incurred
+Change in non-cash working capital  542
+Funds flow from operations
+9,048
+2015
+   16,475
+   267
+   11,636
+   28,378
+Three months ended
+ 
+June 30,
+ 2016
+2015
+Six months ended
+  
+June 30,
+  2016
+ 
+   18,008    39,027  
+   1,682
+ 
+   970
+   2,234
+   13,238  
+   21,924    53,235
+Bellatrix generated funds flow from operations of $9.0 million ($0.05 per basic share and diluted
+share) in the second quarter of 2016, a decrease of 68% from $28.4 million ($0.15 per basic share
+and diluted share) generated in the comparative 2015 period. The decrease in funds flow from
+operations between the second quarters of 2015 and 2016 was mainly attributable to lower realized
+commodity pricing for crude oil and natural gas and a 6% decrease in sales volumes, partially offset
+by decreased production, transportation, royalty and G&A expenses. Bellatrix’s cash flow from
+operating activities for the three months ended June 30, 2016 decreased by 53% to $7.7 million
+($0.04 per basic share and diluted share) from $16.5 million ($0.09 per basic share and diluted share)
+generated in the second quarter of 2015.
+23
+Bellatrix generated funds flow from operations of $21.9 million ($0.11 per basic share and diluted
+share) for the six months ended June 30, 2016, a decrease of 59% from $53.2 million ($0.28 per basic
+share and diluted share) generated during the first six months of 2015. The decrease in funds flow
+from operations between the first six months of 2015 and 2016 was mainly attributable to lower
+realized commodity pricing for crude oil and natural gas and a 10% decrease in sales volumes,
+partially offset by decreased production, transportation, royalty and G&A expenses. Bellatrix’s cash
+flow from operating activities in the first half of 2016 decreased by 54% to $18.0 million ($0.09 per
+basic share and diluted share) from $39.0 million ($0.20 per basic share and diluted share) generated
+in the comparative 2015 period.
+Bellatrix maintains a commodity price risk management program to provide a measure of stability to
+funds flow from operations. Unrealized mark–to–market gains or losses are non-cash adjustments to
+the fair market value of the contract over its entire term and are included in the calculation of net profit
+(loss).
+Management believes that, in addition to net profit (loss), adjusted net profit (loss) is a useful
+supplemental measure as it reflects the underlying performance of Bellatrix’s business activities by
+excluding the after tax effect after adjusting for non-deductible tax items of non-cash commodity
+contracts mark–to–market gains and losses, unrealized foreign exchange gains and losses, non-cash
+impairment and non-cash one time charges, as applicable, that may significantly impact net profit
+(loss) from period to period.
+Adjusted Net Loss
+Three months ended
+ 
+June 30,
+ 2016
+ 
+($000s)
+  (55,193 )  (24,427 )  (35,846 )  (37,116 )
+Net loss
+ 
+   
+Add (deduct) non-operating items:
+ 
+Unrealized loss on commodity contracts
+  29,719
+Unrealized (gain) loss on foreign exchange  1,406
+ 
+Tax impact on non-operating items (1)
+  (8,186
+)
+Adjusted net loss
+  (32,254 )  (16,414 )  (48,283 )  (30,401 )
+Six months ended
+  
+June 30,
+  2016
+2,341
+   6,279
+)  (607
+611
+5,261
+   (16,291 )  6,279
+)  (1,407 )  (175
+2015
+2015
+(1)Tax impact on non-operating items after adjusting for non-deductible tax items calculated using
+27% tax rate.
+Bellatrix recognized an adjusted net loss of $32.3 million ($0.17 per basic and diluted share) for
+the three months ended June 30, 2016, compared to an adjusted net loss of $16.4 million ($0.09
+per basic and diluted share) in the second quarter of 2015. The increase in adjusted net loss
+recorded in the second quarter of 2016 compared to adjusted net loss in the same period in
+2015 was primarily the result of the significant decrease in revenue driven by the volatile and
+challenging commodity price environment, more than offsetting the decrease in the costs
+related to production, transportation, G&A and depletion and depreciation expenses, as
+compared to the same period in 2015.
+For the three months ended June 30, 2016, Bellatrix recognized a net loss of $55.2 million
+($0.28 per basic and diluted share), compared to a net loss of $24.4 million ($0.13 per basic
+share and diluted share) in the second quarter of 2015. The increase in net loss recorded in the
+second quarter of 2016 compared to the same period in 2015 was primarily the result of an
+increase in unrealized losses on commodity risk management contracts and losses on
+property dispositions in the quarter.
+Bellatrix recognized an adjusted net loss of $48.3 million ($0.25 per basic and diluted share) for
+the six months ended June 30, 2016, compared to an adjusted net loss of $30.4 million ($0.16
+per basic and diluted share) in the comparative 2015 period, after realizing decreased funds
+from operating activities from the significantly reduced commodity pricing environment.
+For the six months ended June 30, 2016, Bellatrix recognized a net loss of $35.8 million ($0.19
+per basic and diluted share), compared to a net loss of $37.1 million ($0.19 per basic and
+diluted share) in the same period in 2015. The decrease in net loss recorded in the first half of
+2016 compared to the same period in 2015 was primarily the result of an increase in realized
+gains on commodity risk management contracts and future income tax recoveries recorded in
+the period.
+24
+Funds Flow from Operations, Cash Flow from Operating Activities, Adjusted Net Loss and Net
+Loss
+Three months ended
+ 
+June 30,
+Six months ended
+  
+June 30,
+($000s, except per share amounts) 2016
+  2016
+ 
+Funds flow from operations
+  9,048
+   21,924    53,235  
+  0.05
+Basic   ($/share)
+ 
+   0.11
+  0.05
+Diluted ($/share)
+ 
+   0.11
+ 
+   
+    
+ 
+Cash flow from operating activities   7,675
+   18,008    39,027  
+  0.04
+Basic   ($/share)
+ 
+   0.09
+  0.04
+Diluted ($/share)
+ 
+   0.09
+ 
+   
+    
+ 
+  (32,254 )  (16,414 )  (48,283 )  (30,401 )
+Adjusted net loss
+)
+  (0.17
+Basic   ($/share)
+Diluted ($/share)
+  (0.17
+)
+   
+ 
+ 
+  (55,193 )  (24,427 )  (35,846 )  (37,116 )
+Net loss
+Basic   ($/share)
+  (0.28
+)
+)
+  (0.28
+Diluted ($/share)
+2015
+   28,378
+   0.15
+   0.15
+    
+   16,475
+   0.09
+   0.09
+)  (0.19
+)  (0.19
+)  (0.19
+)  (0.19
+)  (0.09
+)  (0.09
+2015
+0.28
+   0.28
+0.20
+   0.20
+)  (0.25
+)  (0.25
+)  (0.16
+)  (0.16
+)  (0.13
+)  (0.13
+CAPITAL EXPENDITURES
+Bellatrix curtailed capital activity in the second quarter of 2016 given low commodity prices
+and the seasonal spring break up period. Bellatrix’s strategic priority remains focused on
+maintaining financial strength and liquidity as well as on profitable resource development in
+2016. During the three months ended June 30, 2016, Bellatrix invested $7.8 million in
+exploration and development capital projects, excluding property acquisitions and
+dispositions, compared to $37.5 million in the same period in 2015. During the six months
+ended June 30, 2016, Bellatrix invested $36.8 million in exploration and development capital
+projects, excluding property acquisitions and dispositions, compared to $118.8 million in the
+comparative 2015 period.
+Capital Expenditures
+Six months ended
+  
+June 30,
+  2016
+  2015
+)  1,025    2,067
+   53
+627
+Three months ended
+ 
+June 30,
+ 2016
+  72
+  (75
+  2,656
+  5,113
+  -
+($000s)
+Lease acquisitions and retention
+Geological and geophysical
+Drilling and completion costs
+Facilities and equipment
+Property transfers – cash
+Capital – exploration and development (1)  7,766
+Capital – corporate assets (2)
+Property acquisitions
+Total capital expenditures – cash
+Property dispositions – cash
+Total net capital expenditures – cash
+Property acquisitions – non-cash
+Other – non-cash (3)
+Total capital expenditures – net (4)
+2015
+ 
+   (289
+)  24
+ 
+   16,183    27,568    39,884  
+   30,175    8,138    84,860  
+   (8,639
+)
+   37,454    36,784    118,799  
+   1,957
+ 
+  23
+)  48
+ 
+  (2
+   39,459    36,839    122,659  
+  7,787
+  (77,704 )  (1,790
+)
+  (69,917 )  37,669    (40,990 )  120,848  
+ 
+  29,178
+  (390
+ 
+  (41,129 )  33,748    (10,258 )  124,402
+29,178    -
+)  1,554    3,554
+-
+)  (3,921
+)  (77,829 )  (1,811
+)  -
+(8,639
+54
+   1
+3,111
+   749
+(1) Excludes capitalized costs related to decommissioning liabilities expenditures incurred
+during the period.
+(2) Capital - corporate assets includes office leasehold improvements, furniture, fixtures and
+equipment before recoveries realized from landlord lease inducements.
+(3) Other includes non-cash adjustments for the current period’s decommissioning liabilities
+and share based compensation.
+(4) Total capital expenditures – net is considered to be a non-GAAP measure. Total capital
+expenditures – net includes the cash impact of capital expenditures and property dispositions,
+as well as the non-cash capital impacts of corporate acquisitions, property acquisitions,
+adjustments to the Company’s decommissioning liabilities, and share based compensation.
+In the second quarter of 2016, capital spending on exploration and development activities of
+$7.8 million was focused primarily on facilities and equipment expenditures related to the
+development of Phase 2 of the Alder Flats Plant. Bellatrix remains committed to construction
+of Phase 2 of the Alder Flats Plant as significant pre-build and flexibility has already been
+incorporated into the design and footprint at the Alder Flats Plant. The combined inlet capacity
+for Phase 1 and Phase 2 will be a total of 230 MMcf/d with an expected on-stream date for
+Phase 2 in the first half of 2018.
+25
+Based on economic conditions and Bellatrix’s operating forecast for the second half of 2016,
+the Board approved a budget in June 2016 for a net capital program of up to $40 million in the
+second half of 2016, with funding limited to available cash flow. The second half of 2016 capital
+is expected to be directed towards drilling, completion and tie-in activity, primarily in the Spirit
+River formation and investment in strategic infrastructure projects with approximately 19% of
+total expenditures invested in facilities and infrastructure, including approximately $7 million
+invested into Phase 2 of the Alder Flats Plant. A portion of such expenditures represent the
+prepayment made by Keyera related to Phase 2, pursuant to the Alder Flats Plant Sale.
+Business Combination
+Bellatrix completed a property acquisition of complementary assets within its core Ferrier area
+for total consideration of $29.2 million, paid through the issuance of 20,547,576 common
+shares of Bellatrix during the second quarter of 2016. In accordance with IFRS, a property
+acquisition is accounted for as a business combination when certain criteria are met, such as
+the acquisition of inputs and processes to convert those inputs into beneficial outputs.
+Bellatrix assessed the property acquisition and determined it to constitute a business
+combination under IFRS. In a business combination, acquired assets and liabilities are
+recognized by the acquirer at their fair market value at the time of purchase. Any variance
+between the determined fair value of the assets and liabilities and the purchase price is
+recognized as either a gain or loss in the statement of comprehensive income in the period of
+acquisition.
+The estimated fair value of the property, plant and equipment acquired was determined using
+observable market metrics. The decommissioning liabilities assumed were determined using
+the timing and estimated costs associated with the abandonment, restoration and reclamation
+of the wells and facilities acquired. The fair value of identifiable assets acquired and liabilities
+assumed is final. The acquired assets consisted of $29.7 million of oil and natural gas
+properties, the value of which was determined using observable market metrics in addition to
+$0.5 million of decommissioning liabilities assumed as a result of the acquisition. The acquired
+assets were originally earned by Grafton under the $250 million Grafton Joint Venture, and
+consist of Grafton’s interest in 18 gross wells (representing Grafton’s pre-payout interest in
+such wells) and related lands, rights and interests currently operated by Bellatrix. The acquired
+assets produced an average of approximately 2,000 boe/d net to Grafton in the month prior to
+acquisition (79% natural gas weighted). No gain or loss on property acquisition was
+recognized in relation to the acquisition. The closing date of the transaction was June 22, 2016.
+Dispositions
+During the three month period ending June 30, 2016, Bellatrix completed the Facilities
+Monetization, pursuant to which it sold certain production facilities to a third party midstream
+company for proceeds of $75 million effective May 3, 2016. Pursuant to the agreement, Bellatrix
+maintains operatorship and preferential access to the facilities for its operated production
+volumes and will pay an annual rental fee over the eight year duration of the agreement. In
+addition, Bellatrix retains, at its sole discretion, the option to repurchase the facilities at any
+time during the agreement period. The estimated rental costs associated with the arrangement
+will have a modest impact on the Company’s overall corporate operating cost profile, which
+Bellatrix believes will be partially offset by continued cost reduction initiatives and third party
+processing revenue generated and retained by Bellatrix from the facilities. Payments for use of
+the facilities are treated as an operating lease and included in Bellatrix’s corporate
+commitments.
+In the three and six months ended June 30, 2016, the Company recognized total net gains on
+disposition of $0.2 million and $4.2 million, respectively, were recognized relating to gains on
+wells drilled under the Grafton Joint Venture (2015: $1.9 million and $8.0 million on wells drilled
+under the Grafton Joint Venture and the joint venture between Bellatrix and TCA Energy Ltd.
+that was terminated in the fourth quarter of 2015) which were completed and tied-in during the
+quarter as well as adjustments for wells completed and tied in during prior periods. A gain on
+disposition for each well is recognized to account for the disposal of the pre-payout working
+interest earned by the joint venture partner on the well, which results from the difference
+between the percentage of all capital costs contributed for the drilling, completion, equipping
+and tie-in of the well by the joint venture partner and the pre-payout working interest allocated
+to the joint venture partner by the Company. The gain on disposition for a well is recognized
+during the quarter in which the well was completed and tied-in.
+Under the Grafton Joint Venture, Grafton contributes 82% of the total capital costs required for
+each well and in return earns 54% of Bellatrix’s WI in each well drilled in the well program until
+payout.
+26
+Additionally in the quarter, Bellatrix had minor dispositions of both assets and working interest
+in assets for proceeds of $2.7 million.
+Bellatrix recorded a total loss on property dispositions of $13.1 million for the three months
+ended June 30, 2016.
+Subsequent to the quarter end, Bellatrix closed the transaction to sell a 35% minority interest
+in the Alder Flats Plant to Keyera for cash consideration of $112.5 million. As part of the
+transaction, Bellatrix and Keyera will enter into a midstream services and governance
+agreement pursuant to which Bellatrix will have exclusive access to the purchased capacity
+(approximately 80.5 MMcf/d post commissioning of Phase 2) for a term of 10 years, and will
+remain the operator of the Alder Flats Plant.  In exchange for exclusive access to the
+purchased capacity during the term, Keyera will be entitled to receive, on an annual basis, a
+guaranteed fee calculated with reference to the capital fees that Keyera will otherwise receive
+in accordance with the terms of the construction, ownership and operation agreement
+governing the Alder Flats Plant. Following completion of the transaction, Bellatrix will retain a
+25% interest in the Alder Flats Plant, and will also have the option to reacquire a 5% interest in
+the Alder Flats Plant near the end of the final year of the agreement at a cost of $8 million.
+Bellatrix continues to advance the Phase 2 expansion project of the Alder Flats Plant which is
+expected to more than double the inlet capacity of the Plant from 110 MMcf/d currently to 230
+MMcf/d. The project remains on time and budget, and is scheduled for completion in the first
+half 2018 at a remaining net cost to Bellatrix of approximately $41 million, including the amount
+represented by Keyera's prepayment. Subject to changes in commodity prices and the
+assumptions and risk factors discussed under "Forward-Looking Statements", Bellatrix
+currently anticipates that the remaining net costs relating to the Phase 2 expansion project of
+the Alder Flats Plant, including the amount represented by Keyera's prepayment, will be
+funded from our cash flow.
+DECOMMISSIONING LIABILITIES
+At June 30, 2016, Bellatrix has recorded decommissioning liabilities of $98.1 million compared
+to $96.4 million at December 31, 2015, for future abandonment and reclamation of the
+Company’s properties. During the six months ended June 30, 2016, decommissioning
+liabilities increased by a net $1.7 million as a result of $0.4 million incurred in relation to
+development activities, $0.8 million as a result of charges for the unwinding of discount rates
+used for assessing liability present values and $5.2 million resulting from changes in
+estimates. This was offset by a $4.7 million reduction in the liability as a result of disposition
+transactions in the period. The $5.2 million increase in decommissioning liabilities between
+June 30, 2016 and December 31, 2015 resulting from revisions on estimates were primarily due
+to reduced market interest rates which decreases the discount rates applied to the valuation of
+the liabilities.
+LIQUIDITY AND CAPITAL RESOURCES
+As an oil and gas company, Bellatrix has a declining asset base and therefore relies on
+ongoing development and acquisitions to replace production and add additional reserves.
+Future oil and natural gas production and reserves are highly dependent on the success of
+exploiting the Company’s existing asset base and in identifying or acquiring additional
+reserves. To the extent Bellatrix is successful or unsuccessful in these activities, cash flow
+could be increased or decreased. In addition, the Company’s cash flow depends on a number
+of factors, including commodity prices, production and sales volumes, operating expenses,
+taxes and royalties.
+Bellatrix remains highly focused on key business objectives of maintaining financial strength
+and liquidity, and optimizing capital investments in the current low commodity price
+environment. In order to preserve liquidity and capital resources, Bellatrix’s Board of Directors
+approved a 2016 net capital budget of up to $77 million, with funding limited to available cash
+flow. The 2016 capital budget represents an approximate 50% reduction in capital spending
+relative to total 2015 capital spending. Bellatrix expects to be able to fund its 2016 capital
+program by reinvesting cash flow and to the extent necessary, through borrowings under its
+revolving Credit Facilities. Bellatrix continually monitors its capital spending program in light
+of prevailing commodity prices and the United States/Canadian dollar exchange rate with the
+aim of ensuring the Company will be able to meet future anticipated obligations incurred from
+normal ongoing operations with funds flow from operations and borrowings under its Credit
+Facilities, as necessary.
+27
+In addition to funds flow from operations, the Company’s other main source of liquidity is its
+revolving Credit Facilities. Availability under the Credit Facilities is governed by a borrowing
+base, which is re-determined by the lenders, in their sole discretion, on a semi-annual basis on
+or before May 31 and November 30 of each year, taking into consideration the estimated value
+of the Company’s oil and natural gas properties in accordance with the lenders’ customary
+practices for oil and gas loans. At June 30, 2016 the Company had $314 million outstanding at
+a weighted average interest rate of 4.48%.
+Subsequent to June 30, 2016, the Company completed its semi-annual borrowing base
+redetermination and the renewal of its Credit Facilities. The total commitments under the Credit
+Facilities have been set at $365 million and are comprised of a $210 million Revolving Facility
+and a $155 million Term Facility. The maturity date of the Revolving Facility has been extended
+to July 1, 2017, and Bellatrix may request a further extension for a period not to exceed 3 years
+which may or may not be granted by the lenders. The maturity date of the Term Facility has
+been set at November 11, 2016. The borrowing base is subject to redetermination on or before
+May 31 and November 30 in each year prior to maturity, with the next semi-annual
+redetermination expected to occur on November 11, 2016.
+The agreement governing the Credit Facilities contemplates that concurrently with the maturity
+of the Term Facility on November 11, 2016, the Revolving Facility will be reduced from $210
+million to $152 million; however, the actual amount of the Revolving Facility will depend on the
+semi–annual borrowing base review to be conducted in November 2016, which could result in
+the total commitment under the Revolving Facility being higher or lower than the $152 million
+currently contemplated.
+The agreement governing the Credit Facilities contains certain events of default which relate to
+the Company failing to satisfy certain milestones in order to payout the amounts owing on
+November 11, 2016. Subsequent to June 30, 2016, Bellatrix completed the Alder Flats Plant
+Sale to Keyera for cash consideration of $112.5 million, which closed on August 9, 2016. Net
+proceeds from the sale were used to repay bank indebtedness.
+On August 9, 2016, Bellatrix closed two financings for gross proceeds of $80 million. The
+Offerings included the issuance of $50 million principal amount of Debentures and 25,000,000
+Subscription Receipts at a price of $1.20 per Subscription Receipt for gross proceeds of
+approximately $30 million. As a result of the completion of the Alder Flats Plant Sale, the
+maturity date of the Debentures has automatically been extended to September 30, 2021 and
+the Subscription Receipts have automatically converted into Common Shares. Net proceeds
+from the Offerings of approximately $76.0 million were used to repay bank indebtedness. In
+connection with the Offerings, Bellatrix has granted the underwriters an option to purchase up
+to an additional $4.5 million of Subscription Receipts and $7.5 million principal amount of
+Debentures to cover over-allotments and for market stabilization purposes, exercisable in
+whole or in part at any time, and from time to time, until 30 days after the closing date of the
+Offerings. If the Over-Allotment Option is exercised in full, gross proceeds from the Offerings
+would increase by $12 million to $92 million. Bellatrix used the cash proceeds from the
+Offerings to partially effect the mandatory repayments of indebtedness required under the
+Credit Facilities.
+Following completion of the Alder Flats Plant Sale and the Offerings and the application of the
+net proceeds therefrom, the Revolving Facility has been reduced to $160 million and the
+amount outstanding under the Term Facility reduced to approximately $13 million. The
+Company anticipates being able to fully repay all amounts owing under the Term Facility prior
+to the November 11, 2016 maturity date by utilizing cash received from its operations and the
+proceeds, if any, from the full or partial exercise of the Over-Allotment Option. Alternatively,
+Bellatrix may undertake other transactions that would reduce outstanding indebtedness and
+repay the Term Facility in full prior to its maturity date. Bellatrix is also in active discussions
+with existing and new potential syndicate members about establishing a new long-term
+revolving credit facility prior to the next semi-annual redetermination and the maturity date of
+the Term Facility.
+Bellatrix's ability to repay the Term Facility at maturity will depend on the Company's ability to
+generate sufficient cash flow prior to November 11, 2016 or generate funds from other
+transactions or secure other sources of financing. Although Bellatrix believes that the
+Company will generate sufficient cash flow prior to November 11, 2016 to repay the Term
+Facility, if our cash flow is lower than anticipated for any reason and we are not able to secure
+alternative financing, we may not be able to repay the Term Facility at maturity which may
+result in the lenders under the Credit Facilities proceeding to foreclose or otherwise realize
+upon the collateral granted to them to secure the indebtedness under the Credit Facilities.
+28
+The following table shows Bellatrix’s pro forma Bank Debt as at June 30, 2016, assuming the
+Alder Flats Plant Sale and the Offerings closed effective June 30, 2016. Management expects
+this pro forma June 30, 2016, Bank Debt balance to approximate actual August 9, 2016, Bank
+Debt balances post-closing the Alder Flats Plant Sale and the Offerings:
+($000s)
+Pro Forma June 30,
+June 30,
+  
+ 
+2016
+2016
+  $155,000 
+Bank Debt (Term Facility)
+ $ 12,900
+Bank Debt (Revolving Facility)   109,187
+    159,187 
+  $314,187 
+ $ 122,087
+Bank Debt
+In addition to the semi-annual borrowing base redeterminations, the Credit Facilities
+incorporate the financial covenant of Senior Debt to EBITDA (the “Senior Debt Covenant” as
+defined in detail below) which also has the ability to effectively limit the Company’s maximum
+drawings permitted under the Credit Facilities. Specifically, the Senior Debt Covenant requires
+that the Company maintain a Senior Debt to EBITDA ratio of not more than 3.5 times for the
+fiscal quarters ending on or before March 31, 2017. Commencing with the second quarter of
+2017, the maximum Senior Debt to EBITDA ratio reduces to 3.0 times (3.5 times for the two
+fiscal quarters immediately following a material acquisition). Senior Debt is defined as all debt
+of the borrower, including outstanding letters of credit, bank debt, finance lease obligations,
+deferred lease inducements and net working capital deficiency. Excluded from the calculation
+of Senior Debt is subordinated debt such as the Senior Notes, convertible debentures,
+decommissioning liabilities and deferred tax liability. EBITDA is defined as consolidated
+earnings before interest, taxes, depletion, depreciation and amortization. As at June 30, 2016,
+the Company’s trailing twelve-month EBITDA was $123.0 million and Senior Debt was $343.1
+million, resulting in a Senior Debt to EBITDA ratio of 2.79 times. Pro forma the Alder Flats Plant
+Sale and the Offerings, Bellatrix’s Senior Debt to EBITDA ratio would have been approximately
+1.43 times as at June 30, 2016.
+Total net debt levels of $638.0 million at June 30, 2016 decreased by $79.6 million from $717.6
+million at December 31, 2015. The decrease in total net debt from December 31, 2015 was
+primarily due to the Facilities Monetization transaction which generated proceeds of $75.0
+million. Total net debt levels at June 30, 2016 include bank debt, Senior Notes, and the net
+balance of an adjusted working capital deficiency of $10.6 million, which incorporated $8.7
+million in advances from joint venture partners, the majority of which represents drilling
+obligations predominantly under the Grafton Joint Venture. Total net debt excludes unrealized
+risk management contract assets and liabilities, deferred taxes, finance lease obligations,
+deferred lease inducements and decommissioning liabilities.
+Debt to Funds Flow from Operations Ratio
+($000s, except where noted)
+ 
+Shareholders’ equity
+ 
+Bank debt
+Adjusted working capital deficiency (2)
+Subtotal
+Senior Notes (due May 15, 2020) (4)
+Total net debt (2) at period end
+ 
+Debt to funds flow from operations ratio
+(annualized) (1) (3)
+Funds flow from operations (1) (annualized)
+Total net debt (2) at period end
+Total net debt to periods funds flow from operations ratio
+(annualized) (3)
+ 
+Debt to funds flow from operations ratio (trailing) (1)
+(5)
+Funds flow from operations (trailing) (1) (5)
+Total net debt (2) at period end
+Total net debt (2)  to funds flow from operations ratio (1)
+(trailing) (5)
+29
+2015
+2015
+Six months ended
+  
+June 30,
+  2016
+Three months ended
+ 
+June 30,
+ 
+ 2016
+ 
+  
+  806,534    1,214,627    806,534   1,214,627 
+    
+   
+ 
+  314,187    387,132
+   314,187   387,132  
+   10,559    30,276
+  10,559    30,276
+ 
+   324,746   417,408  
+  324,746    417,408
+  313,279    298,125
+   313,279   298,125  
+   638,025   715,533  
+  638,025    715,533
+36,192    113,512
+  638,025    715,533
+43,848    106,470  
+   638,025   715,533
+17.6x
+6.3x
+14.6x
+6.7x
+78,175    175,334
+  638,025    715,533
+78,175    175,334  
+   638,025   715,533
+8.2x
+4.1x
+8.2x
+4.1x
+(1) As detailed previously in this MD&A, funds flow from operations is a non-GAAP measure
+with no standardized meaning or definition under GAAP. Funds flow from operations is
+calculated as cash flow from operating activities, excluding decommissioning costs incurred,
+changes in non-cash working capital incurred and transaction costs. Refer to the
+reconciliation of cash flow from operating activities to funds flow from operations appearing
+elsewhere herein.
+(2) Total net debt is considered to be a non-GAAP measure. Therefore reference to the
+additional non-GAAP measure of total net debt may not be comparable with the calculation of
+similar measures for other entities. The Company’s calculation of total net debt excludes
+deferred lease inducements, decommissioning liabilities, the long-term finance lease
+obligation and deferred tax liability. Total net debt includes the adjusted working capital
+deficiency (excess), current bank debt, and long-term debt. The adjusted working capital
+deficiency (excess) is a non-GAAP measure calculated as net working capital deficiency
+(excess) excluding current risk management contract assets and liabilities, current finance
+lease obligation, current deferred lease inducements, and the current portion of bank debt. A
+reconciliation between total liabilities under GAAP and total net debt as calculated by the
+Company is found below in this MD&A.
+(3) For the three months ended June 30, 2016 and 2015, total net debt to funds flow from
+operations ratio (annualized) is calculated based upon second quarter funds flow from
+operations annualized. For the six months ended June 30, 2016 and 2015, total net debt to
+funds flow from operations ratio (annualized) is calculated based upon first half funds flow
+from operations annualized.
+(4) For the three and six months ended June 30, 2016, includes unrealized foreign exchange
+loss of $1.5 million (2015: $6.3 million) and gain of $20.0 million (2015: $6.3 million loss),
+respectively, and does not include an unrealized gain of $0.1 million (2015: nil) and $3.7 million
+(2015: nil) of unrealized loss on foreign exchange contracts, respectively.
+(5) Trailing periods funds flow from operations ratio annualized is based upon the twelve-
+month periods ended June 30, 2016 and June 30, 2015.
+As at June 30, 2016 the Company’s ratio of total net debt to annualized funds flow from
+operations (based on second quarter funds flow from operations) was 17.6 times. The total net
+debt to annualized funds flow from operations ratio as at June 30, 2016 increased from that at
+June 30, 2015 of 6.3 times primarily due to a decrease in funds flow from operations due to the
+significant and continued decline in commodity prices, specifically the decline in Bellatrix’s
+realized gas prices. On a pro forma basis the subsequent event transactions reduce total net
+debt (excluding convertible debentures) to annualized funds flow from operations at June 30,
+2016, from 17.6 times to 12.3 times and total net debt to trailing funds flow from operations from
+8.2 times to 5.7 times. The Company continues to preserve liquidity through the priority use of
+funds flow from operations.
+Liquidity Risk
+Liquidity risk is the risk that Bellatrix will not be able to meet its financial obligations as they
+become due. Bellatrix actively manages its liquidity through daily and longer-term cash, debt
+and equity management strategies. Such strategies encompass, among other factors: having
+adequate sources of financing available through its Credit Facilities, estimating future cash
+generated from operations based on reasonable production and pricing assumptions,
+analysis of economic risk management opportunities, and maintaining sufficient cash flows for
+compliance with the Credit Facilities Senior Debt Covenant described above and the ability to
+repay the Term Facility and Revolving Facility.
+Bellatrix generally relies on its operating cash flows and, as necessary and if available, its
+Credit Facilities to fund capital requirements and provide liquidity. Future liquidity depends
+primarily on cash flow generated from operations, availability under the Credit Facilities and
+Bellatrix’s ability to comply with the Senior Debt Covenant and other covenants contained
+therein, and the ability to access debt and equity markets. From time to time, the Company
+accesses capital markets to meet its additional financing needs and to maintain flexibility in
+funding its capital programs. As at June 30, 2016, the Company has the ability to offer to sell
+up to an additional $470.8 million in securities under its $500 million Shelf Prospectus, which
+expires on June 30, 2018.
+There can be no assurance that future debt or equity financing, additional credit under the
+Credit Facilities, or cash generated by operations will be available or sufficient to meet these
+requirements or for other corporate purposes or, if debt or equity financing is available, that it
+will be on terms acceptable to Bellatrix.
+As at August 9, 2016, Bellatrix had outstanding a total of 11,493,835 options at an average
+exercise price of $5.66 per share and 237,511,486 common shares. In addition, as at August 9,
+2016, Bellatrix had 1,390,681 RAs and 1,143,400 PAs outstanding. During the second quarter,
+the shareholders and the TSX approved the issuance of common shares on settlement of RAs
+and PAs under the Incentive Award Plan. As a result, awards under the Incentive Award Plan
+may be settled in cash, in common shares of the Company, or a combination thereof. In the
+case of PAs, settlement is subject to a “payout multiplier” (the payout multiplier shall be based
+on such corporate performance measures as determined by the Board of Directors (or the
+Compensation Committee) of the Company and may range between zero and two times.
+30
+In addition, as at August 9, 2016, there was $50 million principal amount of Debentures
+outstanding which are convertible into common shares of the Company at a price of $1.62 per
+share (representing a conversion rate of approximately 617.2840 Common Shares per $1,000
+principal amount of Debentures and subject to certain adjustments as set out in the Indenture
+(as defined below) at the option of the holder. If the full principal amount of Debentures was
+converted it would result in the issuance of approximately 30,864,198 common shares. In
+addition, the Company may elect to issue common shares of the Company to satisfy our
+obligation to repay, in whole or in part, the principal amount of the Debentures upon
+redemption or maturity of the Debentures (any accrued and unpaid interest on such
+redemption or maturity will be paid in cash). The exact number of common shares of the
+Company that may be issuable on redemption or maturity is not readily determinable as such
+number will be determined by dividing the principal amount of the Debentures subject to the
+election which are to be redeemed or will mature by 95% of the current market price of the
+common shares on the redemption date or maturity date, as applicable.
+Credit Risk
+Credit risk is the risk of financial loss to Bellatrix if a customer or counterparty to a financial
+instrument fails to meet its contractual obligations, and arises principally from Bellatrix’s trade
+receivables from joint venture partners, petroleum and natural gas marketers, and financial
+derivative counterparties.
+A substantial portion of Bellatrix’s accounts receivable are with customers and joint interest
+partners in the petroleum and natural gas industry and are subject to normal industry credit
+risks. Bellatrix currently sells substantially all of its production to ten primary purchasers
+under standard industry sale and payment terms. The most significant 60 day exposure to a
+single counterparty is approximately $10 million. Purchasers of Bellatrix’s natural gas, crude
+oil and natural gas liquids are subject to a periodic internal credit review to minimize the risk of
+non-payment. Bellatrix has continued to closely monitor and reassess the creditworthiness of
+its counterparties, including financial institutions. This has resulted in Bellatrix mitigating its
+exposures to certain counterparties by obtaining financial assurances or reducing credit
+where it is deemed warranted and permitted under contractual terms.
+Bellatrix may be exposed to third party credit risk through its contractual arrangements with its
+current or future partners and joint venture partners, marketers of its petroleum and natural
+gas production, derivative counterparties and other parties. In the event such entities fail to
+meet their contractual obligations to Bellatrix, such failures may have a material adverse effect
+on the Company’s business, financial condition, results of operations and prospects. In
+addition, poor credit conditions in the industry and of joint venture partners may impact a joint
+venture partner’s willingness to participate in Bellatrix’s ongoing capital program, potentially
+delaying the program and the results of such program until Bellatrix finds a suitable alternative
+partner.
+Long Term Debt
+Bank Debt
+During the six months ended June 30, 2016, amounts borrowed under the Credit Facilities bear
+interest at a floating rate based on the applicable Canadian prime rate, U.S. base rate, CDOR
+rate or LIBOR margin rate, plus between 0.8% to 4.75%, depending on the type of borrowing
+and the Company’s Senior Debt to EBITDA ratio. A standby fee is charged of between 0.405%
+and 1.06875% on the undrawn portion of the Credit Facilities, depending on the Company’s
+Senior Debt to EBITDA ratio. Amounts outstanding under the Credit Facilities are secured by a
+$1 billion debenture containing a first ranking charge and security interest. Bellatrix has
+provided a negative pledge and undertaking to provide fixed charges over its properties in
+certain circumstances.
+On July 18, 2016, Bellatrix announced the completion of the semi-annual borrowing base
+redetermination and the renewal of our Credit Facilities. In connection with the establishment
+of these revised Credit Facilities, Bellatrix entered into an amended and restated credit
+agreement (the "Amended and Restated Credit Agreement") with the lenders under the Credit
+Facilities. Pursuant to the renewal the total commitments under our Credit Facilities were
+reduced from $460 million to $365 million consisting of the $210 million Revolving Facility and
+the $155 million Term Facility. The maturity date of the Revolving Facility has been extended to
+July 1, 2017, and Bellatrix may request further extension of the maturity date of the Revolving
+Facility for a period not to exceed 3 years, which may or may not be granted by the lenders
+under the Credit Facilities. The maturity date of the Term Facility has been set at November 11,
+2016.
+31
+Amounts borrowed under the Revolving Facility bear interest at a floating rate based on the
+applicable Canadian prime rate, U.S. base rate, CDOR rate or LIBOR margin rate, plus between
+0.8% and 4.75%, depending on the type of borrowing and the Company's consolidated Senior
+Debt to consolidated EBITDA ratio (both as defined herein). A standby fee is charged of
+between 0.405% to 1.06875% on the undrawn portion of the Revolving Facility, depending on
+the Company's consolidated Senior Debt to consolidated EBITDA ratio. Amounts borrowed
+under the Term Facility bear interest at a floating rate based on the applicable Canadian prime
+rate, U.S. base rate, CDOR rate or LIBOR margin rate, plus between 4.30% and 8.25% from July
+15, 2016 to and including September 30, 2016 and between 4.80% and 8.75% from and after
+October 1, 2016 depending on the Company’s consolidated Senior Debt to consolidated
+EBITDA ratio.
+The Amended and Restated Credit Agreement contemplates that concurrently with the
+maturity of the Term Facility on November 11, 2016, the Revolving Facility will be reduced from
+$210 million to $152 million; however, the actual amount of the Revolving Facility will depend
+on the semi–annual borrowing base review to be conducted in November 2016, which could
+result in the total commitment under the Revolving Facility being higher or lower than the $152
+million currently contemplated in the Amended and Restated Credit Agreement. The borrowing
+base is subject to redetermination on or before May 31 and November 30 in each year prior to
+maturity, with the next semi-annual redetermination currently ongoing with finalization
+expected to occur on November 11, 2016.
+Following completion of the Alder Flats Plant Sale and the Offerings and the application of the
+net proceeds therefrom, the Revolving Facility has been reduced to $160 million and the
+amount outstanding under the Term Facility reduced to approximately $13 million. The
+Company anticipates being able to fully repay all amounts owing under the Term Facility prior
+to the November 11, 2016 maturity date by utilizing cash received from its operations and the
+proceeds, if any, from the full or partial exercise of the Over-Allotment Option. Alternatively,
+Bellatrix may undertake other transactions that would reduce outstanding indebtedness and
+repay the Term Facility in full prior to its maturity date. Bellatrix is also in active discussions
+with existing and new potential syndicate members about establishing a new long-term
+revolving credit facility prior to the next semi-annual redetermination and the maturity date of
+the Term Facility.
+The agreement governing the Credit Facilities contains market standard terms and conditions,
+and includes, for instance, restrictions on asset dispositions and hedging. Generally,
+dispositions of properties to which the Company is given lending value in the determination of
+the borrowing base require lender approval if the net present value at 10% attributed to all
+properties sold in a fiscal year exceeds 5% of the borrowing base in effect at the time of such
+disposition. However, the agreement governing the Credit Facilities also provides that until the
+Term Facility is repaid in full and the Revolving Facility has been reduced to $152 million, and
+at any time when there is a borrowing base shortfall, the value of the properties being sold or
+disposed cannot exceed $5 million in aggregate in any fiscal year without approval of a
+majority of lenders. In addition, asset dispositions are generally not permitted unless there
+would be no borrowing base shortfall as a result of such properties being sold. Hedging
+transactions must not be done for speculative purposes. The term of any hedging contract for
+commodity swaps cannot exceed 3 years. The aggregate amount hedged under all oil and gas
+commodity swaps cannot exceed 70% of the Company’s average daily sales volume for the
+first year of a rolling 3 year period, 60% for the second year of such period or 50% for the third
+year of such period, with the average daily sales volume being based on the Company’s
+production for the previous fiscal quarter. The aggregate amount hedged under all interest
+rate swaps, relating to unsecured note debt, cannot exceed the outstanding principal amount
+of any unsecured note debt or have a term exceeding the remaining term of the unsecured
+note debt. For interest rate swaps, unrelated to any unsecured note debt, the aggregate
+amount hedged cannot exceed 60% of the amount of the commitment under the Credit
+Facilities or exceed a term of three years. The aggregate amount hedged under all exchange
+rate swaps, relating to unsecured note debt, cannot exceed the outstanding principal amount
+of any unsecured note debt or have a term exceeding the remaining term of the unsecured
+note debt. For exchange rate swaps, unrelated to any unsecured note debt, the aggregate
+amount hedged cannot exceed 60% of Bellatrix’s United States dollar revenue over the
+previous three months or exceed a term of three years.
+The agreement governing the Credit Facilities also contains certain events of default which
+relate to the Company failing to satisfy certain milestones in order to payout the amounts
+owing on November 11, 2016. A copy of the agreement governing the Credit Facilities has
+been filed with Canadian and US securities regulatory authorities and may be accessed
+through the SEDAR website (www.sedar.com), through the SEC website (www.sec.gov).
+32
+Senior Notes
+The Company has US$250 million of 8.50% senior unsecured notes maturing May 15, 2020 all
+of which remained outstanding as at June 30, 2016. Interest is payable on the Senior Notes
+semi-annually and the Senior Notes are redeemable at the Company's option, in whole or in
+part, commencing on May 15, 2017 at specified redemption prices. The Senior Notes are
+redeemable at the following redemption prices (expressed as a percentage of the principal
+amount of the Senior Notes): May 15, 2017 to May 14, 2018 at 104.250%, May 15, 2018 to May
+14, 2019 at 102.125%, May 15, 2019 and thereafter at 100.000%.  Prior to May 15, 2017, some or
+all of the Senior Notes may be redeemed at a price equal to 100% of the principal amount plus
+a make-whole premium. Additionally, up to 35% of the Senior Notes may be redeemed prior to
+May 15, 2017 at a redemption price equal to 108.500%, with an amount of cash not greater than
+the net cash proceeds of certain equity offerings. The Senior Notes are carried at amortized
+cost, net of debt issuance costs of $7.7 million, which accrete up to the principal balance at
+maturity using the effective interest rate of 9.6%. The Senior Notes were initially recognized at
+fair value, net of debt issue costs, and have subsequently been carried at amortized cost.
+($000s)
+Balance, December 31, 2014
+Issuance of Senior Notes
+Unrealized foreign exchange loss
+Amortization of discount and debt issue costs  1,442
+ 
+Debt issue costs
+Balance, December 31, 2015
+Unrealized foreign exchange gain (1) (2)
+Amortization of discount and debt issue costs  1,278
+ 
+Debt issue costs
+Balance, June 30, 2016
+Amount  
+  -
+ 
+  299,308 
+  38,940  
+ 
+  339,690 
+  (7,666 )
+  332,024 
+  (19,968 )
+ 
+  313,334 
+  (55
+)
+  313,279
+(1) Exchange rate (CDN$/US$1.00) at June 30, 2016 was 1.3009.
+(2) Amount does not include unrealized loss on foreign exchange contracts of $3.7 million.
+As at June 30, 2016, the Company had entered into the following United States dollar foreign
+exchange forward purchase contracts:
+Type  Financial Contract
+Foreign Exchange Rate
+Notional Amount
+Settlement
+Fixed May 14, 2020
+Fixed May 14, 2020
+($000s USD)
+   32,500
+   30,000
+$ 1.3076
+  $ 1.3080
+($000s CDN)
+  $ 42,497
+ 
+  $ 39,240
+The Company has recorded the following asset (liability) on its Condensed Consolidated
+Balance Sheets with regards to the foreign exchange contracts:
+($000s)
+Foreign exchange contracts asset (liability)  (1,261 )   2,466
+June 30,  December 31, 
+ 
+ 2016
+2015
+Covenants
+The agreement governing the Credit Facilities contains one financial covenant (referred to
+above as the Senior Debt Covenant), which requires that the Company will not permit its ratio
+of outstanding Senior Debt to EBITDA, as defined by the terms of the agreement governing the
+Credit Facilities and adjusted for non-cash charges, for a trailing 12-month period to exceed a
+specified amount (the “Senior Debt Covenant”). Specifically, the Senior Debt Covenant
+requires that the Company maintain a Senior Debt to EBITDA ratio of not more than 3.5 times
+for the fiscal quarters ending on or before March 31, 2017. Commencing with the second
+quarter of 2017, the maximum Senior Debt to EBITDA ratio reduces to 3.0 times (3.5 times for
+the two fiscal quarters immediately following a material acquisition). As at June 30, 2016, the
+Company was in compliance with the Senior Debt Covenant with a Senior Debt to EBITDA
+ratio of 2.79 times. Pro forma the Alder Flats Plant Sale and the Offerings, Bellatrix’s Senior
+Debt to EBITDA ratio would have been approximately 1.43 times as at June 30, 2016.
+33
+The Senior Notes do not contain any maintenance financial covenants but contain an
+incurrence-based minimum fixed charge coverage ratio covenant which, if not met, limits the
+Company’s ability to incur additional indebtedness beyond its existing Senior Notes and its
+Credit Facilities.
+The following table lists the covenant under the Credit Facilities and Senior Notes, and the
+Company’s compliance therewith as at June 30, 2016:
+Covenants as at
+Position at
+Credit Facilities – Senior Debt Covenant
+Senior Debt(1) to EBITDA(2) for the last four fiscal quarters  3.50x
+ 
+Senior Notes – Incurrence Covenant
+Fixed charge coverage(3)
+2.79x
+     
+   
+  Minimum Ratio      
+  2.25x
+3.05x
+June 30, 2016
+  Maximum Ratio
+June 30, 2016
+(1) “Senior Debt” is defined as Consolidated Total Debt, excluding any unsecured or
+subordinated debt (Senior Notes and Convertible Debentures). “Consolidated Total Debt” is
+defined as determined on a consolidated basis in accordance with GAAP and without
+duplication, all Debt of the Borrower. The Company’s calculation of Consolidated Total Debt
+excludes decommissioning liabilities and deferred tax liability. The calculation includes
+outstanding letters of credit, bank debt, finance lease obligations, deferred lease inducements
+and net working capital deficiency (excess), calculated as working capital deficiency excluding
+current risk management contract assets and liabilities. Senior Debt at June 30, 2016 was
+$343.1 million.
+(2) “EBITDA” refers to earnings before interest, taxes, depletion, depreciation and amortization.
+EBITDA is calculated based on terms and definitions set out in the Credit Agreement which
+adjusts net income (loss) for financing costs, certain specific unrealized and non-cash
+transactions, and acquisition and disposition activity and is calculated based on a trailing
+twelve month basis. EBITDA for the trailing twelve months ended June 30, 2016 was $123.0
+million.
+(3) Fixed charge coverage is computed as the ratio of fixed charges (as defined in the indenture
+governing the Senior Notes fixed charges generally includes interest expense plus paid or
+accrued dividends, if any) to trailing twelve month consolidated cash flow (as defined in the
+indenture governing the Senior Notes, consolidated cash flow includes the consolidated net
+profit (loss) and adds back unrealized foreign exchange, provision for taxes, fixed charges,
+depletion, and various other non-recurring expenses and charges). Both fixed charges and
+consolidated cash flow are non-GAAP measures.  For the trailing twelve months ended June
+30, 2016, fixed charges were $48.7 million and consolidated cash flow was $148.5 million.
+As at June 30, 2016, total outstanding letters of credit were $6.5 million which reduced the
+amount otherwise available to be drawn under the Credit Facilities. As a result of the Alder
+Flats Plant Sale subsequent to June 30, 2016, total outstanding letters of credit will be $13.1
+million.
+Convertible Debentures
+On July 19, 2016, Bellatrix entered into an agreement with the Underwriters pursuant to which
+the Underwriters agreed to purchase on a bought deal basis $50 million principal amount of
+Debentures at a price of $1,000 per Debenture. The offering for the Debentures closed on
+August 9, 2016. The Debentures are governed by the terms of an indenture dated August 9,
+2016 between the Company and Computershare Trust Company of Canada (the “Indenture”),
+which has been filed with Canadian and US securities regulatory authorities and may be
+accessed through the SEDAR website (www.sedar.com), through the SEC website
+(www.sec.gov). The Debentures bear interest at a rate of 6.75% per annum, payable
+semiannually in arrears on September 30 and March 31 of each year commencing September
+30, 2016. The first interest payment payable on September 30, 2016 will represent interest
+accrued for the period from August 9, 2016 up to, but excluding, September 30, 2016.
+Following completion of the Alder Flats Plant Sale the maturity date of the Debentures was
+extended to September 30, 2021 (the “Maturity Date”). Each $1,000 principal amount of
+Debenture is convertible at the option of the holder into approximately 617.2840 common
+shares of Bellatrix (representing a conversion price of $1.62) prior to 5:00 p.m. (Calgary time)
+on the earlier of: (i) the last business day immediately prior to the Maturity Date, (ii) the last
+business day immediately preceding any Redemption Date at the Conversion Price (as those
+terms are defined in the Indenture), and (iii) if called for repurchase pursuant to a mandatory
+repurchase as a result of a Change of Control (as defined in the Indenture). The Debentures
+are not redeemable prior to September 30, 2019, except in limited circumstances following a
+Change of Control. On and after September 30, 2019 and up to and including September 30,
+2020, the Debentures may be redeemed in whole or in part from time to time at the Company’s
+option, on not more than 60 days’ and not less than 30 days’ prior written notice, at a price
+equal to their principal amount plus accrued and unpaid interest, provided that the volume
+weighted average trading price of the common shares on the Toronto Stock Exchange for the
+20 consecutive trading days preceding the date on which the notice of redemption is given is
+not less than 125% of the conversion price. On or after September 30, 2020 and prior to the
+Maturity Date, the Debentures may be redeemed in whole or in part from time to time at the
+Company’s option, on not more than 60 days, at a price equal to their principal amount plus
+accrued and unpaid interest. The Debentures are direct, subordinated unsecured obligations
+of the Company, subordinated to the Credit Facilities, the Senior Notes and any other senior
+indebtedness.
+34
+On a redemption date or on the Maturity Date, as applicable, subject to required regulatory
+approvals and provided that no Event of Default (as defined in the Indenture) has occurred
+and is continuing, Bellatrix may, at our option, on not more than 60 days' and not less than 40
+days' prior notice, elect to satisfy our obligation to repay, in whole or in part, the principal
+amount of the Debentures which are to be redeemed or which will mature by issuing and
+delivering freely tradeable common shares of the Company to the holders of the Debentures.
+Payment for such Debentures subject to the election would be satisfied by delivering that
+number of common shares obtained by dividing the principal amount of the Debentures
+subject to the election which are to be redeemed or which will mature by 95% of the current
+market price of the common shares on such redemption date or Maturity Date, as applicable.
+Any accrued and unpaid interest will be paid in cash.
+Bellatrix currently has commitments associated with the Credit Facilities outlined above and
+the commitments outlined under the “Commitments” section.
+COMMITMENTS
+As at June 30, 2016, Bellatrix committed to drill 2 gross (1.0 net) wells pursuant to farm-in
+agreements. Bellatrix expects to satisfy these drilling commitments at an estimated net cost of
+approximately $3.4 million.
+Bellatrix also has certain drilling commitments relating to the Grafton Joint Venture. In meeting
+the drilling commitments under these agreements, Bellatrix will satisfy some of the drilling
+commitments under the joint operating agreement described above.
+As at June 30, 2016, commitments under the Grafton Joint Venture are as follows:
+Agreement
+ 
+Commitment Term
+Remaining wells to drill at June 30, 2016 (gross) (1)    9
+Remaining wells to drill at June 30, 2016 (net) (1)
+   1.5
+Remaining estimated total cost ($millions) (gross) (1) $37.7
+Remaining estimated total cost ($millions) (net) (1)
+ $6.8
+Grafton (2) (3)
+ 
+  
+ 
+   December 2016
+(1) Gross and net estimated total cost values and gross and net minimum estimated total wells
+for the Grafton Joint Venture represents Bellatrix’s total capital and well commitments
+pursuant to the Grafton Joint Venture.
+(2) During April 2014, Grafton elected to exercise an option to increase committed capital
+investment to the Grafton Joint Venture established during 2013 by an additional $50 million,
+for a total commitment of $250 million. The funding period of the Grafton Joint Venture was
+extended to the third anniversary (June 26, 2016) of the program’s effective date for wells
+relating to the exercised option. All other terms and conditions of the commitment increase are
+the same as the previously announced Grafton Joint Venture.
+(3) During the quarter ended March 31, 2016, the funding period of the Grafton Joint Venture
+amended agreement for the wells relating to the exercised option was extended to December
+31, 2016 (from June 26, 2016).
+During the first half of 2016, Bellatrix and Grafton agreed to extend the funding period for the
+remaining commitments under the Grafton Joint Venture to December 31, 2016 (from June 26,
+2016) thereby providing additional operational flexibility for development drilling activity during
+the calendar 2016 year. Bellatrix and Grafton expect to fulfill all of the spending commitments
+under the Grafton Joint Venture in 2016.
+35
+Bellatrix and CNOR, a non-operated oil and gas company managed by Grafton Asset
+Management Inc., formed the CNOR Joint Venture in 2014. Through the joint venture, CNOR
+has committed $250 million in capital towards future accelerated development of a portion of
+Bellatrix's undeveloped land holdings. On September 1, 2015, the parties amended the terms
+of the CNOR Joint venture to extend the funding period to December 31, 2019 as a result
+Bellatrix is now required to propose a joint development plan on or before October 1, 2016,
+with the expectation that the funds will be primarily spent between the years 2017 through
+2019. Bellatrix is not currently subject to any formal well or cost commitments in relation to the
+CNOR Joint Venture.
+The Company had the following liabilities as at June 30, 2016:
+More than
+Liabilities ($000s)
+Total
+< 1 Year   1-3 Years  3-5 Years
+Accounts payable and accrued liabilities (1) $53,558   $53,558   $-
+Advances from joint venture partners
+    -
+Bank debt – principal (2)
+Senior Notes (3)
+Decommissioning liabilities (4)
+Finance lease obligation
+ Total
+$-
+ 
+    -
+   8,667
+ 
+   314,187    155,000    159,187     -
+ 
+   313,279    -
+    86,709  
+   98,121     -
+   9,264
+ 
+    4,547
+ $797,076  $218,822  $163,179   $323,819   $ 91,256
+5 years
+   
+  $ -
+    -
+    -
+    313,279     -
+    9,598
+    942
+-
+    1,814
+    2,178
+8,667
+1,597
+(1) Includes $0.8 million of accrued interest payable in relation to the bank credit facilities and
+$3.5 million related to interest on the Senior Notes is included in Accounts Payable and
+Accrued Liabilities.
+(2) Bank debt is based on a three year facility, fully revolving until maturity, and extendable
+annually at the Company’s option (subject to lender approval), provided that the term after any
+extension would not be more than three years. Interest due on the Credit Facilities is
+calculated based upon floating rates. Subsequent to quarter end, the Company completed its
+semi-annual borrowing base redetermination and the renewal of its Credit Facilities. The total
+commitments under the Credit Facilities have been set at $365 million and are comprised of a
+$210 million Revolving Facility and a $155 million Term Facility. Following completion of the
+Alder Flats Plant Sale and the Offerings and the application of the net proceeds therefrom, the
+Revolving Facility has been reduced to $160 million and the amount outstanding under the
+Term Facility has been reduced to approximately $13 million. The maturity date of the
+Revolving Facility has been extended to July 1, 2017, and may be further extended for a period
+not to exceed 3 years, and the maturity date of the Term Facility has been set at November 11,
+2016.
+(3) Senior Notes mature on May 15, 2020, but may be redeemed by Bellatrix at any time on or
+after May 15, 2017 at specific redemption prices.
+(4) Amounts represent the inflated, discounted future abandonment and reclamation
+expenditures anticipated to be incurred over the life of the Company’s properties (between
+2017 and 2065).
+Off-Balance Sheet Arrangements
+The Company has certain fixed-term lease agreements, primarily compressor and office space
+leases, which were entered into in the normal course of operations. During the three months
+period ending June 30, 2016, Bellatrix completed a sales leaseback of certain production
+facilities to a third party midstream company for proceeds of $75 million pursuant to the
+Facilities Monetization transaction. Bellatrix maintains operatorship and preferential access to
+the facilities for its operated production volumes and retains, at its sole discretion, the option
+to repurchase the facilities at any time during the agreement period. Pursuant to the
+agreement, Bellatrix will pay a nominal annual rental fee over the duration of the eight year
+term of the agreement. All leases have been treated as operating leases whereby the lease
+payments are included in operating expenses or G&A expenses depending on the nature of
+the lease. The lease agreements for office space do not currently provide for early termination.
+No asset or liability value has been assigned to these leases in the balance sheet as of June
+30, 2016.
+BUSINESS PROSPECTS AND 2016 OUTLOOK
+In response to unsustainably low natural gas prices forecast through the summer and into the
+fall, Bellatrix has phased its second half 2016 development plans and on-stream delivery of
+new Spirit River wells to coincide with stronger forecast pricing later in the year. By delaying
+the on-stream delivery of new flush natural gas production to the latter part of 2016, Bellatrix
+plans to maximize the rate of return of the second half 2016 capital program. Production
+volumes are anticipated to wane through the third quarter before regaining a growth trajectory
+through the fourth quarter. Additionally, the deferral of on-stream activity to late 2016 is
+expected to position Bellatrix favourably to capitalize on a much stronger natural gas pricing
+environment in 2017.
+36
+The majority of the Company's second half capital budget is expected to be invested directly
+in drilling, completion and tie-in activity with approximately 19% of total expenditures invested
+in facilities and infrastructure, including approximately $7 million invested into Phase 2 of the
+Bellatrix Alder Flats Plant a portion of such expenditures represent a portion of the
+prepayment made by Keyera related to Phase 2, pursuant to the Alder Flats Plant Sale.
+Preliminary second half 2016 production expenditure guidance of $9.10/boe reflects the impact
+from both the $75 million Facilities Monetization and the Alder Flats Plant Sale. Bellatrix
+expects that upon completion of Phase 2 of the Alder Flats Plant, production expenditures will
+realize a favourable step change reduction given the incremental 30 MMcf/d ownership
+capacity net to Bellatrix’s 25% working interest.
+Second Half
+ 
+2016 Guidance
+    
+Average daily production (boe/d)
+Second Half of 2016 (+/- 500 boe/d)
+   34,500
+December month average (+/- 500 boe/d)   36,500
+Natural gas weighting
+Net capital spending ($ millions) (1)
+Production expenses(2)  ($/boe)
+74%
+   $ 40
+   $ 9.10
+Full Year Average
+  
+2016 Guidance
+     
+    36,250
+    36,500
+   73%
+   $ 77
+   $ 8.50
+(1) Capital spending includes exploration and development capital projects and corporate
+assets, and excludes property acquisitions and dispositions. Second half net capital budget of
+up to $40 million, with funding limited to available cash flow.
+(2) The Company did not previously provide second half 2016 production expense guidance.
+Production expenses before net processing revenue/fees and include the forecast impact of
+the Alder Flats Plant Sale.
+Bellatrix continues to proactively manage its business through this protracted commodity
+price cycle and has completed several strategic measures to ensure the Company maintains
+adequate liquidity and flexibility, while preserving the core asset base and long term value
+platform of the Company. To that end, management has had to make difficult decisions on how
+to most effectively reduce outstanding debt and the potentially increasing level of constraint
+that outstanding debt could have on the business. Management spent a significant amount of
+effort analyzing and scrutinizing the impact and effect of all of its potential deleveraging
+options. We believe that the measures undertaken to date have achieved an optimal outcome
+of materially reducing outstanding debt while preserving ownership of the core foundational
+asset base of the Company. While we recognize the short term impact some of the measures
+have taken on a per share basis, the long term value and profitable growth platform of the
+Company remains largely intact.
+With significantly enhanced capital resources, Bellatrix intends on maintaining its strategic
+focus on investment in the Spirit River liquids-rich natural gas play. Bellatrix has firmly
+positioned itself to proactively accelerate capital investment decisions into a firmer pricing
+environment, providing enhanced benefits to shareholders over the near to medium term. With
+improved capital resources and a significant reduction in debt, ample firm service capacity,
+firmer natural gas prices and a significant inventory of high rate of return drilling locations in
+the low cost Spirit River play, Bellatrix is focused on delivering accretive and profitable growth
+for shareholders. The Company anticipates growth momentum will begin through the end of
+2016 as evidenced by our December average production guidance relative to volume
+expectations in the second half of the year.
+CRITICAL ACCOUNTING ESTIMATES AND ACCOUNTING POLICIES
+The reader is advised that the critical accounting estimates, policies, and practices described
+in the Company’s MD&A for the year ended December 31, 2015 continue to be critical in
+determining Bellatrix’s unaudited financial results as of June 30, 2016. There were no changes
+in accounting policies during the three months ended June 30, 2016.
+A summary of future accounting pronouncements is found in the Company’s MD&A for the
+year ended December 31, 2015. A copy of the Company’s MD&A for the year ended December
+31, 2015 is available at www.sedar.com or as part of the Company’s annual report on Form 40-
+F for the year ended December 31, 2015, which may be found at www.sec.gov.
+37
+LEGAL, ENVIRONMENTAL REMEDIATION AND OTHER CONTINGENT MATTERS
+The Company is involved in various claims and litigation arising in the normal course of
+business. While the outcome of these matters is uncertain and there can be no assurance that
+such matters will be resolved in the Company’s favor, the Company does not currently believe
+that the outcome of adverse decisions in any pending or threatened proceeding related to
+these and other matters or any amount which it may be required to pay by reason thereof
+would have a material adverse impact on its financial position or results of operations.
+The Company reviews legal, environmental remediation and other contingent matters to both
+determine whether a loss is probable based on judgment and interpretation of laws and
+regulations and determine that the loss can reasonably be estimated. When the loss is
+determined, it is charged to earnings. The Company’s management monitors known and
+potential contingent matters and make appropriate provisions by charges to earnings when
+warranted by the circumstances.
+With the above risks and uncertainties the reader is cautioned that future events and results
+may vary substantially from that which Bellatrix currently foresees.
+CONTROLS AND PROCEDURES
+Disclosure Controls and Procedures
+The Company’s President and Chief Executive Officer and Executive Vice President, Finance
+and Chief Financial Officer have designed, or caused to be designed under their supervision,
+disclosure controls and procedures (as defined in Rules 13(a) - 15(e) and  15d – 15(e) under
+the United States Securities Exchange Act of 1934, as amended (the “Exchange Act”) and
+National Instrument 52-109, Certification of Disclosure in Issuer’s Annual and Interim Filings
+(“NI 52-109”)) to provide reasonable assurance that: (i) material information relating to the
+Company is made known to the Company’s President and Chief Executive Officer and
+Executive Vice President, Finance and Chief Financial Officer by others, particularly during the
+period in which the annual and interim filings are being prepared; and (ii) information required
+to be disclosed by the Company in its annual filings, interim filings or other reports filed or
+submitted by it under securities legislation is recorded, processed, summarized and reported
+within the time period specified in securities legislation.
+Internal Control over Financial Reporting
+The Company’s President and Chief Executive Officer and Executive Vice President, Finance
+and Chief Financial Officer have designed, or caused to be designed under their supervision,
+internal control over financial reporting (as defined in Rules 13(a) – 15(f) and 15(d) – 15(f) under
+the Exchange Act and NI 52-109) to provide reasonable assurance regarding the reliability of
+the Company’s financial reporting and the preparation of financial statements for external
+purposes in accordance with GAAP.
+The Company is required to disclose any changes herein in the Company’s internal control
+over financial reporting that occurred during the period April 1, 2016 and ended on June 30,
+2016 that has materially affected, or is reasonably likely to materially affect the Company’s
+internal control over financial reporting based on the criteria described in “Internal Control –
+Integrated Framework (2013)” issued by the Committee of Sponsoring Organizations of the
+Treadway Commission. No material changes in the Company’s internal control over financial
+reporting were identified during such period that has materially affected, or are reasonably
+likely to materially affect, the Company’s internal control over financial reporting.
+It should be noted that a control system, including the Company’s disclosure and internal
+controls and procedures, no matter how well conceived, can provide only reasonable, but not
+absolute, assurance that the objectives of the control system will be met and it should not be
+expected that the disclosure and internal controls and procedures will prevent all errors or
+fraud.
+38
+SENSITIVITY ANALYSIS
+The table below shows sensitivities to funds flow from operations as a result of product price,
+exchange rate, and interest rate changes. This is based on actual average prices received for
+the second quarter of 2016 and average production volumes of 38,000 boe/d during that
+period, as well as the same level of debt outstanding as at June 30, 2016. Diluted weighted
+average shares are based upon the second quarter of 2016. These sensitivities are
+approximations only, and not necessarily valid under other significantly different production
+levels or product mixes. Commodity price risk management activities can significantly affect
+these sensitivities. Changes in any of these parameters will affect funds flow as shown in the
+table below:
+Sensitivity Analysis
+Change of US $1/bbl (2)
+Change of $0.10/ mcf (2)
+Change in prime of 1%
+Change of US $0.01 CDN/ US
+exchange rate
+Funds Flow from Operations (1)  Funds Flow  from Operations (1) 
+ (annualized)
+ 
+ 
+ ($000s)
+ 
+   4,000
+   6,400
+ 
+ 
+   3,100
+Per Diluted Share
+  ($)
+0.02
+0.03
+0.02
+600
+-
+(1) The term “funds flow from operations” should not be considered an alternative to, or more
+meaningful than cash flow from operating activities as determined in accordance with GAAP
+as an indicator of the Company’s performance. Therefore reference to non-GAAP measures of
+funds flow from operations or funds flow from operations per diluted share may not be
+comparable with the calculation of similar measures for other entities. Management uses funds
+flow from operations to analyze operating performance and leverage and considers funds flow
+from operations to be a key measure as it demonstrates the Company’s ability to generate the
+cash necessary to fund future capital investments and to repay debt. The reconciliation
+between cash flow from operating activities and funds flow from operations can be found
+elsewhere herein. Funds flow from operations per share is calculated using the weighted
+average number of common shares for the period.
+(2) Commodity price risk management activities are excluded from funds flow from operations
+sensitivity calculations.
+SELECTED QUARTERLY CONSOLIDATED INFORMATION
+The following table sets forth selected consolidated financial information of the Company for
+the quarters in 2016, 2015 and 2014.
+2016 – Quarter ended (unaudited)
+March 31  June 30
+($000s, except per share amounts)
+Total revenue (1)
+Funds flow from operations (1)
+Funds flow from operations per share (1)
+Basic
+Diluted
+Cash flow from operating activities
+Cash flow from operating activities per share   
+Basic
+Diluted
+Adjusted net loss (1)
+Adjusted net loss per share (1)
+Basic
+Diluted
+Net profit (loss)
+Net profit (loss) per share
+Basic
+Diluted
+Total net capital expenditures - cash
+55,158    48,285          
+  12,876    9,048          
+    
+   
+         
+   $ 0.05          
+  $ 0.07
+  $ 0.07
+   $ 0.05          
+  10,333    7,675          
+    
+         
+  $ 0.05
+   $ 0.04          
+  $ 0.05
+   $ 0.04          
+  (16,029 )  (32,254)        
+   
+         
+  $ (0.08 )  $ (0.17 )        
+  $ (0.08 )  $ (0.17 )        
+  19,347    (55,193)        
+   
+         
+    
+   $ (0.28 )        
+  $ 0.10
+  $ 0.10
+   $ (0.28 )        
+  28,927    (69,917)
+39
+2015 – Quarter ended (unaudited)
+($000s, except per share amounts)
+Total revenue (1)
+March 31   June 30   Sept. 30   Dec. 31
+90,186    88,941    82,066    72,125
+Funds flow from operations (1)
+Funds flow from operations per share (1)
+Basic
+Diluted
+Cash flow from operating activities
+Cash flow from operating activities per share   
+Basic
+Diluted
+Adjusted net loss (1)
+Adjusted net loss per share (1)
+Basic
+Diluted
+Net loss
+Net loss per share
+Basic
+Diluted
+Total net capital expenditures - cash
+2014 – Quarter ended (unaudited)
+$ 0.15    $ 0.14    $ 0.15
+   $ 0.15    $ 0.14    $ 0.15
+24,858    28,378    26,598    29,653  
+ 
+   
+  $ 0.13
+ 
+  $ 0.13
+ 
+  22,553    16,475    22,015    42,033  
+    
+ 
+   $ 0.09    $ 0.11    $ 0.22
+  $ 0.12
+ 
+  $ 0.12
+   $ 0.09    $ 0.11    $ 0.22
+ 
+  (13,986 )  (16,414 )  (6,860 )  (6,133
+)
+   
+ 
+  $ (0.07 )  $ (0.09 )  $ (0.04 )  $ (0.03 )
+  $ (0.07 )  $ (0.09 )  $ (0.04 )  $ (0.03 )
+  (12,688 )  (24,427 )  (50,460 )  (356,631)
+   
+ 
+  $ (0.07 )  $ (0.13 )  $ (0.26 )  $ (1.86 )
+  $ (0.07 )  $ (0.13 )  $ (0.26 )  $ (1.86 )
+  83,179    37,669    11,259    12,086
+March 31  June 30   Sept. 30  Dec. 31
+($000s, except per share amounts)
+Total revenue (1)
+Funds flow from operations (1)
+Funds flow from operations per share (1)
+Basic
+Diluted
+Cash flow from operating activities
+Cash flow from operating activities per share   
+Basic
+Diluted
+Adjusted net profit (1)
+Adjusted net profit per share (1)
+Basic
+Diluted
+Net profit
+Net profit per share
+Basic
+Diluted
+$ 0.34    $ 0.31    $ 0.47
+   $ 0.33    $ 0.31    $ 0.47
+$ 0.40    $ 0.32    $ 0.32
+   $ 0.39    $ 0.31    $ 0.32
+163,585    152,311   137,411   130,160  
+  77,642    71,014    60,341    61,757  
+   
+ 
+ 
+  $ 0.45
+  $ 0.45
+ 
+  84,300    60,063    60,006    90,459  
+ 
+ 
+  $ 0.49
+ 
+  $ 0.48
+  42,924    27,005    29,622    58,982  
+ 
+   
+  $ 0.25
+ 
+  $ 0.25
+ 
+  25,167    38,252    44,874    54,830  
+   
+ 
+ 
+  $ 0.15
+  $ 0.14
+$ 0.15    $ 0.15    $ 0.31
+   $ 0.15    $ 0.15    $ 0.31
+$ 0.22    $ 0.23    $ 0.29
+   $ 0.21    $ 0.23    $ 0.29
+Total net capital expenditures - cash
+155,863    125,955   167,790   232,641
+(1) Refer to “Non-GAAP Measures” in respect of the terms “funds flow from operations”,
+“funds flow from operations per share”, “adjusted net profit”, “adjusted net profit per share”,
+and “total revenue.”
+In the second quarter of 2016 Bellatrix reduced outstanding bank debt and working capital by
+approximately $77.3 million (or 19%) from the first quarter of 2016 through the use of proceeds
+from the Facilities Monetization transaction for proceeds of $75 million. The Company incurred
+$7.8 million of total cash capital expenditures in the three months ended June 30, 2016,
+compared to $37.5 million in the comparative 2015 period. Bellatrix focused its capital activity
+in the second quarter primarily on facilities and equipment expenditures related to the
+development of Phase 2 of the Alder Flats Plant. The decrease in capital expenditures was due
+to Bellatrix proactively curtailing development drilling activity in the quarter in response to
+significantly depressed natural gas prices. The decrease in capital activity for the three months
+ended June 30, 2016, has coincided with a 6% decrease in sales volumes to 38,000 boe/d from
+40,426 boe/d realized in the second quarter of 2015.
+40
+Bellatrix’s first quarter 2016 results were impacted by a weak global commodity price
+environment which continued from the fourth quarter of 2015 through the first quarter of 2016.
+Total net debt was reduced in the quarter by $3.8 million. In the three months ended March 31,
+2016, the Company incurred $28.9 million of net cash capital expenditures, compared to $83.2
+million in the first quarter of 2015. The decrease in capital expenditures is primarily attributable
+to the decrease in facilities and equipment spending period over period in relation to the Alder
+Flats Plant which was commissioned in the second quarter of 2015. The Company drilled 10
+gross (5.7 net) wells, compared to 6 gross (3.2 net) wells in the same period of 2015. Sales
+volumes decreased 13% to 38,467 boe/d from 44,408 boe/d realized in the first quarter of 2015,
+the decrease was due to a significant number of wells being tied-in during the first quarter of
+2015 relating to the fourth quarter 2014 drilling program and a decrease in drilling activity
+throughout 2015 and into 2016 due to continued depressed commodity prices. The
+Company’s total revenue generated in the quarter ending March 31, 2016, decreased 39% to
+$55.2 million from $90.2 million in the first quarter of 2015 as a result of the continued, weak
+global commodity price environment.
+In the fourth quarter of 2015, Bellatrix reduced outstanding bank debt and working capital
+deficiency by approximately $17 million (or 4%) from the third quarter of 2015 through the use
+of proceeds from a minor disposition of facility equipment and cash flow in excess of
+expenditures. Bellatrix continued to realize reductions in production expenses in the quarter
+as a result of the Alder Flats Plant, production expenses decreased 7% to $6.87/boe in the
+fourth quarter of 2015 from $7.38/boe in the third quarter of 2015. In the three months ended
+December 31, 2015, the Company incurred $12.1 million of net cash capital expenditures,
+compared to $232.6 million in the fourth quarter of 2014, $149 million of the fourth quarter of
+2014 capital expenditures related to property acquisitions, and drilled and/or participated in 5
+gross (2.3 net) wells, compared to 12 gross (7.1 net) wells in the same period in 2014. Sales
+volumes decreased 5% to 40,705 boe/d from 42,945 boe/d realized in the fourth quarter of 2014,
+the decrease was due to significant number of wells being tied-in during the fourth quarter of
+2014 relating to the third quarter of 2014 drilling program and a decrease in drilling activity in
+2015 due to depressed commodity prices. The Company’s total revenue generated in the
+quarter ending December 31, 2015, decreased 45% to $72.1 million from $130.1 million in the
+fourth quarter of 2014 as a result of a continued, overall weak global commodity price
+environment.
+In the third quarter of 2015, Bellatrix reduced outstanding bank debt and working capital
+deficiency by $14.7 million from the second quarter of 2015. Bellatrix realized its first full
+quarter of contribution from the Alder Flats Plant which resulted in production expense
+decreases of 14% to $7.38/boe in the third quarter of 2015 from $8.58/boe in the second quarter
+of 2015. In the three months ended September 30, 2015, the Company incurred $11.3 million of
+net cash capital expenditures, compared to $167.8 million in the third quarter of 2014, and
+drilled and/or participated in 12 gross (5.4 net) wells, compared to 35 gross (17.5 net) wells in
+the same period in 2014. Sales volumes increased 6% to 40,277 boe/d from 37,838 boe/d
+realized in the third quarter of 2014. The Company’s total revenue generated in the quarter
+ending September 30, 2015, decreased 40% to $82.1 million compared to $137.4 million in the
+third quarter of 2014.
+During the second quarter of 2015, Bellatrix successfully completed Phase 1 of the Alder Flats
+Plant. In addition, Bellatrix closed a private offering of US$250 million of 8.50% Senior Notes
+maturing in 2020 during the second quarter 2015. In the three months ended June 30, 2015, the
+Company incurred $37.7 million of net cash capital expenditures, compared to $126.0 million in
+the second quarter of 2014, and drilled and/or participated in 4 gross (2.8 net) wells, compared
+to 19 gross (9.0 net) wells in the same period in 2014. Bellatrix achieved sales volumes of
+40,426 boe/d, an 11% increase from 36,342 boe/d realized in the second quarter of 2014.
+Bellatrix’s total revenue generated in the second quarter of 2015 was impacted by the overall
+weak global commodity price environment, resulting in a decrease of 42% to $88.9 million
+compared to $152.3 million in the second quarter of 2014.
+Bellatrix’s first quarter 2015 results were impacted by a weak global commodity price
+environment which continued from the fourth quarter of 2014 through the first quarter of 2015.
+The negative impacts of the first quarter 2015 pricing environment were partially offset by a
+27% increase in production over the first quarter of 2014, which resulted from the success of
+Bellatrix’s first quarter 2015 drilling program and Bellatrix’s ongoing successful drilling activity
+in the Cardium and Spirit River resource plays throughout 2014.
+41

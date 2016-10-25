@@ -1,0 +1,3489 @@
+
+<SEC-DOCUMENT>0001193125-16-676863.txt : 20160809
+<SEC-HEADER>0001193125-16-676863.hdr.sgml : 20160809
+<ACCEPTANCE-DATETIME>20160809164602
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+10-Q
+3
+20160630
+0001193125-16-676863
+20160809
+20160809
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: OIL ROYALTY TRADERS [6792]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+SAN JUAN BASIN ROYALTY TRUST
+0000319655
+756279898
+1231
+TX
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 001-08032
+FILM NUMBER:
+10-Q
+1934 Act
+161818600
+BUSINESS ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+COMPASS BANK, TRUST DEPARTMENT
+300 W. 7TH STREET SUITE B
+FORT WORTH
+TX
+76102
+8668094553
+MAIL ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+COMPASS BANK, TRUST DEPARTMENT
+300 W. 7TH STREET SUITE B
+FORT WORTH
+TX
+76102
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>d208373d10q.htm
+<DESCRIPTION>10-Q
+<TEXT>
+<HTML><HEAD>
+<TITLE>10-Q</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px 
+solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px 
+solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-
+size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times 
+New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times 
+New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-
+size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-
+bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-
+top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" 
+ALIGN="center"><B>FORM 10-Q
+</B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-
+bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-
+top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid 
+#000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:12pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B></B><FONT STYLE="FONT-
+FAMILY:WINGDINGS">&#120;</FONT><B></B><B></B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Quarterly Report Pursuant to Section&nbsp;13 or
+15(d) of the Securities Exchange Act of 1934 for the Quarterly Period Ended 
+June&nbsp;30, 2016 </B></TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman" ALIGN="center"><B>or </B></P> <P STYLE="font-size:12pt;margin-
+top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:12pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B></B><FONT STYLE="FONT-
+FAMILY:WINGDINGS">&#168;</FONT><B></B><B></B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Transition Report Pursuant to Section&nbsp;13 
+or 15(d) of the Securities Exchange Act of 1934 for the transition period from
+<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> to
+<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> </B></TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman" ALIGN="center"><B>Commission File No.&nbsp;1-8032 </B></P> <P 
+STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-
+bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times 
+New Roman" ALIGN="center"><B>S<SMALL>AN</SMALL> J<SMALL>UAN</SMALL> 
+B<SMALL>ASIN</SMALL> R<SMALL>OYALTY</SMALL> T<SMALL>RUST</SMALL> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman" ALIGN="center"><B>(Exact name of registrant as specified in the 
+Amended and Restated San Juan Basin Royalty Trust Indenture) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P
+STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt 
+solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-
+COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Texas</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>75-6279898</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; 
+font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(State or other 
+jurisdiction of</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times
+New Roman" ALIGN="center"><B>incorporation or organization)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; 
+font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(I.R.S. 
+Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times 
+New Roman" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-
+family:Times New Roman" ALIGN="center"><B>Compass Bank </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman" ALIGN="center"><B>300 W. 7<SUP STYLE="font-size:85%; vertical-
+align:top">th</SUP> Street, Suite B </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman" ALIGN="center"><B>Fort Worth, Texas 76102 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times 
+New Roman" ALIGN="center"><B>(Address of principal executive offices) </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times 
+New Roman" ALIGN="center"><B>(Zip Code) </B></P> <P STYLE="margin-top:12pt; 
+margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" 
+ALIGN="center"><B>(866)
+809-4553 </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; 
+font-family:Times New Roman" ALIGN="center"><B>(Registrant&#146;s telephone 
+number, including area code) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman" ALIGN="center"><B>N/A </B></P> <P STYLE="margin-top:0pt; margin-
+bottom:0pt; font-size:8pt; font-family:Times New Roman" 
+ALIGN="center"><B>(Former name, former
+address and former fiscal year, if changed since last report) </B></P> <P 
+STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-
+bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-
+top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times 
+New Roman">Indicate by
+check mark whether the registrant (1)&nbsp;has filed all reports required to be 
+filed by Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934 during 
+the preceding 12 months (or for such shorter period that the registrant was 
+required to
+file such reports), and (2)&nbsp;has been subject to such filing requirements 
+for the past 90 days.&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;<FONT STYLE="FONT-
+FAMILY:WINGDINGS">&#120;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;<FONT
+STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT> </P> <P STYLE="margin-top:12pt; 
+margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New 
+Roman">Indicate by check mark whether the registrant has submitted 
+electronically and posted on its
+corporate Web site, if any, every Interactive Data File required to be submitted
+and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months
+(or for such shorter period that the registrant was required to submit and post 
+such
+files).&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;<FONT STYLE="FONT-
+FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;<FONT 
+STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT> </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman">Indicate by check mark whether the registrant is a 
+large accelerated filer, an accelerated filer, or a non-accelerated filer, or a 
+smaller
+reporting company. See definitions of &#147;large accelerated filer,&#148; 
+&#147;accelerated filer,&#148; and &#147;smaller reporting company&#148; in Rule
+12b-2 of the Exchange Act. (Check one): </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-
+COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+<TR>
+<TD WIDTH="16%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="60%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="20%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="1%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom">Large&nbsp;accelerated&nbsp;filer</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Accelerated&nbsp;filer</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom">Non-accelerated filer</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="FONT-
+FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;(Do not check if a smaller reporting 
+company)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Smaller&nbsp;reporting&nbsp;company</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-
+size:10pt; font-family:Times New Roman">Indicate by check mark whether the 
+registrant is a shell company (as defined in Rule 12b-2 of the
+Act).&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;<FONT STYLE="FONT-
+FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;<FONT 
+STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT> </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman">Number of Units of beneficial interest outstanding 
+at August 9, 2016: 46,608,796 </P>
+<P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P 
+STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px 
+solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px 
+solid #000000">&nbsp;</P>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman" ALIGN="center"><B><A NAME="toc"></A>Table of Contents </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-
+COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+<TR>
+<TD WIDTH="6%"></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD WIDTH="87%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="4"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3" ALIGN="center"><B><A HREF="#rom208373_1">PART I. 
+FINANCIAL INFORMATION </A></B></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="5"></TD>
+<TD HEIGHT="5" COLSPAN="2"></TD>
+<TD HEIGHT="5" COLSPAN="4"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Item&nbsp;1</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><A HREF="#rom208373_2">Financial Statements</A></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">1</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="5"></TD>
+<TD HEIGHT="5" COLSPAN="2"></TD>
+<TD HEIGHT="5" COLSPAN="4"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Item&nbsp;2</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><A HREF="#rom208373_3">Trustee&#146;s Discussion and 
+Analysis of Financial Condition and Results of Operations</A></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">5</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="5"></TD>
+<TD HEIGHT="5" COLSPAN="2"></TD>
+<TD HEIGHT="5" COLSPAN="4"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Item&nbsp;3</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><A HREF="#rom208373_4">Quantitative and Qualitative 
+Disclosures about Market Risk</A></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">10</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="5"></TD>
+<TD HEIGHT="5" COLSPAN="2"></TD>
+<TD HEIGHT="5" COLSPAN="4"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Item&nbsp;4</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><A HREF="#rom208373_5">Controls and Procedures</A></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">10</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16" COLSPAN="3"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3" ALIGN="center"><B><A HREF="#rom208373_6">PART II. 
+OTHER INFORMATION </A></B></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="5"></TD>
+<TD HEIGHT="5" COLSPAN="2"></TD>
+<TD HEIGHT="5" COLSPAN="4"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Item&nbsp;1</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><A HREF="#rom208373_7">Legal Proceedings</A></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">10</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="5"></TD>
+<TD HEIGHT="5" COLSPAN="2"></TD>
+<TD HEIGHT="5" COLSPAN="4"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Item&nbsp;1A</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><A HREF="#rom208373_8">Risk Factors</A></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">11</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="5"></TD>
+<TD HEIGHT="5" COLSPAN="2"></TD>
+<TD HEIGHT="5" COLSPAN="4"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Item 2</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><A HREF="#rom208373_9">Unregistered Sales of Equity 
+Securities and Use of Proceeds</A></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">11</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="5"></TD>
+<TD HEIGHT="5" COLSPAN="2"></TD>
+<TD HEIGHT="5" COLSPAN="4"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Item 3</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><A HREF="#rom208373_10">Defaults Upon Senior 
+Securities</A></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">11</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="5"></TD>
+<TD HEIGHT="5" COLSPAN="2"></TD>
+<TD HEIGHT="5" COLSPAN="4"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Item 4</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><A HREF="#rom208373_11">Mine Safety Disclosures</A></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">11</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="5"></TD>
+<TD HEIGHT="5" COLSPAN="2"></TD>
+<TD HEIGHT="5" COLSPAN="4"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Item 5</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><A HREF="#rom208373_12">Other Information</A></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">11</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="5"></TD>
+<TD HEIGHT="5" COLSPAN="2"></TD>
+<TD HEIGHT="5" COLSPAN="4"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Item 6</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><A HREF="#rom208373_13">Exhibits</A></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">11</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16" COLSPAN="3"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3" ALIGN="center"><B><A HREF="#rom208373_14">SIGNATURE
+</A></B></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="top"></TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P 
+STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New 
+Roman" ALIGN="center">i </P>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman" ALIGN="center"><B>SAN JUAN BASIN ROYALTY TRUST </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman" ALIGN="center"><B><A NAME="rom208373_1"></A>PART I </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman" ALIGN="center"><B>FINANCIAL INFORMATION </B></P> <P STYLE="font-
+size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%" VALIGN="top" ALIGN="left"><B><A 
+NAME="rom208373_2"></A>Item&nbsp;1.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Financial Statements. </B></TD></TR></TABLE> <P
+STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New 
+Roman"><U>CONDENSED STATEMENTS OF ASSETS, LIABILITIES AND TRUST CORPUS </U></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-
+COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+<TR>
+<TD WIDTH="81%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000">June&nbsp;30,<br>2016</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000">December&nbsp;31,<br>2015</TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center"><B></B>(Unaudited)<B></B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD COLSPAN="2" VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">ASSETS</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Cash and short-term investments</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">1,111,987</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">1,819,252</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Net overriding royalty interest in producing oil and gas properties (net 
+of accumulated
+amortization of $124,854,922 and $124,551,141 at June&nbsp;30, 2016 and 
+December&nbsp;31, 2015, respectively)</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">8,420,606</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">8,724,387</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">9,532,593</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">10,543,639</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">LIABILITIES AND TRUST CORPUS</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Distribution payable to Unit Holders</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">125,674</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">1,282,939</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Cash reserves</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">986,313</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">536,313</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Trust corpus &#150; 46,608,796 Units of beneficial interest authorized 
+and outstanding</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">8,420,606</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">8,724,387</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">9,532,593</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">10,543,639</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-
+family:Times New Roman" ALIGN="center"><I>These Condensed Financial Statements 
+should be read in conjunction with the accompanying Notes to Financial
+</I></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-
+family:Times New Roman" ALIGN="center"><I>Statements included herein. </I></P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P 
+STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New 
+Roman" ALIGN="center">1 </P>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman"><U>CONDENSED STATEMENTS OF DISTRIBUTABLE INCOME (UNAUDITED) </U></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-
+COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+<TR>
+<TD WIDTH="64%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="6" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000">Three Months Ended<br>June&nbsp;30,</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="6" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000">Six Months Ended<br>June&nbsp;30,</TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000">2016</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000">2015</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000">2016</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000">2015</TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Royalty income</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">1,541,698</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">2,264,542</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">4,575,210</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">9,609,143</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Interest income</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">596</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">497</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">1,254</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><SUP STYLE="font-size:85%; vertical-
+align:top"></SUP>&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">80,444<SUP STYLE="font-size:85%; vertical-
+align:top"></SUP></TD>
+<TD NOWRAP VALIGN="bottom"><SUP STYLE="font-size:85%; vertical-
+align:top">(1)</SUP>&nbsp;</TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Total revenue</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">1,542,294</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">2,265,039</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">4,576,464</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">9,689,587</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">General and administrative expenditures</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">(886,134</TD>
+<TD NOWRAP VALIGN="bottom">)&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">(498,750</TD>
+<TD NOWRAP VALIGN="bottom">)&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">(1,908,570</TD>
+<TD NOWRAP VALIGN="bottom">)&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">(1,160,488</TD>
+<TD NOWRAP VALIGN="bottom">)&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Increase in cash reserves</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">(225,000</TD>
+<TD NOWRAP VALIGN="bottom">)&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">(350,071</TD>
+<TD NOWRAP VALIGN="bottom">)&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">(450,000</TD>
+<TD NOWRAP VALIGN="bottom">)&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">(350,071</TD>
+<TD NOWRAP VALIGN="bottom">)&nbsp;</TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Distributable income</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">431,160</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">1,416,218</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">2,217,894</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">8,179,028</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Distributable income per Unit (46,608,796 Units)</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">0.009251</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">0.030385</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">0.047586</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">0.175483</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(1)</TD>
+<TD ALIGN="left" VALIGN="top">Includes $78,884 in interest on the late payment 
+of gross proceeds as a result of the ongoing negotiation of compliance audit 
+issues. </TD></TR></TABLE>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman"><U>CONDENSED STATEMENTS OF CHANGES IN TRUST CORPUS (UNAUDITED) 
+</U></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-
+COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+<TR>
+<TD WIDTH="64%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="6" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000">Three Months Ended<br>June&nbsp;30,</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="6" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000">Six Months Ended<br>June&nbsp;30,</TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000">2016</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000">2015</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000">2016</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000">2015</TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Trust corpus, beginning of period</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">8,573,863</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">9,162,781</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">8,724,387</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">9,362,757</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Amortization of net overriding royalty interest</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">(153,257</TD>
+<TD NOWRAP VALIGN="bottom">)&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">(81,646</TD>
+<TD NOWRAP VALIGN="bottom">)&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">(303,781</TD>
+<TD NOWRAP VALIGN="bottom">)&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">(281,622</TD>
+<TD NOWRAP VALIGN="bottom">)&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Distributable income</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">431,160</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">1,416,218</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">2,217,894</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">8,179,028</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Distributions declared</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">(431,160</TD>
+<TD NOWRAP VALIGN="bottom">)&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">(1,416,218</TD>
+<TD NOWRAP VALIGN="bottom">)&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">(2,217,894</TD>
+<TD NOWRAP VALIGN="bottom">)&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">(8,179,028</TD>
+<TD NOWRAP VALIGN="bottom">)&nbsp;</TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Trust corpus, end of period</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">8,420,606</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">9,081,135</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">8,420,606</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">9,081,135</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-
+family:Times New Roman" ALIGN="center"><I>These Condensed Financial Statements 
+should be read in conjunction with the accompanying Notes to Financial
+</I></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-
+family:Times New Roman" ALIGN="center"><I>Statements included herein</I>.<I> 
+</I></P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P 
+STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New 
+Roman" ALIGN="center">2 </P>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman" ALIGN="center">NOTES TO CONDENSED FINANCIAL STATEMENTS (UNAUDITED) 
+</P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><B>1.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Basis of Presentation </B></TD></TR></TABLE> <P
+STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-
+family:Times New Roman">The condensed financial statements included herein have 
+been
+prepared without audit, pursuant to the rules and regulations of the Securities 
+and Exchange Commission (&#147;SEC&#148;). These condensed financial statements 
+should be read in conjunction with the financial statements and the notes 
+thereto
+included in San Juan Basin Royalty Trust (the &#147;Trust&#148;) Annual Report 
+on Form 10-K for the year ended December&nbsp;31, 2015. In the opinion of 
+Compass Bank, the trustee of the Trust (the &#147;Trustee&#148;), all
+adjustments, consisting
+only of normal recurring adjustments, have been included that are necessary to 
+fairly present the assets, liabilities and trust corpus of the Trust at 
+June&nbsp;30, 2016 and December&nbsp;31, 2015 and the distributable income and 
+changes in trust
+corpus for the three-month periods and the six-month periods ended June&nbsp;30,
+2016 and 2015. The distributable income for such interim periods is not 
+necessarily indicative of the distributable income for the full year. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman">The financial statements of the Trust are prepared 
+on the following basis and are not intended to present the financial position 
+and results
+of operations of the Trust in conformity with U.S. generally accepted accounting
+principles (&#147;GAAP&#148;): </P> <P STYLE="font-size:6pt;margin-
+top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">The net proceeds attributable to the 75% net 
+overriding royalty interest (the &#147;Royalty&#148;) that burdens certain oil 
+and natural gas interests originally owned by Southland Royalty Company (the 
+&#147;Subject
+Interests&#148;) in properties located in the San Juan Basin of northwestern New
+Mexico (the &#147;Royalty Income&#148;) recorded for a month is the amount 
+computed and paid by Southland&#146;s successor, Burlington Resources 
+Oil&nbsp;&amp; Gas
+Company LP (&#147;Burlington&#148;), which is a wholly-owned subsidiary of 
+ConocoPhillips, to the Trustee for the Trust. Royalty Income consists of the 
+proceeds received by ConocoPhillips from the sale of production less accrued 
+production costs,
+development and drilling costs, applicable taxes, operating charges, and other 
+costs and deductions, multiplied by 75%. The calculation of net proceeds by 
+ConocoPhillips for any month includes adjustments to proceeds and costs for 
+prior months and
+impacts the Royalty Income paid to the Trust and the distribution to the holders
+of units of the Trust (&#147;Unit Holders&#148;) for that month. 
+</TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-
+bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Trust expenses recorded are based on liabilities 
+paid and cash reserves established from Royalty Income for liabilities and 
+contingencies. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Distributions to Unit Holders are recorded when 
+declared by the Trustee. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-
+top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">The conveyance which transferred the Royalty to 
+the Trust provides that any excess of production costs applicable to the Subject
+Interests over gross proceeds from such properties must be recovered from future
+net
+proceeds before Royalty Income is again paid to the Trust. </TD></TR></TABLE> <P
+STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-
+family:Times New Roman">The financial statements of the Trust differ from 
+financial
+statements prepared in accordance with GAAP because revenues are not accrued in 
+the month of production; certain cash reserves may be established for 
+liabilities and contingencies which would not be accrued in financial statements
+prepared in
+accordance with GAAP; expenses are recorded when paid instead of when incurred; 
+and amortization of the Royalty calculated on a unit-of-production basis is 
+charged directly to trust corpus instead of as an expense. Most accounting 
+pronouncements
+apply to entities whose financial statements are prepared in accordance with 
+GAAP, directing such entities to accrue or defer revenues and expenses in a 
+period other than when such revenues were received or expenses were paid. 
+Because the
+Trust&#146;s financial statements are prepared on the modified cash basis, as 
+described above, most accounting pronouncements are not applicable to the 
+Trust&#146;s financial statements. This comprehensive basis of accounting 
+corresponds to the
+accounting permitted for royalty trusts by the SEC, as specified by Staff 
+Accounting Bulletin Topic 12:E, Financial Statements of Royalty Trusts. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman">The Trustee routinely reviews its royalty interests
+in oil and natural gas properties for impairment whenever events or 
+circumstances indicate
+that the carrying amount of an asset may not be recoverable. If an impairment 
+event occurs and it is determined that the carrying value of the Trust&#146;s 
+royalty interests may not be recoverable, an impairment will be recognized as 
+measured by the
+amount by which the carrying amount of the royalty interests exceeds the fair 
+value of these assets, which would likely be measured by discounting projected 
+cash flows. There was no impairment of the assets as of June&nbsp;30, 2016. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P 
+STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New 
+Roman" ALIGN="center">3 </P>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><B>2.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Federal Income Taxes </B></TD></TR></TABLE> <P 
+STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-
+family:Times New Roman">For federal income tax purposes, the Trust constitutes a
+fixed
+investment trust which is taxed as a grantor trust. A grantor trust is not 
+subject to tax at the trust level. The Unit Holders are considered to own the 
+Trust&#146;s income and principal as though no trust were in existence. The 
+income of the Trust
+is deemed to have been received or accrued by each Unit Holder at the time such 
+income is received or accrued by the Trust rather than when distributed by the
+Trust. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman">The Trust is a widely held fixed investment trust 
+(&#147;WHFIT&#148;) classified as a non-mortgage widely held fixed investment 
+trust
+(&#147;NMWHFIT&#148;) for federal income tax purposes. The Trustee is the 
+representative of the Trust that will provide tax information in accordance with
+the applicable U.S. Treasury Regulations governing the information reporting 
+requirements of
+the Trust as a WHFIT and a NMWHFIT. </P> <P STYLE="margin-top:12pt; margin-
+bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The 
+Royalty constitutes an &#147;economic interest&#148; in oil and natural gas 
+properties for
+federal income tax purposes. Unit Holders must report their share of the 
+production revenues of the Trust as ordinary income from oil and natural gas 
+royalties and are entitled to claim depletion with respect to such income. The 
+Royalty is treated
+as a single property for depletion purposes. The Trust has on file technical 
+advice memoranda confirming such tax treatment. </P> <P STYLE="margin-top:12pt; 
+margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New 
+Roman">Sales of
+natural gas production from certain coal seam wells drilled prior to 
+January&nbsp;1, 1993, qualified for federal income tax credits under 
+Section&nbsp;29 (now Section&nbsp;45K) of the Internal Revenue Code of 1986, as 
+amended (the &#147;Code&#148;),
+through 2002 but not thereafter. Accordingly, under present law, the 
+Trust&#146;s production and sale of natural gas from coal seam wells does not 
+qualify for tax credit under Section&nbsp;45K of the Code (the &#147;Section 45 
+Tax Credit&#148;).
+Congress has at various times since 2002 considered energy legislation, 
+including provisions to reinstate the Section&nbsp;45 Tax Credit in various ways
+and to various extents, but no legislation that would qualify the Trust&#146;s 
+current
+production for such credit has been enacted. No prediction can be made as to 
+what future tax legislation affecting Section&nbsp;45K of the Code may be 
+proposed or enacted or, if enacted, its impact, if any, on the Trust and the 
+Unit Holders. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman">The classification of the Trust&#146;s income for 
+purposes of the passive loss rules may be important to a Unit Holder. Royalty 
+income such as
+that derived through the Trust will generally be treated as portfolio income 
+that may not be offset or reduced by passive losses. </P> <P STYLE="margin-
+top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times 
+New Roman">Tax
+positions taken by the Trust related to the Trust&#146;s pass-through status and
+state tax positions have been reviewed, and the Trustee is of the opinion that 
+material positions taken would more likely than not be sustained by examination.
+As of
+June&nbsp;30, 2016, the Trust&#146;s tax years 2012 and thereafter remain 
+subject to examination. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-
+indent:4%; font-size:10pt; font-family:Times New Roman"><B>Each Unit Holder 
+should consult his
+or her own tax advisor regarding tax compliance matters related to such Unit 
+Holder&#146;s interest in the Trust. </B></P> <P STYLE="font-size:18pt;margin-
+top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><B>3.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>COMMITMENTS AND CONTINGENCIES 
+</B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-
+indent:4%; font-size:10pt; font-family:Times New Roman">Contingencies related to
+the Subject Interests that are
+unfavorably resolved would generally be reflected by the Trust as reductions to 
+future Royalty Income payments to the Trust with corresponding reductions to 
+cash distributions to Unit holders. See Note 4 Settlements and Litigation for a 
+discussion
+of the status of pending litigation matters. </P> <P STYLE="font-
+size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><B>4.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>SETTLEMENTS AND LITIGATION 
+</B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-
+indent:4%; font-size:10pt; font-family:Times New Roman">On July&nbsp;31, 2014, 
+the Trustee filed a lawsuit (the
+&#147;2014 Litigation&#148;) against Burlington in New Mexico State 
+Court.&nbsp;The Trust asserts claims for breach of contract and breach of the 
+implied covenant of good faith and fair dealing, and seeks a declaratory 
+judgment arising out of a
+number of unresolved revenue and expense audit exceptions asserted by the 
+Trust&#146;s auditors. The case is currently scheduled for non-jury trial in 
+March 2017. For more information about the 2014 Litigation, see Part I, 
+Item&nbsp;3. Legal
+Proceedings of our Annual Report on Form 10-K for the year ended 
+December&nbsp;31, 2015. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-
+bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><B>5.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>CERTAIN CONTRACTS </B></TD></TR></TABLE> <P 
+STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-
+family:Times New Roman">Burlington sells natural gas produced from the Subject 
+Interests
+under various contracts. During the second quarter of 2016, Burlington extended 
+the term of its natural gas sales contract with New Mexico Gas Company, Inc. by 
+two years to March&nbsp;31, 2019. The contract provides for the sale of certain
+winter-only natural gas supplies processed at the Kutz plant at prices that 
+fluctuate in accordance with published indices for natural gas sold in the San 
+Juan Basin of northwestern New Mexico. The Trust is not a party to this 
+contract. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P 
+STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New 
+Roman" ALIGN="center">4 </P>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><B>6.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>SUBSEQUENT EVENTS </B></TD></TR></TABLE> <P 
+STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-
+family:Times New Roman">The Trustee increased the Trust&#146;s cash reserves for
+payment of
+contingent and future obligations by $13,687 from June&nbsp;30, 2016 to 
+July&nbsp;29, 2016 to cover Trust expenses in case of a future revenue shortfall
+due to a prolonged decline in oil and natural gas prices that may reduce Royalty
+Income. </P>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%" VALIGN="top" ALIGN="left"><B><A 
+NAME="rom208373_3"></A>Item&nbsp;2.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Trustee&#146;s Discussion and Analysis of 
+Financial Condition and Results of Operations. </B></TD></TR></TABLE> <P 
+STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New 
+Roman"><B>Overview
+</B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-
+size:10pt; font-family:Times New Roman">The Trust is an express trust created 
+under the laws of the state of Texas by the San Juan Basin Royalty Trust 
+Indenture entered into
+on November&nbsp;1, 1980 between Southland Royalty Company 
+(&#147;Southland&#148;) and The Fort Worth National Bank. Effective as of 
+September&nbsp;30, 2002, the original indenture was amended and restated and, 
+effective as of December&nbsp;12,
+2007, the restated indenture was amended and restated, which we refer to as the 
+&#147;Indenture.&#148; As a result of a series of mergers and other 
+transactions, the current Trustee of the Trust is Compass Bank, which is a 
+wholly-owned subsidiary of
+Banco Bilbao Vizcaya Argentaira, S.A. </P> <P STYLE="margin-top:18pt; margin-
+bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>The Conveyance and 
+the Royalty </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman">Pursuant to the Net Overriding Royalty Conveyance 
+(the &#147;Conveyance&#148;) effective November&nbsp;1, 1980, Southland conveyed
+to the Trust
+a 75% net overriding royalty interest (the &#147;Royalty&#148;) that burdens 
+certain of Southland&#146;s oil and natural gas interests (the &#147;Subject 
+Interests&#148;) in properties located in the San Juan Basin of northwestern New
+Mexico.
+Subsequent to the Conveyance of the Royalty, through a series of assignments and
+mergers, Southland&#146;s successor became Burlington Resources Oil&nbsp;&amp; 
+Gas Company LP (&#147;Burlington&#148;), which is an indirect wholly-owned 
+subsidiary of
+ConocoPhillips. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-
+indent:4%; font-size:10pt; font-family:Times New Roman">The Royalty constitutes 
+the principal asset of the Trust. The beneficial interest in the Royalty is 
+divided into
+46,608,796 units (the &#147;Units&#148;) representing undivided fractional 
+interests in the beneficial interest of the Trust equal to the number of shares 
+of the common stock of Southland outstanding as of the close of business on 
+November&nbsp;3,
+1980. Each stockholder of Southland of record at the close of business on 
+November&nbsp;3, 1980 received one freely tradable Unit for each share of the 
+common stock of Southland then held. Holders of Units are referred to herein as 
+&#147;Unit
+Holders.&#148; </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-
+size:10pt; font-family:Times New Roman"><B>The Trustee </B></P> <P 
+STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-
+family:Times New Roman">The
+primary function of the Trustee is to collect Royalty Income, to pay all 
+expenses and charges of the Trust and distribute the remaining available income 
+to the Unit Holders. The amount of income distributable to Unit Holders, which 
+we refer to as
+&#147;Distributable Income,&#148; depends on the amount of Royalty Income and 
+interest received by the Trust, as well as the amount of expenses paid by the 
+Trust and any change in cash reserves. The Trust has no employees, officers or 
+directors. All
+administrative functions of the Trust are performed by the Trustee. </P> <P
+STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New
+Roman"><B>ConocoPhillips </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman">Affiliates of ConocoPhillips are the principal 
+operators of the majority of the Subject Interests. Burlington also is 
+responsible, subject to
+the terms of an agreement with the Trust, for marketing the production from such
+properties, either under existing sales contracts or under future arrangements, 
+at the best prices and on the best terms it shall deem reasonably obtainable in 
+the
+circumstances. A very high percentage of the Royalty Income is attributable to 
+the production and sale by Burlington of natural gas from the Subject Interests.
+Accordingly, the market price for natural gas produced and sold from the San 
+Juan Basin
+heavily influences the amount of Royalty Income distributed by the Trust and, by
+extension, the price of the Units. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P 
+STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New 
+Roman" ALIGN="center">5 </P>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman"><B>Three and Six Months Ended June&nbsp;30, 2016 and 2015 </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; 
+font-family:Times New Roman"><B><I>Royalty Income </I></B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman">Royalty Income consists of monthly net proceeds 
+attributable to the Royalty.&nbsp;Royalty Income for the three and six months 
+ended
+June&nbsp;30, 2016 and 2015 was determined as shown in the following table: </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-
+COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+<TR>
+<TD WIDTH="61%"></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="6" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000">Three Months Ended<br>June&nbsp;30,</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="6" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000">Six Months Ended<br>June&nbsp;30,</TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000">2016</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000">2015</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000">2016</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000">2015</TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman"><B>Gross proceeds from the Subject Interests:</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD COLSPAN="9" VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Natural Gas</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">9,880,817</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">17,207,327</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">22,608,805</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">41,348,942</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Oil</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">435,180</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">615,064</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">891,599</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">1,202,412</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Other</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"><SUP STYLE="font-size:85%; vertical-
+align:top"></SUP>&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">(311,050<SUP STYLE="font-size:85%; vertical-
+align:top"></SUP></TD>
+<TD NOWRAP VALIGN="bottom">)<SUP STYLE="font-size:85%; vertical-
+align:top">(1)</SUP>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><SUP STYLE="font-size:85%; vertical-
+align:top"></SUP>&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">(3,030<SUP STYLE="font-size:85%; vertical-
+align:top"></SUP></TD>
+<TD NOWRAP VALIGN="bottom">)<SUP STYLE="font-size:85%; vertical-
+align:top">(2)</SUP>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><SUP STYLE="font-size:85%; vertical-
+align:top"></SUP>&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">(310,240<SUP STYLE="font-size:85%; vertical-
+align:top"></SUP></TD>
+<TD NOWRAP VALIGN="bottom">)<SUP STYLE="font-size:85%; vertical-
+align:top">(3)</SUP>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><SUP STYLE="font-size:85%; vertical-
+align:top"></SUP>&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">(3,030<SUP STYLE="font-size:85%; vertical-
+align:top"></SUP></TD>
+<TD NOWRAP VALIGN="bottom">)<SUP STYLE="font-size:85%; vertical-
+align:top">(2)</SUP>&nbsp;</TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Total</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">10,004,947</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">17,819,361</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">23,190,164</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">42,548,324</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman"><B>Production Costs:</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD COLSPAN="9" VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Severance tax &#150; gas</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">1,043,622</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">1,744,869</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">2,378,122</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">4,189,186</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Severance tax &#150; oil</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">43,225</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">61,813</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">88,677</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">118,665</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Lease operating expense and property tax</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">6,588,432</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">7,971,849</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">13,770,345</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">15,672,436</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Capital expenditures</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">274,070</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">5,021,441</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">852,740</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">9,755,846</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Total</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">7,949,349</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">14,799,972</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">17,089,884</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">29,736,133</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Net profits</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">2,055,598</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">3,019,389</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">6,100,280</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">12,812,191</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Net Overriding Royalty Interest</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">75</TD>
+<TD NOWRAP VALIGN="bottom">%&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">75</TD>
+<TD NOWRAP VALIGN="bottom">%&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">75</TD>
+<TD NOWRAP VALIGN="bottom">%&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">75</TD>
+<TD NOWRAP VALIGN="bottom">%&nbsp;</TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman"><B>Royalty Income</B> <B></B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">1,541,698</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">2,264,542</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">4,575,210</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">9,609,143</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(1)</TD>
+<TD ALIGN="left" VALIGN="top">Burlington&#146;s revenue adjustment in May for 
+gas revenue reporting for production periods December 2014 &#150; January 2016. 
+</TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(2)</TD>
+<TD ALIGN="left" VALIGN="top">Reversal of Burlington&#146;s duplicate payment in
+March 2015 of interest due on granted and paid audit exceptions. 
+</TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(3)</TD>
+<TD ALIGN="left" VALIGN="top">Includes Burlington&#146;s revenue adjustment in 
+May for gas revenue reporting for production periods December 2014 &#150; 
+January 2016 and $810 additional revenue received in January from the August 
+2015 settlement of
+a gas imbalance. </TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-
+bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The 
+Royalty Income distributed to the Trust for the three and six months ended 
+June&nbsp;30, 2016 was
+lower than that distributed during the same periods of 2015 primarily due to 
+lower natural gas prices offset by higher capital expenditures in 2015. The 
+average natural gas price decreased from $2.38 per Mcf and $2.86 per Mcf for the
+three and six
+months ended June&nbsp;30, 2015, respectively, to $1.43 per Mcf and $1.61 per 
+Mcf for the three and six month ended June&nbsp;30, 2016, respectively. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman"><I>Gross Proceeds from Subject Interests. </I>Gross
+proceeds decreased $7.8 million or 44% for the three months ended June&nbsp;30, 
+2016
+compared to the three months ended June&nbsp;30, 2015 and decreased $19.3 
+million or 45% for the six months ended June&nbsp;30, 2016 compared to the six 
+months ended June&nbsp;30, 2015. Such decreases for these periods were primarily
+attributable to
+lower natural gas and oil prices along with decreased natural gas volumes.</P> 
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman"><I>Capital Expenditures.</I>&nbsp;Capital 
+expenditures
+decreased $4.7 million or 94% for the three months ended June&nbsp;30, 2016 
+compared to the three months ended June&nbsp;30, 2015 and decreased $8.9 million
+or 91% for the six months ended June&nbsp;30, 2016 compared to the six months 
+ended
+June&nbsp;30, 2015. Such decreases for these periods were attributable to 
+maintenance and improvement of production facilities. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman"><I>Severance Taxes. </I>Aggregate severance taxes 
+decreased $0.7 million or 39% for the three months ended June&nbsp;30, 2016 
+compared to the
+three months ended June&nbsp;30, 2015 and decreased $1.8 million or 42% for the 
+six months ended June&nbsp;30, 2016 compared to the six months ended 
+June&nbsp;30, 2015. Such decreases were primarily attributable to lower gross 
+proceeds during these
+periods. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; 
+font-size:10pt; font-family:Times New Roman"><I>Lease Operating Expenses and 
+Property Taxes.</I> Lease operating expenses and property taxes decreased $1.4 
+million or 18%
+for the three months ended June&nbsp;30, 2016 compared to the three months ended
+June&nbsp;30, 2015 and decreased $1.9 million or 12% for the six months ended 
+June&nbsp;30, 2016 compared to the six months ended June&nbsp;30, 2015. Such 
+decreases
+were primarily attributable to Burlington&#146;s efforts to reduce contracted 
+maintenance and repair costs as a result of declining commodity prices. Property
+taxes increased $35,551 in the second quarter of 2016 compared to the second 
+quarter of
+2015 and $246,838 in the first half of 2016 compared to the first half of 2015 
+because actual taxes for 2015 were more than accrued, which resulted in an 
+increase in the current accruals based on a new estimate of ad valorem taxes for
+2016. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P 
+STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New 
+Roman" ALIGN="center">6 </P>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman">Monthly&nbsp;lease operating expenses of the 
+Subject Interests, exclusive of property taxes, in
+second quarter 2016 averaged approximately $2.2 million, as compared to $2.6 
+million in the second quarter of 2015. Monthly&nbsp;lease operating expenses of 
+the Subject Interests, exclusive of property taxes, in the first half of 2016 
+averaged
+approximately $2.2 million, as compared to $2.6 million in the first half of 
+2015. Lease operating expenses averaged lower for these periods primarily 
+because of reduced maintenance and repair labor.</P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; 
+font-family:Times New Roman"><B><I>Distributable Income </I></B></P> <P 
+STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-
+COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+<TR>
+<TD WIDTH="64%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="6" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000"><B>Three&nbsp;Months&nbsp;Ended&nbsp;June&nbsp;30,</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="6" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000"><B>Six Months Ended June&nbsp;30,</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000"><B>2016</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000"><B>2015</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000"><B>2016</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000"><B>2015</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Royalty Income</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">1,541,698</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">2,264,542</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">4,575,210</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">9,609,143</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Interest Income</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">596</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">497</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">1,254</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><SUP STYLE="font-size:85%; vertical-
+align:top"></SUP>&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">80,444<SUP STYLE="font-size:85%; vertical-
+align:top"></SUP></TD>
+<TD NOWRAP VALIGN="bottom"><SUP STYLE="font-size:85%; vertical-
+align:top">(1)</SUP>&nbsp;</TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Total Income</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">1,542,294</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">2,265,039</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">4,576,464</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">9,689,587</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Expenditures &#150; General and Administrative</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">(886,134</TD>
+<TD NOWRAP VALIGN="bottom">)&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">(498,750</TD>
+<TD NOWRAP VALIGN="bottom">)&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">(1,908,570</TD>
+<TD NOWRAP VALIGN="bottom">)&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">(1,160,488</TD>
+<TD NOWRAP VALIGN="bottom">)&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Increase in Cash Reserves</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">(225,000</TD>
+<TD NOWRAP VALIGN="bottom">)&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">(350,071</TD>
+<TD NOWRAP VALIGN="bottom">)&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">(450,000</TD>
+<TD NOWRAP VALIGN="bottom">)&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">(350,071</TD>
+<TD NOWRAP VALIGN="bottom">)&nbsp;</TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Distributable Income</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">431,160</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">1,416,218</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">2,217,894</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">8,179,028</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Distributable Income per Unit (46,608,796 Units)</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">0.009251</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">0.030385</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">0.047586</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">0.175483</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(1)</TD>
+<TD ALIGN="left" VALIGN="top">Includes $78,884 in interest on the late payment 
+of gross proceeds as a result of the ongoing negotiation of compliance audit 
+issues. </TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman"><I>Distributable Income</I> decreased by 
+approximately $1.0 million or 71% to $0.4 million ($0.009251 per Unit) for the 
+three months ended
+June&nbsp;30, 2016 from $1.4 million ($0.030385 per Unit) for the three months 
+ended June&nbsp;30, 2015.&nbsp;Distributable income decreased $6 million or 73% 
+to $2.2 million ($0.047586 per Unit) for the six months ended June&nbsp;30, 2016
+from $8.2
+million ($0.175483 per Unit) for the six months ended June&nbsp;30, 2015. Such 
+decreases in Distributable Income were primarily attributable to a decrease in 
+Royalty Income over these periods and increased General and Administrative 
+Expenses
+directly related to audit and legal costs incurred in the Burlington 
+litigation.</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; 
+font-size:10pt; font-family:Times New Roman">Based on 46,608,796 Units 
+outstanding, the per-Unit
+distributions during the second quarter of 2016 were as follows: </P> <P 
+STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="68%" BORDER="0" STYLE="BORDER-
+COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+<TR>
+<TD WIDTH="85%"></TD>
+<TD VALIGN="bottom" WIDTH="6%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">April</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">0.003906</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">May</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">0.002649</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">June</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">0.002696</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:1.00px solid #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Quarter Total</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">0.009251</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-
+top:3.00px double #000000">&nbsp;</P></TD>
+<TD>&nbsp;</TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-
+size:10pt; font-family:Times New Roman"><I>Interest Income.</I> Interest income 
+was higher for the three months ended June&nbsp;30, 2016 as compared
+to the three months ended June&nbsp;30, 2015 primarily due to interest earned on
+the increased cash reserve. Interest income for the six months ended 
+June&nbsp;30, 2016 were lower as compared to the six months ended June&nbsp;30, 
+2015 primarily due
+to the receipt of $78,884 in interest on the late payment of gross proceeds in 
+2015. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-
+size:10pt; font-family:Times New Roman"><I>General&nbsp;&amp; Administrative
+Expenses.&nbsp;</I>General and administrative expenses increased $0.4 million or
+80% for the three months ended June&nbsp;30, 2016 compared to the three months 
+ended June&nbsp;30, 2015 and increased $0.7 million or 58% for the six months 
+ended
+June&nbsp;30, 2016 compared to the six months ended June&nbsp;30, 
+2015.&nbsp;Such increases were primarily attributable to increased audit costs 
+and legal costs incurred related to the Burlington litigation. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman"><I>Cash Reserves.&nbsp;</I>Total cash reserves for 
+current Trust expenses were approximately $1.0 million as of June&nbsp;30, 2016 
+compared to
+$0.8 million as of March&nbsp;31, 2016.&nbsp;Cash reserves were increased by 
+$225,000 during the second quarter of 2016 in order to cover expenses in case of
+a future revenue shortfall resulting from lower commodity prices. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman">Total cash reserves were approximately $0.5 million
+as of December&nbsp;31, 2015 and were increased by $450,000 during the first six
+months of
+2016 in order to cover expenses in case of a future revenue shortfall resulting 
+from lower commodity prices. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; 
+font-size:10pt; font-family:Times New Roman"><B>Liquidity and Capital Resources 
+</B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman">The Trust&#146;s principal source of liquidity and 
+capital is Royalty Income. The Trust&#146;s distribution of income to Unit 
+Holders is funded
+by Royalty Income after payment of Trust expenses. The Trust is not liable for
+any production </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P 
+STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New 
+Roman" ALIGN="center">7 </P>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman">
+costs or liabilities attributable to the Royalty. If at any time the Trust 
+receives more than the amount due under the Royalty, it is not obligated to 
+return such overpayment, but the amounts
+payable to it for any subsequent period are reduced by such amount, plus 
+interest, at a rate specified in the Conveyance. If the Trustee determines that 
+the Trust does not have sufficient funds to pay its liabilities, the Trustee may
+borrow funds on
+behalf of the Trust, in which case no distributions will be made to Unit Holders
+until such borrowings are repaid in full. The Trustee may not sell or dispose of
+any part of the assets of the Trust without the affirmative vote the Unit 
+Holders of
+75% of all of the Units outstanding; however, the Trustee may sell up to 1% of 
+the value of the Royalty (as determined pursuant to the Indenture) during any 
+12-month period without the consent of the Unit Holders. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; 
+font-family:Times New Roman"><B><I>2016 Capital Expenditures </I></B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman">ConocoPhillips&#146; announced 2016 capital plan 
+for the Subject Interests anticipates capital expenditures of $4.8 million, of 
+which $3.4
+million is allocated to 20 facilities projects and $1.4 million is allocated to 
+20 facilities projects attributable to the budgets for prior years. 
+ConocoPhillips reports that based on its actual capital requirements, the pace 
+of regulatory
+approvals, the mix of projects and swings in the price of natural gas, the 
+actual capital expenditures for 2016 are subject to change. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman">Primarily due to depressed pricing for natural gas,
+ConocoPhillips has not allocated any capital expenditures for 2016 to its 
+drilling program
+in the San Juan Basin. However, ConocoPhillips reported that it continually 
+monitors natural gas prices and plans to restart the program at some point in 
+the future, dependent upon such natural gas prices. Existing wells will continue
+to be
+operated. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; 
+font-size:10pt; font-family:Times New Roman">ConocoPhillips has reported to the 
+Trustee that there was no well activity during the first and second quarters of 
+2016. During
+the first quarter of 2015, eight gross (4.8 net) conventional wells were 
+completed on the properties underlying the Subject Interests. During the second 
+quarter of 2015, one gross (1.0 net) conventional well was completed on the 
+properties
+underlying the Subject Interests. </P> <P STYLE="margin-top:18pt; margin-
+bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Oil and Natural Gas 
+Production </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman">Royalty Income for the quarter ended June&nbsp;30, 
+2016 is associated with actual oil and natural gas production during February 
+2016 through
+April 2016 from the Subject Interests. Royalty income for the six months ended 
+June&nbsp;30, 2015 is associated with actual gas and oil production during 
+November 2015 through April 2016 from the Subject Interests. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman">Production of oil and natural gas and related 
+average sales prices attributable to each of the Subject Interests and the 
+Royalty for the three
+months ended June&nbsp;30, 2016 and 2015, were as follows: </P> <P STYLE="font-
+size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="92%" BORDER="0" STYLE="BORDER-
+COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+<TR>
+<TD WIDTH="62%"></TD>
+<TD VALIGN="bottom" WIDTH="6%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="6%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="6%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="6%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="14" ALIGN="center" STYLE="border-bottom:1.00pt 
+solid #000000"><B>For the Three Months Ended June&nbsp;30,</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="6" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000"><B>2016</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="6" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000"><B>2015</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000">Natural Gas<BR>(Mcf)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000">Oil and<BR>Condensate<BR>(Bbls)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000">Natural Gas<BR>(Mcf)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000">Oil and<BR>Condensate<BR>(Bbls)</TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Production</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Subject Interests</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">6,914,622</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">18,654</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">7,238,541</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">16,533</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Royalty</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">1,327,550</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">3,658</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">1,052,961</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">2,811</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Average Price (per Mcf/Bbl)</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">1.43</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">23.33</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">2.38</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">37.20</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-
+size:10pt; font-family:Times New Roman">Production of oil and natural gas and 
+related average sales prices attributable to each of the Subject
+Interests and the Royalty for the six months ended June&nbsp;30, 2016 and 2015, 
+were as follows: </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-
+bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="92%" BORDER="0" STYLE="BORDER-
+COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+<TR>
+<TD WIDTH="58%"></TD>
+<TD VALIGN="bottom" WIDTH="7%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="7%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="7%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="7%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="14" ALIGN="center" STYLE="border-bottom:1.00pt 
+solid #000000"><B>For the Six Months Ended June&nbsp;30,</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="6" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000"><B>2016</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="6" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000"><B>2015</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000">Natural Gas<BR>(Mcf)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000">Oil and<BR>Condensate<BR>(Bbls)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000">Natural Gas<BR>(Mcf)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid
+#000000">Oil and<BR>Condensate<BR>(Bbls)</TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Production</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Subject Interests</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">14,001,972</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">35,225</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">14,438,245</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">28,890</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Royalty</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">3,131,525</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">8,031</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">3,363,329</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">6,742</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Average Price (per Mcf/Bbl)</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">1.61</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">25.31</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">2.86</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">$</TD>
+<TD VALIGN="bottom" ALIGN="right">41.62</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;&nbsp;</TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P 
+STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New 
+Roman" ALIGN="center">8 </P>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman">The Trust recognizes production during the month in
+which the related net proceeds attributable
+to the Royalty are paid to the Trust.&nbsp;Royalty Income for a calendar year is
+based on the actual natural gas and oil production during the period beginning 
+with November of the preceding calendar year through October of the current 
+calendar
+year.&nbsp;Sales volumes attributable to the Royalty are determined by dividing 
+the net profits by the Trust from the sale of oil and natural gas, respectively,
+by the prices received for sales of such volumes from the Subject Interests, 
+taking into
+consideration production taxes attributable to the Subject 
+Interests.&nbsp;Because the oil and natural gas sales attributable to the 
+Royalty are based upon an allocation formula dependent on such factors as price 
+and cost, including capital
+expenditures, the aggregate sales amounts from the Subject Interests may not 
+provide a meaningful comparison to sales attributable to the Royalty. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman">The fluctuations in natural gas production that 
+have occurred during the three-month and six-month periods ended June&nbsp;30, 
+2016 and 2015,
+respectively, generally resulted from changes in the demand for natural gas
+during that time, market conditions, and variances in capital spending to 
+generate production from new and existing wells, as offset by the natural 
+production decline
+curve.&nbsp;Also, production from the Subject Interests is influenced by the 
+line pressure of the natural gas gathering systems in the San Juan Basin. As 
+noted above, oil and natural gas sales attributable to the Royalty are based on 
+an allocation
+formula dependent on many factors, including oil and natural gas prices and 
+capital expenditures. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-
+size:10pt; font-family:Times New Roman"><B>Marketing </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman">For a discussion of changes during the second 
+quarter of 2016 to the contracts pursuant to which ConocoPhillips sells 
+production from the
+Subject Interests and for the gathering and processing of production, see Part 
+I, Item&nbsp;1. Unaudited Consolidated Financial Statements, Note 5 Certain 
+Contracts. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman"><B>Off-Balance&nbsp;Sheet Arrangements </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman">None. </P> <P STYLE="margin-top:18pt; margin-
+bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Critical Accounting 
+Policies and
+Estimates </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; 
+font-size:10pt; font-family:Times New Roman">For a discussion of significant 
+accounting policies and estimates that impact the Trust&#146;s financial 
+statements, see
+Part I, Item 1. Unaudited Financial Statements, Note 1 Basis of Presentation and
+Part II, Item&nbsp;8. Financial Statements and Supplemental Data contained in 
+our Annual Report on Form 10-K for the year ended December&nbsp;31, 2015. </P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman" ALIGN="center"><B>Information Regarding Forward-Looking Information 
+</B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman">Certain information included in this Quarterly 
+Report on Form 10-Q contains, and other materials filed or to be filed by the 
+Trust with the
+SEC (as well as information included in oral statements or other written 
+statements made or to be made by the Trust) may contain or include, forward-
+looking statements within the meaning of Section&nbsp;21E of the Securities 
+Exchange Act of 1934, as
+amended (the &#147;Exchange Act&#148;) and Section&nbsp;27A of the Securities 
+Act of 1933, as amended. Such forward-looking statements may be or may concern, 
+among other things, capital expenditures, drilling activity, development 
+activities,
+production efforts and volumes, hydrocarbon prices, estimated future net 
+revenues, estimates of reserves, the results of the Trust&#146;s activities, and
+regulatory matters. Such forward-looking statements generally are accompanied by
+words such as
+&#147;may,&#148; &#147;will,&#148; &#147;estimate,&#148; &#147;expect,&#148; 
+&#147;predict,&#148; &#147;project,&#148; &#147;anticipate,&#148; 
+&#147;goal,&#148; &#147;should,&#148; &#147;assume,&#148; &#147;believe,&#148; 
+&#147;plan,&#148;
+&#147;intend,&#148; or other words that convey the uncertainty of future events 
+or outcomes. Such statements are based on certain assumptions of Compass Bank, 
+the Trustee and by ConocoPhillips, the owner of the working interest, with 
+respect to
+future events; are based on an assessment of, and are subject to, a variety of 
+factors deemed relevant by the Trustee and ConocoPhillips; and involve risks and
+uncertainties. However, whether actual results and developments will conform 
+with such
+expectations and predictions is subject to a number of risks and uncertainties 
+which could affect the future results of the energy industry in general, and the
+Trust and ConocoPhillips in particular, and could cause those results to differ
+materially from those expressed in such forward-looking statements. The actual 
+results or developments anticipated may not be realized or, even if 
+substantially realized, they may not have the expected consequences to or 
+effects on
+ConocoPhillips&#146;s business and the Trust. Such statements are not guarantees
+of future performance and actual results or developments may differ materially 
+from those projected in such forward-looking statements. The Trust undertakes no
+obligation to publicly update or revise any forward-looking statements, expect 
+as required by applicable law. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P 
+STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New 
+Roman" ALIGN="center">9 </P>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman" ALIGN="center"><B>ConocoPhillips Information </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman">As a holder of a net overriding royalty interest, 
+the Trust relies on ConocoPhillips for information regarding ConocoPhillips and 
+its
+affiliates, including Burlington; the Subject Interests, including the 
+operations, acreage, well and completion count, working interests, production 
+volumes, sales revenues, capital expenditures, operating expenses, reserves, 
+drilling plans,
+drilling results and leasehold terms related to the Subject Interests, and 
+factors and circumstances that have or may affect the foregoing. See Part I, 
+Item&nbsp;4. Controls and Procedures. </P>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%" VALIGN="top" ALIGN="left"><B><A 
+NAME="rom208373_4"></A>Item&nbsp;3.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Quantitative and Qualitative Disclosures about 
+Market Risk. </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt;
+text-indent:4%; font-size:10pt; font-family:Times New Roman">There have been no 
+material
+changes to our market risk during 2016. For information on our exposure to 
+market risk, please see Part II, Item&nbsp;7A, &#147;Quantitative and 
+Qualitative Disclosures About Market Risk&#148; contained in our Annual Report 
+on Form 10-K for the year
+ended December&nbsp;31, 2015. </P> <P STYLE="font-size:18pt;margin-
+top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%" VALIGN="top" ALIGN="left"><B><A 
+NAME="rom208373_5"></A>Item&nbsp;4.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Controls and Procedures. </B></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman">The Trust maintains a system of disclosure controls
+and
+procedures that is designed to ensure that information required to be disclosed 
+in the Trust&#146;s filings under the Exchange Act is recorded, processed, 
+summarized, and reported within the time periods specified in the SEC&#146;s 
+rules and forms.
+Due to the pass-through nature of the Trust, ConocoPhillips provides much of the
+information disclosed in this Form 10-Q and the other periodic reports filed by 
+the Trust with the SEC. Consequently, the Trust&#146;s ability to timely 
+disclose
+relevant information in its periodic reports is dependent upon 
+ConocoPhillips&#146;s delivery of such information. Accordingly, the Trust 
+maintains disclosure controls and procedures designed to ensure that 
+ConocoPhillips accurately and timely
+accumulates and delivers such relevant information to the Trustee and those who 
+participate in the preparation of the Trust&#146;s periodic reports to allow for
+the preparation of such periodic reports and any decisions regarding disclosure.
+</P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman">The Indenture does not require ConocoPhillips to 
+update or provide information to the Trust. However, the Conveyance transferring
+the Royalty
+to the Trust obligates Burlington to provide the Trust with certain information,
+including information concerning calculations of net proceeds owed to the Trust.
+Pursuant to the settlement of litigation in 1996 between the Trust and 
+Burlington,
+Burlington agreed to newer, more formal financial reporting and audit procedures
+as compared to those provided in the Conveyance. </P> <P STYLE="margin-top:12pt;
+margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New 
+Roman">In
+order to help ensure the accuracy and completeness of the information required 
+to be disclosed in the Trust&#146;s periodic reports, the Trust engages 
+independent public accountants, compliance auditors, marketing consultants, 
+attorneys and
+petroleum engineers. These outside professionals advise the Trustee in its 
+review and compilation of this information for inclusion in this Form 10-Q and 
+the other periodic reports provided by the Trust to the SEC. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman">The Trustee has evaluated the Trust&#146;s 
+disclosure controls and procedures as of June&nbsp;30, 2016 and has concluded 
+that such disclosure
+controls and procedures are effective, at the &#147;reasonable assurance&#148; 
+level (as such term is used in Rule 13a-15(f) of the Exchange Act), to ensure 
+that material information related to the Trust is gathered on a timely basis to 
+be included
+in the Trust&#146;s periodic reports and recorded, processed, summarized and 
+reported within the time periods specified in the SEC&#146;s rules and forms. In
+reaching its conclusion, the Trustee has considered the Trust&#146;s dependence 
+on
+ConocoPhillips to deliver timely and accurate information to the Trust. </P> <P 
+STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-
+family:Times New Roman">Additionally, during the quarter ended June&nbsp;30, 
+2016 there
+were no changes in the Trust&#146;s internal control over financial reporting 
+(as such term is used in Rule 13a-15(f) of the Exchange Act) that materially 
+affected, or are reasonably likely to materially affect, the Trust&#146;s 
+internal control
+over financial reporting. Because the Trust does not have, nor does the 
+Indenture provide for, officers, a board of directors or an independent audit 
+committee, the Trustee has reviewed neither the Trust&#146;s disclosure controls
+and procedures nor
+the Trust&#146;s internal control over financial reporting in concert with 
+management, a board of directors or an independent audit committee. </P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman" ALIGN="center"><B><A NAME="rom208373_6"></A>PART II </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman" ALIGN="center"><B>OTHER INFORMATION </B></P> <P STYLE="font-
+size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%" VALIGN="top" ALIGN="left"><B><A 
+NAME="rom208373_7"></A>Item&nbsp;1.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Legal Proceedings. </B></TD></TR></TABLE> <P
+STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-
+family:Times New Roman">For a discussion of legal proceedings, see Part I, Item 
+1. Unaudited
+Financial Statements, Note 4 Settlements and Litigation, which is incorporated 
+by reference into this Part II. Item&nbsp;1, as well as the discussion in Part 
+I, Item&nbsp;3. Legal Proceedings, of our Annual Report on Form 10-K for the 
+year ended
+December&nbsp;31, 2015. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P 
+STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New 
+Roman" ALIGN="center">10 </P>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%" VALIGN="top" ALIGN="left"><B><A 
+NAME="rom208373_8"></A>Item&nbsp;1A.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Risk Factors. </B></TD></TR></TABLE> <P 
+STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-
+family:Times New Roman">There have been no material changes from the risk 
+factors disclosed in
+Item&nbsp;1A. Risk Factors of our Annual Report on Form 10-K for the year ended 
+December&nbsp;31, 2015. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-
+bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%" VALIGN="top" ALIGN="left"><B><A 
+NAME="rom208373_9"></A>Item&nbsp;2.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Unregistered Sales of Equity Securities and Use
+of Proceeds. </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt;
+text-indent:4%; font-size:10pt; font-family:Times New Roman">None. </P>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%" VALIGN="top" ALIGN="left"><B><A 
+NAME="rom208373_10"></A>Item&nbsp;3.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Defaults Upon Senior Securities. 
+</B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-
+indent:4%; font-size:10pt; font-family:Times New Roman">None. </P>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%" VALIGN="top" ALIGN="left"><B><A 
+NAME="rom208373_11"></A>Item&nbsp;4.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Mine Safety Disclosures. </B></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman">Not applicable. </P>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%" VALIGN="top" ALIGN="left"><B><A 
+NAME="rom208373_12"></A>Item&nbsp;5.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Other Information. </B></TD></TR></TABLE> <P 
+STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-
+family:Times New Roman">None. </P>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%" VALIGN="top" ALIGN="left"><B><A 
+NAME="rom208373_13"></A>Item&nbsp;6.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Exhibits. </B></TD></TR></TABLE> <P 
+STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-
+family:Times New Roman">The information required by this Part II, Item&nbsp;6 is
+set forth in the
+Index to the Exhibits accompanying this Quarterly Report on Form 10-Q and is 
+incorporated by reference into this Part II, Item&nbsp;6. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P 
+STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New 
+Roman" ALIGN="center">11 </P>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman" ALIGN="center"><B><A NAME="rom208373_14"></A>SIGNATURE </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman">Pursuant to the requirements of the Securities 
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by
+the undersigned thereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-
+top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-
+COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+<TR>
+<TD WIDTH="6%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="93%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3">COMPASS BANK, AS TRUSTEE OF THE</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3">SAN JUAN BASIN ROYALTY TRUST</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-
+bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ 
+Joshua R. Peterson</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Joshua R. Peterson</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Vice President and Senior Trust Officer</TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; 
+font-family:Times New Roman">Date: August&nbsp;9, 2016 </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times
+New Roman" ALIGN="center">(The Trust has no directors or executive officers.) 
+</P>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman" ALIGN="center"><B>EXHIBIT INDEX </B></P> <P STYLE="font-
+size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-
+COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="7%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="margin-top:0pt; margin-
+bottom:0pt; font-size:8pt; font-family:Times New Roman" 
+ALIGN="center"><B>Exhibit</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times 
+New Roman" ALIGN="center"><B>Number</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><B>Description</B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP ALIGN="center">(4)(a)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">San Juan Basin Amended and Restated Royalty Trust Indenture, 
+dated December&nbsp;12, 2007 , filed as Exhibit 99.2 to the Trust&#146;s Current
+Report on Form 8-K filed with the SEC on October&nbsp;1, 2002, and incorporated 
+herein by
+reference.*</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP ALIGN="center">(4)(b)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Net Overriding Royalty Conveyance from Southland Royalty 
+Company to The Fort Worth National Bank, as Trustee, dated November&nbsp;3, 1980
+(without Schedules), filed as Exhibit 4(b) to the Trust&#146;s Annual Report on 
+Form 10-K
+filed with the SEC for the year ended December&nbsp;31, 2006 on March&nbsp;1, 
+2007, and incorporated herein by reference.*</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP ALIGN="center">(4)(c)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Assignment of Net Overriding Interest (San Juan Basin Royalty 
+Trust), dated September&nbsp;30, 2002, between Bank One, N.A. and Texas Bank, 
+filed as Exhibit 4(c) to the Trust&#146;s Quarterly Report on Form 10-Q filed 
+with the SEC
+for the quarter ended September&nbsp;30, 2002, and incorporated herein by 
+reference.*</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP ALIGN="center">31</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Certification required by Rule 13a-14(a), dated August&nbsp;9, 
+2016, by Joshua R. Peterson, Vice President and Senior Trust Officer of Compass 
+Bank, the Trustee of the Trust.**</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP ALIGN="center">32</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Certification required by Rule 13a-14(b), dated August&nbsp;9, 
+2016, by Joshua R. Peterson, Vice President and Senior Trust Officer of Compass 
+Bank, on behalf of Compass Bank, the Trustee of the Trust.***</TD></TR>
+</TABLE> <P STYLE="line-height:8.0pt;margin-top:0pt;margin-bottom:2pt;border-
+bottom:1px solid #000000;width:10%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">*</TD>
+<TD ALIGN="left" VALIGN="top">A copy of this exhibit is available to any Unit 
+Holder (free of charge) upon written request to the Trustee, Compass Bank, 300 
+W. 7th Street, Suite B, Fort Worth, Texas 76102. </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">**</TD>
+<TD ALIGN="left" VALIGN="top">Filed herewith. </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">***</TD>
+<TD ALIGN="left" VALIGN="top">Furnished herewith. </TD></TR></TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31
+<SEQUENCE>2
+<FILENAME>d208373dex31.htm
+<DESCRIPTION>EX-31
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-31</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman" ALIGN="right"><B><U>EXHIBIT 31 </U></B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman" ALIGN="center"><B>CERTIFICATION </B></P> <P STYLE="margin-top:12pt; 
+margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">I, Joshua R. 
+Peterson,
+certify that: </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%;
+font-size:10pt; font-family:Times New Roman">1. I have reviewed this Quarterly 
+Report on Form 10-Q of San Juan Basin Royalty Trust, for which Compass Bank acts
+as
+Trustee; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; 
+font-size:10pt; font-family:Times New Roman">2. Based on my knowledge, this 
+report does not contain any untrue statement of a material fact or omit to state
+a material fact
+necessary to make the statements made, in light of the circumstances under which
+such statements were made, not misleading with respect to the period covered by 
+this report; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman">3. Based on my knowledge, the financial statements,
+and other financial information included in this report, fairly present in all 
+material
+respects the financial condition, distributable income and changes in trust 
+corpus of the registrant as of, and for, the periods presented in this report; 
+</P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman">4. I am responsible for establishing and 
+maintaining disclosure controls and procedures (as defined in Exchange Act Rules
+13a-15(e) and
+15d-15(e)) and internal control over financial reporting (as defined in Exchange
+Act Rules 13a-15(f) and 15d-15(f)) for the registrant and I have: </P> <P 
+STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">a)</TD>
+<TD ALIGN="left" VALIGN="top">Designed such disclosure controls and procedures, 
+or caused such disclosure controls and procedures to be designed under my 
+supervision, to ensure that material information relating to the registrant, 
+including any
+consolidated subsidiaries, is made known to me by others within those entities, 
+particularly during the period in which this report is being prepared; 
+</TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-
+bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">b)</TD>
+<TD ALIGN="left" VALIGN="top">Designed such internal control over financial 
+reporting, or caused such internal control over financial reporting to be 
+designed under my supervision, to provide reasonable assurance regarding the 
+reliability of
+financial reporting and the preparation of financial statements for external 
+purposes; </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-
+bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">c)</TD>
+<TD ALIGN="left" VALIGN="top">Evaluated the effectiveness of the 
+registrant&#146;s disclosure controls and procedures and presented in this 
+report my conclusions about the effectiveness of the disclosure controls and 
+procedures, as of the end of the
+period covered by this report based on such evaluation; and </TD></TR></TABLE> 
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">d)</TD>
+<TD ALIGN="left" VALIGN="top">Disclosed in this report any change in the 
+registrant&#146;s internal control over financial reporting that occurred during
+the registrant&#146;s most recent fiscal quarter (the registrant&#146;s fourth 
+fiscal quarter
+in the case of an annual report) that has materially affected, or is reasonably 
+likely to materially affect, the registrant&#146;s internal control over
+financial reporting; and </TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman">5. I have disclosed, based on my most recent 
+evaluation of internal control over financial reporting, to the 
+registrant&#146;s auditors: </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">a)</TD>
+<TD ALIGN="left" VALIGN="top">All significant deficiencies and material 
+weaknesses in the design or operation of internal control over financial 
+reporting which are reasonably likely to adversely affect the registrant&#146;s 
+ability to record,
+process, summarize and report financial information; and </TD></TR></TABLE> <P 
+STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">b)</TD>
+<TD ALIGN="left" VALIGN="top">Any fraud, whether or not material, that involves 
+persons who have a significant role in the registrant&#146;s internal control 
+over financial reporting. </TD></TR></TABLE>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-
+COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+<TR>
+<TD WIDTH="46%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="45%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Date: August&nbsp;9, 2016</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">By:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-
+bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ 
+Joshua R. Peterson</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Joshua R. Peterson</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Vice President and Senior Trust Officer,</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Compass Bank</TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-32
+<SEQUENCE>3
+<FILENAME>d208373dex32.htm
+<DESCRIPTION>EX-32
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-32</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman" ALIGN="right"><B><U>EXHIBIT 32 </U></B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman" ALIGN="center"><B>CERTIFICATION OF </B></P> <P STYLE="margin-top:0pt;
+margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" 
+ALIGN="center"><B>THE
+TRUSTEE* </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; 
+font-family:Times New Roman" ALIGN="center"><B>OF THE SAN JUAN BASIN ROYALTY 
+TRUST </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman" ALIGN="center"><B>PURSUANT TO 18 U.S.C. &#167; 1350 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; 
+font-family:Times New Roman">In connection with the accompanying report on Form 
+10-Q for the quarter ended June&nbsp;30, 2016 and filed with the Securities and 
+Exchange
+Commission on the date hereof (the &#147;Report&#148;), I, Joshua R. Peterson, 
+Vice President and Senior Trust Officer of Compass Bank, on behalf of Compass 
+Bank, the Trustee of the San Juan Basin Royalty Trust (the &#147;Trust&#148;),* 
+not in its
+individual capacity but solely as Trustee of the Trust, hereby certify that: 
+</P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">1.</TD>
+<TD ALIGN="left" VALIGN="top">The Report fully complies in all material respects
+with the requirements of Section&nbsp;13(a) or 15(d) of the Securities Exchange 
+Act of 1934, as amended (as explained in Note 1 to the Trust&#146;s financial 
+statements
+contained in the Report, in accordance with the Securities and Exchange 
+Commission Staff Accounting Bulletin Topic 12:E, Financial Statements of Royalty
+Trusts, the Trust prepares its financial statements in a manner that differs 
+from generally
+accepted accounting principles; such presentation is customary to other royalty 
+trusts); and </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-
+bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">2.</TD>
+<TD ALIGN="left" VALIGN="top">The information contained in the Report fairly 
+presents, in all material respects, the financial condition and results of 
+operations of the Trust. </TD></TR></TABLE>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV 
+ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-
+COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+<TR>
+<TD WIDTH="6%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="46%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="46%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="5">COMPASS BANK, AS TRUSTEE OF THE</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="5">SAN JUAN BASIN ROYALTY TRUST</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="3"> <P STYLE="margin-top:0pt; margin-bottom:1pt; 
+border-bottom:1px solid #000000; font-size:10pt; font-family:Times New 
+Roman">/s/ Joshua R. Peterson</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="5">Name:&nbsp;&nbsp;Joshua R. Peterson</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="5">Title:&nbsp;&nbsp;&nbsp;&nbsp;Vice President and 
+Senior Trust Officer</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16" COLSPAN="5"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="5">Date: August 9, 2016</TD></TR>
+</TABLE></DIV> <P STYLE="font-size:12pt;margin-top:0pt;margin-
+bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">*</TD>
+<TD ALIGN="left" VALIGN="top">The Trust has no executive officers. 
+</TD></TR></TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

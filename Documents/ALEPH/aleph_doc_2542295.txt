@@ -1,0 +1,2719 @@
+
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Lw/cchDCiXTziAz7FmHr+8L2Ete4LoaTDvEuxUyF3CjWKrCGALKXKvKNcVPzPDqd
+ 3sWzpcAQHAjP4hueodg+MQ==
+<SEC-DOCUMENT>0000109757-05-000012.txt : 20051021
+<SEC-HEADER>0000109757-05-000012.hdr.sgml : 20051021
+<ACCEPTANCE-DATETIME>20051021153440
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+10-Q/A
+5
+20040630
+0000109757-05-000012
+20051021
+20051021
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: GOLD & SILVER ORES [1040]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+COMMERCE GROUP CORP /WI/
+0000109757
+391942961
+0331
+WI
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 001-07375
+FILM NUMBER:
+10-Q/A
+1934 Act
+051149678
+BUSINESS ADDRESS:
+STREET 1:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+6001 N 91ST ST
+MILWAUKEE
+WI
+53225-1795
+4144625310
+MAIL ADDRESS:
+STREET 1:
+CITY:
+STATE:
+ZIP:
+6001 N 91ST ST
+MILWAUKEE
+WI
+53225
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q/A
+<SEQUENCE>1
+<FILENAME>rajun04.txt
+<DESCRIPTION>FORM 10-Q FOR THE QUARTERLY PERIOD ENDED 6/30/2004
+<TEXT>
+UNITED STATES
+                   SECURITIES AND EXCHANGE COMMISSION
+                        WASHINGTON, D.C.  20549
+FORM 10-Q/A
+(X)  QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                     SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended June 30, 2004
+or
+___ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d)
+                OF THE SECURITIES EXCHANGE ACT OF 1934
+         For the Transition Period From __________ To __________
+Commission file number 1-7375
+COMMERCE GROUP CORP.
+          (Exact name of registrant as specified in its charter)
+WISCONSIN                           39-6050862
+ (State or other jurisdiction                   (I.R.S. Employer
+ of incorporation or organization)           Identification Number)
+6001 North 91st Street
+                      Milwaukee, Wisconsin  53225-1795
+        (Address of principal executive offices)     (Zip Code)
+Registrant's telephone number, including area code:  (414) 462-5310
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period
+that the registrant was required to file such reports), and (2) has been
+subject to such filing requirements for the past 90 days.  Yes X  No
+___
+Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Exchange Act). Yes ___ No X
+Indicate the number of shares outstanding of each of the issuer's classes
+of common stock, as of the latest practicable date: 22,794,091 common
+shares of the Company's common stock, $0.10 par value, were issued and
+outstanding as of June 30, 2004.
+SUBSEQUENT EVENT
+The financial statements included in this report were reviewed as required
+under Section 102 of the Sarbanes-Oxley Act of 2002 by an independent public
+accounting firm that is registered with the Public Company Accounting
+Oversight Board (PCAOB).  The purpose for filing this SEC Form 10-Q/A is
+because the Company's previous independent public accountant was not
+registered with the PCAOB prior to October 22, 2003.  Reference is made to the
+Company's Form 8-Ks filed on January 21, 2005 and May 6, 2005.
+1
+<PAGE>
+COMMERCE GROUP CORP.
+FORM 10-Q/A
+FOR THE FIRST QUARTER ENDED JUNE 30, 2004
+INDEX
+PART I.  FINANCIAL INFORMATION
+Item 1.   Financial Statements
+The following unaudited consolidated financial statements have been
+prepared by Commerce Group Corp. ("the Company") pursuant to the rules
+and regulations of the Securities and Exchange Commission ("SEC").
+Certain information and footnote disclosures normally included in
+financial statements prepared in accordance with generally accepted
+accounting principles have been condensed or omitted pursuant to such SEC
+rules and regulations.
+These unaudited consolidated financial statements should be read in
+conjunction with the financial statements and accompanying notes included
+in the Company's Form 10-K/A for the year ended March 31, 2004.
+Consolidated Balance Sheets                                       3
+     Consolidated Statements of Operations                             4
+     Consolidated Statements of Changes in Shareholders' Equity        5
+     Consolidated Statements of Cash Flows                             6
+     Notes to Unaudited Consolidated Financial Statements              9
+Item 2.  Management's Discussion and Analysis of
+         Financial Condition and Results of Operations                33
+Item 3.  Quantitative and Qualitative Disclosures About Market Risk   46
+Item 4.  Controls and Procedures                                      47
+Item 5.  Changes in and Disagreements with Accountants
+        on Accounting and Financial Disclosure                        48
+PART II.  OTHER INFORMATION
+Item 1.  Legal Proceedings                                            49
+Item 2.  Changes in Securities                                        49
+Item 3.  Default Upon Senior Securities                               49
+Item 4.  Submission of Matters to a Vote of Security Holders          49
+Item 5.  Other Information                                            49
+Item 6.  Exhibits and Reports on Form 8-K                             50
+Exhibit Index                                                         50
+Registrant's Signature Page                                           51
+Ex-31.1  Certification of CEO/CFO pursuant to Section 302             52
+Ex-31.2  Certification of Exec. V.P./Secretary pursuant to
+         Section 302                                                  53
+Ex-32.1  Certification of CEO/CFO pursuant to Section 906             54
+Ex-32.2  Certification of Exec. V.P./Secretary pursuant
+         to Section 906                                               55
+2
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+                       CONSOLIDATED BALANCE SHEETS
+June 30, 2004  March 31, 2004
+                                              (Unaudited)    (Audited)
+                                            --------------  --------------
+                                ASSETS
+                                ------
+Current assets
+ Cash                                        $    35,947     $    30,348
+ Other current assets                            219,098         219,098
+ Accounts receivable, related                    584,011         584,011
+ Accounts receivable, other                       24,658          24,658
+ Mining supplies                                  39,562          39,562
+ Prepaid items and deposits                       97,680          95,794
+                                             -----------     -----------
+  Total current assets                         1,000,956         993,471
+Property, plant and equipment, net            4,336,425       4,333,128
+ Mining resources investment                  29,585,733      29,092,782
+                                             -----------     -----------
+  Total assets                               $34,923,114     $34,419,381
+                                             ===========     ===========
+                              LIABILITIES
+                              -----------
+Current liabilities
+ Accounts payable                            $   280,499     $   262,704
+ Accounts payable - related                      226,915         225,885
+ Notes and accrued interest payable
+  to related parties                           9,851,488       9,400,682
+ Notes and accrued interest payable
+  to others                                      252,963         247,579
+ Accrued salaries                              2,918,378       2,871,128
+ Accrued legal fees                              327,015         327,015
+ Other accrued expenses                          658,279         646,523
+                                             -----------     -----------
+  Total liabilities                           14,515,537      13,981,516
+Commitments and contingencies
+ (Notes 2, 4, 5, 6, 7, 8, 10, & 12)
+SHAREHOLDERS' EQUITY
+                         --------------------
+Preferred Stock
+ Preferred stock, $0.10 par value:
+ Authorized 250,000 shares;
+ Issued and outstanding
+ 2004-none; 2003-none                                  0               0
+Common stock, $0.10 par value:
+ Authorized 50,000,000 shares;
+ Issued and outstanding:
+ 06/30/2004-22,794,091                         2,279,409
+ 03/31/2004-22,681,591                                         2,268,159
+Capital in excess of par value                19,285,247      19,274,597
+Retained earnings (deficit)                  (1,157,079)     (1,104,891)
+                                             -----------     -----------
+ Total shareholders' equity                   20,407,577      20,437,865
+                                             -----------     -----------
+ Total liabilities and shareholders' equity  $34,923,114     $34,419,381
+                                             ===========     ===========
+The accompanying notes are an integral part of these consolidated
+financial statements.
+3
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+                   CONSOLIDATED STATEMENTS OF OPERATIONS
+                    FOR THE FIRST QUARTER ENDED JUNE 30
+2004               2003
+                                       -----------        -----------
+Revenues:                              $        0         $        0
+Expenses:
+ General and administrative                52,188             49,873
+-----------        -----------
+Net profit (loss)                       $ (52,188)         $ (49,873)
+Credit (charges) for income taxes               0                  0
+                                       -----------        -----------
+Net income (loss) after
+ income tax credit (charge)             $ (52,188)         $ (49,873)
+                                       ===========        ===========
+Net income (loss) per share basic
+ and diluted                            $    (.00)         $    (.00)
+                                       ===========        ===========
+Weighted av. basic and diluted
+ common shares outstanding             22,720,575         20,447,732
+                                      ===========        ===========
+The accompanying notes are an integral part of these consolidated
+financial statements.
+4
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+        CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS' EQUITY
+       THROUGH THE THREE MONTH PERIOD ENDED JUNE 30, 2004 (UNAUDITED)
+Common Stock
+                          ----------------------------------------------
+Capital in    Retained
+                          Number of               Excess of     Earnings
+                           Shares     Par Value   Par Value     (Deficit)
+                         ----------  ----------  -----------   -----------
+Balances March 31, 2001  15,794,008  $1,579,401  $18,760,849   $(330,988)
+Net income (loss) for
+ FY March 31, 2002                                              (303,466)
+Common stock issued for:
+ Dir./off./employee/
+  services comp.          1,154,000     115,400        5,260
+ Payment of debt            250,000      25,000       12,500
+ Cash                       270,000      27,000       13,500
+                         ----------  ----------  -----------   -----------
+Balances March 31, 2002  17,468,008  $1,746,801  $18,792,109   $(634,454)
+Net loss for
+ FY March 31, 2003                                              (232,647)
+Common stock issued for:
+ Dir./off./employee/
+  services comp.            693,221      69,322       85,848
+ Payment of debt          1,435,200     143,520       85,805
+ Cash                       811,000      81,100       33,650
+                         ----------  ----------  -----------   -----------
+Balances March 31, 2003  20,407,429  $2,040,743  $18,997,412   $(867,101)
+Net (loss) for FY
+ March 31, 2004                                                 (237,790)
+Common stock issued for:
+ Dir./off./employee/
+  services comp.            630,862      63,086       92,014
+Payment of debt           928,300      92,830      138,657
+  Stock options exercised
+   for cash                 230,000      23,000        6,500
+  Cash                      485,000      48,500       63,350
+  Reversal of stock
+   transaction                                       (23,336)
+                         ----------  ----------  -----------  -----------
+Balances
+ March 31, 2004          22,681,591   2,268,159   19,274,597  (1,104,891)
+Net loss for the
+ three months ended
+ June 30, 2004                                                   (52,188)
+Common stock issued for:
+ Dir./off./employee/
+ services comp.              22,500       2,250        2,250
+ Cash                        90,000       9,000        8,400
+                         ----------  ----------  ----------- ------------
+Balances June 30, 2004   22,794,091  $2,279,409  $19,285,247 $(1,157,079)
+The accompanying notes are an integral part of these consolidated
+financial statements.
+5
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+                 CONSOLIDATED STATEMENTS OF CASH FLOWS
+                  FOR THE FIRST QUARTER ENDED JUNE 30
+2004           2003
+                                               ----------     ----------
+OPERATING ACTIVITIES:
+ Net loss                                      $ (52,188)     $ (49,873)
+ Adjustments to reconcile net loss
+  to net cash provided by (used in)
+  operating activities:
+ Common stock issued for services rendered         4,500           (285)
+ Changes in assets and liabilities:
+  Decrease (increase) in accounts
+  receivable and other current assets                  0              0
+ Decrease (increase) in prepaid items
+   and deposits                                   (1,886)            30
+ Increase (decrease) in accounts payable and
+  other accrued expenses                          30,581        (34,730)
+ Increase (decrease) in accrued salaries               0              0
+ Increase (decrease) in accrued legal fees             0             74
+                                                ---------      ---------
+Net cash provided by (used in) operating
+ activities                                      (18,993)       (84,784)
+INVESTING ACTIVITIES:
+ Investment in mining resources and
+  property, plant and equipment                  (56,585)         2,437
+                                                ---------      ---------
+ Net cash used by investing activities           (56,585)         2,437
+FINANCING ACTIVITIES:
+ Notes payable-related parties                    63,777         42,251
+ Common stock issued for cash                     17,400         10,040
+ Reversal of stock transaction                         0         23,336
+                                                ---------      ---------
+   Net cash provided by financing activities      81,177         75,627
+Net increase (decrease) in cash and cash
+equivalents                                       5,599         (6,720)
+Cash - beg. of year                               30,348         28,004
+                                                ---------      ---------
+Cash - end of year                              $ 35,947       $ 21,284
+                                                =========      =========
+The accompanying notes are an integral part of these consolidated
+financial statements.
+6
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+       CONSOLIDATED STATEMENTS OF CASH FLOWS, CONTINUED (UNAUDITED)
+Supplemental disclosures of non cash information:
+Three Months Ended June 30
+                                            2004               2003
+                                    -------------------  -----------------
+A.  Non cash information             Shares    Amount     Shares    Amount
+                                    -------- ----------  --------  --------
+    1. Accrued interest capitalized        0  $ 392,413        0  $ 334,584
+    2. Interest expense paid in cash       0          0        0          0
+    3. Income taxes paid                   0          0        0          0
+B.  Non cash investing and financing
+    Common stock issued for:
+    1.  Director fees, officer
+         compensation, employee
+         benefits and services        22,500  $   4,500        0          0
+    2.  Related party notes payable        0          0  250,000   $ 62,500
+    3.  Share loan payable                 0          0   14,700   $  3,087
+C.  Other supplemental disclosures
+1.  Other current assets consist of securities held by Commerce for the
+        Commerce Group Corp. Employee Benefit Account, which are stated at a
+        cost of $86,650 as of June 30, 2004.  The funds are to be used to pay
+        the El Salvadoran employee medical benefits and pension benefits as
+        required by the El Salvadoran Government.
+The El Salvadoran vacation and Christmas bonus payments are due
+        when earned while the severance pay is due and payable at such
+        time when the employee has been discharged, retired, permanently
+        laid off, dies or when incapable of working due to permanent
+        health/work related conditions.  The Company has sole control and
+        jurisdiction over this account and to the best of the Company's
+        knowledge, there is absolutely no condition, right, or
+        requirement by the El Salvadoran authorities to have such funds
+        segregated in any form of a reserve.
+Also included in other current assets are certain precious stones
+        and jewelry stated at cost of $132,448 as of June 30, 2004.
+7
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+       CONSOLIDATED STATEMENTS OF CASH FLOWS, CONTINUED (UNAUDITED)
+2.  The accounts receivable-related consist of advances to Mineral
+        San Sebastian S.A. (Misanse), which is 52% owned by the Company.
+        These advances are an offset for the past and future Misanse
+        rental charges that are included in the accounts payable.  An
+        accounting, as of June 30, 2004, is as follows:
+Misanse     Others      Total
+                                 -------     ------      -----
+        Accounts receivable      $584,011   $ 24,658   $608,669
+        Accounts payable         $226,915   $280,499   $507,414
+On January 14, 2003, at a Misanse shareholders' meeting held at
+       the Company's office, located in the City of San Miguel, El Salvador,
+       the shareholders and the Directors approved, confirmed and ratified
+       the amount that Misanse owed the Company for advances and other
+       obligations the Company incurred on behalf of Misanse.  The
+       amount due to Misanse at that time was also approved, ratified
+       and confirmed.
+The Company is of the opinion, as of June 30, 2004, that it is
+       appropriate to record the fact that Misanse owes the Company
+       $584,011 and that the Company owes Misanse $226,915 as Misanse  is
+       not consolidated with the Company's financial records, because the
+       Company does not control the election of the Directors; 60% of the
+       directors must be El Salvadoran shareholders. When gold production
+       commences, the 5% royalty payable to Misanse for rent of the San
+       Sebastian Gold Mine property based on the gross proceeds from the
+       sale of gold and the accounts payable offset will reduce this
+       receivable until it is paid in full.
+3. Mining supplies consist of consumable items used in processing
+       gold ore, which are stated at the average cost.
+The accompanying notes are an integral part of these consolidated
+financial statements.
+8
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+         NOTES TO THE UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS
+                              JUNE 30, 2004
+SUBSEQUENT EVENT
+The financial statements included in this report were reviewed as required
+under Section 102 of the Sarbanes-Oxley Act of 2002 by an independent public
+accounting firm that is registered with the Public Company Accounting
+Oversight Board (PCAOB).  The purpose for filing this SEC Form 10-Q/A is
+because the Company's previous independent public accountant was not
+registered with the PCAOB prior to October 22, 2003.  Reference is made to
+the Company's Form 8-Ks filed on January 21,2005 and May 6, 2005.
+THE COMPANY AND BASIS OF PRESENTATION OF FINANCIAL STATEMENTS
+- -------------------------------------------------------------
+(1)  BASIS OF PRESENTATION
+- --------------------------
+Commerce Group Corp. ("Commerce," the "Company" and/or "Registrant")
+and its 82 1/2%-owned subsidiary, San Sebastian Gold Mines, Inc.
+("Sanseb")  both United States corporations, have formed the
+Commerce/Sanseb Joint Venture ("Joint Venture") for the purpose of
+performing gold mining, the sale of gold, and related activities,
+including, but not limited to, exploration, exploitation, development,
+extraction and processing of precious metals in the Republic of El
+Salvador, Central America.   Gold bullion, currently the Joint
+Venture's principal product, was produced (but not on a full
+production basis) in El Salvador and refined and sold in the United
+States.  Expansion of exploration is a goal at the San Sebastian Gold
+Mine ("SSGM") which is located near the city of Santa Rosa de Lima.
+Expanded exploration is being curtailed at other mining projects until
+adequate funding is obtained under acceptable terms and conditions.
+All of the mining projects are located in the Republic of El Salvador,
+Central America.
+On March 3, 2003, the Company received an exploration license from the
+Government of El Salvador (GOES) dated February 24, 2003, for the
+exploration of minerals in an area encompassing the SSGM, consisting
+of 42 square kilometers, which is hereafter referred to as the "New
+SSGM Exploration Concession/License" or the "New SSGM."  This expanded
+area provides the Company with an opportunity to increase its gold and
+silver ore reserves.  Included in this area are three formerly-
+operated gold and silver mines:  the La Lola Mine, the Santa Lucia
+Mine and the Tabanco Mine.
+As of March 31, 2000, the Joint Venture had temporarily suspended the
+San Cristobal Mill and Plant  ("SCMP") operations (operations ceased
+on December 31, 1999) until such time as it has adequate funds to
+retrofit, rehabilitate, restore and expand these facilities and until
+there is certainty that the price of gold will be stabilized at the
+current or a higher selling price.
+9
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+   NOTES TO THE UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                             JUNE 30, 2004
+The Company continues to be cognizant of its cash needs until such
+time as it is able to produce adequate profits from its SSGM gold
+production.  It will continue to attempt to obtain sufficient funds to
+assist the Joint Venture in placing the SSGM into production as the
+anticipated profits from the existing SCMP operation (unless
+accumulated over a period of time) appear insufficient to meet the
+SSGM capital and the other mining exploration requirements.  In order
+to continue to follow its goal to conduct the Joint Venture's
+exploration, exploitation, development expansion programs, and the
+production of gold from the SSGM open-pit, heap-leaching operation, it
+is necessary for the Company to obtain funds from other sources.  The
+Company may have to borrow funds by issuing open-ended, secured, on-
+demand or unsecured promissory notes, by selling its shares to its
+directors, officers and other interested accredited investors, or by
+entering into a joint venture, merging, or developing an acceptable
+form of a business combination with other companies.
+The Company's directors and officers, with the aid of investment
+bankers and finders, are aggressively seeking a compatible financial
+or business arrangement.  The verbal and written proposals or
+arrangements received were not acceptable by the Company primarily due
+to the terms and conditions.
+The Joint Venture plans to begin its open-pit, heap-leaching process
+on the SSGM site when adequate funding becomes available, and if the
+price of gold maintains the current price level.  It also plans to
+continue its SSGM site preparation, the expansion of its exploration
+and exploitation targets, and the enlargement and development of its
+gold ore reserves.  Furthermore, it plans to explore the potential of
+other gold mine exploration prospects in El Salvador.  Concurrently,
+it is in the process of obtaining necessary funding for each of these
+separate programs while its Joint Venture is performing minor retrofit
+and rehabilitation work at the SCMP.  It commenced an exploration
+program on the New SSGM.
+During interim periods, Commerce Group Corp. and its subsidiaries
+(collectively "Commerce," the "Company" and/or "Registrant") follow the
+accounting policies set forth in Commerce's Annual Report to Shareholders
+and in Commerce's Report on Form 10-K/A filed with the U.S. Securities and
+Exchange Commission, except as modified for appropriate interim financial
+statement presentation.  These financial statements should be read in
+conjunction with the financial statements and notes thereto which are
+included in Commerce's Annual Report filed with the U.S. Securities and
+Exchange Commission on Form 10-K/A for its fiscal year ended March 31,
+2004.  These interim results are not necessarily indicative of the
+results that may be achieved in the future.
+10
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+    NOTES TO THE UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                              JUNE 30, 2004
+(2)  MANAGEMENT ESTIMATES AND ASSUMPTIONS
+- -----------------------------------------
+Certain amounts included in or affecting the Company's financial
+statements and related disclosures must be estimated, requiring that
+certain assumptions be made with respect to values or conditions which
+cannot be made with certainty at the time the financial statements are
+prepared.  Therefore, the reported amounts of the Company's assets and
+liabilities, revenues and expenses, and associated disclosures with
+respect to contingent assets and obligations may be affected by
+these estimates.  The Company evaluates these estimates on an ongoing
+basis, utilizing historical experience, consultation with experts, and
+other methods considered reasonable in the particular circumstances.
+Nevertheless, actual results may differ significantly from the Company's
+estimates.
+(3)  SIGNIFICANT ACCOUNTING POLICIES
+- ------------------------------------
+CONSOLIDATED STATEMENTS
+The Joint Venture and the following subsidiaries are all majority-owned
+by the Company and are included in the consolidated financial statements
+of the Company.  All significant intercompany balances and transactions
+have been eliminated.  The Company does not have corporate control of
+Misanse as the majority of Misanse's elected directors are El Salvadoran
+shareholders.
+%
+                                                Owner-  Charter/Joint Venture
+                                                 ship     Place         Date
+                                                -----  -----------  ----------
+Included in the Consolidated Statements
+- ---------------------------------------
+Homespan Realty Co., Inc. ("Homespan")          100.0  Wisconsin    02/12/1959
+Ecomm Group Inc. ("Ecomm")                      100.0  Wisconsin    06/24/1974
+San Luis Estates, Inc. ("SLE")                  100.0  Colorado     11/09/1970
+San Sebastian Gold Mines, Inc. ("Sanseb")        82.5  Nevada       09/04/1968
+Universal Developers, Inc.  ("UDI")             100.0  Wisconsin    09/28/1964
+Commerce/Sanseb Joint Venture ("Joint Venture")  90.0  Wisconsin &  09/22/1987
+                                                       El Salvador
+Not included in the Consolidated Statements
+- -------------------------------------------
+Mineral San Sebastian, S.A. de C.V. ("Misanse")  52.0  El Salvador  05/08/1960
+MINORITY INTEREST
+During the periods ended June 30, 2004 and 2003, there were no material
+expenses in the entities wherein minority interests existed.  Minority
+interest as a whole is immaterial in these financial statements and therefore
+has not been presented.
+11
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+    NOTES TO THE UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                              JUNE 30, 2004
+OTHER CURRENT ASSETS
+Other current assets consist of securities held as nominee for the
+Commerce Group Corp. Employee Benefit Account, and are stated at cost.
+Other current assets also include certain precious stones and jewelry
+also stated at cost.
+ACCOUNTS RECEIVABLE - RELATED
+The accounts receivable-related consist of advances to Misanse, a 52%-owned
+subsidiary, which will be offset for the Misanse future rental
+charges and by the amount in the accounts payable-related account.
+INTERCOMPANY BALANCES
+All intercompany balances and transactions have been eliminated in the
+consolidated financial statements.
+MINING SUPPLIES
+Mining supplies consist of consumable supplies used in connection with
+processing ore, and are stated at cost, which is believed to be lower
+than the market value.
+DEFERRED MINING COSTS
+The Company, in order to avoid expense and revenue unbalance, capitalizes
+all costs directly associated with acquisition, exploration and
+development of specific properties, until these properties are put into
+operation, sold or are abandoned.  Gains or losses resulting from the
+sale or abandonment of mining properties will be included in operations.
+The Joint Venture capitalizes its costs and expenses and will write off
+these cumulative costs on a units of production method at such time as it
+begins producing gold derived from the gold ore on a full production
+basis.  If the prospect of gold production, due to different conditions
+and circumstances becomes unlikely, all of these costs may be written off
+in the year that this occurs.
+The Company regularly evaluates its carrying value of exploration
+properties in light of their potential for economic mineralization and
+the likelihood of continued work by either the Company or a joint venture
+partner.  The Company may, from time to time, reduce its carrying value
+to an amount that approximates fair market value based upon an assessment
+of such criteria.
+REVENUE RECOGNITION
+Revenue from the sale of gold will be recognized when delivery has
+occurred, title and risk of loss passes to the buyer, and collectability
+is reasonably assured.  Gold sales will be made in accordance with sales
+contracts where the price is fixed or determinable.
+12
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+   NOTES TO THE UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                              JUNE 30, 2004
+PROPERTY, PLANT AND EQUIPMENT
+Property, plant, and equipment is stated at the lower of cost or
+estimated net realizable value.  Mining properties, development costs and
+plant and equipment will be depreciated when full production takes place
+using the units of production method based upon proven and probable
+reserves.  Until the Company suspended its mining operations, the assets
+were depreciated using the straight-line method over estimated useful
+lives ranging from three to ten years.  Depreciation and amortization
+expenses include the amortization of assets acquired, if any, under
+capital leases.  Replacements  and major improvements are capitalized.
+When in operation, maintenance and repairs will be charged to expense
+based on average estimated equipment usage.  Interest costs incurred
+while in a standby position or in the construction or acquisition of
+property, plant, and equipment are capitalized and amortized over the
+useful lives of the related assets.  Since the Company suspended its gold
+processing operations effective March 31, 2000, it also ceased to
+depreciate its fixed assets.
+MINERAL EXPLORATION AND DEVELOPMENT COSTS
+Significant property acquisition payments for active exploration
+properties are capitalized.  If no minable ore body is discovered,
+previously capitalized costs are expensed in the period the property is
+abandoned.  Expenditures for the development of new mines, to define
+further mineralization at and adjacent to existing ore bodies, and to
+expand the capacity of operating mines, are capitalized and amortized on
+the units of production basis over proven and probable reserves.
+Management's estimates of gold and other metal prices, recoverable proven and
+probable reserves, operating, capital, and reclamation costs are subject to
+certain risks and uncertainties which may affect the recoverability of the
+Company's investment in property, plant, and equipment.  Although management
+has made its best estimate for these factors based on current conditions, it
+is reasonably possible that changes could occur in the near-term which could
+adversely affect management's estimate of the net cash flows expected to be
+generated from its mining properties.
+13
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+  NOTES TO THE UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                             JUNE 30, 2004
+IMPAIRMENTS
+The Company evaluates the carrying value of its properties and equipment
+when events or changes in circumstances indicate that the properties or
+equipment may be impaired and then at that time it plans to apply the
+provisions of Statement of Financial Accounting Standards No. 121 (SFAS
+121), Accounting for the Impairment of Long-Lived Assets and for
+Long-Lived Assets to be Disposed of.  Estimated future net cash flows, on
+an undiscounted basis, from each property are calculated using estimated
+recoverable ounces of gold (considering current proven and probable
+reserves and mineral resources expected to be converted into mineral
+reserves.  The inclusion of mineral resources is based on various
+circumstances, including but not limited to, the existence and nature of
+known mineralization, location of the property, results of drilling; and
+analysis to demonstrate the ore is commercially recoverable), estimated
+future gold price realization (considering historical and current prices,
+price trends and related factors); and operating, capital and site
+restoration costs.  Reduction in the carrying value of property, plant
+and equipment, with a corresponding charge to income, are recorded to the
+extent that the estimated future net cash flows are less than the
+carrying value.
+INTEREST CAPITALIZATION
+Interest costs are capitalized as part of the historical cost of
+facilities and equipment, if material.
+INCOME TAXES
+The Company files a consolidated federal income tax return with its
+subsidiaries (See Note 11).  The Joint Venture files a U.S. partnership
+return.
+EARNINGS (LOSS) PER COMMON SHARE
+The Company has in the past years reported its "Earnings per Share" (EPS)
+which presently complies with the provisions of Statement of Financial
+Accounting Standards No. 128 (SFAS No. 128).  As required by this
+standard, the Company, if applicable, could report two earnings per share
+amounts, basic net income and diluted net income per share.  Basic net
+income per share is computed by dividing income or loss reportable to
+common shareholders (the numerator) by the weighted average number of
+common shares outstanding (the denominator).  The computation of diluted
+net income or loss per share is similar to the computation of basic net
+income per share except that the denominator is increased to include the
+dilutive effect of the additional common shares that would have been
+outstanding if all convertible securities, stock options, rights, share
+loans etc. had been converted to common shares.
+14
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+  NOTES TO THE UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                             JUNE 30, 2004
+However, the computation of diluted EPS shall not assume conversion,
+exercise, or contingent issuance of securities that would have an
+antidilutive effect on earnings per share.  Shares issued on actual
+conversion, exercise, or satisfaction of certain conditions for which the
+underlying potential common shares were antidilutive shall be included in
+the computation as outstanding common shares from the date of conversion,
+exercise, or satisfaction of those conditions, respectively.  Therefore,
+at this time, there is no difference in the losses, earnings or the
+number of basic or diluted shares.
+The computation of earnings per share of common stock is based on the
+weighted average number of shares outstanding at the date of the
+financial statements.
+Net Loss        Shares    Per-Share
+                                          (Numerator)  (Denominator)  Amount
+                                          -----------  -------------  ------
+For the three months ended
+ June 30, 2004: Basic/Diluted EPS
+Net loss to common Shareholders           $ (52,188)    22,720,575     $(.00)
+                                           =========    ==========   =========
+For the three months ended
+ June 30, 2003: Basic/Diluted EPS
+Net loss to common Shareholders           $ (49,873)    20,447,732     $(.00)
+                                           =========    ==========   =========
+FOREIGN CURRENCY
+The Company conducts the majority of its operations in the Republic of El
+Salvador, Central America. Currently, El Salvador is on the U.S. dollar
+system and therefore all receipts and expenditures since January 1, 2001
+are in U.S. dollars.
+RECLASSIFICATIONS
+Certain reclassifications have been made to prior year amounts to conform
+to the current year presentations. The Company changed the amounts
+classified as general & administrative expense from amounts previously
+recorded as mining resources.
+(4)  NEW ACCOUNTING STANDARDS
+- -----------------------------
+The Company became subject to the accounting and reporting requirements
+of Statement of Financial Accounting Standards No. 143, Accounting for
+Asset Retirement Obligations (SFAS No. 143).  SFAS No. 143 establishes
+accounting and reporting standards for obligations associated with the
+retirement of tangible long-lived assets and the associated asset
+retirement costs.  SFAS No. 143 requires that the fair value of a
+liability for an asset retirement obligation be recognized in the period
+15
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+   NOTES TO THE UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                              JUNE 30, 2004
+in which it is incurred if a reasonable estimate of fair value can be
+made.  Fair value is determined by estimating the retirement obligations
+in the period an asset is first placed in service and then adjusting the
+amount for estimated inflation and market risk contingencies to the
+projected settlement date of the liability.  The result is then
+discounted to a present value from the projected settlement date to the
+date the asset was first placed in service.  The present value of the
+asset retirement obligation is recorded as an additional property cost
+and as an asset retirement liability.  The amortization of the additional
+property cost (using the units of production method) will be included in
+depreciation, depletion and amortization expense and the accretion of the
+discounted liability will be recorded as a separate operating expense,
+when applicable, in the Company's Statement of Operations.  At this time,
+the Company believes that there is no financial impact.
+In April 2003, the Financial Accounting Standards Board ("FASB") issued
+Statement of Financial Accounting Standards No. 149 "Amendment of
+Statement 133 on Derivative Instruments and Hedging Activities" ("SFAS
+No. 149") to provide, amend and clarify financial accounting and
+reporting for derivative instruments, including certain derivative
+instruments embedded in other contracts and for hedging activities.  The
+changes in this statement improve financial reporting by requiring that
+contracts with comparable characteristics be accounted for similarly to
+achieve more consistent reporting of contracts as either derivative or
+hybrid instruments.  SFAS No. 149 has been adopted by the Company and
+will be applied prospectively for contracts, if any, entered into or
+modified after June 30, 2003.  The adoption of this statement, as of this
+date, has not had a material effect on Commerce's consolidated financial
+position or results of operations as the Company has not entered into any
+transactions of this type.
+In May 2003, the FASB issued SFAS No. 150 "Accounting for Certain
+Financial Instruments with Characteristics of both Liabilities and
+Equity" ("SFAS No. 150") which clarifies the classification as
+liabilities for certain financial instruments including equity shares
+that are mandatorily redeemable, or a financial instrument other than
+equity shares that has an obligation to repurchase the instrument with
+equity shares, including a conditional obligation to settle the financial
+instrument with equity shares.  SFAS No. 150 is effective for financial
+instruments entered into after May 31, 2003.  The adoption of this
+statement has not had a material effect on the Company's consolidated
+financial position or results of operations.
+The Emerging Issues Task Force is in the process of forming a committee
+to evaluate certain mining industry accounting issues, including issues
+arising from the implementation of Statement of Financial Accounting
+Standards No. 141 and Statement of Financial Accounting Standards No. 142
+to business combinations within the mining industry and accounting for
+goodwill and other intangibles.  Although such committee has not yet been
+formed, and no formal agenda has been set, the issues related to the
+business combinations within the mining industry and accounting for
+goodwill and other intangibles may be addressed along with the related
+question of whether mineral interests conveyed by leases and/or
+concessions represent tangible or intangible assets and the amortization
+of such assets.  While the Company believes that its accounting for its
+mineral interests conveyed by leases and/or concessions is in accordance
+with generally accepted accounting principles, the Company cannot predict
+whether the deliberations of this committee will ultimately modify or
+otherwise result in new accounting standards or interpretations thereof
+that differ from its current practices.
+16
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+  NOTES TO THE UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                           JUNE 30, 2004
+(5) INVESTMENT IN PROPERTY, PLANT, EQUIPMENT AND MINING RESOURCES
+- -----------------------------------------------------------------
+The following is a summary of the investment in property, plant,
+equipment, mining resources and development costs:
+June 30, 2004                        June 30, 2003
+         ---------------------------           ---------------------------
+                  Accumulated                           Accumulated
+         Cost    Amortization     Net          Cost     Amortization   Net
+----    ------------     ---          ----     ------------   ---
+Mineral
+Proper-
+ties
+and
+Deferred
+Develop-
+ment $29,585,733           0  $29,585,733  $27,725,592           0 $27,725,592
+Property,
+Plant
+and
+Equip-
+ment   6,588,568   2,252,143    4,336,425    6,535,214   2,252,143   4,283,071
+     ----------- -----------  -----------  -----------  ---------- -----------
+     $36,174,301 $ 2,252,143  $33,922,158  $34,260,806  $2,252,143 $32,008,663
+     =========== ===========  ===========  ===========  ========== ===========
+Vehicles, office, mining and laboratory equipment, buildings, etc. are
+stated at cost and are depreciated using the straight-line method over
+estimated useful lives of three to ten years.  Maintenance and repairs
+are charged to expense as incurred.  Since the Joint Venture suspended
+operations effective March 31, 2000 in view of the weak price of gold and
+the need to expand and rehabilitate production facilities, no
+depreciation has been recorded.  The Company is maintaining the property
+and the equipment and will begin to depreciate these assets once its
+operation commences.
+(6) COMMERCE/SANSEB JOINT VENTURE ("JOINT VENTURE")
+- ---------------------------------------------------
+The Company is in a joint venture with and owns 82 1/2% of the total
+common stock (2,002,037 shares) of Sanseb, a U.S. State of Nevada
+chartered (1968) corporation.  The balance of Sanseb's stock is held by
+approximately 180 non-related shareholders, including the President of
+the Company who owns 2,073 common shares.  Sanseb was formed in 1968 to
+explore, exploit, research, and develop adequate gold reserves.  Sanseb
+produced gold from the SSGM from 1972 through February 1978.
+On September 22, 1987, the Company and Sanseb entered into a joint
+venture agreement to formalize their relationship with respect to the
+mining venture and to account for the Company's substantial investment in
+Sanseb.  Under the terms of the agreement, the Company is authorized to
+supervise and control all of the business affairs of the Joint Venture
+and has the authority to do all that is necessary to resume mining
+operations at the SSGM on behalf of the Joint Venture.  The net pre-tax
+profits of the Joint Venture will be distributed as follows:  Company
+90%; and Sanseb 10%.  Since the Company owns 82 1/2% of the authorized
+and issued shares of Sanseb, the Company in effect has over a 98%
+interest in the Joint Venture activities.
+17
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+  NOTES TO THE UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                              JUNE 30, 2004
+The joint venture agreement further provides that the Company has the
+right to be compensated for its general and administrative expenses in
+connection with managing the Joint Venture.
+Any agreements signed by the Company for the benefit of the Joint Venture
+create obligations binding upon the Joint Venture.
+The Joint Venture is registered to do business in the State of Wisconsin
+and in the Republic of El Salvador, Central America.
+INVESTMENTS IN JOINT VENTURE
+As of June 30, 2004, the Company's investments, including charges for interest
+expense to the Joint Venture, were $45,338,278 and three of the Company's
+subsidiaries' advances were $590,265 for a total of $45,928,543.
+INVESTMENT IN EL SALVADOR MINING PROJECTS
+During this fiscal period, the Company has advanced funds, performed
+services, and allocated its general and administrative costs to the Joint
+Venture.
+As of June 30, 2004 and 2003, the Company, Sanseb and three of the Company's
+subsidiaries have invested (including carrying costs) the following in its
+Joint Venture:
+2004          2003
+                                                  ----          ----
+The Company's advances (net of gold
+ sale proceeds) since 09/22/87                $45,338,278   $41,161,345
+The Company's initial investment
+ in the Joint Venture                           3,508,180     3,508,180
+Sanseb's investment in the Joint Venture        3,508,180     3,508,180
+Sanseb's investment in the mining projects
+ and amount due to the Company                 36,887,241    34,695,080
+                                              -----------  ------------
+Total:                                         89,241,879    82,872,785
+Advances by the Company's three subsidiaries      590,265       590,265
+                                              -----------   -----------
+Combined total investment                     $89,832,144   $83,463,050
+                                              ===========   ===========
+SSGM ACTIVITY
+The Company had no significant activity at the SSGM site from February
+1978 through January 1987 due to the civil unrest in El Salvador.  The
+present status is that, the Company, since January 1987, and thereafter,
+the Joint Venture, since September 1987, have completed certain of the
+required mining pre-production preliminary stages in the minable and
+proven gold ore reserve area, and the Company is active in attempting to
+obtain adequate financing for the proposed open-pit, heap-leaching
+operations at the SSGM.  The Joint Venture plans to resume its
+18
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+  NOTES TO THE UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                               JUNE 30, 2004
+exploration and expansion program to develop additional gold ore reserves
+in the area surrounding the minable gold ore reserves.  Presently, it is
+completing the erection of its cone crushing system and performing minor
+rehabilitation repairs to its San Cristobal Mill and Plant.  On February
+24,  2003, the Ministry of Economy's Director of El Salvador Department
+of Hydrocarbons and Mines (DHM) granted an exploration concession
+referred to as the "New SSGM" which area includes and encompasses the
+existing SSGM.  Reference is made to Mineral San Sebastian S.A. de C.V.
+(c) for information on the exploitation and a second exploration
+concession.  Presently the Company is in the process of exploring three
+of the formerly operated gold mines.
+MINERAL SAN SEBASTIAN S.A. DE C.V. ("MISANSE")
+(a)  MISANSE CORPORATE STRUCTURE
+The SSGM real estate is owned by and leased to the Joint Venture by
+Misanse, a Salvadoran-chartered corporation.  The Company owns 52% of the
+total of  Misanse's issued and outstanding shares.  The balance is owned
+by approximately 100 El Salvador, Central American, and United States'
+citizens.
+(b)  SSGM MINING LEASE
+On January 14, 2003, the Company entered into an amended and renewed
+30-year lease agreement with Mineral San Sebastian Sociedad Anomina de
+Capital Variable (Misanse) pursuant to the approval of the Misanse
+shareholders and Misanse directors at a meeting held on January 12, 2003.
+The renewed lease is for a period of thirty (30) years commencing on the
+date that the Company received its Renewed San Sebastian Gold Mine
+Exploitation Concession/License, hereinafter identified as the "Renewed
+SSGM," from the DHM.  The lease is automatically extendible for one or
+more equal periods.  The Company will pay to Misanse for the rental of
+this real estate the sum of five percent of the net sales of the gold and
+silver produced from this real estate, however, the payment will not be
+less than $343.00 per month.  The Company has the right to assign this
+lease without prior notice or permission from Misanse.  This lease is
+pledged as collateral for loans made to related parties (Note 9).
+(c)  THREE CONCESSIONS:
+     ONE EXPLOITATION AND TWO EXPLORATION MINERAL CONCESSIONS/LICENSES
+RENEWED SAN SEBASTIAN GOLD MINE EXPLOITATION CONCESSION/LICENSE UNDER EL
+SALVADOR AGREEMENT NUMBER 591 DATED MAY 20, 2004 AND DELIVERED ON JUNE 4,
+2004 (RENEWED SSGM) - APPROXIMATELY 1.2306 SQUARE KILOMETERS (304 ACRES)
+LOCATED IN THE DEPARTMENT OF LA UNION, EL SALVADOR, CENTRAL AMERICA
+On September 6, 2002, at a meeting held with the El Salvadoran Minister
+of Economy and the DHM, it was agreed to submit an application for the
+Renewed SSGM for a 30-year term and to  simultaneously cancel the
+concession obtained on July 23, 1987.  On September 26, 2002, the Company
+filed this application.  On February 28, 2003 (received March 3, 2003)
+the DHM admitted to the receipt of the application and the Company
+19
+<PAGE>
+       COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+    NOTES TO THE UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                              JUNE 30, 2004
+proceeded to file public notices as required by Article 40 of the El
+Salvadoran Mining Law and its Reform (MLIR).  On April 16, 2003, the
+Company's El Salvadoran legal counsel filed with the DHM notice that it
+believed that it complied with the requirements of Article 40, and that
+there were no objections; and requested that the DHM make its inspection
+as required by MLIR Article 42.  An inspection by the DHM was made. The
+Company then provided a bond which was required by the DHM to protect
+third parties against any damage caused from the mining operations, and
+it simultaneously paid the annual surface tax.  On August 29, 2003 the
+Office of the Ministry of Economy formally presented the Company with a
+twenty-year Renewed SSGM which was dated August 18, 2003.  On May 20,
+2004 (delivered June 4, 2004) the Government of El Salvador under this
+Agreement Number 591 extended the exploitation concession for a period of
+thirty (30) years.  This Renewed SSGM replaces the collateral that the
+same parties held with the previous concession.
+NEW SSGM EXPLORATION CONCESSION/LICENSE UNDER EL SALVADOR RESOLUTION
+NUMBER 27 (New SSGM) - APPROXIMATELY 40.7694 SQUARE KILOMETERS (10,070
+ACRES) LOCATED IN THE DEPARTMENTS OF LA UNION AND MORAZAN, EL SALVADOR,
+CENTRAL AMERICA
+On October 20, 2002, the Company applied to the Government of El Salvador
+through the DHM for the New SSGM, which covers an area of 42 square
+kilometers and includes approximately 1.2306 square kilometers of the
+Renewed SSGM.  The New SSGM is in the jurisdiction of the City of Santa
+Rosa de Lima in the Department of La Union and in the Nueva Esparta in
+the Department of Morazan, Republic of El Salvador, Central America.  On
+February 24, 2003, the DHM issued the New SSGM for a period of four years
+starting from the date following the notification of this resolution
+which was received on March 3, 2003.  The New SSGM may be extended for
+two two-year periods, or for a total of eight years.  Besides the San
+Sebastian Gold Mine, the following three other formerly operative gold
+and silver mines included in the New SSGM are being explored: the La Lola
+Mine, the Santa Lucia Mine, and the Tabanco Mine.
+NUEVA ESPARTA EXPLORATION CONCESSION/LICENSE (NUEVA ESPARTA) - 45 SQUARE
+KILOMETERS (11,115 ACRES)
+On or about October 20, 2002, the Company filed an application with the
+Government of El Salvador through the DHM for the Nueva Esparta, which
+consists of 45 square kilometers north and adjacent to the New SSGM.
+This rectangular area is in the Departments of La Union (east) and
+Morazan (west) and in the jurisdiction of the City of Santa Rosa de Lima,
+El Salvador, Central America.  On May 25, 2004 (received June 4, 2004)
+the Government of El Salvador under Resolution Number 271 issued the
+exploration concession for a period of four years with a right to request
+an additional four year extension.  An important observation is that
+these mines form a belt of mineralization following a fault line from the
+SSGM to the Montemayor Mine for a distance of approximately five miles.
+Included in the Nueva Esparta are eight other formerly operated gold and
+silver mines known as:  the Grande Mine, the Las Pinas Mine, the Oro
+Mine, the Montemayor Mine, the Banadero Mine, the Carrizal Mine, the La
+Joya Mine and the Copetillo Mine.
+20
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+    NOTES TO THE UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                              JUNE 30, 2004
+El SALVADOR MINERAL PRODUCTION FEES
+As of July 2001, a series of revisions to the El Salvador Mining Law
+offer to make exploitation more attractive.  The principal change is that
+the fee has been reduced to two percent of the gross gold and silver
+receipts.  The Company believes that it is in compliance with the new law,
+and plans to file applications for all of the mining concessions in which
+it has an interest.
+SCMP LAND AND BUILDING LEASE
+On November 12, 1993, the Joint Venture entered into an agreement with
+Corporacion Salvadorena de Inversiones ("Corsain"), an El Salvadoran
+governmental agency, to lease for a period of ten years, approximately
+166 acres of land and buildings on which its gold processing mill, plant
+and related equipment (the SCMP) are located, and which is approximately
+15 miles west of the SSGM site.  The basic annual lease payment was U.S.
+$11,500, payable annually in advance, unless otherwise amended, and
+subject to an annual increase based on the annual United States'
+inflation rate.  As agreed, a security deposit of U.S. $11,500 was paid
+on the same date and this deposit was subject to increases based on any
+United States' inflationary rate adjustments.
+On April 26, 2004, a three-year lease, which includes an automatic
+additional three-year extension subject to Corsain's review, was executed
+by and between Corsain and the Company.  This lease is retroactive to
+November 12, 2003 and the monthly lease payments are $1,418.51 plus the
+El Salvadoran added value tax.  The lease is subject to an annual
+increase based on the U.S. annual inflationary rate adjustments.  The
+SCMP is strategically located to process ore from other mining projects.
+MODESTO MINE - REAL ESTATE
+The Company owns 63 acres of land which are a key part of the Modesto
+Mine that is located near the city of El Paisnal, El Salvador.  This real
+estate is subject to a mortgage and promissory note and is pledged as
+collateral to certain parties described in Note 9.
+SAN FELIPE-EL POTOSI MINE ("POTOSI") - REAL ESTATE LEASE AGREEMENT
+The Joint Venture entered into a lease agreement with the San Felipe-El
+Potosi Cooperative ("Cooperative") of the city of Potosi, El Salvador on
+July 6, 1993, to lease the real estate encompassing the San Felipe-El
+Potosi Mine consisting of 675 acres based on a royalty payment for a
+period of 30 years and with an option to renew the lease for an
+additional 25 years, for the purpose of mining and extracting minerals.
+MONTEMAYOR MINE - LEASE AGREEMENT
+The Joint Venture has leased approximately 175 acres of land that it
+considers to be the key mining property.  The terms of the various leases
+are one year with automatic renewal rights.  This property is located 14
+miles northwest of the SCMP, six miles northwest of the SSGM, and about
+two miles east of the city of San Francisco Gotera in the Department of
+Morazan, El Salvador.
+21
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+    NOTES TO THE UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                              JUNE 30, 2004
+(7)  SYNOPSIS OF REAL ESTATE OWNERSHIP AND LEASES
+- -------------------------------------------------
+The Company's 52%-owned subsidiary, Misanse, owns the 1,470 acre SSGM
+site located near the city of Santa Rosa de Lima in the Department of La
+Union, El Salvador; on January 14, 2002, it entered into an agreement to
+lease the premises for a period of thirty years.  Other real estate
+ownership or leases in El Salvador are as follows:   the Company owns
+approximately 63 acres at the Modesto Mine; and the Joint Venture leases
+the SCMP land and buildings on which its mill, plant and equipment are
+located.  In addition, the Joint Venture has entered into a lease
+agreement to lease approximately 675 acres based on the production of
+gold payable in the form of royalties with a mining prospect in the
+Department of San Miguel and it previously leased approximately 175 acres
+in the Department of Morazan in the Republic of El Salvador.  The Company
+also leases on a month-to-month basis approximately 4,032 square feet of
+office space in Milwaukee, Wisconsin.
+(8)  NOTES PAYABLE AND ACCRUED INTEREST
+- ---------------------------------------
+                                                 06/30/04      06/30/03
+                                                 --------      --------
+Related Parties
+Mortgage and promissory notes to
+related parties, interest ranging from
+one percent to four percent over prime
+rate, but not less than 16%, payable
+monthly, due on demand, using the
+Misanse lease, the Renewed SSGM Concession
+issued on August 18, 2003, the New SSGM
+Concession issued on February 24, 2003,
+and the Nueva Esparta Concession issued on
+May 25, 2004, gold ore reserves, real
+estate and all other assets owned by the
+Company, its subsidiaries and the Joint
+Venture as collateral. (Note 7)               $ 9,851,488    $ 8,423,537
+Other
+Short-term notes and accrued interest
+(June 30, 2004, $117,963 and June 30,
+2003, $96,307) issued to creditors and
+other non related parties, interest
+rates of varying amounts, in lieu of
+actual cash payments and includes a
+mortgage on a certain parcel of land
+pledged as collateral located in El
+Salvador.                                         252,963       231,307
+                                              -----------    ----------
+Total:                                        $10,104,451    $8,654,844
+                                              ===========    ==========
+22
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+    NOTES TO THE UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                              JUNE 30, 2004
+(9)  RELATED PARTY TRANSACTIONS
+- -------------------------------
+The Company, in an attempt to preserve cash, had prevailed on its
+President to accrue his salary for the past 24 years and three months,
+including vacation pay, for a total of $2,856,515 and $2,677,765 at June
+30, 2004 and 2003 respectively.
+In addition, with the consent and approval of the Directors, the
+President of the Company, as an individual and not as a Director or
+Officer of the Company, entered into the following financial transactions
+with the Company, the status of which is reflected as follows:
+The amount of cash funds which the Company has borrowed from its President
+from time to time, together with accrued interest, amounts to $6,866,170 and
+$5,790,875 at June 30, 2004 and 2003 respectively.  To evidence this debt,
+the Company has issued to its President a series of  open-ended, secured,
+on-demand promissory notes, with interest payable monthly at the prime
+rate plus two percent, but not less than 16% per annum.
+The Company had borrowed an aggregate of $952,577 and $858,210 at June 30,
+2004 and 2003 respectively, including accrued interest, from the Company's
+President's Rollover Individual Retirement Account (ELM RIRA).  These loans
+are evidenced by the Company's open-ended, secured, on-demand promissory note,
+with interest payable monthly at the prime rate plus four percent per annum,
+but not less than 16% per annum.
+In order to satisfy the Company's cash requirements from time to time,
+the Company's President has sold or pledged as collateral for loans,
+shares of the Company's common stock owned by him.  In order to
+compensate its President for selling or pledging his shares on behalf of
+the Company, the Company has made a practice of issuing him the number of
+restricted shares of common stock equivalent to the number of shares sold
+or pledged, plus an additional number of shares equivalent to the amount
+of accrued interest calculated at the prime rate plus three percent  per
+annum and payable monthly.  The Company receives all of the net cash
+proceeds from the sale or from the pledge of these shares.  The Company
+did not borrow any common shares during this fiscal period.  The share
+loans, if any, are all in accordance with the terms and conditions of
+Director-approved, open-ended loan agreements dated June 20, 1988,
+October 14, 1988, May 17, 1989, and April 1, 1990.
+On February 16, 1987, the Company granted its President, by unanimous
+consent of the Board of Directors, compensation in the form of a bonus in
+the amount of two percent of the pre-tax profits realized by the Company
+from its gold mining operations in El Salvador, payable annually over a
+period of twenty years commencing on the first day of the month following
+the month in which gold production commences.
+The President, as an individual, and not as a Director or Officer of the
+Company, presently owns a total of 467 Misanse common shares.  There are
+a total of 2,600 Misanse shares issued and outstanding.
+23
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+    NOTES TO THE UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                              JUNE 30, 2004
+Also with the consent and approval of the Directors, a company in which
+the President has a 55% ownership, General Lumber & Supply Co., Inc.
+(GLSCO), entered into the following agreements, and the status is
+reflected as of June 30, 2004:
+The Company leased approximately 4,032 square feet on a month-to-month
+basis for its corporate headquarters' office; the monthly rental charge
+was $2,789.  The same related company provides administrative services,
+use of its vehicles, and other property, as required by the Company.
+In lieu of cash payments for the office space rental and for the
+consulting, administrative services, etc., these amounts due are added
+each month to this related company's open-ended, secured, on-demand
+promissory note issued by the Company.
+In addition, this related company does from time to time use its credit
+facilities to purchase items needed for the Joint Venture's mining needs.
+This related company has been issued an open-ended, secured, on-demand
+promissory note which amounts to $1,348,383 and $1,191,235 at June 30, 2004
+and 2003 respectively; the annual interest rate is four percent plus the prime
+rate, but not less than 16%, and it is payable monthly.
+The Company's Directors have consented and approved the following
+transactions of which the status of each are reflected as follows:
+The President's wife's Rollover Individual Retirement Account (SM RIRA) has
+the Company's open-ended, secured, on-demand  promissory note in the sum  of
+$524,224 and $446,749 at June 30, 2004 and 2003 respectively, which bears
+interest at an annual rate of prime plus three percent, but not less than 16%
+and the interest is payable monthly.
+The Directors also have acknowledged that the wife of the President is to be
+compensated for her consulting fees due to her from October, 1, 1994 through
+September 30, 2000 or 72 months at $2,800 a month, and thereafter at $3,000
+per month.  The Company owes her as an individual and as a consultant, the sum
+of $336,600 and $300,600 at June 30, 2004 and 2003 respectively, for services
+rendered from October 1994.
+The Law Firm which represents the Company in which a son of the President
+is a principal is owed the sum of $327,015 for 1,767.65 hours of  legal
+services rendered from July 1980 through June 30, 2004.  By agreement on
+the date of payment, these fees are to be adjusted to commensurate with
+the hourly fees charged by the Law Firm.
+The son of the President and his son's wife have the Company's open-ended,
+on-demand promissory note in the sum of $160,134 and $136,468 at June 30, 2004
+and 2003, respectively, which bears interest at an annual rate of 16% payable
+monthly.
+24
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+    NOTES TO THE UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                              JUNE 30, 2004
+The Directors, by their agreement, have deferred cash payment of their
+Director fees beginning on January 1, 1981, until such time as the
+Company's operations are profitable.   Effective from October 1, 1996,
+the Director fees are $1,200 for each quarterly meeting and $400 for
+attendance at any other Directors' meeting.  The Executive Committee
+Director fees are $400 for each meeting.  The Directors and Officers have
+an option to receive cash at such time as the Company has profits and an
+adequate cash flow, or to exchange the amount due to them for the
+Company's common shares.  As of June 30, 2004, the Company owes $4,400
+for Director fees and $61,863 for the accrued Officers'/employee
+compensation (President excluded).
+The Company advances funds, allocates expenses, and charges for
+disbursements made to the Joint Venture.  The Joint Venture in turn
+capitalizes all of these advances, allocations, expenses, and
+disbursements.
+The Company has adopted a policy to maintain a separate accounting of the
+amount due to it from Sanseb and the Joint Venture.  This independent
+accounting will be maintained by the Company to reflect its investment
+and the amount due to it.  This record will become the official document
+for future Joint Venture cash distributions.  All of the advances and
+interest earned will be paid to the Company before the distribution to
+others of any of the Joint Venture's profits or cash flow.
+The Company maintains a separate accounting for the funds or credits
+advanced to the Joint Venture and for the interest charged which is at
+the prime rate quoted on the first business day of each month plus four
+percent and said interest is payable monthly.  These advances, together
+with interest, are to be paid to the Company prior to the distribution of
+any of the Joint Venture profits, and are reflected as follows:
+COMPANY NET ADVANCES TO THE JOINT VENTURE
+- -----------------------------------------
+2004                       2003
+                                    ----                       ----
+                             Total       Interest        Total      Interest
+                            Advances      Charges       Advances     Charges
+                          -----------   -----------   -----------  -----------
+Beginning balances        $44,295,126   $27,200,167   $40,181,015  $23,751,735
+Advances through
+ June 30                    1,043,152       890,345       980,330      833,146
+                          -----------   -----------   -----------  -----------
+Total Company advances     45,338,278    28,090,512    41,161,345   24,584,881
+Advances by three of the
+ Company's subsidiaries       590,265             0       590,265            0
+                          -----------   -----------   -----------  -----------
+Total net advances
+ June 30                  $45,928,543   $28,090,512   $41,751,610  $24,584,881
+                          ===========   ===========   ===========  ===========
+25
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+    NOTES TO THE UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                                 JUNE 30, 2004
+INTERCOMPANY TRANSACTIONS AND OTHER TRANSACTIONS
+In addition to the transactions between the Company and General Lumber,
+and certain individuals who also are Directors and Officers of the
+Company and between the Company and its Officers, Directors and
+affiliates, the Company has had transactions with its subsidiaries, San
+Luis Estates, Inc., Universal Developers, Inc., Homespan Realty Co.,
+Inc., Ecomm Group Inc., San Sebastian Gold Mines, Inc., Mineral San
+Sebastian S.A. de C.V., and substantial transactions with the
+Commerce/Sanseb Joint Venture.
+(10)  COMMITMENTS
+- ----------------
+Reference is made to Notes 2, 4, 5, 6, 7, 8, 9, 10 and 12.
+(11)  INCOME TAXES
+- -----------------
+At March 31, 2003, the Company and its subsidiaries, excluding the Joint
+Venture, have estimated net operating losses remaining in a sum of
+approximately $5,063,150 which may be carried forward to offset future
+taxable income; the net operating losses expire at various times to the
+year of 2018.
+Income taxes are provided for the tax effects of transactions reported in the
+financial statements and consist of taxes currently due plus deferred taxes.
+Deferred taxes are provided on a liability method whereby deferred tax assets
+are recognized for deductible temporary differences and operating loss, tax
+credit carry-forwards, and deferred tax liabilities are recognized for taxable
+temporary differences.  Temporary differences are the differences between the
+reported amounts of assets and liabilities and their tax bases.  Deferred tax
+assets are reduced by a valuation allowance when, in the opinion of
+management, it is more likely than not that some portion or all of the
+deferred tax will not be realized.  Deferred tax assets and liabilities are
+adjusted for the effects of changes in tax laws and rates on the date of
+enactment.
+June 30,
+                                                  2004             2003
+                                               ----------       ----------
+Deferred Tax Assets:
+ Net operating loss carry-forwards            $ 1,720,000      $ 1,720,000
+Valuation allowance for deferred tax assets    (1,720,000)      (1,720,000)
+                                               ----------       ----------
+Net deferred tax assets:                                -                -
+                                               ==========       ==========
+26
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+    NOTES TO THE UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                             JUNE 30, 2004
+(12)  DESCRIPTION OF SECURITIES
+- -------------------------------
+a.  COMMON STOCK
+The Company's Wisconsin Certificate of Incorporation effective as of
+April 1, 1999 authorizes the issuance of 50,000,000 shares of common
+stock, $0.10 par value per share of which 22,794,091 shares were issued
+and outstanding as of June 30, 2004.  Holders of shares of common stock
+are entitled to one vote for each share on all matters to be voted on by
+the shareholders.  Holders of common stock have no cumulative voting
+rights.  Holders of shares of common stock are entitled to share ratably
+in dividends, if any, as may be declared, from time to time by the Board
+of Directors in its discretion, from funds legally available therefore.
+In the event of a liquidation, dissolution or winding up of the Company,
+the holders of shares of common stock are entitled to share pro rata all
+assets remaining after payment in full of all liabilities.  Holders of
+common stock have no preemptive rights to purchase the Company's common
+stock.  There are no conversion rights or redemption or sinking fund
+provisions with respect to the common stock.  All of the issued and
+outstanding shares of common stock are validly issued, fully paid and
+non-assessable.
+b.  PREFERRED STOCK
+There were no preferred shares issued and outstanding for the periods
+ending June 30, 2004 or 2003.
+The Company's Wisconsin Certificate of Incorporation authorizes the
+issuance of 250,000 shares of preferred stock, $0.10 par value.
+The preferred shares are issuable in one or more series.  If issued, the
+Board of Directors is authorized to fix or alter the dividend rate,
+conversion rights (if any), voting rights, rights and terms of redemption
+(including any sinking fund provisions), redemption price or prices,
+liquidation preferences and number of shares constituting any wholly
+unissued series of preferred shares.
+c.  STOCK OPTION ACTIVITY:
+06/30/04              03/31/04
+                              ------------------     ----------------
+                                        Weighted             Weighted
+                              Option     Average     Option   Average
+                              Shares      Price      Shares    Price
+                              ------      -----      ------    -----
+Outstanding, beg. yr.         210,000     $0.23      960,000   $0.21
+Granted
+Exercised                                           (500,000)    N/A
+Forfeited                                            (60,000)    N/A
+Expired                       (40,000)              (190,000)    N/A
+                            ---------     -----    ----------  -----
+Outstanding, 06/30/04         170,000     $0.22      210,000   $0.23
+                            =========     =====    ==========  =====
+27
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+    NOTES TO THE UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                                 JUNE 30, 2004
+A summary of the outstanding stock options as of June 30, 2004,
+follows:
+Weighted Average         Weighted
+   Range of             Amount         Remaining             Average
+Exercise Prices      Outstanding    Contractual Life      Exercise Price
+- ---------------      -----------    ----------------      --------------
+Up  to  $2.99          170,000        .2018 years              $0.22
+There were no options issued to any Director, Officer, or employee.
+d.  STOCK RIGHTS - TO THE PRESIDENT
+Reference is made to Note 9, Related Party Transactions, of the Company's
+financial statements which disclose the terms and conditions of the share
+loans to the Company by the President and the interest which is payable
+to him by the Company's issuance of its restricted common shares.
+Any share interest payable to the President is for shares loaned to the
+Company and/or for such shares loaned or pledged for collateral purposes,
+or for unpaid interest, from time to time, all in accordance with the
+terms and conditions of Director-approved, open-ended loan agreements
+dated June 20, 1988, October 14, 1988, May 17, 1989 and April 1, 1990.
+e.  SHARE LOANS - OTHERS
+In the past, a series of borrowings of the Company's common shares were
+made from time to time under the provision that the owners would sell
+said shares as the Company's designee, with the proceeds payable to the
+Company.  In exchange, the Company agreed to pay these shares loaned
+within 31 days or less by issuing its restricted common shares, together
+with interest payable in restricted common shares payable at a negotiated
+rate of interest normally payable in advance for a period of one year.
+As of June 30, 2004, there were no shares due to other parties for shares
+borrowed or due for interest payment.
+f.  S.E.C. FORM S-8 REGISTRATION
+On June 10, 2002, the Company filed its fifth Securities and Exchange
+Commission Form S-8 Registration Statement No. 333-90122 under the
+Securities Act of 1933, and it registered 1,500,000 of the Company's
+$0.10 par value common shares for the purpose of distributing shares
+pursuant to the plan contained in such registration.  From the 1,500,000
+shares registered  704,959 shares were issued, and 795,041 shares remain
+to be issued as of June 30, 2004.
+g.  COMMERCE GROUP CORP. EMPLOYEE BENEFIT ACCOUNT (CGCEBA)
+This account was established for the purpose of compensating the
+Company's employees for benefits such as retirement, severance pay, and
+all other related compensation that is mandatory under El Salvadoran
+labor regulations, and/or as determined by the Officers of the
+Corporation.  The Directors provided the Officers of the Company with the
+authority to issue its common shares to the CGCEBA on an as needed basis.
+Under this plan, payment can be made to any employee of the Company or
+the Company's subsidiaries.  The CGCEBA has sold some of the shares
+issued to this account from time to time to meet its obligations to its
+El Salvadoran employees.  As of June 30, 2004, 385,000 shares remained in
+the account.
+28
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+  NOTES TO THE UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                              JUNE 30, 2004
+(13)  CERTAIN CONCENTRATIONS AND CONCENTRATIONS OF CREDIT RISK
+- --------------------------------------------------------------
+The Company is subject to concentrations of credit risk in connection
+with maintaining its cash primarily in two financial institutions for the
+amounts in excess of levels.  One is insured by the Federal Deposit
+Insurance Corporation.  The other is an El Salvadoran banking institution
+which the Company uses to pay its El Salvadoran expenses and obligations.
+The Company considers the U.S. institution to be financially strong and
+does not consider the underlying risk at this time with its El Salvadoran
+bank to be significant.  To date, these concentrations of credit risk
+have not had a significant effect on the Company's financial position or
+results of operations.
+The Company is not subject to credit risk in connection with any hedging
+activities as it has not hedged any of its gold production.  If the
+Company changes its policies, then it will only use highly-rated credit
+worthy counterparties, therefore it should not anticipate
+non-performance.
+(14) COMMITMENTS AND CONTINGENCIES
+- ----------------------------------
+Environmental Compliance
+Based upon current knowledge, the Company believes that it is in
+compliance with the U.S. and El Salvadoran environmental laws and
+regulations as currently promulgated.  However, the exact nature of
+environmental control problems, if any, which the Company may encounter
+in the future cannot be predicted, primarily because of the increasing
+number, complexity and changing character of environmental requirements
+that may be enacted or of the standards being promulgated by governmental
+authorities.
+Environmental Guarantees
+In connection with the issuance of environmental permits, the Company has
+provided the Government of El Salvador with the following guarantees on
+September 27, 2002:  three-year guarantees were issued by the Banco
+Agricola, S.C. on behalf of the Company to the Ministry of Environment
+and Natural Resources; Guarantee No. 1901-0000059-8 was issued for the
+San Cristobal Mill and Plant in the sum of $771.49; and Guarantee No.
+1901-0000058-7 was issued for the Renewed SSGM Exploitation
+Concession/License in the sum of $14,428.68.
+In connection with the Renewed SSGM Exploitation Concession/License, on
+July 15, 2003 a one-year, third party liability guarantee (bond) in the
+sum of $42,857.14 was issued by Compania Anglo Salvadorena de Seguros,
+S.A. (Anglosal) on behalf of the Company to the  Ministry of Economy's
+Office of the Department of Hydrocarbons and Mines.  The Company pledged
+its SSGM laboratory real estate as collateral to Anglosal for the
+issuance of the bond.
+29
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+  NOTES TO THE UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                              JUNE 30, 2004
+The El Salvadoran Environmental Law, Decree No. 233, 1998 and the General
+Regulation of the Environmental Law specify the following:
+- - An environmental permit from the Ministry of Environment and Natural
+  Resources (MARN) based on the approval of an Environmental Impact
+  Assessment, is required for exploration, exploitation and industrial
+  processing of minerals and fossil fuels;
+- - The environmental permit requires the company to implement prevention,
+  minimization or compensation measures established in the environmental
+  management program, which is a component of the Environmental Impact
+  Assessment;
+- - A financial security (bond) is required that covers the total cost of
+  the facilities or investment required to comply with the environmental
+  management plans included in the Environmental Impact Assessment.
+Numeric standards for ambient air quality; emissions from fixed sources;
+maximum environmental noise levels; water quality and effluent limits are
+specified in various norms and regulation, including the Special
+Regulation of Technical Norms for Environmental Quality Decree No. 40,
+and the Special Regulations of Wastewater Decree No. 39.
+The El Salvadoran Department of Hydrocarbons and Mines (DHM) requires
+environmental permits to be issued in connection with the application of
+the Renewed SSGM.  The issuance of these permits is under the
+jurisdiction of the El Salvador Ministry of Environment and Natural
+Resources Office (MARN).  On October 15, 2002, MARN issued an
+environmental permit under Resolution 474-2002 for the SCMP.  On October
+20, 2002, MARN issued an environmental permit under Resolution 493-2002
+for the Renewed SSGM Exploitation area.
+Lease Commitments
+The month-to-month lease of its offices is described in note (9) Related
+Party Transactions of the Notes to the Consolidated Financial Statements.
+The lease of the SCMP and other mining leases are described in note (6)
+Commerce/Sanseb Joint Venture ("Joint Venture") and in note (7) Synopsis
+of Real Estate Ownership and Leases of the Notes to the Consolidated
+Financial Statements.
+Confirmation Agreements
+The Company, with Directors' approval, as of the end of each fiscal year,
+enters into confirmation agreements with Edward L. Machulak as an
+individual, and not as a Director or Officer of the Company, the Edward
+L. Machulak Rollover Individual Retirement Account, General Lumber &
+Supply Co., Inc., and Sylvia Machulak as an individual and for the Sylvia
+Machulak Rollover Individual Retirement Account, to acknowledge the
+amount due, the collateral pledged, and other pertinent facts and
+understandings between the parties.  These agreements are filed annually
+as exhibits to the SEC Form 10-K.
+30
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+  NOTES TO THE UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                              JUNE 30, 2004
+(15) BUSINESS SEGMENTS
+- ----------------------
+The Statement of Financial Accounting Standards No. 131 (SFAS 131),
+Disclosures about Segments of an Enterprise and Related Information
+became effective for fiscal years beginning after December 15, 1997.
+SFAS 131 establishes standards for the way that public business
+enterprises determine operating segments and report information about
+those segments in annual financial statements.  SFAS 131 also requires
+those enterprises to report selected information about operating segments
+in interim financial reports issued to shareholders.  SFAS 131 further
+establishes standards for related disclosure about products and services,
+geographic areas, and major customers.
+The Company presently has two reportable segments:  mining and other.
+The mining segment was engaged in the exploration and production of
+precious metals.  The mining processing is temporarily suspended.  The
+other segments are those activities that are combined for reporting
+purposes.  There were no reportable activities in the Internet business;
+no income and no expenses were recorded.  Reference is made to other
+sections in the annual financial statements for details.
+The following is a tabulation of unaudited quarterly operating results
+for 2004 and 2003:
+Per Share
+                                                            Basic/Diluted Net
+Fiscal year ended 3/31/04   Operating Revenues   Net (Loss)   Income/Loss
+- -------------------------   ------------------   ----------   -----------
+First quarter 06/30/04             $0            $(52,188)       $(.00)
+Per Share
+                                                            Basic/Diluted Net
+Fiscal year ended 03/31/03   Operating Revenues   Net (Loss)  Income/(Loss)
+- -------------------------   ------------------   ----------   -------------
+First quarter 06/30/03             $0             $(49,873)      $(.00)
+31
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+  NOTES TO THE UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+                              JUNE 30, 2004
+(16)  UNCERTAINTIES
+- -------------------
+The Company has experienced recurring operating losses since the gold
+extraction operations have been placed on a hold status. The Company has had
+no  revenues during this phase and is therefore dependent upon raising capital
+to continue operations. Since the Company has suspended gold production
+operations as of March 31, 2000, the Company and its shareholders and officers
+have been able to provide the capital necessary to continue the operations of
+the Company and the maintenance of the mine and related equipment.   However,
+there is no guarantee that the Company can continue to provide required
+capital  to keep the Company's assets maintained.  If the Company was unable
+to raise sufficient funds, the Company would be unable to pay the employees
+maintaining its mining equipment in El Salvador, which could result in loss of
+assets or impairment thereof. The financial statements do not include any
+adjustments that might result from the outcome of this uncertainty.
+Management believes it has sufficient reserves through loans from its
+principal officer and through interested accredited investors to continue
+operations for the coming year. Management is also entertaining joint
+venture opportunities, and other financing in order to generate
+sufficient capital to begin the open pit heap leaching operation at the
+San Sebastian Gold Mine or to process gold at its San Cristobal Mill and
+Plant.
+(17)  UNAUDITED FINANCIAL STATEMENTS
+- ------------------------------------
+The consolidated financial statements have been prepared by the Company,
+without audit, pursuant to the rules and regulations of the Securities
+and Exchange Commission.  The financial information included herein is
+unaudited; however, the Company believes that the information reflects
+all adjustments (consisting solely of normal recurring adjustments) that
+are, in the opinion of management, necessary to be a fair presentation of
+the financial position, results of operations, and cash flows for the
+interim periods.  Certain information and footnote disclosures normally
+included in the financial statements prepared in accordance with
+generally accepted accounting principles have been condensed or omitted
+pursuant to such rules and regulations.  The Company believes that the
+disclosures are adequate to make the information presented not
+misleading.  It is suggested that these consolidated financial statements
+be read in connection with the financial statements and the notes thereto
+included in the Company's latest annual report and  the filing of the
+required Securities and Exchange Commission annual Form 10-K/A.
+32
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+                   S.E.C. FORM 10-Q/A - JUNE 30, 2004
+                     PART I - FINANCIAL INFORMATION
+ITEM 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS
+- ------------------------------------------------------------------------
+SUBSEQUENT EVENT
+The financial statements included in this report were reviewed as required
+under Section 102 of the Sarbanes-Oxley Act of 2002 by an independent public
+accounting firm that is registered with the Public Company Accounting
+Oversight Board (PCAOB).  The purpose for filing this SEC Form 10-Q/A is
+because the Company's previous independent public accountant was not
+registered with the PCAOB prior to October 22, 2003.  Reference is made to the
+Company's Form 8-Ks filed on January 21, 2005 and May 6, 2005.
+CAUTIONARY STATEMENT FOR PURPOSES OF THE "SAFE HARBOR" PROVISIONS OF THE
+PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995
+The matters discussed in this report on Form 10-Q/A, when not historical
+matters, are forward-looking statements that involve a number of risks
+and uncertainties that could cause actual results to differ materially
+from projected results.  Such factors include, among others, the
+speculative nature of mineral exploration, gold and silver prices,
+production and reserve estimates, litigation, environmental and
+government regulations, general economic conditions, conditions in the
+financial markets, political and competitive developments in domestic and
+foreign areas in which the Company operates, availability of financing,
+force majeure events, technological and operational difficulties
+encountered in connection with the Company's mining activities, labor
+relations, other risk factors as described from time to time in the
+Company's filings with the Securities and Exchange Commission and other
+matters discussed under this reporting category.  Many of these factors
+are beyond the Company's ability to control or predict.  The Company
+disclaims any intent or obligation to update its forward-looking
+statements, whether as a result of receiving new information, the
+occurrence of future events, or otherwise.  Should one or more of those
+risks or uncertainties materialize, or should any underlying assumption
+prove incorrect, actual results or outcomes may vary materially from
+those described herein as anticipated, believed, estimated, expected or
+intended.
+Management's discussion and analysis ("MD&A") of the financial condition
+and results of operations of  the Company should be read in conjunction
+with the latest audited consolidated financial statements and the notes
+thereto.  The Company prepares and files its consolidated financial
+statements and MD&A in United States ("U.S.") dollars and in accordance
+with U.S. generally accepted accounting principles ("GAAP").
+The following discussion provides information on the results of
+operations, the financial condition, liquidity and capital resources for
+the first quarter periods ended June 30, 2004 and 2003.  The financial
+statements of the Company and the notes thereto contain detailed
+information that should be referred to in conjunction with this
+discussion.
+33
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+                     S.E.C. FORM 10-Q/A - JUNE 30, 2004
+                 PART I - FINANCIAL INFORMATION (CONTINUED)
+Overview
+- --------
+The Company is in the precious metals exploration, exploitation,
+development, production business with at least four formerly operated mines
+that are located in the Republic of El Salvador, Central America.  The
+Company's objective is to increase shareholder value by increasing its
+gold and silver ore reserves within the concession/license areas granted
+to the Company by the Government of El Salvador (GOES) and by processing
+these reserves to produce gold and silver at an above average profit.
+Substantial capital expenditures are required to explore, develop and
+process gold and silver ore.  The Company's geologists and engineers
+believe that its existing precious metal reserves can be substantially
+increased by continuous exploration.
+The Company is determined to obtain the capital it requires to produce
+gold and silver at its San Cristobal Mill and Plant (SCMP) facilities and
+to construct an open-pit, heap-leach operation on its San Sebastian Gold
+Mine site which is located approximately two and one half miles off of
+the Pan American highway northwest of the City of Santa Rosa de Lima in
+the Department of La Union, El Salvador.
+The Company has no revenues because it is not in production and it
+requires funds to purchase the necessary equipment, inventory and working
+capital to commence processing the 15 million ton ore reserves which
+should contain approximately 1.5 million ounces of gold.  The Company is
+determined to raise sufficient capital to enter into production. Its
+alternative is to joint venture, merge, be acquired  or enter into a
+business combination that will benefit all parties concerned.
+THREE CONCESSIONS:
+ONE EXPLOITATION AND TWO EXPLORATION MINERAL CONCESSIONS/LICENSES
+All of the Company's mines and exploration targets are located in the
+Republic of El Salvador, Central America.  The GOES has issued three
+concessions/licenses to the Company, which are described as follows:
+RENEWED SAN SEBASTIAN GOLD MINE EXPLOITATION CONCESSION/LICENSE UNDER EL
+SALVADOR AGREEMENT NUMBER 591 DATED MAY 20, 2004 AND DELIVERED ON JUNE 4,
+2004 (RENEWED SSGM) - APPROXIMATELY 1.2306 SQUARE KILOMETERS (304 ACRES)
+LOCATED IN THE DEPARTMENT OF LA UNION, EL SALVADOR, CENTRAL AMERICA
+On September 6, 2002, at a meeting held with the El Salvadoran Minister
+of Economy and the DHM, it was agreed to submit an application for the
+Renewed SSGM for a 30-year term and to  simultaneously cancel the
+concession obtained on July 23, 1987.  On September 26, 2002, the Company
+filed this application.  On February 28, 2003 (received March 3, 2003)
+the DHM admitted to the receipt of the application and the Company
+proceeded to file public notices as required by Article 40 of the El
+Salvadoran Mining Law and its Reform (MLIR).  On April 16, 2003, the
+Company's El Salvadoran legal counsel filed with the DHM notice that it
+believed that it complied with the requirements of Article 40, and that
+there were no objections; and requested that the DHM make its inspection
+34
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE S.E.C.
+                     FORM 10-Q/A - JUNE 30, 2004
+              PART I - FINANCIAL INFORMATION (CONTINUED)
+as required by MLIR Article 42.  An inspection by the DHM was made.  The
+Company then provided a bond which was required by the DHM to protect
+third parties against any damage caused from the mining operations, and
+it simultaneously paid the annual surface tax.  On August 29, 2003 the
+Office of the Ministry of Economy formally presented the Company with a
+twenty-year Renewed SSGM which was dated August 18, 2003.  On May 20,
+2004 (delivered June 4, 2004) the Government of El Salvador under this
+Agreement Number 591 extended the exploitation concession for a period of
+thirty (30) years.  This Renewed SSGM replaces the collateral that the
+same parties held with the previous concession.
+NEW SSGM EXPLORATION CONCESSION/LICENSE UNDER EL SALVADOR RESOLUTION
+NUMBER 27 (New SSGM) - APPROXIMATELY 40.7694 SQUARE KILOMETERS (10,070
+ACRES) LOCATED IN THE DEPARTMENTS OF LA UNION AND MORAZAN, EL SALVADOR,
+CENTRAL AMERICA
+On October 20, 2002, the Company applied to the Government of El Salvador
+through the DHM for the New SSGM, which covers an area of 42 square
+kilometers and includes approximately 1.2306 square kilometers of the
+Renewed SSGM.  The New SSGM is in the jurisdiction of the City of Santa
+Rosa de Lima in the Department of La Union and in the Nueva Esparta in
+the Department of Morazan, Republic of El Salvador, Central America.  On
+February 24, 2003, the DHM issued the New SSGM for a period of four years
+starting from the date following the notification of this resolution
+which was received on March 3, 2003.  The New SSGM may be extended for
+two two-year periods, or for a total of eight years.  Besides the San
+Sebastian Gold Mine, the following three other formerly operative gold
+and silver mines included in the New SSGM are being explored: the La Lola
+Mine, the Santa Lucia Mine, and the Tabanco Mine.
+NUEVA ESPARTA EXPLORATION CONCESSION/LICENSE (NUEVA ESPARTA) - 45 SQUARE
+KILOMETERS (11,115 ACRES)
+On or about October 20, 2002, the Company filed an application with the
+Government of El Salvador through the DHM for the Nueva Esparta, which
+consists of 45 square kilometers north and adjacent to the New SSGM.
+This rectangular area is in the Departments of La Union (east) and
+Morazan (west) and in the jurisdiction of the City of Santa Rosa de Lima,
+El Salvador, Central America.  On May 25, 2004 (received June 4, 2004)
+the Government of El Salvador under Resolution Number 271 issued the
+exploration concession for a period of four years with a right to request
+an additional four year extension.  An important observation is that
+these mines form a belt of mineralization following a fault line from the
+SSGM to the Montemayor Mine for a distance of approximately five miles.
+Included in the Nueva Esparta are eight other formerly operated gold and
+silver mines known as:  the Grande Mine, the Las Pinas Mine, the Oro
+Mine, the Montemayor Mine, the Banadero Mine, the Carrizal Mine, the La
+Joya Mine and the Copetillo Mine.
+35
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+                     S.E.C. FORM 10-Q/A - JUNE 30, 2004
+                 PART I - FINANCIAL INFORMATION (CONTINUED)
+HISTORICAL INFORMATION
+The Company is a U.S. Wisconsin chartered corporation engaged in exploration,
+exploitation, development and gold and silver production with its primary asset
+being the San Sebastian Gold Mine (SSGM).  The SSGM is located in the Republic
+of El Salvador, Central America and produced over one million ounces of gold
+during the 1900-1917 period.  The Company became involved as an investor and
+then as a majority owner.  Gold and silver was produced by the Company from
+mid-1972 through the first quarter of 1978.  The suspension was caused by the
+El Salvador civil unrest which peace pact was entered into in December 1992
+conditioned upon meeting the terms during a three-year period.  Production of
+gold and silver commenced on April 1, 1995 and the operations were suspended
+during the first quarter of 2000 due to the low selling price of gold at that
+time and the need to retrofit, restore and expand the San Cristobal Mill and
+Plant (SCMP).  The Company presently is seeking funds to restore the SCMP and
+to set up an open-pit, heap-leach operation at the SSGM site.  Its alternative
+is to joint venture or to enter into a merger or business combination.
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+- ------------------------------------------
+The ensuing discussion and analysis of financial condition and results of
+operations are based on the Company's unaudited consolidated financial
+statements, prepared in accordance with accounting principles generally
+accepted in the United States of America and contained within this report
+on S.E.C. Form 10-Q/A.  Certain amounts included in or affecting the
+Company's financial statements and related disclosures must be estimated,
+requiring that certain assumptions be made with respect to values or
+conditions which cannot be made with certainty at the time the financial
+statements are prepared.  Therefore, the reported amounts of the
+Company's assets and liabilities, revenues and expenses, and associated
+disclosures with respect to contingent assets and obligations could be
+affected by these estimates.  The more significant areas requiring the
+use of management estimates and assumptions relate to mineral reserves
+that are the basis for future cash flow estimates and units-of-production
+amortization determination; recoverability and timing of gold production
+from the heap-leaching process; environmental, reclamation and closure
+obligations; asset impairments (including estimates of future cash
+flows); useful lives and residual values of intangible assets; fair value
+of financial instruments; valuation allowances for deferred tax assets;
+and contingencies and litigation.  The Company bases its estimates on
+historical experience and on various other assumptions that are believed
+to be reasonable under the circumstances.  Actual results may differ from
+these estimates under different assumptions or conditions.
+The Company believes the following significant assumptions and estimates
+affect its more critical practices and accounting policies used in the
+preparation of its consolidated financial statements.
+A critical accounting policy is one that is important to the portrayal of
+the Company's financial condition and results, and requires the Company
+to make difficult subjective and/or complex judgments.  Critical
+accounting policies cover accounting matters that are inherently
+uncertain because the future resolution of such matters is unknown.  The
+Company believes the following accounting policies are critical policies;
+accounting for its gold ore reserves, environmental liabilities, income
+taxes and asset retirement obligations.
+36
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+                     S.E.C. FORM 10-Q/A - JUNE 30, 2004
+                 PART I - FINANCIAL INFORMATION (CONTINUED)
+The preparation of financial statements in conformity with generally
+accepted accounting principles requires the Company to make estimates and
+assumptions for the reporting period and as of the financial statement
+date.  These estimates and assumptions affect the reported  amounts of
+assets and liabilities, the disclosure of contingent liabilities and the
+reported amounts of revenues and expenses.  Actual results could differ
+from those amounts.
+Gold ore reserves include reserves that represent estimated quantities of
+gold in which geological and engineering data demonstrate with reasonable
+certainty to be recoverable in future years from known reserves under
+existing economic and operating conditions.  The gold ore reserves are
+based on estimates prepared by geology and mining consultants and are
+used to calculate depreciation, depletion and amortization (DD&A) and
+determine if any potential impairment exists related to the recorded
+value of the Company's gold ore reserves.  Decline in the market price of
+gold may render certain reserves containing relatively lower grade of
+mineralization uneconomic to mine.  Changes in capital and operating
+costs including other factors could materially and adversely affect ore
+reserves.
+The Company reviews, on an as needed basis, its estimates of costs of
+compliance with environmental laws and the cleanup of various sites,
+including sites in which governmental agencies have designated the
+Company as a potentially responsible party.  When it is probable that
+obligations have been incurred and where a minimum cost or a reasonable
+estimate of the actual costs of compliance or remediation can be
+determined, the applicable amount is accrued.  Actual costs can differ
+from estimates due to changes in laws and regulations, discovery and
+analysis of site conditions and changes in technology.
+The Company makes certain estimates, which may include various tax
+planning strategies, in determining taxable income, the timing of
+deductions and the utilization of tax attributes, which can differ from
+estimates due to changes in laws and regulations, discovery and analysis
+of site conditions and changes in technology.
+Management is required to make judgments based on historical experience
+and future expectations on the future abandonment cost, net of salvage
+value, of its mining properties and equipment.  The Company reviews its
+estimate of the future obligation periodically and will accrue the
+estimated obligation based on the SFAS No. 143 "Account for Asset
+Retirement Obligations."
+From time to time, the Company estimates its ore reserves when it is in
+production.  There are a number of uncertainties inherent in estimating
+quantities of reserves, including many factors beyond the control of the
+Company.  Ore reserve estimates are based upon engineering evaluations of
+assay values derived from samplings of drill holes and other openings.
+Additionally, declines in the market price of gold may render certain
+reserves containing relatively lower grades of mineralization uneconomic
+to mine.  Further, availability of permits, changes in operating and
+capital costs, and other factors could materially and adversely affect
+ore reserves.  The Company uses its ore reserve estimates in determining
+the unit basis for mine depreciation and closure rates, as well as in
+evaluating mine asset impairments.  Changes in ore reserve estimates
+could significantly affect these items.
+37
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+                     S.E.C. FORM 10-Q/A - JUNE 30, 2004
+                 PART I - FINANCIAL INFORMATION (CONTINUED)
+The Company at least annually plans to assess its properties and
+undeveloped mineral claims and leases, if any, for impairment when events
+or changes in circumstances indicate that the properties may be impaired.
+For producing properties and equipment, an impairment is recognized when
+the estimated future cash flows (undiscounted and without interest)
+expected to result in the use of the asset are less than the carrying
+amount of that asset.  Measurement of the impairment loss is based on
+discounted cash flows.  Undeveloped mineral claims and leases are
+measured on a fair value basis.  Fair value with respect to such mineral
+interest, pursuant to Statement of Financial Accounting Standards No.
+144, Accounting for the Impairment or Disposal of Long-Lived  Assets,
+effective January 1, 2002, would generally be assessed with reference to
+comparable property sales transaction in the market place.  The expected
+values associated with potential property development are estimated using
+the traditional net present value analysis of revenues, costs and capital
+investment cash flow projections discounted at a risk-adjusted rate
+reflective to the time periods associated with each possible outcome.
+Assumptions underlying future cash flow estimates are subject to risks
+and uncertainties.  Also, the occurrence of past market transactions does
+not mean that such comparable amounts would be applicable to the
+Company's situation.  Any differences between significant assumptions and
+market conditions could have a material effect on the fair value
+estimate.
+The amended financial statements for the fiscal year ended March 31, 2004,
+and prior years reflect and include Commerce Group Corp.'s subsidiaries
+and the Commerce Group Corp./Sanseb Joint Venture (Joint Venture) on a
+consolidated basis.  Previously, the Company reported the investment in
+the Joint Venture as advances to the Joint Venture and the Company's
+advances included the interest earned on these advances in anticipation
+of the interest being reimbursed.  Now these advances are restated and
+combined with the Company's Consolidated Financial Statements.  Although
+the elimination of interest income reduces the retained earnings, it does
+not eliminate the interest charged by and earned by the Company which is
+due and payable to it and which is maintained additionally with a
+separate accounting.  At such time when the profits from the gold mining
+operation are distributed, the interest earned on these advances will be
+paid first to the Company pursuant to an agreement entered into by the
+joint venture parties.
+GOLD ORE RESERVES
+The Company's geologists have defined the following San Sebastian Gold
+Mine gold ore reserves:
+Tons      Average Grade       Ounces
+----      -------------       ------
+Virgin ore            14,404,096       0.081         1,166,732
+Stope fill estimated   1,000,000       0.340           340,000
+                      ----------                     ---------
+  Totals              15,404,096                     1,506,732
+The estimated recoverable ounces by processing through the San Cristobal
+Mill and Plant ranges from 85% to 95%; the recovery of gold from the
+heap-leaching operations should range from 60% to 70%.
+38
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+                      S.E.C. FORM 10-Q/A - JUNE 30, 2004
+                   PART I - FINANCIAL INFORMATION (CONTINUED)
+PRECIOUS METAL MINING STRATEGY
+The Company has produced gold from 1972 through March 1978 at the SSGM
+site and from March 31, 1995 through December 31, 1999 at its SCMP.  Its
+SCMP consisted primarily of used equipment that had been installed at its
+leased site by a previous mining company.  The used processing equipment
+was acquired by the Joint Venture on February 23, 1993, and the SCMP
+operations were officially suspended as of March 31, 2000.  During this
+period, the price of gold suffered a severe decline.
+Although while in operation at the SCMP site the Company has on a
+continuous basis repaired, maintained, modified, and restored the
+equipment, it presently lacks sufficient funds to retrofit and to expand
+the SCMP facilities.
+The Company has temporarily suspended its gold processing until such time
+as it has adequate funds for the retrofitting, rehabilitation,
+restoration, overhauling, and most importantly for the expansion of the
+SCMP facilities.  During the last two fiscal periods, the price of gold
+has increased to a level to place the SCMP into a profitable position.
+The Company has a number of non-exclusive independent consulting
+agreements for the purpose of raising the sum of up to U.S. $20 million.
+The funds are to be used to purchase and install equipment, perform site
+development, working capital for the SSGM open-pit, heap-leaching
+operation, and for the retrofit and expansion of the Joint Venture's
+SCMP.  The predominant obstacle in negotiations is to prevent a substantial
+dilution of the existing shareholders' equity position.
+Through December  1999, the Joint Venture produced gold primarily from
+processing the SSGM tailings and from the virgin ore it was excavating
+from its SSGM open pit.  The gold was processed at its SCMP facility
+which is located approximately 15 miles from the SSGM site.  It is
+contemplating the installation  of a pilot open-pit, heap-leaching
+gold-processing system on the SSGM site.  The cone crushing system is
+being maintained at this site.  It also is continuing its SSGM site
+preparation, the expansion of its exploration and exploitation targets,
+and the enlargement and development of its gold ore reserves.  The
+Modesto Mine has been placed on a standby exploration program basis
+pending the advice from its legal counsel relative to the filing of
+applications for concessions (licenses) on the real estate that it owns
+in this area. All of the mining properties are located in the Republic
+of El Salvador, Central America.
+The Joint Venture will continue its attempts to commence its production
+of gold from the SSGM site.  Its objectives are to have an expanded
+complementary operation while continuing its endeavor to obtain
+sufficient funds for the SSGM open-pit, heap-leach operation. The
+Company's main objective and plan, through the Joint Venture, is to
+operate at the SSGM site, a moderate tonnage, low-grade, open-pit,
+heap-leaching, gold-producing mine.  It intends to commence this
+gold-mining operation as soon as adequate funding is in place and
+providing the gold price remains at or above the current price level.
+Dependent on the grade of gold ore processed and the funds it is able to
+obtain, it then anticipates producing annually approximately 10,000
+ounces of gold from the SCMP operation and eventually up to 113,000
+ounces of gold from its SSGM open-pit, heap-leaching operation.  The
+Joint Venture continues on a limited basis to conduct an exploration
+program to develop additional gold ore reserves at the SSGM.  Since it
+has the New SSGM and the Nueva Esparta Exploration Concession/License, it
+is exploring the La Lola Mine, the Tabanco Mine and the Santa Lucia Mine.
+39
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+                     S.E.C. FORM 10-Q/A - JUNE 30, 2004
+                 PART I - FINANCIAL INFORMATION (CONTINUED)
+The Company produced gold at the SSGM site from 1972-1978 and the Joint
+Venture produced gold from March 1995 through December 1999 at the SCMP
+through a start-up or preliminary operation, which was a forerunner of
+its greater goals.  The Company's revenues, profitability and cash flow
+are greatly influenced by the price of gold.  Gold prices fluctuate
+widely and are affected by numerous factors which will be beyond the
+Company's control, such as, expectations for inflation, the strength of
+the U.S. dollar, overproduction of gold, global and regional demand, acts
+of terrorism, or political and economic conditions, or for that matter,
+many other reasons.  The combined effect of these and other factors is
+difficult; perhaps impossible to predict.  Should the market price of
+gold fall below the Company's production costs and remain at such level
+for any sustained period, the Company could experience losses.
+The Company believes that neither it, nor any other competitor, has a
+material effect on the precious metal markets and that the price it will
+receive for its production is dependent upon world market conditions over
+which it has no control.
+RESULTS OF OPERATION FOR THE THREE-MONTH FISCAL PERIOD ENDED JUNE 30, 2004
+COMPARED TO THE PERIOD ENDED JUNE 30, 2003
+- ------------------------------------------------------------------------
+There are no revenues as the Company has suspended its gold production
+until it is able to procure the funds it requires to rehabilitate,
+retrofit, overhaul, and expand its SCMP and/or when it has funds to
+commence an open-pit, heap-leach operation at the SSGM site.  The price
+of gold has stabilized at a price level that could assure a profitable
+operation.  The Company recorded a net loss of $52,188 or $.00 cents
+per share for the first three months ended June 30, 2004. This compares
+to a net loss of $49,873 or $.00 cents per share for the fiscal period
+ended June 30, 2003.
+There was no current or deferred provision for income taxes during this
+fiscal period ended June 30, 2004 or 2003.  Additionally, even though the
+Company has an operating tax loss carryforward, the Company has
+previously recorded a net deferred tax asset due to an assessment of the
+"more likely than not" realization criteria required by the Statement of
+Financial Accounting Standards No. 109, Accounting for Taxes.
+Inflation did not have a material impact on operations in the fiscal
+periods ended June 30, 2004 or 2003.  The Company does not anticipate
+that inflation will have a material impact on continuing operations
+during this next fiscal year.
+Accrued interest expense in the sum of $392,413 was capitalized by the
+Joint Venture during this fiscal period compared to $334,584 which was
+capitalized for the same period in 2003, and it was eliminated by
+reducing the interest income earned from the Joint Venture.
+Almost all of the costs and expenses incurred by the Company are
+allocated and charged to the Joint Venture. The Joint Venture capitalizes
+these costs and expenses and will continue to do so until such time when
+it is in full production.  At the time production commences, these
+capitalized costs will be charged as an expense based on a per unit
+basis.  If the prospect of gold production becomes unlikely, all of these
+costs will be written off in the year that this occurs.
+40
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+                     S.E.C. FORM 10-Q/A - JUNE 30, 2004
+                 PART I - FINANCIAL INFORMATION (CONTINUED)
+FINANCING ACTIVITIES, LIQUIDITY AND CAPITAL RESOURCES
+- -----------------------------------------------------
+As of December 31, 1999 (effective March 31, 2000), the Joint Venture
+suspended its SCMP operations until such time as it has adequate funding
+to repair, retrofit, overhaul and expand the mill to process its gold
+ore, and at such time that the price of gold will stabilize at a higher
+price.  After almost five years of  24-hour-per-day operation with used
+equipment, the plant requires a major overhaul.  At that time the low
+price of gold did not provide an adequate cash reserve for these needs.
+Additional equipment has to be purchased, delivered and installed.
+The Company will endeavor to commence an open-pit, heap-leaching
+operation at the SSGM as there is a substantial amount of gold ore that
+grades less than 0.04 ounces per ton.  The Company's engineers had
+determined that a 2,000 ton-per-day open-pit, heap-leach, start-up
+operation may produce 1,280 ounces of gold per month. It is necessary to
+raise adequate funds from outside sources for this operation; the amount
+required is dependent on the targeted daily volume of production.
+41
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+                     S.E.C. FORM 10-Q/A - JUNE 30, 2004
+                 PART I - FINANCIAL INFORMATION (CONTINUED)
+The Company estimates that it will need up to U.S. $17 million to start
+a 2,000 ton-per-day open-pit, heap-leaching operation.  Eventually the
+production capacity would be increased in stages to 6,000 tons per day so
+that annual production could be 113,000 ounces of gold at the SSGM.  The
+use of the $17,000,000 proceeds is as follows: $8,250,000 for mining
+equipment and the completion of erecting a crushing system; $3,783,548
+for the processing equipment and site and infrastructure costs; and a sum
+of $4,966,452 is to be used for working capital.  The once depressed
+price of gold has substantially increased during the last two years.  The
+Company's current incredibly low common share market price is a  major
+deterrent in raising funds for the Company's needs.
+The Company continues to be cognizant of its cash liquidity until it is
+able to produce adequate profits from its SSGM gold production.   It will
+attempt to obtain sufficient funds to assist the Joint Venture in placing
+the SSGM into production as the anticipated profits from the existing
+SCMP operation (unless accumulated over a period of time) appear
+insufficient to meet the SSGM capital  and the other mining exploration
+requirements.  In order to continue obtaining funds to conduct the Joint
+Venture's exploration, exploitation, development, expansion programs, and
+the production of gold from the SSGM  open-pit, heap-leaching operation,
+it is  necessary for the Company to obtain funds from other sources.  In
+order for the Company to reach its goal of gold production, it may have
+to borrow funds by issuing open-ended, secured, on-demand or unsecured
+promissory notes, by selling its shares to its directors, officers and
+other interested accredited investors, or by entering into a joint
+venture, merging, or developing an acceptable form of a business
+combination with other companies.
+During the past,  the Joint Venture was engaged in  exploration,
+exploitation and development programs designed to increase its gold ore
+reserves.  The prospects of expanding the gold reserves with the recent
+acquired concession/license are extremely positive.  The Company believes
+that the past invested funds significantly contributed to the value of
+the SSGM and  to the value of its other mining prospects as the results
+of the exploratory efforts evidence the potential for a substantial
+increase of gold ore reserves.  The Company was unable to obtain
+sufficient funds during this fiscal period to complete the modification
+and expansion of the SCMP or for its open-pit, heap-leach operation.
+However, the Company did invest funds during this fiscal period which
+were used for a limited exploration program to progress the erection of
+the cone crushing system, and to maintain the SCMP.
+The Company continues to rely on its directors, officers, related parties
+and others for its funding needs.  The Company believes that it may be
+able to obtain such short-term and/or equity funds as are required from
+similar sources as it has in the past.   It further believes that the
+funding needed to proceed with the continued exploration of the other
+exploration targets for the purpose of increasing its gold ore reserves
+42
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+                     S.E.C. FORM 10-Q/A - JUNE 30, 2004
+                 PART I - FINANCIAL INFORMATION (CONTINUED)
+will be greatly enhanced if the price of gold continues to increase.
+These exploration programs will involve airborne geophysics, stream
+chemistry, geological mapping, trenching, drilling, etc.  The Joint
+Venture believes that it may be able to joint venture or enter into other
+business arrangements to share these exploration costs with other
+entities.
+From September 1987 through June 30, 2004, the Company has advanced the
+sum of $45,338,278 to the Joint Venture (which includes interest charges
+payable to the Company), and three of the Company's subsidiaries have
+advanced the sum of $590,265, for a total of $45,928,543.  This
+investment includes the charge of $28,090,512 for interest expense during
+this period of time.  The funds invested in the Joint Venture were used
+primarily for the exploration, exploitation, and development of the SSGM,
+for the construction of the Joint Venture laboratory facilities on real
+estate owned by the Company near the SSGM site, for the operation of the
+laboratory, for the purchase of a 200-ton per day used SCMP precious
+metals' cyanide leaching mill and plant,  for the initial retrofitting,
+repair, modernization and expansion of its SCMP facilities, for
+consumable inventory, for working capital, for exploration and holding
+costs of the San Felipe-El Potosi Mine, the Modesto Mine, the Hormiguero
+Mine, and the Montemayor Mine, for SSGM infrastructure, including
+rewiring, repairing and installation of about two miles of the Company's
+electric power lines to provide electrical service, for the purchase of
+equipment, laboratory chemicals, and supplies, for parts and supply
+inventory, for the maintenance of the Company-owned dam and reservoir,
+for extensive road extension and preservation,  for its participation in
+the construction of a community bridge, for community telephone building
+and facilities, for a community place of worship, for the purchase of the
+real estate on the Modesto Mine, for leasing the Montemayor real estate,
+for the purchase and erection of a cone crushing system, for diamond
+drilling at the SSGM, for the purchase of a rod mill and a carbon
+regeneration system, for holding and standby maintenance costs, for the
+acquisition of the three concession/licenses, and all other related
+needs.
+ACCOUNTING POLICIES AND ESTIMATES
+- ---------------------------------
+The ensuing discussion and analysis of financial condition and results of
+operations are based on the Company's consolidated financial statements,
+prepared in accordance with accounting principles generally accepted in the
+United States of America and contained within this report on S.E.C.  Form
+10-Q/A.  Certain amounts included in or affecting the Company's financial
+statements and related disclosures must be estimated, requiring that certain
+assumptions be made with respect to values or conditions which cannot be made
+with certainty at the time the financial statements are prepared.  Therefore,
+the reported amounts of the Company's assets and liabilities, revenues and
+expenses, and associated disclosures with respect to contingent assets and
+obligations are necessarily affected by these estimates.  The more significant
+areas requiring the use of management estimates and assumptions relate to
+mineral reserves that are the basis for future cash flow estimates and
+units-of-production amortization determination; recoverability and timing of
+43
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+                   S.E.C. FORM 10-Q/A - JUNE 30, 2004
+               PART I - FINANCIAL INFORMATION (CONTINUED)
+gold production from the heap-leaching process; environmental, reclamation and
+closure obligations; asset impairments (including estimates of future cash
+flows); useful lives and residual values of intangible assets; fair value of
+financial instruments; valuation allowances for deferred tax assets; and
+contingencies and litigation.  The Company bases its estimates on historical
+experience and on various other assumptions that are believed to be reasonable
+under the circumstances.  Actual results may differ from these estimates under
+different assumptions or conditions.
+The Company adopted Statement of Financial Accounting Standards No. 128
+(SFAS128), Earnings per Share in prior years.  SFAS128's objective is to
+simplify the computation of earnings per share (EPS) and to make the U.S.
+standard more compatible with that of other countries and the
+International Accounting Standards Committee.  SFAS128 supersedes APB
+Opinion 15, replacing the presentation of "primary" and "fully diluted"
+EPS with "basic" and "diluted" EPS.  Reference is made to earnings (loss) per
+share in the financial statements for details.
+The financial statements for the quarterly periods ended June 30,
+2004 and 2003 and prior years reflect and include Commerce Group Corp.'s
+subsidiaries and the Commerce Group Corp./Sanseb Joint Venture (Joint
+Venture) on a consolidated basis.  Prior to the fiscal year ended March
+31, 1997,  the Company reported the investment in the Joint Venture as
+advances to the Joint Venture and the Company's advances included the
+interest earned on these advances in anticipation of the interest being
+reimbursed.  Now these advances are restated and combined with the
+Company's Consolidated Financial Statements.  Although the elimination of
+interest income reduces the retained earnings, it does not eliminate the
+interest charged by and earned by the Company which is due and payable to
+it and which is maintained additionally with a separate accounting.  At
+such time when the profits from the gold mining operation are
+distributed, the interest earned on these advances will be paid first to
+the Company pursuant to an agreement entered into by the joint venture
+parties.
+EMPLOYEES
+- ---------
+As of June 30, 2004, the Joint Venture employed between 40 and 50
+full-time persons in El Salvador to perform its limited exploration,
+exploitation, and development programs; to erect the cone crushing
+system, to provide 24-hour seven-day-a-week security at three different
+sites; to provide engineering, geology, drafting, and computer-related
+services;  and to handle the administration of its activities. None of
+these employees are covered by any collective bargaining agreements.  It
+has developed a harmonious relationship with its employees, and it
+believes that in the past, it was one of the largest single
+non-agricultural employers in the El Salvador Eastern Zone.   Also, the
+Company employs up to four persons, including part-time help, in the
+United States.   Since the Joint Venture has laid off most of its
+employees, the Joint Venture had to pay the severance pay and other
+benefits to its employees and therefore it had to sell and continues to
+sell the Company's common shares which were issued to the Commerce Group
+Corp. Employee Benefit Account.  El Salvador employees are entitled to
+receive severance pay, which is based on one month's pay for each year of
+employment.
+44
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+                     S.E.C. FORM 10-Q/A - JUNE 30, 2004
+                 PART I - FINANCIAL INFORMATION (CONTINUED)
+RELATED PARTY LOANS, OBLIGATIONS AND TRANSACTIONS
+- -------------------------------------------------
+The related party transactions are included in detail in the Notes to the
+Consolidated Financial Statements.
+COMPANY ADVANCES TO THE JOINT VENTURE
+- -------------------------------------
+Since September 1987 through June 30, 2004, the Company, and three of its
+subsidiaries, have advanced to the Joint Venture $45,928,543.  Included
+in the total advances is the interest charged to the Joint Venture by the
+Company which amounts to $28,090,512 through June 30, 2004.  The Company
+furnishes all of the funds required by the Joint Venture.  This interest
+expense charge has been eliminated from these financial statements.
+EFFORTS TO OBTAIN CAPITAL
+- -------------------------
+Since the concessions were granted, and through the present time,
+substantial effort is exercised by the Directors and Officers in
+attempting to secure funding through various sources, all with the
+purpose to refurbish and expand the operations of the SCMP, to construct
+an open-pit heap-leach operation at the SSGM site, and to continue the
+exploration of its other mining prospects.
+The Company, Sanseb, and the Joint Venture consider the past political
+situation in the Republic of El Salvador to have been unstable, and
+believe that the final peace declaration on December 16, 1992, has put an
+end to the conflict.  Even though many years have passed, the stigma of
+the past unfavorable political status in the Republic of El Salvador
+exists and therefore certain investors continue to be apprehensive to
+invest the funds required.  However, as explained in this report, the
+Company was able to obtain a sum of funds to invest in the expansion and
+retrofitting of its SCMP and for the exploration of its other mining
+prospects.  The decline in the Company's stock market price places the
+Company in a situation of substantially diluting its common shares if it
+wants to raise equity capital via the sale of its shares.  The Company
+believes that it will be able to obtain adequate financing to conduct its
+operations from the same sources as in the past.  There are no assurances
+that funds will be available, except at this time, there is a greater
+world-wide interest in the ownership of gold.  The price of gold has
+increased substantially during this past fiscal year which should
+encourage investors to invest in gold mining companies.
+ENVIRONMENTAL REGULATIONS
+- -------------------------
+The Company's operations are subject to environmental laws and
+regulations adopted by various governmental authorities in the
+jurisdictions in which the Company operates.  Accordingly, the Company
+has adopted policies, practices and procedures in the areas of pollution
+control, product safety, occupational health and the production,
+handling, storage,  use and disposal of hazardous materials to prevent
+material environmental or other damage, and to limit the financial
+liability which could result from such events.  However, some risk of
+environmental or other damage is inherent in the business of the Company,
+as it is with other companies engaged in similar businesses.
+45
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+                     S.E.C. FORM 10-Q/A - JUNE 30, 2004
+                 PART I - FINANCIAL INFORMATION (CONTINUED)
+The DHM requires environmental permits to be issued in connection with
+the application of the Renewed SSGM.  The issuance of these permits are
+under the jurisdiction of the El Salvador Ministry of Environment and
+Natural Resources Office (MARN).  On October 15, 2002, MARN issued an
+environmental permit under Resolution 474-2002 for the SCMP.  On October
+20, 2002, MARN issued an environmental permit under Resolution 493-2002
+for the Renewed SSGM Exploitation area.
+GUARANTEES
+- ----------
+The Company has provided the Government of El Salvador with the following
+guarantees on September 27, 2002: three-year guarantees were issued by the
+Banco Agricola, S.C. on behalf of the Company to the Ministry of Environment
+and Natural Resources; Guarantee No. 1901-0000059-8 was issued for the San
+Cristobal Mill and Plant in the sum of $771.49; and Guarantee No.
+1901-0000069-7 was issued for the Renewed SSGM in the sum of $14,428.68.
+On July 10, 2003 a one-year third party liability guarantee in the sum of
+$42,875.14 expiring July 10, 2004 was issued by Compania Anglo Salvadorena de
+Seguros, S.A. on behalf of the Company to the Ministry of Economy's Office of
+the Department of Hydrocarbons and Mines.
+DIVIDENDS
+- ---------
+For the foreseeable future, it is anticipated that the Company will use
+all of its earnings to finance its growth and expansion, therefore,
+dividends will not be paid to shareholders.
+IMPACT OF INFLATION
+- -------------------
+The impact of inflation on the Company has not been significant in recent
+years because of the relatively low rates of inflation and deflation
+experienced in the United States.
+RECENTLY ISSUED ACCOUNTING DEVELOPMENTS
+- ---------------------------------------
+Reference is made to Note 4 in the financial statements included with
+this report.
+ITEM 3.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+- -------------------------------------------------------------------
+COMMODITY PRICES
+- ----------------
+When in production, the Company's earnings and cash flow will be
+significantly impacted by changes in the market price of gold.  Gold
+prices can fluctuate widely and are affected by numerous factors, such as
+demand, production levels, economic policies of central banks, producer
+hedging, and the strength of the U.S. dollar relative to other
+currencies.  During the last five years, the average annual market price
+of gold has fluctuated between $270 per ounce and $375 per ounce.  The
+Company has not been engaged in any hedging contracts whatsoever.
+46
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+                     S.E.C. FORM 10-Q/A - JUNE 30, 2004
+                 PART I - FINANCIAL INFORMATION (CONTINUED)
+DEBT OWED TO RELATED PARTIES
+- ----------------------------
+As of June 30, 2004, the Company's debt secured and payable to related
+parties was $9,851,488 and to others $252,963, compared to June 30, 2003,
+when the Company's debt payable to related parties was $8,423,537 and to
+others $231,307.  All of the debt is subject to interest at a rate of two
+to four percent over the prime rate, but not less than sixteen percent,
+payable monthly and as more fully described in the financial statements.
+FOREIGN CURRENCY
+- ----------------
+The Company conducts the majority of its operations in the Republic of El
+Salvador, Central America.  Currently, El Salvador is on the U.S. dollar
+system, and therefore all receipts and expenditures since January 1, 2001
+are in U.S. dollars.
+ITEM 4.  CONTROLS AND PROCEDURES
+- --------------------------------
+Evaluation of Disclosure Controls and Procedures
+The Company maintains a system of disclosure controls and procedures.
+The term "disclosure controls and procedures," as defined by regulations
+of the Securities and Exchange Commission ("SEC"), means controls and
+other procedures that are designed to ensure that information required to
+be disclosed in the reports that the Company files or submits to the SEC
+under the Securities Exchange Act of 1934, as amended (the "Act"), is
+recorded, processed, summarized and reported, within the time periods
+specified in the SEC's rules and forms.  Disclosure controls and
+procedures include, without limitation, controls and procedures designed
+to ensure that information required to be disclosed by the Company in the
+reports that it files or submits to the SEC under the Act is accumulated
+and communicated to the Company's management, including its principal
+executive officer and its principal financial officer, as appropriate to
+allow timely decisions to be made regarding required disclosure.  The
+Company's Chief Executive Officer and Chief Financial Officer have
+evaluated the Company's disclosure controls and procedures as of the end
+of the period covered by this Annual Report on Form 10-K and have
+concluded that the Company's disclosure controls and procedures are
+effective as of the date of such evaluation.
+Changes in Internal Control Over Financial Reporting
+The Company also maintains a system of internal controls.  The term
+"internal controls," as defined by the American Institute of Certified
+Public Accountants' Codification of Statement on Auditing Standards, AU
+Section 319, means controls and other procedures designed to provide
+reasonable assurance regarding the achievement of objectives in the
+reliability of the Company's financial reporting, the effectiveness and
+efficiency of the Company's operations and the Company's compliance with
+applicable laws and regulations.  There have been no changes in the
+Company's internal controls or in other factors during this first fiscal
+quarter that could significantly affect the Company's internal control
+over financial reporting.
+47
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+                     S.E.C. FORM 10-Q/A - JUNE 30, 2004
+                 PART I - FINANCIAL INFORMATION (CONTINUED)
+ITEM 5.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE
+- ------------------------------------------------------------------------
+SUBSEQUENT EVENT
+The financial statements included in this report were reviewed as required
+under Section 102 of the Sarbanes-Oxley Act of 2002 by an independent public
+accounting firm that is registered with the Public Company Accounting
+Oversight Board (PCAOB).  The purpose for filing this SEC Form 10-Q/A is
+because the Company's previous independent public accountant was not
+registered with the PCAOB prior to October 22, 2003.  Reference is made to the
+Company's Form 8-Ks filed on January 21, 2005 and May 6, 2005.
+There has been a change in the Company's certified public accountant which
+resulted from the previous certified public accountant who audited and
+certified the Company's March 31, 2004 financial statements not being
+registered with the Public Company Accounting Oversight Board (PCAOB) as is
+required by Section 102 of the Sarbanes-Oxley Act of 2002.  Therefore, the
+financial statements for the Company's fiscal year ended March 31, 2004 were
+regarded as being incomplete.  In order to correct the deficiency the Company
+on January 18, 2005 engaged a certified public accountant from Las Vegas,
+Nevada.  The Company on January 21, 2005 filed an 8-K notifying that the
+previous accountant resigned and that the Company engaged its new independent
+accountant.  The March 31, 2004 audit report prepared by the previous
+accountant did not contain an adverse opinion or was qualified or modified as
+to uncertainty audit scope or accounting principles.  There were no
+disagreements with the previous accountant on any matter of accounting
+principles or practices, financial statement disclosure or auditing scope or
+procedure.
+After a lapse of time and upon preliminary review of the Company's financial
+records the new Las Vegas accountant explained that his firm did not have the
+capacity and time to audit the Company's financial statements within the due
+date time frame.  This CPA firm referred the Company to Chisholm, Bierwolf &
+Nilson, LLC, Certified Public Accountants.  on May 6, 2005, the Company filed
+with the U.S. Securities and Exchange Commission a Form 8-K explaining that on
+May 2, 2005 it engaged the accounting firm of Chisholm, Bierwolf & Nilson, LLC
+as independent certified accountants and simultaneously accepted the
+resignation of the Las Vegas accounting firm.  For more details, reference is
+made to the SEC Form 8-Ks filed on January 21, 2005 and May 6, 2005.
+CAUTIONARY STATEMENT FOR PURPOSES OF THE "SAFE HARBOR" PROVISIONS OF THE
+PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995
+- ------------------------------------------------------------------------
+Some of the statements contained in this report are forward-looking
+unaudited statements, such as estimates and statements that describe the
+Company's future plans, objectives or goals, including words to the
+effect that the Company or management expects a stated condition or
+result to occur.  Since forward-looking statements address future events
+and conditions, by their very nature, they involve inherent risks and
+uncertainties.  Actual results in each case could differ materially from
+those currently anticipated in such statements by reason of factors such
+as production at the Company's mines, changes in operating costs, changes
+in general economic conditions and conditions in the financial markets,
+changes in demand and prices for the products the Company produces,
+litigation, legislative, environmental and other judicial, regulatory,
+political and competitive developments in areas in which the Company
+operates and technological and operational difficulties encountered in
+connection with mining.  Many of these factors are beyond the Company's
+ability to control or predict.  The Company disclaims any intent or
+obligation to update its forward-looking statements, whether as a result
+of receiving new information, the occurrence of future events, or
+otherwise.
+48
+<PAGE>
+COMMERCE GROUP CORP., ITS SUBSIDIARIES, AND THE JOINT VENTURE
+                      S.E.C. FORM 10-Q - JUNE 30, 2004
+                         PART II - OTHER INFORMATION
+Item 1.    Legal Proceedings
+None pending.
+Item 2.    Changes in Securities
+Reference is made to the financial statements which explain
+           the number of common shares and stock options issued during
+           this three-month period ended June 30, 2004.
+Item 3.    Default Upon Senior Securities
+None.
+Item 4.    Submission of Matters to a Vote of Security Holders
+None, except the routine business matters included in the
+           proxy statement to be submitted to the shareholders of record
+           as of August 18, 2004 relating to an annual meeting of
+           shareholders to be held on October 15, 2004.  Reference is
+           made to the proxy statement filed with the Securities and
+           Exchange Commission on July 26, 2004 for disclosure of the
+           details.
+Item 5.    Other Information
+The financial statements included in this report were reviewed
+           as required under Section 102 of the Sarbanes-Oxley Act of
+           2002 by an independent public accounting firm that is
+           registered with the Public Company Accounting Oversight Board
+           (PCAOB).  The purpose for filing this SEC Form 10-Q/A is
+           because the Company's           previous independent public
+           accountant was not registered with the         PCAOB prior to
+           October 22, 2003.  Reference is made to the Company's Form
+           8-Ks filed on January 21, 2005 and May 6, 2005.  Also,
+reference is made to Part I, Item 5. Changes in and
+           Disagreements with Accountants on Accounting and Financial
+           Disclosure.
+49
+<PAGE>
+Item 6(a). Exhibits and Reports on Form 8-K
+(a)  Exhibits
+Exhibit No.     Description of Exhibit
+                -----------     -----------------------
+                   31.1*        Certification of President, Treasurer,
+                                Chief Executive, Operating and Financial
+                                Officer pursuant to Section 302 of the
+                                Sarbanes-Oxley Act of 2002
+31.2*        Certification of Executive Vice President
+                                and Secretary pursuant to Section 302 of
+                                the Sarbanes-Oxley Act of 2002
+32.1*        Certification of President, Treasurer,
+                                Chief Executive, Operating and Financial
+                                Officer pursuant to 18 U.S.C. Section
+                                1350 as adopted pursuant to Section 906
+                                of the Sarbanes-Oxley Act of 2002
+32.2*        Certification of the Executive Vice
+                                President and Secretary pursuant to 18
+                                U.S.C. Section 1350 as adopted pursuant
+                                to Section 906 of the Sarbanes-Oxley Act
+                                of 2002
+*Filed herewith
+(b)  Reports on Form 8-K
+On June 14, 2004 a Form 8-K was filed with the Securities and
+           Exchange Commission to report that the Company was granted two
+           additional concessions/licenses from the El Salvador
+           Government.
+50
+<PAGE>
+SIGNATURE
+                                ---------
+Pursuant to the requirements of the Securities and Exchange Act of 1934,
+the Registrant/Company has duly caused this report to be signed on its
+behalf by the undersigned thereunto duly authorized.
+COMMERCE GROUP CORP.
+                                Registrant/Company
+/s/ Edward L. Machulak
+Date:  October 21, 2005         ______________________________________
+                                Edward L. Machulak
+                                President, Chief Executive, Operating and
+                                Financial Officer and Treasurer
+51
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31
+<SEQUENCE>2
+<FILENAME>ex311604.txt
+<DESCRIPTION>EXHIBIT 31.1 - CERT. OF CEO (SECTION 302)
+<TEXT>
+                            EXHIBIT 31.1
+CERTIFICATION OF CHIEF EXECUTIVE, OPERATING AND FINANCIAL OFFICER
+PURSUANT TO RULE 13(a)-14(a)/15d-14(a) OF THE SECURITIES EXCHANGE ACT OF
+1934, AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF
+2002
+I, Edward L. Machulak, certify that:
+1.   I have reviewed this quarterly report on Form 10-Q of Commerce Group
+     Corp.;
+2.   Based on my knowledge, this report does not contain any untrue
+     statement of a material fact or omit to state a material fact
+     necessary to make the statements made, in light of the circumstances
+     under which such statements were made, not misleading with respect
+     to the period covered by this report;
+3.   Based on my knowledge, the financial statements, and other financial
+     information included in this report, fairly present in all material
+     respects the financial condition, results of operations and cash
+     flows of the registrant as of, and for, the period presented in this
+     report;
+4.   The registrant's other certifying officer(s) and I are responsible
+     for establishing and maintaining disclosure controls and procedures
+     (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and
+     internal control over financial reporting (as defined in Exchange
+     Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:
+a)  designed such disclosure controls and procedures, or caused such
+         disclosure controls and procedures to be designed under our
+         supervision, to ensure that material information relating to the
+         registrant, including its consolidated subsidiaries, is made
+         known to us by others within those entities, particularly during
+         the period in which this report is being prepared;
+b)  designed such internal control over financial reporting, or
+         caused such internal control over financial reporting to be
+         designed under our supervision, to provide reasonable assurance
+         regarding the reliability of financial reporting and the
+         preparation of financial statements for external purposes in
+         accordance with generally accepted accounting principles;
+c)  evaluated the effectiveness of the registrant's disclosure
+         controls and procedures and presented in this report our
+         conclusions about the effectiveness of the disclosure controls
+         and procedures, as of the end of the period covered by this
+         report based on such evaluation; and
+d)  disclosed in this report any change in the registrant's internal
+         control over financial reporting that occurred during the
+         registrant's most recent fiscal quarter that has materially
+         affected, or is reasonably likely to materially affect, the
+         registrant's internal control over financial reporting; and
+5.   The registrant's other certifying officer(s) and I have disclosed,
+     based on our most recent evaluation of internal control over
+     financial reporting, to the registrant's auditors and the audit
+     committee of the registrant's board of directors (or persons
+     performing the equivalent functions):
+a)  all significant deficiencies and material weaknesses in the
+         design or operation of internal control over financial reporting
+         which are reasonably likely to adversely affect the registrant's
+         ability to record, process, summarize and report financial
+         information; and
+b)   any fraud, whether or not material, that involves management or
+         other employees who have a significant role in the registrant's
+         internal control over financial reporting.
+Date:  October 21, 2005          /s/ Edward L. Machulak
+                                 -----------------------------------
+                                 Edward L. Machulak
+                                 Chairman, President, Treasurer,
+                                 Chief Executive, Operating and
+                                 Financial Officer
+52
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31
+<SEQUENCE>3
+<FILENAME>ex312604.txt
+<DESCRIPTION>EXHIBIT 31.2 - CERT. OF EXEC. V.P./SEC. (SECTION 302)
+<TEXT>
+                              EXHIBIT 31.2
+CERTIFICATION OF EXECUTIVE VICE PRESIDENT AND SECRETARY PURSUANT TO RULE
+13(a)-14(a)/15d-14(a) OF THE SECURITIES EXCHANGE ACT OF 1934, AS ADOPTED
+PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+I, Edward A. Machulak, certify that:
+1.   I have reviewed this quarterly report on Form 10-Q of Commerce Group
+     Corp.;
+2.   Based on my knowledge, this report does not contain any untrue
+     statement of a material fact or omit to state a material fact
+     necessary to make the statements made, in light of the circumstances
+     under which such statements were made, not misleading with respect
+     to the period covered by this report;
+3.   Based on my knowledge, the financial statements, and other financial
+     information included in this report, fairly present in all material
+     respects the financial condition, results of operations and cash
+     flows of the registrant as of, and for, the period presented in this
+     report;
+4.   The registrant's other certifying officer(s) and I are responsible
+     for establishing and maintaining disclosure controls and procedures
+     (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and
+     internal control over financial reporting (as defined in Exchange
+     Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:
+a)  designed such disclosure controls and procedures, or caused such
+         disclosure controls and procedures to be designed under our
+         supervision, to ensure that material information relating to the
+registrant, including its consolidated subsidiaries, is made
+         known to us by others within those entities, particularly during
+         the period in which this report is being prepared;
+b)  designed such internal control over financial reporting, or
+         caused such internal control over financial reporting to be
+         designed under our supervision, to provide reasonable assurance
+         regarding the reliability of financial reporting and the
+         preparation of financial statements for external purposes in
+         accordance with generally accepted accounting principles;
+c)  evaluated the effectiveness of the registrant's disclosure
+         controls and procedures and presented in this report our
+         conclusions about the effectiveness of the disclosure controls
+         and procedures, as of the end of the period covered by this
+         report based on such evaluation; and
+d)  disclosed in this report any change in the registrant's internal
+         control over financial reporting that occurred during the
+         registrant's most recent fiscal quarter that has materially
+         affected, or is reasonably likely to materially affect, the
+         registrant's internal control over financial reporting; and
+5.   The registrant's other certifying officer(s) and I have disclosed,
+     based on our most recent evaluation of internal control over
+     financial reporting, to the registrant's auditors and the audit
+     committee of the registrant's board of directors (or persons
+     performing the equivalent functions):
+a)  all significant deficiencies and material weaknesses in the
+         design or operation of internal control over financial reporting
+         which are reasonably likely to adversely affect the registrant's
+         ability to record, process, summarize and report financial
+         information; and
+b)  any fraud, whether or not material, that involves management or
+         other employees who have a significant role in the registrant's
+         internal control over financial reporting.
+Date:  October 21, 2005              /s/ Edward A. Machulak
+                                     ---------------------------
+                                     Edward A. Machulak
+                                     Executive Vice President,
+                                     and Secretary
+53
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-32
+<SEQUENCE>4
+<FILENAME>ex321604.txt
+<DESCRIPTION>EXHIBIT 32.1 - CERT. OF CEO (SECTION 906)
+<TEXT>
+                                EXHIBIT 32.1
+CERTIFICATION OF CHIEF EXECUTIVE, OPERATING AND FINANCIAL OFFICER
+PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF
+THE SARBANES-OXLEY ACT OF 2002
+The certification set forth below is being submitted in connection with
+the Quarterly Report of Commerce Group Corp. (the "Company") on Form 10-Q
+for the first quarterly period ending June 30, 2004 (the "Report") for
+the purpose of complying with Rule 13a-14(b) of the Securities Exchange
+Act of 1934 (the "Exchange Act") and Section 1350 of Chapter 63 of Title
+18 of the United States Code.
+I, Edward L. Machulak, Chairman, President, Treasurer, Chief Executive,
+Operating and Financial Officer of Commerce Group Corp., (the "Company"),
+hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant
+to Section 906 of the Sarbanes-Oxley Act of 2002, that:
+1.   the Form 10-Q of the Company for the first quarterly period ended
+     June 30, 2004, (the "Form 10-Q"), fully complies with the
+     requirements of Section 13(a) or 15(d) of the Securities Exchange
+     Act of 1934; and
+2.   the information contained in the Form 10-Q fairly presents, in all
+     material respects, the financial condition and results of operations
+     of the Company.
+Date:  October 21, 2005                /s/ Edward L. Machulak
+                                       -----------------------------
+                                       Edward L. Machulak
+                                       Chairman, President, Treasurer,
+                                       Chief Executive, Operating and
+                                       Financial Officer
+54
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-32
+<SEQUENCE>5
+<FILENAME>ex322604.txt
+<DESCRIPTION>EXHIBIT 32.2 - CERT. OF EXEC. V.P./SEC. (SECTION 906)
+<TEXT>
+                                 EXHIBIT 32.2
+CERTIFICATION OF EXECUTIVE VICE PRESIDENT AND SECRETARY PURSUANT TO 18
+U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE
+SARBANES-OXLEY ACT OF 2002
+The certification set forth below is being submitted in connection with
+the Quarterly Report of Commerce Group Corp. (the "Company") on Form 10-Q
+for the first quarterly period ending June 30, 2004 (the "Report") for
+the purpose of complying with Rule 13a-14(b) of the Securities Exchange
+Act of 1934 (the "Exchange Act") and Section 1350 of Chapter 63 of Title
+18 of the United States Code.
+I, Edward A. Machulak, Executive Vice President and Secretary of Commerce
+Group Corp., (the "Company"), hereby certify, pursuant to 18 U.S.C.
+Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002, that:
+1.   the Form 10-Q of the Company for the first quarterly period ended
+     June 30, 2004, (the "Form 10-Q"), fully complies with the
+     requirements of Section 13(a) or 15(d) of the Securities Exchange
+     Act of 1934; and
+2.   the information contained in the Form 10-Q fairly presents, in all
+     material respects, the financial condition and results of operations
+     of the Company.
+Date:  October 21, 2005             /s/ Edward A. Machulak
+                                    ------------------------------
+                                    Edward A. Machulak
+Executive Vice President,
+                                    and Secretary
+55
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

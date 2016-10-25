@@ -1,0 +1,792 @@
+
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Kni3DwKF7CV3MLRIlGBCRKc3uE0qzBDZl/fvGmL71s63bKc+eswpQ/Z7eCSKWF+e
+ KecGQxybl63ibmRvBeB6ow==
+<SEC-DOCUMENT>0000887396-05-000013.txt : 20051220
+<SEC-HEADER>0000887396-05-000013.hdr.sgml : 20051220
+<ACCEPTANCE-DATETIME>20051220165050
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+10QSB
+1
+20050930
+0000887396-05-000013
+20051220
+20051220
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION:  [9995]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+731238709
+1231
+DE
+EMPIRE PETROLEUM CORP
+0000887396
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 001-16653
+FILM NUMBER:
+10QSB
+1934 Act
+051276033
+BUSINESS ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+15 E 5TH STREET
+SUITE 4000
+TULSA
+OK
+74103
+918-587-8093
+MAIL ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+FORMER COMPANY:
+15 E 5TH STREET
+SUITE 4000
+TULSA
+OK
+74103
+FORMER CONFORMED NAME: AMERICOMM RESOURCES CORP
+DATE OF NAME CHANGE:
+19951115
+FORMER COMPANY:
+FORMER CONFORMED NAME: AMERICOMM CORP
+DATE OF NAME CHANGE:
+19930328
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10QSB
+<SEQUENCE>1
+<FILENAME>r10qsb-905.txt
+<TEXT>
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+Form 10-QSB
+(Mark One)
+[X] Quarterly Report Under Section 13 OR 15(d) of the Securities
+    Exchange Act of 1934
+For the quarterly period ended September 30, 2005
+[ ] Transition Report Under Section 13 or 15(d) of the Exchange Act
+For the transition period from _______________to________________
+Commission file number 001-16653
+EMPIRE PETROLEUM CORPORATION
+(Exact name of small business issuer as specified in its charter)
+DELAWARE                              73-1238709
+(State or other jurisdiction of              (I.R.S. Employer
+ incorporation or organization)               Identification No.)
+8801 S. Yale, Suite 120, Tulsa, Oklahoma  74137-3575
+                 (Address of principal executive offices)
+(918) 488-8068
+                       (Issuer's telephone number)
+(Former name, former address and former fiscal year, if changed since last
+report)
+Check whether the issuer (1) filed all reports required to be filed by
+Section 13 or 15(d) of the Exchange Act during the past 12 months (or for
+such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days.
+           [X]  Yes        [  ] No
+State the number of shares outstanding of each of the issuer's classes of
+common equity, as of the latest practicable date:
+Common Stock, $.001 Par Value - 42,830,190 shares outstanding as of
+September 30, 2005.
+Transitional Small Business Disclosure Format: [ ] Yes [X] No
+EMPIRE PETROLEUM CORPORATION
+INDEX TO FORM 10-QSB
+Part I. FINANCIAL INFORMATION                               Page
+Item 1. Financial Statements
+Balance Sheet at September 30, 2005 (Unaudited)                1
+Statements of Operations for the three months and
+    nine months ended September 30, 2005 and 2004 (Unaudited)  2
+Statements of Cash Flows for the nine months ended
+    September 30, 2005 and 2004 (Unaudited)                    3
+Notes to Financial Statements                                4-8
+Item 2. Management's Discussion and Analysis                8-11
+Item 3. Controls and Procedures                            11-12
+Part II. OTHER INFORMATION
+Item 6. Exhibits and Reports on Form 8-K                      12
+Signatures                                                    12
+PART I.  FINANCIAL INFORMATION
+Item 1.  FINANCIAL STATEMENTS
+EMPIRE PETROLEUM CORPORATION
+BALANCE SHEET
+September 30
+2005
+ASSETS                                                    (Unaudited)
+                                                         ___________
+Current assets:
+  Cash                                                   $   406,665
+  Accounts receivable (net of allowance of $3,750)           105,141
+                                             ___________
+Total current assets                                         511,806
+Property & equipment, net of accumulated
+  depreciation and depletion                                 527,109
+                                                         ___________
+Total Assets             
+                                                         ___________
+$ 1,038,915
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+  Accounts payable and accrued
+    liabilities                                          $   139,388
+  Accounts payable to related party                          274,682
+  Note payable                                                97,496
+                                                         ___________
+Total current liabilities                                    511,566
+                                                         ___________
+Total liabilities                                            511,566
+                                                         ___________
+Stockholders' equity:
+  Common stock at par value                                   42,830
+  Warrants to purchase common stock                           67,875
+  Additional paid in capital                               8,882,760
+  Accumulated deficit                                     (8,466,116)
+                                                         ___________
+Total stockholders' equity                                   527,349
+                                                         ___________
+Total liabilities and stockholder's equity               $ 1,038,915
+                                                         ___________
+See accompanying notes to financial statements.
+-1-
+EMPIRE PETROLEUM CORPORATION
+STATEMENTS OF OPERATIONS
+(Unaudited)
+Three Months Ended           Nine Months Ended
+September 30,               September 30,
+                         ____________________________   ________________________
+2005          2004            2005        2004
+                                            Restated                    Restated
+                         _____________  _____________   ____________  __________
+Revenue:
+  Petroleum sales        $      41,757   $    19,674    $    116,115  $   55,778
+                         _____________  _____________   ____________  __________
+                                41,757        19,674         116,115      55,778
+                         _____________  _____________   ____________  __________
+Costs and expenses:
+  Production & operating        49,353        32,898         68,282      72,679
+  General & administrative      32,759        37,919        114,981     117,124
+  Reversal of accrued lease
+     Obligation                      0             0       (222,561)          0
+                          ____________  _____________  ____________  __________
+                                82,112        70,817        (39,298)    189,803
+                          ____________  _____________  ____________  __________
+  Operating income (loss)      (40,355)      (51,143)       155,413    (134,025)
+                          ____________  _____________  ____________  __________
+Other (income) and expense:
+  Miscellaneous                      0        11,918         (4,401)      3,920
+  Interest expense               1,725         1,725          5,175       5,175
+                          ____________  _____________  ____________  __________
+Total other expense              1,725        13,643            774       9,095
+                          ____________  _____________  ____________  __________
+Net income (loss)         $    (42,080)  $   (64,786)  $    154,639  $ (143,120)
+                          ____________  _____________  ____________  __________
+Net income (loss)
+  per common share        $        .00   $        .00 $        .00  $      .00
+                          ____________  _____________  ____________  __________
+Weighted average number of
+  common shares
+  outstanding               42,830,190     37,830,190   39,980,925   37,830,190
+                          ____________  _____________  ____________  __________
+See accompanying notes to financial statements.
+-2-
+EMPIRE PETROLEUM CORPORATION
+STATEMENTS OF CASH FLOWS
+(UNAUDITED)
+Nine Months Ended
+September 30, September 30,
+                                                   2005          2004
+                                                             Restated
+_________     _________
+Cash flows from operating activities:
+  Net income (loss)                           $ 154,639     $(143,120)
+Adjustments to reconcile net income (loss)
+  to net cash used in operating activities:
+Value of services contributed by employees     37,500        37,500
+  Reversal of accrued lease obligation         (222,561)            0
+(Increase) decrease in assets:
+  Accounts receivable                           (95,932)       15,145
+  Prepaid expenses                                    0         2,651
+Increase (decrease) in liabilities:
+  Accounts payable and accrued expenses         (30,577)        2,266
+                                               ________      ________
+Net cash used in operating activities          (156,931)      (85,558)
+                                               ________      ________
+Cash flows from financing activities:
+Advances from related party                    60,190        63,987
+  Proceeds from private equity placement        500,000             0
+                                               ________      ________
+Net cash provided by financing activities       560,190        63,987
+                                               ________      ________
+Net increase (decrease) in cash                 403,259       (21,571)
+Cash - Beginning                                  3,406        21,622
+                                               ________      ________
+Cash -Ending                                   $406,665      $     51
+                                               ________      ________
+See accompanying notes to financial statements.
+-3-
+EMPIRE PETROLEUM CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+SEPTEMBER 30, 2005
+(UNAUDITED)
+1.     BASIS OF PRESENTATION AND SIGNIFICANT ACCOUNTING POLICIES:
+The accompanying unaudited financial statements of Empire Petroleum
+Corporation (Empire, or the Company) have been prepared in accordance
+with United States generally accepted accounting principles for interim
+financial information and the instructions to Form 10-QSB. Accordingly,
+they do not include all of the information and footnotes required by
+United States generally accepted accounting principles for complete
+financial statements. In the opinion of management, all adjustments
+considered necessary for a fair presentation of the Company's financial
+position, the results of operations, and the cash flows for the interim
+period are included.  See Note 4 for a description of non-recurring
+adjustments.  Operating results for the interim period are not necessarily
+indicative of the results that may be expected for the year ending
+December 31, 2005.
+The information contained in this Form 10-QSB should be read in
+conjunction with the audited financial statements and related notes for
+the year ended December 31, 2004 which are contained in the Company's
+Annual Report on Form 10-KSB filed with the Securities and Exchange
+Commission (the SEC) on March 31, 2005.
+The Company has been incurring significant losses in recent years.
+The continuation of the Company as a going concern is dependent upon the
+ability of the Company to attain future profitable operations.  These
+financial statements have been prepared on the basis of United States
+generally accepted accounting principles applicable to a company with
+continuing operations, which assume that the Company will continue in
+operation for the foreseeable future and will be able to realize its assets
+and discharge its obligations in the normal course of operations.  Management
+believes the going concern assumption to be appropriate for these financial
+statements.  If the going concern assumption were not appropriate for these
+financial statements, then adjustments might be necessary to adjust the
+carrying value of assets and liabilities and reported expenses.
+The Company continues to explore and develop its oil and gas interests.
+The ultimate recoverability of the Company's investment in its oil and gas
+interests is dependent upon the existence and discovery of economically
+recoverable oil and gas reserves, confirmation of the Company's interest in
+the oil and gas interests, the ability of the Company to obtain necessary
+financing to further develop the interests, and upon the ability to attain
+future profitable production.
+In 2003, the Company engaged a partner to explore its Cheyenne
+River Prospect, and signed an agreement to acquire a 10% interest in a block
+of acreage in the Gabbs Valley Prospect of western Nevada.  In June 2005,
+the Company completed a private placement of 5,000,000 shares of its common
+stock along with warrants to purchase 1,250,000 shares of its Common Stock for
+an aggregate purchase price of $500,000.  Subject to certain restrictions, the
+warrants may be exercised for a period of one year at an exercise price of $0.25
+-4-
+per share.  Proceeds of the private placement were allocated $67,875 to common
+stock warrants and $432,125 to common stock and paid-in capital.  These funds
+will be used for general corporate purposes and to pay the Company's share of
+the costs associated with its 10% interest in the Gabbs Valley Oil Prospect in
+Nevada.  The Company believes that its available cash as of September 30, 2005
+will be sufficient to finance its operations through the next twelve months.
+In order to sustain the Company's operations on a long term basis, the Company
+intends to continue to look for merger opportunities and consider public or
+private financings.
+Compensation of Officers and Employees
+The Company's only executive officer serves without pay or other compensation.
+The fair value of these services is estimated by management and is recognized
+as a capital contribution.  For the three months ended September 30, 2005, the
+Company recorded $12,500 as a capital contribution by its executive officer.
+2.    NOTES PAYABLE
+In December 2001, the Company executed a note with Weatherford
+U.S., L.P. to satisfy an outstanding indebtedness for service in
+the drilling of the Timber Draw #1-AH well.  The principal amount
+of this note was $108,334 with interest payments at 10% per annum
+commencing on May 27, 2001, until all interest and principal amounts
+are paid in full.  Timely payments were made in accordance with
+the terms of this note through March 2002.  In April 2002, the "payee"
+of this note agreed to a revised payment schedule extending final payment
+of $66,997 from April 10, 2002, until June 10, 2002.  In connection
+with this payment schedule, an initial payment of $10,000 was made in
+April 2002, however, since that time, no further payments have been made.
+At September 30, 2005, the Company has accrued a liability of $97,496
+in connection with this note.
+3.    PROPERTY AND EQUIPMENT:
+At December 31, 2002, the Company's management determined that an impairment
+allowance of $6,496,614 was necessary to properly value the Company's oil
+and gas properties bringing the net book value of the oil and gas properties
+to $594,915. The basis for the impairment was the determination by the United
+States Bureau of Land Management (BLM) that it does not consider the Timber
+Draw #1-AH well economic.  In other words, under the BLM's criteria for
+economic determination, the well will not pay out the cost incurred to drill
+and complete the well.  The BLM also advised the Company that since it did
+not commence another test well prior to August 12, 2002, the Timber Draw Unit
+was terminated.  Furthermore, a bottom hole pressure survey conducted in
+April 2002 indicated a limited reservoir for the well.  The remaining asset
+value was calculated using an estimated $10 per acre market price for the
+leases multiplied by the Company's working interest.
+In the first quarter of 2003, the Company recorded an additional leasehold
+impairment charge of $190,066 as a result of the assignment of the leases on
+42,237 acres in the Cheyenne River Prospect  (See Note 5).
+On May 8, 2003, the Company entered into an agreement with O.F. Duffield
+(Duffield Agreement) to acquire a ten percent (10%) interest in a
+block of acreage in the Gabbs Valley Prospect by agreeing to issue
+2,000,000 shares of the Company's Common Stock to Mr. Duffield for such 10%
+interest.  The shares were issued in July 2003.  This block of acreage in
+the Gabbs Valley Prospect consists of federal leases covering approximately
+-5-
+45,000 acres in Nye and Mineral Counties, Nevada in which Mr. Duffield has
+a 100% working interest.  Pursuant to the Duffield Agreement, the Company
+is also entitled to acquire up to a 10% interest in a block of 26,080 acres
+also located in the Gabbs Valley Prospect should Duffield  acquire an
+interest in this block.  The shares were valued at $.10 per share based on
+the closing price of the Company's common stock on the date of issuance.
+During September 2005 surveyors laid out a 19.5 mile seismic program on the
+Gabbs Valley Prospect, and a seismic survey was commenced in early October.
+Field work was expected to be finished and final interpretation of the data
+was completed in November, 2005.  Based on the results the Company is
+prepared to join in the drilling of a test well in the first quarter of 2006.
+PetroWorld Nevada Corp. (PWC) is a participant in the Gabbs Valley
+Prospect with a seismic option to earn a 50% interest from Cortez
+Exploration, Inc.  The Company's Chief Executive Officer is a Member of
+The Board of Directors of both PWC and its parent company PetroWorld
+Corporation and owns approximately nine (9%) percent of the parent
+Company which is traded on the AIM Exchange in London and the Toronto
+Venture Exchange in Toronto.  Accounts receivable from PWC totals
+$31,071 at September 30, 2005.
+4.    CONTINGENCIES
+The Company's former management (Messrs. McGrain and Jacobsen) entered
+into a lease agreement for office space in Canada.  This office was closed
+after Messrs. McGrain and Jacobsen resigned as officers of the Company.
+This lease agreement called for monthly lease and tax payments of
+approximately $6,834 (Canadian) through April of 2006.  A subtenant
+continued to pay the rentals under the lease until December 2002 and
+moved out of the office space in January 2003.  The Company accrued
+obligations under the lease from April 2002 through the first quarter
+of 2005.  During the second quarter of 2005, the Company determined that
+the statute of limitations had expired with respect to its obligation under
+the lease.  Accordingly, the Company reversed expenses of $222,561 (U.S.)
+including foreign exchange losses accrued in connection with the lease (See
+Note 6).
+5.    CHEYENNE RIVER PROSPECT
+On March 28, 2003, a third party paid approximately $84,485 of the Company's
+lease rentals on 42,237 acres in the Cheyenne River Prospect in return for
+an assignment of such leases.  In connection with this transaction, the
+Company retained an overriding royalty of 1.5% on 33,597 of the acres and a
+2% overriding royalty on 8,640 of the acres.
+On March 31, 2004, a third party paid approximately $52,128 of the Company's
+lease rentals on 32,643 acres in the Cheyenne River Prospect in exchange for an
+option to drill a test well in order to earn an interest in the farmout block,
+which option was subject to the third party first completing a seismic survey
+covering 16 square miles in the Cheyenne River Prospect.  This survey was
+completed in September of 2003.  The processing and interpreting of the data
+from such survey was completed September 30, 2003, and earned the third party
+a 25% interest in the Timber Draw #1-AH well and prospect acreage.  This third
+party commenced a test well in the NW/4NE/4 Section 15, Twp 39N, Rge 66W,
+Niobrara County, Wyoming, known as the Empire Hooligan Draw Unit #1-AH, on
+August 6, 2004.  The well was drilled horizontally to a measured drilling depth
+of 9,332 feet.  As a result of this earning well being drilled the Company's
+working interest in the Hooligan Draw #1-AH well and prospect acreage was
+-6-
+reduced to 26.785% and to 17.5% of the Timber Draw #1-AH well.  The Company,
+and the operator of the wells are considering options to increase production
+for the Cheyenne River Prospect wells.  Additionally, the Company has also
+begun exploring opportunities to sell its interest in the Cheyenne River
+Prospect.
+6.     RESTATEMENT
+On November 11, 2005 the Company filed a Form 8-K with the SEC disclosing
+that it would restate its previously issued financial statements for the year
+ended 2003, annual and quarterly financial statements for 2004, and quarterly
+financial statements for 2005 after determining that it had erroneously
+accounted for its exit activities in connection with its former office space
+in Canada.
+In the third quarter of 2003, the Company recorded an expense for its
+obligation under the lease for the period up to the balance sheet date.
+It continued to record  an expense of $13,200 per quarter through March
+31, 2005 related to the lease (see Note 4). After further review, the
+Company's management determined that it should have accrued an
+obligation for the lease equal to total amounts owed from the "cease use
+date" (the date in January 2003 on which the Company's subtenant moved
+out of the office space) through the end of the lease term. Additionally,
+since the lease obligation was in Canadian dollars, the Company should have
+recorded a currency exchange gain or loss on its obligation in each quarter.
+Based on this analysis, the Company and its Board of Directors concluded that
+its previously issued financial statements for the year ended 2003, annual
+and quarterly financial statements for 2004 and quarterly financial statements
+for 2005 required adjustments of the amounts previously reported for accounts
+payable and accrued liabilities,  and general and administrative expenses.
+The following table summarizes the adjustments required to previously
+reported amounts included in these financial statements.
+3 Months Ended         9 Months Ended
+                                September 30, 2004     September 30, 2004
+                                Previously  As         Previously  AS
+                                Reported    Restated   Reported    Restated
+Petroleum sales                     19,674    19,674       55,778    55,778
+Cost & Expenses:
+Production & Operation              32,898    32,898       72,679    72,679
+General & Administrative            51,119    37,919      156,724   117,124
+                                 _________   _______   __________   _______
+                                    84,017    70,817      229,403   189,803
+                                 _________   _______   __________   _______
+Operating loss                     (64,343)  (51,143)    (173,625) (134,025)
+                                 _________   _______   __________   _______
+Other (income) expense:
+Miscellaneous income                     -    11,918          (153)    3,920
+Interest Expense                     1,725     1,725         5,175     5,175
+                                 _________   _______   ___________   _______
+                                     1,725    13,643         5,022     9,095
+                                 _________   _______   ___________   _______
+Net loss                           (66,068)  (64,786)     (178,647) (143,120)
+                                 _________   _______   ___________   _______
+Net loss per share                     .00       .00           .00       .00
+                                 _________   _______   ___________   _______
+-7-
+                                 September 30, 2004
+                                 Previously
+                                 Reported              As Restated
+ASSETS
+Current Assets:
+Cash                                            51              51
+Accounts Receivable                          5,917           5,917
+                                         _________        ________
+Total Current Assets                         5,968           5,968
+Property, Plant & Equipment (net)          527,109         527,109
+                                         _________       _________
+Total Assets                               533,077         533,077
+                                         _________        ________
+LIABILITIES & STOCKHOLDERS' DEFICIENCY
+Current Liabilities:
+Accounts payable & accrued expenses        293,745         377,035
+Accounts payable - related party           194,167         194,167
+Note payable                                90,596          90,596
+                                         _________        ________
+Total current liabilities                  578,508         661,798
+                                         _________        ________
+Total liabilities                          578,508         661,798
+                                         _________        ________
+Stockholders' deficiency:
+Common stock                                37,830          37,830
+Additional paid in capital               8,405,635       8,405,635
+Accumulated deficit                     (8,488,896)     (8,572,186)
+                                         _________       _________
+Total stockholders' deficiency             (45,431)       (128,721)
+                                         _________       _________
+Total liabilities and stockholders'
+   deficiency                              533,077         533,077
+                                         _________       _________
+Item 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS
+RESULTS OF OPERATIONS
+GENERAL TO ALL PERIODS
+The Company's primary business is the exploration and development of oil and
+gas interests.  The Company has incurred significant losses from operations,
+and there is no assurance that it will achieve profitability or obtain funds
+necessary to finance its operations.  Sales revenue for all periods presented
+is attributable to the production of oil from the Company's Timber Draw #1-AH
+and the Hooligan Draw #1-AH wells located in the Eastern Powder River Basin
+in the State of Wyoming, otherwise known as the Cheyenne River Prospect.
+For all periods presented, the Company's effective tax rate is 0%.  The
+Company has generated net operating losses since inception, which would
+normally reflect a tax benefit in the statement of operations and a deferred
+asset on the balance sheet.  However, because of the current uncertainty as
+to the Company's ability to achieve profitability, a valuation reserve has
+been established that offsets the amount of any tax benefit available
+for each period presented in the statements of operations.
+-8-
+RESTATEMENT
+On November 11, 2005 the Company filed a Form 8-K with the SEC disclosing
+that it would restate its previously issued financial statements for the
+year ended 2003, annual and quarterly financial statements for 2004, and
+quarterly financial statements for 2005 after determining that it had
+erroneously accounted for its exit activities in connection with its
+former office space in Canada.
+In the third quarter of 2003, the Company recorded an expense for its
+obligation under the lease for the period up to the balance sheet date.  It
+continued to record  an expense of $13,200 per quarter through March 31, 2005
+related to the lease (see Note 4 to the financial statements). After further
+review, the Company's management determined that it should have accrued an
+obligation for the lease equal to total amounts owed from the "cease use date"
+(the date in January 2003 on which the Company's subtenant moved out of the
+office space) through the end of the lease term. Additionally, since the lease
+obligation was in Canadian dollars, the Company should have recorded a currency
+exchange gain or loss on its obligation in each quarter. Based on this analysis,
+the Company and its Board of Directors concluded that its previously issued
+financial statements for the year ended 2003, annual and quarterly financial
+statements for 2004 and quarterly financial statements for 2005 required
+adjustments of the amounts previously reported for accounts payable and accrued
+liabilities,  and general and administrative expenses. The effect of the
+restatement was to decrease the previously reported net loss by $1,282 for the
+three months ended September 30, 2004 and by $35,527 for the nine months ended
+September 30, 2004. The restatement did not affect reported loss per share.
+THREE MONTH PERIOD ENDED SEPTEMBER 30, 2005, COMPARED TO THREE MONTH PERIOD
+ENDED SEPTEMBER 30, 2004.
+For the three months ended September 30, 2005, sales revenue increased
+$22,083 to $41,757, compared to $19,674 for the same period during 2004.
+The increase in sales revenue was the result of production from
+the Timber Draw #1-AH and the Hooligan Draw #1-AH wells.  For the three
+months ended September 30, 2005, sales volume increased to 1,129 barrels,
+compared to 948 barrels for the same period in 2004.  The average realized
+per barrel oil price was $36.98 for the three months ended September 30,
+2005 compared to $31.40 for the three months ended September 30, 2004.
+Production and operating expenses increased $16,455 to $49,353 for the three
+months ended September 30, 2005, from $32,898 for the same period in 2004.
+The increase was primarily attributable to the seismic analysis being
+conducted on the Company's Gabbs Valley Prospect.
+General and administrative expenses decreased by $5,160 to $32,759 for
+the three months ended September 30, 2005, from $37,919 for the same period in
+2004.  Expense amounts were consistent with the prior years.
+There was no depreciation or depletion expense attributable to the three
+months ended Setember 30, 2005 and 2004, because the depreciable assets were
+fully depreciated.
+For the three months ended September 30, 2005, interest expense remained at
+$1,725 which is the same as for the three months ended September 30, 2004.
+The Company accrued interest on the Weatherford note in both periods.
+Miscellaneous income decreased by $11,918 from $0 to $11,918 relating to
+foreign exchange loss on the Company's recorded Canadian lease obligation.
+-9-
+For the reasons discussed above, net loss increased $22,706 from $(64,786)
+for the three months ended September 30, 2004, to $(42,080) for the three
+months ended September 30, 2005.
+NINE MONTH PERIOD ENDED SEPTEMBER 30, 2005, COMPARED TO NINE MONTH PERIOD
+ENDED SEPTEMBER 30, 2004.
+For the nine months ended September 30, 2005, sales revenue increased
+$60,337 to $116,115, compared to $55,778 for the same period during 2004.
+The increase in sales revenue was the result of improved oil prices and
+additional production attributable to the Hooligan Draw #1-AH well.
+For the nine months ended September 30, 2005, sales volume increased 723
+barrels to 3,149 barrels, compared to 2,426 barrels for the same period in
+2004.  The average realized per barrel oil price increased 29% from $27.04
+for the nine months ended September 30, 2004 to $34.99 for the nine months
+ended September 30, 2005.
+Production and operating expenses decreased $4,397 to $68,282 for the nine
+months ended September 30, 2005, from $72,679 for the same period in 2004.
+This decrease was primarily attributable to a reduction in property tax
+expense incurred for the Company's Cheyenne River, offset by costs incurred
+for seismic analysis Of the Company's Gabbs Valley Prospect.
+General and administrative expenses decreased by $2,143 to $114,981 for
+the nine months ended September 30, 2005, from $117,124 for the same period
+in 2004.  Expense amounts were consistent with the prior year.
+There was no depreciation or depletion expense attributable to the nine
+months ended September 30, 2005 and 2004, because the depreciable assets
+were fully depreciated.
+For the nine months ended September 30, 2005, interest expense remained at
+$5,175 which is the same as for the nine months ended September 30, 2004.
+The Company accrued interest on the Weatherford note in both periods.
+Miscellaneous income increased $8,321 from $(3,920) to $4,401 attributable
+to foreign exchange gains on the Company's recorded Canadian lease obligation.
+For the reasons discussed above, net income increased $297,759 from
+$(143,120) for the nine months ended September 30, 2004, to $154,639 for
+the nine months ended September 30, 2005.
+LIQUIDITY AND CAPITAL RESOURCES
+GENERAL
+As of September 30, 2005 the Company had $406,665 of cash on hand.  In June
+2005, the Company completed a private placement of 5,000,000 shares along
+with warrants to purchase 1,250,000 shares of its Common Stock for an
+aggregate purchase price of $500,000.  For more information regarding this
+private placement, see the Company's current report on Form 8-K, which was
+filed with the SEC on June 9, 2005.  The cash from this funding will enable
+the Company to pay its share of a seismic survey on its Gabbs Valley Prospect,
+Nevada, which is expected to be approximately $35,000 and to fund its share
+of a well to be drilled on the Nevada Prospect which is estimated to be
+$150,000.  After such payment, the Company believes it will have sufficient
+funds to pay its normal operational costs of approximately $10,000 per month
+for the next 12 months.  In order to sustain the Company's operations on a long
+term basis, the Company intends to continue to look for merger opportunities
+and consider public or private financings.
+-10-
+As of September 30, 2005, the Company has accrued a liability of approximately
+$97,496 including accrued interest to Weatherford U.S., L.P. for services
+rendered by Weatherford.
+ADVANCES FROM RELATED PARTY
+Through March 31, 2005, the Company financed its operations primarily through
+advances made to the Company by the Albert E. Whitehead Living Trust, of which
+the Company's Chairman of the Board and Chief Executive Officer, Mr. Whitehead,
+is the trustee.  At September 30, 2005 the Company is indebted to the Albert E.
+Whitehead Living Trust in the amount of $274,682.
+MATERIAL RISKS
+The Company has incurred significant losses from operations and there is no
+assurance that it will achieve profitability or obtain funds necessary to
+finance continued operations.  For other material risks, see the Company's
+form 10-KSB for the period ended December 31, 2004, which was filed March 31,
+2005.
+FORWARD-LOOKING INFORMATION
+This quarterly report on Form 10-QSB, including this section, includes certain
+statements that may be deemed "forward-looking statements" within the meaning
+of federal securities laws.  All statements, other than statements of historical
+facts, that address activities, events or developments that the Company
+expects, believes or anticipates will or may occur in the future,
+including future sources of financing and other possible business
+developments, are forward-looking statements.  Such statements are subject
+to a number of assumptions, risks and uncertainties and could be affected by
+a number of different factors, including the Company's failure to secure short
+and long term financing necessary to sustain and grow its operations, increased
+competition, changes in the markets in which the Company participates and the
+technology utilized by the Company and new legislation regarding environmental
+matters.  These risks and other risks that could affect the Company's business
+are more fully described in reports it files with the Securities and Exchange
+Commission, including its Form 10-KSB for the fiscal year ended December 31,
+2004.  Actual results may vary materially from the forward-looking statements.
+The Company undertakes no duty to update any of the forward-looking statements
+in this Form 10-QSB.
+Item 3.  CONTROLS AND PROCEDURES
+As previously reported in the Company's Current Report on Form 8-K
+dated November 16, 2005, the Board of Directors of the Company
+concluded on November 16, 2005 that its previously issued annual and
+quarterly financial statements for fiscal years 2003, 2004 and
+quarterly financial statements for 2005 should not be relied upon
+because of errors in those financial statements and that the Company
+would restate its previously issued annual financial statements for
+fiscal year 2003, annual and quarterly financial statements for fiscal
+year 2004 and quarterly financial statements for 2005 to make the
+necessary accounting adjustments.  The Company's Board of Directors
+reached this conclusion based upon the recommendation of the Company's
+management and with the concurrence of the Company's independent
+auditors.
+The restatement pertains to the Company's accounting for exit
+activities in connection with office space in Canada, which was leased
+-11-
+by the former management of the Company, abandoned upon the resignation
+of such management and subleased for a period of time thereafter.  The
+Company intends to file amended Annual Reports on Forms 10-KSB for the
+years ended December 31, 2003 and December 31, 2004 and amended
+Quarterly Reports on Forms 10-QSB for the periods ended March 31, 2004,
+June 30, 2004, September 30, 2004, March 31, 2005 and June 30, 2005.
+As a result of the foregoing, in the opinion of the Company's Chief
+Executive Officer (and principal financial officer), there are material
+weaknesses in the Company's disclosure controls and procedures.
+During the period covered by this report, there was no change in the
+Company's internal controls over financial reporting that has
+materially affected, or that is reasonably likely to materially affect,
+the Company's internal control over financial reporting.
+PART II. OTHER INFORMATION
+Item 6. Exhibits
+a) Exhibits
+31    Certification of Chief Executive Officer (and principal
+                 financial officer) pursuant to Rules 13a-14(a) and 15d-14(a)
+                 promulgated under the Securities Exchange Act of 1934, as
+                 amended, and Item 601(b)(31) of Regulation S-B, as adopted
+                 pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+                 (submitted herewith).
+32    Certification of Chief Executive Officer (and principal
+                 financial officer) pursuant to 18 U.S.C. Section 1350, as
+                 adopted pursuant to Section 906 of the Sarbanes-Oxley Act
+                 of 2002 (submitted herewith).
+EMPIRE PETROLEUM CORPORATION
+SIGNATURES
+In accordance with the requirements of the Exchange Act, the small
+business issuer caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+EMPIRE PETROLEUM CORPORATION
+Date:  December 20, 2005                        By: /s/ Albert E. Whitehead
+                                                ___________________
+                                                Albert E. Whitehead
+                                                Chairman/CEO
+-12-
+EXHIBIT INDEX
+NO.                DESCRIPTION
+31              Certification of Chief Executive Officer (and principal
+                financial officer) pursuant to Rules 13a-14(a) and 15d-14(a)
+                promulgated under the Securities Exchange Act of 1934, as
+                amended, and Item 601(b)(31) of Regulation S-B, as adopted
+                pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+                (submitted herewith).
+32              Certification of Chief Executive Officer (and principal
+                financial officer) pursuant to 18 U.S.C. Section 1350, as
+                adopted pursuant to Section 906 of the Sarbanes-Oxley Act
+                of 2002 (submitted herewith).
+EXHIBIT 31
+CERTIFICATION
+I, Albert E. Whitehead, Chief Executive Officer (and principal financial
+Officer) of Empire Petroleum Corporation, certify that:
+1.     I have reviewed this quarterly report on Form 10-QSB of Empire
+Petroleum Corporation;
+2.     Based on my knowledge, this report does not contain any
+untrue statement of a material fact or omit to state a material fact
+necessary to make the statements made, in light of the circumstances under
+which such statements were made, not misleading with respect to the period
+covered by this report;
+3.     Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all
+material respects the financial condition, results of operations and cash
+flows of the  small business issuer as of, and for, the periods
+presented in this report;
+4.      The small business issuer's other certifying officer(s) and
+I are responsible for establishing and maintaining disclosure controls
+and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e))
+for the small business issuer and have;
+(a) Designed such disclosure controls and procedures, or caused such
+       disclosure controls and procedures to be designed under  our
+       supervision, to ensure that material information relating to the
+       small business issuer, including its consolidated subsidiaries, is
+       made known to  us by others within those entities, particularly
+       during the period in which this report is being prepared;
+(b) Evaluated the effectiveness of the small business
+-13-
+issuer's disclosure controls and procedures and presented in this
+       report  our conclusions about the effectiveness of the controls
+       and procedures, as of the end of the period covered by this report
+       based on such evaluation; and
+(c) Disclosed in this report any change in the small business
+       issuer's internal control over financial reporting that
+       occurred during the  small business issuer's most recent
+       fiscal quarter that has materially affected, or is reasonably likely
+       to materially affect, the  small business issuer's
+       internal control over financial reporting; and
+5.     The small business issuer's other certifying officer(s) and I have
+disclosed, based on  our most recent evaluation of internal control over
+financial reporting, to the  small business issuer's auditors
+and the audit committee of  small business issuer's board of
+directors (or persons performing the equivalent functions):
+(a) All significant deficiencies and material weaknesses in the design
+       or operation of internal control over financial reporting which are
+       reasonably likely to adversely affect the  small business
+       issuer's ability to record, process, summarize and report financial
+       information; and
+(b) Any fraud, whether or not material, that involves management
+       or other employees who have a significant role in the
+       small business issuer's internal control over financial
+       reporting.
+December 20, 2005                      /s/ Albert E. Whitehead
+                                       Albert E. Whitehead,
+                                       Chief Executive Officer and
+                                         Principal Financial Officer
+EXHIBIT 32
+CERTIFICATION PURSUANT TO
+                         18 U.S.C. SECTION 1350,
+                         AS ADOPTED PURSUANT TO
+              SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+In connection with the quarterly report of Empire Petroleum Corporation
+(the "Company") on Form 10-QSB for the period ending September 30, 2005 as
+filed with the Securities and Exchange Commission on the date hereof (the
+"Report"), I, Albert E. Whitehead, Chief Executive Officer (and principal
+financial officer) of the Company, certify, pursuant to 18 U.S.C.
+Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002, that:
+(1)   The Report fully complies with the requirements of section 13(a) or
+15(d) of the Securities Exchange Act of 1934; and
+-14-
+(2)   The information contained in the Report fairly presents, in all
+material respects, the financial condition and results of operations of the
+Company.
+December 20, 2005                           /s/ Albert E. Whitehead
+                                            Albert E. Whitehead
+                                            Chief Executive Officer and
+                                               Principal Financial Officer
+-15-
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

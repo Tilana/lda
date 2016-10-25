@@ -1,0 +1,2563 @@
+
+<SEC-DOCUMENT>0001510295-16-000123.txt : 20160805
+<SEC-HEADER>0001510295-16-000123.hdr.sgml : 20160805
+<ACCEPTANCE-DATETIME>20160805170409
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+EFFECTIVENESS DATE:
+0001510295-16-000123
+20160805
+20160805
+20160805
+S-8
+5
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: PETROLEUM REFINING [2911]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+Marathon Petroleum Corp
+0001510295
+271284632
+1231
+DE
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 333-212956
+FILM NUMBER:
+S-8
+1933 Act
+161811906
+BUSINESS ADDRESS:
+STREET 1:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+539 SOUTH MAIN STREET
+FINDLAY
+OH
+45840-3229
+419-422-2121
+MAIL ADDRESS:
+STREET 1:
+CITY:
+STATE:
+ZIP:
+539 SOUTH MAIN STREET
+FINDLAY
+OH
+45840-3229
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>S-8
+<SEQUENCE>1
+<FILENAME>mpcs-82016.htm
+<DESCRIPTION>S-8
+<TEXT>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" 
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!-- Document created using Wdesk 1 -->
+<!-- Copyright 2016 Workiva -->
+<title>Document</title>
+</head>
+<body style="font-family:Times New Roman;font-size:10pt;">
+<div><a name="sDC1DE77A18A547BF290D559998271C4B"></a></div><div><div 
+style="line-height:138%;padding-bottom:13px;text-align:left;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;"><br></font></div></div><div><br></div><div style="line-
+height:120%;text-align:center;font-size:8pt;"><font style="font-
+family:inherit;font-size:8pt;font-weight:bold;">As filed with the Securities and
+Exchange Commission on August 5, 2016.</font></div><div style="line-
+height:120%;text-align:right;font-size:8pt;"><font style="font-
+family:inherit;font-size:8pt;font-weight:bold;">Registration No.&#160;333-
+</font><font style="font-family:inherit;font-size:8pt;font-weight:bold;text-
+decoration:underline;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#1
+60;&#160;&#160;</font></div><div style="line-height:120%;text-align:left;font-
+size:3pt;"><font style="font-family:inherit;font-
+size:3pt;">&#160;</font></div><div style="line-height:120%;text-align:left;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div><div style="line-height:120%;text-
+align:center;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-
+height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" 
+style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-
+right:auto;width:100%;border-collapse:collapse;text-align:left;"><tr><td 
+colspan="1"></td></tr><tr><td style="width:100%;"></td></tr><tr><td 
+style="vertical-align:bottom;border-bottom:1px solid #000000;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:5px;font-size:10pt;"><font style="font-
+family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr></table></div></div><div style="line-
+height:120%;text-align:center;font-size:14pt;"><font style="font-
+family:inherit;font-size:14pt;font-weight:bold;">UNITED STATES</font></div><div 
+style="line-height:120%;text-align:center;font-size:14pt;"><font style="font-
+family:inherit;font-size:14pt;font-weight:bold;">SECURITIES AND EXCHANGE 
+COMMISSION</font></div><div style="line-height:120%;text-align:center;font-
+size:10pt;"><font style="font-family:inherit;font-size:10pt;font-
+weight:bold;">WASHINGTON, DC 20549</font></div><div style="line-
+height:120%;text-align:left;font-size:4.5pt;"><font style="font-
+family:inherit;font-size:4.5pt;">&#160;</font></div><div style="line-
+height:120%;text-align:center;font-size:10pt;"><div style="padding-
+left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table 
+cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-
+size:10pt;margin-left:auto;margin-right:auto;width:100%;border-
+collapse:collapse;text-align:left;"><tr><td colspan="1"></td></tr><tr><td 
+style="width:100%;"></td></tr><tr><td style="vertical-align:bottom;border-
+bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:5px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr></table></div></div><div style="line-
+height:120%;padding-top:5px;text-align:center;font-size:14pt;"><font 
+style="font-family:inherit;font-size:14pt;font-weight:bold;">FORM&#160;S-
+8</font></div><div style="line-height:120%;text-align:center;font-
+size:14pt;"><font style="font-family:inherit;font-size:14pt;font-
+weight:bold;">REGISTRATION STATEMENT</font></div><div style="line-
+height:120%;text-align:center;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;font-style:italic;font-
+weight:bold;">UNDER</font></div><div style="line-height:120%;text-
+align:center;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;font-style:italic;font-weight:bold;">THE SECURITIES ACT OF 
+1933</font></div><div style="line-height:120%;text-align:left;font-
+size:4.5pt;"><font style="font-family:inherit;font-
+size:4.5pt;">&#160;</font></div><div style="line-height:120%;text-
+align:center;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-
+height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" 
+style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-
+right:auto;width:100%;border-collapse:collapse;text-align:left;"><tr><td 
+colspan="1"></td></tr><tr><td style="width:100%;"></td></tr><tr><td 
+style="vertical-align:bottom;border-bottom:1px solid #000000;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:5px;font-size:10pt;"><font style="font-
+family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr></table></div></div><div style="line-
+height:120%;padding-top:5px;text-align:center;font-size:17pt;"><font 
+style="font-family:inherit;font-size:17pt;font-weight:bold;">Marathon Petroleum 
+Corporation</font></div><div style="line-height:120%;text-align:center;font-
+size:8pt;"><font style="font-family:inherit;font-size:8pt;font-
+weight:bold;">(Exact Name of Registrant as Specified in Its 
+Charter)</font></div><div style="line-height:120%;text-align:left;font-
+size:4.5pt;"><font style="font-family:inherit;font-
+size:4.5pt;">&#160;</font></div><div style="line-height:120%;text-
+align:center;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-
+height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" 
+style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-
+right:auto;width:100%;border-collapse:collapse;text-align:left;"><tr><td 
+colspan="1"></td></tr><tr><td style="width:100%;"></td></tr><tr><td 
+style="vertical-align:bottom;border-bottom:1px solid #000000;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:5px;font-size:10pt;"><font style="font-
+family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr></table></div></div><div style="line-
+height:120%;text-align:left;font-size:4.5pt;"><font style="font-
+family:inherit;font-size:4.5pt;">&#160;</font></div><div style="line-
+height:120%;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-
+height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" 
+style="font-family:Times New Roman;font-size:10pt;width:100%;border-
+collapse:collapse;text-align:left;"><tr><td colspan="3"></td></tr><tr><td 
+style="width:50%;"></td><td style="width:2%;"></td><td 
+style="width:48%;"></td></tr><tr><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-
+align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:center;font-size:8pt;"><font style="font-
+family:inherit;font-size:8pt;font-weight:bold;">Delaware</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:center;font-size:8pt;"><font style="font-family:inherit;font-
+size:8pt;font-weight:bold;">27-1284632</font></div></td></tr><tr><td 
+style="vertical-align:top;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:center;font-
+size:6.5pt;"><font style="font-family:inherit;font-size:6.5pt;font-
+weight:bold;">(State or Other Jurisdiction of</font></div><div style="text-
+align:center;font-size:6.5pt;"><font style="font-family:inherit;font-
+size:6.5pt;font-weight:bold;">Incorporation or 
+Organization)</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:center;font-size:6.5pt;"><font style="font-
+family:inherit;font-size:6.5pt;font-weight:bold;">(I.R.S. 
+Employer</font></div><div style="text-align:center;font-size:6.5pt;"><font 
+style="font-family:inherit;font-size:6.5pt;font-weight:bold;">Identification 
+No.)</font></div></td></tr></table></div></div><div style="line-
+height:120%;padding-top:13px;text-align:center;font-size:8pt;"><font 
+style="font-family:inherit;font-size:8pt;font-weight:bold;">539 South Main 
+Street</font></div><div style="line-height:120%;text-align:center;font-
+size:8pt;"><font style="font-family:inherit;font-size:8pt;font-
+weight:bold;">Findlay, Ohio 45840-3229</font></div><div style="line-
+height:120%;text-align:center;font-size:6.5pt;"><font style="font-
+family:inherit;font-size:6.5pt;font-weight:bold;">(Address of Principal 
+Executive Offices Including Zip Code)</font></div><div style="line-
+height:120%;text-align:left;font-size:4.5pt;"><font style="font-
+family:inherit;font-size:4.5pt;">&#160;</font></div><div style="line-
+height:120%;text-align:center;font-size:10pt;"><div style="padding-
+left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table 
+cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-
+size:10pt;margin-left:auto;margin-right:auto;width:100%;border-
+collapse:collapse;text-align:left;"><tr><td colspan="1"></td></tr><tr><td 
+style="width:100%;"></td></tr><tr><td style="vertical-align:bottom;border-
+bottom:1px
+ solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:5px;font-size:10pt;"><font 
+style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr></table></div></div><div style="line-
+height:120%;padding-top:5px;text-align:center;font-size:8pt;"><font style="font-
+family:inherit;font-size:8pt;font-weight:bold;">Marathon Petroleum Thrift 
+Plan</font></div><div style="line-height:120%;text-align:center;font-
+size:6.5pt;"><font style="font-family:inherit;font-size:6.5pt;font-
+weight:bold;">(Full Title of the Plan)</font></div><div style="line-
+height:120%;text-align:center;font-size:10pt;"><div style="padding-
+left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table 
+cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-
+size:10pt;margin-left:auto;margin-right:auto;width:100%;border-
+collapse:collapse;text-align:left;"><tr><td colspan="1"></td></tr><tr><td 
+style="width:100%;"></td></tr><tr><td style="vertical-align:bottom;border-
+bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:5px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr></table></div></div><div style="line-
+height:120%;padding-top:5px;text-align:center;font-size:8pt;"><font style="font-
+family:inherit;font-size:8pt;font-weight:bold;">Molly R. Benson</font></div><div
+style="line-height:120%;text-align:center;font-size:8pt;"><font style="font-
+family:inherit;font-size:8pt;font-weight:bold;">Vice President, Corporate 
+Secretary and Chief Compliance Officer</font></div><div style="line-
+height:120%;text-align:center;font-size:8pt;"><font style="font-
+family:inherit;font-size:8pt;font-weight:bold;">539 South Main 
+Street</font></div><div style="line-height:120%;text-align:center;font-
+size:8pt;"><font style="font-family:inherit;font-size:8pt;font-
+weight:bold;">Findlay, Ohio 45840-3229</font></div><div style="line-
+height:120%;text-align:center;font-size:8pt;"><font style="font-
+family:inherit;font-size:8pt;font-weight:bold;">419-422-2121</font></div><div 
+style="line-height:120%;text-align:center;font-size:6.5pt;"><font style="font-
+family:inherit;font-size:6.5pt;font-weight:bold;">(Name, Address and Telephone 
+Number of Agent For Service)</font></div><div style="line-height:120%;text-
+align:left;font-size:4.5pt;"><font style="font-family:inherit;font-
+size:4.5pt;">&#160;</font></div><div style="line-height:120%;text-
+align:center;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-
+height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" 
+style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-
+right:auto;width:100%;border-collapse:collapse;text-align:left;"><tr><td 
+colspan="1"></td></tr><tr><td style="width:100%;"></td></tr><tr><td 
+style="vertical-align:bottom;border-bottom:1px solid #000000;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:5px;font-size:10pt;"><font style="font-
+family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr></table></div></div><div style="line-
+height:120%;padding-top:5px;text-align:left;font-size:8pt;"><font style="font-
+family:inherit;font-size:8pt;">Indicate by check mark whether the Registrant is 
+a large accelerated filer, an accelerated filer, a non-accelerated filer, or a 
+smaller reporting company. See the definitions of &#8220;large accelerated 
+filer,&#8221; &#8220;accelerated filer&#8221; and &#8220;smaller reporting 
+company&#8221; in Rule 12b-2 of the Exchange Act.</font></div><div style="line-
+height:120%;text-align:left;font-size:9pt;"><font style="font-
+family:inherit;font-size:9pt;">&#160;</font></div><div style="line-
+height:120%;text-align:center;font-size:10pt;"><div style="padding-
+left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table 
+cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-
+size:10pt;margin-left:auto;margin-right:auto;width:99.62962962962963%;border-
+collapse:collapse;text-align:left;"><tr><td colspan="7"></td></tr><tr><td 
+style="width:15%;"></td><td style="width:1%;"></td><td 
+style="width:59%;"></td><td style="width:1%;"></td><td 
+style="width:20%;"></td><td style="width:1%;"></td><td 
+style="width:3%;"></td></tr><tr><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:8pt;"><font
+style="font-family:inherit;font-
+size:8pt;">Large&#160;accelerated&#160;filer</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:left;font-size:8pt;"><font style="font-family:Wingdings;font-
+size:8pt;">x</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:left;font-size:8pt;"><font style="font-family:inherit;font-
+size:8pt;">Accelerated&#160;filer</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:left;font-size:8pt;"><font style="font-
+family:Wingdings;font-size:8pt;">&#168;</font></div></td></tr><tr><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td colspan="2" style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+colspan="2" style="vertical-align:bottom;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td colspan="2" 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:left;font-size:8pt;"><font style="font-
+family:inherit;font-size:8pt;">Non-accelerated filer</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="font-size:8pt;"><font style="font-family:Wingdings;font-
+size:8pt;">&#168;</font><font style="font-family:inherit;font-
+size:8pt;">&#160;&#160;(Do not check if a smaller reporting 
+company)</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:left;font-size:8pt;"><font style="font-family:inherit;font-
+size:8pt;">Smaller&#160;reporting&#160;company</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div
+ style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:left;font-size:8pt;"><font style="font-family:Wingdings;font-
+size:8pt;">&#168;</font></div></td></tr></table></div><div style="padding-
+left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table 
+cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-
+size:10pt;margin-left:auto;margin-right:auto;width:100%;border-
+collapse:collapse;text-align:left;"><tr><td colspan="1"></td></tr><tr><td 
+style="width:100%;"></td></tr><tr><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:1px 
+solid #000000;"><div style="overflow:hidden;height:5px;font-size:10pt;"><font 
+style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr></table></div><font style="font-
+family:inherit;font-size:8pt;font-weight:bold;">CALCULATION OF REGISTRATION 
+FEE</font><div style="padding-left:0px;text-indent:0px;line-
+height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" 
+style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-
+right:auto;width:99.62962962962963%;border-collapse:collapse;text-
+align:left;"><tr><td colspan="10"></td></tr><tr><td style="width:4%;"></td><td 
+style="width:40%;"></td><td style="width:1%;"></td><td 
+style="width:13%;"></td><td style="width:1%;"></td><td 
+style="width:13%;"></td><td style="width:1%;"></td><td 
+style="width:13%;"></td><td style="width:1%;"></td><td 
+style="width:13%;"></td></tr><tr><td colspan="2" style="vertical-
+align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;"><div
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;"><div
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;"><div
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;"><div
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;"><div
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;"><div
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;"><div
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;"><div
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;border-top:1px solid #000000;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:5px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:5px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;border-right:1px solid #000000;"><div 
+style="overflow:hidden;height:5px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:5px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;border-right:1px solid #000000;"><div 
+style="overflow:hidden;height:5px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:5px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;border-right:1px solid #000000;"><div 
+style="overflow:hidden;height:5px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:5px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;border-right:1px solid #000000;"><div 
+style="overflow:hidden;height:5px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;border-top:1px solid #000000;"><div 
+style="overflow:hidden;height:5px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td colspan="2"
+style="vertical-align:bottom;border-bottom:1px solid #000000;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:center;font-size:6.5pt;"><font style="font-
+family:inherit;font-size:6.5pt;font-weight:bold;">Title of 
+Securities</font></div><div style="text-align:center;font-size:6.5pt;"><font 
+style="font-family:inherit;font-size:6.5pt;font-weight:bold;">to be
+Registered</font></div></td><td style="vertical-align:bottom;border-bottom:1px 
+solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;border-right:1px solid #000000;"><div style="overflow:hidden;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;border-
+bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:center;font-
+size:6.5pt;"><font style="font-family:inherit;font-size:6.5pt;font-
+weight:bold;">Amount</font></div><div style="text-align:center;font-
+size:6.5pt;"><font style="font-family:inherit;font-size:6.5pt;font-
+weight:bold;">to be</font></div><div style="text-align:center;font-
+size:6.5pt;"><font style="font-family:inherit;font-size:6.5pt;font-
+weight:bold;">Registered</font></div></td><td style="vertical-
+align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;border-right:1px solid 
+#000000;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-
+align:center;font-size:6.5pt;"><font style="font-family:inherit;font-
+size:6.5pt;font-weight:bold;">Proposed</font></div><div style="text-
+align:center;font-size:6.5pt;"><font style="font-family:inherit;font-
+size:6.5pt;font-weight:bold;">Maximum</font></div><div style="text-
+align:center;font-size:6.5pt;"><font style="font-family:inherit;font-
+size:6.5pt;font-weight:bold;">Offering&#160;Price</font></div><div style="text-
+align:center;font-size:6.5pt;"><font style="font-family:inherit;font-
+size:6.5pt;font-weight:bold;">Per&#160;Share</font></div></td><td 
+style="vertical-align:bottom;border-bottom:1px solid #000000;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-right:1px 
+solid #000000;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-
+align:center;font-size:6.5pt;"><font style="font-family:inherit;font-
+size:6.5pt;font-weight:bold;">Proposed</font></div><div style="text-
+align:center;font-size:6.5pt;"><font style="font-family:inherit;font-
+size:6.5pt;font-weight:bold;">Maximum</font></div><div style="text-
+align:center;font-size:6.5pt;"><font style="font-family:inherit;font-
+size:6.5pt;font-weight:bold;">Aggregate</font></div><div
+ style="text-align:center;font-size:6.5pt;"><font style="font-
+family:inherit;font-size:6.5pt;font-
+weight:bold;">Offering&#160;Price</font></div></td><td style="vertical-
+align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;border-right:1px solid 
+#000000;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-
+align:center;font-size:6.5pt;"><font style="font-family:inherit;font-
+size:6.5pt;font-weight:bold;">Amount&#160;of</font></div><div style="text-
+align:center;font-size:6.5pt;"><font style="font-family:inherit;font-
+size:6.5pt;font-
+weight:bold;">Registration&#160;Fee</font></div></td></tr><tr><td colspan="2" 
+style="vertical-align:top;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="padding-left:12px;text-indent:-
+12px;font-size:8pt;"><font style="font-family:inherit;font-size:8pt;">Common 
+Stock, par value $0.01 per share</font><font style="font-family:inherit;font-
+size:5.5pt;"><sup style="vertical-align:top;line-height:120%;font-
+size:pt">(1)</sup></font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-right:1px 
+solid #000000;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:center;font-size:8pt;"><font style="font-
+family:inherit;font-size:8pt;">50,000,000</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;border-right:1px solid #000000;"><div style="overflow:hidden;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:center;font-size:8pt;"><font style="font-family:inherit;font-
+size:8pt;">$39.06</font><font style="font-family:inherit;font-size:5.5pt;"><sup 
+style="vertical-align:top;line-height:120%;font-
+size:pt">(2)</sup></font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-right:1px 
+solid #000000;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:center;font-size:8pt;"><font style="font-
+family:inherit;font-size:8pt;">$1,953,000,000</font><font style="font-
+family:inherit;font-size:5.5pt;"><sup style="vertical-align:top;line-
+height:120%;font-size:pt">(2)</sup></font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;border-right:1px solid #000000;"><div style="overflow:hidden;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;border-
+bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:center;font-
+size:8pt;"><font style="font-family:inherit;font-
+size:8pt;">$196,667.10</font></div></td></tr><tr><td colspan="10" 
+style="vertical-align:bottom;border-bottom:1px solid #000000;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:1px 
+solid #000000;"><div style="overflow:hidden;height:5px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td
+style="vertical-align:top;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:8pt;"><font
+style="font-family:inherit;font-size:8pt;">(1)</font></div></td><td colspan="9" 
+style="vertical-align:top;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="font-size:8pt;"><font style="font-
+family:inherit;font-size:8pt;">Pursuant to Rule 416 of the Securities Act of 
+1933 (the &#8220;</font><font style="font-family:inherit;font-size:8pt;font-
+style:italic;font-weight:bold;">Securities Act</font><font style="font-
+family:inherit;font-size:8pt;">&#8221;), this Registration Statement also covers
+such additional shares of Common Stock, par value $0.01 per share 
+(&#8220;</font><font style="font-family:inherit;font-size:8pt;font-
+style:italic;font-weight:bold;">Common Stock</font><font style="font-
+family:inherit;font-size:8pt;">&#8221;), of Marathon Petroleum Corporation (the 
+&#8220;</font><font style="font-family:inherit;font-size:8pt;font-
+style:italic;font-weight:bold;">Registrant</font><font style="font-
+family:inherit;font-size:8pt;">&#8221;), that may be offered or issued pursuant 
+to the Marathon Petroleum Thrift Plan (the &#8220;</font><font style="font-
+family:inherit;font-size:8pt;font-style:italic;font-
+weight:bold;">Plan</font><font style="font-family:inherit;font-
+size:8pt;">&#8221;) as a result of stock splits, stock dividends or other 
+similar transactions or anti-dilution adjustments. Pursuant to Rule 416(c) of 
+the Securities Act, this Registration Statement also covers an indeterminate 
+amount of interests to be offered pursuant to the 
+Plan.</font></div></td></tr><tr><td style="vertical-align:top;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:left;font-size:8pt;"><font style="font-family:inherit;font-
+size:8pt;">(2)</font></div></td><td colspan="9" style="vertical-
+align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:left;font-size:8pt;"><font style="font-
+family:inherit;font-size:8pt;">Estimated solely for the purposes of determining 
+the amount of the registration fee in accordance with Rule 457(c) and 457(h) of 
+the Securities Act on the basis of the average of the high and low sale prices 
+for the shares of the Common Stock as reported on the The New York Stock 
+Exchange on August 1, 2016.</font></div></td></tr><tr><td colspan="10"
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:30px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr></table></div></div><div><br></div><div
+></div><hr style="page-break-after:always"><div><div style="line-
+height:138%;padding-bottom:13px;text-align:left;font-size:10pt;"><font 
+style="font-family:inherit;font-
+size:10pt;"><br></font></div></div><div><br></div><div style="line-
+height:120%;text-align:center;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;"><br></font></div><div style="line-
+height:120%;text-align:center;font-size:10pt;"><div style="padding-
+left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table 
+cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-
+size:10pt;margin-left:auto;margin-right:auto;width:100%;border-
+collapse:collapse;text-align:left;"><tr><td colspan="1"></td></tr><tr><td 
+style="width:100%;"></td></tr><tr><td style="vertical-align:bottom;border-
+bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;border-top:1px solid #000000;"><div 
+style="overflow:hidden;height:5px;font-size:10pt;"><font style="font-
+family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr></table></div></div><div style="line-
+height:120%;text-align:left;font-size:2pt;"><font style="font-
+family:inherit;font-size:2pt;"><br></font></div><div style="line-
+height:120%;text-align:center;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;font-weight:bold;">EXPLANATORY 
+NOTE</font></div><div style="line-height:120%;text-align:center;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-
+size:10pt;"><font style="font-family:inherit;font-size:10pt;">This Registration 
+Statement on Form S-8 is being filed by the Registrant to register an additional
+50,000,000 shares of the Registrant&#8217;s Common Stock offered or issuable 
+pursuant to the Plan.</font></div><div style="line-height:120%;text-
+align:left;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-
+size:10pt;"><font style="font-family:inherit;font-size:10pt;">This Registration 
+Statement is solely for the registration of additional Common Stock for offer or
+issuance under the Plan. Therefore, pursuant to General Instruction E to Form S-
+8, the contents of the earlier registration statement relating to the Plan 
+(Registration No. 333-175245), including all post-effective amendments thereto, 
+are incorporated by reference into this Registration Statement, except that 
+provisions contained in Part II of such earlier registration statement are 
+modified as set forth herein.</font></div><div style="line-height:120%;text-
+align:center;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;"><br></font></div><div style="line-height:120%;text-
+align:center;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;font-weight:bold;">PART I</font></div><div style="line-
+height:120%;text-align:center;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;"><br></font></div><div style="line-
+height:120%;text-align:left;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">The information specified in Item 1 and Item 2 
+of Part I of Form S-8 is omitted from this filing in accordance with the 
+provisions of Rule 428 under the Securities Act and the introductory note to 
+Part I of the Form S-8 instructions.
+ The documents containing the information specified in Part I will be sent or 
+given to the participants in the Plan as required by Rule 428(b)(1). These 
+documents and the documents incorporated by reference herein pursuant to Item 3 
+of Part II hereof, taken together, constitute a prospectus that meets the 
+requirements of Section 10(a) of the Securities Act.</font></div><div 
+style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;"><br></font></div><div style="line-
+height:120%;text-align:center;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;font-weight:bold;">PART II</font></div><div 
+style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;font-weight:bold;">INFORMATION REQUIRED IN THE
+REGISTRATION STATEMENT</font></div><div style="line-height:120%;padding-
+top:13px;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;font-weight:bold;">Item&#160;3. Incorporation of Documents by 
+Reference.</font></div><div style="line-height:120%;padding-top:5px;text-
+align:left;text-indent:30px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">The Registrant is subject to the informational 
+and reporting requirements of Sections 13(a), 13(c), 14 and 15(d) of the 
+Securities Exchange Act of 1934, as amended (the &#8220;</font><font 
+style="font-family:inherit;font-size:10pt;font-style:italic;font-
+weight:bold;">Exchange Act</font><font style="font-family:inherit;font-
+size:10pt;">&#8221;), and, in accordance therewith, files reports, proxy 
+statements and other information with the Securities and Exchange Commission 
+(the &#8220;</font><font style="font-family:inherit;font-size:10pt;font-
+style:italic;font-weight:bold;">Commission</font><font style="font-
+family:inherit;font-size:10pt;">&#8221;). The following documents, which are on 
+file with the Commission, are incorporated in this Registration Statement by 
+reference:</font></div><div style="line-height:120%;text-align:left;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div><div style="line-height:120%;font-
+size:10pt;"><div style="padding-left:0px;text-indent:0px;line-
+height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" 
+style="font-family:Times New Roman;font-size:10pt;width:100%;border-
+collapse:collapse;text-align:left;"><tr><td colspan="3"></td></tr><tr><td 
+style="width:4%;"></td><td style="width:4%;"></td><td 
+style="width:92%;"></td></tr><tr><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">(a)</font></div></td><td style="vertical-align:top;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">The Registrant&#8217;s Annual Report on Form 10-K for the fiscal 
+year ended December 31, 2015 (Commission File No. 001-
+35054);</font></div></td></tr></table></div></div><div style="line-
+height:120%;text-align:left;font-size:10pt;"><div style="padding-left:0px;text-
+indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" 
+cellspacing="0" style="font-family:Times New Roman;font-
+size:10pt;width:100%;border-collapse:collapse;text-align:left;"><tr><td 
+colspan="3"></td></tr><tr><td style="width:4%;"></td><td 
+style="width:4%;"></td><td style="width:92%;"></td></tr><tr><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">(b)</font></div></td><td style="vertical-
+align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">The Registrant&#8217;s Quarterly Reports on Form
+10-Q for the quarterly periods ended March 31, 2016 and June 30, 2016 
+(Commission File No. 0001-35054);</font></div></td></tr></table></div><div 
+style="padding-left:0px;text-indent:0px;line-height:normal;padding-
+top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New 
+Roman;font-size:10pt;width:100%;border-collapse:collapse;text-
+align:left;"><tr><td colspan="3"></td></tr><tr><td style="width:4%;"></td><td 
+style="width:4%;"></td><td style="width:92%;"></td></tr><tr><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">(c)</font></div></td><td style="vertical-
+align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">The Registrant&#8217;s Current Reports on Form 
+8-K filed on January 8, 2016, February 29, 2016, March 3, 2016, April 29, 2016 
+and July 26, 2016, and its Current Report on Form 8-K/A filed on February 17, 
+2016 (Commission File No. 0001-35054); and</font></div></td></tr><tr><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:14px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:14px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:14px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">(d)</font></div></td><td style="vertical-align:top;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">The description of the Common Stock contained in the 
+Registrant&#8217;s Information Statement, filed as Exhibit 99.1 to the 
+Registrant&#8217;s Registration Statement on Form 10 (Commission File 
+No.&#160;001-35054), initially filed on January&#160;25, 2011, as amended by 
+Amendment No.&#160;5 filed on May&#160;26, 2011, under the Exchange Act, 
+including any amendment or report filed for the purpose of updating such 
+description.</font></div></td></tr></table></div></div><div style="line-
+height:120%;padding-top:13px;text-align:left;text-indent:30px;font-
+size:10pt;"><font style="font-family:inherit;font-size:10pt;">All documents 
+filed by the Registrant with the Commission pursuant to Sections 13(a), 13(c), 
+14 and 15(d) of the Exchange Act (excluding information deemed to be furnished 
+and not filed with the Commission) subsequent to the date of this Registration 
+Statement and prior to the filing of a post-effective amendment that indicates 
+that all securities offered have been sold or that deregisters all securities 
+then remaining unsold, will be deemed to be incorporated by reference in this 
+Registration Statement and to be part hereof from the date of filing of such 
+documents. We do not and will not, however, incorporate by reference in this 
+Registration Statement any documents or portions thereof that are not deemed 
+&#8220;filed&#8221; with the SEC, including any information furnished pursuant 
+to Item 2.02 or Item 7.01 of our Current Reports on Form 8-K unless, and except 
+to the extent, specified in such current reports.</font></div><div style="line-
+height:120%;padding-top:13px;text-align:left;text-indent:30px;font-
+size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#32;&#32;&#32;Any
+statement contained in any document incorporated or deemed to be incorporated by
+reference herein will be deemed to be modified or superseded for purposes of 
+this Registration Statement to the extent that a statement contained herein or 
+in any other subsequently filed document which also is or is deemed to be 
+incorporated by reference herein modifies or supersedes such statement. Any such
+statement so modified or superseded will not be deemed, except as modified or 
+superseded, to constitute a part of this Registration 
+Statement.</font></div><div><br></div><div></div><hr style="page-break-
+after:always"><div><div style="line-height:138%;padding-bottom:13px;text-
+align:left;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;"><br></font></div></div><div><br></div><div style="line-
+height:120%;padding-top:18px;text-align:left;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;"><br></font></div><div style="line-
+height:120%;padding-top:18px;text-align:left;font-size:10pt;"><font
+ style="font-family:inherit;font-size:10pt;font-weight:bold;">Item&#160;8. 
+Exhibits.</font></div><div style="line-height:120%;text-align:left;font-
+size:10pt;"><div style="padding-left:0px;text-indent:0px;line-
+height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" 
+style="font-family:Times New Roman;font-size:10pt;width:100%;border-
+collapse:collapse;text-align:left;"><tr><td colspan="3"></td></tr><tr><td 
+style="width:7%;"></td><td style="width:3%;"></td><td 
+style="width:90%;"></td></tr><tr><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-
+align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-
+align:center;font-size:9pt;"><font style="font-family:inherit;font-
+size:9pt;">Exhibit</font></div><div style="text-align:center;font-
+size:9pt;"><font style="font-family:inherit;font-
+size:9pt;">Number</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;border-
+bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:9pt;"><font
+style="font-family:inherit;font-
+size:9pt;">Description</font></div></td></tr><tr><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+colspan="2" style="vertical-align:bottom;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td 
+style="vertical-align:top;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:center;font-
+size:9pt;"><font style="font-family:inherit;font-
+size:9pt;">&#160;&#160;4.1</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:left;font-size:9pt;"><font style="font-
+family:inherit;font-size:9pt;">Restated Certificate of Incorporation of the 
+Registrant (incorporated by reference to Exhibit 3.1 to MPC&#8217;s Current 
+Report on Form 8-K (Commission File No. 001-35054) filed by MPC on June 22, 
+2011).</font></div></td></tr><tr><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td colspan="2" 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-
+align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:center;font-size:9pt;"><font style="font-
+family:inherit;font-size:9pt;">&#160;&#160;4.2</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div
+style="text-align:left;font-size:9pt;"><font style="font-family:inherit;font-
+size:9pt;">Amended and Restated Bylaws of the Registrant (incorporated by 
+reference to Exhibit 3.1 to MPC&#8217;s Current Report on Form 8-K (Commission 
+File No. 001-35054) filed by MPC on February 29, 
+2016).</font></div></td></tr><tr><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td colspan="2" 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-
+align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:center;font-size:9pt;"><font style="font-
+family:inherit;font-size:9pt;">&#160;&#160;4.3</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:left;font-size:9pt;"><font style="font-family:inherit;font-
+size:9pt;">Marathon Petroleum Thrift Plan (incorporated by reference to Exhibit 
+10.45 to MPC&#8217;s Annual Report on Form 10-K for the year ended December 31, 
+2015 (Commission File No. 001-35054).</font></div></td></tr><tr><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td colspan="2" style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td
+style="vertical-align:top;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:center;font-
+size:9pt;"><font style="font-family:inherit;font-
+size:9pt;">&#160;&#160;5.1</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:left;font-size:9pt;"><font style="font-
+family:inherit;font-size:9pt;">Opinion of Counsel.</font></div></td></tr><tr><td
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td colspan="2" style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:left;font-size:9pt;"><font style="font-family:inherit;font-
+size:9pt;">The Registrant undertakes to submit the Plan and any subsequent 
+amendments thereto to the Internal Revenue Service (&#8220;IRS&#8221;) in a 
+timely manner and will make all changes required by the IRS in order to qualify 
+the Plan.</font></div></td></tr><tr><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td colspan="2"
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-
+align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:center;font-size:9pt;"><font style="font-
+family:inherit;font-size:9pt;">23.1</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:left;font-size:9pt;"><font style="font-
+family:inherit;font-size:9pt;">Consent of Independent
+ Registered Public Accounting Firm.</font></div></td></tr><tr><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td colspan="2" style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td
+style="vertical-align:top;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:center;font-
+size:9pt;"><font style="font-family:inherit;font-
+size:9pt;">23.2</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:left;font-size:9pt;"><font style="font-family:inherit;font-
+size:9pt;">Consent of Counsel (included in Exhibit 
+5.1).</font></div></td></tr><tr><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td colspan="2" 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-
+align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:center;font-size:9pt;"><font style="font-
+family:inherit;font-size:9pt;">24.1</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:left;font-size:9pt;"><font style="font-
+family:inherit;font-size:9pt;">Powers of 
+Attorney.</font></div></td></tr></table></div></div><div><br></div><div></div><h
+r style="page-break-after:always"><div><div style="line-height:138%;padding-
+bottom:13px;text-align:left;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;"><br></font></div></div><div><br></div><div 
+style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;font-weight:bold;">SIGNATURES</font></div><div 
+style="line-height:120%;padding-top:13px;text-align:left;text-indent:48px;font-
+size:10pt;"><font style="font-family:inherit;font-size:10pt;">Pursuant to the 
+requirements of the Securities Act, the Registrant certifies that it has 
+reasonable grounds to believe that it meets all of the requirements for filing 
+on Form S-8 and has duly caused this Registration Statement to be signed on its 
+behalf by the undersigned, thereunto duly authorized, in the city of Findlay, 
+state of Ohio, on this 5</font><font style="font-family:inherit;font-
+size:10pt;"><sup style="vertical-align:top;line-height:120%;font-
+size:7pt">th</sup></font><font style="font-family:inherit;font-
+size:10pt;">&#32;day of August, 2016.</font></div><div style="line-
+height:120%;text-align:left;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div><div style="line-
+height:120%;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-
+height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" 
+style="font-family:Times New Roman;font-
+size:10pt;width:47.592592592592595%;border-collapse:collapse;text-
+align:left;"><tr><td colspan="3"></td></tr><tr><td style="width:9%;"></td><td 
+style="width:9%;"></td><td style="width:82%;"></td></tr><tr><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td colspan="3"
+style="vertical-align:top;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:left;font-
+size:10pt;"><font style="font-family:inherit;font-size:10pt;font-
+weight:bold;">MARATHON PETROLEUM CORPORATION</font></div></td></tr><tr><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td colspan="2" style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td
+style="vertical-align:top;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:left;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">By:</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:top;border-
+bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:left;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;&#160;&#160;&#160;/s/ Gary R. 
+Heminger</font></div></td></tr><tr><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">Gary R. Heminger</font></div></td></tr><tr><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">Chairman, President and Chief Executive 
+Officer</font></div></td></tr></table></div></div><div style="line-
+height:120%;padding-top:13px;text-align:left;text-indent:48px;font-
+size:10pt;"><font style="font-family:inherit;font-size:10pt;">Pursuant to the 
+requirements of the Securities Act, this Registration Statement has been signed 
+by the following persons in the capacities on August 5, 2016.</font></div><div
+style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div><div style="line-
+height:120%;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-
+height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" 
+style="font-family:Times New Roman;font-size:10pt;width:100%;border-
+collapse:collapse;text-align:left;"><tr><td colspan="3"></td></tr><tr><td 
+style="width:50%;"></td><td style="width:1%;"></td><td 
+style="width:49%;"></td></tr><tr><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-
+align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-
+align:center;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">SIGNATURE</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;border-
+bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div
+ style="text-align:center;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">TITLE</font></div></td></tr><tr><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td colspan="2" style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:center;font-
+size:10pt;"><font style="font-family:inherit;font-size:10pt;">/s/ Gary R. 
+Heminger</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td rowspan="2" style="vertical-
+align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">Chairman, President and </font></div><div 
+style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">Chief Executive Officer</font></div><div style="text-
+align:center;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;(Principal Executive Officer)</font></div></td></tr><tr><td 
+style="vertical-align:top;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;border-top:1px solid #000000;"><div style="text-
+align:center;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">Gary R. Heminger</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:6px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td colspan="2" style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:6px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td
+style="vertical-align:bottom;border-bottom:1px solid #000000;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">/s/ Timothy T. Griffith</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td rowspan="2" 
+style="vertical-align:top;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:center;font-
+size:10pt;"><font style="font-family:inherit;font-size:10pt;">Senior Vice 
+President</font></div><div style="text-align:center;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">and Chief Financial 
+Officer</font></div><div style="text-align:center;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">(Principal Financial 
+Officer)</font></div></td></tr><tr><td style="vertical-align:top;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">Timothy T. Griffith</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td colspan="2" style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td
+style="vertical-align:bottom;border-bottom:1px solid #000000;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">/s/ John J. Quaid</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td rowspan="2" 
+style="vertical-align:top;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:center;font-
+size:10pt;"><font style="font-family:inherit;font-size:10pt;">Vice President and
+Controller</font></div><div style="text-align:center;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">(Principal Accounting 
+Officer)</font></div></td></tr><tr><td style="vertical-align:top;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">John J. Quaid</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td colspan="2" style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td
+style="vertical-align:bottom;border-bottom:1px solid #000000;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">*</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td rowspan="2" style="vertical-
+align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">Director</font></div></td></tr><tr><td
+style="vertical-align:top;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:center;font-
+size:10pt;"><font style="font-family:inherit;font-size:10pt;">Evan 
+Bayh</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+colspan="2" style="vertical-align:bottom;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td 
+style="vertical-align:bottom;border-bottom:1px solid #000000;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">*</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td rowspan="2" style="vertical-
+align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">Director</font></div></td></tr><tr><td 
+style="vertical-align:top;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:center;font-
+size:10pt;"><font style="font-family:inherit;font-size:10pt;">Charles E. 
+Bunch</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+colspan="2" style="vertical-align:bottom;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td 
+style="vertical-align:bottom;border-bottom:1px solid #000000;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div
+ style="text-align:center;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">*</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td rowspan="2" 
+style="vertical-align:middle;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:center;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">Director</font></div></td></tr><tr><td style="vertical-
+align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">David A. Daberko</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+colspan="2" style="vertical-align:bottom;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td 
+style="vertical-align:bottom;border-bottom:1px solid #000000;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">*</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td rowspan="2" style="vertical-
+align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">Director</font></div></td></tr><tr><td 
+style="vertical-align:top;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:center;font-
+size:10pt;"><font style="font-family:inherit;font-size:10pt;">Steven A. 
+Davis</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+colspan="2" style="vertical-align:bottom;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td 
+style="vertical-align:bottom;border-bottom:1px solid #000000;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">*</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td rowspan="2" style="vertical-
+align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">Director</font></div></td></tr><tr><td 
+style="vertical-align:top;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:center;font-
+size:10pt;"><font style="font-family:inherit;font-size:10pt;">Donna A. 
+James</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+colspan="2" style="vertical-align:bottom;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td 
+style="vertical-align:bottom;border-bottom:1px solid #000000;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">*</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td rowspan="2" style="vertical-
+align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">Director</font></div></td></tr><tr><td 
+style="vertical-align:top;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:center;font-
+size:10pt;"><font style="font-family:inherit;font-size:10pt;">James E. 
+Rohr</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:5px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:5px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:5px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td 
+style="vertical-align:bottom;border-bottom:1px solid #000000;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">*</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td rowspan="2" style="vertical-
+align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">Director</font></div></td></tr><tr><td 
+style="vertical-align:top;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:center;font-
+size:10pt;"><font style="font-family:inherit;font-size:10pt;">Frank M. 
+Semple</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:5px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+colspan="2" style="vertical-align:bottom;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:5px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td 
+style="vertical-align:bottom;border-bottom:1px solid #000000;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">*</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td rowspan="2" style="vertical-
+align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">Director</font></div></td></tr><tr><td 
+style="vertical-align:top;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:center;font-
+size:10pt;"><font style="font-family:inherit;font-size:10pt;">John W. 
+Snow</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:5px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td
+ colspan="2" style="vertical-align:bottom;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:5px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td 
+style="vertical-align:bottom;border-bottom:1px solid #000000;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">*</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td rowspan="2" style="vertical-
+align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">Director</font></div></td></tr><tr><td 
+style="vertical-align:top;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:center;font-
+size:10pt;"><font style="font-family:inherit;font-size:10pt;">John P. 
+Surma</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr></table></div></div><div><br></div><div
+></div><hr style="page-break-after:always"><div><div style="line-
+height:138%;padding-bottom:13px;text-align:left;font-size:10pt;"><font 
+style="font-family:inherit;font-
+size:10pt;"><br></font></div></div><div><br></div><div style="line-
+height:120%;text-align:left;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;"><br></font></div><div style="line-
+height:120%;text-align:center;font-size:10pt;"><div style="padding-
+left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table 
+cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-
+size:10pt;margin-left:auto;margin-right:auto;width:100%;border-
+collapse:collapse;text-align:left;"><tr><td colspan="1"></td></tr><tr><td 
+style="width:100%;"></td></tr><tr><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:1px 
+solid #000000;"><div style="overflow:hidden;height:5px;font-size:10pt;"><font 
+style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr></table></div></div><div style="line-
+height:120%;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-
+height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" 
+style="font-family:Times New Roman;font-size:10pt;width:100%;border-
+collapse:collapse;text-align:left;"><tr><td colspan="2"></td></tr><tr><td 
+style="width:2%;"></td><td style="width:98%;"></td></tr><tr><td style="vertical-
+align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">*</font></div></td><td style="vertical-
+align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">This Registration Statement has been signed on 
+behalf of the above directors by Gary R. Heminger, as attorney-in-fact pursuant 
+to a power of attorney filed as Exhibit 24.1 to this Registration 
+Statement.</font></div></td></tr></table></div></div><div style="line-
+height:120%;text-align:left;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div><div style="line-
+height:120%;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-
+height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" 
+style="font-family:Times New Roman;font-size:10pt;width:100%;border-
+collapse:collapse;text-align:left;"><tr><td colspan="5"></td></tr><tr><td 
+style="width:48%;"></td><td style="width:1%;"></td><td 
+style="width:4%;"></td><td style="width:1%;"></td><td 
+style="width:46%;"></td></tr><tr><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td
+style="vertical-align:top;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:left;font-
+size:10pt;"><font style="font-family:inherit;font-size:10pt;">DATED: August 5, 
+2016</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">By:</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:top;border-
+bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:left;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;&#160;&#160;&#160;/s/ Gary R. 
+Heminger</font></div></td></tr><tr><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">Gary R. Heminger, Attorney-in-
+Fact</font></div></td></tr></table></div></div><div><br></div><div></div><hr 
+style="page-break-after:always"><div><div style="line-height:138%;padding-
+bottom:13px;text-align:left;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;"><br></font></div></div><div><br></div><div 
+style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;"><br></font></div><div style="line-height:120%;padding-top:13px;text-
+align:left;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">Pursuant to the requirements of the Securities Act, the trustees (or
+other persons who administer the Plan) have duly caused this Registration 
+Statement to be signed on its behalf by the undersigned, thereunto duly 
+authorized, in the city of Findlay, state of Ohio, on this 5</font><font 
+style="font-family:inherit;font-size:10pt;"><sup style="vertical-align:top;line-
+height:120%;font-size:7pt">th</sup></font><font style="font-family:inherit;font-
+size:10pt;">&#32;day of August, 2016.</font></div><div style="line-
+height:120%;text-align:left;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div><div style="line-
+height:120%;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-
+height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" 
+style="font-family:Times New Roman;font-size:10pt;width:100%;border-
+collapse:collapse;text-align:left;"><tr><td colspan="5"></td></tr><tr><td 
+style="width:47%;"></td><td style="width:1%;"></td><td 
+style="width:4%;"></td><td style="width:3%;"></td><td 
+style="width:45%;"></td></tr><tr><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td
+ style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td colspan="3" style="vertical-
+align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">MARATHON PETROLEUM THRIFT 
+PLAN</font></div></td></tr><tr><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td colspan="2" 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td colspan="2" style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">By:</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:top;border-
+bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:left;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;&#160;&#160;&#160;/s/ Rodney P. 
+Nichols</font></div></td></tr><tr><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">Rodney P. Nichols</font></div></td></tr><tr><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">Plan 
+Administrator</font></div></td></tr></table></div><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div><div><br></div><div></div><hr
+style="page-break-after:always"><div><div style="line-height:138%;padding-
+bottom:13px;text-align:left;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;"><br></font></div></div><div><br></div><div 
+style="line-height:120%;text-align:center;font-size:8pt;"><font style="font-
+family:inherit;font-size:8pt;"><br></font></div><div style="line-
+height:120%;text-align:left;font-size:2pt;"><font style="font-
+family:inherit;font-size:2pt;"><br></font></div><div style="line-
+height:120%;"><hr></div><div style="line-height:120%;text-align:left;font-
+size:1pt;"><font style="font-family:inherit;font-
+size:1pt;"><br></font></div><div style="line-height:120%;text-align:left;font-
+size:2pt;"><font style="font-family:inherit;font-
+size:2pt;"><br></font></div><div style="line-height:120%;text-align:left;font-
+size:2pt;"><font style="font-family:inherit;font-
+size:2pt;"><br></font></div><div style="line-height:120%;text-align:center;font-
+size:10pt;"><font style="font-family:inherit;font-size:10pt;font-
+weight:bold;">EXHIBIT INDEX</font></div><div style="line-height:120%;text-
+align:left;font-size:9pt;"><font style="font-family:inherit;font-
+size:9pt;">&#160;</font></div><div style="line-height:120%;font-size:10pt;"><div
+style="padding-left:0px;text-indent:0px;line-height:normal;padding-
+top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New 
+Roman;font-size:10pt;width:100%;border-collapse:collapse;text-
+align:left;"><tr><td colspan="3"></td></tr><tr><td style="width:7%;"></td><td 
+style="width:3%;"></td><td style="width:90%;"></td></tr><tr><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td 
+style="vertical-align:bottom;border-bottom:1px solid #000000;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:center;font-size:9pt;"><font style="font-family:inherit;font-
+size:9pt;">Exhibit</font></div><div style="text-align:center;font-
+size:9pt;"><font style="font-family:inherit;font-
+size:9pt;">Number</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;border-
+bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:9pt;"><font
+style="font-family:inherit;font-
+size:9pt;">Description</font></div></td></tr><tr><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+colspan="2" style="vertical-align:bottom;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td 
+style="vertical-align:top;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:center;font-
+size:9pt;"><font style="font-family:inherit;font-
+size:9pt;">&#160;&#160;4.1</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:left;font-size:9pt;"><font style="font-
+family:inherit;font-size:9pt;">Restated Certificate of Incorporation of the 
+Registrant (incorporated by reference to Exhibit 3.1 to MPC&#8217;s
+ Current Report on Form 8-K (File No. 001-35054) filed by MPC on June 22, 
+2011).</font></div></td></tr><tr><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td colspan="2" 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-
+align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:center;font-size:9pt;"><font style="font-
+family:inherit;font-size:9pt;">&#160;&#160;4.2</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:left;font-size:9pt;"><font style="font-family:inherit;font-
+size:9pt;">Amended and Restated Bylaws of the Registrant (incorporated by 
+reference to Exhibit 3.1 to MPC&#8217;s Current Report on Form 8-K (File No. 
+001-35054) filed by MPC on February 29, 2016).</font></div></td></tr><tr><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td colspan="2" style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td
+style="vertical-align:top;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:center;font-
+size:9pt;"><font style="font-family:inherit;font-
+size:9pt;">&#160;&#160;4.3</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:left;font-size:9pt;"><font style="font-
+family:inherit;font-size:9pt;">Marathon Petroleum Thrift Plan (incorporated by 
+reference to Exhibit 10.45 to MPC&#8217;s Annual Report on Form 10-K for the 
+year ended December 31, 2015 (File No. 001-35054).</font></div></td></tr><tr><td
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td colspan="2" style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td
+style="vertical-align:top;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:center;font-
+size:9pt;"><font style="font-family:inherit;font-
+size:9pt;">&#160;&#160;5.1</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:left;font-size:9pt;"><font style="font-
+family:inherit;font-size:9pt;">Opinion of Counsel.</font></div></td></tr><tr><td
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td colspan="2" style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:left;font-size:9pt;"><font style="font-family:inherit;font-
+size:9pt;">The Registrant undertakes to submit the Plan and any subsequent 
+amendments thereto to the Internal Revenue Service (&#8220;IRS&#8221;) in a 
+timely manner and will make all changes required by the IRS in order to qualify 
+the Plan.</font></div></td></tr><tr><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td colspan="2" 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-
+align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:center;font-size:9pt;"><font style="font-
+family:inherit;font-size:9pt;">23.1</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:left;font-size:9pt;"><font style="font-
+family:inherit;font-size:9pt;">Consent of Independent Registered Public 
+Accounting Firm.</font></div></td></tr><tr><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+colspan="2" style="vertical-align:bottom;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td 
+style="vertical-align:top;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:center;font-
+size:9pt;"><font style="font-family:inherit;font-
+size:9pt;">23.2</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:left;font-size:9pt;"><font style="font-family:inherit;font-
+size:9pt;">Consent of Counsel (included in Exhibit 
+5.1).</font></div></td></tr><tr><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td colspan="2" 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-
+align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:center;font-size:9pt;"><font style="font-
+family:inherit;font-size:9pt;">24.1</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="text-align:left;font-size:9pt;"><font style="font-
+family:inherit;font-size:9pt;">Powers of 
+Attorney.</font></div></td></tr></table></div></div><div style="line-
+height:120%;text-align:left;font-size:6.5pt;"><font style="font-
+family:inherit;font-size:6.5pt;">&#160;</font></div><div style="line-
+height:120%;text-align:left;font-size:8pt;"><font style="font-
+family:inherit;font-size:8pt;"><br></font></div><div><br></div><div></div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-5.1
+<SEQUENCE>2
+<FILENAME>ex51.htm
+<DESCRIPTION>EXHIBIT 5.1
+<TEXT>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" 
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!-- Document created using Wdesk 1 -->
+<!-- Copyright 2016 Workiva -->
+<title>Exhibit</title>
+</head>
+<body style="font-family:Times New Roman;font-size:10pt;">
+<div><a name="s9239dbbbaa4247098ce7784488169547"></a></div><div><div 
+style="line-height:120%;text-align:right;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;font-weight:bold;">Exhibit 5.1</font></div><div 
+style="line-height:120%;padding-bottom:2px;text-align:center;"><img 
+src="jonesdayimage.gif" style="height:21px;width:142px;"></div><div style="line-
+height:232%;text-align:center;font-size:8pt;"><font style="font-
+family:inherit;font-size:8pt;">North Point    </font><font style="font-
+family:Wingdings;font-size:8pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:8pt;">&#32;&#32;&#32;&#32;901 Lakeside Avenue    
+</font><font style="font-family:Wingdings;font-size:8pt;">&#x9e;</font><font 
+style="font-family:inherit;font-size:8pt;">&#32;&#32;&#32;&#32;Cleveland, Ohio  
+44114.1190</font></div><div style="line-height:232%;text-align:center;font-
+size:8pt;"><font style="font-family:inherit;font-size:8pt;">TELEPHONE: 
++1.216.586.3939  FACSIMILE: 
++1.216.579.0212</font></div></div><div><br></div><div style="line-
+height:120%;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-
+height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" 
+style="font-family:Times New Roman;font-size:10pt;width:100%;border-
+collapse:collapse;text-align:left;"><tr><td colspan="3"></td></tr><tr><td 
+style="width:46%;"></td><td style="width:23%;"></td><td 
+style="width:31%;"></td></tr><tr><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-
+left:2px;padding-top:8px;padding-bottom:32px;padding-right:2px;"><div 
+style="padding-bottom:32px;text-align:left;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">August 5, 2016</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr></table></div></div><div style="line-
+height:120%;text-align:left;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">Marathon Petroleum Corporation</font></div><div 
+style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">539 South Main Street</font></div><div 
+style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">Findlay, Ohio  45840-3229</font></div><table 
+cellpadding="0" cellspacing="0" style="padding-top:16px;padding-
+bottom:16px;font-family:Times New Roman; font-size:10pt;"><tr><td 
+style="width:108px;"></td><td></td></tr><tr><td style="vertical-align:top"><div 
+style="line-height:120%;font-size:10pt;padding-left:77px;"><font style="font-
+family:inherit;font-size:10pt;">Re:</font></div></td><td style="vertical-
+align:top;"><div style="line-height:120%;text-align:left;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;text-
+decoration:underline;">Registration Statement on Form S-8 Filed by Marathon 
+Petroleum Corporation</font><font style="font-family:inherit;font-
+size:10pt;">&#32;</font></div></td></tr></table><div style="line-
+height:120%;padding-bottom:16px;padding-top:16px;text-align:left;font-
+size:10pt;"><font style="font-family:inherit;font-size:10pt;">Ladies and 
+Gentlemen:</font></div><div style="line-height:120%;padding-bottom:16px;text-
+align:left;text-indent:48px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">We have acted as counsel for Marathon Petroleum 
+Corporation, a Delaware corporation (the &#8220;</font><font style="font-
+family:inherit;font-size:10pt;font-style:italic;font-
+weight:bold;">Company</font><font style="font-family:inherit;font-
+size:10pt;">&#8221;), in connection with the Marathon Petroleum Thrift Plan (the
+&#8220;</font><font style="font-family:inherit;font-size:10pt;font-
+style:italic;font-weight:bold;">Plan</font><font style="font-
+family:inherit;font-size:10pt;">&#8221;).  In connection with the opinion 
+expressed herein, we have examined such documents, records and matters of law as
+we have deemed relevant or necessary for purposes of such opinion.  Based on the
+foregoing, and subject to the further limitations, qualifications and 
+assumptions set forth herein, we are of the opinion that the 50,000,000 shares 
+(the &#8220;</font><font style="font-family:inherit;font-size:10pt;font-
+style:italic;font-weight:bold;">Shares</font><font style="font-
+family:inherit;font-size:10pt;">&#8221;) of the Company&#8217;s Common Stock, 
+par value $0.01 per share, that may be issued or delivered and sold pursuant to 
+the Plan will be, when issued or delivered and sold in accordance with such 
+Plan, validly issued, fully paid and nonassessable, provided that the 
+consideration for such Shares is at least equal to the stated par value thereof.
+</font></div><div style="line-height:120%;padding-bottom:16px;text-
+align:left;text-indent:48px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">The opinion expressed herein is limited to the 
+General Corporation Law of the State of Delaware, as currently in effect, and we
+express no opinion as to the effect of the laws of any other jurisdiction.  In 
+addition, we have assumed that the resolutions authorizing the Company to issue 
+or deliver and sell the Shares pursuant to the Plan will be in full force and 
+effect at all times at which such Shares are issued or delivered or sold by the 
+Company, and the Company will take no action inconsistent with such 
+resolutions.</font></div><div style="line-height:120%;padding-bottom:16px;text-
+align:left;text-indent:48px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">We hereby consent to the filing of this opinion 
+as Exhibit 5.1 to the Registration Statement on Form S-8 filed by the Company to
+effect registration of the Shares to be issued and sold pursuant to the Plan 
+under the Securities Act of 1933 (the &#8220;</font><font style="font-
+family:inherit;font-size:10pt;font-style:italic;font-
+weight:bold;">Act</font><font style="font-family:inherit;font-
+size:10pt;">&#8221;).  In giving such consent, we do not thereby admit that we 
+are included in the category of persons whose consent is required under Section 
+7 of the Act or the rules and regulations of the Securities and Exchange 
+Commission promulgated thereunder.</font></div><div style="line-
+height:120%;padding-bottom:16px;text-align:center;font-size:10pt;"><div 
+style="padding-left:0px;text-indent:0px;line-height:normal;padding-
+top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New 
+Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-
+collapse:collapse;text-align:left;"><tr><td colspan="3"></td></tr><tr><td 
+style="width:46%;"></td><td style="width:23%;"></td><td 
+style="width:31%;"></td></tr><tr><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="padding-bottom:16px;text-align:left;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">Very truly yours,</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="padding-bottom:16px;text-align:left;font-
+size:10pt;"><font style="font-family:inherit;font-size:10pt;">/s/ Jones 
+Day</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr></table></div></div><div style="line-
+height:120%;padding-bottom:16px;text-align:left;font-size:12pt;"><font 
+style="font-family:inherit;font-size:12pt;"><br></font></div><div style="line-
+height:120%;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;"><br></font></div><div><br></div><div><div style="line-
+height:120%;text-align:center;font-size:7.5pt;"><font style="font-
+family:inherit;font-size:7.5pt;">ALKHOBAR </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;AMSTERDAM </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;ATLANTA </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;BEIJING </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;BOSTON </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;BRISBANE </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;BRUSSELS </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;CHICAGO </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;CLEVELAND </font><font
+ style="font-family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;COLUMBUS </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;DALLAS</font></div><div style="line-
+height:120%;text-align:center;font-size:7.5pt;"><font style="font-
+family:inherit;font-size:7.5pt;">DETROIT </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;DUBAI </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;D&#220;SSELDORF </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;FRANKFURT </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;HONG&#160;KONG </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;HOUSTON </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;IRVINE </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;JEDDAH </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;LONDON </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;LOS&#160;ANGELES</font></div><div 
+style="line-height:120%;text-align:center;font-size:7.5pt;"><font style="font-
+family:inherit;font-size:7.5pt;">MADRID </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;MEXICO&#160;CITY </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;MIAMI </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;MILAN </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;MOSCOW </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;MUNICH </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;NEW&#160;YORK </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;PARIS </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;PERTH </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;PITTSBURGH </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;RIYADH</font></div><div style="line-
+height:120%;text-align:center;font-size:7.5pt;"><font style="font-
+family:inherit;font-size:7.5pt;">SAN&#160;DIEGO </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;SAN&#160;FRANCISCO </font><font 
+style="font-family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;S&#195;O&#160;PAULO </font><font 
+style="font-family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;SHANGHAI </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;SILICON&#160;VALLEY </font><font 
+style="font-family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;SINGAPORE </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;SYDNEY </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;TAIPEI </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;TOKYO </font><font style="font-
+family:Wingdings;font-size:7.5pt;">&#x9e;</font><font style="font-
+family:inherit;font-size:7.5pt;">&#32;WASHINGTON</font></div><div style="line-
+height:120%;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;"><br></font></div></div> </body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.1
+<SEQUENCE>3
+<FILENAME>ex231.htm
+<DESCRIPTION>EXHIBIT 23.1
+<TEXT>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" 
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!-- Document created using Wdesk 1 -->
+<!-- Copyright 2016 Workiva -->
+<title>Exhibit</title>
+</head>
+<body style="font-family:Times New Roman;font-size:10pt;">
+<div><a name="s3a43f07cf4b54bf89b0b0482ea61160d"></a></div><div><div 
+style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;"><br></font></div></div><div><br></div><div style="line-
+height:120%;text-align:right;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;font-weight:bold;">Exhibit 23.1</font></div><div 
+style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;"><br></font></div><div style="line-
+height:120%;text-align:center;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;font-weight:bold;">CONSENT OF INDEPENDENT 
+REGISTERED PUBLIC ACCOUNTING FIRM</font></div><div style="line-height:120%;text-
+align:left;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;"><br></font></div><div style="line-height:120%;padding-
+bottom:8px;text-align:justify;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">We hereby consent to the incorporation by 
+reference in this Registration Statement on Form&#160;S-8 of our report dated 
+February 26, 2016 relating to the financial statements and the effectiveness of 
+internal control over financial reporting, which appears in Marathon Petroleum 
+Corporation's Annual Report on Form 10&#8209;K for the year ended December 31, 
+2015.</font></div><div style="line-height:120%;padding-bottom:8px;text-
+align:left;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">/s/ PricewaterhouseCoopers LLP</font></div><div style="line-
+height:120%;padding-bottom:8px;text-align:left;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-
+height:120%;text-align:justify;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">Toledo, Ohio</font></div><div style="line-
+height:120%;text-align:justify;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">August 5, 2016</font></div><div style="line-
+height:120%;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;"><br></font></div><div><br></div><div><div style="line-
+height:120%;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;"><br></font></div></div> </body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.1
+<SEQUENCE>4
+<FILENAME>ex241.htm
+<DESCRIPTION>EXHIBIT 24.1
+<TEXT>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" 
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!-- Document created using Wdesk 1 -->
+<!-- Copyright 2016 Workiva -->
+<title>Exhibit</title>
+</head>
+<body style="font-family:Times New Roman;font-size:10pt;">
+<div><a name="s805e2f86f20f4612b7fab4653048a405"></a></div><div><div 
+style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;"><br></font></div></div><div><br></div><div style="line-
+height:120%;text-align:right;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;font-weight:bold;">Exhibit 24.1</font></div><div 
+style="line-height:120%;padding-top:13px;text-align:center;font-
+size:10pt;"><font style="font-family:inherit;font-size:10pt;font-
+weight:bold;">POWER OF ATTORNEY</font></div><div style="line-
+height:120%;padding-top:13px;text-align:left;text-indent:30px;font-
+size:10pt;"><font style="font-family:inherit;font-size:10pt;">KNOW ALL BY THESE 
+PRESENTS, that each of the undersigned directors and officers of Marathon 
+Petroleum Corporation, a Delaware corporation (the &#8220;</font><font 
+style="font-family:inherit;font-size:10pt;font-style:italic;font-
+weight:bold;">Registrant</font><font style="font-family:inherit;font-
+size:10pt;">&#8221;), does hereby constitute and appoint each of Gary R. 
+Heminger, Timothy T. Griffith and John J. Quaid, or any of them, each acting 
+alone, as the true and lawful attorney-in-fact or attorneys-in-fact for each of 
+the undersigned, with full power of substitution and resubstitution, and in the 
+name, place and stead of each of the undersigned, to execute and file (i)&#160;a
+Registration Statement on Form S-8 (the &#8220;</font><font style="font-
+family:inherit;font-size:10pt;font-style:italic;font-weight:bold;">Form S-8 
+Registration Statement</font><font style="font-family:inherit;font-
+size:10pt;">&#8221;) with respect to the registration under the Securities Act 
+of 1933, as amended, of common stock of the Registrant issuable in connection 
+with the Marathon Petroleum Corporation Thrift Plan (or any amendment or 
+restatement thereof), (ii)&#160;any and all amendments, including post-effective
+amendments, supplements and exhibits to the Form S-8 Registration Statement and 
+(iii)&#160;any and all applications or other documents to be filed with the 
+Securities and Exchange Commission or any state securities commission or other 
+regulatory authority or exchange with respect to the securities covered by the 
+Form S-8 Registration Statement, with full power and authority to do and perform
+any and all acts and things whatsoever necessary, appropriate or desirable to be
+done in the premises, or in the name, place and stead of the said director 
+and/or officer, hereby ratifying and approving the acts of said attorneys and 
+any of them and any such substitute. This Power of Attorney may be executed in 
+multiple counterparts, each of which will be deemed an original with respect to 
+the person executing it.</font></div><div style="line-height:120%;padding-
+top:13px;text-align:left;text-indent:30px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">IN WITNESS WHEREOF, the undersigned have 
+hereunto set their hands as of the 27</font><font style="font-
+family:inherit;font-size:10pt;"><sup style="vertical-align:top;line-
+height:120%;font-size:7pt">th</sup></font><font style="font-family:inherit;font-
+size:10pt;">&#32;day of July, 2016.</font></div><div style="line-
+height:120%;padding-top:13px;text-align:left;text-indent:30px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div><div style="line-height:120%;font-
+size:10pt;"><div style="padding-left:0px;text-indent:0px;line-
+height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" 
+style="font-family:Times New Roman;font-size:10pt;width:100%;border-
+collapse:collapse;text-align:left;"><tr><td colspan="5"></td></tr><tr><td 
+style="width:47%;"></td><td style="width:1%;"></td><td 
+style="width:4%;"></td><td style="width:1%;"></td><td 
+style="width:47%;"></td></tr><tr><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td
+style="vertical-align:top;border-bottom:1px solid #000000;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;&#160;&#160;&#160;/s/ Gary R. Heminger</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:top;border-
+bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:left;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;&#160;&#160;&#160;/s/ Steven A. 
+Davis</font></div></td></tr><tr><td style="vertical-align:top;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Gary 
+R. Heminger</font></div><div style="font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">Chairman, President and Chief Executive 
+Officer</font></div><div style="font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;(principal executive 
+officer)</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Steven
+A. Davis </font></div><div style="font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">Director</font></div></td></tr><tr><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td colspan="2" style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+colspan="2" style="vertical-align:bottom;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:16px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:16px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:16px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:16px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:16px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td 
+style="vertical-align:bottom;border-bottom:1px solid #000000;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:left;font-size:10pt;"><font
+ style="font-family:inherit;font-size:10pt;">&#160;&#160;&#160;&#160;/s/ Timothy
+T. Griffith</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;border-
+bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:left;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;&#160;&#160;&#160;/s/ Donna A. 
+James</font></div></td></tr><tr><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">Timothy T. Griffith </font></div><div style="font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">Senior Vice President and Chief 
+Financial Officer</font></div><div style="font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">(principal financial 
+officer)</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Donna 
+A. James</font></div><div style="font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">Director</font></div></td></tr><tr><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td colspan="2" style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+colspan="2" style="vertical-align:bottom;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:17px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:17px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:17px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:17px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:17px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td 
+style="vertical-align:top;border-bottom:1px solid #000000;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;&#160;&#160;&#160;/s/ John J. Quaid</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;border-
+bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:left;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;&#160;&#160;&#160;/s/ James E. 
+Rohr</font></div></td></tr><tr><td style="vertical-align:top;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">John 
+J. Quaid </font></div><div style="font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">Vice President and Controller</font></div><div 
+style="font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">(principal accounting officer)</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">James E. Rohr </font></div><div style="font-size:10pt;"><font 
+style="font-family:inherit;font-
+size:10pt;">Director</font></div></td></tr><tr><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+colspan="2" style="vertical-align:bottom;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td colspan="2" 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:17px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:17px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:17px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:17px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:17px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-
+align:top;border-bottom:1px solid #000000;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;&#160;&#160;&#160;/s/ Evan Bayh</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div
+ style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;border-
+bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:left;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;&#160;&#160;&#160;/s/ Frank M. 
+Semple</font></div></td></tr><tr><td style="vertical-align:top;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Evan 
+Bayh</font></div><div style="font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">Director</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">Frank M. Semple </font></div><div style="font-size:10pt;"><font 
+style="font-family:inherit;font-
+size:10pt;">Director</font></div></td></tr><tr><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+colspan="2" style="vertical-align:bottom;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td colspan="2" 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:17px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:17px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:17px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:17px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:17px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-
+align:top;border-bottom:1px solid #000000;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;&#160;&#160;&#160;/s/ Charles E. Bunch</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:top;border-
+bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:left;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;&#160;&#160;&#160;/s/ John W. 
+Snow</font></div></td></tr><tr><td style="vertical-align:top;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">Charles E. Bunch</font></div><div style="font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">Director</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">John 
+W. Snow </font></div><div style="font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">Director</font></div></td></tr><tr><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:4px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td colspan="2" style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:4px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+colspan="2" style="vertical-align:bottom;padding-left:2px;padding-
+top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:4px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:17px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:17px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;height:17px;font-size:10pt;"><font 
+style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:17px;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;height:17px;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td 
+style="vertical-align:top;border-bottom:1px solid #000000;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;&#160;&#160;&#160;/s/ David A. Daberko</font></div></td><td 
+style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:top;border-
+bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="text-align:left;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;&#160;&#160;&#160;/s/ John P. 
+Surma</font></div></td></tr><tr><td style="vertical-align:top;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">David 
+A. Daberko </font></div><div style="font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">Director</font></div></td><td style="vertical-
+align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-
+right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-
+family:inherit;font-size:10pt;">&#160;</font></div></td><td
+ style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-
+bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-
+size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-
+left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div 
+style="font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">John 
+P. Surma</font></div><div style="font-size:10pt;"><font style="font-
+family:inherit;font-
+size:10pt;">Director</font></div></td></tr></table></div></div><div style="line-
+height:120%;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;"><br></font></div><div><br></div><div><div style="line-
+height:120%;font-size:10pt;"><font style="font-family:inherit;font-
+size:10pt;"><br></font></div></div> </body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>5
+<FILENAME>jonesdayimage.gif
+<TEXT>
+begin 644 jonesdayimage.gif
+M1TE&.#EA9@$V /<           $! 5-34U-34U-34U-34U-34U-34U-34U-3
+M4U-34U-34U-34U-34U-34U-34U-34U-34U-34U-34U-34U-34U-34U-34U-3
+M4U-34U-34U-34U-34U-34U-34U-34U-34U-34U-34U-34U-34U-34U-34U-3
+M4U-34U-34U-34U-34U-34U-34U-34U-34U-34U-34U-34U-34U-34U-34U-3
+M4U-34U-34U-34U-34U-34U-34U-34U-34U-34U-34U-34U-34U-34U-34U-3
+M4U-34U-34U-34U-34U-34U-34U-34U-34U-34U-34U-34U-34U-34U-34U-3
+M4U-34U-34U-34U-34U-34U-34U-34U-34U-34U-34U-34U-34U-34U-34U-3
+M4U-34U-34U-34U-34U-34U-34U-34U145%5555=75UI:6EY>7F-C8VAH:&YN
+M;G-S<W1T='5U=79V=G=W=WAX>'EY>7IZ>GM[>WQ\?'U]?7Y^?G]_?X" @(&!
+M@8*"@H.#@X2$A(6%A8:&AH>'AXB(B(F)B8J*BHN+BXR,C(V-C8Z.CH^/CY"0
+MD)&1D9*2DI.3DY24E)65E9:6EI>7EYB8F)F9F9J:FIN;FYR<G)V=G9Z>GI^?
+MGZ&AH:*BHJ.CHZ2DI*6EI::FIJ>GIZBHJ*FIJ:JJJJNKJZRLK*VMK:ZNKJ^O
+MK["PL+&QL;*RLK.SL[2TM+6UM;:VMK>WM[BXN+FYN;JZNKN[N[R\O+V]O;Z^
+MOK^_O\# P,'!P<+"PL/#P\3$Q,7%Q<;&QL?'Q\C(R,G)R<K*RLO+R\S,S,W-
+MS<[.SL_/S]#0T-'1T=+2TM/3T]34U-75U=;6UM?7U]C8V-G9V=K:VMO;V]S<
+MW-W=W=[>WM_?W^'AX>+BXN/CX^3DY.7EY>;FYN?GY^CHZ.GIZ>KJZNOKZ^SL
+M[.WM[>[N[N_O[_#P\/'Q\?+R\O/S\_3T]/7U]?;V]O?W]_CX^/GY^?KZ^OO[
+M^_S\_/W]_?[^_O_______R'Y! $     +     !F 38 0 C^  $('$BPH,&#
+M"!,J7,BPH<.'$"-*G$BQHL6+&#-JW,BQH\>/($.*'/GPQ@V2*"^:7&G2(<N6
+M)5^>7"B39428$&7>M'E0Y\Z5(6NZ]$FQ)LZ<1G^F-"@T8=*B1'O.'&ATJE2)
+M49GRC%FUZE( 3;F^C*DUZ\^F0#D^91@685ND9@D>=>L5K-6A6Q7.!=NQKL>W
+M;.-JQ3NV(N"-:<7N#9R7;F.]B>%&;GA8:MRUE!^K%2RW<N?"BC73Y/RUM.G3
+MJ%.K7LVZM>O7L&/+GNV7\&*!H)UVG>CY<V[+F('?+=O;8G#?HGG_9EP<,NG-
+MRPL>SQR]L]WI@\_>EGYW.%7LD(/^/N=>W3GNYKH])T_9&SSSR=S3F]TNG_YU
+M[Y*[HH=:WG'_[_JY1]U_AHT'(('['0A?=K812)Q]P$7(WX(9)2C@==I1^!Z$
+MB.DGWH4*!H@?7<Z):.)E(WKXX8D7LAB5BXW!N-YL--9HXXTXYJCCCCSVZ../
+M0 8IY) @R<CA>2K6!V*(*AIY8G[!S1B:DT5J2-Z3H[&XHI4/CHB<ET@F>""4
+M8'Z9HI1F;@FAF$J6V267]976')OWP9ED8%@Y6)9_<%JFIIMA]BF<@8/V*6B5
+M_]$9J)4XU49BAHR1J2AT:#()Z'=F7OHF?(>*U-ZD==*WF*.89HBEJ:?^B2I>
+MA1[))ZC^66KZ*:&;AE=B;JZ&F-E?)B):J:6[QOKKJYI.>>2<M*9IZX;)+@J5
+MGQ,..Z6D>!I;H)YY%KLHH!8ZV.FVVC8;';97YDIF@VM^&ZJYVX[47[/"O6IM
+MMK(6=Z>ER<$KJ9?(WMNJGOX2*?# !!=L\,$()ZSPP@PW[/##$$<L\<045VSQ
+MQ1AGK'%?Y&[,Y+(,LSLDE1N6>V: QM;E9*I*F@QKIB13BF[ FY+:8<<(YKQD
+MN=,R*VJE.]/+Y<L?[ZNMLTMU^^MXNRD%Y=-\0NJKH?K"++2T2)Z&'IO]BLDN
+MO*+IBW7//E^KJ,V.I=:UN@*B'"S4HWU&[-$BHSOO3N!&.Z/^NAPG6K6],S4-
+M<H-O^SSV1UYS;570,./'=]][__VIU8,/:-^P,&HM;K*3,=ZXW*W-VK&RCU)^
+M%:HBHMXK28K3.BJLJ;\F^N'K5@ZN=U^7)WG,B&].Z':>N_RXJFT>W:YNM\88
+MKLX:93ZUN2#RKK?QEE\*^.AY(R_L5KFC6??,PV]?;(OI5ETTK[\_%SS@U=O4
+M_>.OFXT]L]1F.;-QYB<OZ-KOVVF]X*%1#NZ^5SOT8<Y N0K>\7@UO3(ESEOC
+M\QS8%C2__.F/;/)9E0!I9S]3P6U[K+K:\@ZH&3K-KWWM<R#.)&C!6-E&?OS"
+MEMBDM;7I #!.?P(3^906-+3=;'4O/Z19XW;&J)7%CCS"\R'^C)@OWDEO91Z+
+9HA2G2,4J6O&*6,RB%K?(Q2YZ\8M6# @ .P$!
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

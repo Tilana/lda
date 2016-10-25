@@ -1,0 +1,666 @@
+
+<SEC-DOCUMENT>0001004878-12-000254.txt : 20120814
+<SEC-HEADER>0001004878-12-000254.hdr.sgml : 20120814
+<ACCEPTANCE-DATETIME>20120814171146
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+10-Q
+3
+20120630
+0001004878-12-000254
+20120814
+20120814
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: GOLD & SILVER ORES [1040]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+Cascade Springs Ltd.
+0001518380
+000000000
+1231
+NV
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 333-174872
+FILM NUMBER:
+10-Q
+1934 Act
+121034229
+BUSINESS ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+1155 E. TWAIN AVENUE
+SUITE 108
+LAS VEGAS
+NV
+89169
+(702) 988-4233
+MAIL ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+1155 E. TWAIN AVENUE
+SUITE 108
+LAS VEGAS
+NV
+89169
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>form10qjune12aug-12.txt
+<DESCRIPTION>FORM 10-Q JUNE 30, 2012
+<TEXT>
+UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                              Washington, DC 20549
+FORM 10-Q
+|X| Quarterly Report pursuant to Section 13 or 15(d) of the
+                        Securities Exchange Act of 1934
+For the quarterly period ended June 30, 2012
+|_| Transition Report pursuant to 13 or 15(d) of the Securities
+                              Exchange Act of 1934
+             For the transition period _____________to______________
+Commission File Number 333-174872
+COLORADO GOLD MINES, INC.
+                      ------------------------------------
+                          (Exact name of small Business
+                           Issuer as specified in its
+                                    charter)
+Nevada                                68-0681435
+  ---------------------------------         ------------------------------
+   (State or other jurisdiction of         (IRS Employer Identification No.)
+    incorporation or organization)
+P.O. Box 620490
+             Littleton, CO                            80162-0490
+----------------------------------------    ------------------------------
+    (Address of principal executive
+               offices) (Postal or Zip Code)
+Issuer's telephone number, including
+              area code:                              (303) 506-1633
+                                              ----------------------------
+Cascade Springs, Ltd.
+                          ---------------------------
+                             (Former name, former
+                           ddress and former fiscal
+                          a year, if changed since
+                                 last report)
+Check whether the issuer (1) filed all reports required to be filed by Section
+13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12
+months (or for such shorter period that the issuer was required to file such
+reports), and (2) has been subject to such filing requirements for the past 90
+days:
+|X| Yes    |_| No
+Indicate by check mark whether the registrant is a large accelerated filer, an
+accelerated filer, or a non-accelerated filer. See definition of "accelerated
+filer and large accelerated filer" in Rule 12b-2 of the Exchange Act. (Check
+one):
+Large accelerated filer        |_|         Accelerated filer          |_|
+Non-accelerated filer          |_|         Small reporting company    |X|
+Indicate by check mark whether the registrant is a shell company (as defined in
+Rule 12b-2 of the Exchange Act).
+|_|Yes   |X| No
+State the number of shares outstanding of each of the issuer's classes of common
+stock, as of the latest practicable date: 72,500,000 shares of common stock as
+of July 31, 2012.
+1
+<PAGE>
+COLORADO GOLD MINES, INC.
+                          formerly CASCADE SPRINGS LTD.
+                          (A Exploration Stage Company)
+BALANCE SHEETS
+ASSETS
+June 30, 2012      March 31, 2012
+                                            -------------      --------------
+                                            (Unaudited)
+Current assets:
+Cash                                        $    3,973         $    3,298
+                                            -------------      --------------
+Total current
+assets                                           3,973              3,298
+                                            -------------      --------------
+Total assets                                $    3,973         $    3,298
+                                            =============      ==============
+LIABILITIES AND STOCKHOLDERS' DEFICIT
+Current liabilities:
+Accounts payable                            $    2,295         $        -
+Accounts payable, related party                  6,778              5,604
+Related party advances and notes payable        76,880             68,880
+                                            -------------      --------------
+Total current liabilities
+                                                85,953             74,484
+                                            -------------      --------------
+Total liabilities
+                                                85,953             74,484
+                                            -------------      --------------
+Commitments
+STOCKHOLDERS' DEFICIT
+Common stock, $0.001 par value, 100,000,000     67,500             67,500
+ shares authorized, 67,500,000
+ shares at June 30, 2012 and
+ March 31, 2012 issued and
+ outstanding
+Additional paid-in capital                     (40,300)           (41,025)
+Deficit accumulated during the
+ exploration stage                            (109,180)           (97,661)
+                                            -------------      --------------
+Total stockholders' deficit                    (81,980)           (71,186)
+                                            -------------      --------------
+Total liabilities and stockholders'
+ deficit                                    $    3,973         $    3,298
+                                            =============      ==============
+The accompanying notes are an integral part of the these financial statements.
+2
+<PAGE>
+COLORADO GOLD MINES, INC.
+                          formerly CASCADE SPRINGS LTD.
+(A Exploration Stage Company)
+                             STATEMENT OF OPERATIONS
+            For the three months ended June 30, 2012 and 2011 and the
+                                   period from
+               January 19, 2010 (inception) through June 30, 2012
+                                   (Unaudited)
+<TABLE>
+<S>                                      <C>                <C>               
+<C>
+Three months
+                                 Three months ended       ended        Inception
+through
+                                   June 30, 2012      June 30, 2011      June 
+30, 2012
+                                 
+---------------------------------------------------------
+Costs and expenses:
+Mineral property costs           $         -         $        -           $     
+10,582
+General and administrative            10,345             17,097                 
+95,320
+                                 
+---------------------------------------------------------
+Total expenses                        10,345             17,097                
+105,902
+                                 
+---------------------------------------------------------
+Net loss from operations             (10,345)           (17,097)              
+(105,902)
+Interest expense                      (1,174)                 -                (
+3,278)
+                                 
+---------------------------------------------------------
+Net loss                         $   (11,519)        $  (17,097)          $   
+(109,180)
+                                 
+---------------------------------------------------------
+Net loss per share:
+Basic and diluted                $     (0.00)        $    (0.00)
+                                 =====================================
+Weighted average shares
+outstanding:
+Basic and diluted                 67,500,000         67,500,000
+                                 =====================================
+</TABLE>
+The accompanying notes are an integral part of the these financial statements.
+3
+<PAGE>
+COLORADO GOLD MINES, INC.
+                          formerly CASCADE SPRINGS LTD.
+                          (A Exploration Stage Company)
+                            STATEMENTS OF CASH FLOWS
+            For the three months ended June 30, 2012 and 2011 and the
+                                   period from
+               January 19, 2010 (inception) through June 30, 2012
+                                   (Unaudited)
+<TABLE>
+<S>                                                <C>               <C>        
+<C>
+Three months    
+Inception
+                                         Three months ended      ended         
+through
+                                            June 30, 2012    June 30, 2011  June
+30, 2012
+                                         
+-------------------------------------------------
+CASH FLOWS FROM OPERATING ACTIVITIES
+Net loss                                 $       (11,519)   $    (17,097)   $   
+(109,180)
+Adjustment to reconcile net loss to
+ cash used in operating activities:
+Impairment expense                                     -               -        
+8,000
+Stock based compensation                             725               -        
+2,900
+Net change in:
+Accounts payable                                   2,295               -        
+2,295
+Accounts payable, related party                    1,174           4,628        
+6,778
+                                         
+-------------------------------------------------
+CASH FLOWS USED IN OPERATING ACTIVITIES           (7,325)        (12,469)       
+(89,207)
+                                         
+-------------------------------------------------
+CASH FLOWS FROM INVESTING ACTIVITIES
+Purchase of mineral property                           -               -        
+(8,000)
+                                         
+-------------------------------------------------
+CASH FLOWS USED IN INVESTING ACTIVITIES                -               -        
+(8,000)
+                                         
+-------------------------------------------------
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Proceeds from issuance of common stock                 -               -        
+24,300
+Proceeds from related party advances
+and notes payable net                              8,000          12,500        
+76,880
+                                         
+-------------------------------------------------
+CASH FLOWS PROVIDED BY FINANCING
+ ACTIVITIES                                        8,000          12,500        
+101,180
+                                         
+-------------------------------------------------
+NET CHANGE IN CASH                                   675              31        
+3,973
+Cash, beginning of period                          3,298          10,467        
+-
+                                         
+-------------------------------------------------
+Cash, end of period                      $         3,973    $     10,498    $   
+3,973
+                                         
+=================================================
+SUPPLEMENTAL CASH FLOW INFORMATION
+Cash paid on interest expenses           $             -    $          -    $   
+-
+                                         
+=================================================
+Cash paid for income taxes               $             -    $          -    $   
+-
+                                         
+=================================================
+</TABLE>
+The accompanying notes are an integral part of these financial statements.
+4
+<PAGE>
+COLORADO GOLD MINES, INC.
+                          formerly CASCADE SPRINGS LTD.
+                         (An Exploration Stage Company)
+                        NOTES TO THE FINANCIAL STATEMENTS
+                                  June 30, 2012
+                                   (UNAUDITED)
+Note 1  Basis of Presentation
+        ---------------------
+The accompanying  unaudited interim  financial  statements of Colorado
+          Gold  Mines,  Inc.  (formerly  Cascade  Springs,  Ltd.)  ("CGM" or the
+          "Company") have been prepared in accordance with accounting principles
+          generally  accepted  in the United  States of America and the rules of
+          the Securities and Exchange Commission ("SEC"),  and should be read in
+conjunction  with the audited  financial  statements and notes thereto
+          contained in the  Company's  Annual  Report filed with the SEC on Form
+          10-K on June 14, 2012. In the opinion of management,  all adjustments,
+          consisting  of  normal  recurring  adjustments,  necessary  for a fair
+          presentation  of financial  position and the results of operations for
+          the interim periods presented have been reflected herein.  The results
+          of operations for the interim periods are not  necessarily  indicative
+          of the  results  to be  expected  for  the  full  year.  Notes  to the
+          financial statements that would substantially duplicate the disclosure
+          contained in the audited  financial  statements  for fiscal  2012,  as
+          reported on the Form 10-K of the Company, have been omitted.
+General
+The  Company is in the  exploration  stage,  and is in the  process of
+          exploring  and  evaluating  its  mineral  properties  and  determining
+          whether they contain ore reserves that are  economically  recoverable.
+          The  recoverability  of any amounts  shown for mineral  properties  is
+          dependent upon the discovery of economically recoverable ore reserves,
+          the  ability  of the  Company  to obtain the  necessary  financing  to
+          complete  development,  confirmation of the Company's  interest in the
+          underlying  mineral  claims and upon future  profitable  production or
+          proceeds  from  the   disposition  of  all  or  part  of  its  mineral
+          properties.
+Note 2  Going Concern
+        -------------
+These  financial  statements  have been  prepared in  accordance  with
+          generally  accepted  accounting   principles  applicable  to  a  going
+          concern,  which  assumes  that  the  Company  will be able to meet its
+          obligations  and  continue  its  operations  for its next fiscal year.
+          Realization values may be substantially different from carrying values
+          as  shown  and  these  financial  statements  do not  give  effect  to
+          adjustments  that  would  be  necessary  to the  carrying  values  and
+          classification of assets and liabilities  should the Company be unable
+          to continue as a going concern.  At June 30, 2012, the Company had not
+          yet  achieved  profitable   operations,   has  accumulated  losses  of
+          $(109,180) and expects to incur further  losses in the  development of
+          its business, all of which raise substantial doubt about the Company's
+          ability to  continue  as a going  concern.  The  Company's  ability to
+          continue as a going concern is dependent  upon its ability to generate
+          future profitable  operations and/or to obtain the necessary financing
+          to meet its obligations and repay its liabilities  arising from normal
+          business  operations when they come due. Management has no formal plan
+          in place to address this concern but  considers  that the Company will
+          be able to obtain  additional  funds through equity  financing  and/or
+          related  party  advances,  however there is no assurance of additional
+          funding being available.
+5
+<PAGE>
+Note 3  Related Party Transactions
+        --------------------------
+Part of the  related  party  loan is due to a former  director  of the
+          Company  for  funds  advanced.  The  loan is  unsecured,  non-interest
+          bearing and has no specific terms for repayment. The other part of the
+          related  party loan is due to a consultant  and warrant  holder of the
+          Company  for  funds  advanced  with a 10%  interest  rate  and  has no
+          specific terms for repayment.
+Beginning  April  1,  2011  and  ending  upon  his  resignation,   Mr.
+          Delahunte, the Company's former President,  began receiving $1,500 per
+          month, when available, for services rendered.
+On June 6, 2012,  Robert Sawatsky loaned the Company $8,000.  The loan
+          has a 5% interest rate and matures June 7, 2014.
+The Company was charged the following by directors of the Company:
+Three months       Three months
+                                      ended June 30,     ended June 30,
+                                           2012               2011
+                                     -------------------------------------
+Management fees              $       -        $     3,000
+                                      =================================
+Note 4  Commitments
+        -----------
+On July 1, 2011, the Company entered into a consulting  agreement (the
+          "Agreement") with a consultant.  In accordance with the Agreement, the
+          Company granted the consultant  warrants to purchase  5,400,000 shares
+          of the Company's common stock at an exercise price of $0.10 per share.
+          The  warrants  were held in escrow  and were  given to the  consultant
+          quarterly.  The warrants expire on July 1, 2014. The fair value of the
+          warrants was $2,900 and was  recognized  over the twelve  months ended
+          June 30, 2012.
+Note 5  Subsequent Events
+        -----------------
+On July 3, 2012 Denver Equity Corporation, a corporation controlled by
+          Kelly Fielder,  purchased  41,250,000  shares of the Company's  common
+          stock from  William  Delahunte,  then an officer  and  director of the
+          Company.
+On July 6, 2012  William  Delahunte  and Todd  Grano  appointed  Kelly
+          Fielder as a director of the Company and then resigned as officers and
+          directors of the Company.  Mr.  Fielder was then  appointed  the Chief
+          Executive,  Financial  and  Accounting  Officer  of the  Company.  The
+          appointment of Mr. Fielder and  resignations of Messrs:  Delahunte and
+          Grano resulted in a change of control of the Company.
+On July 9, 2012 the Company's  directors,  and shareholders  holding a
+          majority of the  outstanding  common  stock of the  Company,  approved
+          amendments to the  Company's  Articles of  Incorporation  changing the
+          name of the Company to Colorado Gold Mines,  Inc. and  authorizing the
+          issuance of 10,000,000  shares of preferred  stock.  The amendment was
+          filed with the Nevada  Secretary of State on July 12, 2012. The change
+          in the Company's name became effective in the over-the-counter  market
+          on July 30, 2012.
+On July 27,  2012 the  Company,  through  a  wholly-owned  subsidiary,
+          acquired a 50% interest in Union Milling  Company,  LLC ("Union") from
+          Denver  Equity  Corporation  in exchange for  5,000,000  shares of the
+          Company's  common stock.  Union's assets consist of  approximately  21
+6
+<PAGE>
+acres of real  property,  an ore processing  mill and various  milling
+          equipment.  The mill has been inactive since 1997 and was purchased by
+Union in 2007.
+FORWARD LOOKING STATEMENTS
+The   information   contained   in  this   Form   10-Q   contains   certain
+forward-looking  statements  within the meaning of Section 27A of the Securities
+Act of 1933, as amended,  Section 21E of the Securities Exchange Act of 1934, as
+amended,  and the  Private  Securities  Litigation  Reform  Act of  1995.  These
+forward-looking  statements  involve risks and  uncertainties,  including  among
+other things,  statements  regarding our capital  needs,  business  strategy and
+expectations.  Any  statement  which does not contain a  historical  fact may be
+deemed  to be a  forward-looking  statement.  In some  cases,  you can  identify
+forward-looking  statements  by  terminology  such as "may",  "will",  "should",
+"expect",  "plan", "intend",  "anticipate",  "believe",  "estimate",  "predict",
+"potential"  or  "continue",  the  negative  of such  terms or other  comparable
+terminology.  In evaluating  forward  looking  statements,  you should  consider
+various factors outlined in our latest Form 10-K, filed with the U.S. Securities
+Exchange  Commission  ("SEC") on June 14, 2012, and, from time to time, in other
+reports we file with the SEC.  These  factors  may cause our  actual  results to
+differ materially from any forward-looking statement. We disclaim any obligation
+to publicly  update these  statements,  or disclose any  difference  between our
+actual results and those reflected in these statements.
+Item 2. Management's  Discussion and Analysis of Financial Condition and Plan of
+        Operation.
+The Company was incorporated in Nevada in January 2010. The Company has not
+generated any revenues since its formation.  The Company plans to acquire mining
+properties in Colorado and process ore  generated  from its own  properties  and
+that of unrelated third party mine operators. Prior to July 2012 the Company was
+inactive.
+On July 9,  2012  the  Company's  directors,  and  shareholders  holding  a
+majority of the outstanding  common stock of the Company,  approved an amendment
+to the Company's  Articles of Incorporation  changing the name of the Company to
+Colorado Gold Mines,  Inc. The amendment was filed with the Nevada  Secretary of
+State on July 12, 2012. The change in the Company's name became effective in the
+over-the-counter market on July 30, 2012.
+On July 27, 2012 the Company, through a wholly owned subisidiary,  acquired
+a 50%  interest in Union  Milling  Company,  LLC  ("Union")  from Denver  Equity
+Corporation  in exchange for  5,000,000  shares of the  Company's  common stock.
+Denver  Equity  Corporation  is  controlled  by the  Company's  sole officer and
+director.
+Union's assets consist of approximately  21 acres of real property,  an ore
+processing mill and various milling equipment.  The mill has been inactive since
+1997 and was purchased by Union in 2007.
+Union currently holds permits from the Colorado  Department of Reclamation,
+Mining and Safety that allow Union to process up to 70,000 tons of ore annually.
+In addition,  Union is  currently  the holder of one of the only  tailings  pond
+permits in Colorado.
+7
+<PAGE>
+As of July  31,  2012 the mill  was not in  operation.  Union is  currently
+engaged in renovating  the mill and  constructing  a tailings pond so that Union
+can begin processing ore.
+After making  improvements to the mill, at a cost estimated to be $500,000,
+Union plans to secure  additional  permits  and ore  processing  contracts  with
+various gold,  silver and other  metallurgic mines in Colorado to allow Union to
+process an unlimited  amount of ore. Union plans to complete its improvements in
+August 2012.
+Union  has  entered  into one  agreement  to  process  ore from a gold mine
+located in Boulder  County and  currently  has executed two letters of intent to
+process ore from gold mines in Clear Creek and La Plata Counties, Colorado.
+As of June 30, 2012, the Company did not have any sources of capital or any
+commitments  from anyone to provide the Company  with  capital.  There can be no
+assurance  that the Company will be successful in raising any capital  required,
+or  that  if  capital  is  offered,  it  will be  subject  to  terms  considered
+acceptable.
+The Company did not have any off balance sheet  arrangements as of June 30,
+2012.
+Item 4.  Controls and Procedures.
+(a) The Company  maintains a system of controls and procedures  designed to
+ensure that  information  required to be disclosed in reports filed or submitted
+under the Securities Exchange Act of 1934, as amended ("1934 Act"), is recorded,
+processed,  summarized and reported  within time periods  specified in the SEC's
+rules and forms and to ensure that information required to be disclosed by it in
+the  reports  that it files or  submits  under the 1934 Act is  accumulated  and
+communicated  to the Company's  management,  including  the Company's  Principal
+Executive  and  Financial  Officer,  as  appropriate  to allow timely  decisions
+regarding  required  disclosure.  As of June 30 2012,  the  Company's  Principal
+Executive and Financial  Officer  evaluated the  effectiveness of the design and
+operation of its disclosure  controls and procedures.  Based on that evaluation,
+the  Company's  Principal  Executive and Financial  Officer  concluded  that the
+Company's disclosure controls and procedures were effective.
+(b) There were no changes in the Company's  internal control over financial
+reporting  during the quarter ended June 30, 2012 that materially  affected,  or
+are reasonably likely to materially  affect, the Company's internal control over
+financial reporting.
+PART II
+Item 6.  Exhibits.
+Exhibits
+31.1  Certification pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+31.2  Certification pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+32    Certification pursuant to Section 906 of the Sarbanes-Oxley Act.
+8
+<PAGE>
+SIGNATURES
+Pursuant to the  requirements  of the Securities  Exchange Act of 1934, the
+registrant  has duly  caused  this  report  to be  signed  on its  behalf by the
+undersigned thereunto duly authorized.
+COLORADO GOLD MINES, INC.
+August 14, 2012                      By: /s/ Kelly Fielder
+-----------------------------------
+                                         Kelly Fielder, Chief Executive and
+                                         Financial Officer
+9
+<PAGE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31
+<SEQUENCE>2
+<FILENAME>form10qjune12exh31aug-12.txt
+<DESCRIPTION>EXHIBIT 31
+<TEXT>
+EXHIBIT 31
+<PAGE>
+CERTIFICATIONS
+I, Kelly Fielder, certify that;
+1. I have reviewed this quarterly report on Form 10-Q of Colorado Gold Mines,
+Inc.;
+2. Based on my knowledge, this report, does not contain any untrue statement of
+a material fact or omit to state a material fact necessary to make the
+statements made, in light of the circumstances under which such statements were
+made, not misleading with respect to the period covered by the report;
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;
+4. The registrant's other certifying officer(s) and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e)) and internal control over financial reporting (as
+defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and
+have:
+a) Designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our supervision, to
+ensure that material information relating to the registrant, including its
+consolidated subsidiaries, is made known to us by others within those entities,
+particularly during the period in which this report is being prepared;
+b) Designed such internal control over financial reporting, or caused such
+internal control over financial reporting to be designed under our supervision,
+to provide reasonable assurance regarding the reliability of financial reporting
+and the preparation of financial statements for external purposes in accordance
+with generally accepted accounting principles;
+c) Evaluated the effectiveness of the registrant's disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness
+of the disclosure controls and procedures, as of the end of the period covered
+by this report based on such evaluation; and
+d) Disclosed in this report any change in the registrant's internal control
+over financial reporting that occurred during the registrant's most recent
+fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual
+report) that has materially affected, or is reasonably likely to materially
+affect, the registrant's internal control over financial reporting; and
+5. The registrant's other certifying officer(s) and I have disclosed, based on
+our most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of the registrant's board of
+directors (or persons performing the equivalent functions):
+a) All significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process,
+summarize and report financial information; and
+b) Any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal control over
+financial reporting.
+August 14, 2012                          By: /s/ Kelly Fielder
+                                             ----------------------------
+                                            Kelly Fielder,
+                                            Principal Executive Officer
+<PAGE>
+CERTIFICATIONS
+I, Kelly Fielder, certify that;
+1. I have reviewed this quarterly report on Form 10-Q of Colorado Gold Mines,
+Inc.;
+2. Based on my knowledge, this report, does not contain any untrue statement of
+a material fact or omit to state a material fact necessary to make the
+statements made, in light of the circumstances under which such statements were
+made, not misleading with respect to the period covered by the report;
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;
+4. The registrant's other certifying officer(s) and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e)) and internal control over financial reporting (as
+defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and
+have:
+a) Designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our supervision, to
+ensure that material information relating to the registrant, including its
+consolidated subsidiaries, is made known to us by others within those entities,
+particularly during the period in which this report is being prepared;
+b) Designed such internal control over financial reporting, or caused such
+internal control over financial reporting to be designed under our supervision,
+to provide reasonable assurance regarding the reliability of financial reporting
+and the preparation of financial statements for external purposes in accordance
+with generally accepted accounting principles;
+c) Evaluated the effectiveness of the registrant's disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness
+of the disclosure controls and procedures, as of the end of the period covered
+by this report based on such evaluation; and
+d) Disclosed in this report any change in the registrant's internal control
+over financial reporting that occurred during the registrant's most recent
+fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual
+report) that has materially affected, or is reasonably likely to materially
+affect, the registrant's internal control over financial reporting; and
+5. The registrant's other certifying officer(s) and I have disclosed, based on
+our most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of the registrant's board of
+directors (or persons performing the equivalent functions):
+a) All significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process,
+summarize and report financial information; and
+b) Any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal control over
+financial reporting.
+August 14, 2012                          By: /s/ Kelly Fielder
+                                             ----------------------------
+                                             Kelly Fielder,
+                                             Principal Financial Officer
+<PAGE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-32
+<SEQUENCE>3
+<FILENAME>form10qjune12exh32aug-12.txt
+<DESCRIPTION>EXHIBIT 32
+<TEXT>
+     EXHIBIT 32
+<PAGE>
+In connection with the Quarterly  Report of Colorado Gold Mines,  Inc. (the
+"Company")  on Form 10-Q for the period  ending  June 30, 2012 as filed with the
+Securities and Exchange Commission (the "Report"),  Kelly Fielder, the Principal
+Executive and Financial Officer of the Company, certifies, pursuant to 18 U.S.C.
+Section 1350, as adopted  pursuant to Section 906 of the  Sarbanes-Oxley  Act of
+2002, that to the best of his knowledge:
+(1)  The Report fully  complies with the  requirements  of Section 13(a) or
+          15(d) of the Securities Exchange Act of 1934; and
+(2)  The  information  contained  in the  Report  fairly  presents,  in all
+          material respects the financial condition and results of the Company.
+August 14, 2012                          By: /s/ Kelly Fielder
+                                             ----------------------------
+                                             Kelly Fielder,
+                                             Principal Executive and Financial
+                                             Officer
+<PAGE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

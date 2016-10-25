@@ -1,0 +1,3213 @@
+
+10-Q 1 rspp2016063010q.htm 10-Q Document
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-Q
+(Mark one)
+ 
+ý      QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+ 
+For the quarterly period ended June 30, 2016
+ 
+or
+ 
+o         TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+ 
+For the transition period from            to           
+ 
+Commission File Number: 001-36264
+ 
+RSP Permian, Inc.
+(Exact name of registrant as specified in its charter)
+ 
+Delaware
+State or other jurisdiction of
+incorporation or organization
+ 
+3141 Hood Street, Suite 500
+Dallas, Texas
+(Address of principal executive offices) (Zip code)
+ 
+(214) 252-2700
+90-1022997
+(I.R.S. Employer
+ 
+Identification Number)
+75219
+(Registrant’s telephone number, including area code)
+ 
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by
+Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or
+for such shorter period that the registrant was required to file such reports), and (2) has been
+subject to such filing requirements for the past 90 days. Yes ý  No o
+ 
+Indicate by check mark whether the registrant has submitted electronically and posted to its
+corporate Web site, if any, every Interactive Data File required to be submitted and posted
+pursuant to Rule 405 of Registration S-T (§232.405 of this chapter) during the preceding 12
+months (or for such shorter period that the registrant was required to submit and post such files).
+Yes ý  No o
+ 
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a
+non-accelerated filer, or a smaller reporting company. See definition of “large accelerated filer,”
+“accelerated filer” and “smaller reporting company” in Rule 12b-2 of the Exchange Act.
+ 
+Large accelerated
+filer
+Accelerated filer o
+x
+Non-accelerated filer
+o (Do not check if a smaller reporting
+company)
+Smaller reporting
+company o
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the
+Exchange Act.): Yes o  No ý
+ 
+The registrant had 101,642,584 shares of common stock outstanding at August 5, 2016.
+Table of Contents
+TABLE OF CONTENTS 
+ 
+ 
+Glossary of Certain Terms and Conventions Used Herein
+ 
+Cautionary Statement Concerning Forward-Looking Statements
+ 
+PART I. FINANCIAL INFORMATION
+ 
+Item
+1.
+Financial Statements
+Consolidated Balance Sheets as of June 30, 2016 and December 31, 2015
+(Unaudited)
+ 
+Consolidated Statements of Operations for the Three and Six Months Ended June 30,
+2016 and 2015 (Unaudited)
+ 
+Consolidated Statement of Changes in Stockholders' Equity for the Six Months
+Ended June 30, 2016 (Unaudited)
+ 
+Consolidated Statements of Cash Flows for the Six Months Ended June 30, 2016 and
+Page
+ 
+1
+ 
+3
+4
+5
+6
+2015 (Unaudited)
+ 
+Notes to Consolidated Financial Statements (Unaudited)
+ 
+Management’s Discussion and Analysis of Financial Condition and Results of
+Operations
+Quantitative and Qualitative Disclosures About Market Risk
+Controls and Procedures
+Item
+2.
+ 
+Item
+3.
+ 
+Item
+4.
+ 
+PART II. OTHER INFORMATION
+ 
+Item
+1.
+ 
+Item
+1A.
+ 
+Item
+6.
+Legal Proceedings
+Risk Factors
+Exhibits
+7
+ 
+8
+21
+33
+34
+35
+35
+35
+Table of Contents
+GLOSSARY OF CERTAIN TERMS AND CONVENTIONS USED HEREIN
+ 
+The following are abbreviations and definitions of certain terms used in this Quarterly Report on
+Form 10-Q:
+ 
+“Bbl.” A standard barrel containing 42 U.S. gallons.
+ 
+“Boe.” One barrel of oil equivalent, calculated by converting natural gas to oil equivalent barrels
+at a ratio of six Mcf of natural gas to one Bbl of oil.
+ 
+“Boe/d.” One Boe per day.
+ 
+“Btu.” One British thermal unit, which is the quantity of heat required to raise the temperature of a
+one-pound mass of water by one degree Fahrenheit.
+ 
+“Completion.” The process of treating a drilled well followed by the installation of permanent
+equipment for the production of oil or natural gas or, in the case of a dry hole, the reporting of
+abandonment to the appropriate agency.
+“Development well.” A well drilled within the proved area of an oil or natural gas reservoir to the
+depth of a stratigraphic horizon known to be productive.
+ 
+“Differential.” An adjustment to the price of oil or natural gas from an established spot market
+price to reflect differences in the quality and/or location of oil or natural gas.
+ 
+“Dry hole” or “dry well.” A well found to be incapable of producing hydrocarbons in sufficient
+quantities such that proceeds from the sale of such production exceed production expenses and
+taxes.
+“Drilled but uncompleted well.” A well that has been drilled but has not undergone the final steps
+of hydraulic fracturing and procedures necessary to place the well on production.
+“Exploratory well.” A well drilled to find and produce natural gas or oil reserves not classified as
+proved, to find a new reservoir in a field previously found to be productive of natural gas or oil in
+another reservoir or to extend a known reservoir.
+“Field.” An area consisting of a single reservoir or multiple reservoirs all grouped on, or related to,
+the same individual geological structural feature or stratigraphic condition. The field name refers
+to the surface area, although it may refer to both the surface and the underground productive
+formations.
+ 
+“Formation.” A layer of rock that has distinct characteristics that differs from nearby rock.
+ 
+“Horizontal drilling.” A drilling technique used in certain formations where a well is drilled
+vertically to a certain depth and then drilled at a right angle within a specified interval.
+ 
+“MBbl.” One thousand barrels.
+ 
+“MBoe.” One thousand Boe.
+ 
+“Mcf.” One thousand cubic feet.
+"MMcf." One million cubic feet.
+ 
+“NGLs.” Natural gas liquids. Hydrocarbons found in natural gas that may be extracted as
+liquefied petroleum gas and natural gasoline.
+ 
+“NYMEX.” The New York Mercantile Exchange.
+ 
+“Operator.” The individual or company responsible for the exploration and/or production of an oil
+or natural gas well or lease.
+ 
+“Plugging.” The sealing off of fluids in the strata penetrated by a well so that the fluids from one
+stratum will not escape into another or to the surface.
+1
+Table of Contents
+“Proved developed reserves.” Reserves that can be expected to be recovered through existing
+wells with existing equipment and operating methods.
+“Proved reserves.” The estimated quantities of oil, NGLs and natural gas that geological and
+engineering data demonstrate with reasonable certainty to be commercially recoverable in future
+years from known reservoirs under existing economic and operating conditions.
+“Realized price.” The cash market price less all expected quality, transportation and demand
+adjustments.
+ 
+“Recompletion.” The completion for production of an existing wellbore in another formation from
+which the well has been previously completed.
+ 
+“Reserves.” Reserves are estimated remaining quantities of oil and natural gas and related
+substances anticipated to be economically producible, as of a given date, by application of
+development projects to known accumulations. In addition, there must exist, or there must be a
+reasonable expectation that there will exist, the legal right to produce or a revenue interest in the
+production, installed means of delivering oil and natural gas or related substances to market and
+all permits and financing required to implement the project. Reserves should not be assigned to
+adjacent reservoirs isolated by major, potentially sealing, faults until those reservoirs are
+penetrated and evaluated as economically producible. Reserves should not be assigned to
+areas that are clearly separated from a known accumulation by a non‑productive reservoir
+(i.e., absence of reservoir, structurally low reservoir or negative test results). Such areas may
+contain prospective resources (i.e., potentially recoverable resources from undiscovered
+accumulations).
+“Reservoir.” A porous and permeable underground formation containing a natural accumulation
+of producible oil and/or natural gas that is confined by impermeable rock or water barriers and is
+separate from other reservoirs.
+ 
+“SEC.” The United States Securities and Exchange Commission.
+ 
+“Spot market price.” The cash market price without reduction for expected quality, transportation
+and demand adjustments.
+ 
+“Wellbore.” The hole drilled by the bit that is equipped for oil and natural gas production on a
+completed well. Also called well or borehole.
+ 
+“Working interest.” The right granted to the lessee of a property to explore for and to produce and
+own oil, natural gas or other minerals. The working interest owners bear the exploration,
+development and operating costs on either a cash, penalty or carried basis.
+ 
+“WTI.” West Texas Intermediate.
+2
+Table of Contents
+CAUTIONARY STATEMENT CONCERNING FORWARD-LOOKING STATEMENTS
+ 
+Certain statements in this Report, including, without limitation, statements containing the words
+“believe,” “expect,” “anticipate,” “plan,” “intend,” “foresee,” “will,” “may,” “should,” “would,” “could”
+or other similar expressions, and statements regarding the Company's business strategy and
+plans, constitute “forward-looking statements” within the meaning of the Private Securities
+Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933, as amended (the
+“Securities Act”) and Section 21E of the Securities Exchange Act of 1934, as amended (the
+“Exchange Act”). These forward-looking statements are based on our current expectations and
+beliefs concerning future developments and their potential effect on us. While management
+believes that these forward-looking statements are reasonable as and when made, there can be
+no assurance that future developments affecting us will be those that we anticipate. All comments
+concerning our expectations for future revenues and operating results are based on our forecasts
+for our existing operations and do not include the potential impact of any future acquisitions. Our
+forward-looking statements involve significant risks and uncertainties (some of which are beyond
+our control) and assumptions that could cause actual results to differ materially from our historical
+experience and our present expectations or projections. Important known factors that could cause
+actual results to differ materially from those in the forward-looking statements include, but are not
+limited to, the volatility of commodity prices, product supply and demand, competition, access to
+and cost of capital, uncertainties about estimates of reserves and resource potential and the
+ability to add proved reserves in the future, the assumptions underlying production forecasts, the
+quality of technical data, environmental and weather risks, including the possible impacts of
+climate change, the ability to obtain environmental and other permits and the timing thereof,
+government regulation or action, the costs and results of drilling and operations, the availability of
+equipment, services, resources and personnel required to complete the Company’s operating
+activities, access to and availability of transportation, processing and refining facilities, the
+financial strength of counterparties to the Company’s credit facility and derivative contracts and
+the purchasers of the Company’s production and service providers to the Company, and acts of
+war or terrorism. For additional information regarding known material factors that could cause our
+actual results to differ from our projected results, please see “Part I, Item 1A. Risk Factors” in our
+Annual Report on Form 10-K for the year ended December 31, 2015.
+ 
+Readers are cautioned not to place undue reliance on forward-looking statements, which speak
+only as of the date hereof.  We undertake no obligation to publicly update or revise any forward-
+looking statements after the date they are made, whether as a result of new information, future
+events or otherwise.
+3
+Table of Contents
+PART I.  FINANCIAL INFORMATION
+ 
+Item 1.   Financial Statements.
+ RSP PERMIAN, INC.
+CONSOLIDATED BALANCE SHEETS
+(Unaudited)
+(In thousands, except share data)
+ASSETS
+CURRENT ASSETS
+Cash and cash equivalents
+Accounts receivable
+Derivative instruments
+Other assets
+Total current assets
+PROPERTY, PLANT AND EQUIPMENT
+Oil and natural gas properties, successful efforts method
+Accumulated depletion
+Total oil and natural gas properties, net
+Other property and equipment, net
+Total property, plant and equipment
+OTHER LONG-TERM ASSETS
+Restricted cash
+Other long-term assets
+Total other long-term assets
+TOTAL ASSETS
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+CURRENT LIABILITIES
+Accounts payable
+Accounts payable, related party
+Accrued expenses
+Interest payable
+Derivative instruments
+Total current liabilities
+LONG-TERM LIABILITIES
+Asset retirement obligations
+Long-term debt
+Deferred taxes
+Total long-term liabilities
+Total liabilities
+STOCKHOLDERS' EQUITY
+Common stock, $.01 par value; 300,000,000 shares authorized,
+101,644,885 shares issued and outstanding at June 30, 2016;
+100,807,286 shares issued and outstanding at December 31, 2015
+40,103
+152
+ 21,111
+ 21,263
+December
+ 
+31, 2015
+  
+  
+ $142,741
+ 36,323
+ 8,452
+ 24
+ 187,540
+June 30,
+ 
+2016
+  
+  
+ $32,855
+ 34,593
+ 5,378
+ 35
+ 72,861
+  
+ 3,249,109  3,076,051
+ (451,586 ) (357,524 )
+ 2,797,523  2,718,527
+ 38,328
+ 2,835,851  2,758,630
+  
+ 152
+ 15,492
+ 15,644
+ $2,924,356  $2,967,433
+  
+  
+ $11,487
+ —
+ 37,277
+ 12,022
+ 7,131
+ 67,917
+  
+ 8,962
+ 687,305
+ 324,137
+ 1,020,404  1,031,447
+ 1,088,321  1,108,849
+$15,569
+ 6,459
+ 39,231
+ 12,149
+ 3,994
+ 77,402
+  
+ 7,063
+ 686,512
+ 337,872
+1,016
+1,008
+Additional paid-in capital
+Accumulated deficit
+1,877,993  1,873,332
+ (42,974
+) (15,756
+)
+Total stockholders' equity
+TOTAL LIABILITIES AND STOCKHOLDERS’ EQUITY
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+1,836,035  1,858,584
+ $2,924,356  $2,967,433
+4
+Table of Contents
+RSP PERMIAN, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(Unaudited)
+ (In thousands, except per share data)
+47,296
+123
+ 3,177
+ 405
+REVENUES
+Oil sales
+Natural gas sales
+NGL sales
+Total revenues
+OPERATING EXPENSES
+Lease operating expenses
+Production and ad valorem taxes
+Depreciation, depletion and
+amortization
+Asset retirement obligation accretion
+Impairment of unproved properties
+Exploration expenses
+General and administrative expenses  9,135
+ 79,190
+Total operating expenses
+OPERATING INCOME (LOSS)
+ 2,295
+  
+OTHER INCOME (EXPENSE)
+ $ 104
+Other income, net
+Net loss on derivative instruments
+ (3,684
+ (12,954
+Interest expense
+ (16,534
+Total other income (expense)
+LOSS BEFORE TAXES
+ (14,239
+ 4,438
+INCOME TAX BENEFIT
+ $ (9,801
+NET LOSS
+ 
+  
+  
+Loss per common share:
+ $ (0.10
+Basic
+Diluted
+ $ (0.10
+Weighted average shares outstanding:
+Three Months Ended June
+ 
+30,
+ 2016
+  
+ $ 74,799
+ 2,537
+ 4,149
+ 81,485
+  
+ $ 14,094
+ 4,960
+2015
+  
+ $ 73,917
+ 2,028
+ 2,520
+ 78,465
+  
+ $ 14,693
+ 5,402
+Six Months Ended June
+ 
+30,
+ 2016
+  
+ $126,490
+ 4,940
+ 5,871
+ 137,301
+  
+ $27,185
+ 9,113
+2015
+  
+ $ 121,222
+ 4,261
+ 4,356
+ 129,839
+  
+ $ 27,304
+ 9,599
+39,620
+91,855
+71,121
+84
+ —
+ 889
+ 6,865
+ 67,553
+ 10,912
+  
+ $ (37
+) (12,962
+) (9,367
+) (22,366
+) (11,454
+ 6,001
+) $ (5,453
+  
+  
+) (0.07
+) (0.07
+236
+ 3,350
+ 469
+ 17,140
+ 149,348
+ (12,047
+  
+)  $277
+)  (3,288
+)  (25,895
+)  (28,906
+)  (40,953
+ 13,735
+)  $(27,218
+  
+  
+)  $(0.27
+)  $(0.27
+168
+ —
+ 2,067
+ 13,236
+ 123,495
+) 6,344
+  
+ $ 161
+) (631
+) (18,683
+) (19,153
+) (12,809
+ 6,331
+) $ (6,478
+  
+  
+) $ (0.08
+) $ (0.08
+)
+)
+)
+)
+)
+)
+)
+Basic
+Diluted
+100,189
+ 100,189
+83,088
+ 83,088
+100,125
+ 100,125
+80,639
+ 80,639
+The accompanying notes are an integral part of these consolidated financial statements.
+5
+Table of Contents
+RSP PERMIAN, INC.
+CONSOLIDATED STATEMENT OF CHANGES IN STOCKHOLDERS’ EQUITY
+(Unaudited)
+ (In thousands)
+Issued Shares
+ 
+of Common
+Stock
+Common
+ 
+Stock
+Additional
+ 
+Paid-in
+Capital
+Accumulated
+ 
+Deficit
+Total
+ 
+Stockholders’
+Equity
+100,807
+$1,008  $1,873,332  $ (15,756
+) $1,858,584
+)  (1
+BALANCE AT DECEMBER
+31, 2015
+ 
+Repurchase and retirement of
+common stock
+ 
+Equity-based compensation
+ 
+Net loss
+ 
+BALANCE AT JUNE 30, 2016  101,645
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+9
+  
+ —
+  
+ $1,016  $1,877,993  $ (42,974
+—
+  
+ (27,218
+7,268
+  
+ —
+(95
+933
+  
+ —
+) —
+) (2,607
+(2,608
+)
+)
+7,277
+  
+) (27,218
+  
+) $1,836,035
+6
+Table of Contents
+RSP PERMIAN, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited)
+CASH FLOWS FROM OPERATING ACTIVITIES
+Net loss
+Six Months Ended June
+ 
+30,
+ 2016
+ (In thousands)
+  
+  
+ $(27,218 ) $(6,478
+2015
+)
+Adjustments to reconcile net loss to net cash provided by operating
+activities:
+)
+)
+)
+)
+)
+71,121
+ 168
+ —
+ 4,543
+ 978
+) (3,954
+ 74
+ 631
+ 48,286
+  
+) (26,256
+ (60
+) (12,782
+) 15,923
+) (575
+ $91,619
+  
+) (226,457
+) (15,618
+) (5,369
+) (1,675
+Depreciation, depletion and amortization
+Asset retirement obligation accretion
+Impairment of unproved properties
+Equity-based compensation
+Amortization of loan fees
+Deferred income taxes
+Other
+Net loss on derivative instruments
+Net cash receipts from settled derivatives
+Changes in operating assets and liabilities:
+Accounts receivable
+Other assets
+Accounts payable and accounts payable to related parties
+Accrued expenses
+Interest payable
+Net cash provided by operating activities
+CASH FLOWS FROM INVESTING ACTIVITIES
+Development of oil and natural gas properties
+Acquisitions of oil and natural gas properties
+Additions to other property and equipment
+Investment in unconsolidated subsidiary
+Net cash used in investing activities
+CASH FLOWS FROM FINANCING ACTIVITIES
+Issuance of common stock
+Borrowings under long-term debt
+Payments on long-term debt
+Repurchase and retirement of common stock
+Net cash (used in) provided by financing activities
+NET CHANGE IN CASH
+CASH AT BEGINNING OF PERIOD
+CASH AT END OF PERIOD
+SUPPLEMENTAL CASH FLOW INFORMATION
+Cash paid for interest
+Cash paid for taxes
+NON-CASH ACTIVITIES
+Asset retirement obligation acquired
+Change in accrued capital expenditures
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+91,855
+ 236
+ 3,350
+ 7,277
+ 1,301
+ (13,735
+ 115
+ 3,288
+ 11,240
+  
+ (6,596
+ 5,920
+ (10,541
+ (916
+ (127
+ $65,449
+  
+)
+ (127,066
+)
+ (43,489
+)
+ (1,372
+ (800
+)
+ $(172,727 ) $(249,119 )
+  
+  
+ 147,048
+ —
+ 15,000
+ —
+ (15,000
+ —
+) (1,785
+ (2,608
+) $145,263
+ $(2,608
+ $(109,886 ) $(12,237
+ $56,292
+ $142,741
+ $44,055
+ $32,855
+  
+  
+ $18,279
+ $24,704
+ $2,700
+ $2,000
+  
+  
+ —
+ $232
+ $(1,038
+) $13,661
+)
+)
+)
+7
+Table of Contents
+NOTE 1—NATURE OF OPERATIONS AND BASIS OF PRESENTATION
+ 
+Organization and Description of the Business
+ 
+RSP Permian, Inc. ("RSP Inc." or the "Company") was formed on September 30, 2013, pursuant
+to the laws of the state of Delaware to be a holding company for RSP Permian, L.L.C., a
+Delaware limited liability company (“RSP LLC”). RSP LLC was formed on October 18, 2010, by
+its management team and affiliates of Natural Gas Partners, a family of energy-focused private
+equity investment funds (“NGP”). The Company is engaged in the acquisition, exploration,
+development and production of unconventional oil and associated liquids-rich natural gas
+reserves in the Permian Basin of West Texas. The Company priced its initial public offering
+("IPO") and began trading on the New York Stock Exchange under the ticker RSPP in January
+2014. Additional background on the Company, its IPO and subsequent public stock offerings,
+along with details of the ownership of the Company, are available in the Company's Annual
+Report on Form 10-K for the year ended December 31, 2015 and other documents filed with the
+Securities and Exchange Commission ("SEC").
+ 
+Basis of Presentation
+ 
+These consolidated financial statements have been prepared by the Company pursuant to the
+rules and regulations of the SEC. They reflect all adjustments that are, in the opinion of
+management, necessary for a fair statement of the results for interim periods, on a basis
+consistent with the annual audited financial statements. All such adjustments are of a normal
+recurring nature. The consolidated financial statements of the Company include the accounts of
+the Company and its wholly owned subsidiaries. Certain information, accounting policies, and
+footnote disclosures normally included in financial statements prepared in accordance with
+accounting principles generally accepted in the United States have been omitted pursuant to
+such rules and regulations, although the Company believes the disclosures are adequate to
+make the information presented not misleading. The financial statements in this Quarterly Report
+on Form 10–Q should be read together with the financial statements and notes thereto included
+in the Company's Annual Report on Form 10-K for the year ended December 31, 2015, which
+contains a complete summary of the Company's significant accounting policies and disclosures.
+Subsequent Events
+ 
+The Company has evaluated events that occurred subsequent to June 30, 2016 in preparing its
+consolidated financial statements. There were no material subsequent events requiring
+additional disclosure in these consolidated financial statements.
+NOTE 2—SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ 
+Use of Estimates
+ 
+The preparation of the consolidated financial statements requires management to make
+estimates and assumptions that affect the reported amounts of assets, liabilities, revenues and
+expenses and the disclosure of contingent assets and liabilities in the financial statements and
+accompanying notes. Although management believes these estimates are reasonable, actual
+results could differ from these estimates. Changes in estimates are recorded prospectively.
+Significant assumptions are required in the valuation of proved oil and natural gas reserves that
+may affect the amount at which oil and natural gas properties are recorded. Estimation of asset
+retirement obligations (“AROs”) and valuations of derivative instruments also require significant
+assumptions. It is possible that these estimates could be revised at future dates and these
+revisions could be material. Depletion of oil and natural gas properties are determined using
+estimates of proved oil and natural gas reserves. There are numerous uncertainties inherent in
+the estimation of quantities of proved reserves and in the projection of future rates of production
+and the timing of development expenditures. Similarly, evaluations for impairment of proved and
+unproved oil and natural gas properties are subject to numerous uncertainties including, among
+others, estimates of future recoverable reserves and commodity price estimates.
+Accounts Receivable
+8
+Table of Contents
+Sale of oil, natural gas and natural gas liquids $ 32,005
+Joint interest owners
+Derivatives - settled, but uncollected
+Total accounts receivable
+2,342
+ 246
+ $ 34,593
+As of June 30, 2016 As of December 31, 2015
+ (In thousands)
+22,166
+$
+ 5,596
+ 8,561
+ $
+36,323
+Accounts receivable, which are primarily from the sale of oil, natural gas and natural gas liquids
+(“NGLs”), are accrued based on estimates of the volumetric sales and prices the Company
+believes it will receive. In addition, settled but uncollected derivative contracts, and receivables
+related to joint interest billings are included in accounts receivable. The Company routinely
+reviews outstanding balances, assesses the financial strength of its customers and records a
+reserve for amounts not expected to be fully recovered. The need for an allowance is determined
+based upon reviews of individual accounts, historical losses, existing economic conditions and
+other pertinent factors. Management's expectations are that all material receivables at period-end
+will be collected. Bad debt expense was zero for each of the six months ended June 30, 2016
+and 2015, respectively.
+Oil and Natural Gas Properties
+ 
+The Company uses the successful efforts method of accounting for its oil and natural gas
+exploration and production activities. Costs incurred by the Company related to the acquisition of
+oil and natural gas properties and the cost of drilling development wells and successful
+exploratory wells are capitalized, while the costs of unsuccessful exploratory wells are expensed
+when determined to be unsuccessful.
+ 
+The Company may capitalize interest on expenditures for significant exploration and
+development projects that last more than six months, while activities are in progress to bring the
+assets to their intended use. The Company has not capitalized any interest as projects generally
+lasted less than six months. Costs incurred to maintain wells and related equipment, lease and
+well operating costs and other exploration costs are expensed as incurred. Gains and losses
+arising from the sale of properties are generally included in operating income.
+Capitalized acquisition costs attributable to proved oil and natural gas properties and leasehold
+costs are depleted on a field level, based on proved reserves, using the unit-of-production
+method. Capitalized exploration well costs and development costs, including AROs, are depleted
+on a field level, based on proved developed reserves. For the three months ended June 30, 2016
+and 2015, depletion expense for oil and natural gas producing property was $46.9 million and
+$39.3 million, respectively. For the six months ended June 30, 2016 and 2015, depletion
+expense for oil and natural gas producing property was $91.1 million and $70.3 million,
+respectively. Depletion expense is included in depreciation, depletion and amortization in the
+accompanying consolidated statements of operations.
+ 
+The Company’s oil and natural gas properties as of June 30, 2016 and December 31, 2015
+consisted of the following: 
+ 
+ 
+Proved oil and natural gas properties
+Unproved oil and natural gas properties 883,547
+Total oil and natural gas properties
+Less: Accumulated depletion
+Total oil and natural gas properties, net  $2,797,523
+ 
+In some circumstances, it may be uncertain whether proved commercial reserves have been
+found when drilling has been completed. Such exploratory well drilling costs may continue to be
+capitalized if the anticipated reserve quantity is sufficient to justify its completion as a producing
+well and sufficient progress in assessing the reserves and the economic and operating viability of
+the project is being made. As of June 30, 2016 and December 31, 2015, there were no costs
+capitalized in connection with exploratory wells in progress.
+ 
+Capitalized costs are evaluated for impairment whenever events or changes in circumstances
+indicate that an asset’s carrying amount may not be recoverable. To determine if a field is
+impaired, the Company compares the carrying value of the field to the undiscounted future net
+cash flows by applying estimates of future oil and natural gas prices to the estimated future
+June 30, 2016 December 31, 2015 
+ (In thousands)
+ $2,365,562
+3,249,109
+ (451,586
+$ 2,197,056
+ 878,995
+ 3,076,051
+) (357,524
+ $ 2,718,527
+)
+9
+Table of Contents
+production of oil and natural gas reserves over the economic life of the property and deducting
+future costs. Future net cash flows are based upon our reservoir engineers’ estimates of proved
+reserves.
+ 
+For a property determined to be impaired, an impairment loss equal to the difference between the
+property’s carrying value and its estimated fair value is recognized. Fair value, on a field basis, is
+estimated to be the present value of the aforementioned expected future net cash flows. Each
+part of this calculation is subject to a large degree of judgment, including the determination of the
+depletable units’ estimated reserves, future net cash flows and fair value. No impairment of
+proved property was recorded for the six months ended June 30, 2016 or 2015. The calculation
+of expected future net cash flows in impairment evaluations are mainly based on estimates of
+future oil and natural gas prices, proved reserves and risk-adjusted probable reserve quantities,
+and estimates of future production and capital costs associated with our proved and risk-adjusted
+reserves. The Company's estimates for future oil and natural gas prices used in the impairment
+evaluations are based on observable prices for the next three years, and then held constant for
+the remaining lives of the properties. It is reasonably possible that oil and natural gas prices used
+in future impairment evaluations may decline, which would result in the need to further impair the
+carrying value of the Company's properties.
+Unproved property costs and related leasehold expirations are assessed quarterly for potential
+impairment and when industry conditions dictate an impairment may be possible. For the six
+months ended June 30, 2016, impairment expense of unproved property was $3.4 million, which
+primarily related to management's expectation that certain leasehold interests would expire and
+not be renewed, along with certain leasehold interests that may expire or be sold in the future. No
+impairment of unproved property was recorded for the six months ended June 30, 2015.
+Asset Retirement Obligation
+ 
+The Company records AROs related to the retirement of long-lived assets at the time a legal
+obligation is incurred and the liability can be reasonably estimated. AROs are recorded as long-
+term liabilities with a corresponding increase in the carrying amount of the related long-lived
+asset. Subsequently, the asset retirement cost included in the carrying amount of the related
+asset is allocated to expense through depletion of the asset. Changes in the liability due to
+passage of time are generally recognized as an increase in the carrying amount of the liability
+and as corresponding accretion expense.
+The Company estimates a fair value of the obligation on each well in which it owns an interest by
+identifying costs associated with the future down-hole plugging, dismantlement and removal of
+production equipment and facilities, and the restoration and reclamation of the surface acreage to
+a condition similar to that existing before oil and natural gas extraction began.
+In general, the amount of ARO and the costs capitalized will be equal to the estimated future cost
+to satisfy the abandonment obligation using current prices that are escalated by an assumed
+inflation factor up to the estimated settlement date which is then discounted back to the date that
+the abandonment obligation was incurred using an estimated credit adjusted rate. If the
+estimated ARO changes, an adjustment is recorded to both the ARO and the long-lived asset.
+Revisions to estimated AROs can result from changes in retirement cost estimates, revisions to
+estimated inflation rates and changes in the estimated timing of abandonment.
+After recording these amounts, the ARO is accreted to its future estimated value using the same
+assumed credit adjusted rate and the associated capitalized costs are depreciated on a unit-of-
+production basis.
+The ARO consisted of the following for the period indicated:
+Six Months Ended
+June 30, 2016
+(In thousands)
+Asset retirement obligation at beginning of period$ 7,063
+Liabilities incurred or assumed
+Liabilities settled
+Accretion expense
+Asset retirement obligation at end of period
+1,691
+(28
+236
+$ 8,962
+)
+Income Taxes
+10
+Table of Contents
+2015
+$ (2,377
+) (3,954
+  
+) $ (6,331
+)
+)
+)
+2015
+$ (3,561
+)   (2,440
+   
+)   $ (6,001
+2016
+ (In thousands)
+)  $ —
+)  (13,735
+  
+)  $ (13,735
+Three Months Ended June 30, Six Months Ended June 30,
+2016
+(In thousands)
+$ —
+(4,438
+The following is an analysis of the Company’s consolidated income tax benefit for the periods
+indicated: 
+ 
+ 
+ 
+Current
+Deferred
+ 
+Income Tax Benefit$ (4,438
+ 
+Deferred taxes are determined based on the estimated future tax effects of differences between
+the financial statement and tax basis of assets and liabilities, given the provisions of enacted tax
+laws. Tax positions are evaluated for recognition using a more-likely-than-not threshold, and
+those tax positions requiring recognition are measured as the largest amount of tax benefit that is
+greater than fifty percent likely of being realized upon ultimate settlement with a taxing authority
+that has full knowledge of all relevant information. The Company’s policy is to record interest and
+penalties relating to uncertain tax positions in income tax expense. At June 30, 2016, the
+Company did not have any accrued liability for uncertain tax positions and does not anticipate
+recognition of any significant liabilities for uncertain tax positions during the next 12 months.
+ 
+The Company’s U.S. federal income tax returns for 2011 and beyond, and its Texas franchise tax
+returns for 2010 and beyond, remain subject to examination by the taxing authorities. No other
+jurisdiction’s returns are significant to the Company’s financial position.
+ 
+New Accounting Pronouncements
+ 
+In March 2016, the Financial Accounting Standards Board (“FASB”) issued Accounting Standard
+Update ("ASU") 2016-09, “Compensation - Stock Compensation Topic 718: Improvements to
+Employee Share-Based Payment Accounting," which simplifies several aspects of the
+accounting for share-based payment award transactions. These simplifications include the
+income tax consequences, classification of awards as either equity or liabilities, and
+classification on the statement of cash flows. Public entities are required to apply ASU 2016-09
+for annual and interim reporting periods beginning after December 15, 2016. The Company is
+currently evaluating the impact of its pending adoption of this guidance on its consolidated
+financial statements.
+In February 2016, the FASB issued ASU 2016-02, “Leases (Topic 842)," which requires all lease
+transactions (with terms in excess of 12 months) to be recognized on the balance sheet as lease
+assets and lease liabilities. Public entities are required to apply ASU 2016-02 for annual and
+interim reporting periods beginning after December 15, 2018 with early adoption permitted. The
+Company is currently evaluating the impact of its pending adoption of this guidance on its
+consolidated financial statements.
+In September 2015, the FASB issued ASU 2015-16, “Simplifying the Accounting for
+Measurement-Period Adjustments," which requires the acquirer in a business combination
+recognize adjustments to provisional amounts that are identified during the measurement period
+in the reporting period in which the adjustment amounts are determined. Public entities are
+required to apply ASU 2015-16 for annual and interim reporting periods beginning after
+December 15, 2015. The adoption of this guidance in the first quarter of 2016 did not have a
+material effect on the Company's consolidated financial statements.
+In April 2015, the FASB issued ASU 2015-03, “Simplifying the Presentation of Debt Issuance
+Costs." which requires debt issuance costs to be presented in the balance sheet as a direct
+deduction from the carrying amount of the debt obligation, similar to debt discounts. The
+Company adopted this guidance in the first quarter of 2016. Accordingly, debt issuance costs in
+the amount of $12.1 million which were formerly classified as long-term assets at December 31,
+2015 have been reclassified as a deduction from the carrying amount of our senior notes in the
+consolidated balance sheet.
+In January 2015, the FASB issued ASU 2015-01, "Income Statement - Extraordinary and
+Unusual Items (Subtopic 225-20)," which eliminates the concept of extraordinary items in US
+GAAP. An entity is required to apply ASU 2015-01 for annual and interim reporting periods
+beginning after December 15, 2015. An entity may apply ASU 2015-01 prospectively or
+retrospectively for all periods presented in the financial statements. The adoption of this guidance
+in the first quarter of 2016 did not have a material effect on the Company's consolidated financial
+statements.
+In August 2014, the FASB issued ASU 2014-15, “Disclosure of Uncertainties About an Entity’s
+Ability to Continue as a Going Concern,” which requires a company’s management to evaluate
+whether there are conditions and events that raise
+11
+Table of Contents
+substantial doubt about the entity’s ability to continue as a going concern within one year after
+the financial statements are issued (or available to be issued when applicable). An entity is
+required to apply ASU 2014-15 for annual and interim reporting periods beginning after
+December 15, 2016 with early adoption permitted. The Company is currently evaluating the
+impact of its pending adoption of this guidance on its consolidated financial statements.
+In May 2014, the FASB issued ASU 2014-09, “Revenue from Contracts with Customers (Topic
+606),” which provides a comprehensive revenue recognition standard for contracts with
+customers that supersedes current revenue recognition guidance including industry specific
+guidance. An entity is required to apply ASU 2014-09 for annual and interim reporting periods
+beginning after December 15, 2016. An entity can apply ASU 2014-09 using either a full
+retrospective method, meaning the standard is applied to all of the periods presented, or a
+modified retrospective method, meaning the cumulative effect of initially applying the standard is
+recognized in the most current period presented in the financial statements. The Company is
+currently evaluating the impact of its pending adoption of this guidance on its consolidated
+financial statements.
+NOTE 3—ACQUISITIONS OF OIL AND NATURAL GAS PROPERTY INTERESTS
+Recent Acquisitions
+In the first six months of 2016, the Company closed on acquisitions of mostly undeveloped
+acreage for an aggregate total of approximately $43.5 million. The acquisitions included
+additional working interests in properties where we owned existing interests as well as other
+properties in our core areas, some of which we took over operations. These acquisitions were
+funded with cash on hand.
+WPR Acquisition
+ 
+In the fourth quarter of 2015, the Company acquired undeveloped acreage and oil and gas
+producing properties for an aggregate purchase price of approximately $137 million, subject to
+certain purchase price adjustments, from Wolfberry Partners Resources LLC ("WPR"), an entity
+partly owned by affiliates of the Company.  Approximately $41.0 million was recorded as proved
+oil and gas properties. The acquisition included 4,100 largely contiguous net acres, in the core of
+the Midland Basin with production of approximately 1,900 Boe/d and 86 net horizontal drilling
+locations as of the effective date.
+Glass Ranch Acquisition
+ 
+In the third quarter of 2015, the Company acquired undeveloped acreage and oil and gas
+producing properties located in Martin and Glasscock counties for an aggregate purchase price
+of approximately $313 million, subject to certain purchase price adjustments.  The aggregate
+acquisitions include 6,548 net acres in our core focus area with an average royalty burden of
+approximately 23%, with production of approximately 1,680 Boe/d and 191 net horizontal drilling
+locations as of the effective date.
+NOTE 4—DERIVATIVE INSTRUMENTS
+Commodity Derivative Instruments
+The Company uses derivative instruments to manage its exposure to cash-flow variability from
+commodity-price risk inherent in its crude oil and natural gas production. These include collar
+contracts and deferred premium put options. The derivative instruments are recorded at fair value
+on the consolidated balance sheets and any gains and losses are recognized in current period
+earnings.
+ 
+Each collar transaction has an established price floor and ceiling, and certain collar transactions
+also include a short put as well. When the settlement price is below the price floor established by
+these collars, the Company receives an amount from its counterparty equal to the difference
+between the settlement price and the price floor multiplied by the hedged contract volume. When
+the settlement price is above the price ceiling established by these collars, the Company pays its
+counterparty an amount equal to the difference between the settlement price and the price ceiling
+multiplied by the hedged contract volume. When the settlement price is below the short put price,
+the Company pays its counterparty an amount equal to the difference between the settlement
+price and the short put price.
+Each deferred premium put option has an established floor price. When the settlement price is
+below the floor price, the Company receives the difference between the floor price and the
+settlement price multiplied by the hedged contract volume less the cost of the premium for the
+option. When the settlement price is at or above the floor price, the Company receives no
+12
+Table of Contents
+proceeds and pays the cost of the premium for the option. In either case, whether the settlement
+price is below or above the floor price, the Company pays the premium for the option at the
+expiration of the option.
+December 31, 2016 Total
+The following table summarizes all open positions as of June 30, 2016:
+Contracts expiring quarter ending:
+September 30,
+ 
+2016
+  
+Crude Oil Collars:
+ 120,000
+Notional volume (Bbl)
+ $ 74.41
+Weighted average ceiling price ($/Bbl)(1)
+Weighted average floor price ($/Bbl)(1)
+ $ 55.00
+Weighted average short put price ($/Bbl)(1)  $ 45.00
+ 
+Deferred Premium Puts:
+Notional volume (Bbl)
+Weighted average floor price ($/Bbl)(1)
+Weighted average deferred premium
+($/Bbl)
+120,000
+ $ 74.41
+ $ 55.00
+ $ 45.00
+  
+  
+ 1,125,000
+ $ 45.00
+1,410,000
+ $ 45.00
+$ (2.59
+)  $ (2.74
+240,000
+ 
+ $ 74.41
+ 
+ $ 55.00
+ 
+ $ 45.00
+ 
+  
+  
+ 
+ 2,535,000  
+ 
+ $ 45.00
+)  $ (2.65
+)
+___________________________ 
+(1)         The crude oil derivative contracts are settled based on the month’s average daily
+NYMEX price of West Texas Intermediate Light Sweet Crude.
+ 
+Derivative Fair Values and Gains (Losses)
+ 
+The following table presents the fair value of derivative instruments. The Company’s derivatives
+are presented as separate line items in its consolidated balance sheets as current and
+noncurrent derivative instrument assets and liabilities.  The fair value amounts are presented on
+a gross basis and do not reflect the netting of asset and liability positions permitted under the
+terms of the Company’s master netting arrangements. See Note 5 for further discussion related to
+the fair value of the Company's derivatives.
+December 31, 2015
+December 31, 2015
+Liabilities
+June 30,
+2016
+Assets
+June 30,
+ 
+2016
+ (In thousands)
+  
+  
+  
+  
+ $ 8,452
+ $ 5,378
+$ 5,378
+$ 8,452
+$ (7,131
+)  $ (3,994
+$ (7,131
+)  $ (3,994
+Derivative Instruments:
+Current amounts
+Commodity contracts
+ 
+Total derivative
+instruments
+ 
+Gains and losses on derivatives are reported in the consolidated statements of operations.
+ 
+The following represents the Company’s reported gains on derivative instruments for the periods
+presented: 
+ 
+ 
+ 
+Loss on derivative instruments:
+Commodity derivative instruments$ (3,684
+Total
+$ (3,684
+Three Months Ended June 30, Six Months Ended June 30,
+2016
+(In thousands)
+  
+ 
+)  $ (12,962
+)  $ (12,962
+2016
+ (In thousands)
+  
+)  $ (3,288
+)  $ (3,288
+)   $ (631
+)   $ (631
+)
+)
+2015
+2015
+)
+)
+Offsetting of Derivative Assets and Liabilities
+ 
+The following table presents the Company’s gross and net derivative assets and liabilities.
+13
+Table of Contents
+Gross Amount
+Netting
+Net
+ 
+ 
+ 
+Presented on
+Adjustments(a)
+Amount
+Balance Sheet
+June 30, 2016
+(In thousands)
+$(1,753)
+$ 5,378
+$ (5,378
+)  $—
+$ 8,452
+$ (3,994
+)  $4,458
+$ (7,131
+)  $ 5,378
+Derivative instrument assets with right of offset or master
+netting agreements
+Derivative instrument liabilities with right of offset or
+master netting agreements
+ 
+December 31, 2015
+Derivative instrument assets with right of offset or master
+netting agreements
+Derivative instrument liabilities with right of offset or
+master netting agreements
+_______________________________________ 
+(a)         With all of the Company’s financial trading counterparties, the Company has agreements
+in place that allow for the financial right of offset for derivative assets and derivative liabilities at
+settlement or in the event of a default under the agreements.
+ 
+Credit-Risk Related Contingent Features in Derivatives
+ 
+None of the Company’s derivative instruments contain credit-risk related contingent features. No
+amounts of collateral were posted by the Company related to net positions as of June 30, 2016
+and December 31, 2015.
+ 
+NOTE 5—FAIR VALUE MEASUREMENTS
+$ (3,994
+)  $ 3,994
+$—
+14
+Table of Contents
+The book values of cash and cash equivalents, accounts receivable, accounts payable and
+accrued liabilities approximate fair value due to the short-term nature of these instruments.  The
+book value of the Company’s credit facilities approximate fair value as the interest rates are
+variable.  The book value of the Company's senior notes approximates the fair value as the
+current trading value of the notes was slightly above par value. If the Company recorded the
+notes at fair value they would be Level 1 in our fair value hierarchy as they are traded in an active
+market with quoted prices for identical instruments. The fair value of derivative financial
+instruments is determined utilizing industry standard models using assumptions and inputs which
+are substantially observable in active markets throughout the full term of the instruments. These
+include market price curves, contract terms and prices, credit risk adjustments, implied market
+volatility and discount factors.
+ 
+The Company has categorized its assets and liabilities measured at fair value, based on the
+priority of inputs to the valuation technique, into a three-level fair value hierarchy. The fair value
+hierarchy gives the highest priority to quoted prices in active markets for identical assets or
+liabilities (Level 1) and the lowest priority to unobservable inputs (Level 3).
+Assets and liabilities recorded at fair value on the consolidated balance sheets are categorized
+based on the inputs to the valuation techniques as follows:
+ 
+•Level 1—Assets and liabilities recorded at fair value for which values are based on unadjusted
+quoted prices for identical assets or liabilities in an active market that management has the ability
+to access. Active markets are considered to be those in which transactions for the assets or
+liabilities occur in sufficient frequency and volume to provide pricing information on an ongoing
+basis.
+•Level 2—Assets and liabilities recorded at fair value for which values are based on quoted
+prices in markets that are not active or model inputs that are observable either directly or
+indirectly for substantially the full term of the asset or liability. Substantially all of these inputs are
+observable in the marketplace throughout the full term of the price risk management instrument
+and can be derived from observable data or supported by observable levels at which
+transactions are executed in the marketplace.
+•Level 3—Assets and liabilities recorded at fair value for which values are based on prices or
+valuation techniques that require inputs that are both unobservable and significant to the overall
+fair value measurement. Unobservable inputs that are not corroborated by market data. These
+inputs reflect management’s own assumptions about the assumptions a market participant would
+use in pricing the asset or liability.
+ 
+Valuation techniques that maximize the use of observable inputs are favored. Assets and
+liabilities are classified in their entirety based on the lowest priority level of input that is significant
+to the fair value measurement. The assessment of the significance of a particular input to the fair
+value measurement requires judgment and may affect the placement of assets and liabilities
+within the levels of the fair value hierarchy.
+Level 1 Level 2  Level 3 Total fair value
+ (In thousands)
+Fair Value Measurement on a Recurring Basis
+ 
+The following table presents, by level within the fair value hierarchy, the Company’s assets and
+liabilities that are measured at fair value on a recurring basis. 
+ 
+ 
+As of June 30, 2016:
+Commodity derivative instruments $ —  $(1,753) $ —  $ (1,753
+Total
+ $ —  $(1,753) $ —  $ (1,753
+ 
+ 
+ 
+As of December 31, 2015:
+Commodity derivative instruments $ —  $4,458  $ —  $ 4,458
+Total
+ $ —  $4,458  $ —  $ 4,458
+ 
+Significant Level 2 assumptions used to measure the fair value of the commodity derivative
+instruments include implied volatility factors, appropriate risk adjusted discount rates, as well as
+other relevant data.
+)
+)
+Level 1 Level 2 Level 3 Total fair value
+ (In thousands)
+15
+Table of Contents
+Reclassifications of fair value between Level 1, Level 2 and Level 3 of the fair value hierarchy, if
+applicable, are made at the end of each quarter. There were no transfers between Level 1,
+Level 2 or Level 3 during the six months ended June 30, 2015 and the year ended December 31,
+2015.
+ 
+Nonfinancial Assets and Liabilities
+ 
+Assets and liabilities acquired in business combinations are recorded at their fair value on the
+date of acquisition. Significant Level 3 assumptions associated with the calculation of future cash
+flows used in the analysis of fair value of the oil and natural gas property acquired include the
+Company’s estimate of future commodity prices, production costs, development expenditures,
+production, risk-adjusted discount rates and other relevant data. Additionally, fair value is used to
+determine the inception value of the Company’s AROs. The inputs used to determine such fair
+value are primarily based upon costs incurred historically for similar work, as well as estimates
+from independent third parties for costs that would be incurred to restore leased property to the
+contractually stipulated condition. Additions to the Company’s AROs represent a nonrecurring
+Level 3 measurement.
+ 
+The Company reviews its proved oil and natural gas properties for impairment purposes by
+comparing the expected undiscounted future cash flows at a producing field level to the
+unamortized capitalized cost of the asset. Significant assumptions associated with the
+calculation of future cash flows used in the impairment analysis include the estimate of future
+commodity prices, production costs, development expenditures, production, risk-adjusted
+discount rates and other relevant data. As such, the fair value of oil and natural gas properties
+used in estimating impairment represents a nonrecurring Level 3 measurement.
+NOTE 6—LONG-TERM DEBT
+ 
+Long-term debt consists of the following:
+ 
+ June 30, 2016 December 31, 2015 
+ 
+ (In millions)
+ 
+  
+6.625% Senior Notes
+ $ 700.0
+Less: Discount
+ $ (1.3
+Less: Debt issuance costs $ (11.4
+ 
+Total long-term debt
+)  $ (1.4
+)  $ (12.1
+$ 700.0
+)  
+)
+$ 687.3
+$ 686.5
+Credit Agreement
+On August 24, 2015, the Company amended the revolving credit facility to increase the
+borrowing base to $600 million along with other updates.
+The Company's revolving credit facility requires it to maintain the following three financial ratios:
+•a working capital ratio, which is the ratio of consolidated current assets (includes unused
+commitments under its revolving credit facility and excludes restricted cash and derivative
+assets) to consolidated current liabilities (excluding the current portion of long-term debt under
+the credit facility and derivative liabilities), of not less than 1.0 to 1.0;
+•a leverage ratio, which is the ratio of the sum of all of the Company’s debt to the consolidated
+EBITDAX (as defined in the credit agreement) for the four fiscal quarters then ended, of not
+greater than 4.5 to 1.0; and
+•a senior secured leverage ratio, which is the ratio of the sum of all the Company's debt that is (i)
+secured and (ii) not subordinated to obligations under the revolving credit facility to the
+consolidated EBITDAX (as defined in the credit agreement) for the four fiscal quarters then
+ended, of not greater than 3.5 to 1.0.
+ 
+The Company's revolving credit facility contains restrictive covenants that may limit its ability to,
+among other things, incur additional indebtedness, make loans to others, make investments,
+enter into mergers, make or declare dividends, enter into commodity hedges exceeding a
+specified percentage or its expected production, enter into interest rate hedges exceeding a
+specified percentage of its outstanding indebtedness, incur liens, sell assets or engage in certain
+other transactions without the prior consent of the lenders.
+16
+Table of Contents
+The Company was in compliance with such covenants and ratios as of June 30, 2016.
+ 
+Principal amounts borrowed are payable on the maturity date, and interest is payable quarterly
+for base rate loans and at the end of the applicable interest period for Eurodollar loans. The
+Company has a choice of borrowing in Eurodollars or at the alternate base rate. Eurodollar loans
+bear interest at a rate per annum equal to an adjusted LIBOR rate (equal to the quotient of: (i) the
+LIBOR rate divided by (ii) a percentage equal to 100% minus the maximum rate on such date at
+which the Administrative Agent is required to maintain reserves on “Eurocurrency Liabilities” as
+defined in and pursuant to Regulation D of the Board of Governors of the Federal Reserve
+System) plus an applicable margin ranging from 100 to 200 basis points, depending on the
+percentage of its borrowing base utilized. Alternate base rate loans bear interest at a rate per
+annum equal to the greatest of: (i) the agent bank’s referenced rate; (ii) the federal funds effective
+rate plus 100 basis points; and (iii) the adjusted LIBOR rate plus 100 basis points, plus an
+applicable margin ranging from 0 to 100 basis points, depending on the percentage of its
+borrowing base utilized, plus a facility fee of 0.50% charged on the borrowing base amount. At
+June 30, 2016, the prime borrowing rate of interest under the Company’s revolving credit facility
+was 3.50%. RSP LLC may repay any amounts borrowed prior to the maturity date without any
+premium or penalty other than customary LIBOR breakage costs. As of June 30, 2016, the
+revolving credit facility has a margin of 1.00% to 2.00% plus LIBOR, plus a facility fee of 0.50%
+charged on the borrowing base amount. As of June 30, 2016, we had no borrowings and $0.6
+million of letters of credit outstanding under our revolving credit facility and $599.4 million of
+borrowing capacity.
+The amount available to be borrowed under the revolving credit facility is subject to a borrowing
+base that is re-determined semiannually each May and November and depends on the volumes
+of proved oil and natural gas reserves and estimated cash flows from these reserves and
+commodity hedge positions. The borrowing base under the Company’s amended and restated
+credit agreement is $600 million as of June 30, 2016, with lender commitments of $1 billion. The
+maturity date of the Company's revolving credit facility is August 29, 2019.
+    
+Senior Notes Due 2022
+On September 26, 2014, the Company issued $500.0 million of 6.625% senior unsecured notes
+at par through a private placement. On August 10, 2015, the Company issued an additional
+$200.0 million of these notes at 99.25% of the principal amount through a private placement. The
+notes will mature on October 1, 2022. The notes are senior unsecured obligations that rank
+equally with all of our future senior indebtedness, are effectively subordinated to all our existing
+and future secured indebtedness to the extent of the value of the collateral securing such
+indebtedness, including borrowings under RSP LLC's revolving credit facility, and will rank
+senior to any future subordinated indebtedness of the Company. Interest on these notes is
+payable semi-annually on April 1 and October 1. On or after October 1, 2017, the Company may
+redeem some or all of the notes, with certain restrictions, at a redemption price, plus accrued and
+unpaid interest, of 104.969% of principal, declining in twelve-month intervals to 100% in 2020
+and thereafter. In addition, prior to October 1, 2017, the Company may redeem up to 35% of the
+principal amount of the notes with the net proceeds of qualified offerings of our equity at a
+redemption price of 106.625% of the principal amount of the notes, plus accrued and unpaid
+interest.
+The Company incurred approximately $11.3 million of debt issuance costs related to the 2014
+note issuance and $2.4 million related to the 2015 note issuance, which are a reduction to “Long-
+term debt” on the Company's consolidated balance sheets and will be amortized to interest
+expense, net, over the life of the notes using the effective interest method. In the event of certain
+changes in control of the Company, each holder of notes will have the right to require us to
+repurchase all or any part of the notes at a purchase price in cash equal to 101% of the principal
+amount, plus accrued and unpaid interest to the date of purchase. RSP LLC, our 100% owned
+and only subsidiary, has fully and unconditionally guaranteed the notes. RSP Inc. does not have
+independent assets or operations. The terms of the notes include, among other restrictions,
+limitations on our ability to repurchase shares, incur debt, create liens, make investments,
+transfer or sell assets, enter into transactions with affiliates and consolidate, merge or transfer all
+or substantially all of our assets. In June 2015, the Company exchanged $500.0 million of these
+notes for registered notes with the same terms. In March 2016, the Company exchanged an
+additional $200.0 million of these notes for registered notes with the same terms. The Company
+was in compliance with the provisions of the indenture governing the senior unsecured notes as
+of June 30, 2016.
+    
+NOTE 7—COMMITMENTS AND CONTINGENCIES
+ 
+Legal Matters
+ 
+In the ordinary course of business, the Company may at times be subject to claims and legal
+actions. Management believes it is remote that the impact of such matters will have a material
+adverse effect on the Company’s financial position, results of operations or cash flows.
+ 
+Environmental Matters
+ 
+The Company is subject to various federal, state and local laws and regulations relating to the
+protection of the environment. These laws, which are often changing, regulate the discharge of
+materials into the environment and may require the Company to remove or mitigate the
+environmental effects of the disposal or release of petroleum or chemical substances at various
+sites. Environmental expenditures are expensed as incurred. The Company has established
+procedures for the ongoing evaluation of its operations to identify potential environmental
+exposures and to comply with regulatory policies and procedures.
+ 
+The Company accounts for environmental contingencies in accordance with the accounting
+guidance related to accounting for contingencies. Environmental expenditures that relate to
+current operations are expensed or capitalized as appropriate. Expenditures that relate to an
+existing condition caused by past operations, which do not contribute to current or future revenue
+generation, are expensed.
+ 
+Liabilities are recorded when environmental assessments and/or clean-ups are probable and the
+costs can be reasonably estimated. Such liabilities are generally undiscounted unless the timing
+of cash payments is fixed and readily determinable. At
+17
+Table of Contents
+both June 30, 2016 and December 31, 2015, the Company had no environmental matters
+requiring specific disclosure or requiring the recognition of a liability.
+Contractual Obligations
+ 
+The Company had no material changes in its contractual commitments and obligations from
+amounts listed under "Part II, Item 7. Management's Discussion and Analysis of Financial
+Condition and Results of Operations - Capital Requirements and Sources of Liquidity -
+Contractual Obligations" in our Annual Report on Form 10-K for the year ended December 31,
+2015.
+ 
+NOTE 8—EQUITY-BASED COMPENSATION
+ 
+Equity-based compensation expense, which was recorded in general and administrative
+expenses, was $4.2 million and $2.4 million for the three months ended June 30, 2016 and 2015,
+respectively. This equity-based compensation expense was $7.3 million and $4.5 million for the
+six months ended June 30, 2016 and 2015, respectively.
+ 
+Restricted Stock Awards
+In connection with the IPO, the Company adopted the RSP Permian, Inc. 2014 Long Term
+Incentive Plan (the “LTIP”) for the employees, consultants and directors of the Company and its
+affiliates who perform services for the Company.
+ 
+Equity-based compensation expense for awards under the LTIP was $2.2 million and $1.6
+million for the three months ended June 30, 2016 and 2015, respectively. This same expense
+was $4.1 million and $3.2 million for the six months ended June 30, 2016 and 2015, respectively.
+In the second quarter of 2016, the vesting for certain shares was accelerated and resulted in $0.3
+million of additional equity-based compensation expense.
+The Company views restricted stock awards with graded vesting as single awards with an
+expected life equal to the average expected life and amortize the awards on a straight-line basis
+over the life of the awards.
+ 
+The compensation expense for these awards was determined based on the market price of the
+Company’s common stock at the date of grant applied to the total number of shares that were
+anticipated to fully vest. As of June 30, 2016, the Company had unrecognized compensation
+expense of $12.2 million related to restricted stock awards which is expected to be recognized
+over a weighted average period of 2.1 years.
+The following table represents restricted stock award activity for the six months ended June 30:
+2016
+2015
+Shares
+Weighted Average
+ 
+Fair Value
+Shares
+Weighted
+ 
+Average Fair
+Value
+499,529  $ 25.99
+Restricted shares outstanding,
+beginning of period
+Restricted shares granted
+Restricted shares canceled
+Restricted shares vested
+Restricted shares outstanding, end
+of period
+ 
+Performance-Based Restricted Stock Awards
+440,773  19.69
+ (13,551 ) 21.61
+ (258,738) 25.20
+668,013  $ 22.23
+477,767  $ 23.71
+277,510  27.19
+ (4,289
+) 26.07
+ (243,274) 22.84
+507,714  $ 26.01
+In June 2014, performance-based restricted stock awards were granted containing
+predetermined market conditions with a cliff vesting period of 2.75 years. We granted 134,400 of
+these shares at a 100% of target payout while the conditions of the grants allow for a payout
+ranging between no payout and 200% of target. In March 2015, an additional grant of
+performance-based restricted stock awards were granted containing predetermined market
+conditions with a cliff vesting period of 2.83 years. We granted 159,932 of these shares at a
+100% of target payout while the conditions of the grants allow for a payout ranging between no
+payout and 200% of target. In February 2016, an additional grant of performance-based restricted
+stock awards were granted containing predetermined market conditions with a cliff vesting period
+of 2.92 years. We granted 484,650 of these shares at a 100% of target payout while the
+conditions of the grants allow for a payout ranging from no payout and 100% of target payout.
+18
+Table of Contents
+Equity-based compensation for these awards was $2.0 million and $0.8 million for the three
+months ended June 30, 2016 and 2015, respectively. This equity-based compensation expense
+was $3.2 million and $1.3 million for the six months ended June 30, 2016 and 2015, respectively.
+In the second quarter of 2016, the vesting for certain shares was accelerated and resulted in $0.4
+million of additional equity-based compensation expense.
+The compensation expense for these performance based awards is based on a per share value
+using a Monte-Carlo simulation. The payout level is calculated based on actual total shareholder
+return performance achieved during the performance period compared to a defined peer group of
+comparable public companies. The unrecognized compensation expense related to these shares
+is approximately $9.2 million as of June 30, 2016 and is expected to be recognized over the next
+1.97 years.
+The following table represents performance-based restricted stock award activity for the six
+months ended June 30:
+2016
+2015
+Shares
+Weighted Average
+Fair Value
+Shares
+Weighted Average
+Fair Value
+Restricted shares outstanding,
+beginning of period
+Restricted shares granted
+Restricted shares vested
+Restricted shares outstanding, end of
+period
+294,332  $ 31.41
+134,400 $ 28.14
+484,650  13.53
+ (31,108 ) $ 31.39
+747,874  $ 19.82
+159,932 31.74
+ —
+ $ —
+294,332 $ 31.41
+NOTE 9—EARNINGS PER SHARE
+ 
+The Company’s basic earnings per share amounts have been computed using the two-class
+method based on the weighted-average number of shares of common stock outstanding for the
+period.  Because the Company recognized a net loss for each period presented below, all
+unvested restricted share awards were not recognized in diluted earnings per share calculations
+as they would be antidilutive.  A reconciliation of the components of basic and diluted earnings
+per common share is presented in the table below:
+Numerator:
+Net loss available to stockholders
+Basic net loss allocable to participating securities (1)
+Loss available to stockholders
+2015
+Three Months Ended
+ 
+June 30,
+ 2016
+ (In thousands)
+  
+ $(9,801 ) $(5,453 )
+ —
+ $(9,801 ) $(5,453 )
+—
+Denominator:
+Weighted average number of common shares outstanding - basic  100,189  83,088
+Effect of dilutive securities:
+Restricted stock
+Weighted average number of common shares outstanding - diluted 100,189  83,088
+ 
+Net loss per share:
+Basic
+Diluted
+_______________________________________
+) $(0.07
+) $(0.07
+$(0.10
+ $(0.10
+—
+—
+)
+)
+19
+Table of Contents
+(1)    Restricted share awards that contain non-forfeitable rights to dividends are participating
+securities and, therefore, are included in computing earnings using the two-class method.
+Participating securities, however, do not participate in undistributed net losses.
+Six Months Ended
+ 
+June 30,
+ 2016
+ 2015
+ (In thousands)
+  
+ $(27,218) $(6,478)
+ —
+ $(27,218) $(6,478)
+—
+Numerator:
+Net loss available to stockholders
+Basic net loss allocable to participating securities (1)
+Loss available to stockholders
+ 
+Denominator:
+Weighted average number of common shares outstanding - basic  100,125  80,639
+Effect of dilutive securities:
+Restricted stock
+Weighted average number of common shares outstanding - diluted 100,125  80,639
+ 
+Net loss per share:
+Basic
+Diluted
+$(0.27
+ $(0.27
+) $(0.08 )
+) $(0.08 )
+—
+—
+_______________________________________ 
+(1)    Restricted share awards that contain non-forfeitable rights to dividends are participating
+securities and, therefore, are included in computing earnings using the two-class method.
+Participating securities, however, do not participate in undistributed net losses.
+20
+Table of Contents
+Item 2.                                 Management’s Discussion and Analysis of Financial Condition and
+Results of Operations.
+ 
+The following discussion and analysis of our financial condition and results of operations should
+be read in conjunction with our consolidated financial statements and related notes in
+“Part I, Item 1. Financial Statements.”  The following discussion and analysis contains forward-
+looking statements, including, without limitation, statements relating to our plans, strategies,
+objectives, expectations, intentions and resources. Please see “Cautionary Statement
+Concerning Forward-Looking Statements” elsewhere in this Quarterly Report on Form 10-Q and
+“Part I, Item 1A. Risk Factors” in our Annual Report on Form 10-K for the year ended
+December 31, 2015.
+ 
+Our Predecessor and RSP Inc.
+ 
+RSP Inc. was formed in September 2013 and, prior to the consummation of our IPO, did not have
+historical financial operating results. The historical results of RSP LLC and Rising Star Energy
+Development Co., L.L.C. , our predecessor, have been consolidated for all periods presented
+prior to the IPO date. In connection with the IPO, pursuant to the terms of a corporate
+reorganization, RSP LLC became a wholly owned subsidiary of RSP Inc. RSP LLC was formed
+in 2010 to engage in acquisition, exploration, development, and production of unconventional oil
+and associated liquids-rich natural gas reserves in the Permian Basin of West Texas. See “Part
+II. Item 7. Management's Discussion and Analysis of Financial Condition and Results of
+Operations: The IPO and Related Transactions - Corporate Reorganization” in our Annual
+Report on Form 10-K for the year ended December 31, 2015 for more information. Also in
+connection with the IPO, Rising Star contributed to RSP Inc. certain assets that represent
+substantially all of Rising Star’s production and revenues for each of the years ended
+December 31, 2013 and 2012 in exchange for shares of RSP Inc.’s common stock and cash. See
+“Part II. Item 7. Management's Discussion and Analysis of Financial Condition and Results of
+Operations: The IPO and Related Transactions - The Rising Star Acquisition” in our Annual
+Report on Form 10-K for the year ended December 31, 2015 for more information.
+ 
+Overview and Outlook
+Our financial and operating performance and significant events in 2016 include the following
+highlights:
+•
+Increased our average daily production rate 33% for the second quarter of 2016 as compared to
+the same period in 2015, and 7% as compared to the first quarter of 2016.
+Decreased our cash operating costs on a per Boe basis 26% from $13.58 to $9.99 for the
+second quarter of 2016 as compared to the same period in 2015, and these costs were flat as
+compared to the first quarter of 2016. These costs include lease operating expense, production
+and ad valorem taxes, and general and administrative expense excluding equity based
+compensation expense.
+•Reaffirmed our borrowing base under the credit facility at $600.0 million in May 2016.
+Acquired (with cash on hand) approximately $43.5 million of additional oil and gas properties in
+the Midland Basin.
+•
+•
+Our average daily production rate during the second quarter of 2016 was 26,407 Boe/d, a 33%
+increase from our second quarter 2015 average daily production of 19,879 Boe/d, and a 7%
+increase from our first quarter 2016 average daily production of 24,615 Boe/d. Oil production was
+73% of total production on a volumetric basis and 92% of our total revenues in the second quarter
+of 2016.
+During the second quarter of 2016, we participated in the drilling of 20 horizontal wells (10
+operated) and participated in the completion of 17 horizontal wells (11 operated). Two of the
+drilled operated horizontal wells noted above were included in a second quarter acquisition, in
+which we purchased and took over operations on these wells which were drilled but
+uncompleted. In our vertical drilling program, we completed 1 operated vertical well.
+•
+How We Evaluate Our Operations
+ 
+We use a variety of financial and operational metrics to assess the performance of our
+operations, including:
+ 
+•production volumes;
+revenues on the sale of oil, NGLs and natural gas, including the effect of our commodity
+derivative contracts on our production;
+•operating expenses; and
+•capital efficiency
+  
+Due to the inherent volatility in commodity prices, we have historically used commodity derivative
+instruments, such as collars, swaps and puts, to hedge price risk associated with a significant
+portion of our anticipated production. Our hedging
+21
+Table of Contents
+instruments allow us to reduce, but not eliminate, the potential effects of the variability in cash
+flow from operations due to fluctuations in commodity prices and provide increased certainty of
+cash flows for our drilling program and debt service requirements. These instruments provide
+only partial price protection against declines in commodity prices and may partially limit our
+potential gains from future increases in prices. None of our instruments are used for trading
+purposes. We do not speculate on commodity prices but rather attempt to hedge a portion of our
+physical production in order to protect our returns. Our revolving credit facility limits our ability to
+enter into commodity hedges covering greater than 85% of our reasonably anticipated projected
+production volume.
+ 
+We will continue to use commodity derivative instruments to hedge our price risk in the future.
+Our hedging strategy and future hedging transactions will be determined at our discretion and
+may be different than what we have done on a historical basis. We are not under an obligation to
+hedge a specific portion of our production.
+Our open positions as of June 30, 2016 were as follows:
+Contracts expiring quarter ending:
+September 30,
+ 
+2016
+December 31, 2016 Total
+120,000
+ $ 74.41
+ $ 55.00
+ $ 45.00
+  
+  
+ 1,125,000
+ $ 45.00
+Crude Oil Collars:
+ 120,000
+Notional volume (Bbl)
+ $ 74.41
+Weighted average ceiling price ($/Bbl)(1)
+Weighted average floor price ($/Bbl)(1)
+ $ 55.00
+Weighted average short put price ($/Bbl)(1)  $ 45.00
+ 
+Deferred Premium Puts:
+Notional volume (Bbl)
+Weighted average floor price ($/Bbl)(1)
+Weighted average deferred premium
+($/Bbl)
+ 
+_______________________________________ 
+(1)         The crude oil derivative contracts are settled based on the month’s average daily
+NYMEX price of West Texas Intermediate Light Sweet Crude.
+ 
+2016 Capital Budget
+)  $ (2.74
+1,410,000
+ $ 45.00
+$ (2.59
+240,000
+ 
+ $ 74.41
+ 
+ $ 55.00
+ 
+ $ 45.00
+ 
+  
+  
+ 
+ 2,535,000  
+ 
+ $ 45.00
+)  $ (2.65
+)
+The Company's updated capital budget for drilling, completion, and infrastructure for 2016 is
+approximately $285 to $315 million which anticipates operating three horizontal rigs for the
+second half of the third quarter and through the end of 2016. In addition, we plan on operating
+one dedicated completion crew for the rest of 2016. We will continue to monitor commodity
+prices, our cash flow and returns to determine any adjustments to our capital budget. We intend
+to complete a majority of our drilled but uncompleted well inventory in 2016, which will enable us
+to have a higher completion count than typically associated with our 2016 rig program.
+Our 2016 capital budget excludes acquisitions and additions to leasehold and is subject to
+change depending upon a number of factors, including prevailing and anticipated prices for oil,
+NGLs and natural gas, results of horizontal drilling and completions, economic and industry
+conditions at the time of drilling, the availability of sufficient capital resources for drilling
+prospects, our financial results and the availability of lease extensions and renewals on
+reasonable terms.
+22
+Table of Contents
+Results of Operations
+Three Months Ended June 30, 2016 Compared to the Three Months Ended June 30, 2015
+Oil, NGLs and Natural Gas Sales Revenues. The following table provides the components of our
+revenues for the periods indicated, as well as each period’s respective average prices and
+production volumes:
+2015
+Three Months
+ 
+Ended
+June 30,
+ 2016
+  
+  
+ 1
+ $74,799  $73,917  $882
+ 25
+ 509
+ 2,537
+ 4,149
+ 65
+ 1,629
+ $81,485  $78,465  $3,020  4
+2,028
+ 2,520
+Change  % Change
+%
+ %
+ %
+ %
+)%
+)%
+)%
+)%
+%
+)%
+)%
+%
+ %
+ %
+ %
+%
+$42.50  $53.68
+$(11.18) (21
+43.05
+ 1.47
+1.47
+11.69
+67.22
+ 1.97
+1.97
+9.69
+(24.17 ) (36
+ (0.50
+) (25
+(0.50
+) (25
+2.00
+21
+$33.91  $43.37
+$(9.46 ) (22
+$34.32  $53.68
+  
+ 1,760
+ 1,725
+ 355
+ 2,403
+  
+ 26,407  19,879
+1,377
+ 1,029
+ 260
+ 1,809
+$(19.36) (36
+  
+ 383
+ 696
+ 95
+ 594
+  
+ 6,528
+28
+ 68
+ 37
+ 33
+  
+ 33
+Revenues (in thousands, except percentages):
+Oil sales
+Natural gas sales
+NGL sales
+Total revenues
+Average sales prices:
+Oil (per Bbl) (excluding impact of cash settled
+derivatives)
+Oil (per Bbl) (after impact of cash settled derivatives)
+Natural gas (per Mcf)
+Natural gas (per Mcf) (after impact of cash settled
+derivatives)
+NGLs (per Bbl)
+Total (per Boe) (excluding impact of cash settled
+derivatives)
+Total (per Boe) (after impact of cash settled derivatives)
+Production:
+Oil (MBbls)
+Natural gas (MMcf)
+NGLs (MBbls)
+Total (MBoe)
+Average daily production volume:
+Total (Boe/d)
+23
+Table of Contents
+The following table shows the relationship between our average realized oil price as a
+percentage of the average NYMEX price and the relationship between our average realized
+natural gas price as a percentage of the average NYMEX price for the periods indicated.
+Management uses the realized price to NYMEX margin analysis to analyze trends in our oil and
+natural gas revenues. The NYMEX WTI futures price is a widely used benchmark in the pricing of
+domestic and imported oil in the United States. The actual prices realized from the sale of oil
+differ from the quoted NYMEX WTI price as a result of quality and location differentials. For
+example, the prices we realize on the oil we produce are affected by the ability to transport crude
+oil to the Cushing, Oklahoma transport hub and the Gulf Coast refineries. The NYMEX Henry
+Hub price of natural gas is a widely used benchmark for the pricing of natural gas in the United
+2015
+ $ 53.68
+ 57.94
+ (4.26
+Three Months Ended June 30,
+ 2016
+ $ 42.50
+ 45.59
+ (3.09
+ 93
+  
+ $ 1.47
+ 1.95
+ (0.48
+States. Similar to oil, the actual prices realized from the sale of natural gas differ from the quoted
+NYMEX Henry Hub price as a result of quality and location differentials. For example, depending
+on pricing, liquids‑rich natural gas with a high Btu content may sell at a premium to low Btu
+content dry natural gas because it yields a greater quantity of NGLs. Location differentials to
+NYMEX Henry Hub prices result from variances in transportation costs based on the natural gas’
+proximity to the major consuming markets to which it is ultimately delivered. Also affecting the
+differential is the processing fee deduction retained by the natural gas processing plant generally
+in the form of percentage of proceeds.
+ 
+ 
+ 
+Average realized oil price ($/Bbl)
+Average NYMEX ($/Bbl)
+Differential to NYMEX
+Average realized oil price to NYMEX percentage
+ 
+Average realized natural gas price ($/Mcf)
+Average NYMEX ($/Mcf)
+Differential to NYMEX
+Average realized natural gas price to NYMEX percentage  75
+ 
+Average realized NGL price ($/Bbl)
+Average NYMEX oil price ($/Bbl)
+Average realized NGL price to NYMEX oil price percentage 26
+ 
+Our average realized oil price as a percentage of the average NYMEX price was 93% for both
+the three months ended June 30, 2016 and 2015. All of our oil contracts are impacted by the
+Midland-Cushing differential, which was a negative $0.17 per Bbl for the second quarter of 2016
+and a negative $0.60 per Bbl in the comparable 2015 period.
+ 
+Oil revenues increased 1% to $74.8 million for the three months ended June 30, 2016 from $73.9
+million for the 2015 period as a result of an increase in oil production volumes of 383 MBbls, or
+28%, partially offset by an $11.18 per Bbl decrease, or 21%, in our average realized price for oil.
+ 
+Natural gas revenues increased 25% and were $2.5 million and $2.0 million for the three months
+ended June 30, 2016 and 2015, respectively. Natural gas production volumes increased by 696
+MMcf, or 68%, which was partially offset by prices decreasing by $0.50 per Mcf, or 25%.
+ 
+NGL revenues increased 65% to $4.1 million for the three months ended June 30, 2016 from $2.5
+million for the 2015 period as a result of a $2.00 per Bbl increase, or 21%, in our average realized
+NGL price and an increase in NGL production volumes of 95 MBbls, or 37%.
+$ 1.97
+ 2.65
+ (0.68
+$ 11.69
+ 45.59
+)
+%
+)
+%
+%
+)
+%  93
+)
+%  74
+$ 9.69
+ 57.94
+%  17
+Our higher production volumes for all products were primarily a result of increased production
+from our drilling program, along with the full period impact of our acquisitions closed in 2015.
+24
+Table of Contents
+Operating Expenses. The following table summarizes our expenses for the years indicated:
+Three Months Ended
+ 
+June 30,
+ 2016
+2015
+$ Change % Change
+$ 5.37
+$ 79,190
+$ 67,553
+$11,637  17
+$(599
+ (442
+ 7,676
+ 39
+ 3,177
+ (484
+ 2,270
+$ 14,094
+ 4,960
+ 47,296
+ 123
+ 3,177
+ 405
+ 9,135
+$ 14,693
+ 5,402
+ 39,620
+ 84
+ —
+ 889
+ 6,865
+Operating expenses (in thousands, except
+percentages):
+Lease operating expenses
+Production and ad valorem taxes
+Depreciation, depletion and amortization
+Asset retirement obligation accretion
+  Impairment of unproved properties
+Exploration expense
+General and administrative expenses
+Total operating expenses before loss (gain) on
+sale of assets
+Expenses per Boe:
+Lease operating expenses (excluding gathering
+and transportation)
+Gathering and transportation
+Production and ad valorem taxes
+Depreciation, depletion and amortization
+Asset retirement obligation accretion
+Impairment
+Exploration expense
+General and administrative - cash component
+General and administrative - recurring stock comp
+(1)
+General and administrative - non-recurring stock
+comp (2)
+Total operating expenses per Boe
+(1) Represents non-cash compensation expense related to restricted stock awards and
+performance share awards granted as part of the Company's ongoing compensation and
+retention program.
+(2) Non-recurring 2015 amounts include compensation expense related to the successful
+completion of the Company's IPO. These one-time awards vested over time for retention
+purposes. The non-recurring 2016 amount is a compensation charge associated with the
+retirement of an officer of the Company.
+0.49
+ 2.99
+ 21.90
+ 0.05
+ —
+ 0.49
+ 2.47
+0.49
+ 2.06
+ 19.68
+ 0.05
+ 1.32
+ 0.17
+ 2.06
+—
+ (0.93
+ (2.22
+ —
+ 1.32
+ (0.32
+ (0.41
+28
+47
+$ 7.63
+$ 32.94
+$ 37.35
+$(4.41
+) (12
+1.46
+0.28
+0.32
+0.09
+1.14
+0.19
+(2.26
+) (30
+) (4
+)%
+) (8
+)%
+19
+ %
+ 46
+ %
+ 100  %
+)%
+) (54
+ 33
+ %
+—  %
+)%
+) (31
+) (10
+)%
+ —  %
+ 100  %
+)%
+) (65
+) (17
+)%
+%
+)%
+%
+%
+)%
+Lease Operating Expenses.  Lease operating expenses decreased 4% to $14.1 million for the
+three months ended June 30, 2016 from $14.7 million for the 2015 period. The decrease was
+primarily attributable to increased operating efficiencies and cost reduction efforts in 2016. On a
+per Boe basis, lease operating expense, excluding gathering and transportation costs,
+decreased from $7.63 per Boe in 2015 to $5.37 per Boe in 2016. Gathering and transportation
+costs, which are included in lease operating expenses, were $1.2 million for the three months
+ended June 30, 2016 and $0.9 million for the 2015 period. On a per Boe basis, our gathering and
+transportation costs were $0.49 for both the three months ended June 30, 2016 and 2015.
+Production and Ad Valorem Taxes. Production and ad valorem taxes decreased 8% to $5.0
+million for the three months ended June 30, 2016 from $5.4 million for 2015, and decreased 31%
+on a per Boe basis to $2.06 per Boe for the three months ended June 30, 2016 mainly due to
+lower revenues per Boe.
+ 
+Depreciation, Depletion and Amortization. Depreciation, depletion and amortization (“DD&A”)
+expense increased 19% to $47.3 million for the three months ended June 30, 2016 from $39.6
+million for the 2015 period mainly due to increased production.  The DD&A rate decreased 10%
+to $19.68 per Boe for the three months ended June 30, 2016 from $21.90 per Boe for the 2015
+period. The decrease in depletion per Boe in 2016 was due to an increase in our reserve
+volumes over the last year from acquisitions as well as successful drilling activities, somewhat
+offset by an increase in capitalized costs in proved property over the last year from these same
+activities.
+ 
+Impairment of Unproved Properties. We incurred $3.2 million of impairment expense on our
+unproved property for the three months ended June 30, 2016. The impairment related to
+upcoming acreage lease expirations that the Company does not intend to develop. We may incur
+additional unproved property impairments in the future due to acreage expirations and
+25
+Table of Contents
+changes in development plans. We may incur proved property impairments in the future if
+commodity prices remain low. The possibility and amount of any future impairment is difficult to
+predict, and will depend, in part, upon future oil and gas prices, estimates of proved reserves and
+future capital expenditures and production costs.
+Exploration Expense. Exploration expense decreased from $0.9 million for the three months
+ended June 30, 2015 to $0.4 million for the 2016 period due to less expenditures on geological
+and geophysical activity in 2016.
+ 
+General and Administrative Expenses. General and administrative expenses increased to $9.1
+million for the three months ended June 30, 2016, from $6.9 million for the 2015 period primarily
+due to increases in employee headcount and related expense including equity-based
+compensation. Equity-based compensation expense, which was recorded in general and
+administrative expenses, was $4.2 million for the three months ended June 30, 2016 and $2.4
+million for the 2015 period. In the second quarter of 2016, the vesting on certain shares was
+accelerated which resulted in $0.7 million of additional equity-based compensation expense.
+ 
+Other Income and Expenses. The following table summarizes our other income and expenses:
+Three Months
+ 
+Ended
+June 30,
+Other income (expense) (in thousands, except
+percentages):
+2016
+2015
+$ Change % Change
+(381 )%
+)%
+ (72
+ %
+) 38
+ (26
+)%
+$(37
+) $ 141
+ $104
+) (12,962 ) 9,278
+ (3,684
+ (12,954 ) (9,367
+) (3,587
+ $(16,534) $(22,366) $ 5,832
+Other income, net
+Net loss on derivative instruments
+Interest expense
+Total other income (expense)
+ 
+Other Income. Other income was minimal for both the three months ended June 30, 2016 and
+2015.
+ 
+Net Loss on Derivative Instruments. During the three months ended June 30, 2016, we recorded
+a $3.7 million net loss as compared to a $13.0 million net loss in the 2015 period. The change
+was a result of expiring contracts on derivative positions over the last year and the future
+commodity price outlook as of June 30, 2016 as compared to June 30, 2015.
+ 
+Interest Expense. During the three months ended June 30, 2016, we recorded $13.0 million of
+interest expense as compared to $9.4 million in the 2015 period. We expect our interest expense
+to remain higher than the prior-year period as a result of the issuance of additional senior notes in
+August 2015.
+Income Tax Benefit. During the three months ended June 30, 2016, we recorded $4.4 million of
+income tax benefit compared to $6.0 million of income tax benefit in the 2015 period. The
+increase is a result of a larger pre-tax loss in the 2016 period.
+26
+Table of Contents
+Results of Operations
+Six Months Ended June 30, 2016 Compared to the Six Months Ended June 30, 2015
+ 
+Oil, NGLs and Natural Gas Sales Revenues. The following table provides the components of our
+revenues for the periods indicated, as well as each period’s respective average prices and
+production volumes:
+Revenues (in thousands, except percentages):
+Oil sales
+Natural gas sales
+NGL sales
+Total revenues
+Average sales prices:
+2015
+Six Months Ended
+ 
+June 30,
+ 2016
+  
+  
+ $126,490 $121,222 $5,268  4
+ 16
+ 4,940
+ 5,871
+ 35
+ $137,301 $129,839 $7,462  6
+4,261
+ 4,356
+679
+ 1,515
+Change  % Change
+%
+ %
+ %
+ %
+1.55
+9.07
+$36.53
+37.37
+ 1.55
+Oil (per Bbl) (excluding impact of cash settled
+derivatives)
+Oil (per Bbl) (after impact of cash settled derivatives)
+Natural gas (per Mcf)
+Natural gas (per Mcf) (after impact of cash settled
+derivatives)
+NGLs (per Bbl)
+Total (per Boe) (excluding impact of cash settled
+derivatives)
+Total (per Boe) (after impact of cash settled derivatives)  $30.21
+Production:
+Oil (MBbls)
+Natural gas (MMcf)
+NGLs (MBbls)
+Total (MBoe)
+Average daily production volume:
+Total (Boe/d)
+3,463
+ 3,190
+ 647
+ 4,642
+  
+ 25,505
+$29.58
+$49.38
+$(12.85) (26
+)%
+68.98
+ 2.14
+2.14
+9.53
+(31.61 ) (46
+) (28
+ (0.59
+(0.59
+) (28
+(0.46
+) (5
+$40.02
+$(10.44) (26
+$54.86
+  
+ 2,455
+ 1,989
+ 457
+ 3,244
+  
+ 17,923
+$(24.65) (45
+  
+ 1,008
+ 1,201
+ 190
+ 1,398
+  
+ 7,582
+41
+ 60
+ 42
+ 43
+  
+ 42
+)%
+)%
+)%
+)%
+)%
+)%
+%
+ %
+ %
+ %
+%
+27
+Table of Contents
+The following table shows the relationship between our average realized oil price as a
+percentage of the average NYMEX price and the relationship between our average realized
+natural gas price as a percentage of the average NYMEX price for the periods indicated.
+Management uses the realized price to NYMEX margin analysis to analyze trends in our oil and
+natural gas revenues. The NYMEX WTI futures price is a widely used benchmark in the pricing of
+domestic and imported oil in the United States. The actual prices realized from the sale of oil
+differ from the quoted NYMEX WTI price as a result of quality and location differentials. For
+example, the prices we realize on the oil we produce are affected by the ability to transport crude
+oil to the Cushing, Oklahoma transport hub and the Gulf Coast refineries. The NYMEX Henry
+Hub price of natural gas is a widely used benchmark for the pricing of natural gas in the United
+States. Similar to oil, the actual prices realized from the sale of natural gas differ from the quoted
+NYMEX Henry Hub price as a result of quality and location differentials. For example, depending
+on pricing, liquids‑rich natural gas with a high Btu content may sell at a premium to low Btu
+content dry natural gas because it yields a greater quantity of NGLs. Location differentials to
+NYMEX Henry Hub prices result from variances in transportation costs based on the natural gas’
+proximity to the major consuming markets to which it is ultimately delivered. Also affecting the
+differential is the processing fee deduction retained by the natural gas processing plant generally
+in the form of percentage of proceeds.
+ 
+ 
+ 
+Average realized oil price ($/Bbl)
+Average NYMEX ($/Bbl)
+Differential to NYMEX
+Six Months Ended June 30,
+ 2016
+ $ 36.53
+ 39.52
+ (2.99
+2015
+ $ 49.38
+ 53.29
+ (3.91
+)
+)
+Average realized oil price to NYMEX percentage
+92
+%  93
+%
+)
+%
+%
+%  18
+$ 1.55
+ 2.02
+ (0.47
+$ 9.07
+ 39.52
+)
+%  76
+$ 9.53
+ 53.29
+$ 2.14
+ 2.82
+ (0.68
+Average realized natural gas price ($/Mcf)
+Average NYMEX ($/Mcf)
+Differential to NYMEX
+Average realized natural gas price to NYMEX percentage  77
+ 
+Average realized NGL price ($/Bbl)
+Average NYMEX oil price ($/Bbl)
+Average realized NGL price to NYMEX oil price percentage 23
+ 
+Our average realized oil price as a percentage of the average NYMEX price was 92% and 93%
+for the six months ended June 30, 2016 and 2015. All of our oil contracts are impacted by the
+Midland-Cushing differential, which was a negative $0.01 per Bbl for the first six months of 2016
+and a negative $1.29 per Bbl in the comparable 2015 period.
+ 
+Oil revenues increased 4% to $126.5 million for the six months ended June 30, 2016 from $121.2
+million for the 2015 period as a result of an increase in oil production volumes of 1,008 MBbls, or
+41%, partially offset by a $12.85 per Bbl decrease, or 26%, in our average realized price for oil.
+ 
+Natural gas revenues increased 16% and were $4.9 million and $4.3 million for the six months
+ended June 30, 2016 and 2015, respectively. Natural gas prices production volumes increased
+by 1,201 MMcf, or 60%, partially offset by a decrease in natural gas prices of $0.59 per Mcf, or
+28%.
+ 
+NGL revenues increased 35% to $5.9 million for the six months ended June 30, 2016 from $4.4
+million for the 2015 period as a result of an increase in NGL production volumes of 190 MBbls, or
+42%, partially offset by a $0.46 per Bbl decrease, or 5%, in our average realized NGL price.
+Our higher production volumes for all products were primarily a result of increased production
+from our drilling program, along with the full period impact of our acquisitions closed in 2015.
+28
+Table of Contents
+Operating Expenses. The following table summarizes our expenses for the years indicated:
+Operating expenses (in thousands, except
+percentages):
+Lease operating expenses
+Production and ad valorem taxes
+Depreciation, depletion and amortization
+Six Months Ended
+ 
+June 30,
+ 2016
+2015
+$ Change % Change
+$27,185
+ 9,113
+ 91,855
+$27,304
+ 9,599
+ 71,121
+$(119
+ (486
+ 20,734
+) —  %
+) (5
+)%
+ %
+29
+Asset retirement obligation accretion
+  Impairment of unproved properties
+236
+ 3,350
+168
+ —
+68
+ 3,350
+40
+ %
+ 100  %
+) (77
+ 29
+) (31
+$5.45
+$7.89
+(1,598
+ 3,904
+2,067
+ 13,236
+469
+ 17,140
+$149,348  $123,495  $25,853  21
+Exploration expense
+General and administrative expenses
+Total operating expenses before loss (gain) on sale
+of assets
+Expenses per Boe:
+Lease operating expenses (excluding gathering and
+transportation)
+Gathering and transportation
+Production and ad valorem taxes
+Depreciation, depletion and amortization
+Asset retirement obligation accretion
+Impairment
+Exploration expense
+General and administrative - cash component
+General and administrative - recurring stock comp
+(1)
+General and administrative - non-recurring stock
+comp (2)
+Total operating expenses per Boe
+(1) Represents non-cash compensation expense related to restricted stock awards and
+performance share awards granted as part of the Company's ongoing compensation and
+retention program.
+(2) Non-recurring 2015 amounts include compensation expense related to the successful
+completion of the Company's IPO. These one-time awards vested over time for retention
+purposes. The non-recurring 2016 amount is a compensation charge associated with the
+retirement of an officer of the Company.
+0.40
+ 1.96
+ 19.79
+ 0.05
+ 0.72
+ 0.10
+ 2.12
+0.53
+ 2.96
+ 21.92
+ 0.05
+ —
+ 0.64
+ 2.68
+(2.44
+(0.13
+ (1.00
+ (2.13
+ —
+ 0.72
+ (0.54
+ (0.56
+0.27
+$32.16
+$38.07
+$(5.91
+) (16
+1.15
+0.25
+1.42
+0.15
+(0.10
+) (40
+23
+)%
+ %
+%
+)%
+%
+)%
+)%
+)%
+) (25
+)%
+) (34
+) (10
+)%
+ —  %
+ 100  %
+)%
+) (84
+) (21
+)%
+Lease Operating Expenses.  Lease operating expenses remained flat at $27.2 million for the six
+months ended June 30, 2016 from $27.3 million for the 2015 period despite a significant increase
+in production. On a per Boe basis, lease operating expense, excluding gathering and
+transportation costs, decreased from $7.89 per Boe in 2015 to $5.45 per Boe in 2016. The
+decrease was primarily attributable to higher production, increased operating efficiencies, and
+cost reduction efforts in the 2016 period. Gathering and transportation costs, which are included
+in lease operating expenses, were $1.9 million for the six months ended June 30, 2016 and $1.7
+million for the 2015 period. On a per Boe basis, our gathering and transportation costs were
+$0.40 and $0.53 for the six months ended June 30, 2016 and 2015, respectively.
+Production and Ad Valorem Taxes. Production and ad valorem taxes decreased 5% to $9.1
+million for the six months ended June 30, 2016 from $9.6 million for 2015, and decreased 34% on
+a per Boe basis to $1.96 per Boe for the six months ended June 30, 2016 mainly due to lower
+revenues per Boe.
+ 
+Depreciation, Depletion and Amortization. DD&A expense increased 29% to $91.9 million for the
+six months ended June 30, 2016 from $71.1 million for the 2015 period mainly due to increased
+production.  The DD&A rate decreased 10% to $19.79 per Boe for the six months ended June 30,
+2016 from $21.92 per Boe for the 2015 period. The decrease in depletion per Boe in 2016 was
+due to an increase in our reserve volumes over the last year from acquisitions as well as
+successful drilling activities, somewhat offset by an increase in capitalized costs in proved
+property over the last year from these same activities.
+ 
+Impairment of Unproved Properties. We incurred $3.4 million of impairment expense on our
+unproved property for the six months ended June 30, 2016. The impairment related to upcoming
+acreage lease expirations that the Company does not intend
+29
+Table of Contents
+to develop. We may incur additional unproved property impairments in the future due to acreage
+expirations and changes in development plans. We may incur proved property impairments in the
+future if commodity prices remain low. The possibility and amount of any future impairment is
+difficult to predict, and will depend, in part, upon future oil and gas prices, estimates of proved
+reserves and future capital expenditures and production costs.
+Exploration Expense. Exploration expense decreased from $2.1 million for the six months ended
+June 30, 2015 to $0.5 million for the 2016 period due to less expenditures on geological and
+geophysical activity in 2016.
+ 
+General and Administrative Expenses. General and administrative expenses increased to $17.1
+million for the six months ended June 30, 2016, from $13.2 million for the 2015 period primarily
+due to increases in employee headcount and related expense including equity-based
+compensation. Equity-based compensation expense, which was recorded in general and
+administrative expenses, was $7.3 million for the six months ended June 30, 2016 and $4.5
+million for the 2015 period. In 2016, the vesting on certain shares was accelerated which resulted
+in $0.7 million of additional equity-based compensation expense.
+ 
+Other Income and Expenses. The following table summarizes our other income and expenses:
+Six Months Ended
+ 
+June 30,
+ 2016
+2015
+$ Change % Change
+Other income (expense) (in thousands, except
+percentages):
+Other income, net
+Net loss on derivative instruments
+Interest expense
+Total other income (expense)
+ 
+Other Income. Other income was minimal for both the six months ended June 30, 2016 and 2015.
+ 
+Net Loss on Derivative Instruments. During the six months ended June 30, 2016, we recorded a
+$3.3 million net loss as compared to a $0.6 million net loss in the 2015 period. The change was a
+result of expiring contracts on derivative positions over the last year and the future commodity
+$116
+ $277
+ 72
+%
+) 421 %
+ (3,288
+) (2,657
+ (25,895 ) (18,683 ) (7,212
+) 39
+%
+%
+ $(28,906) $(19,153) $(9,753 ) 51
+$161
+) (631
+price outlook as of June 30, 2016 as compared to June 30, 2015.
+ 
+Interest Expense. During the six months ended June 30, 2016, we recorded $25.9 million of
+interest expense as compared to $18.7 million in the 2015 period. We expect our interest
+expense to remain higher than the prior-year period as a result of the issuance of additional
+senior notes in August 2015.
+Income Tax Benefit. During the six months ended June 30, 2016, we recorded $13.7 million of
+income tax benefit compared to $6.3 million of income tax benefit in the 2015 period. The
+increase is a result of a larger pre-tax loss in the 2016 period.
+Capital Requirements and Sources of Liquidity
+ 
+The Company’s primary sources of liquidity have been proceeds from equity offerings,
+borrowings under the revolving credit facility, proceeds from the issuance of the senior notes, and
+cash flows from operations. To date, the Company’s primary use of capital has been for the
+acquisition, development and exploration of oil and natural gas properties. At June 30, 2016, we
+had no borrowings outstanding under our revolving credit facility and our borrowing base was
+$600 million.
+During the second quarter of 2016, we spent approximately $56.5 million on drilling and
+completion activities, $1.1 million of infrastructure and other, and $14.4 million on oil and natural
+gas property acquisitions. In the first six months of 2016, we incurred approximately $122.1
+million on drilling and completion activities, $3.4 million on infrastructure and other, and $43.5
+million on oil and natural gas property acquisitions.
+We operate a high percentage of our acreage; therefore, the amount and timing of these capital
+expenditures are largely discretionary. We may elect to defer a portion of planned 2016 capital
+expenditures depending on a variety of factors, including: returns generated by our drilling
+program, the level of our expenditures in relation to our cash flow, the success of our drilling
+activities; prevailing and anticipated prices for oil, NGLs and natural gas; the availability of
+necessary equipment,
+30
+Table of Contents
+infrastructure and capital; the receipt and timing of required regulatory permits and approvals;
+drilling, completion and acquisition costs; and the level of participation by other working interest
+owners.
+Based on current expectations, we believe we have sufficient liquidity through our existing cash
+balances, cash flow from operations and available borrowings under our revolving credit facility
+to execute our current capital program excluding any acquisitions we may enter into. However,
+future cash flows are subject to a number of variables, including the level of oil and natural gas
+production and prices, and additional capital expenditures may be required to more fully develop
+our properties. In the event we make additional acquisitions and the amount of capital required is
+greater than the amount we have available for acquisitions at that time, we could be required to
+reduce the expected level of capital expenditures and/or seek additional capital. If we require
+additional capital for that or other reasons, we may seek such capital through borrowings under
+our revolving credit facility, joint venture partnerships, production payment financings, asset
+sales, offerings of debt and equity securities or other means. We cannot be assured that needed
+capital will be available on acceptable terms or at all. If we are unable to obtain funds when
+needed or on acceptable terms, we may be required to curtail our current drilling program, which
+could result in a loss of acreage through lease expirations. In addition, we may not be able to
+complete acquisitions that may be favorable to us or finance the capital expenditures necessary
+to maintain our production or replace our reserves.
+ 
+Working Capital
+ 
+Our working capital, which we define as current assets minus current liabilities, totaled $4.9
+million and $110.1 million at June 30, 2016 and December 31, 2015, respectively. Our collection
+of receivables has historically been timely, and losses associated with uncollectible receivables
+have historically not been significant. Our cash balances totaled $32.9 million and $142.7 million
+at June 30, 2016 and December 31, 2015, respectively. Due to the amounts that accrue related to
+our drilling program, we may incur working capital deficits in the future. We expect that our cash
+flows from operating activities and availability under our revolving credit facility will be sufficient
+to fund our working capital needs excluding any acquisitions we may enter into. We expect that
+our pace of development, production volumes, commodity prices and differentials to NYMEX
+prices for our oil, NGL and natural gas production will be the largest variables affecting our
+working capital.
+ 
+Contractual Obligations
+ 
+We had no material changes in our contractual commitments and obligations from amounts listed
+under "Part II, Item 7. Management's Discussion and Analysis of Financial Condition and Results
+of Operations - Capital Requirements and Sources of Liquidity - Contractual Obligations" in our
+Annual Report on Form 10-K for the year ended December 31, 2015.
+Off-Balance Sheet Arrangements
+ 
+As of June 30, 2016, we did not have any off-balance sheet arrangements that have or are
+reasonably likely to have a current or future effect on our financial condition, changes in financial
+condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital
+resources and would be considered material to investors.
+Cash Flows
+ 
+The following table summarizes our cash flows for the periods indicated:
+ 
+ 
+ 
+ 
+Net cash provided by operating activities
+Net cash used in investing activities
+Six Months Ended June 30,
+ 2016
+ 
+ (In thousands)
+ $ 65,449
+ (172,727
+2015
+$ 91,619
+) (249,119
+)
+) 145,263
+Net cash (used in) provided by financing activities (2,608
+Net cash provided by operating activities was approximately $65.5 million and $91.6 million for
+the six months ended June 30, 2016 and 2015, respectively. The decrease in net cash provided
+by operating activities for the six months ended June 30, 2016, as compared to the 2015 period,
+was primarily due a reduction in amounts received from our settled derivative contracts in the
+2016 period.
+ 
+Net cash used in investing activities was approximately $172.7 million and $249.1 million for the
+six months ended June 30, 2016 and 2015, respectively.
+31
+Table of Contents
+Net cash used in financing activities was approximately $2.6 million for the six months ended
+June 30, 2016 and net cash provided by financing activities was approximately $145.3 million for
+the six months ended June 30, 2015. The 2015 period included $147.0 million of capital
+contributions received in follow-on stock offering.
+ 
+Our Revolving Credit Facility
+Our credit agreement has a borrowing base of $600 million, lenders’ maximum facility
+commitments of $1.0 billion, and a maturity date of August 29, 2019. The credit agreement
+permits RSP LLC to make payments to the Company to enable it to pay principal, premium (if
+any) and interest on our existing notes, provided no default has occurred, and to allow RSP LLC
+to guarantee the existing notes.
+The amount available to be borrowed under our revolving credit facility is subject to a borrowing
+base that is redetermined semiannually each May and November and depends on the volumes
+of our proved oil and natural gas reserves, estimated cash flows from these reserves and our
+commodity hedge positions. Our next borrowing base redetermination is scheduled for
+November 2016. As of June 30, 2016, we had no borrowings and $0.6 million of letters of credit
+outstanding under our revolving credit facility and $599.4 million of borrowing capacity. In the
+event of any future offerings of senior unsecured notes issued or guaranteed by RSP LLC, the
+borrowing base under our revolving credit facility will be automatically reduced by an amount
+equal to 0.25 multiplied by the aggregate principal amount of notes issued or guaranteed on the
+date of such issuance.
+Our revolving credit facility is secured by liens on substantially all of our properties and
+guarantees from our subsidiaries other than any subsidiary that we have designated as an
+unrestricted subsidiary.
+Our revolving credit facility contains restrictive covenants that may limit our ability to, among other
+things:
+•incur additional indebtedness;
+•make loans to others;
+•make investments;
+•enter into mergers;
+•make or declare dividends;
+•enter into commodity hedges exceeding a specified percentage or our expected production;
+•enter into interest rate hedges exceeding a specified percentage of our outstanding
+indebtedness;
+•incur liens;
+•sell assets; and
+•engage in certain other transactions without the prior consent of the lenders.
+Our revolving credit facility also requires us to maintain the following three financial ratios:
+•
+•
+•
+a working capital ratio, which is the ratio of consolidated current assets (includes unused
+commitments under our revolving credit facility and excludes restricted cash and derivative
+assets) to consolidated current liabilities (excluding the current portion of long term debt under
+the credit facility and derivative liabilities), of not less than 1.0 to 1.0;
+a leverage ratio, which is the ratio of the sum of all of the Company's debt to the consolidated
+EBITDAX (as defined in our revolving credit facility) for the four fiscal quarters then ended, of not
+greater than 4.5 to 1.0:
+a senior secured leverage ratio, which is the ratio of the sum of all the Company's debt that is (i)
+secured and (ii) not subordinated to obligations under the revolving credit facility to the
+consolidated EBITDAX (as defined in the credit agreement) for the four fiscal quarters then
+ended, of not greater than 3.5 to 1.0.
+We were in compliance with such covenants and ratios as of June 30, 2016.
+Principal amounts borrowed are payable on the maturity date, and interest is payable quarterly
+for base rate loans and at the end of the applicable interest period for Eurodollar loans. The
+Company has a choice of borrowing in Eurodollars or at the adjusted base rate. Eurodollar loans
+bear interest at a rate per annum equal to an adjusted LIBOR rate (equal to the quotient of: (i) the
+LIBOR Rate; divided by (ii) a percentage equal to 100% minus the maximum rate on such date at
+which the Administrative Agent is required to maintain reserves on “Eurocurrency Liabilities” as
+defined in and pursuant to Regulation D of the Board of Governors of the Federal Reserve
+System) plus an applicable margin ranging from 100 to 200 basis points, depending on the
+percentage of its borrowing base utilized. Alternate base rate loans bear interest at a rate per
+annum equal to the greatest of: (i) the agent bank’s referenced rate; (ii) the federal funds effective
+rate plus 100 basis points; and (iii) the
+32
+Table of Contents
+adjusted LIBOR rate plus 100 basis points, plus an applicable margin ranging from 0 to 100
+basis points, depending on the percentage of our borrowing base utilized, plus a facility fee of
+0.50% charged on the borrowing base amount. At June 30, 2016, the prime borrowing rate of
+interest under the Company's revolving credit facility was 3.50%. RSP LLC may repay any
+amounts borrowed prior to the maturity date without any premium or penalty other than customary
+LIBOR breakage costs. As of June 30, 2016, the revolving credit facility has a margin of 1.00% to
+2.00% plus LIBOR, plus a facility fee of 0.50% charged on the borrowing base amount.
+Regulations
+In June 2016, the SEC adopted a final rule that requires resource extraction issuers (“REIs”) to
+disclose information relating to any payment made by the REI to foreign governments or the U.S.
+government for the purpose of commercial development of oil, natural gas, or minerals. REIs will
+be required to comply with the final rule for fiscal years ending on or after September 30, 2018,
+and will be required to file a Form SD with the SEC within 150 days of a company's fiscal year-
+end. The Company is currently evaluating the impact of this final rule on its consolidated financial
+statements.
+Item 3.         Quantitative and Qualitative Disclosures About Market Risk.
+ 
+We are exposed to market risk, including the effects of adverse changes in commodity prices and
+interest rates as described below. The primary objective of the following information is to provide
+quantitative and qualitative information about our potential exposure to market risks. The term
+“market risk” refers to the risk of loss arising from adverse changes in oil and natural gas prices
+and interest rates. The disclosures are not meant to be precise indicators of expected future
+losses, but rather indicators of reasonably possible losses. All of our market risk sensitive
+instruments were entered into for purposes other than speculative trading.
+ 
+Commodity Price Risk
+ 
+Our revenues are subject to market risk and are dependent on the pricing we receive for our oil,
+NGLs and natural gas production. Pricing for oil, NGLs and natural gas has been volatile and
+unpredictable for several years, and this volatility is expected to continue in the future. Our
+realized prices are primarily driven by the prevailing prices for oil and the prevailing spot prices
+for NGLs and natural gas. We use derivative contracts to reduce our exposure to the changes in
+the prices of these commodities. Pursuant to our risk management policy, we engage in these
+activities as a hedging mechanism against price volatility associated with projected production
+levels. We do not use these instruments to engage in trading activities, and we do not speculate
+on commodity prices.
+December 31, 2016 Total
+Our open positions as of June 30, 2016 were as follows:
+Contracts expiring quarter ending:
+September 30,
+ 
+2016
+Crude Oil Collars:
+  
+Notional volume (Bbl)
+ 120,000
+Weighted average ceiling price ($/Bbl)(1)
+ $ 74.41
+Weighted average floor price ($/Bbl)(1)
+ $ 55.00
+Weighted average short put price ($/Bbl)(1)  $ 45.00
+ 
+Deferred Premium Puts:
+Notional volume (Bbl)
+120,000
+ $ 74.41
+ $ 55.00
+ $ 45.00
+  
+  
+ 1,125,000
+1,410,000
+240,000
+ 
+ $ 74.41
+ 
+ $ 55.00
+ 
+ $ 45.00
+ 
+  
+ 
+  
+ 
+ 2,535,000
+Weighted average floor price ($/Bbl)(1)
+Weighted average deferred premium
+($/Bbl)
+$ 45.00
+$ (2.59
+$ 45.00
+)  $ (2.74
+$ 45.00
+)  $ (2.65
+)
+(1)         The crude oil derivative contracts are settled based on the month’s average daily
+NYMEX price of West Texas Intermediate Light Sweet Crude.
+33
+Table of Contents
+The fair value of our derivative contracts as of June 30, 2016 was a net liability of $1.8 million.
+For information regarding the terms of these hedges, see Note 4 of Notes to Consolidated
+Financial Statements included in "Part I, Item 1. Financial Statements."
+ 
+Counterparty and Customer Credit Risk
+ 
+Our commodity derivative contracts expose us to credit risk in the event of nonperformance by
+counterparties. While we do not require counterparties to our derivative contracts to post
+collateral, we do evaluate the credit standing of such counterparties as we deem appropriate.
+The counterparties to our derivative contracts currently in place have investment grade ratings.
+ 
+Our principal exposures to credit risk are through receivables arising from joint operations and
+receivables from the sale of our oil and natural gas production due to the concentration of our oil
+and natural gas receivables with several significant customers. The inability or failure of our
+significant customers to meet their obligations to us or their insolvency or liquidation may
+adversely affect our financial results. However, we believe the credit quality of our customers is
+high.
+ 
+Joint operations receivables arise from billings to entities that own partial interests in the wells
+we operate. These entities participate in our wells primarily based on their ownership in leases
+on which we intend to drill. We have little ability to control whether these entities will participate
+in our wells.
+ 
+Interest Rate Risk
+ 
+At June 30, 2016, we had no borrowings outstanding that are subject to interest rate risk. We
+currently do not engage in any interest rate hedging activity.
+Item 4.         Controls And Procedures.
+ 
+Evaluation of Disclosure Controls and Procedures
+ 
+As required by Rule 13a-15(b) of the Securities Exchange Act of 1934 (the “Exchange Act”), we
+have evaluated, under the supervision and with the participation of our management, including
+our principal executive officer and principal financial officer, the effectiveness of the design and
+operation of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-
+15(e) under the Exchange Act) as of June 30, 2016. Our disclosure controls and procedures are
+designed to provide reasonable assurance that the information required to be disclosed by us in
+reports that we file under the Exchange Act is accumulated and communicated to our
+management, including our principal executive officer and principal financial officer, as
+appropriate, to allow timely decisions regarding required disclosure and is recorded, processed,
+summarized and reported within the time periods specified in the rules and forms of the SEC.
+Based upon that evaluation, our principal executive officer and principal financial officer
+concluded that our disclosure controls and procedures were effective as of June 30, 2016 at the
+reasonable assurance level.
+ 
+Changes in Internal Control over Financial Reporting
+ 
+There were no changes in our system of internal control over financial reporting (as defined in
+Rule 13a-15(f) and Rule 15d-15(f) under the Exchange Act) that occurred during the three
+months ended June 30, 2016 that have materially affected, or are reasonably likely to materially
+affect, our internal control over financial reporting.
+34
+Table of Contents
+PART II.  OTHER INFORMATION
+Item 1.  Legal Proceedings.
+ 
+From time to time, we are party to ongoing legal proceedings in the ordinary course of business,
+including workers’ compensation claims and employment related disputes.  While the outcome of
+these proceedings cannot be predicted with certainty, we do not believe the results of these
+proceedings, individually or in the aggregate, will have a material adverse effect on our business,
+financial condition, results of operations or liquidity.
+Item 1A.  Risk Factors.
+ 
+In addition to the other information set forth in this Quarterly Report on Form 10-Q, you should
+carefully consider the factors discussed in “Part I, Item 1A. Risk Factors” in our Annual Report on
+Form 10-K for the year ended December 31, 2015, which could materially affect our business,
+financial condition or future results.  Additional risks and uncertainties not currently known to us
+or that we currently deem to be immaterial also may materially adversely affect our business,
+financial condition or results of operations.
+ 
+Item 2.  Unregistered Sales of Equity Securities and Use of Proceeds.
+ 
+Purchases of Equity Securities by the Issuer and Affiliated Purchasers
+The following table summarizes the Company's repurchase of our common stock during the three
+months ended June 30, 2016:
+Period
+Total
+Number of
+Shares
+Purchased
+(1)
+Average
+ 
+Price Paid
+per Share
+Total Number of Shares
+Purchased as Part of Publicly
+ 
+Announced Plans or
+Programs
+Approximate Dollar Value of
+Shares that May Yet Be
+ 
+Purchased under the Plans or
+Programs
+154
+863
+—
+—
+$ 30.61
+$ 29.42
+April
+2016
+May
+2016
+June
+2016
+Total
+ 
+'(1) These shares were withheld from employees to satisfy tax obligations arising upon the
+vesting of restricted shares.
+$ 34.68
+28,136
+—
+—
+$ 34.84
+$
+$
+$
+$
+27,119
+—
+—
+—
+—
+Item 6.  Exhibits.
+ 
+See Exhibit Index on page 37 of this Quarterly Report on Form 10-Q.
+35
+Table of Contents
+SIGNATURES
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly
+caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+ 
+ RSP PERMIAN, INC.
+  
+  
+ By:
+  
+  
+  
+ Date:August 8, 2016
+  
+  
+ By:
+  
+  
+  
+ Date:August 8, 2016
+/s/ Barry S. Turcotte
+Barry S. Turcotte
+Chief Accounting Officer
+(Principal Accounting Officer)
+/s/ Scott McNeill
+Scott McNeill
+Chief Financial Officer and Director
+(Principal Financial Officer)
+36
+Table of Contents
+EXHIBIT INDEX
+ 
+Exhibit No.  Description
+3.1
+3.2
+4.1
+4.2
+4.3
+31.1(a)
+31.2(a)
+32.1(b)
+32.2(b)
+Amended and Restated Certificate of Incorporation of RSP Permian, Inc.
+ 
+(incorporated by reference to Exhibit 3.1 of the Company's Current Report on
+Form 8-K (File No. 001-36264) filed with the Commission on January 29, 2014).
+Amended and Restated Bylaws of RSP Permian, Inc. (incorporated by reference to
+ 
+Exhibit 3.2 of the Company’s Current Report on Form 8-K (File No. 001-36264) filed
+with the Commission on January 29, 2014).
+Registration Rights Agreement, dated as of January 23, 2014, among RSP
+Permian, Inc., RSP Permian Holdco, L.L.C., Ted Collins, Jr., Wallace Family
+Partnership, LP, ACTOIL, LLC, Rising Star Energy Development Co., L.L.C. and
+ 
+Pecos Energy Partners, L.P. (incorporated by reference to Exhibit 4.2 of the
+Company’s Current Report on Form 8-K (File No. 001-36273) filed with the
+Commission on January 29, 2014).
+Stockholders’ Agreement, dated as of January 23, 2014, among RSP Permian, Inc.,
+RSP Permian Holdco, L.L.C., Ted Collins, Jr., Wallace Family Partnership, LP,
+ 
+Rising Star Energy Development Co., L.L.C. and Pecos Energy Partners, L.P.
+(incorporated by reference to Exhibit 4.1 of the Company’s Current Report on
+Form 8-K (File No. 001-36273) filed with the Commission on January 29, 2014).
+Indenture, dated as of September 26, 2014, by and among the Company, RSP
+Permian, L.L.C. and U.S. Bank National Association, as trustee (incorporated by
+ 
+reference to Exhibit 4.1 of the Company's Current Report on Form 8-K (File No. 001-
+36264) filed with the Commission on October 2, 2014).
+Certification pursuant to Section 302 of the Sarbanes-Oxley Act of 2002, Rule 13a-
+ 
+14(a)/15d-14(a), by Chief Executive Officer.
+Certification pursuant to Section 302 of the Sarbanes-Oxley Act of 2002, Rule 13a-
+ 
+14(a)/15d-14(a), by Chief Financial Officer.
+Certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant to
+ 
+Section 906 of the Sarbanes-Oxley Act of 2002, by Chief Executive Officer.
+Certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant to
+ 
+Section 906 of the Sarbanes-Oxley Act of 2002, by Chief Financial Officer.
+101.INS(a)  XBRL Instance Document.
+101.SCH(a) XBRL Taxonomy Extension Schema Document.
+101.CAL(a)  XBRL Taxonomy Extension Calculation Linkbase Document.
+101.DEF(a) XBRL Taxonomy Extension Definition Linkbase Document.
+101.LAB(a)  XBRL Taxonomy Extension Label Linkbase Document.
+101.PRE(a) XBRL Taxonomy Extension Presentation Linkbase Document.
+_______________________________________ 
+(a)         Filed herewith.
+(b)         Furnished herewith. Pursuant to SEC Release No. 33-8212, this certification will be
+treated as “accompanying” this report and not “filed” as part of such report for purposes of
+Section 18 of the Exchange Act or otherwise subject to the liability of Section 18 of the Exchange
+Act, and this certification will not be deemed to be incorporated by reference into any filing under
+the Securities Act of 1933, except to the extent that the registrant specifically incorporates it by
+reference.
+37

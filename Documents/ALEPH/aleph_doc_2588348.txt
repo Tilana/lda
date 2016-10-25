@@ -1,0 +1,1270 @@
+
+<SEC-DOCUMENT>0000077877-14-000095.txt : 20140815
+<SEC-HEADER>0000077877-14-000095.hdr.sgml : 20140815
+<ACCEPTANCE-DATETIME>20140815101013
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+EFFECTIVENESS DATE:
+NT 10-Q
+1
+20140630
+0000077877-14-000095
+20140815
+20140815
+20140815
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: DRILLING OIL & GAS WELLS [1381]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+Eastern 1996D Limited Partnership
+0001031999
+550751154
+1231
+WV
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 033-63635-04
+FILM NUMBER:
+NT 10-Q
+1934 Act
+141045377
+BUSINESS ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+PETROLEUM DEVELOPMENT CORP
+1775 SHERMAN STREET, SUITE 3000
+DENVER
+CO
+80203
+303-860-5800
+MAIL ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+PETROLEUM DEVELOPMENT CORP
+1775 SHERMAN STREET, SUITE 3000
+DENVER
+CO
+80203
+FORMER COMPANY:
+FORMER CONFORMED NAME: PDC 1996-D LIMITED PARTNERSHIP
+DATE OF NAME CHANGE:
+19970203
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>NT 10-Q
+<SEQUENCE>1
+<FILENAME>nt10qeastern1996d063014.htm
+<DESCRIPTION>NOTIFICATION OF LATE FILING
+<TEXT>
+<html>
+<head>
+    <title>nt10qeastern1996d063014.htm</title>
+    <!--Licensed to: Petroleum Development Corp-->
+    <!--Document Created using EDGARizer 2020 5.4.6.0-->
+    <!--Copyright 1995 - 2014 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">
+<div align="right">
+<table cellpadding="0" cellspacing="0" width="20%" style="FONT-FAMILY: times new
+roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="middle" width="18%" style="BORDER-BOTTOM: black 2px outset; BORDER-
+TOP: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">OMB APPROVAL</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="18%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">OMB Number:&#160; 3235-0058</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Expires:&#160;&#160;&#160;August 31, 2015</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Estimated average burden</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">hours per response&#160;&#160;2.50</font></div>
+</td>
+</tr><tr>
+<td valign="middle" width="18%" style="BORDER-BOTTOM: black 2px outset; BORDER-
+TOP: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">SEC FILE NUMBER</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">033-63635-04</font></div>
+</td>
+</tr><tr>
+<td valign="middle" width="18%" style="BORDER-BOTTOM: black 2px outset">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">CUSIP NUMBER</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+</td>
+</tr></table>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt; FONT-WEIGHT: bold">UNITED STATES</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman;
+FONT-SIZE: 10pt; FONT-WEIGHT: bold">SECURITIES AND EXCHANGE 
+COMMISSION</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt; FONT-WEIGHT: bold">Washington, D.C. 20549</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold">FORM 12b-
+25</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times 
+new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="9%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="FONT-STYLE: italic; DISPLAY: inline">(Check 
+one):</font></font></div>
+</td>
+<td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="72%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">&#61551;&#160;Form&#160;10-K &#160;&#160;&#61551; Form&#160;20-
+F &#160;&#160;&#61551; Form&#160;11-K&#160;&#160;&#160;<font style="DISPLAY: 
+inline; FONT-FAMILY: wingdings">x</font>&#160;Form&#160;10-
+Q&#160;&#160;&#160;&#61551; Form&#160;10-D&#160;&#160;&#160;&#61551; 
+Form&#160;N-SAR&#160;&#160;</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">&#160;&#61551; Form&#160;N-CSR</font></div>
+</td>
+</tr></table>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold">NOTIFICATION 
+OF LATE FILING</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times 
+new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="6%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" colspan="4" valign="top" width="74%" style="BORDER-BOTTOM: 
+black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">For Period Ended: <font style="DISPLAY: inline">June 30, 
+2014&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#16
+0;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+&#160;&#160;&#160;&#160;</font></font></div>
+</td>
+</tr><tr>
+<td valign="top" width="6%"><font style="DISPLAY: inline; FONT-FAMILY: times new
+roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" colspan="2" valign="top" width="2%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">&#61551;</font></div>
+</td>
+<td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="71%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Transition Report on Form&#160;10-K</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="6%"><font style="DISPLAY: inline; FONT-FAMILY: times new
+roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" colspan="2" valign="top" width="2%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">&#61551;</font></div>
+</td>
+<td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="71%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Transition Report on Form&#160;20-F</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="6%"><font style="DISPLAY: inline; FONT-FAMILY: times new
+roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" colspan="2" valign="top" width="2%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">&#61551;</font></div>
+</td>
+<td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="71%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Transition Report on Form&#160;11-K</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="6%"><font style="DISPLAY: inline; FONT-FAMILY: times new
+roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" colspan="2" valign="top" width="2%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">&#61551;</font></div>
+</td>
+<td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="71%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Transition Report on Form&#160;10-Q</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="6%"><font style="DISPLAY: inline; FONT-FAMILY: times new
+roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" colspan="2" valign="top" width="2%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">&#61551;</font></div>
+</td>
+<td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="71%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Transition Report on Form&#160;N-SAR</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="6%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" colspan="4" valign="top" width="74%" style="BORDER-BOTTOM: 
+black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">For the Transition Period Ended:<font style="DISPLAY: 
+inline">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#
+160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#16
+0;</font></font></div>
+</td>
+</tr></table>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times 
+new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="81%" style="BORDER-BOTTOM: black 2px solid; BORDER-TOP: 
+black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">Read Instruction (on back page) Before
+Preparing Form. Please Print or Type</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt; FONT-WEIGHT: bold">Nothing in this form shall be construed to 
+imply that the Commission has verified any information contained
+herein.</font></div>
+</td>
+</tr></table>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">If the notification relates to a portion of the filing checked 
+above, identify the Item(s) to which the notification relates:</font></div>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times 
+new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="83%" style="BORDER-TOP: black 0.5pt solid"><font 
+style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; 
+</font></td>
+</tr><tr>
+<td align="left" valign="top" width="83%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold">PART I &#8212;
+REGISTRANT INFORMATION</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="83%" style="BORDER-BOTTOM: black 2px 
+solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt; FONT-WEIGHT: bold">&#160;</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt; FONT-WEIGHT: bold">Eastern 1996D Limited 
+Partnership</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="83%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Full Name of Registrant</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="83%" style="BORDER-BOTTOM: black 2px solid"><font 
+style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; 
+</font></td>
+</tr><tr>
+<td align="left" valign="top" width="83%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Former Name if Applicable</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="83%"><font style="DISPLAY: inline; FONT-FAMILY: times 
+new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="83%" style="BORDER-BOTTOM: black 2px 
+solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">1775 Sherman Street, Suite 3000</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="83%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Address of Principal Executive Office <font style="FONT-STYLE: 
+italic; DISPLAY: inline">(Street and Number)</font></font></div>
+</td>
+</tr><tr>
+<td valign="top" width="83%"><font style="DISPLAY: inline; FONT-FAMILY: times 
+new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="83%" style="BORDER-BOTTOM: black 2px 
+solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Denver, CO&#160;&#160;80203</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="83%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">City, State and Zip Code</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="83%"><font style="DISPLAY: inline; FONT-FAMILY: times 
+new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr></table>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold">PART II 
+&#8212; RULES 12b-25(b) AND (c)</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">If the subject report could not be filed without unreasonable 
+effort or expense and the registrant seeks relief pursuant to Rule&#160;12b-
+25(b), the following should be completed. (Check box if 
+appropriate)</font></div>
+<div align="left">
+<table cellpadding="0" cellspacing="0" width="97%" style="FONT-FAMILY: times new
+roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="bottom" width="93%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="top" width="1%"><font style="DISPLAY: inline; FONT-FAMILY: times new
+roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="top" width="3%"><font style="DISPLAY: inline; FONT-FAMILY: times new
+roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="2%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">(a)</font></div>
+</td>
+<td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="93%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">The reason described in reasonable detail in Part III of this 
+form could not be eliminated without unreasonable effort or expense</font></div>
+</td>
+<td valign="top" width="1%"><font style="DISPLAY: inline; FONT-FAMILY: times new
+roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="top" width="3%"><font style="DISPLAY: inline; FONT-FAMILY: times new
+roman; FONT-SIZE: 10pt">&#160; <font style="DISPLAY: inline; FONT-FAMILY: 
+wingdings">x</font></font></td>
+</tr><tr>
+<td align="left" valign="top" width="2%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">(b)</font></div>
+</td>
+<td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="93%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">The subject annual report, semi-annual report, transition 
+report on Form&#160;10-K, Form&#160;20-F, Form&#160;11-K, Form N-SAR or 
+Form&#160;N-CSR, or portion thereof, will be filed on or before the fifteenth 
+calendar day following the prescribed due date; or the subject quarterly report 
+or transition report on Form&#160;10-Q, or subject distribution report on Form 
+10-D, or&#160;&#160;portion thereof, will be filed on or before the fifth 
+calendar day following the prescribed due date; and</font></div>
+</td>
+<td valign="top" width="1%"><font style="DISPLAY: inline; FONT-FAMILY: times new
+roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="top" width="3%"><font style="DISPLAY: inline; FONT-FAMILY: times new
+roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="2%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">(c)</font></div>
+</td>
+<td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="93%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">The accountant&#8217;s statement or other exhibit required by 
+Rule&#160;12b-25(c) has been attached if applicable.</font></div>
+</td>
+<td valign="top" width="1%"><font style="DISPLAY: inline; FONT-FAMILY: times new
+roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="top" width="3%"><font style="DISPLAY: inline; FONT-FAMILY: times new
+roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr></table>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-
+RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline;
+FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-
+FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; 
+FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold">PART III 
+&#8212; NARRATIVE</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+<div style="LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; 
+MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: 
+Times New Roman; FONT-SIZE: 10pt">State below in reasonable detail why Forms 10-
+K, 20-F, 11-K, 10-Q, 10-D, N-SAR, N-CSR, or the transition report or portion 
+thereof, could not be filed within the prescribed time period.</font></div>
+<div style="LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+<div style="LINE-HEIGHT: 1; TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt;
+MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: 
+Times New Roman; FONT-SIZE: 10pt">The Partnership has determined that it is 
+unable to file its Form 10-Q for the quarter ended June 30, 2014 by the August 
+14, 2014 due date or by the August 19, 2014 extension date.</font></div>
+<div style="LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+<div style="LINE-HEIGHT: 1; TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt;
+MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: 
+Times New Roman; FONT-SIZE: 10pt">The Partnership is not able to file a timely 
+Form 10-Q for the quarter ended June 30, 2014, because it has not completed 
+required financial statements for previous reporting periods.&#160;&#160;In 
+November 2005, the Partnership determined that its previously issued financial 
+statements for the year ended December 31, 2004, and for the quarter ended March
+31, 2005, should no longer be relied upon.&#160;&#160;More information regarding
+the 2004 restatement and the Partnership&#8217;s initial efforts to file its 
+comprehensive 2005 10-K including quarterly financial information can be found 
+in its Current Report on Form 8-K filed with the SEC on November 14, 2005 and 
+its Form 12b-25&#8217;s filed with the SEC on April&#160;3, 2006 and August 15, 
+2006.</font></div>
+<div style="LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+<div style="LINE-HEIGHT: 1; TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt;
+MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: 
+Times New Roman; FONT-SIZE: 10pt">As disclosed and discussed further in the
+current report on Form 8-K filed October 26, 2006, in an effort to complete the 
+2005 annual financial statements on a timely basis, including the restatement of
+prior years financial statements, the managing general partner engaged Schneider
+Downs &amp; Co., Inc.&#160;&#160;(&#8220;Schneider Downs&#8221;), as new 
+auditors, for the Partnership and for 14 of the 25 other sponsored partnerships 
+then subject to SEC reporting requirements.</font></div>
+<div style="LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+<div style="LINE-HEIGHT: 1; TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt;
+MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: 
+Times New Roman; FONT-SIZE: 10pt">As previously reported, on September 16, 2013,
+the Partnership filed a petition under Chapter 11 of the Bankruptcy Code (the 
+"Chapter 11 Proceeding") with the United States Bankruptcy Court for the 
+Northern District of Texas, Dallas Division (the "Bankruptcy Court"). The 
+managing general partner appointed Karen Nicolaou to act as the Responsible 
+Party for the Partnership and to oversee all actions for the Partnership in 
+connection with the Chapter 11 Proceeding. As previously reported, (i) on 
+January 30, 2014, the Partnership entered into a Purchase and Sale Agreement by 
+and among the Partnership, the other Seller parties named therein and Alliance 
+Petroleum Corporation (&#8220;Alliance&#8221;), pursuant to which, Alliance 
+would acquire substantially all of the oil and gas properties of the 
+Partnership; (ii) on January 31, 2014, the Partnership filed a Motion to Sell 
+Substantially All of Its Assets (the &#8220;Sale Motion&#8221;) with the 
+Bankruptcy Court, and (iii) on February 27, 2014, the Bankruptcy Court approved 
+the Sale Motion. In light of the foregoing, on February 27, 2014, Schneider 
+Downs resigned as the Partnership&#8217;s independent public accounting firm. On
+March 31, 2014, the Partnership completed the disposition of substantially all 
+of its oil and gas properties. The Partnership remains in possession of its 
+remaining assets and continues to operate its business as a debtor-in-possession
+under the jurisdiction of the Bankruptcy Court and in accordance with the 
+applicable provisions of the Bankruptcy Code and the orders of the Bankruptcy 
+Court. Given the pending Chapter 11 Proceeding, the Partnership does not intend 
+to appoint a new independent registered public accounting firm at this 
+time.</font></div>
+<div style="LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block"><font 
+style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 
+10pt">&#160;</font></div>
+<div style="LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block">
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman;
+FONT-SIZE: 10pt">In light of the bankruptcy filing, the Partnership does not 
+intend to file the delinquent reports described in Part IV (2) 
+below.</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+<div style="TEXT-INDENT: 36pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman;
+FONT-SIZE: 10pt">Because of the matters discussed above, management expects to 
+have material weaknesses in its internal controls over financial 
+reporting.</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold">PART IV 
+&#8212; OTHER INFORMATION</font></font></div>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times 
+new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="3%"><font style="DISPLAY: inline; FONT-FAMILY: times new
+roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="top" width="75%"><font style="DISPLAY: inline; FONT-FAMILY: times 
+new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="3%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">(1)&#160;&#160;</font></div>
+</td>
+<td align="left" valign="top" width="75%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Name and telephone number of person to contact in regard to 
+this notification</font></div>
+</td>
+</tr></table>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+<div align="center">
+<table cellpadding="0" cellspacing="0" width="80%" style="FONT-FAMILY: times new
+roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="30%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Karen N. Nicolaou</font></div>
+</td>
+<td valign="top" width="18%"><font style="DISPLAY: inline; FONT-FAMILY: times 
+new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="top" width="23%"><font style="DISPLAY: inline; FONT-FAMILY: times 
+new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td valign="top" width="30%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Atropos, Incorporated</font></div>
+</td>
+<td valign="top" width="18%"><font style="DISPLAY: inline; FONT-FAMILY: times 
+new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="top" width="23%"><font style="DISPLAY: inline; FONT-FAMILY: times 
+new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td valign="top" width="30%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Principal</font></div>
+</td>
+<td valign="top" width="18%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">855</font></div>
+</td>
+<td valign="top" width="23%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman;
+FONT-SIZE: 10pt">312-9068</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="30%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">(Name)</font></div>
+</td>
+<td valign="top" width="18%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">(Area Code)</font></div>
+</td>
+<td valign="top" width="23%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">(Telephone Number)</font></div>
+</td>
+</tr></table>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+</div>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times 
+new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="3%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">(2)&#160;&#160;</font></div>
+</td>
+<td valign="top" width="78%" style="TEXT-ALIGN: justify">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 
+0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: times new 
+roman; FONT-SIZE: 10pt">Have all other periodic reports required under 
+Section&#160;13 or 15(d) of the Securities Exchange Act of 1934 or 
+Section&#160;30 of the Investment Company Act of 1940 during the preceding 
+12&#160;months or for such shorter period that the registrant was required to 
+file such report(s) been filed?&#160;&#160;If answer is no, identify 
+report(s).&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Yes&#160;&
+#61551;&#160;&#160;No <font style="DISPLAY: inline; FONT-FAMILY: 
+wingdings">x</font><a name="check1"><!--efplaceholder--></a></font></div>
+</td>
+</tr><tr>
+<td valign="top" width="3%"><font style="DISPLAY: inline; FONT-FAMILY: times new
+roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="top" width="78%" style="LINE-HEIGHT: 1">
+<div style="LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+<div style="LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; 
+MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: 
+times new roman; FONT-SIZE: 10pt">Form 10-K for the period from December 31, 
+1996 (date of inception) to December 31, 1996 (filing subsequently 
+withdrawn)</font></div>
+<div style="LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; 
+MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: 
+times new roman; FONT-SIZE: 10pt">Form 10-Q for the quarter ended March 31, 1997
+(filing subsequently withdrawn)</font></div>
+<div style="LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; 
+MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY:
+times new roman; FONT-SIZE: 10pt">Form 10-Q for the quarter ended June 30, 1997 
+(filing subsequently withdrawn)</font></div>
+<div style="LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; 
+MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: 
+times new roman; FONT-SIZE: 10pt">Form 10-Q for the quarter ended September 30, 
+1997 (filing subsequently withdrawn)</font></div>
+<div style="LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; 
+MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: 
+times new roman; FONT-SIZE: 10pt">Form 10-K for the year ended December 31, 1997
+(filing subsequently withdrawn)</font></div>
+<div style="LINE-HEIGHT: 1; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; 
+MARGIN-RIGHT: 0pt" align="center">&#160; <font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">Form 10-Q for the quarter ended March 
+31, 1998 (filing subsequently withdrawn)</font>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended June 30, 1998 (filing 
+subsequently withdrawn)</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended September 30, 1998 (filing 
+subsequently withdrawn)</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-K for the year ended December 31, 1998 (filing 
+subsequently withdrawn)</font></font></div>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended March 31, 1999 (filing 
+subsequently withdrawn)</font></div>
+</div>
+</div>
+</div>
+</td>
+</tr></table>
+<div>&#160;</div>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; 
+FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-
+FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; 
+FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times 
+new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="3%"><font style="DISPLAY: inline; FONT-FAMILY: times new
+roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td valign="top" width="78%" style="TEXT-ALIGN: center">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended June 30, 1999 (filing 
+subsequently withdrawn)</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">&#160;Form 10-Q for the quarter ended September 30, 1999 
+(filing subsequently withdrawn)</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-K for the year ended December 31, 1999 (filing 
+subsequently withdrawn)</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended March 31, 2000 (filing 
+subsequently withdrawn)</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended June 30, 2000 (filing 
+subsequently withdrawn)</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended September 30, 2000 (filing 
+subsequently withdrawn)</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-K for the year ended December 31, 2000 (filing 
+subsequently withdrawn)</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended March 31, 2001 (filing 
+subsequently withdrawn)</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended June 30, 2001 (filing 
+subsequently withdrawn)</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended September 30, 2001 (filing 
+subsequently withdrawn)</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-K for the year ended December 31, 2001 (filing 
+subsequently withdrawn)</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended March 31, 2002 (filing 
+subsequently withdrawn)</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended June 30, 2002 (filing 
+subsequently withdrawn)</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">&#160;Form 10-Q for the quarter ended September 30, 2002 
+(filing subsequently withdrawn)</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-K for the year ended December 31, 2002 (filing 
+subsequently withdrawn)</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended March 31, 2003 (filing 
+subsequently withdrawn)</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended June 30, 2003 (filing 
+subsequently withdrawn)</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended September 30, 2003 (filing 
+subsequently withdrawn)</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-K for the year ended December 31, 2003 (filing
+subsequently withdrawn)</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended March 31, 2004 (filing 
+subsequently withdrawn)</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended June 30, 2004 (filing 
+subsequently withdrawn)</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended September 30, 2004 (filing 
+subsequently withdrawn)</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-K for the year ended December 31, 2004 (filing 
+subsequently withdrawn)</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended March 31, 2005 (filing 
+subsequently withdrawn)</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended June 30, 
+2005</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended September 30, 
+2005</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-K for the year ended December 31, 
+2005</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended March 31, 
+2006</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended June 30, 
+2006</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman;
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended September 30, 
+2006</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-K for the year ended December 31, 
+2006</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended March 31, 
+2007</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended June 30, 
+2007</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended September 30, 
+2007</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-K for the year ended December 31, 
+2007</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended March 31, 
+2008</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended June 30, 
+2008</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended September 30, 
+2008</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-K for the year ended December 31, 
+2008</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended March 31, 
+2009</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended June 30, 
+2009</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended September 30, 
+2009</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-K for the year ended December 31, 
+2009</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended March 31, 
+2010</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended June 30, 
+2010</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended September 30, 
+2010</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-K for the year ended December 31, 
+2010</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended March 31, 
+2011</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended June 30, 
+2011</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended September 30, 
+2011</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-K for the year ended December 31,
+2011</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended March 31, 
+2012</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended June 30, 
+2012</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended September 30, 
+2012</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-K for the year ended December 31, 
+2012</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended March 31, 
+2013</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended June 30, 
+2013</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended September 30, 
+2013</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-K for the year ended December 31, 
+2013</font></font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Form 10-Q for the quarter ended March 31, 
+2014</font></font></div>
+</td>
+</tr></table>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; 
+FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-
+FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; 
+FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times 
+new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="3%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">(3)&#160;&#160;</font></div>
+</td>
+<td valign="top" width="78%" style="TEXT-ALIGN: justify">
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 
+0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: times new 
+roman; FONT-SIZE: 10pt">Is it anticipated that any significant change in results
+of operations from the corresponding period for the last fiscal year will be 
+reflected by the earnings statements to be included in the subject report or 
+portion thereof? 
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Yes&#160;<font 
+style="DISPLAY: inline; FONT-FAMILY: wingdings">x</font>&#160;&#160;No 
+&#61551;</font></div>
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 
+0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: times new 
+roman; FONT-SIZE: 10pt">If so, attach an explanation of the anticipated change, 
+both narratively and quantitatively, and, if appropriate, state the reasons why 
+a reasonable estimate of the results cannot be made.</font></div>
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 
+0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: times new 
+roman; FONT-SIZE: 10pt">As discussed above, on February 27, 2014, Schneider 
+Downs resigned as the Partnership&#8217;s independent public accounting firm. 
+Given the pending Chapter 11 Proceeding, the Partnership does not intend to 
+appoint a new independent registered public accounting firm at this 
+time.</font></div>
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 
+0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 
+0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: times new 
+roman; FONT-SIZE: 10pt">In March 2014, the Partnership completed the divestiture
+of all its remaining oil and gas properties for cash consideration of
+approximately $769,000.&#160;&#160;The net proceeds from this divestiture were 
+retained by the Partnership for payment of Bankruptcy costs or future 
+distribution upon approval by the Bankruptcy Court.</font></div>
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 
+0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: times new 
+roman; FONT-SIZE: 10pt">We cannot comment on the results of our operations for 
+the quarters ended June 30, 2014 and 2013 until the ultimate resolution of the 
+matters discussed above.</font></div>
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+</td>
+</tr></table>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times 
+new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="81%" style="BORDER-TOP: black 0.5pt solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt; FONT-WEIGHT: bold">Eastern 1996D Limited 
+Partnership</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="81%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">_____________________________</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="81%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">(Name of Registrant as specified in charter)</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="81%"><font style="DISPLAY: inline; FONT-FAMILY: times 
+new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr></table>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; 
+FONT-SIZE: 10pt">has caused this notification to be signed on its behalf by the 
+undersigned hereunto duly authorized.</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+<div align="right">
+<table cellpadding="0" cellspacing="0" width="60%" style="FONT-FAMILY: times new
+roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="bottom" width="18%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="bottom" width="25%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="18%" style="BORDER-BOTTOM: black 2px 
+solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Date:&#160;&#160;<font style="DISPLAY: inline">August 15, 2014 
+</font></font></div>
+</td>
+<td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="2%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">By</font></div>
+</td>
+<td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="25%" style="BORDER-BOTTOM: black 2px 
+solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt"><font style="DISPLAY: inline">/s/ Karen 
+Nicolaou</font></font></div>
+</td>
+</tr><tr>
+<td valign="top" width="18%"><font style="DISPLAY: inline; FONT-FAMILY: times 
+new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="2%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-
+FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="25%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Karen Nicolaou,</font></div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; 
+FONT-SIZE: 10pt">Responsible Party</font></div>
+</td>
+</tr></table>
+</div>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 
+0pt" align="justify">&#160;</div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

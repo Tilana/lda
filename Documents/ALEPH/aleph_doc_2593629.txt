@@ -1,0 +1,593 @@
+
+<SEC-DOCUMENT>0001193125-16-677636.txt : 20160810
+<SEC-HEADER>0001193125-16-677636.hdr.sgml : 20160810
+<ACCEPTANCE-DATETIME>20160810090032
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+EFFECTIVENESS DATE:
+NT 10-Q
+1
+20160630
+0001193125-16-677636
+20160810
+20160810
+20160810
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: CRUDE PETROLEUM & NATURAL GAS
+SANDRIDGE ENERGY INC
+0001349436
+[1311]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+208084793
+DE
+1231
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 001-33784
+FILM NUMBER:
+NT 10-Q
+1934 Act
+161820107
+BUSINESS ADDRESS:
+STREET 1:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+123 ROBERT S. KERR AVENUE
+OKLAHOMA CITY
+OK
+73102-6406
+405-429-5500
+MAIL ADDRESS:
+STREET 1:
+CITY:
+STATE:
+ZIP:
+FORMER COMPANY:
+123 ROBERT S. KERR AVENUE
+OKLAHOMA CITY
+OK
+73102-6406
+FORMER CONFORMED NAME: RIATA ENERGY INC
+DATE OF NAME CHANGE:
+20060111
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>NT 10-Q
+<SEQUENCE>1
+<FILENAME>d225028dnt10q.htm
+<DESCRIPTION>NT 10-Q
+<TEXT>
+<HTML><HEAD>
+<TITLE>NT 10-Q</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+<DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="35" BORDER="0" STYLE="BORDER-
+COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+<TR>
+<TD WIDTH="20%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="20%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="58%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3" STYLE="BORDER:1px solid #000000; padding-
+left:8pt">SEC FILE NUMBER</TD>
+<TD VALIGN="bottom" STYLE="BORDER-TOP:1px solid #000000; BORDER-BOTTOM:1px solid
+#000000">&nbsp;</TD>
+<TD VALIGN="top" NOWRAP ALIGN="right" STYLE="BORDER-TOP:1px solid #000000; 
+BORDER-RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-
+right:8pt">001-33784</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3" STYLE="BORDER-LEFT:1px solid #000000; BORDER-
+RIGHT:1px solid #000000; BORDER-BOTTOM:1px solid #000000; padding-
+left:8pt">CUSIP NUMBER</TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" NOWRAP ALIGN="right" STYLE="BORDER-RIGHT:1px solid #000000; 
+BORDER-BOTTOM:1px solid #000000; padding-
+right:8pt">80007P307</TD></TR></TABLE></DIV> <p STYLE="margin-top:0pt;margin-
+bottom:0pt ; font-size:8pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px 
+solid #000000">&nbsp;</P> <P STYLE="line-height:3.0pt;margin-top:0pt;margin-
+bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times 
+New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times 
+New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times 
+New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-
+size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-
+bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-
+top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" 
+ALIGN="center"><B>FORM 12b-25
+</B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-
+bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-
+top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid 
+#000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times 
+New Roman" ALIGN="center"><B>NOTIFICATION OF LATE FILING </B></P> <P 
+STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-
+COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+<TR>
+<TD WIDTH="28%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="71%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="right">(Check one):&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-
+size:10pt; font-family:Times New Roman"><FONT STYLE="FONT-
+FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;Form 10-K&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;Form 20-
+F&nbsp;&nbsp;&nbsp;&nbsp; <FONT STYLE="FONT-
+FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;Form 11-K&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT>&nbsp;&nbsp;Form 10-Q</P> <P 
+STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New 
+Roman"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;Form
+10-D&nbsp;&nbsp;&nbsp;&nbsp; <FONT STYLE="FONT-
+FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;Form N-SAR&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;Form N-
+CSR</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">For Period Ended: June 30, 2016</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="FONT-
+FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;Transition Report on Form 10-
+K</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="FONT-
+FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;Transition Report on Form 20-
+F</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="FONT-
+FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;Transition Report on Form 11-
+K</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="FONT-
+FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;Transition Report on Form 10-
+Q</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="FONT-
+FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;Transition Report on Form N-
+SAR</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">For&nbsp;the&nbsp;Transition&nbsp;Period&nbsp;Ended: 
+&nbsp;&nbsp;&nbsp;&nbsp;</TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-
+COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+<TR>
+<TD WIDTH="100%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP ALIGN="center" STYLE="BORDER:1px solid #000000; padding-
+left:8pt; padding-right:8pt"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-
+size:10pt; font-family:Times New Roman" ALIGN="center"><I>Read Instruction (on 
+back page)
+Before Preparing Form. Please Print or Type.</I><B>&nbsp;</B><I></I></P> <P 
+STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New 
+Roman" ALIGN="center"><B>Nothing in this form shall be construed to imply that 
+the Commission
+has verified any information contained herein.</B></P></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-
+size:10pt; font-family:Times New Roman">If the notification relates to a portion
+of the filing checked above, identify the Item(s) to which the
+notification relates: </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-
+bottom:0pt">&nbsp;</P> <P STYLE="font-size:12pt;margin-top:0pt;margin-
+bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.5pt;margin-top:0pt;margin-bottom:2pt;border-
+bottom:1.50pt solid #000000">&nbsp;</P> <P STYLE="margin-top:12pt; margin-
+bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>PART 
+I &#151; REGISTRANT
+INFORMATION </B></P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-
+size:22pt; font-family:Times New Roman" ALIGN="center"><B>SandRidge Energy, Inc.
+</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman" ALIGN="center"><B>Full Name of Registrant </B></P> <P STYLE="font-
+size:24pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times 
+New Roman" ALIGN="center"><B>Former Name if Applicable </B></P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman" ALIGN="center"><B>123 Robert S. Kerr Avenue </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times 
+New Roman" ALIGN="center"><B>Address of Principal Executive Office 
+(</B><B><I>Street and Number</I></B><B>) </B></P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman" ALIGN="center"><B>Oklahoma City, Oklahoma 73102 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times 
+New Roman" ALIGN="center"><B>City, State and Zip Code </B></P> <P STYLE="margin-
+top:0pt;margin-bottom:0pt;page-break-before:always"></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P 
+STYLE="line-height:1.5pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.50pt 
+solid #000000">&nbsp;</P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman" ALIGN="center"><B>PART II &#151; RULES 12b-25(b) AND (c) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman">If the subject report could not be filed without unreasonable effort 
+or expense and the registrant seeks relief pursuant to Rule 12b-25(b), the 
+following
+should be completed. (Check box if appropriate) </P> <P STYLE="font-
+size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-
+COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+<TR>
+<TD WIDTH="3%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="93%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="middle" ROWSPAN="3" STYLE="BORDER-RIGHT:1px solid #000000; padding-
+left:8pt"><FONT STYLE="FONT-
+FAMILY:WINGDINGS">&#120;</FONT>&nbsp;&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(a)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt;
+font-family:Times New Roman">The reasons described in reasonable detail in Part 
+III of this form could not be eliminated without unreasonable effort or 
+expense;</P>
+<P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:1pt">&nbsp;</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(b)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; 
+font-family:Times New Roman">The subject annual report, semi-annual report, 
+transition report on Form 10-K, Form 20-F, Form 11-K, Form N-SAR or Form N-CSR, 
+or portion
+thereof, will be filed on or before the fifteenth calendar day following the 
+prescribed due date; or the subject quarterly report or transition report on 
+Form 10-Q or subject distribution report on Form 10-D, or portion thereof, will 
+be filed on or
+before the fifth calendar day following the prescribed due date; and</P> <P 
+STYLE="font-size:6pt; margin-top:0pt; margin-bottom:1pt">&nbsp;</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">(c)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">The accountant&#146;s statement or other exhibit required by 
+Rule 12b-25(c) has been attached if applicable.</TD></TR>
+</TABLE> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> 
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px 
+solid #000000">&nbsp;</P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman" ALIGN="center"><B>PART III &#151; NARRATIVE </B></P> <P 
+STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New
+Roman">State below in
+reasonable detail why Forms 10-K, 20-F, 11-K, 10-Q, 10-D, N-SAR, N-CSR, or the 
+transition report or portion thereof, could not be filed within the prescribed 
+time period. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman">The Quarterly Report on Form 10-Q of SandRidge Energy, Inc. (the 
+&#147;Company&#148;) for the fiscal quarter ended June 30, 2016, could not be 
+filed with the
+Securities and Exchange Commission (the &#147;SEC&#148;) within the prescribed 
+time period without unreasonable effort or expense, because the Company needs 
+additional time to complete its financial statements and related disclosures. 
+</P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman">As previously disclosed in its Current Report on Form 8-K filed with 
+the SEC on May 16, 2016, the Company and certain of its direct and indirect 
+subsidiaries
+(collectively with the Company, the &#147;Debtors&#148;) filed voluntary 
+petitions (the &#147;Bankruptcy Petitions&#148;) for reorganization under 
+Chapter 11 of the United States Bankruptcy Code (the &#147;Bankruptcy 
+Code&#148;) in the United States
+Bankruptcy Court for the Southern District of Texas (the &#147;Bankruptcy 
+Court&#148;). The Chapter 11 cases are being administered jointly under the 
+caption&nbsp;In re: SandRidge Energy Inc., et al., Case No. 16-32488&nbsp;(the 
+&#147;Chapter 11
+Cases&#148;). The Debtors continue to operate their businesses and manage their 
+properties as &#147;debtors-in-possession&#148; under the jurisdiction of the 
+Bankruptcy Court and in accordance with the applicable provisions of the 
+Bankruptcy Code
+and orders of the Bankruptcy Court. Proofs of claim involving over 
+2,000&nbsp;claims were filed on or prior to July 22, 2016, the claims bar date 
+established in connection with the Chapter 11 Cases. The claims bar date applies
+to nearly all types of
+claims against the Debtors that arose or are deemed to have arisen prior to the 
+petition date. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-
+size:10pt; font-family:Times New Roman">Due to the considerable time and 
+resources management must
+devote to the Chapter 11 Cases and the related administrative requirements, 
+including the initial review and reconciliation of, and establishment of 
+reserves in connection with, the proofs of claim, the Company has been unable to
+complete the
+preparation of its Quarterly Report within its normal review cycle and has 
+determined that it is unable to timely file its Quarterly Report without 
+unreasonable effort or expense. </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P 
+STYLE="line-height:1.5pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.50pt 
+solid #000000">&nbsp;</P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman" ALIGN="center"><B>PART IV &#151; OTHER INFORMATION </B></P> <P 
+STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(1)&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Name and telephone number of person to contact in 
+regard to this notification </TD></TR></TABLE> <P STYLE="font-size:24pt;margin-
+top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="92%" BORDER="0" STYLE="BORDER-
+COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+<TR>
+<TD WIDTH="33%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="20%"></TD>
+<TD VALIGN="bottom" WIDTH="6%"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="29%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center" STYLE="BORDER-BOTTOM:1px solid 
+#000000"><B>Philip T. Warman</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid 
+#000000">&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="BORDER-BOTTOM:1px solid 
+#000000"><B>405</B></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="BORDER-BOTTOM:1px solid 
+#000000"><B>429-5500</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"><B>(Name)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Area&nbsp;Code)</B></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Telephone Number)</B></TD></TR>
+</TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(2)&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Have all other periodic reports required under 
+Section 13 or 15(d) of the Securities Exchange Act of 1934 or Section 30 of the 
+Investment Company Act of 1940 during the preceding 12 months or for such 
+shorter period
+that the registrant was required to file such report(s) been filed? If answer is
+no, identify
+report(s).&nbsp;&nbsp;&nbsp;&nbsp;<FONT STYLE="FONT-
+FAMILY:WINGDINGS">&#120;</FONT>&nbsp;&nbsp;Yes&nbsp;&nbsp;&nbsp;&nbsp;<FONT 
+STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;No </TD></TR></TABLE>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-
+size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(3)&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Is it anticipated that any significant change in 
+results of operations from the corresponding period for the last fiscal year 
+will be reflected by the earnings statements to be included in the subject 
+report or portion
+thereof?&nbsp;&nbsp;&nbsp;&nbsp;<FONT STYLE="FONT-
+FAMILY:WINGDINGS">&#120;</FONT>&nbsp;&nbsp;Yes&nbsp;&nbsp;&nbsp;&nbsp;<FONT 
+STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;No </TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman">If so, attach an explanation of the anticipated change, both 
+narratively and quantitatively, and, if appropriate, state the reasons why a 
+reasonable estimate
+of the results cannot be made. </P> <P STYLE="margin-top:12pt; margin-
+bottom:0pt; font-size:10pt; font-family:Times New Roman">As a result of the 
+matters discussed in Part III above, the Company is not in a position at this 
+point to provide any
+specific estimate of anticipated significant changes in results of operations 
+from the three- and six-month periods ended June 30, 2015 to the three- and six-
+month periods ended June 30, 2016 that may be reflected in the financial 
+statements to be
+included in the Company&#146;s Quarterly Report on Form 10-Q for the fiscal 
+quarter ended June 30, 2016. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; 
+font-size:10pt; font-family:Times New Roman">We, however, anticipate that total 
+revenues and
+income from operations for the three- and six-month periods ended June 30, 2016 
+will be significantly lower than the three- and six-month periods ended June 30,
+2015, due primarily to a decline in oil and natural gas production, largely 
+resulting
+from natural declines in existing producing wells and a decrease in wells 
+drilled in the 2016 periods compared to the 2015 periods, and a decline in the 
+average prices received primarily for our oil and to a lesser extent, natural 
+gas and natural
+gas liquids production. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-
+size:10pt; font-family:Times New Roman">We further anticipate that operating 
+expenses will be significantly lower for the three- and six-month periods ended
+June&nbsp;30, 2016 than the three- and six-month periods ended June 30, 2015 due
+primarily to a decline in production expenses primarily as a result of a 
+decrease in well activity as a result of fewer wells being brought on production
+and reduction
+in workover activity, the elimination of the CO<SUB STYLE="font-size:85%; 
+vertical-align:bottom">2</SUB> delivery shortfall penalty due to the termination
+of the CO<SUB STYLE="font-size:85%; vertical-align:bottom">2</SUB> delivery 
+agreement with
+Occidental Petroleum Corporation in January 2016, the decreased incurrence of 
+full cost ceiling limitation impairments resulting primarily from the 
+significant decrease in oil prices, and to a lesser extent, natural gas prices, 
+that began in the
+latter half of 2014 and continued throughout 2015 and into 2016, and a decrease
+in depreciation and depletion rates due primarily to the full cost ceiling 
+limitation impairments recorded in 2015 and the first quarter of 2016. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman">Finally, we anticipate that other expenses, taxes and net loss 
+attributable to noncontrolling interest will be significantly higher for the 
+three- and
+six-month periods ended June 30, 2016 than the three- and six-month periods 
+ended June 30, 2015 due primarily to reorganization items in the 2016 periods 
+primarily consisting of net unamortized debt premiums and discounts, unamortized
+debt issuance
+costs and the remaining value of derivatives associated with the Company&#146;s 
+8.125% Convertible Senior Notes due 2022, 7.5% Convertible Senior Notes due 2023
+and 8.75% Senior Secured Notes due 2020 issued by the Company in October 2015 in
+connection with the acquisition of and termination of a gathering agreement with
+Pi&#241;on Gathering Company, LLC that were written-off on the date the 
+Bankruptcy Petitions were filed, amounts related to the rejection of certain 
+long-term contracts
+as approved by the Bankruptcy Court, and professional and legal fees incurred as
+a result of the Chapter 11 Cases. </P> <P STYLE="margin-top:12pt; margin-
+bottom:0pt; font-size:10pt; font-family:Times New Roman">The foregoing 
+statements are based on
+our current expectations as of the date of this filing and involve a number of 
+risks and uncertainties which may cause actual results to differ, as discussed 
+further below. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman" ALIGN="center"><B>CAUTIONARY NOTE REGARDING FORWARD-LOOKING 
+STATEMENTS </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman"><I>This Form 12b-25 filing includes &#147;forward-looking 
+statements.&#148; All statements, other than statements of historical facts, 
+included in this filing
+that address activities, events or developments that the Company expects, 
+believes, targets or anticipates will or may occur in the future are forward-
+looking statements. Such statements are subject to a number of assumptions, 
+risks and
+uncertainties, many of which are beyond the control of the Company, which may 
+cause actual results to differ materially from those implied or expressed by the
+forward-looking statements. As such, readers should not unduly rely on such
+forward-looking statements. See &#147;Risk Factors&#148; in the Company&#146;s 
+Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, and other public 
+filings.</I></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-
+bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px 
+solid #000000">&nbsp;</P> <P STYLE="line-height:3.0pt;margin-top:0pt;margin-
+bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman" ALIGN="center"><B>SandRidge Energy, Inc. </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times 
+New Roman" ALIGN="center"><B>(Name of Registrant as Specified in Charter) 
+</B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times 
+New Roman">has caused this notification to be signed on its behalf by the 
+undersigned hereunto duly authorized. </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-
+COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+<TR>
+<TD WIDTH="3%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="44%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="3%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="43%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-
+left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New 
+Roman">Date&nbsp;</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;August 10, 2016</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">By&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-
+bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ 
+Philip T. Warman</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Philip T. Warman</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Senior Vice President and General Counsel</TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-
+family:Times New Roman">INSTRUCTION: The form may be signed by an executive 
+officer of the registrant or by any other duly authorized representative.
+The name and title of the person signing the form shall be typed or printed 
+beneath the signature. If the statement is signed on behalf of the registrant by
+an authorized representative (other than an executive officer), evidence of the
+representative&#146;s authority to sign on behalf of the registrant shall be 
+filed with the form. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-
+bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-
+COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+<TR>
+<TD WIDTH="100%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" STYLE="BORDER:1px solid #000000; padding-left:8pt; padding-
+right:8pt">
+<P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:1.00em; text-indent:-
+1.00em; font-size:10pt; font-family:Times New Roman" 
+ALIGN="center"><B>ATTENTION</B></P> <P STYLE="font-size:4pt;margin-
+top:0pt;margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-
+1.00em; font-size:10pt; font-family:Times New Roman" 
+ALIGN="center"><B>Intentional misstatements or omissions of fact constitute 
+Federal Criminal Violations (See 18 U.S.C.
+1001).</B></P></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> 
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px 
+solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px 
+solid #000000">&nbsp;</P> <P STYLE="font-size:12pt; margin-top:0pt; margin-
+bottom:0pt">&nbsp;</P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

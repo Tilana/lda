@@ -54,6 +54,15 @@ class Collection:
         self.entityCorpus = [sorted([(dictionary.getDictionaryId(entry[0]), entry[1]) for entry in document.entities.getEntities()]) for document in self.documents]
 
 
+    def addFeatureToDocuments(self, featureName, featureList):
+        if len(featureList)==len(self.documents):
+            for index,document in enumerate(self.documents):
+                document.setAttribute(featureName, featureList[index])
+        else:
+            print 'Length of documents and features is not equale'
+
+
+
     def computeRelevantWords(self, tfidf, dictionary, document, N=10):
         docRepresentation = tfidf[document.vectorRepresentation]
         freqWords = sorted(docRepresentation, key=lambda frequency: frequency[1], reverse=True)[0:N]

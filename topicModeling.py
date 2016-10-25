@@ -1,46 +1,51 @@
 #!/usr/bin/python
 #-*- coding: utf-8 -*-
-from lda import Collection, Dictionary, Model, Info, Viewer, utils, ImagePlotter, Word2Vec
+from lda import Collection, Dictionary, Model, Info, Viewer, utils, ImagePlotter, Word2Vec, docLoader
 from lda.docLoader import loadCategories
 from gensim.parsing.preprocessing import STOPWORDS
+import pandas as pd
 from nltk.corpus import names
 from gensim.models import TfidfModel
+import bnpy_run
 import os.path
+from sklearn.feature_extraction.text import CountVectorizer 
 
 def topicModeling():
 
     #### PARAMETERS ####
     info = Info()
-    info.data = 'CRC'     # 'ICAAD' 'NIPS' 'scifibooks' 'HRC'
+    info.data = 'Aleph'     # 'ICAAD' 'NIPS' 'scifibooks' 'HRC'
    
     # Preprocessing #
-    info.preprocess = 0
+    info.preprocess = 1
     info.startDoc = 0 
-    info.numberDoc= 10 
+    info.numberDoc= None 
     info.specialChars = set(u'''[,\.\'\`=\":\\\/_+]''')
     info.includeEntities = 0
     info.removeNames = 0
     info.bigrams = 1
+    info.maxFeatures = 10000
 
     numbers = [str(nr) for nr in range(0,500)]
     info.whiteList= Word2Vec().net.vocab.keys() #+ numbers
     info.stoplist = list(STOPWORDS) #+ utils.lowerList(names.words())
+    info.stoplist = [x.strip() for x in open('stopwords/english.txt')]
 
     # Dictionary #  
     info.analyseDictionary = 0
 
-    info.lowerFilter = 2     # in number of documents
-    info.upperFilter = 0.95  # in percent
+    info.lowerFilter = 1     # in number of documents
+    info.upperFilter = 1  # in percent
 
     # LDA Model #
     info.modelType = 'LDA'  # 'LDA' 'LSI'
-    info.numberTopics = 3 
+    info.numberTopics = 18 
     info.tfidf = 0
     info.passes = 10 
-    info.iterations = 50 
+    info.iterations = 62 
     info.online = 0 
     info.chunksize = 4100 
-    info.multicore = 0
+    info.multicore = 1
 
     # Evaluation #
     info.categories = loadCategories('Documents/categories.txt')[0]     #0 -human rights categories   1 - Scientific Paper categories
@@ -53,9 +58,30 @@ def topicModeling():
         
     if not os.path.exists(info.collectionName) or info.preprocess:
         print 'Load and preprocess Document Collection'
-        collection.load(info.path, info.fileType, info.startDoc, info.numberDoc)
+        titles, text = docLoader.loadEncodedFiles(info.path)
+        data = pd.DataFrame([titles[0:info.numberDoc], text[0:info.numberDoc]], index = ['title', 'text'])
+        data = data.transpose()
+
+        text = data['text'].get_values()
+
+        vectorizer = CountVectorizer(analyzer='word', ngram_range=(1,2), token_pattern='[a-zA-Z]+', stop_words=info.stoplist, max_features=8000, binary=True, max_df=1200, min_df=5)
+        print 'Fit transform'
+        word_counts = vectorizer.fit_transform(text)
+        print 'Get vocabulary'
+        vocabulary = vectorizer.get_feature_names()
+        print 'Compute Tokens'
+        tokens = [[vocabulary[index] for index in doc.indices] for doc in word_counts]
+        
+
+        collection.documents = collection.createDocumentList(data.title.tolist(), data.text.tolist())
         collection.setDocNumber()
-        collection.prepareDocumentCollection(lemmatize=True, includeEntities=info.includeEntities, stopwords=info.stoplist, removeShortTokens=True, threshold=2, specialChars=info.specialChars, whiteList=info.whiteList, bigrams=info.bigrams)
+
+        vocabulary, tokens = bnpy_run.preprocess(data)
+        #tokenPerDocument = bnpy_data.getSparseDocTypeCountMatrix().toarray()
+        #tokens = [[vocabulary[index] for index, freq in enumerate(tokens) if freq>0] for tokens in tokenPerDocument]
+        
+        collection.addFeatureToDocuments('tokens', tokens)
+        #collection.prepareDocumentCollection(lemmatize=True, includeEntities=info.includeEntities, stopwords=info.stoplist, removeShortTokens=True, threshold=2, specialChars=info.specialChars, whiteList=info.whiteList, bigrams=info.bigrams)
         collection.saveDocumentCollection(info.collectionName)
     else:
         print 'Load Processed Document Collection'

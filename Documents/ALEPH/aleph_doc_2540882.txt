@@ -1,0 +1,563 @@
+
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Mdhy6jT6kEFiMfDbrMVk/kjcpS0yWMwxh2B5oWR49ExqeG1NFNk/Gh1tEINWttJ0
+ 5IB4m5hZy+/CNLFL2m5gfw==
+<SEC-DOCUMENT>0000000000-05-051363.txt : 20060920
+<SEC-HEADER>0000000000-05-051363.hdr.sgml : 20060920
+<ACCEPTANCE-DATETIME>20051005162056
+<PRIVATE-TO-PUBLIC>
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+FILED AS OF DATE:
+0000000000-05-051363
+UPLOAD
+1
+20051005
+FILED FOR:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: MINING, QUARRYING OF NONMETALLIC
+Valley High Mining CO
+0001301838
+MINERALS (NO FUELS) [1400]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+680582275
+NV
+1231
+FILING VALUES:
+FORM TYPE:
+BUSINESS ADDRESS:
+UPLOAD
+STREET 1:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+3098 SOUTH HIGHLAND DRIVE, SUITE #323
+SALT LAKE CITY
+UT
+84106-6001
+801-467-2779
+MAIL ADDRESS:
+STREET 1:
+CITY:
+STATE:
+ZIP:
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>LETTER
+<SEQUENCE>1
+<FILENAME>filename1.txt
+<TEXT>
+3098 SOUTH HIGHLAND DRIVE, SUITE #323
+SALT LAKE CITY
+UT
+84106-6001
+Mail Stop 3561
+October 5, 2005
+Mr. John Michael Coombs, CEO
+Valley High Mining Company
+3098 South Highland Drive, Suite 323
+Salt Lake City, Utah 84106-6001
+Re:
+Valley High Mining Company
+Registration Statement on Form 10-SB
+Amendment No. 2 filed August 26, 2005
+File No. 000-51232
+Dear Mr. Coombs:
+We have reviewed your filing and have the following
+comments.
+Where indicated, we think you should revise your document in
+response
+to these comments.  If you disagree, we will consider your
+explanation as to why our comment is inapplicable or a revision is
+unnecessary.  Please be as detailed as necessary in your
+explanation.
+In some of our comments, we may ask you to provide us with
+supplemental information so we may better understand your
+disclosure.
+After reviewing this information, we may or may not raise
+additional
+comments.
+Please understand that the purpose of our review process is
+to
+assist you in your compliance with the applicable disclosure
+requirements and to enhance the overall disclosure in your filing.
+We look forward to working with you in these respects.  We welcome
+any questions you may have about our comments or on any other
+aspect
+of our review.  Feel free to call us at the telephone numbers
+listed
+at the end of this letter.
+General
+1. We reissue our previous comment three.  In light of the
+disclosure
+in the registration statement regarding the loss of corporate
+records
+and the significant period of time during which the company was
+dormant, please disclose any due diligence that management
+performed
+in identifying the company`s shareholders when it reactivated the
+company.
+2. We note your response to our previous comment four and we
+reissue
+in part our previous comment.  In the description of property
+section
+and for your mineral claims, provide the disclosures required by
+Industry Guide 7(b).  In particular, provide:
+* A map showing the location of your mineral claims.
+* A brief description of the rock formation and mineralization of
+existing or potential economic significance of the mineral claims.
+* A description of equipment and other infrastructure facilities.
+* The source of power that can be utilized at the mineral claims.
+Refer to Industry Guide 7(b)(1)-(5) for specific guidance.
+Industry
+Guide 7 can be reviewed on the Internet at
+http://www.sec.gov/divisions/corpfin/forms/industry.htm#secguide7.
+3. We reissue our previous comment five.  Insert a small-scale map
+showing the location and access to your mineral claims.  Note that
+SEC`s EDGAR program now accepts digital maps, so please include
+these
+in any future amendments that are uploaded to EDGAR.  It is
+relatively easy to include automatic links at the appropriate
+locations within the document to GIF or JPEG files, which allow
+the
+figures and/or diagrams to appear in the right location when the
+document is viewed on the Internet.  For more information, please
+consult the EDGAR manual, and if you need additional assistance,
+please call Filer Support at 202-942-8900.
+4. We reissue our previous comment six.  Remove all references in
+the
+document that use the term "mining" or "mining operations" or any
+term that can imply mineral production such as "operations."  In
+particular, substitute the term "mineral exploration" for "mining
+operations."  We note, for example and without limitation, the
+reference in risk factor one to "mining or mineral exploration
+company."  We also note the reference in the introduction to the
+risk
+factors section to "mining property."  Please revise.
+5. We reissue our previous comment seven.  We continue to note
+references to "the property" or "mining property."  Please revise
+throughout the registration statement to clarify that this
+"property"
+refers to mineral claims.
+6. We note the statement on page 25 that "[i]t is not our present
+intention to engage in any public or private offering of our
+stock"
+and on page 30 that "it is highly unlikely that we could undertake
+a
+secondary offering of securities."  Please reconcile these
+statements
+with the following disclosure:
+* The references throughout the document to investment capital.
+* The statement on the bottom of page 19 that "if we raise capital
+or
+cultivate a business relationship with another mining company or
+joint venturer" and the references on page 20 to "interested
+investor" and "investor interest."
+* The statement on page 26 that "management plans to seek out and
+obtain the capital or financing necessary to explore the North
+Beck
+Claim."
+* The statement on page 29 "[t]o implement our business plan and
+explore the North Beck Claims.... Management expects that we will
+use
+equity, debt and other arrangement such as joint ventures and
+partnerships to fund these stages of our business plan to the
+extent
+such is or may be necessary."
+* The statement on page 29 that "we will need to raise or obtain
+substantial capital to fund our desired plans to explore the North
+Beck Claims....the most likely method available to us...would be
+the
+private sale of its securities."
+* The statement on page 34 that "[i]n the event that Valley High
+cannot raise the capital and other funding necessary to explore
+the
+North Beck Claim."
+Risk Factors, page 3
+7. We note your response to our previous comment ten and reissue
+in
+part our previous comment.  On page 3, we note the statements that
+"[t]he following constitutes an effort to itemize a variety of
+risk
+factors involving us and our mining exploration business. The
+following is not meant to be an exhaustive list of the risks
+involved
+in investing in Valley High."  You should discuss all material
+risks
+in this section.  Please revise your disclosure to clarify that
+you
+discuss all material risks in this section.
+8. In risk factor one, we note the disclosure of "our subsequent
+acquisition of the North Beck Mining Claims."  When referring to
+the
+acquisition, please clarify that the company has acquired the
+claims
+by a lease agreement.
+9. In risk factor two, we note the statement that "we have no
+immediate plans or ability to implement and carry out any
+exploration
+activity."  Please reconcile this statement with the disclosure in
+the "Plan of Operation" section on page 33 that within at least
+the
+next 7 to 9 months, we will be in a position to undertake sequence
+no. 7, that is, approach interested mining exploration partners
+and
+joint venturers."
+10. We note your response to our previous comment 18 and we
+reissue
+the comment.  In risk factor five, please state your cash balance
+as
+of the most recent practicable date.
+11. In risk factor six, we note the statement that "[n]o assurance
+can be given that the necessary financing to undertake and
+implement
+our business plan will be obtained."  Please describe the
+different
+methods the company may implement to obtain the necessary capital
+and
+describe the risks involving these different methods.
+12. We reissue our previous comment 21.  Unless you have current
+pre-
+approval for the trading symbol, please remove the reference to
+"VHMC."
+13. The last paragraph of risk factor 13, discussing penny stock,
+should be relocated to risk factor 14, which discusses penny
+stock.
+Also, revise the risk factor subheading for risk factor 13.
+14. Risk factors 9 and 21 both appear to discuss your dependence
+on
+management.  Please combine into one risk factor.
+Risk Factors Related to the North Beck Mining Claims, page 11
+15. Risk factor one appears to reflect the same risk discussed in
+the
+prior risk factors section.  Please remove.
+16. In risk factor six, please explain the statement "[a]t the
+same
+time, no assurance can be given that other persons are not using
+the
+same or similar report and databases resulting in others
+identifying
+and staking claims prior to Valley High taking similar action."
+17. Please clarify in risk factor six whether to date you have
+relied
+upon any publicly available geological reports and databases.  If
+so,
+please describe in detail in the business section and provide us
+with
+a copy of the report.
+18. In risk factor seven, please explain the effect under the
+mining
+lease agreement if the company does not render at least $15,000
+worth
+of exploration and assessment on the claims during the 5-year
+lease
+term.
+Part I, page 13
+Item 1. Description of Business, page 13
+19. We note the disclosure that Mr. Coombs has orally agreed to
+advance funds to cover general operating expenses.  Please
+disclose
+whether this oral agreement is a legal obligation of Mr. Coombs.
+History and Background of the Company, page 13
+20. We note your response to our previous comment 41.  In the last
+paragraph on page 16, please disclose the value that the company
+placed on the 5,000,000 shares that it issued to North Beck Joint
+Venture, LLC.
+21. Please disclose the time frame during which Anticline sought
+to
+raise funds and seek out partnerships and joint ventures.
+Disclose
+the specific steps taken by the company during this period.
+Discuss
+when the prices of precious metals became severely depressed and
+when
+the EPA declared the adjacent area a Super-Fund site.
+22. Please name the unaffiliated companies and limited liability
+companies that received $70,000 from the change of control
+transaction between North Beck and LipidViro Tech.  Please briefly
+describe the notes, including the purpose of the funds.
+23. Disclose the consideration paid by Mr. Jack Coombs to Mr. Fehr
+for the 142,857 post-split shares.  Also, disclose the nominal
+consideration paid by Mr. Cayias for the 2,900 post-split shares
+held
+by Ms. Fehr.
+24. We note the statement that Valley High will make available the
+entire January 1957 Jenny Lind Project Report.  Remove this
+disclosure and supplementally confirm that this report will not be
+provided to investors.  See Guide 7(b)(7).
+Current Status of the Company, page 19
+25. In the plan of operation section, please explain the statement
+that "[o]ur goal is to raise capital by participating in a joint
+venture, partnership or other business arrangement."
+26. We reissue our previous comment 44.  We note the statement
+that
+you are not "presently" involved in any negotiations to pursue a
+business combination.  Please disclose any plans to seek a
+business
+combination in the future.  Also, please disclose whether any
+third
+parties or affiliates are seeking or have entered into any
+discussions or negotiations to enter into a business combination.
+We
+may have further comment.
+Overall Business Methodology and Plans, page 20
+27. We reissue our previous comment 46.  Please disclose when the
+first step was commenced.  Disclose the current status.  Disclose
+the
+compensation to be paid to Mr. Yeomans for performing this task.
+28. In work sequence four, we note the term "target groups."
+Please
+describe these target groups in the plan of operation section.
+29. In work sequence eight, we note the statement "leading to some
+sort of mineral agreement to explore the Claims."  In the plan of
+operation section, please describe in more detail the possible
+mineral agreements.
+Obtaining Permits/Regulatory Complexity Involved in Obtaining an
+Exploratory Mining Permit, page 22
+30. Please disclose when you will first need to file a permit for
+exploration.  At what point in your plan of operations would you
+need
+to obtain permits?  Approximately how long does the permit process
+take?  Disclose any fees that are associated with the permit and
+other regulatory processes.  Lastly, are there any annual fees
+that
+must be paid to maintain the mineral claim?  If so, please
+disclose.
+Pursuit of Partnership, Joint Venture and Outside Funding
+Opportunities, page 25
+31. We reissue our previous comment 52.  We note the statement
+that
+"our principal objective is to pursue possible partnership and
+joint
+venture opportunities or prospects....these opportunities will
+involve the exploration of the North Beck Claims and, hopefully,
+with
+another better-funded mining company or companies" and the
+statement
+"current circumstances make it difficult to predict what
+partnership,
+acquisition or joint venture opportunity might be worth
+considering
+or pursuing."  Please describe whether the company intends to
+enter
+an arrangement with a partner or joint venturer that would provide
+the funding and expertise to implement the mineral exploration on
+the
+North Beck claims.
+32. We note the statement that a prospective joint venture partner
+may require the issuance of substantial additional shares and thus
+result in a change in control.  Please explain how you plan to
+follow
+your plan of operations if you enter into a joint venture that
+results in a change in control.  Lastly, please explain the
+statement
+that you have no "present" intention of engaging in a joint
+venture
+with a non-mining business unless that business wants to finance
+mineral exploration for your property.  May your intentions change
+in
+the future? We may have further comment.
+Item 2.  Management`s Discussion and Analysis or Plan of
+Operation,
+page 28
+Liquidity and Capital Requirements, page 28
+33. We note the statement that the advances from Mr. Coombs do not
+require interest unless he demands the payment of interest.
+Please
+revise disclosure throughout the registration statement indicating
+that these advances do not bear interest to clearly indicate that
+interest payments may be required in the future at the request of
+Mr.
+Coombs.  Discuss the impact this could have on your company and
+your
+liquidity.
+34. Please explain the statement "[o]ur sole officer and
+director`s
+advancing commitment includes doing whatever is necessary to
+ensure
+that Valley High does not become in breach of its lease agreement
+with North Beck."  Please describe such provisions and funding
+commitments he will provide.
+Plan of Operation, page 30
+35. Remove the reference to the registration statement being
+"cleared."
+36. We reissue our previous comments 60 and 61.  Disclose in
+greater
+detail your plan of operations, setting forth detailed milestones.
+Your discussion of your plan of operations should focus on the
+phased
+nature of the exploration process.  Discuss when you plan to
+commence
+each phase and when you expect to complete each phase.  State the
+estimated expenses associated with each phase.  Also, discuss your
+plan of operations if your funding is limited or if you are unable
+to
+raise any funding.  Disclose that you will make a decision whether
+to
+proceed with each successive phase of the exploration program upon
+completion of the previous phase and upon analysis of the result
+of
+that program.
+37. We note your response to our previous comment 63 and we
+reissue
+the comment.  We note that the company does not intend to engage
+in
+any public or private offering of its stock.  It appears that the
+company`s business plan is based upon the company finding a
+partner
+or joint venturer to implement its business plan.  In light of the
+importance of this step in the business plan, please describe in
+detail how the company will actively seek out and investigate
+potential partnerships and joint venturers.  Please describe the
+specific steps that management will undertake to implement this
+part
+of the business plan.  See Item 303(a) of Regulation S-B and Rule
+419
+of Regulation C.
+38. We reissue our previous comment 64.  Please describe the
+milestones and day to day operations that will be carried out by
+management.
+39. We note the statement on page 31 that "[f]or the first work
+sequence event identified, namely, to locate and collect all
+existing
+data previously compiled... We believe that this process should
+take
+no more than three months to achieve."  Please update this section
+to
+disclose whether the sequence has been completed.  See also the
+third
+and fourth sequences.
+40. Discuss in greater detail the activities to be undertaken in
+the
+fourth work sequence, collecting and analyzing additional surface
+rock samples.  Describe in detail other exploration activities to
+be
+conducted on the mineral claim.
+41. We reissue our previous comment 67.  We note the statement
+that
+"[m]anagement does not believe that past owners and operators
+would
+have done such extensive exploratory activity on the subject
+claims
+in the past...had they not had valid and justifiable reasons for
+doing so."  Please provide reasonable support for the promotional
+statement, such as results from exploration, or remove.  Provide
+similar basis for management`s belief that the claims have value
+for
+exploration purposes or remove.
+Item 3.  Description of Property, page 35
+42. We reissue our previous comment 71.  Please describe in
+detail,
+the principal terms of the mining lease agreement between the
+company
+and North Beck Joint Venture, including the consideration paid by
+the
+company for the lease.
+Item 5.  Directors and Executive Officers, Promoters and Control
+Persons, page 39
+43. Please describe John Michael Coombs` involvement with North
+Beck
+Joint Venture and/or Anticline Uranium.  See Item 401(a)(4) of
+Regulation S-B.
+44. Please describe whether Vis Viva Corporation was a blank check
+company.
+Item 7.  Certain Relationships and Related Transactions, page 42
+45. We reissue our previous comment 83.  For the transaction
+involving the lease agreement between the company and North Beck
+Joint Venture, please include the nature of the person`s interest
+in
+the transaction and the amount of such interest as required by
+Item
+404(a) of Regulation S-B.
+Financial Statements for the Years Ended December 31, 2004 and
+2003
+Balance Sheet, page F-2
+46. We noted your response to our prior comment 86 where you
+indicated that the missing corporate records, as a result of Mr.
+Needle`s death, did not impact the preparation of your financial
+statements.  Upon review of page 14, we noted $500,000 was raised
+in
+a public offering on February 19, 1980, and that substantially all
+of
+those funds were spent on several natural resource and mining
+ventures between 1980 and 1985.  Your balance sheet however, only
+indicates a retained deficit of $125,318 for the period from the
+inception in 1979 through April 19, 2004, the date of re-entrance
+into the exploration stage.  Tell us how the $500,000 raised in
+1980,
+and subsequently expensed, is included in the retained deficit
+presented on your balance sheet, considering the amount presented
+is
+only $125,318.
+Other
+47. Considering your filing went effective 60 days after the
+filing
+date (March 31, 2005), please file your Form 10-QSB for the
+quarter
+ended June 30, 2005.  This report should have been filed within 45
+days of the quarter end, in accordance with Item 240.13a-13(a) of
+the
+Exchange Act Rules.
+* * * * *
+As appropriate, please amend your filing and respond to
+theses
+comments within 10 business days or tell us when you will provide
+us
+with a response.  You may wish to provide us with marked copies of
+the amendment to expedite our review.  Please furnish a cover
+letter
+with your amendment that keys your responses to our comments and
+provides any requested supplemental information.  Detailed cover
+letters greatly facilitate our review.  Please understand that we
+may
+have additional comments after reviewing your amendment and
+responses
+to our comments.
+In connection with responding to our comments, please
+provide,
+in writing, a statement from the company acknowledging that:
+* the company is responsible for the adequacy and accuracy of the
+disclosure in the filing;
+* staff comments or changes to disclosure in response to staff
+comments do not foreclose the Commission from taking any action
+with
+respect to the filing; and
+* the company may not assert staff comments as a defense in any
+proceeding initiated by the Commission or any person under the
+federal securities laws of the United States.
+You may contact Brian Bhandari at (202) 551-3390 or Hugh
+West
+at (202) 551-3872 if you have questions regarding comments on the
+financial statements and related matters.  Please contact Thomas
+Kluck at (202) 551-3233, or Pamela Howell, who supervised the
+review
+of your filing, at (202) 551-3357 with any other questions.
+Sincerely,
+John Reynolds
+Assistant Director
+cc:  John Michael Coombs
+Fax (801) 467-3256
+??
+??
+??
+??
+John Michael Coombs
+Valley High Mining Company
+October 5, 2005
+Page 1
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

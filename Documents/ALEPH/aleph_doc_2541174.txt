@@ -1,0 +1,363 @@
+
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ LnxyT3KMuq0NnEyIAjDScEqbuvoA8vy8nsO3ueg9Dnc1kVsOZmhUiejNnmzzIAGS
+ 97ehlVvp/nbS1lH+QVXPrA==
+<SEC-DOCUMENT>0001171264-05-000096.txt : 20051019
+<SEC-HEADER>0001171264-05-000096.hdr.sgml : 20051019
+<ACCEPTANCE-DATETIME>20051018214719
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+6-K
+1
+20050927
+0001171264-05-000096
+20051018
+20051019
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: BITUMINOUS COAL & LIGNITE MINING
+BHP BILLITON PLC
+0001171264
+[1220]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+000000000
+X0
+0630
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 001-31714
+FILM NUMBER:
+6-K
+1934 Act
+051144103
+BUSINESS ADDRESS:
+STREET 1:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+8TH FLOOR - NEATHOUSE PLACE
+LONDON
+X0
+SW1V 1BH
+011442078024054
+MAIL ADDRESS:
+STREET 1:
+CITY:
+STATE:
+ZIP:
+8TH FLOOR - NEATHOUSE PLACE
+LONDON
+X0
+SW1V 1BH
+FORMER COMPANY:
+FORMER CONFORMED NAME: BHP BILLITON PLC/ADR
+DATE OF NAME CHANGE:
+20020416
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>typhoonritaplc.htm
+<DESCRIPTION>TYPHOON PRODUCTION PLATFORM DAMAGED BY HURRICANE RITA
+<TEXT>
+<HTML>
+<HEAD>
+<META NAME="Generator" CONTENT="Microsoft FrontPage 4.0">
+<TITLE>Organisational</TITLE>
+<META NAME="Template" CONTENT="C:\DOCUME~1\aamenv\LOCALS~1\Temp\BHPBilliton News
+Release-15.dot">
+</HEAD>
+<BODY LINK="#0000ff">
+<FONT FACE="Arial"><FONT FACE="Arial" SIZE=3>
+<font SIZE="2">
+<hr NOSHADE>
+&nbsp;
+<p align="center"><font size="+1">UNITED STATES<br>
+SECURITIES AND EXCHANGE COMMISSION<br>
+Washington, D.C. 20549</p>
+<p><center><font SIZE="+2" FACE="Arial"><b>Form 6-K</b></font><br>
+</center></p>
+<p><center>REPORT OF FOREIGN PRIVATE ISSUER<br>
+PURSUANT TO RULE 13a-16 OR 15d-16<br>
+UNDER THE SECURITIES EXCHANGE ACT OF 1934</center></p>
+</font></font>
+<p><center><font size="+1">September </font></FONT><font size="+1" 
+face="Arial">27</font></FONT><FONT FACE="Arial" SIZE=3><FONT FACE="Arial"><font 
+SIZE="2"><font size="+1">, 2005</center></p>
+<table CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <tr>
+    <td VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5"><b><font 
+SIZE="+2">BHP
+      Billiton</font></b> </font><b><font size="+2">Plc</font></b><font 
+size="+1"><br>
+    </font></td>
+</tr>
+<tr>
+  <td VALIGN="CENTER" ALIGN="CENTER" WIDTH="100%" COLSPAN="5"><font SIZE="-
+1">(Translation
+    of registrant</font></font><font size="-1">'s
+  name into English)</font></td>
+</tr>
+<tr>
+  <td VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">&nbsp;</td>
+</tr>
+<tr>
+  <td VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5"><font 
+face="Courier" size="+0">Neathouse
+    Place London SW1V 1BH United Kingdom</font></td>
+</tr>
+<tr>
+  <td VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5"><br>
+    <font SIZE="-1">(Address of principal executive office)</font></td>
+</tr>
+<tr>
+  <td VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">&nbsp;</td>
+</tr>
+</table>
+<!-- End Cover Page Registrant -->
+<!-- Checkboxes Page -->
+<table CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <tr>
+    <td VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%" COLSPAN="5">Indicate by check
+      mark whether the registrant files or will file annual reports under cover
+      of Form 20-F or Form 40-F:&nbsp;&nbsp;[<font 
+FACE="Courier">x</font>]&nbsp;Form
+      20-F&nbsp;&nbsp;&nbsp;[&nbsp; ]&nbsp;Form 40-F</td>
+  </tr>
+  <tr>
+    <td VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">&nbsp;</td>
+</tr>
+  <tr>
+    <td VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">Indicate by check
+      mark if the registrant is submitting the Form 6-K in paper as permitted by
+      Regulation S-T Rule 101(b)(1):&nbsp;&nbsp;[<font 
+FACE="Courier">&nbsp;</font>]</td>
+  </tr>
+  <tr>
+    <td VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">&nbsp;</td>
+  </tr>
+  <tr>
+    <td VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">Indicate by check
+      mark if the registrant is submitting the Form 6-K in paper as permitted by
+      Regulation S-T Rule 101(b)(7):&nbsp;&nbsp;[<font 
+FACE="Courier">&nbsp;</font>]</td>
+  </tr>
+  <tr>
+    <td VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">&nbsp;</td>
+  </tr>
+  <tr>
+    <td VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">Indicate by check
+      mark whether the registrant by furnishing the information contained in
+      this Form is also thereby furnishing the information to the Commission
+      pursuant to Rule 12g3-2(b) under the Securities Exchange Act of 
+1934:&nbsp;&nbsp;[<font 
+FACE="Courier">&nbsp;</font>]&nbsp;Yes&nbsp;&nbsp;&nbsp;&nbsp;[<font 
+FACE="Courier">x</font>]&nbsp;No</td>
+  </tr>
+  <tr>
+    <td VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">&nbsp;</td>
+  </tr>
+</table>
+<table CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <tr>
+    <td VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">If &quot;Yes&quot; is marked,
+      indicate below the file number assigned to the registrant in connection
+      with Rule 12g3-2(b):&nbsp;&nbsp;&nbsp;<font 
+FACE="Courier"><u>&nbsp;n/a&nbsp;</u></font></td>
+  </tr>
+  <tr>
+    <td VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">&nbsp;</td>
+  </tr>
+</table>
+<!-- End Checkboxes Page -->
+<!-- HR Page Break  -->
+<HR NOSHADE>
+</FONT>
+<P ALIGN="left">27 September 2005<br>
+Number 36/05
+</P>
+<P ALIGN="left">&nbsp;
+</P>
+</FONT>
+<P ALIGN="center"><B><FONT FACE="Arial"><font size="4">Typhoon Production 
+Platform Damaged
+By Hurricane Rita</font></FONT></B>
+</P>
+<P ALIGN="left">&nbsp;
+</P>
+<P ALIGN="left"><FONT FACE="Arial" SIZE=3>An initial assessment of BHP Billiton 
+assets in the Gulf of Mexico following Hurricane Rita has revealed that the 
+Typhoon tension leg platform (located in 2,000 feet of water in Green Canyon 
+area Blocks 236/237, approximately 165 miles south-southwest of New Orleans) was
+severed from its mooring and suffered severe damage during the storm.  The 
+facility has been located and is being secured.
+</P>
+<P>Chevron, the operator of the Typhoon field, has mobilised appropriate 
+resources to address any environmental concerns.  No employees are at risk as 
+all were evacuated prior to the storm, and production was shut-in.   BHP 
+Billiton holds a 50-percent interest in the Typhoon field with Chevron holding 
+the remaining 50 percent.  The facility commenced production in 2001.  It has a 
+nameplate capacity for the daily production of 40,000 barrels of oil and 60-
+million cubic feet of natural gas.  For the year ended June 2005, 4.3 million 
+barrels of oil and 7.1 billion cubic feet of natural gas were produced through 
+the Typhoon facility (BHP Billiton share).</P>
+</FONT><FONT FACE="Arial" SIZE=2>
+</FONT><FONT FACE="Arial" SIZE=3><P>Further information on BHP Billiton can be 
+found on our Internet site:
+http://www.bhpbilliton.com </FONT></P>
+<FONT FACE="Arial" SIZE=3></FONT>
+<TABLE CELLSPACING=0 BORDER=0 CELLPADDING=9 WIDTH=738>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<B><FONT FACE="Arial" SIZE=1><P ALIGN="JUSTIFY">Australia</FONT></B><FONT 
+FACE="Arial" SIZE=1><br>
+Jane Belcher, Investor Relations<br>
+Tel: +61 3 9609 3952  Mobile: +61 417 031 653<br>
+email: Jane.H.Belcher@bhpbilliton.com </FONT></P>
+<FONT FACE="Arial" SIZE=1></FONT></TD>
+<TD WIDTH="49%" VALIGN="TOP">
+<B><FONT FACE="Helvetica" SIZE=1><P>United Kingdom</FONT></B><FONT FACE="Arial" 
+SIZE=1><br>
+Mark Lidiard, Investor &amp; Media Relations<br>
+Tel: +44 20 7802 4156 Mobile: +44 7769 934 942<br>
+email: Mark.Lidiard@bhpbilliton.com<BR>
+ </FONT> </P>
+  </TD>
+</TR>
+<TR><TD WIDTH="51%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=1><P>Tania Price, Media Relations<br>
+Tel: +61 3 9609 3815  Mobile: +61 419 152 780<br>
+email: Tania.Price@bhpbilliton.com </FONT></P>
+<FONT FACE="Arial" SIZE=1>
+</FONT><B><FONT FACE="Helvetica" SIZE=1><P>United States</FONT></B><FONT 
+FACE="Arial" SIZE=1><br>
+Tel: +1 713 599 6100 or +44 (0)20 7802 4031<br>
+Mobile: +44 7917 648 093<br>
+email:<B> </B>Tracey.Whitehead@bhpbilliton.com</FONT> </P>
+  </TD>
+<TD WIDTH="49%" VALIGN="TOP">
+<FONT FACE="Arial" SIZE=1><P>Ariane Gentil, Media Relations<br>
+Tel: +44 20 7802 4177 Mobile: +44 78 81 51 8715<br>
+email: Ariane.Gentil@bhpbilliton.com </FONT></P>
+<B><FONT FACE="Arial" SIZE=1>
+<P>South Africa</B></FONT><FONT FACE="Arial" SIZE=1><BR>
+Michael Campbell, Investor &amp; Media Relations<br>
+Tel: +27 11 376 3360  Mobile: +27 82 458 2587<br>
+email: Michael.J.Campbell@bhpbilliton.com </FONT></P>
+  </TD>
+</TR>
+</TABLE>
+<I><FONT FACE="Arial" SIZE=1><DIR>
+<DIR>
+<DIR>
+</I></FONT><FONT FACE="Arial" SIZE=1><P>&nbsp; </P>
+</DIR>
+</DIR>
+</DIR>
+<table cellSpacing="0" cellPadding="9" width="890" border="0">
+      <tr>
+      <td vAlign="top" width="422" colSpan="2"><b><font face="Arial" size="1">
+        <p>BHP Billiton Limited ABN 49 004 028 077<br>
+        </font></b><font face="Arial" size="1">Registered in Australia<br>
+        Registered Office: Level 27, 180 Lonsdale Street Melbourne Victoria 
+3000<br>
+        Telephone +61 1300 554 757 Facsimile +61 3 9609 3015</font></p>
+      </td>
+      <td vAlign="top" width="428"><b><font face="Arial" size="1">
+        <p>BHP Billiton Plc Registration number 3196209<br>
+        </font></b><font face="Arial" size="1">Registered in England and 
+Wales<br>
+        Registered Office: Neathouse Place London SW1V 1BH United Kingdom<br>
+        Telephone +44 20 7802 4000 Facsimile +44 20 7802 4111</font></p>
+      </td>
+    </tr>
+  </table>
+<font face="Arial" size="1"><i><b>
+<p 
+align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
+sp;&nbsp;&nbsp;
+The BHP Billiton Group is headquartered in Australia</p>
+</b></i></font>
+<p align="left">&nbsp;</p>
+<i>
+<hr noShade>
+<div style="PAGE-BREAK-BEFORE: always" align="left">
+  <!-- Page Break  -->
+</i>
+<div style="PAGE-BREAK-BEFORE: always" align="left">
+  <!-- End Page Break -->
+  <!-- Signatures Page Header -->
+  <font size="+1"><center>SIGNATURES</center></font>
+  <table cellSpacing="0" cellPadding="0" width="100%" border="0">
+         <tr>
+        <td vAlign="bottom" align="left" width="100%">&nbsp;</td>
+      </tr>
+      <tr>
+        <td vAlign="bottom" align="left" width="100%">Pursuant to the
+          requirements of the Securities Exchange Act of 1934, the registrant
+          has duly caused this report to be signed on its behalf by the
+          undersigned, thereunto duly authorized.</td>
+      </tr>
+      <tr>
+        <td vAlign="bottom" align="left" width="100%">&nbsp;</td>
+      </tr>
+      </table>
+  <i><!-- End Signatures Page Header -->
+  <!-- Signatures Page Details -->
+  </i>
+  <table cellSpacing="0" cellPadding="0" width="100%" border="0">
+<tr>
+        <td vAlign="bottom" align="left" width="40%">&nbsp;</td>
+        <td vAlign="bottom" align="left" width="4%">&nbsp;</td>
+        <td vAlign="bottom" align="left" width="56%">BHP Billiton Plc</td>
+      </tr>
+      <tr>
+        <td vAlign="bottom" align="left" width="40%">&nbsp;</td>
+        <td vAlign="bottom" align="left" width="4%">&nbsp;</td>
+        <td vAlign="bottom" align="left" width="56%">&nbsp;</td>
+      </tr>
+      <tr>
+        <td vAlign="top" align="left" width="40%">Date: 27 September 2005</td>
+        <td vAlign="top" align="left" width="4%">By:</td>
+        <td vAlign="top" align="left" width="56%">
+          <p align="left">Karen Wood<br>
+          <i>
+          <hr align="left" width="30%" noShade>
+          </i></td>
+      </tr>
+      <tr>
+        <td vAlign="bottom" align="left" width="40%">&nbsp;</td>
+        <td vAlign="bottom" align="left" width="4%">Name:&nbsp;</td>
+        <td vAlign="bottom" align="left" width="56%">Karen Wood</td>
+      </tr>
+      </table>
+</div>
+</div>
+<P>&nbsp; </P>
+</FONT>
+<p>&nbsp;</p>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

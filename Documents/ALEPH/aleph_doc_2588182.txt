@@ -1,0 +1,462 @@
+
+<SEC-DOCUMENT>0001515971-15-000274.txt : 20150814
+<SEC-HEADER>0001515971-15-000274.hdr.sgml : 20150814
+<ACCEPTANCE-DATETIME>20150814060602
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+EFFECTIVENESS DATE:
+NT 10-Q
+1
+20150630
+0001515971-15-000274
+20150814
+20150814
+20150814
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: GOLD & SILVER ORES [1040]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+PACIFIC GOLD CORP
+0001137855
+980408708
+1231
+NV
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 000-32629
+FILM NUMBER:
+NT 10-Q
+1934 Act
+151052391
+BUSINESS ADDRESS:
+STREET 1:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+848 N. RAINBOW BLVD. #2987
+LAS VEGAS
+NV
+89107
+888-257-4193
+MAIL ADDRESS:
+STREET 1:
+CITY:
+STATE:
+ZIP:
+848 N. RAINBOW BLVD. #2987
+LAS VEGAS
+NV
+89107
+FORMER COMPANY:
+FORMER CONFORMED NAME: BLUE FISH ENTERTAINMENT INC
+DATE OF NAME CHANGE:
+20030328
+FORMER COMPANY:
+FORMER CONFORMED NAME: DEMAND FINANCIAL INTERNATIONAL LTD
+DATE OF NAME CHANGE:
+20010823
+FORMER COMPANY:
+FORMER CONFORMED NAME: DEMAND FINANCIAL INC
+DATE OF NAME CHANGE:
+20010406
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>NT 10-Q
+<SEQUENCE>1
+<FILENAME>pcfgnt10q063015.htm
+<DESCRIPTION>NT 10-Q
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>PACIFIC GOLD CORP.</TITLE>
+<META NAME="author" CONTENT="Tonya">
+<META NAME="date" CONTENT="03/30/2015">
+</HEAD>
+<BODY style="margin-top:0;font-family:'Times New Roman'; font-size:10pt; 
+color:#000000">
+<A NAME="filing_1"></A><A NAME="doc_1_1"></A><DIV style="width:792px"><P 
+style="margin:0px"><BR>
+<BR>
+<BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+width=100%><TR height=0 style="font-size:0"><TD /><TD width=179.267 /></TR>
+<TR><TD style="margin-top:0px; border-right:1px solid #000000" valign=top><P 
+style="margin:0px; padding-right:-175.2px" align=center><B>UNITED STATES</B></P>
+</TD><TD style="margin-top:0px; border-top:1px solid #000000; border-right:1px 
+solid #000000; border-bottom:1px solid #000000" valign=top width=179.267><P 
+style="margin:0px; font-size:8pt" align=center>OMB APPROVAL</P>
+</TD></TR>
+<TR><TD style="margin-top:0px; border-right:1px solid #000000" valign=top><P 
+style="margin:0px; padding-right:-175.2px" align=center><B>SECURITIES AND 
+EXCHANGE COMMISSION</B></P>
+</TD><TD style="margin-top:0px; border-right:1px solid #000000; border-
+bottom:1px solid #000000" valign=top width=179.267><P style="margin:0px; font-
+size:8pt">OMB Number: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
+bsp;3235-0058</P>
+</TD></TR>
+<TR><TD style="margin-top:0px; border-right:1px solid #000000" valign=top><P 
+style="margin:0px; padding-right:-175.2px" align=center><B>Washington, D.C. 
+20549</B></P>
+</TD><TD style="margin-top:0px; border-right:1px solid #000000; border-
+bottom:1px solid #000000" valign=top width=179.267><P style="margin:0px; font-
+size:8pt">Expires: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
+bsp;&nbsp;&nbsp;August 31, 2015</P>
+</TD></TR>
+<TR><TD style="margin-top:0px; border-right:1px solid #000000" valign=top><P 
+style="margin:0px" align=center><BR></P>
+</TD><TD style="margin-top:0px; border-right:1px solid #000000; border-
+bottom:1px solid #000000" valign=top width=179.267><P style="margin:0px; font-
+size:8pt">Estimated average burden</P>
+<P style="margin:0px; font-size:8pt">hours per response&#133; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
+bsp;&nbsp;2.50</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=top width=179.267><P style="margin:0px; padding:0px; font-
+size:8pt">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px; border-right:1px solid #000000" valign=top><P 
+style="margin:0px; padding-right:-175.2px; font-size:11pt" align=center><B>FORM 
+12b-25 </B></P>
+</TD><TD style="margin-top:0px; border-right:1px solid #000000; border-
+bottom:1px solid #000000" valign=top width=179.267><P style="margin:0px; font-
+size:8pt" align=center><B>SEC FILE NUMBER</B></P>
+<P style="margin:0px; font-size:8pt" align=center><B>000-50603</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top><P style="margin:0px; padding-right:-
+175.2px" align=center><B>NOTIFICATION OF LATE FILING</B></P>
+</TD><TD style="margin-top:0px" valign=top width=179.267><P style="margin:0px; 
+padding:0px; font-size:8pt">&nbsp;</P></TD></TR>
+</TABLE>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><I>(Check One): 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</I><FONT style="font-
+family:'Wingdings'">o</FONT>Form 10-K &nbsp;&nbsp;&nbsp;&nbsp;<A 
+NAME="OLE_LINK3"></A><A NAME="OLE_LINK4"></A><FONT style="font-
+family:'Wingdings'">o</FONT>Form 20-F &nbsp;&nbsp;&nbsp;&nbsp;<FONT style="font-
+family:'Wingdings'">o</FONT>Form 11-K &nbsp;&nbsp;&nbsp;&nbsp;<FONT style="font-
+family:'Wingdings'">&#253;</FONT>Form 10-Q &nbsp;&nbsp;&nbsp;&nbsp;<FONT 
+style="font-family:'Wingdings'">o</FONT>Form 10-D &nbsp;&nbsp;&nbsp;&nbsp;<FONT 
+style="font-family:'Wingdings'">o</FONT>Form N-SAR &nbsp;&nbsp;&nbsp;&nbsp;<FONT
+style="font-family:'Wingdings'">o</FONT>Form N-CSR</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; text-indent:96px">For Period Ended: &nbsp;<B>June 30, 
+2015</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin-top:0px; margin-bottom:-2px; text-indent:96px; width:120px; 
+font-family:'Wingdings'; float:left">&#168;</P>
+<P style="margin:0px; text-indent:-2px">Transition Report on Form 10-K</P>
+<P style="margin-top:0px; margin-bottom:-2px; text-indent:96px; width:120px; 
+font-family:'Wingdings'; clear:left; float:left">&#168;</P>
+<P style="margin:0px; text-indent:-2px">Transition Report on Form 20-F</P>
+<P style="margin-top:0px; margin-bottom:-2px; text-indent:96px; width:120px; 
+font-family:'Wingdings'; clear:left; float:left">&#168;</P>
+<P style="margin:0px; text-indent:-2px">Transition Report on Form 11-K</P>
+<P style="margin-top:0px; margin-bottom:-2px; text-indent:96px; width:120px; 
+font-family:'Wingdings'; clear:left; float:left">&#168;</P>
+<P style="margin:0px; text-indent:-2px">Transition Report on Form 10-Q</P>
+<P style="margin-top:0px; margin-bottom:-2px; text-indent:96px; width:120px; 
+font-family:'Wingdings'; clear:left; float:left">&#168;</P>
+<P style="margin:0px; text-indent:-2px">Transition Report on Form N-SAR</P>
+<P style="margin:0px; text-indent:96px; clear:left">For the Transition Period 
+Ended:___________________________________________________________________</P>
+<P style="margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+width=100%><TR height=0 style="font-size:0"><TD /></TR>
+<TR><TD style="margin-top:0px; border:3px double #000000" valign=top><P 
+style="margin:0px" align=center><B>Nothing in this form shall be construed to 
+imply that the Commission has verified any information contained herein.</B></P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px">If the notification relates to a portion of the filing 
+checked above, identify the Item(s) to which the notification relates:</P>
+<P style="margin:0px; padding-bottom:4px; border-bottom:2px solid 
+#000000"><BR></P>
+<P style="margin:0px"><B>PART I &#150; REGISTRANT INFORMATION</B></P>
+<P style="margin:0px"><BR></P>
+<P style="line-height:12pt; margin:0px; padding-bottom:4px; border-bottom:1px 
+solid #000000"><B>PACIFIC GOLD CORP.</B></P>
+<P style="margin:0px">Full Name of Registrant</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; padding-bottom:4px; border-bottom:1px solid 
+#000000"><B>N/A</B></P>
+<P style="margin:0px">Former Name if Applicable</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; padding-bottom:4px; border-bottom:1px solid 
+#000000"><B>848 N. Rainbow Blvd. #2987</B></P>
+<P style="margin:0px">Address of Principal Executive Office <I>(Street and 
+Number)</I></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; padding-bottom:4px; border-bottom:1px solid 
+#000000"><B>Las Vegas, Nevada 89107</B></P>
+<P style="margin:0px">City, State and Zip Code</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always"><B>PART II &#151; RULES 12b-
+25(b) AND (c)</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=justify>If the subject report could not be filed 
+without unreasonable effort or expense and the registrant seeks relief pursuant 
+to Rule 12b-25(b), the following should be completed. (Check box if 
+appropriate)</P>
+<P style="margin:0px" align=justify><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+width=100%><TR height=0 style="font-size:0"><TD width=36.067 /><TD width=36 
+/><TD /></TR>
+<TR><TD style="margin-top:0px" valign=top width=36.067><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=36><P 
+style="margin:0px">(a)</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">The reason 
+described in reasonable detail in Part III of this form could not be eliminated 
+without unreasonable effort or expense</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" width=36.067><P style="margin:0px; font-
+size:8pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=36><P 
+style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=36.067><P style="margin:0px; 
+font-family:'Wingdings'" align=center>x</P>
+</TD><TD style="margin-top:0px" valign=top width=36><P 
+style="margin:0px">(b)</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" 
+align=justify>The subject annual report, semi-annual report, transition report 
+on Form 10-K, Form 20-F, Form 11-K, Form N-SAR or Form N-CSR, or portion 
+thereof, will be filed on or before the fifteenth calendar day following the 
+prescribed due date; or the subject quarterly report or transition report on 
+Form 10-Q or subject distribution report on Form 10-D, or portion thereof, will 
+be filed on or before the fifth calendar day following the prescribed due date; 
+and</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" width=36.067><P style="margin:0px; font-
+size:8pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=36><P 
+style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" width=36.067><P style="margin:0px; font-
+size:8pt">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=36><P 
+style="margin:0px">(c)</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px">The 
+accountant's statement or other exhibit required by Rule 12b-25(c) has been 
+attached if applicable.</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px"><B>PART III &#151; NARRATIVE</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=justify>State below in reasonable detail why Forms 
+10-K, 20-F, 11-K, 10-Q, 10-D, N-SAR, N-CSR, or the transition report or portion 
+thereof, could not be filed within the prescribed time period.</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; padding-left:36px; padding-right:36px" align=justify>The 
+compilation, verification and review by management of the information and 
+disclosure required to be presented in the Form 10-Q for the period ended June 
+30, 2015, requires additional time which renders the timely filing of the Form 
+10-Q impracticable without undue hardship and expense to the Registrant.</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><B>(Attach Extra Sheets if Needed)</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><B>PART IV &#151; OTHER INFORMATION</B></P>
+<P style="margin:0px" align=center><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+width=100%><TR height=0 style="font-size:0"><TD width=40.733 /><TD /></TR>
+<TR><TD style="margin-top:0px" valign=top width=40.733><P 
+style="margin:0px">(1)</P>
+</TD><TD style="margin-top:0px"><P style="margin:0px">Name and telephone number 
+of person to contact in regard to this notification</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+align=center><TR height=0 style="font-size:0"><TD width=250.267 /><TD 
+width=21.733 /><TD width=168.667 /><TD width=21.8 /><TD width=250.333 /></TR>
+<TR><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom 
+width=250.267><P style="margin:0px" align=center><B>Robert Landau</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=21.733><P style="margin:0px;
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=168.667><P style="margin:0px" 
+align=center><B>(416)</B></P>
+</TD><TD style="margin-top:0px" valign=bottom width=21.8><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=250.333><P style="margin:0px" align=center><B>214-
+1483</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=250.267><P style="margin:0px;
+font-size:9pt" align=center><I>(Name)</I></P>
+</TD><TD style="margin-top:0px" valign=bottom width=21.733><P style="margin:0px;
+padding:0px; font-size:9pt">&nbsp;</P></TD><TD style="margin-top:0px" 
+valign=bottom width=168.667><P style="margin:0px; font-size:9pt" 
+align=center><I>(Area Code)</I></P>
+</TD><TD style="margin-top:0px" valign=bottom width=21.8><P style="margin:0px; 
+padding:0px; font-size:9pt">&nbsp;</P></TD><TD style="margin-top:0px" 
+valign=bottom width=250.333><P style="margin:0px; font-size:9pt" 
+align=center><I>(Telephone Number)</I></P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+width=100%><TR height=0 style="font-size:0"><TD width=36 /><TD /></TR>
+<TR><TD style="margin-top:0px" valign=top width=36><P style="margin:0px">(2)</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" 
+align=justify>Have all other periodic reports required under Section 13 or 15(d)
+of the Securities Exchange Act of 1934 or Section 30 of the Investment Company 
+Act of 1940 during the preceding 12 months or for such shorter period that the 
+registrant was required to file such report(s) been filed ? If answer is no, 
+identify report(s). &nbsp;&nbsp;<FONT style="font-family:'Wingdings'">o</FONT> 
+&nbsp;Yes &nbsp;&nbsp;&nbsp;<FONT style="font-family:'Wingdings'">x</FONT> 
+&nbsp;No</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=36><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top><P 
+style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=36><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top><P 
+style="margin:0px; text-indent:60px" align=justify>December 31, 2014 10-K and
+March 31, 2015 10-Q</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=36><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top><P 
+style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=36><P style="margin:0px">(3)</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" 
+align=justify>Is it anticipated that any significant change in results of 
+operations from the corresponding period for the last fiscal year will be 
+reflected by the earnings statements to be included in the subject report or 
+portion thereof? &nbsp;&nbsp;<A NAME="OLE_LINK5"></A><A 
+NAME="OLE_LINK6"></A><FONT style="font-family:'Wingdings'">o</FONT> &nbsp;Yes 
+&nbsp;&nbsp;&nbsp;<A NAME="OLE_LINK1"></A><A NAME="OLE_LINK2"></A><FONT 
+style="font-family:'Wingdings'">x</FONT> &nbsp;No</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=36><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top><P 
+style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=36><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top><P 
+style="margin:0px" align=justify>If so, attach an explanation of the anticipated
+change, both narratively and quantitatively, and, if appropriate, state the 
+reasons why a reasonable estimate of the results cannot be made.</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; font-size:14pt; page-break-before:always" 
+align=center><B><U>PACIFIC GOLD CORP.</U></B></P>
+<P style="margin:0px" align=center>(Name of Registrant as Specified in 
+Charter)</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center>has caused this notification to be signed on 
+its behalf by the undersigned hereunto duly authorized.</P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+width=100%><TR height=0 style="font-size:0"><TD /><TD width=39 /><TD 
+width=244.133 /></TR>
+<TR><TD style="margin-top:0px"><P style="margin:0px">Date: August 14, 2015</P>
+</TD><TD style="margin-top:0px" width=39><P style="margin:0px">By:</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" 
+width=244.133><P style="margin:0px">/s/ Robert Landau<I> </I></P>
+</TD></TR>
+<TR><TD style="margin-top:0px"><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" width=39><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" width=244.133><P style="margin:0px">Robert 
+Landau</P>
+</TD></TR>
+<TR><TD style="margin-top:0px"><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" width=39><P style="margin:0px">Title:</P>
+</TD><TD style="margin-top:0px" width=244.133><P style="margin:0px">Chief 
+Executive Officer</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin-top:13.333px; margin-bottom:0px">INSTRUCTION: &nbsp;The form 
+may be signed by an executive officer of the registrant or by any other duly 
+authorized representative. &nbsp;The name and title of the person signing the 
+form shall be typed or printed beneath the signature. &nbsp;If the statement is 
+signed on behalf of the registrant by an authorized representative (other than
+an executive officer), evidence of the representative&#146;s authority to sign 
+on behalf of the registrant shall be filed with the form.</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><B>ATTENTION</B></P>
+<P style="margin:0px" align=center><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+width=100%><TR height=0 style="font-size:0"><TD /></TR>
+<TR><TD style="margin-top:0px; border:3px double #000000" valign=top><P 
+style="margin:0px" align=center><B>Intentional misstatements or omissions of 
+fact constitute Federal Criminal Violations (See 18 U.S.C. 1001).</B></P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><B>General Instructions</B></P>
+<P style="margin-top:13.333px; margin-bottom:0px">1. &nbsp;This form is required
+by Rule 12b-25 (17 CFR 240.12b-25) of the General Rules and Regulations under 
+the Securities Exchange Act of 1934.</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px">2. &nbsp;One signed original and four conformed copies of 
+this form and amendments thereto must be completed and filed with the Securities
+and Exchange Commission, Washington, D.C. 20549, in accordance with Rule 0-3 of 
+the General Rules and Regulations under the Act. &nbsp;The information contained
+in or filed with the form will be made a matter of public record in the 
+Commission files.</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px">3. &nbsp;A manually signed copy of the form and amendments
+thereto shall be filed with each national securities exchange on which any class
+of securities of the registrant is registered.</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px">4. &nbsp;Amendments to the notifications must also be 
+filed on Form 12b-25 but need not restate information that has been correctly 
+furnished. &nbsp;The form shall be clearly identified as an amended 
+notification.</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px">5. &nbsp;<I>Electronic filers.</I> &nbsp;This form shall 
+not be used by electronic filers unable to timely file a report solely due to 
+electronic difficulties. &nbsp;Filers unable to submit &nbsp;a report within the
+time period prescribed due to difficulties in electronic filing should comply 
+with either Rule 201 or Rule 202 of Regulations S-T (&#167;232.201 or 
+&#167;232.202 of this chapter) or apply for an adjustment in filing date 
+pursuant to Rule 13(b) of Regulation S-T (&#167;232.13(b) of this Chapter).</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px">6. &nbsp;<U>Interactive data submissions</U><I>. </I>This 
+form shall not be used by electronic filers with respect to the submission or 
+posting of an Interactive Data File (&#167;232.11 of this chapter). Electronic 
+filers unable to submit or post an Interactive Data File within the time period 
+prescribed should comply with either Rule 201 or 202 of Regulation S-T 
+(&#167;232.201 and &#167;232.202 of this chapter).</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR>
+<BR></P>
+</DIV></BODY>
+<!-- EDGAR Validation Code: 81098C81 -->
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,4079 @@
+
+10-Q 1 cpr0630201510qdoctofile.htm 10-Q CPR 06.30.2015 10Q DOC (to file)
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ ____________________________
+Form 10-Q
+____________________________
+ý
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+For the quarterly period ended June 30, 2015
+OR
+¨
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+73114
+(Zip code)
+73-1590941
+(I.R.S. Employer
+Identification No.)
+For the transition period from              to             
+Commission file number: 333-134748
+____________________________
+Chaparral Energy, Inc.
+(Exact name of registrant as specified in its charter)
+ ____________________________
+Delaware
+(State or other jurisdiction of
+incorporation or organization)
+ 
+701 Cedar Lake Boulevard
+Oklahoma City, Oklahoma
+(Address of principal executive offices) 
+(405) 478-8770
+(Registrant’s telephone number, including area code)
+____________________________
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by
+Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or
+for such shorter period that the registrant was required to file such reports), and (2) has been
+subject to such filing requirements for the past 90 days.    Yes  ¨    No  ý
+(Explanatory Note: The registrant is a voluntary filer and is not subject to the filing requirements
+of the Securities Exchange Act of 1934.)
+Indicate by check mark whether the registrant has submitted electronically and posted on its
+corporate Web site, if any, every Interactive Data File required to be submitted and posted
+pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12
+months (or for such shorter period that the registrant was required to submit and post such
+files).    Yes  ý    No  ¨
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a
+non-accelerated filer or a smaller reporting company. See the definitions of “large accelerated
+filer,” “accelerated filer” and “smaller reporting company” in Rule 12b-2 of the Exchange Act.
+Large Accelerated Filer¨
+Non-Accelerated Filer ý
+Accelerated Filer
+¨
+Smaller Reporting Company¨
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the
+Exchange Act).    Yes  ¨    No  ý
+Number of shares outstanding of each of the issuer’s classes of common stock as of August 12,
+2015:
+Class
+Class A Common Stock, $0.01 par value
+Class B Common Stock, $0.01 par value
+Class C Common Stock, $0.01 par value
+Class E Common Stock, $0.01 par value
+Class F Common Stock, $0.01 par value
+Class G Common Stock, $0.01 par value
+Table of Contents
+Number of
+shares
+ 345,525
+ 344,859
+ 209,882
+ 504,276
+ 1
+ 2
+CHAPARRAL ENERGY, INC.
+Index to Form 10-Q
+ 
+ 
+ 
+Page
+ 
+ 
+Part I. FINANCIAL INFORMATION
+ 
+Item 1. Financial Statements
+Consolidated balance sheets as of June 30, 2015 (unaudited) and December 31, 2014 6
+Consolidated statements of operations for the three and six months ended June 30,
+2015 and 2014 (unaudited)
+Consolidated statements of cash flows for the six months ended June 30, 2015 and
+2014 (unaudited)
+Condensed notes to consolidated financial statements (unaudited)
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of
+Operations
+Overview
+Results of operations
+Liquidity and capital resources
+Non-GAAP financial measure and reconciliation
+Critical accounting policies
+Recent accounting pronouncements
+Item 3. Quantitative and Qualitative Disclosures about Market Risk
+Item 4. Controls and Procedures
+Part II. OTHER INFORMATION
+Item 1. Legal Proceedings
+Item 1A. Risk Factors
+Item 5. Other Information
+Item 6. Exhibits
+Signatures
+EX-31.1 Rule 13a-14(a)/15d-14(a) Certification by CEO
+26
+28
+36
+40
+41
+41
+42
+45
+ 
+45
+45
+47
+47
+48
+10
+8
+9
+26
+EX-31.2 Rule 13a-14(a)/15d-14(a) Certification by CFO
+EX-32.1 Section 1350 Certification by CEO
+EX-32.2 Section 1350 Certification by CFO
+2
+Table of Contents
+CAUTIONARY STATEMENT
+REGARDING FORWARD-LOOKING STATEMENTS
+This report includes statements that constitute forward-looking statements within the meaning of
+the federal securities laws. These statements are subject to risks and uncertainties. These
+statements may relate to, but are not limited to, information or assumptions about us, our capital
+and other expenditures, dividends, financing plans, capital structure, cash flow, pending legal
+and regulatory proceedings and claims, including environmental matters, future economic
+performance, operating income, cost savings, and management’s plans, strategies, goals and
+objectives for future operations and growth. These forward-looking statements generally are
+accompanied by words such as “intend,” “anticipate,” “believe,” “estimate,” “expect,” “should,”
+“seek,” “project,” “plan” or similar expressions. Any statement that is not a historical fact is a
+forward-looking statement. It should be understood that these forward-looking statements are
+necessarily estimates reflecting the best judgment of senior management, not guarantees of
+future performance. They are subject to a number of assumptions, risks and uncertainties that
+could cause actual results to differ materially from those expressed or implied in the forward-
+looking statements. Forward-looking statements in this report may include, for example,
+statements about:
+•fluctuations in demand or the prices received for oil and natural gas;
+•the amount, nature and timing of capital expenditures;
+•drilling, completion and performance of wells;
+•competition and government regulations;
+•timing and amount of future production of oil and natural gas;
+costs of exploiting and developing properties and conducting other operations, in the aggregate
+and on a per-unit equivalent basis;
+•changes in proved reserves;
+•operating costs and other expenses;
+•cash flow and anticipated liquidity;
+•estimates of proved reserves;
+•exploitation of property acquisitions; and
+•marketing of oil and natural gas.
+•
+3
+Table of Contents
+These forward-looking statements represent intentions, plans, expectations, assumptions and
+beliefs about future events and are subject to risks, uncertainties and other factors. Many of those
+factors are outside of our control and could cause actual results to differ materially from the
+results expressed or implied by those forward-looking statements. These risks and uncertainties
+include those factors described in Item 1A of this report and under the heading “Risk Factors” in
+our Annual Report on Form 10-K for the year ended December 31, 2014. Specifically, some
+factors that could cause actual results to differ include:
+•volatility and declines in oil and natural gas prices;
+•worldwide supply of and demand for oil and natural gas;
+•the significant amount of our debt;
+•drilling plans (including scheduled and budgeted wells);
+•the number, timing or results of any wells;
+•changes in wells operated and in reserve estimates;
+•supply of CO2;
+•future growth and expansion;
+•future exploration;
+•integration of existing and new technologies into operations;
+•future capital expenditures (or funding thereof) and working capital;
+•borrowings and capital resources and liquidity;
+•changes in strategy and business discipline;
+•future tax matters;
+•any loss of key personnel;
+•future seismic data (including timing and results);
+•the plans for timing, interpretation and results of new or existing seismic surveys or seismic data;
+•geopolitical events affecting oil and natural gas prices;
+•outcome, effects or timing of legal proceedings;
+•the effect of litigation and contingencies;
+•the ability to generate additional prospects; and
+the ability to successfully complete merger, acquisition or divestiture plans, regulatory or other
+limitations imposed as a result of a merger, acquisition or divestiture, and the success of the
+business following a merger, acquisition or divestiture.
+Should one or more of these risks or uncertainties materialize, or should any of our assumptions
+prove incorrect, actual results may vary in material respects from those projected in the forward-
+looking statements contained herein. We undertake no obligation to update or revise any
+forward-looking statements, whether as a result of new information, future events or otherwise,
+except as may be required under applicable securities laws. All forward-looking statements
+included herein are expressly qualified in their entirety by the cautionary statements contained or
+referred to in this section.
+•
+4
+Table of Contents
+GLOSSARY OF OIL AND NATURAL GAS TERMS
+The terms defined in this section are used throughout this Form 10-Q:
+•
+Basin. A low region or natural depression in the earth’s crust where sedimentary deposits
+accumulate.
+•
+•
+•
+•
+•
+•Bbl. One stock tank barrel of 42 U.S. gallons liquid volume used herein in reference to crude oil,
+condensate, or natural gas liquids.
+•BBtu. One billion British thermal units.
+Boe. Barrels of oil equivalent using the ratio of six thousand cubic feet of natural gas to one
+barrel of oil.
+•Boe/d. Barrels of oil equivalent per day.
+Btu. British thermal unit, which is the heat required to raise the temperature of a one-pound mass
+of water from 58.5 to 59.5 degrees Fahrenheit.
+Completion. The process of treating a drilled well followed by the installation of permanent
+equipment for the production of oil or natural gas, or in the case of a dry well, the reporting to the
+appropriate authority that the well has been abandoned.
+•CO2. Carbon dioxide.
+Enhanced oil recovery (EOR). The use of any improved recovery method, including injection of
+CO2 or polymer, to remove additional oil after secondary recovery.
+Field. An area consisting of a single reservoir or multiple reservoirs all grouped on, or related to,
+the same individual geological structural feature or stratigraphic condition. The field name refers
+to the surface area, although it may refer to both the surface and the underground productive
+formations.
+•MBbls. One thousand barrels of crude oil, condensate, or natural gas liquids.
+•MBoe. One thousand barrels of crude oil equivalent.
+•Mcf. One thousand cubic feet of natural gas.
+•MMBtu. One million British thermal units.
+•MMcf. One million cubic feet of natural gas.
+Natural gas liquids (NGLs). Those hydrocarbons in natural gas that are separated from the gas
+as liquids through the process of absorption, condensation, adsorption or other methods in gas
+processing or cycling plants. Natural gas liquids primarily include propane, butane, isobutane,
+pentane, hexane and natural gasoline.
+•NYMEX. The New York Mercantile Exchange.
+Play. A term describing an area of land following the identification by geologists and
+geophysicists of reservoirs with potential oil and natural gas reserves.
+Proved reserves. The quantities of oil and natural gas which, by analysis of geoscience and
+engineering data, can be estimated with reasonable certainty to be economically producible—
+from a given date forward, from known reservoirs, and under existing economic conditions,
+operating methods, and government regulations—prior to the time at which contracts providing
+the right to operate expire, unless evidence indicates that renewal is reasonably certain.
+Proved undeveloped reserves. Reserves that are expected to be recovered from new wells on
+undrilled acreage or from existing wells where a relatively major expenditure is required for
+recompletion.
+PV-10 value. When used with respect to oil and natural gas reserves, PV-10 value means the
+estimated future gross revenue to be generated from the production of proved reserves, net of
+estimated production and future development costs, excluding escalations of prices and costs
+based upon future conditions, before income taxes, and without giving effect to non-property-
+related expenses, discounted to a present value using an annual discount rate of 10%.
+•SEC. The Securities and Exchange Commission.
+Secondary recovery. The recovery of oil and natural gas through the injection of liquids or gases
+into the reservoir, supplementing its natural energy. Secondary recovery methods are often
+applied when production slows due to depletion of the natural pressure.
+•STACK. An acronym standing for Sooner Trend Anadarko Canadian Kingfisher. A play in the
+•
+•
+•
+•
+•
+•
+Anadarko Basin of Oklahoma in which we operate.
+Undeveloped acreage. Lease acreage on which wells have not been drilled or completed to a
+point that would permit the production of economic quantities of oil or natural gas regardless of
+whether such acreage contains proved reserves.
+•
+5
+Table of Contents
+PART I — FINANCIAL INFORMATION
+ITEM 1.FINANCIAL STATEMENTS
+Chaparral Energy, Inc. and subsidiaries
+Consolidated balance sheets
+June 30, 
+2015
+(unaudited)  
+   
+   
+  $27,557
+  73,415
+  17,945
+  2,405
+  109,067
+  230,389
+  56,502
+   
+  3,953,046   3,735,817
+  175,659
+(dollars in thousands, except share data)
+Assets
+Current assets:
+Cash and cash equivalents
+Accounts receivable, net
+Inventories, net
+Prepaid expenses
+Derivative instruments
+Total current assets
+Property and equipment—at cost, net
+Oil and natural gas properties, using the full cost method:
+Proved
+Unevaluated (excluded from the amortization base)
+Accumulated depreciation, depletion, amortization and impairment   (2,034,585 )  (1,701,851
+Total oil and natural gas properties
+  2,094,120   2,322,391
+  43,751
+Derivative instruments
+  30,280
+Other assets
+ 
+  $2,455,042   $2,831,816
+ 
+   
+The accompanying notes are an integral part of these consolidated financial statements.
+$31,492
+  98,444
+  25,557
+  4,484
+  179,921
+  339,898
+  66,561
+71,710
+  31,256
+December 31,
+2014
+288,425
+)
+6
+Table of Contents
+Chaparral Energy, Inc. and subsidiaries
+Consolidated balance sheets—continued
+June 30,
+December 31,
+2015
+2014
+(dollars in thousands, except share data)
+Liabilities and stockholders’ equity
+Current liabilities:
+Accounts payable and accrued liabilities
+Accrued payroll and benefits payable
+Accrued interest payable
+Revenue distribution payable
+Current maturities of long-term debt and capital leases
+Derivative instruments
+Deferred income taxes
+Total current liabilities
+Long-term debt and capital leases, less current maturities
+Stock-based compensation
+Asset retirement obligations
+Deferred income taxes
+Commitments and contingencies (Note 8)
+Stockholders’ equity:
+Preferred stock, 600,000 shares authorized, none issued and
+outstanding
+Class A Common stock, $0.01 par value, 10,000,000 shares
+authorized and 348,477 and 364,896 shares issued and
+outstanding as of June 30, 2015 and December 31, 2014,
+respectively
+Class B Common stock, $0.01 par value, 10,000,000 shares
+authorized and 344,859 shares issued and outstanding
+Class C Common stock, $0.01 par value, 10,000,000 shares
+authorized and 209,882 shares issued and outstanding
+Class E Common stock, $0.01 par value, 10,000,000 shares
+authorized and 504,276 shares issued and outstanding
+Class F Common stock, $0.01 par value, 1 share authorized,
+issued, and outstanding
+Class G Common stock, $0.01 par value, 3 shares authorized and
+2 shares issued and outstanding
+Additional paid in capital
+Retained earnings
+$ 191,957
+  21,654
+  24,106
+  24,467
+  5,377
+  77
+  60,728
+  328,366
+(unaudited)  
+   
+   
+  $54,199
+  10,501
+  23,892
+  14,738
+  4,867
+  87
+  40,167
+  148,451
+  1,706,009   1,628,425
+  2,291
+  46,491
+  24,705
+3,131
+  43,277
+  116,759
+—
+—
+4
+3
+2
+5
+—
+—
+4
+3
+2
+5
+—
+—
+429,703
+  97,378
+  527,095
+  $2,455,042   $ 2,831,816
+429,678
+  282,166
+  711,858
+The accompanying notes are an integral part of these consolidated financial statements.
+7
+Table of Contents
+Chaparral Energy, Inc. and subsidiaries
+Six months ended
+  June 30,
+  2015
+$187,289
+  187,289
+   
+  59,040
+  4,344
+  8,328
+2014
+   
+   
+  $366,315
+  366,315
+   
+  68,735
+  2,850
+  14,802
+Three months ended
+  June 30,
+  2015
+   
+   
+  $94,210
+  94,210
+   
+  27,408
+  1,972
+  3,844
+2014
+  (unaudited)
+   
+  $192,976
+  192,976
+   
+  35,080
+  1,484
+  8,159
+Consolidated statements of operations
+ 
+ 
+ 
+(in thousands)
+ 
+Revenues:
+Commodity sales
+Total revenues
+Costs and expenses:
+Lease operating
+Transportation and processing
+Production taxes
+Depreciation, depletion and
+amortization
+Loss on impairment of oil and gas
+assets
+Loss on impairment of other assets
+General and administrative
+Cost reduction initiatives
+Total costs and expenses
+Operating (loss) income
+Non-operating income (expense):
+Interest expense
+Non-hedge derivative gains (losses)
+Other income, net
+Net non-operating expense
+Loss before income taxes
+Income tax benefit
+Net loss
+The accompanying notes are an integral part of these consolidated financial statements.
+—
+  13,311
+  14,992
+  9,260
+  —
+  362
+  123,069
+  330,175
+)  69,907
+  (235,965
+   
+   
+)  (26,203
+  (27,892
+)  (57,996
+  (41,580
+  805
+  1,306
+)  (83,394
+  (68,166
+)  (13,487
+  (304,131
+  (115,095
+)  (5,054
+  $(189,036 )  $(8,433
+—
+  28,379
+  —
+  233,870
+) 132,445
+   
+   
+)  (52,662
+)  (54,604
+  (87,195
+)  19,851
+  965
+  1,980
+)  (138,892
+)  (32,773
+)  (6,447
+)  (297,326
+)  (112,538
+)  (2,419
+)  $(184,788 )  $(4,028
+13,311
+  18,454
+  9,136
+  451,842
+(264,553
+217,562
+—
+56,456
+63,354
+121,667
+119,104
+217,562
+—
+)
+)
+)
+)
+)
+)
+8
+Table of Contents
+Chaparral Energy, Inc. and subsidiaries
+Consolidated statements of cash flows
+ 
+ 
+(in thousands)
+ 
+Cash flows from operating activities
+Net loss
+Adjustments to reconcile net income to net cash provided by operating
+activities
+Depreciation, depletion & amortization
+Six months ended
+  June 30,
+  2015
+  (unaudited)
+   
+  $(184,788)  $(4,028 )
+2014
+121,667
+119,104
+)
+)
+—
+230,873
+  (112,615 )  (2,705
+  (19,851
+)  87,195
+)  (811
+  (1,371
+  1,670
+  2,550
+   
+   
+  20,379
+  (13,319 )
+)  (4,908
+  (4,531
+)
+  1,463
+  1,991
+  (24,090
+)  (14,560 )
+)  11,233
+  (9,729
+)  2,183
+  (3,510
+  16,975
+  182,517
+Loss on impairment of assets
+Deferred income taxes
+Non-hedge derivative (gains) losses
+Gain on sale of assets
+Other
+Change in assets and liabilities
+Accounts receivable
+Inventories
+Prepaid expenses and other assets
+Accounts payable and accrued liabilities
+Revenue distribution payable
+Stock-based compensation
+Net cash provided by operating activities
+Cash flows from investing activities
+Expenditures for property, plant, and equipment and oil and natural gas
+properties
+Proceeds from asset dispositions
+Settlement of non-hedge derivative instruments
+Net cash used in investing activities
+Cash flows from financing activities
+Proceeds from long-term debt
+Repayment of long-term debt
+Principal payments under capital lease obligations
+Payment of other financing fees
+Net cash provided by (used in) financing activities
+Net decrease in cash and cash equivalents
+Cash and cash equivalents at beginning of period
+Cash and cash equivalents at end of period
+The accompanying notes are an integral part of these consolidated financial statements.
+7,382
+  118,675
+  (96,666
+   
+  120,000
+  (41,651
+  (1,189
+  (1,404
+  75,756
+  (3,935
+  31,492
+  $27,557
+(222,723 )  (322,310 )
+173,175
+  (21,982 )
+)  (171,117 )
+   
+  111,282
+)  (134,681 )
+)  (1,146
+)
+)  —
+  (24,545 )
+)  (13,145 )
+  48,595
+  $35,450
+9
+Table of Contents
+Chaparral Energy, Inc. and subsidiaries
+Condensed notes to consolidated financial statements (unaudited)
+(dollars in thousands, unless otherwise noted)
+Note 1: Nature of operations and summary of significant accounting policies
+Nature of operations
+Chaparral Energy, Inc. and its subsidiaries, (collectively, “we”, “our”, “us”, or the “Company”) are
+involved in the acquisition, exploration, development, production and operation of oil and natural
+gas properties. Our properties are located primarily in Oklahoma and Texas.
+Interim financial statements
+The accompanying unaudited consolidated interim financial statements of the Company have
+been prepared in accordance with the rules and regulations of the SEC and do not include all of
+the financial information and disclosures required by accounting principles generally accepted in
+the United States of America (“GAAP”) for complete financial statements. These financial
+statements and the notes thereto should be read in conjunction with our Annual Report on Form
+10-K for the year ended December 31, 2014.
+The financial information as of June 30, 2015, and for the three and six months ended June 30,
+2015 and 2014, respectively, is unaudited. The financial information as of December 31, 2014
+has been derived from the audited financial statements contained in our Annual Report on Form
+10-K for the year ended December 31, 2014. In management’s opinion, such information
+contains all adjustments, consisting only of normal recurring accruals, considered necessary for
+a fair presentation of the results of the interim periods. The results of operations for the three and
+six months ended June 30, 2015 are not necessarily indicative of the results of operations that
+will be realized for the year ended December 31, 2015.
+Certain reclassifications have been made to prior period financial statements to conform to
+current period presentation. The reclassifications had no effect on our previously reported results
+of operations.
+Cash and cash equivalents
+We consider all highly liquid investments with an original maturity of three months or less to be
+cash equivalents. We maintain cash and cash equivalents in bank deposit accounts and money
+market funds which may not be federally insured. As of June 30, 2015, cash with a recorded
+balance totaling $26,200 was held at JP Morgan Chase Bank, N.A. We have not experienced
+any losses in such accounts and believe we are not exposed to any significant credit risk on such
+accounts.
+Accounts receivable
+We have receivables from joint interest owners and oil and natural gas purchasers which are
+generally uncollateralized. We generally review our oil and natural gas purchasers for credit
+worthiness and general financial condition. We may have the ability to withhold future revenue
+disbursements to recover non-payment of joint interest billings on properties of which we are the
+operator. Accounts receivable from joint interest owners are stated at amounts due, net of an
+allowance for doubtful accounts. Accounts receivable are generally due within 30 days and
+accounts outstanding longer than 60 days are considered past due. We establish our allowance
+for doubtful accounts by considering the length of time past due, previous loss history, future net
+revenues of the debtor’s ownership interest in oil and natural gas properties we operate, and our
+assessment of the owner’s ability to pay its obligation, among other things.
+10
+Table of Contents
+Chaparral Energy, Inc. and subsidiaries
+Condensed notes to consolidated financial statements (unaudited) – continued
+(dollars in thousands, unless otherwise noted)
+We write off accounts receivable when they are determined to be uncollectible. When we recover
+amounts that were previously written off, those amounts are offset against the allowance and
+reduce expense in the year of recovery.
+Accounts receivable consisted of the following at June 30, 2015 and December 31, 2014 :
+Joint interests
+Accrued commodity sales
+June 30, 
+2015
+$10,003
+36,864
+December 31,
+2014
+$ 30,648
+  45,667
+)
+25,184
+1,765
+(401
+$73,415
+19,678
+  2,738
+)  (287
+  $ 98,444
+Derivative settlements
+Other
+Allowance for doubtful accounts
+ 
+Inventories
+Inventories are comprised of equipment used in developing oil and natural gas properties and oil
+and natural gas product inventories. Equipment inventory is carried at the lower of cost or market
+using the average cost method. Oil and natural gas product inventories are stated at the lower of
+production cost or market. Inventories are shown net of a provision for obsolescence,
+commensurate with known or estimated exposure, which is reflected in the valuation allowance
+disclosed below. We recorded a lower of cost or market adjustment of $7,296 on our equipment
+inventory for the three and six months ended June 30, 2015 to reflect lower market prices
+resulting from a decline in demand for such equipment as drilling activity has decreased in the
+current low commodity price environment. The adjustment is reflected in “Loss on impairment of
+other assets” in our consolidated statements of operations.We did not record any significant
+inventory adjustments in the prior year periods. Inventories at June 30, 2015 and December 31,
+2014 consisted of the following:
+June 30, 
+2015
+December 31,
+2014
+)
+$24,245
+  2,174
+  (8,474
+  $17,945
+$ 24,169
+  2,575
+)  (1,187
+  $ 25,557
+Equipment inventory
+Commodities
+Inventory valuation allowance
+ 
+Oil and natural gas properties
+Capitalized Costs. We use the full cost method of accounting for oil and natural gas properties
+and activities. Accordingly, we capitalize all costs incurred in connection with the exploration for
+and development of oil and natural gas reserves. Proceeds from the disposition of oil and natural
+gas properties are accounted for as a reduction in capitalized costs, with no gain or loss
+generally recognized unless such dispositions involve a significant alteration in the depletion
+rate. We capitalize internal costs that can be directly identified with exploration and development
+activities, but do not include any costs related to production, general corporate overhead or
+similar activities. Capitalized costs include geological and geophysical work, 3D seismic, delay
+rentals, drilling and completing and equipping oil and natural gas wells, including salaries,
+benefits and other internal costs directly attributable to these activities.
+The costs of unevaluated oil and natural gas properties are excluded from amortization until the
+properties are evaluated. Costs are transferred into the amortization base on an ongoing basis as
+the properties are evaluated and proved reserves are established or impairment is determined.
+Work-in-progress costs are included in unevaluated oil and natural gas properties and as of
+June 30, 2015, include $100,362 of capital costs incurred for undeveloped acreage, $72,046 for
+the construction of CO2 delivery pipelines and facilities for which there are no reserves, and
+$3,251 for wells and facilities in progress pending determination. As of December 31, 2014,
+work-in-progress costs included capital costs incurred of $190,356 for undeveloped acreage,
+$72,046 for the construction of CO2 delivery pipelines and facilities for which there are no
+reserves, and $26,023 for wells and facilities in progress pending determination.
+11
+Table of Contents
+Chaparral Energy, Inc. and subsidiaries
+Condensed notes to consolidated financial statements (unaudited) – continued
+(dollars in thousands, unless otherwise noted)
+Depreciation, depletion and amortization. Depreciation, depletion and amortization (“DD&A”) of
+oil and natural gas properties are provided using the units-of-production method based on
+estimates of proved oil and natural gas reserves and production, which are converted to a
+common unit of measure based upon their relative energy content. Our cost basis for depletion
+includes estimated future development costs to be incurred on proved undeveloped properties.
+The computation of DD&A takes into consideration restoration, dismantlement, and
+abandonment costs, and the anticipated proceeds from salvaging equipment.
+Ceiling Test. In accordance with the full cost method of accounting, the net capitalized costs of oil
+and natural gas properties are not to exceed their related PV-10 value, net of tax considerations,
+plus the cost of unproved properties not being amortized.
+Our estimates of oil and natural gas reserves as of June 30, 2015 were prepared using an
+average price for oil and natural gas the first day of each month for the prior twelve months as
+required by the SEC.
+Due to the substantial decline of commodity prices that began in late 2014 and which remained
+low through June 30, 2015, the cost center ceiling exceeded the net capitalized cost of our oil
+and natural gas properties as of June 30, 2015, resulting in a ceiling test write-down during the
+second quarter of $217,562. Further write-downs are expected to occur in significant amounts if
+prices remain at their depressed levels. The amount of any future impairment is difficult to predict,
+and will depend on the average oil and natural gas prices during each period, the incremental
+proved reserves added during each period, and additional capital spent.
+Impairment of long-lived assets
+Impairment losses are recorded on property and equipment used in operations and other long-
+lived assets held and used when indicators of impairment are present and the undiscounted cash
+flows estimated to be generated by those assets are less than the assets’ carrying amount.
+Impairment is measured based on the excess of the carrying amount over the fair value of the
+asset. Impairment losses are also recorded on assets classified as held for sale when there is an
+excess of carrying value over fair value less costs to sell.
+We recorded impairment losses of $6,015 related to four drilling rigs not currently in use for the
+three and six months ended June 30, 2015. One of the rigs was last deployed in January 2015
+while the remaining three have been stacked for two to three years. As a result of the recent
+deterioration in commodity prices and drilling activity, the value of such equipment has declined
+while utilizing third party equipment has become more cost effective, resulting in us impairing the
+value of the rigs to their estimated fair value. These losses are reflected in “Loss on impairment of
+other assets” in our consolidated statements of operations. We had previously recorded $3,490
+and $1,500 of impairment related to these rigs during the years ended December 31, 2013 and
+2012, respectively.
+Stock-based compensation
+Our stock-based compensation programs consist of phantom stock, restricted stock units (“RSU”),
+and restricted stock awards issued to employees. Generally, we use new shares to grant
+restricted stock awards, and we cancel restricted shares forfeited or repurchased for tax
+withholding. Canceled shares are available to be issued as new grants under our 2010 Equity
+Incentive Plan.
+The estimated fair value of the phantom stock and RSU awards are remeasured at the end of
+each reporting period until settlement. The estimated fair market value of these awards is
+calculated based on our total asset value less total liabilities, with both assets and liabilities
+being adjusted to fair value in accordance with the terms of the Phantom Stock Plan and the
+Non-Officer Restricted Stock Unit Plan. The primary adjustment required is the adjustment of oil
+and natural gas properties from net book value to the discounted and risk-adjusted reserve value
+based on internal reserve reports priced on NYMEX forward strips. Compensation cost
+associated with the phantom stock awards and RSU awards is recognized over the vesting
+period using the straight-line method and the accelerated method, respectively. The fair value of
+our restricted stock awards that include a service condition is based upon the estimated fair
+market value of our common equity per share on a minority, non-marketable basis on the date of
+grant, and is remeasured at the end of each reporting period until settlement. We recognize
+compensation cost over the requisite service period using the accelerated method for awards
+with graded vesting.
+12
+Table of Contents
+Chaparral Energy, Inc. and subsidiaries
+Condensed notes to consolidated financial statements (unaudited) – continued
+(dollars in thousands, unless otherwise noted)
+We use a Monte Carlo model to estimate the grant date fair value of restricted stock awards that
+include a market condition. This model includes various significant assumptions, including the
+expected volatility of the share awards and the probabilities of certain vesting conditions.
+Compensation cost associated with restricted stock awards that include a market condition is
+recognized over the requisite service period using the straight-line method. The assumptions
+used to value our stock-based compensation awards reflect our best estimates, but they involve
+inherent uncertainties based on market conditions generally outside of our control. As a result,
+stock-based compensation expense could have been significantly impacted if other assumptions
+had been used.
+The costs associated with our stock-based compensation programs is calculated net of
+forfeitures, which are estimated based on our historical and expected turnover rates. If our actual
+forfeiture rate is materially different from our estimate, the stock-based compensation cost could
+be different from what we have recorded in the current period.
+Cost reduction initiatives
+Cost reduction initiatives include expenses related to our efforts to reduce our capital, operating
+and administrative costs in response to the recent deterioration of commodity prices. Included in
+our $9,136 of expenses for cost reduction initiatives for the six months ended June 30, 2015, are
+$6,524 and $347 recorded during the first and second quarter of 2015, respectively, for one-time
+severance and termination benefits in connection with our reduction in force that we began
+implementing in February 2015. The remaining expense is a result of third party legal and
+professional services we have engaged to assist in our cost savings initiatives.
+Recently issued accounting pronouncements
+In May 2014, the FASB issued authoritative guidance that supersedes previous revenue
+recognition requirements and requires entities to recognize revenue in a way that depicts the
+transfer of promised goods or services to customers in an amount that reflects the consideration
+to which the entity expects to be entitled in exchange for those goods or services. The FASB
+recently proposed a one-year delay which will make the updated guidance effective for fiscal
+years beginning after December 15, 2017, including interim periods within that reporting period.
+Early adoption is not permitted. We are currently evaluating the effect the new standard will have
+on our financial statements and results of operations.
+In August 2014, the FASB issued authoritative guidance that requires entities to evaluate
+whether there is substantial doubt about their ability to continue as a going concern and requires
+additional disclosures if certain criteria are met. This guidance is effective for fiscal periods after
+December 15, 2016 and interim periods thereafter. We do not expect this guidance to materially
+impact our financial statements or results of operations.
+In April 2015, the FASB issued authoritative guidance that amends the presentation of the cost of
+issuing debt on the balance sheet. The amendment requires that debt issuance costs related to a
+recognized debt liability be presented in the balance sheet as a direct deduction from the
+carrying amount of that debt liability, consistent with debt discounts. The recognition and
+measurement guidance for debt issuance costs are not affected by the amendment. This
+guidance is effective for fiscal periods after December 15, 2015 and interim periods thereafter.
+We are currently evaluating the effect the new standard will have on our financial statements and
+results of operations.
+13
+Table of Contents
+Chaparral Energy, Inc. and subsidiaries
+Condensed notes to consolidated financial statements (unaudited) – continued
+(dollars in thousands, unless otherwise noted)
+Note 2: Supplemental disclosures to the consolidated statements of cash flows
+Supplemental disclosures to the consolidated statements of cash flows are presented below:
+Six months ended
+June 30,
+Net cash provided by operating activities included:
+Cash payments for interest
+Interest capitalized
+Cash payments for interest, net of amounts capitalized
+Cash payments for income taxes
+Non-cash investing activities included:
+Asset retirement obligation additions and revisions
+Oil and natural gas properties acquired through increase in accounts
+payable and accrued liabilities
+Note 3: Long-term debt
+As of the dates indicated, long-term debt consisted of the following:
+2015
+   
+  $58,200
+  (6,273
+  $51,927
+  $639
+   
+  $2,255
+$—
+2014
+   
+  $56,419
+)  (6,290
+  $50,129
+  $591
+   
+  $2,966
+$20,768
+)
+9.875% Senior Notes due 2020, net of discount of $4,546 and
+$4,861, respectively
+8.25% Senior Notes due 2021
+7.625% Senior Notes due 2022, including premium of $4,467 and
+June 30,
+2015
+December 31,
+2014
+$295,454
+$ 295,139
+400,000
+400,000
+10,447
+10,705
+554,869
+ 347,000
+$4,869, respectively
+Senior secured revolving credit facility
+Real estate mortgage notes, principal and interest payable monthly,
+bearing interest at rates ranging from 2.54% to 5.46%, due August
+2021 through December 2028; collateralized by real property
+Installment notes payable, principal and interest payable monthly,
+bearing interest at rates ranging from 2.85% to 5.95% , due July
+2015 through February 2018; collateralized by automobiles,
+machinery and equipment
+Capital lease obligations
+ 
+Less current maturities
+ 
+Senior Notes
+The senior notes, which, as of June 30, 2015, include our 9.875% senior notes due 2020, our
+8.25% senior notes due 2021, and our 7.625% senior notes due 2022 (collectively, our “Senior
+Notes”) are our senior unsecured obligations, rank equally in right of payment with all our existing
+and future senior debt, and rank senior to all of our existing and future subordinated debt.
+20,648
+ 1,710,876  1,633,802
+ 4,867
+ $1,706,009  $ 1,628,425
+2,860
+4,252
+554,467
+ 427,000
+21,837
+5,377
+14
+Table of Contents
+Chaparral Energy, Inc. and subsidiaries
+Condensed notes to consolidated financial statements (unaudited) – continued
+(dollars in thousands, unless otherwise noted)
+Senior secured revolving credit facility
+In April 2010, we entered into an Eighth Restated Credit Agreement (our “senior secured
+revolving credit facility”), which is collateralized by our oil and natural gas properties and, as
+amended, matures on November 1, 2017. During the six months ended June 30, 2015, we had
+additional net borrowings of $80,000 on our senior secured revolving credit facility. As of
+June 30, 2015, the weighted average interest rate was 2.4% on outstanding borrowings under
+the senior secured revolving credit facility.
+Availability under our senior secured revolving credit facility is subject to a borrowing base which
+is set by the banks semiannually on May 1 and November 1 of each year. In addition, the lenders
+may request a borrowing base redetermination once between each scheduled redetermination
+and in the event of early termination of our derivative contracts. Our first semiannual borrowing
+base redetermination for the current year was finalized ahead of schedule in conjunction with an
+amendment to our senior secured revolving credit facility (the “Fifteenth Amendment”), effective
+on April 1, 2015. As of result of our semiannual redetermination, our borrowing base was
+decreased from $650,000 to $550,000 effective on April 1, 2015.
+In connection with the Fifteenth Amendment, the Consolidated Net Debt to Consolidated
+EBITDAX covenant previously required by our senior secured revolving credit facility was
+replaced by a covenant based on the ratio of Consolidated Net Secured Debt to Consolidated
+EBITDAX, as defined in the amendment. Under this covenant, we are required to maintain a ratio
+of Consolidated Net Secured Debt to Consolidated EBITDAX no greater than 2.25 to 1.0 for each
+period of four consecutive fiscal quarters ending on the last day of such applicable fiscal quarter.
+For the same applicable periods, the Fifteenth Amendment also requires us to maintain an
+Interest Coverage Ratio, as defined in the amendment, of no less than 2.00 to 1.0. Under the
+Fifteenth Amendment, we are allowed to incur an additional $300,000 in Additional Permitted
+Debt, as revised in the amendment to now include both secured and unsecured debt. We
+incurred $1,404 in fees associated with the Fifteenth Amendment.
+We believe we were in compliance with all covenants under our senior secured revolving credit
+facility as of June 30, 2015.
+Capital Leases
+During 2013, we entered into lease financing agreements with U.S. Bank National Association
+for $24,500 through the sale and subsequent leaseback of existing compressors owned by us.
+The carrying value of these compressors is included in our oil and natural gas full cost pool. The
+lease financing obligations are for 84-month terms and include the option to purchase the
+equipment for a specified price at 72 months as well as an option to purchase the equipment at
+the end of the lease term for its then-current fair market value. Lease payments related to the
+equipment are recognized as principal and interest expense based on a weighted average
+implicit interest rate of 3.8%. Minimum lease payments are approximately $3,181 annually.
+Note 4: Derivative instruments
+Overview
+Our results of operations, financial condition and capital resources are highly dependent upon
+the prevailing market prices of, and demand for, oil, natural gas and natural gas liquids. These
+commodity prices are subject to wide fluctuations and market uncertainties. To mitigate a portion
+of this exposure, we enter into various types of derivative instruments, including commodity price
+swaps, enhanced price swaps, costless collars, put options, and basis protection swaps. We
+enter into crude oil derivative contracts to hedge a portion of our natural gas liquids production.
+For commodity price swaps, we receive a fixed price for the hedged commodity and pay a
+floating market price to the counterparty. The fixed-price payment and the floating-price payment
+are netted, resulting in a net amount due to or from the counterparty.
+Collars contain a fixed floor price (purchased put) and ceiling price (sold call). If the market price
+exceeds the call strike price or falls below the put strike price, we receive the fixed price and pay
+the market price. If the market price is between the call and the put strike price, no payments are
+due from either party. A three-way collar contract consists of a standard collar contract plus a sold
+put with a price below the floor price of the collar. The sold put option requires us to make a
+payment to the counterparty if the market price is below the sold put option price. If the market
+price is greater than the sold put option price, the result is the same as it would have been with a
+standard collar contract only. By combining the collar contract with the sold put option, we are
+entitled to a net payment equal to the difference between the floor price of the standard collar and
+the sold
+15
+Table of Contents
+Chaparral Energy, Inc. and subsidiaries
+Condensed notes to consolidated financial statements (unaudited) – continued
+(dollars in thousands, unless otherwise noted)
+put option price if the market price falls below the sold put option price. This strategy enables us
+to increase the floor and the ceiling price of the collar beyond the range of a traditional costless
+collar utilizing the value associated with the sale of a put option.
+We enhance the value of certain oil swaps by combining them with sold puts or put spread
+contracts. Sold puts require us to make a payment to the counterparty if the market price is below
+the put strike price at the settlement date. If the market price is greater than the sold put price, the
+result is the same as it would have been with a swap contract only. A put spread is a combination
+of a sold put and a purchased put. If the market price falls below the purchased put option price,
+we will pay the spread between the sold put option price and the purchased put option price from
+the counterparty. The use of a sold put allows us to receive an above-market swap price while
+the purchased put provides a measure of downside protection. A put spread may also be
+constructed by entering into separate sold put and purchased put contracts.
+Put options may be purchased from the counterparty by paying a cash premium at the time the
+put options are purchased or deferring payment until the put options settle. If the market price is
+below the put strike price at the settlement date, we will receive a payment from the counterparty.
+Purchased put options are designed to provide a fixed price floor in an environment where prices
+have declined. In such an environment, put options may also be purchased to offset the
+downside from sold puts that are originally associated with enhanced swaps or three-way collars.
+The fair value of our put options include any deferred premiums that are payable under the
+contract.
+We use basis protection swaps to reduce basis risk. Basis is the difference between the physical
+commodity being hedged and the price of the futures contract used for hedging. Basis risk is the
+risk that an adverse change in the futures market will not be completely offset by an equal and
+opposite change in the cash price of the commodity being hedged. Basis risk exists in natural
+gas primarily due to the geographic price differentials between cash market locations and futures
+contract delivery locations. Natural gas basis protection swaps are arrangements that guarantee
+a price differential for natural gas from a specified pricing point. We receive a payment from the
+counterparty if the price differential is greater than the stated terms of the contract and pay the
+counterparty if the price differential is less than the stated terms of the contract.
+The following table summarizes our crude oil derivatives outstanding as of June 30, 2015:
+Weighted average fixed price per Bbl
+Volume
+MBbls
+300
+$94.58   $—
+2,610
+$92.48   $—
+Swaps
+Sold
+puts
+Purchased
+puts
+Sold
+calls
+$ —
+$ —
+$—
+$—
+Average
+premium
+ 
+$ —
+$ 13.80
+Period and type of contract
+2015
+Swaps
+Swaps with deferred premium
+(1)
+2016
+Three-way collars
+Enhanced swaps (2)
+Purchased puts (2)
+___________
+240
+  3,720
+  3,720
+$84.00   $ 92.00
+$—
+  $92.94   $80.52   $ —
+  $—
+$ 60.00
+$—
+$101.01 $ —
+  $—
+$ —
+$ 5.54
+  $—
+(1)
+(2)
+As a result of the deferred premiums, the above 2,610,000 barrels of crude oil production for
+the remainder of 2015 are hedged at an effective price of $78.68/barrel.
+Total premiums of $20,609 for the purchased puts were paid at contract inception in December
+2014. Excluding the premiums and utilizing an average NYMEX strip price of $61.90 for 2016
+as of June 30, 2015, the average realized price from our 3,720,000 barrels of hedged
+production that have associated sold puts and purchased puts is $74.32/barrel. In the event
+that crude oil prices are below $60.00/barrel, which is indicated by the average NYMEX strip
+price for 2016 as of August 10, 2015, the purchase of these put options established a floor on
+the realized price for these hedged volumes of $72.42/barrel.
+16
+Table of Contents
+Chaparral Energy, Inc. and subsidiaries
+Condensed notes to consolidated financial statements (unaudited) – continued
+(dollars in thousands, unless otherwise noted)
+The following tables summarize our natural gas derivative instruments outstanding as of June 30,
+2015:
+Period and type of contract
+Volume
+BBtu
+Weighted
+average
+fixed price
+per MMBtu
+$ 4.19
+  $ 0.24
+   
+  $ 4.19
+  $ 0.36
+   
+  $ 3.64
+   
+  $ 3.83
+7,920
+  7,200
+   
+  14,000
+  8,400
+   
+  12,700
+   
+  8,250
+2015
+Natural gas swaps
+Natural gas basis protection swaps
+2016
+Natural gas swaps
+Natural gas basis protection swaps
+2017
+Natural gas swaps
+2018
+Natural gas swaps
+On March 26, 2015, we entered into early settlements of certain oil and natural gas derivative
+contracts originally scheduled to settle between 2015 to 2017 covering 495,000 barrels of oil and
+12,280 BBtu of natural gas, receiving net proceeds of $15,395, in order to maintain compliance
+with the hedging limits imposed by covenants under our senior secured credit facility. The
+proceeds are included in non-hedge derivative gains (losses) disclosed below for the six months
+ended June 30, 2015.
+During July 2015, we entered into swaps covering 520,000 barrels of oil scheduled to settle
+during the second half of 2015 with an average notional price of $50.43 per barrel, which offset
+our existing swaps disclosed in the table above. By entering into offset positions for these
+volumes, we have locked-in the difference between the contract price of our prior swaps and the
+contract price of our recent swaps, which we will receive when the contracts settle. In addition,
+we also entered into collars covering 260,000 barrels of oil at a call price of $57.50 per barrel and
+a put price of $47.50 barrel and purchased puts covering 260,000 barrels of oil at a put price of
+$47.50 barrel. The collars and the puts, which are scheduled to settle during the second half of
+2015, were purchased for a total premium of $1,245, payable upon settlement of the contracts.
+17
+Table of Contents
+Chaparral Energy, Inc. and subsidiaries
+Condensed notes to consolidated financial statements (unaudited) – continued
+(dollars in thousands, unless otherwise noted)
+Liabilities   Net value
+As of December 31, 2014
+Liabilities   Net value  Assets
+As of June 30, 2015
+Assets
+$30,306   $ —
+10,242
+1,679
+71,952
+Effect of derivative instruments on the consolidated balance sheets
+All derivative financial instruments are recorded on the balance sheet at fair value. See Note
+5—Fair value measurements for additional information regarding fair value measurements. The
+estimated fair values of derivative instruments are provided below. The carrying amounts of these
+instruments are equal to the estimated fair values.
+ 
+ 
+Natural gas swaps
+Oil swaps
+Oil collars
+Oil enhanced swaps
+Oil purchased and sold
+puts
+Natural gas basis
+differential swaps
+Total derivative
+instruments
+Less:
+Netting adjustments (1)
+Current portion asset
+(liability)
+ 
+___________
+$30,306   $32,939   $ —
+  10,242
+  1,679
+  71,952
+23,465
+  —
+  1,175
+  —
+  100,724   —
+$32,939
+  23,465
+  1,175
+  100,724
+)   152,731   251,863   (309
+$43,751   $71,710   $ —
+)   108,980   179,921   (77
+38,675
+93,268
+—
+—
+  —
+  —
+—
+$43,751   $ —
+152,952   (221
+(221
+)   (123
+)  292
+109,067   (87
+(309
+)   (17
+)
+)   179,844
+$71,710
+98
+134
+(134
+)   —
+)   251,554
+232
+(232
+)   —
+38,675
+93,268
+(1)
+Amounts represent the impact of master netting agreements that allow us to net settle positive
+and negative positions with the same counterparty. Positive and negative positions with a
+counterparty are netted only to the extent that they relate to the same current versus noncurrent
+classification on the balance sheet.
+Derivative settlements outstanding at June 30, 2015 and December 31, 2014 were as follows:
+June 30, 
+2015
+$25,184
+December 31, 
+2014
+$ 19,678
+Derivative settlements receivable included in accounts receivable
+Effect of derivative instruments on the consolidated statements of operations
+We do not apply hedge accounting to any of our derivative instruments. As a result, all gains and
+losses associated with our derivative contracts are recognized immediately as non-hedge
+derivative gains (losses) in the consolidated statements of operations.
+Non-hedge derivative gains (losses) in the consolidated statements of operations are comprised
+of the following: 
+ 
+ 
+ 
+Change in fair value of commodity price swaps
+Change in fair value of collars
+Change in fair value of enhanced swaps and put
+options
+Change in fair value of natural gas basis differential
+Three months ended  Six months ended
+ June 30,
+ 2015
+ $(16,463)  $1,948
+)  (3,901
+ (21
+June 30,
+ 2015
+ $(15,857)  $(3,245 )
+)
+) 504
+(66,722 )  (42,503 ) (83,365 )  (53,030 )
+(6,764
+2014
+2014
+contracts
+Receipts from (payments on) settlement of
+commodity price swaps
+Payments on settlement of collars
+Receipts from (payments on) settlement of
+enhanced swaps and put options
+Receipts from (payments on) settlement of natural
+gas basis differential contracts
+(1,164
+)  (313
+) (106
+)  (2,174
+)
+11,950
+(5,773
+) 30,977
+(11,623 )
+—
+(1,220
+) —
+(1,261
+30,629
+(7,001
+) 87,578
+(8,993
+211
+767
+120
+(105
+)
+)
+)
+$(41,580)  $(57,996) $19,851   $(87,195)
+18
+Table of Contents
+Chaparral Energy, Inc. and subsidiaries
+Condensed notes to consolidated financial statements (unaudited) – continued
+(dollars in thousands, unless otherwise noted)
+•
+Note 5: Fair value measurements
+Fair value is defined by the FASB as the price that would be received to sell an asset or paid to
+transfer a liability in an orderly transaction between market participants at the measurement date.
+Where available, fair value is based on observable market prices or parameters or derived from
+such prices or parameters. Where observable prices or inputs are not available, valuation models
+are applied. These valuation techniques involve some level of management estimation and
+judgment, the degree of which is dependent on the price transparency for the instruments or
+market and the instruments’ complexity.
+Fair value measurements are categorized according to the fair value hierarchy defined by the
+FASB. The hierarchical levels are based upon the level of judgment associated with the inputs
+used to measure the fair value of the assets and liabilities as follows:
+Level 1 inputs are unadjusted quoted prices in active markets for identical assets or liabilities at
+the measurement date.
+Level 2 inputs include quoted prices for identical or similar instruments in markets that are not
+active and inputs other than quoted prices that are observable for the asset or liability. 
+Level 3 inputs are unobservable inputs for the asset or liability, and include situations where
+there is little, if any, market activity for the asset or liability.
+In certain cases, the inputs used to measure fair value may fall into different levels of the fair
+value hierarchy. In such cases, the asset or liability is categorized based on the lowest level input
+that is significant to the fair value measurement in its entirety. Our assessment of the significance
+of a particular input to the fair value measurement in its entirety requires judgment, and may affect
+the placement of assets and liabilities within the levels of the fair value hierarchy.
+Recurring fair value measurements
+Our financial instruments recorded at fair value on a recurring basis consist of commodity
+derivative contracts (see Note 4—Derivative instruments). We have no Level 1 assets or
+liabilities as of June 30, 2015 or December 31, 2014. Our derivative contracts classified as Level
+2 as of June 30, 2015 and December 31, 2014 consist of commodity price swaps and basis
+protection swaps, which are valued using an income approach. Future cash flows from the
+derivatives are estimated based on the difference between the fixed contract price and the
+•
+•
+underlying published forward market price, and are discounted at the LIBOR swap rate.
+As of June 30, 2015 and December 31, 2014, our derivative contracts classified as Level 3
+consisted of three-way collars, enhanced swaps, sold puts and purchased puts. The fair value of
+these contracts is developed by a third-party pricing service using a proprietary valuation model,
+which we believe incorporates the assumptions that market participants would have made at the
+end of each period. Observable inputs include contractual terms, published forward pricing
+curves, and yield curves. Significant unobservable inputs are implied volatilities. Significant
+increases (decreases) in implied volatilities in isolation would result in a significantly higher
+(lower) fair value measurement. We review these valuations and the changes in the fair value
+measurements for reasonableness. All derivative instruments are recorded at fair value and
+include a measure of our own nonperformance risk for derivative liabilities or that of our
+counterparties for derivative assets.
+The fair value hierarchy for our financial assets and liabilities is shown by the following table:
+As of December 31, 2014
+As of June 30, 2015
+Derivative
+assets
+Derivative
+liabilities
+$40,646   $ (221
+112,306   —
+(134
+$152,818   $ (87
+)  134
+Net assets
+(liabilities)
+Derivative
+assets
+Derivative
+liabilities
+Net assets
+(liabilities)
+)   $40,425
+$56,696   $ (309
+)   $56,387
+112,306
+195,167   —
+195,167
+—
+)   $152,731   $251,631   $ (77
+)  232
+(232
+—
+)   $251,554
+Significant other
+observable inputs (Level 2)
+Significant unobservable
+inputs (Level 3)
+Netting adjustments (1)
+ 
+___________
+(1)
+Amounts represent the impact of master netting agreements that allow us to net settle positive
+and negative positions with the same counterparty. Positive and negative positions with a
+counterparty are netted on the balance sheet only to the extent that they relate to the same
+current versus noncurrent classification.
+19
+Table of Contents
+Chaparral Energy, Inc. and subsidiaries
+Condensed notes to consolidated financial statements (unaudited) – continued
+(dollars in thousands, unless otherwise noted)
+Changes in the fair value of our derivative instruments classified as Level 3 in the fair value
+hierarchy during the six months ended June 30, 2015 and 2014 were:
+Net derivative assets (liabilities)
+Beginning balance
+Realized and unrealized gains (losses) included in non-hedge
+derivative gains (losses)
+Purchases
+Settlements (received) paid
+Ending balance
+Losses relating to instruments still held at the reporting date included in
+Six months ended
+June 30,
+2015
+  $195,167   $3,622
+2014
+4,718
+(70,048 )
+—
+  1,220
+  (87,579 )  10,254
+  $112,306   $(54,952 )
+$(12,504 )  $(63,617 )
+non-hedge derivative gains (losses) for the period
+Nonrecurring fair value measurements
+Asset retirement obligations. Additions to the asset and liability associated with our asset
+retirement obligations are measured at fair value on a nonrecurring basis. Our asset retirement
+obligations consist of the estimated present value of future costs to plug and abandon or
+otherwise dispose of our oil and natural gas properties and related facilities. Significant inputs
+used in determining such obligations include estimates of plugging and abandonment costs,
+inflation rates, discount rates, and well life, all of which are Level 3 inputs according to the fair
+value hierarchy. The estimated future costs to dispose of properties added during the first six
+months of 2015 and 2014 were escalated using an annual inflation rate of 2.91% and 2.95%,
+respectively, and discounted using our weighted average credit-adjusted risk-free interest rate of
+11.90% and 5.90%, respectively. These estimates may change based upon future inflation rates
+and changes in statutory remediation rules. See Note 6—Asset retirement obligations for
+additional information regarding our asset retirement obligations.
+Impairment of long-lived assets. As discussed in Note 1—Nature of operations and summary of
+significant accounting policies, we recorded an impairment on four of our stacked drilling rigs
+during the second quarter of 2015. The estimated fair value related to the impairment assessment
+for our four drilling rigs no longer in service was primarily based on internal and external
+estimates and, therefore, is classified within Level 3 of the fair value hierarchy.
+Fair value of other financial instruments
+Our significant financial instruments, other than derivatives, consist primarily of cash and cash
+equivalents, accounts receivable, accounts payable, and long-term debt. We believe the carrying
+values of cash and cash equivalents, accounts receivable, and accounts payable approximate
+fair values due to the short-term maturities of these instruments.
+The carrying value and estimated fair value of our long-term debt at June 30, 2015 and
+December 31, 2014 were as follows:
+December 31, 2014
+June 30, 2015
+Level 2
+Carrying
+value
+Carrying
+value
+Estimated
+fair value
+  $249,000
+  298,000
+  401,500
+  427,000
+  13,307
+$295,454
+  400,000
+  554,467
+  427,000
+  13,307
+  $1,690,228   $1,388,807   $1,611,965   $1,280,823
+9.875% Senior Notes due 2020
+8.25% Senior Notes due 2021
+7.625% Senior Notes due 2022
+Senior secured revolving credit facility
+Other secured long-term debt
+ 
+The fair value of our Senior Notes was estimated based on quoted market prices. The carrying
+value of our senior secured revolving credit facility approximates fair value because it has a
+variable interest rate and incorporates a measure of our credit risk. The carrying value of our
+other secured long-term debt approximates fair value because the rates are comparable to those
+at which we could currently borrow under similar terms.
+$295,139
+  400,000
+  554,869
+  347,000
+  14,957
+Estimated
+fair value
+  $269,091
+  270,000
+  379,775
+  347,000
+  14,957
+20
+Table of Contents
+Chaparral Energy, Inc. and subsidiaries
+Condensed notes to consolidated financial statements (unaudited) – continued
+(dollars in thousands, unless otherwise noted)
+Counterparty credit risk
+Our derivative contracts are executed with institutions, or affiliates of institutions, that are parties
+to our senior secured revolving credit facility at the time of execution, and we believe the credit
+risks associated with all of these institutions are acceptable. We do not require collateral or other
+security from counterparties to support derivative instruments. Master agreements are in place
+with each of our derivative counterparties which provide for net settlement in the event of default
+or termination of the contracts under each respective agreement. As a result of the netting
+provisions, our maximum amount of loss under derivative transactions due to credit risk is limited
+to the net amounts due from the counterparties under the derivatives. Our loss is further limited as
+any amounts due from a defaulting counterparty that is a lender, or an affiliate of a lender, under
+our senior secured revolving credit facility can be offset against amounts owed to such
+counterparty lender under our senior secured revolving credit facility. As of June 30, 2015, the
+counterparties to our open derivative contracts consisted of eight financial institutions, of which
+eight were subject to our rights of offset under our senior secured revolving credit facility.
+The following table summarizes our derivative assets and liabilities which are offset in the
+consolidated balance sheets under our master netting agreements. It also reflects the amounts
+outstanding under our senior secured revolving credit facility that are available to offset our net
+derivative assets due from counterparties that are lenders under our senior secured revolving
+credit facility.
+Offset in the consolidated
+balance sheets
+Gross amounts not offset in the
+consolidated balance sheets
+Gross
+assets
+ 
+(liabilities)
+Offsetting
+assets
+(liabilities)
+Net
+assets
+(liabilities)
+Derivatives(1)
+As of June 30, 2015
+Derivative assets
+Derivative liabilities
+ 
+As of December 31,
+2014
+Derivative assets
+Derivative liabilities
+ 
+___________
+Net
+amount
+Amounts
+outstanding
+under
+senior
+secured
+revolving
+credit
+facility
+  
+ $(117,788 ) $35,030
+ —
+ $(117,788 ) $34,943
+(87
+)
+$152,952  $ (134
+ (221
+) 134
+ $152,731  $ —
+)  $152,818   $ —
+ (87
+ $152,731   $ —
+)  —
+$251,863  $ (232
+ (309
+) 232
+ $251,554  $ —
+)  $251,631   $ —
+ (77
+ $251,554   $ —
+)  —
+$(118,430 ) $133,201
+ —
+ $(118,430 ) $133,124
+(77
+)
+(1)
+Since positive and negative positions with a counterparty are netted on the balance sheet only
+to the extent that they relate to the same current versus noncurrent classification, these
+represent remaining amounts that could have been offset under our master netting
+agreements.
+We did not post additional collateral under any of these contracts as all of our counterparties are
+secured by the collateral under our senior secured revolving credit facility. Payment on our
+derivative contracts would be accelerated in the event of a default on our senior secured
+revolving credit facility. The aggregate fair value of our derivative liabilities subject to
+acceleration in the event of default was $221 at June 30, 2015.
+21
+Table of Contents
+Chaparral Energy, Inc. and subsidiaries
+Condensed notes to consolidated financial statements (unaudited) – continued
+(dollars in thousands, unless otherwise noted)
+)
+1,124
+6,792
+$46,491
+$45,593
+2014
+  $55,179
+  2,966
+)  (7,823
+  —
+  2,063
+  52,385
+Six months ended June 30,
+  2015
+  $47,424
+  1,001
+  (3,866
+  1,254
+  1,802
+  47,615
+Note 6: Asset retirement obligations
+The following table provides a summary of our asset retirement obligation activity during the six
+months ended June 30, 2015 and 2014. 
+ 
+ 
+Beginning balance
+Liabilities incurred in current period
+Liabilities settled and disposed in current period
+Revisions in estimated cash flows
+Accretion expense
+Ending balance
+Less current portion included in accounts payable and accrued
+liabilities
+ 
+See Note 5—Fair value measurements for additional information regarding fair value
+assumptions associated with our asset retirement obligations.
+Note 7: Stock-based compensation
+Phantom Stock Plan and Restricted Stock Unit Plan
+Effective January 1, 2004, we implemented a Phantom Unit Plan, which was revised on
+December 31, 2008 as the Second Amended and Restated Phantom Stock Plan (the “Phantom
+Plan”), to provide deferred compensation to certain key employees (the “Participants”). Under the
+Phantom Plan, awards vest at the end of five years, but may also vest on a pro-rata basis
+following a Participant’s termination of employment with us due to death, disability, retirement or
+termination by us without cause. Also, phantom stock will vest if a change of control event occurs.
+Phantom shares are cash-settled within 120 days of the vesting date.
+Effective March 1, 2012, we implemented a Non-Officer Restricted Stock Unit Plan (the “RSU
+Plan”) to create incentives to motivate Participants to put forth maximum effort toward the success
+and growth of the Company and to enable us to attract and retain experienced individuals who by
+their position, ability and diligence are able to make important contributions to the Company’s
+success. The RSU Plan is intended to replace the Phantom Plan. Although the Phantom Plan
+remains in effect, we do not expect to make any further awards under the Phantom Plan.
+Under the RSU Plan, restricted stock units may be awarded to Participants in an aggregate
+amount of up to 2% of the fair market value of the Company. Under the RSU Plan, awards
+generally vest in equal annual increments over a three-year period. RSU awards may also vest
+following a Participant’s termination of employment in combination with the occurrence of a
+change of control event, as specified in the RSU Plan. RSU awards are cash-settled, generally
+within 120 days of the vesting date.
+22
+Table of Contents
+Chaparral Energy, Inc. and subsidiaries
+Condensed notes to consolidated financial statements (unaudited) – continued
+(dollars in thousands, unless otherwise noted)
+Phantom Plan
+Weighted
+average
+grant date
+fair value
+($ per share)
+Phantom
+ 
+shares
+Vest
+date
+fair
+value
+A summary of our phantom stock and RSU activity during the six months ended June 30, 2015 is
+presented in the following table:
+RSU Plan
+Weighted
+average
+grant date
+fair value
+$ 9.91
+Restricted
+Stock
+Units
+Vest
+date
+fair
+value
+$ 18.62
+11,297
+$ 10.55
+$ 20.18
+23,179
+569,160
+297,075
+($ per share)
+—
+24.48
+18.31
+—
+  (6,456 )  $ 25
+  (5,426 )
+15.26
+  10.56
+  9.64
+52,711
+  (199,451 )  $764
+  (125,345 )
+Unvested and outstanding at
+January 1, 2015
+Granted
+Vested
+Forfeited
+Unvested and outstanding at
+June 30, 2015
+Based on an estimated fair value of $5.36 per phantom share and RSU as of June 30, 2015, the
+aggregate intrinsic value of the unvested phantom shares and RSUs outstanding was $1,653.
+2010 Equity Incentive Plan
+We adopted the Chaparral Energy, Inc. 2010 Equity Incentive Plan (the “2010 Plan”) on April 12,
+2010. The 2010 Plan reserves a total of 86,301 shares of our class A common stock for awards
+issued under the 2010 Plan. All of our or our affiliates’ employees, officers, directors, and
+consultants, as defined in the 2010 Plan, are eligible to participate in the 2010 Plan.
+The awards granted under the 2010 Plan consist of shares that are subject to service vesting
+conditions (the “Time Vested” awards) and shares that are subject to market and performance
+vested conditions (the “Performance Vested” awards). The Time Vested awards vest in equal
+annual installments over the five-year vesting period, but may also vest on an accelerated basis
+in the event of a transaction whereby CCMP Capital Investors II (AV-2), L.P., CCMP Energy I
+LTD., and CCMP Capital Investors (Cayman) II, L.P. (collectively “CCMP”) receive cash upon the
+sale of its class E common stock (a “Transaction” as defined in the restricted stock agreements).
+The Performance Vested awards vest in the event of a Transaction that achieves certain market
+targets as defined in the 2010 Plan. Any shares of Performance Vested awards not vested on a
+Separation Date (as defined in the 2010 Plan) will be forfeited as of the Separation Date.
+Our 2010 Plan allows participants to elect, upon vesting of their Time Vested awards, to have us
+withhold shares having a fair market value greater than the minimum statutory withholding
+amounts for income and payroll taxes that would be due with respect to such vested shares. As a
+result of this provision, the Time Vested awards are classified as liability awards under
+accounting guidance and remeasured to fair value at the end of each reporting period. The
+Performance Vested awards are classified as equity awards and are not remeasured to fair value
+at the end of each reporting period subsequent to grant date.
+We have previously modified the vesting conditions of awards granted under the 2010 Plan.
+Please see “Note 10—Stock-based compensation” in Item 8. Financial Statement and
+Supplementary Data of our Annual Report on Form 10-K for the year ended December 31, 2014,
+for a discussion of the modifications.
+A summary of our restricted stock activity during the six months ended June 30, 2015 is
+presented below:
+Performance Vested
+Time Vested
+Weighted
+average
+grant date
+fair value
+($ per share)
+Restricted
+shares
+Unvested and outstanding at
+January 1, 2015
+Granted
+Vested
+Forfeited
+Unvested and outstanding at June
+30, 2015
+23
+Vest
+date
+fair
+value
+Weighted
+average
+grant date
+fair value
+Restricted
+shares
+($ per share)
+$ 292.92
+38,943
+113.90
+)  $4,041   —
+)
+527.36
+599
+  —
+  (9,111
+)
+$ 791.52
+25,834
+533.80
+776.62
+765.33
+610
+  (7,571
+  (3,291
+$ 794.20
+15,582
+$ 409.69
+30,431
+Table of Contents
+Chaparral Energy, Inc. and subsidiaries
+Condensed notes to consolidated financial statements (unaudited) – continued
+(dollars in thousands, unless otherwise noted)
+During the six months ended June 30, 2015 and 2014, we repurchased and canceled 5,226 and
+1,390 vested shares respectively, and we expect to repurchase and cancel approximately 3,000
+restricted shares vesting during the next twelve months. Based on an estimated fair value of
+$533.80 per Time Vested restricted share, the aggregate intrinsic value of the unvested Time
+Vested restricted shares outstanding was $8,318 as of June 30, 2015.
+Stock-based compensation cost
+Compensation cost is calculated net of forfeitures, which are estimated based on our historical
+and expected turnover rates. If our actual forfeiture rate is materially different from our estimate,
+the stock-based compensation cost could be different from what we have recorded in the current
+period.
+A portion of stock-based compensation cost associated with employees involved in our
+acquisition, exploration, and development activities has been capitalized as part of our oil and
+natural gas properties. The remaining cost is reflected in lease operating and general and
+administrative expenses in the consolidated statements of operations. We recognized stock-
+based compensation expense as follows for the periods indicated:
+Stock-based compensation cost
+Less: stock-based compensation cost capitalized
+Six months ended
+Three months
+ended
+  June 30,
+June 30,
+2015
+  2015
+$1,938  $4,186   $438
+) (1,484 )  (303
+(718
+2014
+2014
+  $6,717
+)  (2,446 )
+$4,271
+$3,644   $2,088
+$1,220  $2,702   $135
+$2,832  $1,214
+Stock-based compensation expense
+Payments for stock-based compensation
+Our stock-based compensation expense six months ended June 30, 2015 includes a credit
+recorded in the first quarter due to forfeitures that occurred in conjunction with our workforce
+reduction in February 2015. As of June 30, 2015 and December 31, 2014, accrued payroll and
+benefits payable included $2,438 and $4,830, respectively, for stock-based compensation costs
+expected to be settled within the next twelve months. Unrecognized compensation cost of
+approximately $10,969 is expected to be recognized over a weighted average period of 2.0
+years.
+Note 8: Commitments and contingencies
+Standby letters of credit (“Letters”) available under our senior secured revolving credit facility are
+used in lieu of surety bonds with various organizations for liabilities relating to the operation of oil
+and natural gas properties. We had various Letters outstanding totaling $874 and $920 as of
+June 30, 2015 and December 31, 2014, respectively. Interest on each Letter accrues at the
+lender’s prime rate plus applicable margin for all amounts paid by the lenders under the Letters.
+No amounts were paid by the lenders under the Letters; therefore, we paid no interest on the
+Letters during the six months ended June 30, 2015 or 2014.
+Litigation and Claims
+Naylor Farms, Inc., individually and as class representative on behalf of all similarly situated
+persons v. Chaparral Energy, L.L.C. On June 7, 2011, an alleged class action was filed against
+us in the United States District Court for the Western District of Oklahoma (“Naylor Farms Case”)
+alleging that we improperly deducted post-production costs from royalties paid to plaintiffs and
+other royalty interest owners as categorized in the petition from crude oil and natural gas wells
+located in Oklahoma. The purported class includes non-governmental royalty interest owners in
+oil and natural gas wells we operate in Oklahoma. The plaintiffs have alleged a number of
+claims, including breach of contract, fraud, breach of fiduciary duty, unjust enrichment, and other
+claims and seek termination of leases, recovery of compensatory damages, interest, punitive
+damages and attorney fees on behalf of the alleged class. We have responded to the Naylor
+Farms petition, denied the allegations and raised arguments and defenses. Discovery is ongoing
+and information and documents continue to be exchanged. The class has not been certified, but
+the motion for class certification is due in the fourth quarter of 2015. We are not currently able to
+estimate a reasonably possible loss or range of loss or what impact, if any, the Naylor Farms
+Case will have on our financial condition, results of operations or cash flows due to the
+preliminary status of the matters, the complexity and number of legal and factual issues
+presented by the matter and uncertainties with respect to, among other things, the nature of the
+claims and defenses, the potential size of the class, the scope and types of the properties and
+agreements involved, and the ultimate potential outcome of the matter. Plaintiffs in the Naylor
+Farms Case have indicated that, if the class is certified, they seek damages in excess of $5,000
+which may increase with the passage of time, a majority of which would be comprised of interest.
+We dispute plaintiffs’ claims, dispute that the case meets the requirements for a class action and
+are vigorously defending the case.
+24
+Table of Contents
+Chaparral Energy, Inc. and subsidiaries
+Condensed notes to consolidated financial statements (unaudited) – continued
+(dollars in thousands, unless otherwise noted)
+Amanda Dodson, individually and as class representative on behalf of all similarly situated
+persons v. Chaparral Energy, L.L.C. On May 10, 2013, Amanda Dodson (the “Plaintiff”), filed a
+complaint against us in the District Court of Mayes County, Oklahoma, (“Dodson Case”) with
+allegation similar to those asserted in the Naylor Farms Case related to post-production
+deductions, and include clams for breach of contract, fraud, breach of fiduciary duty, unjust
+enrichment, and other claims and seek termination of leases, recovery of compensatory
+damages, interest, punitive damages and attorney fees on behalf of the alleged class. The
+alleged class includes non-governmental royalty interest owners in oil and natural gas wells we
+operate in Oklahoma. We have responded to the Plaintiff’s petition, denied the allegations and
+raised a number of affirmative defenses. At this time, a class has not been certified and discovery
+has not yet commenced. We are not currently able to estimate a reasonable possible loss or
+range of loss or what impact, if any, the Dodson Case will have on our financial condition, results
+of operations or cash flows due to the preliminary status of the matter, the complexity and number
+of legal and factual issues presented by the matter and uncertainties with respect to, among other
+things, the nature of the claims and defenses, the potential size of the class, the scope and types
+of the properties and agreements involved, and the ultimate potential outcome of the matter. We
+dispute Plaintiff’s claims, dispute that the case meets the requirements for a class action and are
+vigorously defending the case.
+Martha Donelson and John Friend, on behalf of themselves and on behalf of all similarly situated
+persons v. Chaparral Energy, L.L.C. On August 11, 2014, an alleged class action was filed
+against us, as well as several other operators in Osage County, in the United States District
+Court for the Northern District of Oklahoma (“Donelson Case”), alleging claims on behalf of the
+named plaintiffs and all similarly situated Osage County land owners and surface lessees. The
+plaintiffs assert claims seeking recovery for trespass, nuisance, negligence and unjust
+enrichment. Relief sought includes declaring oil and natural gas leases and drilling permits
+obtained in Osage County without a prior NEPA study void ab initio, removing us from all
+properties owned by the class members, disgorgement of profits, and compensatory and punitive
+damages. We have joined in Motions to Dismiss filed by the other defendants. At this time, a
+class has not been certified and discovery has yet to begin. We are not currently able to estimate
+a reasonably possible loss or range of loss or what impact, if any, the Donelson Case will have
+on our financial condition, results of operations or cash flows due to the preliminary status of the
+matter, the complexity and number of legal and factual issues presented by the matter and
+uncertainties with respect to, among other things, the nature of the claims and defenses, the
+potential size of the class, the scope and types of properties and agreements involved, and the
+ultimate potential outcome of the matter. We dispute plaintiffs’ claims, dispute that the Donelson
+Case meets the requirements for a class action and are vigorously defending the case.
+We are involved in various other legal proceedings including, but not limited to, commercial
+disputes, claims from royalty and surface owners, property damage claims, personal injury
+claims, employment claims, and other matters which arise in the ordinary course of business.
+While the outcome of these legal proceedings cannot be predicted with certainty, we do not
+expect any of them individually to have a material effect on our financial condition, results of
+operations or cash flows.
+We have numerous contractual commitments in the ordinary course of business including debt
+service requirements, operating leases, capital leases and purchase obligations. Our operating
+leases primarily relate to CO2 recycle compressors at our EOR facilities and office equipment
+while our capital leases are related to the sale and subsequent leaseback of compressors. Our
+purchase obligations primarily relate to contracts for the purchase of CO2, drilling rig services,
+pipe and equipment. Other than additional debt borrowings during the six months ended June 30,
+2015, there were no material changes to our contractual commitments since December 31, 2014.
+25
+Table of Contents
+ITEM 2.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS
+The following discussion is intended to assist you in understanding our business and results of
+operations together with our present financial condition. This section should be read in
+conjunction with our consolidated financial statements and the accompanying notes included
+elsewhere in this report.
+Statements in our discussion may be forward-looking statements. These forward-looking
+statements involve risks and uncertainties. We caution that a number of factors could cause
+future production, revenues and expenses to differ materially from our expectations.
+Overview
+Founded in 1988 and headquartered in Oklahoma City, we are pure play Mid-Continent
+independent oil and natural gas exploration and production company. We have capitalized on
+our sustained success in the Mid-Continent area in recent years by expanding our holdings to
+become a leading player in the liquids-rich Mississippi Lime and STACK, which is home to
+multiple oil-rich reservoirs including the Oswego, Meramec, Osage, Woodford and Hunton
+formations. We are also the nation’s third-largest carbon dioxide enhanced oil recovery (“EOR”)
+producer based on number of active projects. This position is underscored by our activity in our
+world-class North Burbank Unit in Osage County, Oklahoma, which is the largest oil recovery
+unit in the state.
+Our revenues, profitability and future growth depend substantially on prevailing prices for oil and
+natural gas and on our ability to find, develop and acquire oil and natural gas reserves that are
+economically recoverable. The preparation of our financial statements in conformity with
+generally accepted accounting principles (“GAAP”) requires us to make estimates and
+assumptions that affect our reported results of operations and the amount of our reported assets,
+liabilities and proved oil and natural gas reserves. We use the full cost method of accounting for
+our oil and natural gas activities.
+Generally, our producing properties have declining production rates. Our reserve estimates as of
+December 31, 2014 reflect that our production rate on current proved developed producing
+reserve properties will decline at annual rates of approximately 21%, 14% and 12% for the next
+three years. To grow our production and cash flow, we must find, develop and acquire new oil
+and natural gas reserves to replace those being depleted by production. Substantial capital
+expenditures are required to find, develop and acquire oil and natural gas reserves.
+Oil and natural gas prices fluctuate widely. We generally hedge a substantial portion of our
+expected future oil and natural gas production to reduce our exposure to commodity price
+decreases. The prices we receive for our oil and natural gas production affect our:
+•cash flow available for capital expenditures;
+•ability to borrow and raise additional capital;
+•ability to service debt;
+•quantity of oil and natural gas we can produce;
+•quantity of oil and natural gas reserves; and
+•operating results for oil and natural gas activities.
+Business and Industry Outlook
+Crude oil prices decreased significantly in the latter part of 2014 and have remained low in 2015,
+dropping to their lowest levels since March 2009. Management's plans and related capital
+projections for 2015 are reflective of lower commodity prices.
+In response to the decrease in crude oil prices, in February 2015 we began implementation of a
+Company-wide effort to decrease our capital, operating and administrative costs. Our cost
+reduction initiatives included a reduction in our workforce, which we initiated in February 2015
+and to date has encompassed 217 employees, of which 149 were located in the Oklahoma City
+headquarters office and 68 were located at various field offices. In connection with our workforce
+reduction, we recorded charges of $6.5 million and $0.3 million during the first and second
+quarters of 2015, respectively, related to one-time severance and termination benefits.
+Given the depressed commodity price environment, we have aggressively pursued price
+concessions from third-party service vendors. Based on cost reductions from service providers
+and improved operational efficiencies, we believe that we can achieve a target of $2.5 million to
+$3.0 million in drilling and completion costs per well, with recent results coming in at the lower
+end of the range.
+26
+Table of Contents
+As part of our cost reduction initiatives, we engaged third party legal and professional services for
+which we have incurred expenses of approximately $2.3 million during the first quarter of 2015
+and nil during the second quarter. As discussed below in “Liquidity and capital resources,” we
+are allowed to exclude up to $25.0 million of expenses incurred in connection with our cost
+reduction initiatives, including costs related to our workforce reduction, from our EBITDA-based
+covenant under our senior secured revolving credit facility.
+We have significantly reduced our 2015 capital expenditures budget compared to the amount
+spent in 2014. We reduced our operated rig count from 10 operated rigs at December 31, 2014 to
+one rig as of April 7, 2015 and continuing currently. While we have scaled back our 2015 drilling,
+we plan to continue the momentum of our long-term growth projects in our Mid-Continent area by
+focusing our drilling efforts in core areas of those plays that have the greatest potential to improve
+recoveries and rates of return. Approximately 85% - 90% of our planned 2015 non-acquisition
+related capital investments in our E&P Areas will be focused on the high-return Mississippian
+Lime and STACK plays. The STACK is characterized by resilient economics at lower prices and
+includes properties currently depicted within the Mississippian, Oswego and Woodford Shale
+E&P Areas in our “Results of operations— production volumes by area” table.
+In a further effort to capture gains associated with improved vendor price concessions, we have
+delayed many of our completions of newly drilled wells to the second half of the year.
+Specifically, out of 20 wells drilled and rig-released during the six months ended June 30, 2015,
+we have deferred completion of 17 wells to the second half of the year.
+Our 2015 capital budget was established based on an expectation of spending within available
+cash flows from operations, which included additional borrowings under our credit agreement
+during the first quarter as we reduced our accounts payable, followed by a partial pay-down of
+our borrowings in the second quarter. We expect to make further pay-downs on our senior
+secured credit facility during the second half of the year. We will continue to monitor our capital
+spending closely based on actual and projected cash flows and evaluate our liquidity and capital
+requirements accordingly.
+We deal with volatility in commodity prices primarily by maintaining flexibility in our capital
+investment program with a diversified drilling portfolio and limited long-term commitments, which
+enables us to respond quickly to industry price volatility, as well as by aggressively pursuing cost
+reductions in a market downturn. However, price volatility impacts our business in various other
+ways, including our full cost ceiling test calculation. The ceiling test calculation dictates that we
+use the unweighted arithmetic average price of crude oil and natural gas as of the first day of
+each month for the 12-month period ending on the balance sheet date. For the year ended
+December 31, 2014, those prices were $94.99 per Bbl for oil and $4.35 per MMBtu for natural
+gas, while the unweighted arithmetic average prices of crude oil and natural as of the first day of
+each month for the 12-month period through June 30, 2015 were $71.68 per Bbl and $3.39 per
+MMBtu, respectively. As a result of the decline in average prices, we recorded a ceiling test write-
+down of $217.6 million for the three months ended June 30, 2015. Since the prices used in the
+cost ceiling are based on a trailing 12-month period, the full impact of a sudden price decline is
+not recognized immediately. As prices decline, the economic performance of certain properties in
+the reserve estimate may deteriorate to the point that they are removed from the proved reserve
+category, thus reducing the quantity and value of proved reserves. The use of a 12-month
+average will tend to spread the impact of the price change on the financial statements over
+several reporting periods. If commodity prices remain at the current level, the average prices
+used in the ceiling test calculation will decline further and we expect to record significantly larger
+write-downs in the third and fourth quarter of 2015. Continued write-downs of oil and natural gas
+properties may occur until such time as commodity prices recover, and remain at recovered
+levels, so as to meaningfully increase the 12-month average price used in the ceiling test
+calculation. In addition to commodity prices, our production rates, levels of proved reserves,
+estimated future operating expenses, estimated future development costs, transfers of
+unevaluated properties and other factors will determine our actual ceiling test calculation and
+impairment analyses in future periods.
+27
+Table of Contents
+2015 Highlights
+During the second quarter of 2015, production decreased 10% to 2,580 MBoe compared to
+production of 2,859 MBoe during the second quarter of 2014, primarily due to our significant
+property divestitures, partially offset by our drilling activity and increased EOR production
+response. Revenue from commodity sales was $98.8 million lower in the second quarter of 2015
+compared to the second quarter in 2014, primarily as a result of the 46% decrease in average
+realized prices. During the second quarter of 2015, we recorded a ceiling test impairment of oil
+and gas properties of $217.6 million as a result of the substantial decline in 12-month average
+commodity prices. Additionally, due primarily to increases in the NYMEX forward commodity
+price curves during the current quarter, we had a non-hedge derivative loss of $41.6 million in the
+second quarter of 2015 compared to a $58.0 million non-hedge derivative loss during the same
+period last year. As a result of these and other factors, we reported a net loss of $189.0 million
+during the second quarter of 2015, compared to a net loss of $8.4 million for the comparable
+period in 2014.
+The following are material events that have impacted our liquidity or results of operations, and/or
+are expected to impact these items in future periods:
+Capital expenditures. Our oil and natural gas property capital expenditure budget for 2015 is
+expected to range from $175.0 million to $225.0 million. Our capital expenditures during the six
+months ended June 30, 2015 were $112.8 million, consisting primarily of $65.4 million in drilling
+and completion expenditures in our E&P Areas, $29.9 million for our EOR Project Areas and
+$9.8 million for the acquisition of oil and natural gas properties and leasehold.
+Senior secured revolving credit facility and liquidity. We entered into an amendment to our
+senior secured revolving credit facility effective April 1, 2015, pursuant to which our borrowing
+base was redetermined to $550.0 million and certain covenants were revised as discussed
+further in “Liquidity and Capital Resources—Senior secured revolving credit facility” and “Note 3
+—Long-term debt” in Item 1. Financial Statements and Supplementary Data of this report.
+Proved property impairments. Due to the substantial decline of commodity prices in late 2014,
+which remained low through June 30, 2015, the cost center ceiling exceeded the net capitalized
+cost of our oil and natural gas properties as of June 30, 2015, resulting in a ceiling test write-
+down during the second quarter of $217.6 million as further discussed in “Results of operations”
+and “Note 1—Nature of operations and summary of significant accounting policies” in Item 1.
+Financial Statements and Supplementary Data of this report.
+Results of operations
+Production
+Production volumes by area were as follows (MBoe):
+ 
+ 
+ 
+E&P Areas
+Mississippian
+Panhandle Marmaton
+Woodford Shale
+Oswego
+Legacy Production
+Areas
+1,695
+Total E&P Areas
+ 
+EOR Project Areas
+Active EOR Projects
+570
+Potential EOR Projects 306
+Total EOR Project Areas876
+Non-Core Properties
+Total
+Three months ended  
+June 30,
+ 
+ 
+2015
+   
+ 
+759
+  10.6
+  (37.0
+131
+  (7.9
+117
+98
+  19.5
+1,808
+   
+  458
+  322
+  780
+  271
+  2,859
+3,295
+   
+  853
+  664
+  1,517
+  638
+  5,450
+%  1,108
+)%  623
+ %  1,731
+)%  16
+)%  5,406
+29.5
+  (4.6
+  78.7
+  43.8
+(6.3
+   
+  24.5
+  (5.0
+  12.3
+  (96.7
+  (9.8
+11.0
+   
+  29.9
+  (6.2
+  14.1
+  (97.5
+  (0.8
+2014
+   
+  1,212
+  393
+  150
+  146
+2014
+   
+  686
+  208
+  127
+  82
+%  1,569
+)%  375
+)%  268
+ %  210
+(16.3
+)%  1,237
+1,394
+(11.3
+June 30,
+2015
+)%  3,659
+Percent
+change
+Six months ended
+Percent
+change
+%
+)%
+ %
+ %
+)%
+%
+%
+)%
+ %
+)%
+)%
+•
+•
+•
+590
+705
+9
+2,580
+28
+Table of Contents
+E&P Areas
+E&P Areas includes our Mississippian, Oswego and Woodford Shale plays in the STACK and
+Mississippian Lime, and the Panhandle Marmaton, which are our repeatable resource plays.
+E&P Areas also includes our Legacy Production Areas, which primarily include mature
+properties with low production decline curves. The majority of the properties in our Legacy
+Production Areas are located in and hold leasehold acreage for future exploration in our existing
+repeatable resource plays.
+The decrease in production in our E&P Areas for the three months ended June 30, 2015
+compared to the same period in 2014 is a direct result of the decrease in our capital program as
+well as our strategic delay in completing recently drilled wells until the third and fourth quarters of
+2015. With our continued drilling and development activities, production from our Mississippian
+play accounted for approximately 29% and 24% of our total production during the three months
+ended June 30, 2015 and 2014, respectively. The decrease in production in our Legacy
+Production Areas is primarily due to strategic divestitures and reduced capital spending within
+these areas.
+The increase in production in our E&P Areas for the six months ended June 30, 2015 compared
+to the same period in 2014 is primarily due to our drilling and development activities in our
+Mississippian and Woodford Shale plays, slightly offset
+by decreased production in our Legacy Production Areas. The Mississippian and Woodford
+Shale plays accounted for approximately 34%, and 25% of our total production during the six
+months ended June 30, 2015 and 2014, respectively. The
+decrease in production in our Legacy Production Areas is primarily due to strategic divestitures
+within these areas and reduced capital spending within these areas.
+EOR Project Areas
+Our EOR Project Areas include both currently Active EOR Projects and Potential EOR Projects.
+Potential EOR Projects have no current EOR production or reserves at June 30, 2015. Our Active
+EOR Project areas include properties that have proved EOR reserves, ongoing EOR operations,
+or that have an approved authorization for expenditure for EOR operations. Production increases
+in our Active EOR Projects for the three and six months ended June 30, 2015 compared to the
+same periods in 2014 were primarily due to production response in our North Burbank Unit and
+in our Farnsworth Unit.
+Non-Core Properties
+As discussed in our Annual Report on Form 10-K for the year ended December 31, 2014, we
+sold most of our our Ark-La-Tex, Permian Basin, and North Texas properties during 2014.
+Production decreases in our Non-Core Properties were primarily due to divestitures within these
+areas. The remaining production within our Non-Core Properties is primarily attributable to
+properties we still own in our Gulf Coast areas.
+Revenues
+Our commodity sales are derived from the sale of oil, natural gas and natural gas liquids
+production. These revenues do not include the effects of derivative instruments and may vary
+significantly from period to period as a result of changes in volumes of production sold or
+changes in commodity prices.
+29
+Table of Contents
+The following table presents information about our commodity sales before the effects of
+commodity derivative settlements:
+2,943
+12
+2014
+2014
+116
+16.4  %
+1,382
+1,528
+397
+394
+3
+0.8
+% 824
+708
+4,804
+5,622
+Percent
+change
+Percent
+change
+2,580
+2,859
+(279
+) (14.5 )% 9,762
+28,352  31,418
+(3,066
+) (9.8 )% 5,406
+10,795
+(1,033
+49,932
+(24,800
+) (57.1 )% 13,562
+27,989
+6,395
+14,921
+(8,526
+0.4  %
+(146
+(818
+(13,795
+) (55.7 )% 25,132
+(14,427
+) (51.5 )%
+June 30,
+2015
+Six months ended
+) (9.6 )% 2,955
+Increase /
+(Decrease)
+Increase /
+(Decrease)
+$94,210  $192,976  $(98,766 ) (51.2 )% $187,289  $366,315  $(179,026) (48.9 )%
+$76,830  $153,275  $(76,445 ) (49.9 )% $148,595  $288,394  $(139,799) (48.5 )%
+10,985  24,780
+) (49.7 )%
+Three months
+ended
+June 30,
+ 
+ 
+2015
+Commodity sales (in
+thousands)
+Oil
+Natural gas
+Natural gas
+liquids
+Total
+commodity
+sales
+Production
+Oil (MBbls)
+Natural gas
+(MMcf)
+Natural gas
+liquids
+(MBbls)
+MBoe
+Average daily
+production
+(Boe/d)
+Average sales prices (excluding derivative
+settlements)
+Oil per Bbl
+Natural gas
+per Mcf
+NGLs per Bbl $16.11  $37.87
+Average sales
+price per Boe
+Our total commodity sales decreased significantly during the three months ended June 30, 2015
+compared to the three months ended June 30, 2014 as a result of a decrease in the average
+price per Boe combined with a decrease in production volumes sold. Our total commodity sales
+decreased significantly during the six months ended June 30, 2015 compared to the six months
+ended June 30, 2014 as a result of a decrease in the average price per Boe combined with a
+slight decrease in production volumes sold. The impact of price and production volume changes
+on our commodity sales is disclosed in the table below.
+Production volumes sold decreased during the three months ended June 30, 2015 compared to
+the three months ended June 30, 2014 primarily a result of strategic divestitures of our Non-Core
+and Legacy Production Areas properties and the decline in production in wells that were
+producing as of June 30, 2014, which more than offset the new production from wells that were
+completed during the twelve months ended June 30, 2015 plus response from our EOR Project
+Areas. Average daily production volumes sold in our Mississippian play increased by
+approximately 802 Boe per day during the second quarter of 2015 compared to the second
+quarter of 2014, primarily as a result of our well completions. Average daily production volumes
+$55.59  $100.31  $(44.72
+) (44.6 )% $50.29
+$(21.76
+) (57.5 )% $16.46
+$(30.98
+) (45.9 )% $34.64
+$(23.07
+) (58.4 )%
+$(32.57
+) (48.5 )%
+) (9.8 )% 29,867
+) (48.1 )% $2.57
+$36.52  $67.50
+$97.99
+$(47.7
+$39.53
+$67.21
+$(2.06
+) (44.5 )%
+$2.29
+$4.41
+$(2.12
+30,110
+(243
+5,450
+(44
+) (0.8 )%
+) (0.8 )%
+) (48.7 )%
+) (9.6 )%
+$4.63
+sold in our Active EOR project areas increased by approximately 1,231 Boe per day during the
+second quarter of 2015 compared to the second quarter of 2014, primarily as a result of
+production response in our North Burbank Unit and in our Farnsworth Unit. These increases
+were partially offset by a decrease in average production volumes sold in our Non-Core
+Properties and our Legacy Production Areas, primarily due to strategic divestitures combined
+with declines in production and reduced drilling activity in these areas.
+Production volumes sold decreased slightly during the six months ended June 30, 2015
+compared to the six months ended June 30, 2014 primarily a result of strategic divestitures of our
+Non-Core and Legacy Production Areas properties and the decline in production in wells that
+were producing as of June 30, 2014 almost fully offset by the new production from wells that were
+completed during the twelve months ended June 30, 2015 plus response from our EOR Project
+Areas. Average daily production volumes sold in our Mississippian and Woodford Shale plays
+increased by approximately 1,972 Boe per day, and 652 Boe per day, respectively, during the six
+months ended June 30, 2015 compared to the six months ended June 30, 2014, primarily as a
+result of our recent well completions. Average daily production volumes sold in our Active EOR
+project areas increased by approximately 1,409 Boe per day during the six months ended June
+30, 2015 compared to the six months ended June 30, 2014, primarily as a result of production
+response in our North Burbank Unit and in our Farnsworth Unit. These increases were partially
+offset by a decrease in average production volumes sold in our Non-Core Properties and our
+Legacy Production Areas, primarily due to strategic divestitures combined with declines in
+production and reduced drilling activity in these areas.
+30
+Table of Contents
+The relative impact of changes in commodity prices and sales volumes on our oil, natural gas
+and natural gas liquids sales before the effects of hedging is shown in the following table:
+(in thousands)
+Three months ended June
+30,
+2015 vs. 2014
+Sales
+change
+Percentage
+change
+in sales
+Change in oil sales due to:
+Prices
+Production
+Total change in oil sales
+Change in natural gas sales due to:   
+Prices
+Production
+Total change in natural gas sales
+Change in natural gas liquids sales
+due to:
+Prices
+Production
+Total change in natural gas liquids
+sales
+$(61,800
+  (14,645
+  $(76,445
+$(10,190
+  (3,605
+  $(13,795
+$(8,640
+  114
+$(8,526
+)  (40.3
+)  (9.6
+)  (49.9
+   
+)  (41.2
+)  (14.5
+)  (55.7
+)  (57.9
+  0.8
+)  (57.1
+Six months ended June 30,
+2015 vs. 2014
+Sales
+change
+Percentage
+change
+in sales
+)%   $(140,975 )  (48.9
+)%   1,176
+)%   $(139,799 )  (48.5
+0.4
+)%   $(20,022
+)%   (4,778
+)%   $(24,800
+)  (40.1
+)  (9.6
+)  (49.7
+)%   $(19,013
+ %   4,586
+)  (67.9
+  16.4
+)%   $(14,427
+)  (51.5
+)%
+ %
+)%
+)%
+)%
+)%
+)%
+ %
+)%
+Derivative activities
+Our results of operations, financial condition and capital resources are highly dependent upon
+the prevailing market prices of, and demand for, oil and natural gas. These commodity prices are
+subject to wide fluctuations and market uncertainties. To mitigate a portion of this exposure, we
+enter into various types of derivative instruments, including commodity price swaps, costless
+collars, put options, and basis protection swaps.
+Entering into derivative instruments allows us to predict with greater certainty the effective prices
+we will receive for associated oil and natural gas production. We closely monitor the fair value of
+our derivative contracts and may elect to settle a contract prior to its scheduled maturity date in
+order to lock in a gain or loss. Our derivative activities are dynamic to allow us to respond to the
+volatile commodity markets.
+Our realized prices are impacted by realized gains and losses resulting from commodity
+derivatives contracts. The following table presents information about the effects of derivative
+settlements on realized prices: 
+ 
+ 
+ 
+Oil (per Bbl)(1):
+Before derivative settlements
+After derivative settlements (2)
+Post-settlement to pre-settlement price
+Natural gas (per Mcf):
+Before derivative settlements
+After derivative settlements (2)
+Post-settlement to pre-settlement price
+(1)Includes natural gas liquids.
+Three months ended
+June 30,
+2015
+ 
+$46.78
+$67.26
+143.8 %  93.9
+   
+ 
+  $4.41
+$2.29
+$3.61
+  $3.89
+157.6 %  88.2
+Six months ended
+  June 30,
+  2015
+   
+  $42.91
+  $66.91
+%  155.9
+$2.57
+  $3.86
+%  150.2
+2014
+   
+  $86.66
+  $82.96
+%  95.7
+$4.63
+  $3.84
+%  82.9
+2014
+   
+  $87.51
+  $82.15
+%
+%
+(2)
+Does not include settlements received from the early monetization of our derivative contracts
+discussed below.
+31
+Table of Contents
+The estimated fair values of our oil and natural gas derivative instruments are provided below.
+The associated carrying values of these instruments are equal to the estimated fair values.
+(in thousands)
+June 30, 
+2015
+December 31,
+2014
+Derivative assets (liabilities):
+Natural gas swaps
+Oil swaps
+Oil collars
+Oil enhanced swaps
+Oil purchased puts
+Natural gas basis differential swaps
+Net derivative assets
+The effects of derivative activities on our results of operations and cash flows were as follows for
+the periods indicated:
+$30,306
+  10,242
+  1,679
+  71,952
+  38,675
+  (123
+  $152,731   $ 251,554
+$ 32,939
+  23,465
+  1,175
+  100,724
+  93,268
+)  (17
+Three months ended June 30,
+)
+(in thousands)
+Non-hedge derivative gains (losses):
+Oil swaps, collars, enhanced swaps and
+puts
+Natural gas swaps
+Natural gas basis differential contracts
+Non-hedge derivative (losses) gains
+(in thousands)
+2015
+2014
+Non-cash
+fair value
+ 
+adjustment
+Cash
+receipts
+(payments)
+Non-cash
+fair value
+ 
+adjustment
+Cash
+receipts
+(payments)
+(75,670 )  36,428
+(47,292 )  (10,305
+)  6,151
+)  211
+(7,536
+  (1,164
+  (84,370 )  42,790
+  Six months ended June 30,
+  2015
+2014
+2,836
+  (313
+  (44,769 )  (13,227
+(3,689
+)  767
+)
+)
+)
+Non-cash
+fair value
+ 
+adjustment
+Cash
+receipts
+(payments)
+Non-cash
+fair value
+ 
+adjustment
+Cash
+receipts
+(payments)
+(1,707
+  (2,174
+)  (8,378
+)  (105
+)  17,724
+)  120
+$(96,085 )  $100,831   $(61,332 )  $(13,499 )
+Non-hedge derivative gains (losses):
+Oil swaps, collars, enhanced swaps and
+puts
+)
+  (2,633
+Natural gas swaps
+)
+  (106
+Natural gas basis differential contracts
+Non-hedge derivative (losses) gains
+  $(98,824 )  $118,675   $(65,213 )  $(21,982 )
+We do not apply hedge accounting to any of our derivative instruments. As a result, all gains and
+losses associated with our derivative contracts are recognized immediately as non-hedge
+derivative gains (losses) in our consolidated statements of operations. Non-hedge derivative
+gains (losses) were $(41.6) million during the three months ended June 30, 2015 compared to
+$(58.0) million during the three months ended June 30, 2014. Non-hedge derivative gains
+(losses) were $19.9 million during the six months ended June 30, 2015 compared to $(87.2)
+million during the six months ended June 30, 2014. The fluctuation in non-hedge derivative gains
+(losses) from period to period is due primarily to the significant volatility of oil and natural gas
+prices and to changes in our outstanding derivative contracts during these periods.
+On March 26, 2015, we entered into early settlements of certain oil and natural gas derivative
+contracts originally scheduled to settle between 2015 to 2017 covering 495,000 barrels of oil and
+12,280 Bbtu of natural gas for net proceeds of $15,395 in order to maintain compliance with the
+hedging limits imposed by covenants under our senior secured credit facility. The proceeds are
+included in the cash receipts related to the gains (losses) from derivative activities in the table
+above.
+32
+Table of Contents
+Lease operating expenses
+Three months
+ended June 30,
+2015
+ 2014
+Increase /
+(Decrease)
+Percent
+change
+Six months ended
+June 30,
+2015
+2014
+Increase /
+(Decrease)
+Percent
+change
+Lease operating expenses (in thousands,
+$7.64
+$8.74
+$9.11
+$ (1.10
+$ (1.81
+) (14.2 )%
+) (19.9 )%
+) (2.1 )%
+) (12.6 )% $7.30
+$10.62  $12.27  $ (1.65
+$16.43  $21.69  $ (5.26
+$27,408  $35,080  $ (7,672 ) (21.9 )% $59,040  $68,735  $ (9,695 ) (14.1 )%
+$13,016  $18,164  $ (5,148 ) (28.3 )% $26,836  $35,828  $ (8,992 ) (25.1 )%
+) (13.4 )% $10.92  $12.61  $ (1.69
+) (24.3 )% $18.60  $21.69  $ (3.09
+$14,392  $16,916  $ (2,524 ) (14.9 )% $32,204  $32,907  $ (703
+except per Boe data)
+E&P Areas
+EOR Project
+Areas
+Total lease
+operating
+expense
+Lease operating
+expenses per Boe
+E&P Areas
+EOR Project
+Areas
+Lease operating
+expenses per
+Boe
+Lease operating costs are sensitive to changes in demand for field equipment, services, and
+qualified operational personnel, which is driven by demand for oil and natural gas. However, the
+timing of changes in operating costs may lag behind changes in commodity prices. Our EOR
+projects are more expensive to operate than traditional industry operations due to the nature of
+operations along with the costs of recovery and recycling of CO2.
+Our E&P Areas lease operating expenses on an absolute dollar basis and a per Boe basis
+decreased during the three months and six months ended June 30, 2015 compared to the three
+and six months ended June 30, 2014, primarily as a result of the divestiture of certain non-core
+assets with higher operating costs, temporary shut-in of marginal wells due to the current low
+price environment, cost reductions from third party service providers and improved operational
+efficiencies, partially offset by the incremental cost associated with new wells added during the
+last twelve months.
+Our EOR Project Areas lease operating expenses decreased during the three and six months
+ended June 30, 2015 compared to the three and six months ended June 30, 2014, primarily due
+to temporary shut-in of marginal wells due to the current low price environment, cost reductions
+from third party service providers and improved operational efficiencies offset partially by
+additional costs associated with expansion of our EOR floods at our North Burbank and
+Farnsworth units during the last twelve months. Our EOR Project Areas lease operating
+expenses on a per Boe basis decreased, primarily as a result of these factors combined with the
+overall increase in production volumes between periods.
+Transportation and processing expenses
+) (13.4 )%
+Increase /
+(Decrease)
+Percent
+change
+Six months
+ended June 30,
+2015
+2014
+Increase /
+(Decrease)
+Percent
+change
+Three months
+ended June 30,
+2015
+2014
+$1,972  $1,484  $ 488
+Transportation and
+processing
+expenses (in
+thousands)
+Transportation and
+processing
+expenses per Boe
+Transportation and processing expenses principally consist of expenditures to prepare and
+transport production from the wellhead to a specified sales point and gas processing costs. Our
+32.9 %  $4,344  $2,850  $ 1,494
+46.2 %  $0.80  $0.52  $ 0.28
+$0.76  $0.52  $ 0.24
+52.4 %
+53.8 %
+transportation and processing expenses increased during the three and six months ended June
+30, 2015 compared to the three and six months ended June 30, 2014 as a result of the overall
+increase in natural gas liquids volumes processed in between periods primarily from our
+participation interests in wells drilled in the Cana Woodford Shale during the last twelve months.
+33
+Table of Contents
+Production taxes (which include ad valorem taxes)
+Three months
+ended June 30,
+2015
+2014
+Increase /
+(Decrease)
+Percent
+change
+Six months
+ended June 30,
+2015
+2014
+Increase /
+(Decrease)
+Percent
+change
+$ (1.18
+) (43.4 )%
+$1.49  $2.85  $ (1.36
+) (47.7 )% $1.54  $2.72
+$3,844  $8,159  $ (4,315 ) (52.9 )% $8,328  $14,802  $ (6,474 ) (43.7 )%
+Production taxes
+(in thousands)
+Production taxes
+per Boe
+Production taxes generally change in proportion to commodity sales. Some states offer
+exemptions or reduced production tax rates for horizontal drilling, enhanced recovery projects
+and high cost gas wells. In Oklahoma, new wells currently qualify for a tax incentive and are
+taxed at a lower rate of 1% during their initial 48 months of production. Recent legislation
+increases the tax incentive rate to 2% for the initial 36 months of production for wells spudded on
+or after July 1, 2015. After the incentive period expires, the tax rate reverts to the statutory rate.
+Our production taxes decreased during the three and six months ended June 30, 2015 compared
+to the three and six months ended June 30, 2014 primarily due to our significant decline in
+revenues as a result of depressed commodity prices in the current year. Also contributing to the
+decline were our strategic divestitures of wells in our Non-Core Properties and Legacy
+Production Areas, which generally had higher tax rates, and reduced tax rates for horizontal
+drilling and our EOR projects.
+Depreciation, depletion and amortization (“DD&A”)
+Three months
+ended June 30,
+ 2014
+2015
+Increase /
+(Decrease)
+Percent
+change
+Six months ended
+June 30,
+2015
+2014
+Increase /
+(Decrease)
+Percent
+change
+DD&A (in
+thousands):
+Oil and natural
+gas properties
+Property and
+equipment
+Accretion of
+asset
+retirement
+obligation
+Total DD&A
+DD&A per Boe: 
+Oil and natural
+gas properties
+Other fixed
+$53,276  $59,829  $ (6,553 ) (11.0 )% $115,172  $111,988  $ 3,184
+2.8
+%
+2,309
+871
+2,536
+(227
+) (9.0 )% 4,693
+5,053
+(360
+)  (7.1 )%
+989
+(118
+) (11.9 )% 1,802
+2,063
+(261
+)  (12.7 )%
+$56,456  $63,354  $ (6,898 ) (10.9 )% $121,667  $119,104  $ 2,563
+$20.65  $20.93  $ (0.28
+) (1.3 )% $21.30
+$20.55
+$ 0.75
+2.2
+3.6
+%
+%
+$ —
+$1.23
+$1.31
+2.9
+%
+$1.23
+$ 0.64
+$21.86
+$ (0.11
+)  (8.4 )%
+—  % $1.20
+) (1.3 )% $22.50
+$21.88  $22.16  $ (0.28
+assets
+Total DD&A
+per Boe
+We adjust our DD&A rate on oil and natural gas properties each quarter for significant changes in
+our estimates of oil and natural gas reserves and costs. Thus, our DD&A rate could change
+significantly in the future.
+DD&A on oil and natural gas properties decreased $6.6 million for the three months ended June
+30, 2015, compared to the three months ended June 30, 2014, of which $5.9 million was due to a
+decrease in production and $0.7 million was due to a lower rate per equivalent unit of production.
+Our DD&A rate per equivalent unit of production decreased for the three months ended June 30,
+2015 primarily due to lower estimated future development costs, which were realized in the
+second quarter, offset by the decrease in our average reserves as a result of the prevailing lower
+price commodity environment and an increase in our capitalized amortization base, which
+included the transfer of amounts from unevaluated oil and gas properties to proved oil and
+natural gas properties in the last twelve months.
+DD&A on oil and natural gas properties increased $3.2 million for the six months ended June 30,
+2015, compared to the six months ended June 30, 2014, of which $4.1 million was due to a
+higher rate per equivalent unit of production offset partially by $0.9 million due to a decrease in
+production. Our DD&A rate per equivalent unit of production increased for the six months ended
+June 30, 2015, primarily due to the decrease in our average reserves as a result of the prevailing
+lower price commodity environment and an increase in our capitalized amortization base, offset
+by lower estimated future development costs.
+34
+Table of Contents
+Asset impairments
+Increase /
+(Decrease)
+Percent
+ 
+change
+Six months
+ended June 30,
+ 2015
+2014
+Increase /
+(Decrease)
+Percent
+change
+2014
+Three months
+ended June 30,
+ 
+2015
+Asset impairments (in
+thousands)
+Loss on
+impairment of oil
+and natural gas
+assets
+Loss on
+impairment of
+other assets
+13,311
+—
+$217,562  $ —  $217,562  n/a
+$217,562  $ —  $217,562  n/a
+13,311
+n/a
+13,311
+—
+13,311
+n/a
+Property impairments. Due to the substantial decline of commodity prices in late 2014, which
+remained low through June 30, 2015, the cost center ceiling exceeded the net capitalized cost of
+our oil and natural gas properties as of June 30, 2015, resulting in a ceiling test write-down
+during the second quarter of $217.6 million. If commodity prices remain at the current level, the
+average prices used in the ceiling test calculation will decline further and we expect to record
+significantly larger write-downs in the third and fourth quarter of 2015. Continued write-downs of
+oil and natural gas properties may occur until such time as commodity prices recover, and remain
+at recovered levels, so as to meaningfully increase the 12-month average price used in the
+ceiling test calculation. In addition to commodity prices, our production rates, levels of proved
+reserves, estimated future operating expenses, estimated future development costs, transfers of
+unevaluated properties and other factors will determine our actual ceiling test calculation and
+impairment analyses in future periods.
+A contributing factor to the ceiling test write-down above were impairments of unevaluated oil
+and gas properties, which resulted in a transfer of amounts from unevaluated oil and natural gas
+properties to the full cost amortization base. Impairments of unevaluated oil and gas properties
+increased $90.5 million in 2015 to $96.2 million. This included $87.4 million recognized in the
+second quarter as a result of changes in management’s estimates of undeveloped properties not
+expected to be developed before lease expiration in response to the significant decrease in
+crude oil prices which has altered our drilling plans combined with lower than expected results
+for certain exploratory activities primarily in our Panhandle Marmaton area.
+Impairment of other assets. There were no impairment losses on other assets for the three and
+six months ended June 30, 2014. We recorded impairment losses of $13.3 million for the three
+and six months ended June 30, 2015 of which $6.0 million related to impairments of our stacked
+drilling rigs and $7.3 million related to a market adjustment on our equipment inventory. We own
+four stacked drilling rigs of which one was last deployed in January 2015 while the remaining
+three have been stacked for two to three years. As a result of the recent deterioration in
+commodity prices and reduced drilling activity, the value of such equipment has declined while
+utilizing third party equipment has become more cost effective, resulting in us impairing the value
+of the rigs to their estimated fair value. We had previously recorded $3.5 million and $1.5 million
+of impairment related to these rigs during the years ended December 31, 2013 and 2012,
+respectively. The industry conditions described above have also caused the demand for
+equipment utilized in drilling to decrease, resulting in lower market prices for such equipment.
+The market adjustment on our equipment inventory reflects the decrease in market prices.
+General and administrative expenses (“G&A”)
+Three months
+ended June 30,
+2015
+ 2014
+Increase /
+(Decrease)
+Percent
+change
+Six months ended
+June 30,
+2015
+2014
+Increase /
+(Decrease)
+Percent
+change
+$12,492  $22,725  $(10,233 ) (45.0 )% $24,524  $42,865  $(18,341 ) (42.8 )%
+(3,232 ) (7,733 ) 4,501
+$9,260  $14,992  $(5,732
+(58.2 )% (6,070 ) (14,486 ) 8,416
+(58.1 )%
+) (38.2 )% $18,454  $28,379  $(9,925
+) (35.0 )%
+$362
+n/a
+$9,136  $—
+$9,136
+n/a
+G&A and cost reduction initiatives
+(in thousands):
+Gross G&A
+expenses
+Capitalized
+exploration and
+development
+costs
+Net G&A
+expenses
+Cost reduction
+initiatives
+Net G&A and
+cost reduction
+initiatives
+expense
+Average G&A
+expense per
+$362
+$—
+$3.59
+$9,622  $14,992  $(5,370
+) (35.8 )% $27,590  $28,379  $(789
+) (2.8 )%
+$5.24
+$(1.65
+) (31.5 )% $3.41
+$5.21
+$(1.80
+) (34.5 )%
+Boe
+Average G&A
+and cost
+reduction
+initiatives
+expense per
+Boe
+35
+$3.73
+$5.24
+$(1.51
+) (28.8 )% $5.10
+$5.21
+$(0.11
+) (2.1 )%
+Table of Contents
+Gross G&A expenses decreased during the three and six months ended June 30, 2015,
+compared to the three and six months ended June 30, 2014, primarily due to lower compensation
+and benefits costs and forfeitures of deferred compensation awards. Compensation and benefits
+were lower due to lower headcount subsequent to our workforce reduction and due to the lower
+commodity price environment.
+Capitalized exploration and development costs decreased between periods primarily due to a
+lower proportion of compensation costs subject to capitalization as we have reduced our
+exploration, acquisition and development activities in this low commodity price environment.
+Cost reduction initiatives includes expenses related to our efforts to reduce our capital, operating
+and administrative costs in response to the recent deterioration of commodity prices. Included in
+our expenses for cost reduction initiatives are $0.4 million and $6.9 million for the three and six
+months ended June 30, 2015, respectively, in one-time severance and termination benefits in
+connection with our reduction in force that was implemented in February 2015. The remaining
+cost reduction expense is a result of third party legal and professional services we have engaged
+to assist in these initiatives. As discussed below in “Liquidity and capital resources,” we are
+allowed to exclude up to $25.0 million of expenses incurred in connection with our cost reduction
+initiatives, including costs related to our workforce reduction, from our EBITDA-based covenant
+under our senior secured revolving credit facility.
+Our G&A expenses on a Boe basis decreased for the three and six months ended June 30, 2015
+compared to the three months ended June 30, 2014 primarily due to these same factors offset
+partially by the decrease in overall production volumes between periods.
+Other income and expenses
+Interest expense. The following table presents interest expense for the periods indicated:
+  Three months ended
+  Six months ended
+ 
+  June 30,
+  June 30,
+ 
+  2015
+(in thousands)
+  2015
+  $7,722
+  $15,436
+9.875% Senior Notes due 2020
+  8,435
+  16,866
+8.25% Senior Notes due 2021
+  10,559
+7.625% Senior Notes due 2022
+  21,113
+  2,779
+  4,943
+Senior secured revolving credit facility
+  1,207
+  2,518
+Bank fees and other interest
+  (2,810
+Capitalized interest
+)  (6,272
+  $27,892
+Total interest expense
+  $54,604
+Average long-term borrowings
+  $1,734,346   $1,563,499   $1,714,574   $1,569,727
+Total interest expense for the three and six months ended June 30, 2015 increased 6% and 4%,
+respectively, compared to the same periods in 2014 primarily due to increased levels of
+2014
+  $7,690
+  8,420
+  10,540
+  1,645
+  1,256
+)  (3,348
+  $26,203
+2014
+  $15,373
+  16,836
+  21,074
+  3,064
+  2,605
+)  (6,290
+  $52,662
+)
+borrowing on our senior secured revolving credit facility and reduced capitalized interest.
+Liquidity and capital resources
+Historically, our primary sources of liquidity have been cash generated from our operations, debt,
+private equity sales and proceeds from asset dispositions. As of June 30, 2015, we had cash and
+cash equivalents of $27.6 million and had borrowed $427.0 million under our senior secured
+revolving credit facility with a borrowing base of $550.0 million. As of August 12, 2015, we had
+borrowed $409.0 million under our senior secured revolving credit facility.
+We believe that we will have sufficient funds available through our cash from operations,
+proceeds from asset divestitures and borrowing capacity under our revolving line of credit to meet
+our normal recurring operating needs, debt service obligations, capital requirements and
+contingencies for the next 12 months.
+All of our sources of liquidity can be impacted by the general condition of the broader economy
+and by fluctuations in commodity prices, operating costs, and volumes produced, all of which
+affect us and our industry. We have no control over the market prices for oil, gas, or NGLs,
+although we are able to influence the amount of our realized revenues from our oil, gas, and NGL
+sales through the use of derivative contracts as part of our commodity price risk management
+program. Historically, decreases in commodity prices have limited our industry’s access to capital
+markets. The borrowing base under our credit
+36
+Table of Contents
+facility has been and could be further reduced as a result of lower commodity prices and
+divestitures of proved properties. Beginning in the third quarter of 2014 and continuing into the
+present, oil, natural gas and NGL commodity prices declined significantly and are expected to
+fluctuate in the future. We deal with volatility in commodity prices primarily by our derivative
+hedging program and maintaining flexibility in our capital investment program with a diversified
+drilling portfolio and limited long-term commitments, which enables us to respond quickly to
+industry price volatility, as well as aggressively pursuing cost reductions in a market downturn.
+The profitability of the oil and gas operations and the ability to realize recorded asset values is
+dependent on the success of future development plans and projected long-term market
+conditions.
+Sources and uses of cash
+Our net change in cash is summarized as follows:
+ 
+ 
+(in thousands)
+Cash flows provided by operating activities
+Cash flows used in investing activities
+Cash flows provided by (used in) financing
+activities
+Net decrease in cash during the period
+Our cash flows from operating activities is derived substantially from the production and sale of
+oil and natural gas. Our cash flows from operating activities were lower in the current year due to
+a decrease in commodity sales driven by lower prices on all our commodities.
+When available, we use the net cash provided by operations to partially fund our acquisition,
+exploration and development activities. Our acquisition, exploration and development activities
+Six months ended
+  June 30,
+  2015
+  $16,975   $182,517   $(165,542)  (90.7
+  (96,666 )  (171,117 )  74,451
+  (43.5
+Increase /
+ 
+(Decrease)
+$(3,935 )  $(13,145 )  $9,210
+Percent
+Change
+75,756
+(24,545 )  100,301
+(408.6 )%
+2014
+)%
+)%
+(70.1
+)%
+and our payments of accounts payable for the six months ended June 30, 2015 were funded by
+settlement proceeds from our derivative instruments, borrowings from our senior secured
+borrowing credit facility and cash flows from operations.
+Our cash flows from investing activities is comprised primarily of cash inflows from asset
+dispositions and derivative settlement receipts offset by cash outflows for capital expenditures
+and derivative settlement payments.
+Our actual costs incurred, including costs that we have accrued for, and our budgeted 2015
+capital expenditures for oil and natural gas properties during the six months ended June 30, 2015
+are summarized in the table below.
+(in thousands)
+Acquisitions
+Drilling
+Enhancements
+Pipeline and field
+infrastructure
+CO2 purchases
+Total
+___________
+E&P
+Areas
+$9,820
+  65,394
+  7,628
+EOR
+Project
+Areas
+ 
+ $—
+ —
+ 6,457
+Total
+$9,820
+ 65,394
+ 14,085
+2015 Capital Expenditures
+Budget Range (1)(2)
+ High
+ Low
+ 15,000
+ $20,000
+ 132,000
+ 102,000
+ 27,000
+ 34,000
+—
+14,119
+14,119
+13,000
+16,000
+—
+  $82,842  $29,947
+9,371
+9,371
+ $112,789  $175,000
+18,000
+23,000
+ $225,000
+Approximately two-thirds of our budgeted amount for enhancements and all of our budgeted
+amounts for pipeline and field infrastructure and CO2 purchases are allocated to our EOR
+project areas.
+Budget categories presented include allocations of capitalized interest and general and
+administrative expenses.
+(1)
+(2)
+As discussed in our Annual Report on Form 10-K for the year ended December 31, 2014, our
+initial estimate of capital expenditures by area and category were at the low end of our capital
+expenditures budget. We currently anticipate that our capital expenditures for 2015 will trend
+towards the mid-point of our capital expenditures budget with the most significant increase in
+drilling for funding participation interests in non-operated wells drilled in the STACK.
+Net cash used in investing activities during the six months ended June 30, 2015 was comprised
+of cash outflows for capital expenditure of $222.7 million, partially offset by cash inflows from
+derivative settlement receipts of $118.7 million and asset dispositions of $7.4 million. Our cash
+outflows for capital expenditure is greater than our actual costs incurred for the period, disclosed
+in the table above, as a result of payments in the current period for expenditures accrued at the
+end of the prior year. Net cash used in investing activities during the six months ended June 30,
+2014 was comprised primarily of cash outflows
+37
+Table of Contents
+for capital expenditure of $322.3 million and derivative settlement payments of $22.0 million,
+partially offset by cash inflows from asset dispositions of $173.2 million.
+Cash flows from financing activities is comprised primarily of cash inflows from long-term debt
+borrowings, offset by cash outflows from repayments of long-term debt and capital leases. During
+the six months ended June 30, 2015, we borrowed $120.0 million on our long-term debt and
+made repayments of $41.7 million on our long-term debt and $1.2 million on our capital leases.
+We also paid $1.4 million in bank fees in connection with the amendment to our senior secured
+credit facility discussed below. During the six months ended June 30, 2014, we borrowed $111.3
+million on our long-term debt and made repayments of $134.7 million on our long-term debt and
+$1.1 million on our capital leases.
+Indebtedness
+Long-term debt consists of the following as of the dates indicated:
+(in thousands)
+June 30,
+2015
+December 31,
+2014
+554,467
+554,869
+400,000
+400,000
+$295,454
+$ 295,139
+347,000
+  10,705
+  4,252
+  21,837
+427,000
+  10,447
+  2,860
+  20,648
+  $1,710,876   $ 1,633,802
+9.875% Senior Notes due 2020, net of discount of $4,546 and
+$4,861, respectively
+8.25% Senior Notes due 2021
+7.625% Senior Notes due 2022, including premium of $4,467 and
+$4,869, respectively
+Senior secured revolving credit facility
+Real estate mortgage notes
+Installment notes
+Capital lease obligations
+ 
+Please see “Note 5—Long-term debt” in Item 8. Financial Statement and Supplementary Data of
+our Annual Report on Form 10-K for the year ended December 31, 2014 for a discussion of
+material terms governing our senior notes and senior secured revolving credit facility.
+Senior secured revolving credit facility
+We maintain a senior secured revolving credit facility, which is collateralized by our oil and
+natural gas properties, and matures on November 1, 2017. As of June 30, 2015, we have $427.0
+million of outstanding borrowings under our senior secured revolving credit facility. Our
+borrowing base on the facility decreased from $650.0 million to $550.0 million effective April 1,
+2015
+Availability under our senior secured revolving credit facility is subject to a borrowing base which
+is set by the banks semi-annually on May 1 and November 1 of each year. In addition, the
+lenders may request a borrowing base redetermination once between each scheduled
+redetermination and in the event of early termination of our derivative contracts. The banks
+establish a borrowing base by making an estimate of the collateral value of our oil and natural
+gas properties. If oil and natural gas prices decrease from the amounts used in estimating the
+collateral value of our oil and natural gas properties, the borrowing base may be reduced, thus
+reducing funds available under the borrowing base.
+38
+Table of Contents
+Our senior secured revolving credit facility requires us to maintain a current ratio, as defined in
+our senior secured revolving credit facility, of not less than 1.0 to 1.0. The definition of current
+assets and current liabilities used for determination of the current ratio computed for loan
+compliance purposes differs from current assets and current liabilities determined in compliance
+with GAAP. Since compliance with financial covenants is a material requirement under our
+senior secured revolving credit facility, we consider the current ratio calculated under our senior
+secured revolving credit facility to be a useful measure of our liquidity because it includes the
+funds available to us under our senior secured revolving credit facility and is not affected by the
+volatility in working capital caused by changes in the fair value of derivatives. The following table
+discloses the current ratio for our loan compliance compared to the ratio calculated per GAAP.
+(dollars in thousands)
+)
+)
+)
+)
+December 31,
+2014
+June 30, 
+2015
+ $230,389  $ 339,898
+ 122,126
+ 302,080
+ (109,067 ) (179,921
+ $243,448  $ 462,057
+ $148,451  $ 328,366
+ (87
+ (1,124
+) (77
+) (4,147
+(41,740
+) (65,799
+1.79
+ 1.04
+$105,500  $ 258,343
+ 2.31
+ 1.55
+Current assets per GAAP
+Plus—Availability under senior secured revolving credit facility
+Less—Short-term derivative instruments
+Current assets as adjusted
+Current liabilities per GAAP
+Less—Short-term derivative instruments
+Less—Short-term asset retirement obligations
+Less—Deferred tax liability on derivative instruments and asset
+retirement obligations
+Current liabilities as adjusted
+Current ratio for loan compliance
+Current ratio per GAAP
+We entered into an amendment to our senior secured revolving credit facility (the “Fifteenth
+Amendment”) effective April 1, 2015. Among other things, the amendment replaced the
+Consolidated Net Debt to Consolidated EBITDAX covenant with a covenant based on the ratio of
+Consolidated Net Secured Debt to Consolidated EBITDAX, as defined in the Fifteenth
+Amendment. Under this covenant, we are required to maintain a ratio of Consolidated Net
+Secured Debt to Consolidated EBITDAX no greater than 2.25 to 1.0 for each period of four
+consecutive fiscal quarters ending on the last day of such applicable fiscal quarter. For the same
+applicable periods, the Fifteenth Amendment also requires us to maintain an Interest Coverage
+Ratio, as defined in the Fifteenth Amendment, of no less than 2.00 to 1.00. The Fifteenth
+Amendment revised the definition of Consolidated EBITDAX to exclude up to $25.0 million in
+expenses incurred subsequent to January 1, 2015, in connection with our cost reduction
+initiatives, transition, business optimization and other restructuring charges. The charges we
+have incurred to date under this category are described above under “Results of operations -
+General and administrative expenses.” Under the Fifteenth Amendment, we are also allowed to
+incur an additional $300.0 million in Additional Permitted Debt, as defined in the Fifteenth
+Amendment to now include both secured and unsecured debt.
+As of June 30, 2015, availability under our senior secured revolving credit facility was limited to
+$122.1 million, which was not limited by the Consolidated Net Secured Debt to Consolidated
+EBITDAX ratio.
+Capital Leases
+During 2013, we entered into lease financing agreements with U.S. Bank National Association
+for $24.5 million through the sale and subsequent leaseback of existing compressors owned by
+us. The carrying value of these compressors is included in our oil and natural gas full cost pool.
+The lease financing obligations are for 84-month terms and include the option to purchase the
+equipment for a specified price at 72 months as well as an option to purchase the equipment at
+the end of the lease term for its then-current fair market value. Lease payments related to the
+equipment are recognized as principal payments and interest expense.
+Asset divestitures and alternative capital sources
+As discussed in our Annual Report on Form 10-K for the year ended December 31, 2014, during
+2014 we sold various oil and natural gas properties primarily located in our Ark-La-Tex, Permian
+Basin, and North Texas areas. Our asset sales in 2014 generated a total of $291.4 million in
+cash. Proceeds from our property sales provide us with an additional source of liquidity to pay
+down borrowings under our senior secured revolving credit facility, fund capital expenditures and
+for general corporate purposes. Our planned capital expenditures for 2015 will be funded, in part,
+by $35.0 million of anticipated proceeds we expect to generate from asset divestitures, most
+which are expected to occur in the second half of the year. Our external sources of
+39
+Table of Contents
+liquidity in the future may include asset sales, additional public or private issuances of common
+or preferred stock, or project financing. While we believe we would be able to obtain funds
+through one or more of these alternative sources if needed, we cannot provide assurance that
+these resources would be available on terms acceptable to us.
+Contractual Obligations
+We have numerous contractual commitments in the ordinary course of business including debt
+service requirements, operating leases, capital leases and purchase obligations. Our operating
+leases primarily relate to CO2 recycle compressors at our EOR facilities and office equipment
+while our capital leases are related to the sale and subsequent leaseback of compressors. Our
+purchase obligations primarily relate to contracts for the purchase of CO2, drilling rig services,
+pipe and equipment.
+Other than additional borrowings under our senior secured credit facility during the six months
+ended June 30, 2015, there were no material changes to our contractual commitments since
+December 31, 2014.
+Non-GAAP financial measure and reconciliation
+Management uses adjusted EBITDA as a supplemental financial measurement to evaluate our
+operational trends. Items excluded generally represent non-cash adjustments, the timing and
+amount of which cannot be reasonably estimated and are not considered by management when
+measuring our overall operating performance. In addition, adjusted EBITDA is generally
+consistent with the Consolidated EBITDAX calculation that is used in the covenant ratio required
+under our senior secured revolving credit facility described in the Liquidity and Capital
+Resources section of Management’s Discussion and Analysis of Financial Condition and
+Results of Operations. We consider compliance with this covenant to be material. Adjusted
+EBITDA is used as a supplemental financial measurement in the evaluation of our business and
+should not be considered as an alternative to net income, as an indicator of our operating
+performance, as an alternative to cash flows from operating activities, or as a measure of liquidity.
+Adjusted EBITDA is not defined under GAAP and, accordingly, it may not be a comparable
+measurement to those used by other companies.
+We define adjusted EBITDA as net income, adjusted to exclude (1) asset impairments,
+(2) interest and other financing costs, net of capitalized interest, (3) income taxes,
+(4) depreciation, depletion and amortization, (5) non-cash change in fair value of non-hedge
+derivative instruments, (6) interest income, (7) stock-based compensation expense, (8) gain or
+loss on disposed assets, (9) upfront premiums paid on settled derivative contracts,
+(10) impairment charges, and (11) expenses associated with our cost reduction initiatives,
+transition, business optimization and other restructuring charges not to exceed $25.0 million in
+2015 (as allowed under our senior secured revolving credit facility) and (12) other significant,
+unusual non-cash charges.
+The following table provides a reconciliation of our net income (loss) to adjusted EBITDA for the
+specified periods:
+(in thousands)
+Net loss
+Interest expense
+Income tax benefit
+Depreciation, depletion, and amortization
+Non-cash change in fair value of non-hedge
+derivative instruments
+Upfront premiums paid on settled derivative
+contracts
+Interest income
+Stock-based compensation expense
+Gain on sale of assets
+Loss on impairment of assets
+Cost reduction initiatives expense
+Adjusted EBITDA
+40
+Table of Contents
+Three months ended
+June 30,
+Six months ended June
+30,
+2014
+2015
+2015
+  $(189,036)  $(8,433 )  $(184,788)  $(4,028 )
+  27,892
+  26,203
+  (115,095 )  (5,054
+  56,456
+  63,354
+54,604
+  52,662
+)  (112,538 )  (2,419
+  121,667
+119,104
+2014
+)
+84,370
+44,769
+98,824
+65,213
+—
+(166
+)  —
+(332
+(25
+  910
+  (1,292
+  230,873
+  362
+  $95,415
+)  (56
+  1,022
+)  (727
+  —
+  —
+  $120,912   $216,246   $231,578
+)  (148
+  (13
+)  (1,371
+  230,873
+  9,136
+)  (71
+)  2,260
+)  (811
+  —
+  —
+)
+)
+)
+Critical accounting policies
+For a discussion of our critical accounting policies, which remain unchanged, see
+“Management’s Discussion and Analysis of Financial Condition and Results of Operations” in
+our Annual Report on Form 10-K for the year ended December 31, 2014.
+Also see the footnote disclosures included in “Note 1—Nature of operations and summary of
+significant accounting policies” in Item 1. Financial statements of this report.
+Recent accounting pronouncements
+See recently adopted and issued accounting standards in “Note 1—Nature of operations and
+summary of significant accounting policies” in Item 1. Financial statements of this report.
+41
+Table of Contents
+ITEM 3.QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+Commodity prices. Our financial condition, results of operations and capital resources are highly
+dependent upon the prevailing market prices of, and demand for, oil and natural gas. These
+commodity prices are subject to wide fluctuations and market uncertainties due to a variety of
+factors that are beyond our control. We cannot predict future oil and natural gas prices with any
+degree of certainty. Sustained declines in oil and natural gas prices may adversely affect our
+financial condition and results of operations, and may also reduce the amount of net oil and
+natural gas reserves that we can produce economically. Any reduction in reserves, including
+reductions due to price fluctuations, can reduce our borrowing base under our senior secured
+revolving credit facility and adversely affect our liquidity and our ability to obtain capital for our
+acquisition, exploration and development activities. Based on our production for the six months
+ended June 30, 2015, our gross revenues from oil and natural gas sales would change
+approximately $3.8 million for each $1.00 change in oil and natural gas liquid prices and $1.0
+million for each $0.10 change in natural gas prices.
+To mitigate a portion of our exposure to fluctuations in commodity prices, we enter into various
+types of derivative instruments, including commodity price swaps, enhanced swaps, costless
+collars, put options, and basis protection swaps. We currently do not apply hedge accounting to
+any of our derivative instruments. As a result, all gains and losses associated with our derivative
+contracts are recognized immediately as non-hedge derivative gains (losses) in the consolidated
+statements of operations. This can have a significant impact on our results of operations due to
+the volatility of the underlying commodity prices. Please see “Note 4—Derivative instruments” in
+Item 1. Financial statements of this report for further discussion of our derivative instruments.
+Derivative positions are adjusted in response to changes in prices and market conditions as part
+of an ongoing dynamic process. We review our derivative positions continuously and if future
+market conditions change, we may execute a cash settlement with our counterparty, restructure
+the position, or enter into a new swap that effectively reverses the current position (a counter-
+swap). The factors we consider in closing or restructuring a position before the settlement date
+are identical to those we reviewed when deciding to enter into the original derivative position.
+42
+Table of Contents
+Our outstanding crude oil derivative instruments as of June 30, 2015 are summarized below:
+Volume
+MBbls
+150
+Weighted average fixed price per Bbl
+Sold
+calls
+Purchased
+puts
+Swaps
+Sold
+puts
+$95.12   $—   $ —
+1,305
+$92.48   $—   $ —
+150
+$94.03   $—   $ —
+1,305
+$92.48   $—   $ —
+Period and type of contract
+July - September 2015
+Swaps
+Swaps with deferred premium
+(1)
+October - December 2015
+Swaps
+Swaps with deferred premium
+(1)
+January - March 2016
+Three-way collars
+Enhanced swaps (2)
+Purchased puts (2)
+April - June 2016
+Three-way collars
+Enhanced swaps (2)
+Purchased puts (2)
+July - September 2016
+Three-way collars
+Enhanced swaps (2)
+Purchased puts (2)
+Average
+Premium
+$ —
+$ 13.80
+$ —
+$ 13.80
+$—
+$—
+$—
+$—
+60
+  960
+  960
+   
+  60
+  960
+  960
+   
+  60
+  900
+  900
+$—   $84.00   $ 92.00
+  $92.98   $80.50   $ —
+  $—   $—   $ 60.00
+   
+  $—   $84.00   $ 92.00
+  $92.98   $80.50   $ —
+  $—   $—   $ 60.00
+   
+  $—   $84.00   $ 92.00
+  $92.91   $80.53   $ —
+  $—   $—   $ 60.00
+$101.01   $ —
+  $ —
+  $—
+  $ 5.54
+  $—
+   
+   
+  $101.01   $ —
+  $ —
+  $—
+  $—
+  $ 5.54
+   
+   
+  $101.01   $ —
+  $—
+  $ —
+  $ 5.54
+  $—
+October - December 2016
+Three-way collars
+Enhanced swaps (2)
+Purchased puts (2)
+___________
+60
+  900
+  900
+$—   $84.00   $ 92.00
+  $92.91   $80.53   $ —
+  $—   $—   $ 60.00
+$101.01   $ —
+  $—
+  $ —
+  $ 5.54
+  $—
+(1)
+(2)
+As a result of the deferred premiums, the above 2,610,000 barrels of crude oil production in
+2015 are hedged at an average effective price of $78.68/barrel.
+Total premiums of $20.6 million for the purchased puts were paid at contract inception in
+December 2014. Excluding the premiums and utilizing an average NYMEX strip price of
+$61.90 for 2016 as of June 30, 2015, the average realized price from our 3,720,000 barrels of
+hedged production that have associated sold puts and purchased puts is $74.32/barrel. In the
+event that crude oil prices are below $60.00/barrel, which is indicated by the average NYMEX
+strip price for 2016 as of August 10, 2015, the purchase of these put options established a floor
+on the realized price for these hedged volumes of $72.42/barrel.
+43
+Table of Contents
+Our outstanding natural gas derivative instruments as of June 30, 2015 are summarized below: 
+Weighted
+average
+fixed price
+per MMBtu
+Period and type of contract
+Volume
+BBtu
+July - September 2015
+Natural gas swaps
+Natural gas basis protection swaps
+October - December 2015
+Natural gas swaps
+Natural gas basis protection swaps
+January - March 2016
+Natural gas swaps
+Natural gas basis protection swaps
+April - June 2016
+Natural gas swaps
+Natural gas basis protection swaps
+July - September 2016
+Natural gas swaps
+Natural gas basis protection swaps
+October - December 2016
+Natural gas swaps
+Natural gas basis protection swaps
+January - March 2017
+Natural gas swaps
+3,980
+  3,600
+ 
+  3,940
+  3,600
+ 
+  3,950
+  2,100
+ 
+  3,300
+  2,100
+ 
+  3,300
+  2,100
+ 
+  3,450
+  2,100
+ 
+  3,730
+$ 4.15
+  $ 0.24
+ 
+  $ 4.24
+  $ 0.24
+ 
+  $ 4.30
+  $ 0.36
+ 
+  $ 4.10
+  $ 0.36
+ 
+  $ 4.13
+  $ 0.36
+ 
+  $ 4.19
+  $ 0.36
+ 
+  $ 3.72
+2,790
+ 
+  3,300
+ 
+  2,880
+ 
+  2,390
+ 
+  2,010
+ 
+  1,960
+ 
+  1,890
+April - July 2017
+  $ 3.52
+Natural gas swaps
+ 
+July - September 2017
+  $ 3.58
+Natural gas swaps
+ 
+October - December 2017
+  $ 3.71
+Natural gas swaps
+ 
+January - March 2018
+  $ 3.98
+Natural gas swaps
+ 
+April - July 2018
+  $ 3.68
+Natural gas swaps
+ 
+July - September 2018
+  $ 3.74
+Natural gas swaps
+ 
+October - December 2018
+Natural gas swaps
+  $ 3.90
+During July 2015, we entered into swaps covering 520,000 barrels of oil, scheduled to settle
+ratably between September and December 2015, with an average notional price of $50.43 per
+barrel, which offset our existing swaps disclosed in the table above. By entering into offset
+positions for these volumes, we have locked-in the difference between the contract price of our
+prior swaps and the contract price of our recent swaps, which we will receive when the contracts
+settle. In addition, we also entered into collars covering 260,000 barrels of oil, scheduled to settle
+ratably between September and October 2015, at a call price of $57.50 per barrel and a put price
+of $47.50 barrel and purchased puts covering 260,000 barrels of oil, scheduled to settle ratably
+between November and December 2015, at a price of $47.50 barrel. The collars and the puts
+were purchased for a total premium of $1.2 million, payable upon settlement of the contracts.
+44
+Table of Contents
+Interest rates. All of the outstanding borrowings under our senior secured revolving facility as of
+June 30, 2015 are subject to market rates of interest as determined from time to time by the
+banks. We may elect to borrow under our senior secured revolving credit facility at either
+Eurodollar rate, which is linked to LIBOR, or the ABR. Loans subject to the ABR bear interest at a
+fluctuating rate that is linked to the greater of (1) the Prime Rate, as defined in our senior secured
+revolving credit facility, (2) the Federal Funds Effective Rate, as defined in the senior secured
+revolving credit facility, plus 0.50%, or (3) the Adjusted LIBO rate, as defined in our senior
+secured revolving credit facility, plus 1%. Any increases in these rates can have an adverse
+impact on our results of operations and cash flow. Assuming a constant debt level of $550.0
+million, equal to our borrowing base at June 30, 2015, the cash flow impact for a 12-month period
+resulting from a 100 basis point change in interest rates would be $5.5 million.
+ITEM 4.CONTROLS AND PROCEDURES
+Disclosure controls and procedures
+We have established disclosure controls and procedures to ensure that material information
+relating to us, including our consolidated subsidiaries, is made known to the officers who certify
+our financial reports and to other members of senior management and the board of directors.
+Based on their evaluation as of the end of the period covered by this quarterly report, our
+principal executive officer and principal financial officer have concluded that our disclosure
+controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act)
+are effective to ensure that the information required to be disclosed by us in the reports that we
+file or submit under the Exchange Act is recorded, processed, summarized and reported within
+the time periods specified in SEC rules and forms and are effective to ensure that information
+required to be disclosed in such reports is accumulated and communicated to our management,
+including our principal executive officer and principal financial officer, to allow timely decisions
+regarding required disclosure.
+Internal control over financial reporting
+There were no changes in our internal control over financial reporting that occurred during the
+most recent fiscal quarter that have materially affected, or are reasonably likely to materially
+affect, our internal control over financial reporting. We may make changes in our internal control
+procedures from time to time.
+PART II—OTHER INFORMATION
+ITEM 1.LEGAL PROCEEDINGS
+Please see “Note 8—Commitments and contingencies” in Item 1. Financial statements of this
+report for a discussion of our material legal proceedings. In our opinion, there are no other
+material pending legal proceedings to which we are a party or of which any of our property is the
+subject. However, due to the nature of our business, certain legal or administrative proceedings
+may arise from time to time in the ordinary course of business. While the outcome of these legal
+matters cannot be predicted with certainty, we do not expect them to have a material adverse
+effect on our financial condition, results of operations or cash flows.
+ITEM 1A.RISK FACTORS
+Studies by both state or federal agencies demonstrating a correlation between earthquakes and
+oil and natural gas activities could result in increased regulatory and operational burdens
+In our Annual Report on Form 10-K for the year ended December 31, 2014, filed March 31, 2015,
+we stated that some parties believe there is a correlation between the operation of underground
+injection wells for the disposal of produced water and the increased occurrence of earthquakes in
+Oklahoma, but that the results of state and federal studies on the existence of a correlation are
+uncertain.  On April 21, 2015, the Oklahoma Geologic Survey (“OGS”) issued a document entitled
+“Statement of Oklahoma Seismicity,” in which the agency states “[t]he OGS considers it very
+likely that the majority of recent earthquakes, particularly those in central and north-central
+Oklahoma, are triggered by the injection of produced water in disposal wells.” The Oklahoma
+Corporation Commission has issued a directive affecting more than 500 disposal wells in 21
+Oklahoma counties restricting injection of high volumes of water into formations below the
+Arbuckle formation into the crystalline basement.  We do not operate a disposal well affected by
+the directives. This development may result in additional levels of regulation, or increased
+complexity with respect to existing regulations, that could lead to operational delays or
+45
+Table of Contents
+increased operating costs and could result in additional regulatory burdens that could make it
+more difficult to inject produced water into disposal wells, and may increase our costs of
+compliance and doing business.
+Information with respect to other risk factors that we may encounter is included under Item 1A. of
+our Annual Report on Form 10-K for the year ended December 31, 2014. Other than the above,
+there have been no material changes to the risk factors since the filing of such Form 10-K.
+46
+Table of Contents
+ITEM 5.OTHER INFORMATION
+None.
+ITEM 6.EXHIBITS
+ 
+Exhibit No.  Description
+Second Amended and Restated Certificate of Incorporation of Chaparral Energy,
+Inc. (the “Company”), dated as of April 12, 2010. (Incorporated by reference to
+Exhibit 3.1 to the Company’s Annual Report on Form 10-K filed on April 14, 2010)
+ 
+Second Amended and Restated Bylaws of the Company, dated as of April 12,
+2010. (Incorporated by reference to Exhibit 3.2 to the Company’s Annual Report
+on Form 10-K filed on April 14, 2010)
+ 
+Fifteenth Amendment to Eighth Restated Credit Agreement dated as of April 1,
+2015 (Incorporated by reference to Exhibit 10.1 of the Company's Quarterly Report
+on Form 10-Q filed on May 12, 2015).
+ 
+Certification by Chief Executive Officer required by Rule 13a-14(a) and 15d-14(a)
+under the Exchange Act
+ 
+Certification by Chief Financial Officer required by Rule 13a-14(a) and 15d-14(a)
+under the Exchange Act
+ 
+Certification by Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as
+adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+ 
+Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as
+adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+ 
+XBRL Instance Document
+ 
+XBRL Taxonomy Extension Schema Document
+ 
+XBRL Taxonomy Extension Calculation Linkbase Document
+ 
+XBRL Taxonomy Extension Definition Linkbase Document
+3.1*
+3.2*
+10.1*
+31.1
+31.2
+32.1
+32.2
+101.INS  
+ 
+ 
+101.SCH  
+ 
+ 
+101.CAL  
+ 
+ 
+101.DEF
+101.LAB  
+ 
+ 
+101.PRE  
+ 
+ 
+* Incorporated by reference
+XBRL Taxonomy Extension Label Linkbase Document
+ 
+XBRL Taxonomy Extension Presentation Linkbase Document
+47
+Table of Contents
+/s/ Mark A. Fischer
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly
+caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+ 
+CHAPARRAL ENERGY, INC.
+ 
+By:
+Name:Mark A. Fischer
+Title: Chief Executive Officer
+ 
+ 
+By:
+Name:Joseph O. Evans
+(Principal Executive Officer)
+ 
+/s/ Joseph O. Evans
+Title:
+Chief Financial Officer and
+Executive Vice President
+(Principal Financial Officer and
+Principal Accounting Officer)
+Date: August 12, 2015
+48
+Table of Contents
+EXHIBIT INDEX
+Exhibit No.  Description
+3.1*
+3.2*
+Second Amended and Restated Certificate of Incorporation of Chaparral Energy,
+Inc. (the “Company”), dated as of April 12, 2010. (Incorporated by reference to
+Exhibit 3.1 to the Company’s Annual Report on Form 10-K filed on April 14, 2010)
+ 
+Second Amended and Restated Bylaws of the Company, dated as of April 12,
+2010. (Incorporated by reference to Exhibit 3.2 to the Company’s Annual Report
+on Form 10-K filed on April 14, 2010)
+10.1*
+31.1
+31.2
+32.1
+32.2
+Fifteenth Amendment to Eighth Restated Credit Agreement dated as of April 1,
+2015 (Incorporated by reference to Exhibit 10.1 of the Company's Quarterly Report
+on Form 10-Q filed on May 12, 2015).
+ 
+Certification by Chief Executive Officer required by Rule 13a-14(a) and 15d-14(a)
+under the Exchange Act
+ 
+Certification by Chief Financial Officer required by Rule 13a-14(a) and 15d-14(a)
+under the Exchange Act
+ 
+Certification by Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as
+adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+ 
+Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as
+adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+ 
+XBRL Instance Document
+ 
+XBRL Taxonomy Extension Schema Document
+ 
+XBRL Taxonomy Extension Calculation Linkbase Document
+ 
+XBRL Taxonomy Extension Definition Linkbase Document
+ 
+XBRL Taxonomy Extension Label Linkbase Document
+ 
+XBRL Taxonomy Extension Presentation Linkbase Document
+101.INS  
+ 
+ 
+101.SCH  
+ 
+ 
+101.CAL  
+ 
+ 
+101.DEF  
+ 
+ 
+101.LAB  
+ 
+ 
+101.PRE  
+ 
+ 
+* Incorporated by reference
+49

@@ -1,0 +1,370 @@
+
+<SEC-DOCUMENT>0001469709-15-000518.txt : 20150915
+<SEC-HEADER>0001469709-15-000518.hdr.sgml : 20150915
+<ACCEPTANCE-DATETIME>20150915172141
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+EFFECTIVENESS DATE:
+NT 10-Q
+1
+20150731
+0001469709-15-000518
+20150915
+20150915
+20150915
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: OIL AND GAS FIELD EXPLORATION
+MIDWEST OIL & GAS INC.
+0001486315
+SERVICES [1382]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+271614533
+NV
+0131
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 000-54666
+FILM NUMBER:
+NT 10-Q
+1934 Act
+151108402
+BUSINESS ADDRESS:
+STREET 1:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+400 WEST SYCAMORE STREET
+INDEPENDENCE
+KS
+67301
+855-200-6964
+MAIL ADDRESS:
+STREET 1:
+CITY:
+STATE:
+ZIP:
+FORMER COMPANY:
+400 WEST SYCAMORE STREET
+INDEPENDENCE
+KS
+67301
+FORMER CONFORMED NAME: Americas Diamond Corp.
+DATE OF NAME CHANGE:
+20121011
+FORMER COMPANY:
+FORMER CONFORMED NAME: IMPACT EXPLORATIONS INC.
+DATE OF NAME CHANGE:
+20100304
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>NT 10-Q
+<SEQUENCE>1
+<FILENAME>mwognt10q_073115apg.htm
+<DESCRIPTION>MWOG NT 10-Q 07/31/15
+<TEXT>
+<HTML>
+<head><title>MWOG NT 10-Q 07/31/15</title> </head> <body style="FONT-SIZE:10pt; 
+FONT-FAMILY:Times New Roman; COLOR:#000000; MARGIN-TOP:0px"> <div 
+style=WIDTH:681px> <p style=MARGIN:0px><br><br><br></p></div> <table 
+style="FONT-SIZE:10pt; MARGIN-TOP:0px" cellpadding=0 cellspacing=0 align=center>
+<tr style=FONT-SIZE:0px> <td width=685 /> <tr> <td width=685 style=MARGIN-
+TOP:0px rowspan=3> <p style=MARGIN:0px align=center><b>UNITED 
+STATES<br>SECURITIES AND EXCHANGE COMMISSION<br>Washington, D.C. 
+&nbsp;20549</b></p></td></tr> <tr /> <tr /></table> <div align=center> <div
+style=WIDTH:681px> <p style=MARGIN:0px align=left><br></p> <div align=left> 
+<table style="FONT-SIZE:10pt; MARGIN-TOP:0px" cellpadding=0 cellspacing=0> <tr 
+style=FONT-SIZE:0px> <td width=313> <td width=214 /> <tr> <td width=313 
+style="BORDER-RIGHT:#000000 1px solid; MARGIN-TOP:0px" valign=top> <p 
+style="FONT-SIZE:14pt; MARGIN:0px" align=center><b>FORM 12b-25</b></p></td> <td 
+width=214 style="BORDER-TOP:#000000 1px solid; BORDER-RIGHT:#000000 1px solid; 
+BORDER-BOTTOM:#000000 1px solid; MARGIN-TOP:0px" valign=top> <p style=MARGIN:0px
+align=center><b>SEC FILE NUMBER<br></b><font style=FONT-SIZE:11pt><b>000-
+54666</b></font></p></td></tr> <tr> <td width=313 style="BORDER-RIGHT:#000000 
+1px solid; MARGIN-TOP:0px" valign=top> <p style="FONT-SIZE:14pt; PADDING-
+BOTTOM:0px; PADDING-TOP:0px; PADDING-LEFT:0px; MARGIN:0px; PADDING-
+RIGHT:0px">&nbsp;</p></td> <td width=214 style="BORDER-RIGHT:#000000 1px solid; 
+BORDER-BOTTOM:#000000 1px solid; MARGIN-TOP:0px" valign=top> <p style="MARGIN-
+BOTTOM:0px; MARGIN-TOP:3px" align=center><b>CUSIP 
+NUMBER&nbsp;<br></b></p></td></tr></table></div> <p style=MARGIN:0px 
+align=left><br></p></div></div> <table style="FONT-SIZE:10pt; MARGIN-TOP:0px" 
+cellpadding=0 cellspacing=0 align=center> <tr style=FONT-SIZE:0px> <td width=91>
+<td width=66> <td width=44> <td width=15> <td width=69> <td width=12> <td 
+width=97> <td width=49> <td width=47> <td width=97> <td width=50> <td 
+width=56 /> <tr> <td width=697 colspan=12 style=MARGIN-TOP:0px valign=top> <p 
+style="FONT-SIZE:13pt; MARGIN:0px" align=center><b>NOTIFICATION OF LATE 
+FILING</b></p></td></tr> <tr> <td width=91 style=MARGIN-TOP:0px valign=top> <p 
+style="MARGIN-BOTTOM:0px; FONT-SIZE:10.5pt; MARGIN-TOP:6px" 
+align=center><i>(Check one):</i></p></td> <td width=110 colspan=2 style=MARGIN-
+TOP:0px valign=top> <p style="MARGIN-BOTTOM:0px; MARGIN-TOP:6px">[ &nbsp;&nbsp;]
+Form 10-K</p></td> <td width=97 colspan=3 style=MARGIN-TOP:0px valign=top> <p 
+style="MARGIN-BOTTOM:0px; MARGIN-TOP:6px">[ &nbsp;] Form 20-F</p></td> <td 
+width=97 style=MARGIN-TOP:0px valign=top> <p style="MARGIN-BOTTOM:0px; MARGIN-
+TOP:6px">[ &nbsp;] Form 11-K</p></td> <td width=97 colspan=2 style=MARGIN-
+TOP:0px valign=top> <p style="MARGIN-BOTTOM:0px; MARGIN-TOP:6px">[X] Form 10-
+Q</p></td> <td width=97 style=MARGIN-TOP:0px valign=top> <p style="MARGIN-
+BOTTOM:0px; MARGIN-TOP:6px">[ &nbsp;] Form 10-D</p></td> <td width=107 colspan=2
+style=MARGIN-TOP:0px valign=top> <p style="MARGIN-BOTTOM:0px; MARGIN-
+TOP:6px">[ &nbsp;] Form N-SAR</p></td></tr> <tr> <td width=91 style=MARGIN-
+TOP:0px valign=top> <p style="FONT-SIZE:10.5pt; PADDING-BOTTOM:0px; PADDING-
+TOP:0px; PADDING-LEFT:0px; MARGIN:0px; PADDING-RIGHT:0px">&nbsp;</p></td> <td 
+width=110 colspan=2 style=MARGIN-TOP:0px valign=top> <p style="MARGIN-
+BOTTOM:0px; MARGIN-TOP:3px">[ &nbsp;] Form N-CSR</p></td> <td width=97 colspan=3
+style=MARGIN-TOP:0px valign=top> <p style="PADDING-BOTTOM:0px; PADDING-TOP:0px; 
+PADDING-LEFT:0px; MARGIN:0px; PADDING-RIGHT:0px">&nbsp;</p></td> <td width=97 
+style=MARGIN-TOP:0px valign=top> <p style="PADDING-BOTTOM:0px; PADDING-TOP:0px; 
+PADDING-LEFT:0px; MARGIN:0px; PADDING-RIGHT:0px">&nbsp;</p></td> <td width=97 
+colspan=2 style=MARGIN-TOP:0px valign=top> <p style="PADDING-BOTTOM:0px; 
+PADDING-TOP:0px; PADDING-LEFT:0px; MARGIN:0px; PADDING-
+RIGHT:0px">&nbsp;</p></td> <td width=97 style=MARGIN-TOP:0px valign=top> <p 
+style="PADDING-BOTTOM:0px; PADDING-TOP:0px; PADDING-LEFT:0px; MARGIN:0px; 
+PADDING-RIGHT:0px">&nbsp;</p></td> <td width=107 colspan=2 style=MARGIN-TOP:0px 
+valign=top> <p style="PADDING-BOTTOM:0px; PADDING-TOP:0px; PADDING-LEFT:0px; 
+MARGIN:0px; PADDING-RIGHT:0px">&nbsp;</p></td></tr> <tr> <td width=91 
+style=MARGIN-TOP:0px valign=top> <p style="FONT-SIZE:10.5pt; PADDING-BOTTOM:0px;
+PADDING-TOP:0px; PADDING-LEFT:0px; MARGIN:0px; PADDING-
+RIGHT:0px">&nbsp;</p></td> <td width=126 colspan=3 style=MARGIN-TOP:0px 
+valign=top> <p style="MARGIN-BOTTOM:0px; MARGIN-TOP:3px">For Period 
+Ended</p></td> <td width=480 colspan=8 style="BORDER-BOTTOM:#000000 1px solid; 
+MARGIN-TOP:0px" valign=top> <p style="MARGIN-BOTTOM:0px; FONT-SIZE:11pt; MARGIN-
+TOP:3px"><b>July 31, 2015</b></p></td></tr> <tr> <td width=91 style=MARGIN-
+TOP:0px valign=top> <p style="FONT-SIZE:10.5pt; PADDING-BOTTOM:0px; PADDING-
+TOP:0px; PADDING-LEFT:0px; MARGIN:0px; PADDING-RIGHT:0px">&nbsp;</p></td> <td 
+width=66 style=MARGIN-TOP:0px valign=top> <p style="MARGIN-BOTTOM:0px; MARGIN-
+TOP:3px" align=center>[ &nbsp;]</p></td> <td width=540 colspan=10 style=MARGIN-
+TOP:0px valign=top> <p style="MARGIN-BOTTOM:0px; FONT-SIZE:11pt; MARGIN-
+TOP:3px">Transition Report on Form 10-K</p></td></tr> <tr> <td width=91 
+style=MARGIN-TOP:0px valign=top> <p style="FONT-SIZE:10.5pt; PADDING-BOTTOM:0px;
+PADDING-TOP:0px; PADDING-LEFT:0px; MARGIN:0px; PADDING-
+RIGHT:0px">&nbsp;</p></td> <td width=66 style=MARGIN-TOP:0px valign=top> <p 
+style="MARGIN-BOTTOM:0px; MARGIN-TOP:3px" align=center>[ &nbsp;]</p></td> <td 
+width=540 colspan=10 style=MARGIN-TOP:0px valign=top> <p style="MARGIN-
+BOTTOM:0px; FONT-SIZE:11pt; MARGIN-TOP:3px">Transition Report on Form 20-
+F</p></td></tr> <tr> <td width=91 style=MARGIN-TOP:0px valign=top> <p 
+style="FONT-SIZE:10.5pt; PADDING-BOTTOM:0px; PADDING-TOP:0px; PADDING-LEFT:0px; 
+MARGIN:0px; PADDING-RIGHT:0px">&nbsp;</p></td> <td width=66 style=MARGIN-TOP:0px
+valign=top> <p style="MARGIN-BOTTOM:0px; MARGIN-TOP:3px" 
+align=center>[ &nbsp;]</p></td> <td width=540 colspan=10 style=MARGIN-TOP:0px 
+valign=top> <p style="MARGIN-BOTTOM:0px; FONT-SIZE:11pt; MARGIN-
+TOP:3px">Transition Report on Form 11-K</p></td></tr> <tr> <td width=91 
+style=MARGIN-TOP:0px valign=top> <p style="FONT-SIZE:10.5pt; PADDING-BOTTOM:0px;
+PADDING-TOP:0px; PADDING-LEFT:0px; MARGIN:0px; PADDING-
+RIGHT:0px">&nbsp;</p></td> <td width=66 style=MARGIN-TOP:0px valign=top> <p 
+style="MARGIN-BOTTOM:0px; MARGIN-TOP:3px" align=center>[ &nbsp;]</p></td> <td 
+width=540 colspan=10 style=MARGIN-TOP:0px valign=top> <p style="MARGIN-
+BOTTOM:0px; FONT-SIZE:11pt; MARGIN-TOP:3px">Transition Report on Form 10-
+Q</p></td></tr> <tr> <td width=91 style=MARGIN-TOP:0px valign=top> <p 
+style="FONT-SIZE:10.5pt; PADDING-BOTTOM:0px; PADDING-TOP:0px; PADDING-LEFT:0px; 
+MARGIN:0px; PADDING-RIGHT:0px">&nbsp;</p></td> <td width=66 style=MARGIN-TOP:0px
+valign=top> <p style="MARGIN-BOTTOM:0px; MARGIN-TOP:3px" 
+align=center>[ &nbsp;]</p></td> <td width=540 colspan=10 style=MARGIN-TOP:0px 
+valign=top> <p style="MARGIN-BOTTOM:0px; FONT-SIZE:11pt; MARGIN-
+TOP:3px">Transition Report on Form N-SAR</p></td></tr> <tr> <td width=91 
+style=MARGIN-TOP:0px valign=top> <p style="FONT-SIZE:10.5pt; PADDING-BOTTOM:0px;
+PADDING-TOP:0px; PADDING-LEFT:0px; MARGIN:0px; PADDING-
+RIGHT:0px">&nbsp;</p></td> <td width=195 colspan=4 style=MARGIN-TOP:0px 
+valign=top> <p style="MARGIN-BOTTOM:0px; MARGIN-TOP:3px">For the Transition 
+Period Ended</p></td> <td width=410 colspan=7 style="BORDER-BOTTOM:#000000 1px 
+solid; MARGIN-TOP:0px" valign=top> <p style="PADDING-BOTTOM:0px; PADDING-
+TOP:0px; PADDING-LEFT:0px; MARGIN:0px; PADDING-
+RIGHT:0px">&nbsp;</p></td></tr></table> <div align=center> <div 
+style=WIDTH:681px> <p style="MARGIN-BOTTOM:0px; MARGIN-TOP:6px" 
+align=left><b>Nothing in this form shall be construed to imply that the 
+Commission has verified any information contained herein.</b></p> <p 
+style="MARGIN-BOTTOM:0px; MARGIN-TOP:6px" align=left>If the notification relates
+to a portion of the filing checked above, identify the Item(s) to which the 
+notification relates:</p> <p style=MARGIN:0px align=left><br></p></div></div> 
+<table style="FONT-SIZE:10pt; MARGIN-TOP:0px" cellpadding=0 cellspacing=0 
+align=center> <tr style=FONT-SIZE:0px> <td width=685 /> <tr> <td width=685 
+style="BORDER-TOP:#000000 1px solid; MARGIN-TOP:0px" valign=top> <p 
+style="MARGIN-BOTTOM:0px; FONT-SIZE:11pt; MARGIN-TOP:14px"><b>PART I - 
+REGISTRANT INFORMATION</b></p></td></tr> <tr> <td width=685 style="BORDER-
+BOTTOM:#000000 1px solid; MARGIN-TOP:0px" valign=top> <p style="MARGIN-
+BOTTOM:0px; FONT-SIZE:11pt; MARGIN-TOP:14px"><b>MIDWEST OIL &amp; GAS 
+INC.</b></p></td></tr> <tr> <td width=685 style=MARGIN-TOP:0px valign=top> <p 
+style=MARGIN:0px>Full Name of Registrant</p></td></tr> <tr> <td width=685 
+style="BORDER-BOTTOM:#000000 1px solid; MARGIN-TOP:0px" valign=top> <p 
+style="MARGIN-BOTTOM:0px; FONT-SIZE:11pt; MARGIN-TOP:14px"><b>(Not 
+applicable)</b></p></td></tr> <tr> <td width=685 style=MARGIN-TOP:0px 
+valign=top> <p style=MARGIN:0px>Former Name if Applicable</p></td></tr> <tr> <td
+width=685 style="BORDER-BOTTOM:#000000 1px solid; MARGIN-TOP:0px" valign=top> <p
+style="MARGIN-BOTTOM:0px; FONT-SIZE:11pt; MARGIN-TOP:14px"><b>400 West Sycamore 
+Street</b></p></td></tr> <tr> <td width=685 style=MARGIN-TOP:0px valign=top> <p 
+style=MARGIN:0px>Address of Principal Executive Office <i>(Street and 
+Number)</i></p></td></tr> <tr> <td width=685 style="BORDER-BOTTOM:#000000 1px 
+solid; MARGIN-TOP:0px" valign=top> <p style="MARGIN-BOTTOM:0px; FONT-SIZE:11pt; 
+MARGIN-TOP:14px"><b>Independence, Kansas 67301</b></p></td></tr> <tr> <td 
+width=685 style=MARGIN-TOP:0px valign=top> <p style=MARGIN:0px>City, State and 
+Zip Code</p></td></tr></table> <div align=center> <div style=WIDTH:681px> <p 
+style="MARGIN-BOTTOM:0px; FONT-SIZE:11pt; MARGIN-TOP:14px" 
+align=justify><br><b>PART II - RULES 12b-25(b) AND (c)</b></p> <p style="MARGIN-
+BOTTOM:0px; MARGIN-TOP:13px" align=justify>If the subject
+ report could not be filed without unreasonable effort or expense and the
+registrant seeks relief pursuant to Rule 12b-25(b), the following should be 
+completed. &nbsp;(Check box if appropriate).</p> <p style=MARGIN:0px 
+align=justify><br></p></div></div> <table style="FONT-SIZE:10pt; MARGIN-TOP:0px"
+cellpadding=0 cellspacing=0 align=center> <tr style=FONT-SIZE:0px> <td width=49>
+<td width=48> <td width=598 /> <tr> <td width=49 style="BORDER-TOP:#000000 1px 
+solid; BORDER-RIGHT:#000000 1px solid; BORDER-BOTTOM:#000000 1px solid; BORDER-
+LEFT:#000000 1px solid; MARGIN-TOP:0px" rowspan=3 valign=top> <p 
+style=MARGIN:0px><br></p> <p style=MARGIN:0px><br></p> <p style="FONT-SIZE:16pt;
+MARGIN:0px">&nbsp;[x]</p></td> <td width=48 style="BORDER-TOP:#000000 1px solid;
+BORDER-RIGHT:#000000 1px solid; BORDER-BOTTOM:#000000 1px solid; MARGIN-TOP:0px"
+valign=top> <p style=MARGIN:0px align=justify>(a)</p></td> <td width=598 
+style="BORDER-TOP:#000000 1px solid; BORDER-RIGHT:#000000 1px solid; BORDER-
+BOTTOM:#000000 1px solid; MARGIN-TOP:0px" valign=top> <p style=MARGIN:0px 
+align=justify>The reasons described in reasonable detail in Part III of this 
+form could not be eliminated without unreasonable effort or 
+expense;</p></td></tr> <tr> <td width=48 style="BORDER-RIGHT:#000000 1px solid; 
+BORDER-BOTTOM:#000000 1px solid; BORDER-LEFT:#000000 1px solid; MARGIN-TOP:0px" 
+valign=top> <p style=MARGIN:0px align=justify>(b)</p></td> <td width=598 
+style="BORDER-RIGHT:#000000 1px solid; BORDER-BOTTOM:#000000 1px solid; MARGIN-
+TOP:0px" valign=top> <p style=MARGIN:0px align=justify>The subject annual 
+report, semi-annual report, transition report on Form 10-K, Form 20-F, 11-K Form
+N-SAR or Form N-CSR, or portion thereof, will be filed on or before the 
+fifteenth calendar day following the prescribed due date; or the subject 
+quarterly report of transition report on Form 10-Q or subject distribution 
+report on Form 10-D, or portion thereof will be filed on or before the fifth 
+calendar day following the prescribed due date; and</p></td></tr> <tr> <td 
+width=48 style="BORDER-RIGHT:#000000 1px solid; BORDER-BOTTOM:#000000 1px solid;
+BORDER-LEFT:#000000 1px solid; MARGIN-TOP:0px" valign=top> <p style=MARGIN:0px 
+align=justify>(c)</p></td> <td width=598 style="BORDER-RIGHT:#000000 1px solid; 
+BORDER-BOTTOM:#000000 1px solid; MARGIN-TOP:0px" valign=top> <p style=MARGIN:0px
+align=justify>The accountant&#146;s statement or other exhibit required by Rule 
+12b-25(c) has been attached if applicable.</p></td></tr></table> <table 
+style="FONT-SIZE:10pt; MARGIN-TOP:0px" cellpadding=0 cellspacing=0> <tr 
+style=FONT-SIZE:0px> <td width=49> <td width=48> <td width=598 /></tr></table> 
+<div align=center> <div style=WIDTH:681px> <p style="MARGIN-BOTTOM:0px; FONT-
+SIZE:11pt; MARGIN-TOP:14px" align=justify><b>PART III - NARRATIVE</b></p> <p 
+style="MARGIN-BOTTOM:0px; MARGIN-TOP:13px" align=justify>State below in 
+reasonable detail the reasons why Forms 10-K, 20-F, 11-K, 10-Q, N-SAR, N-CSR, or
+the transition report or portion thereof, could not be filed within the 
+prescribed time period.</p> <p style="MARGIN-BOTTOM:4px; MARGIN-TOP:10px" 
+align=justify>The Registrant is unable to file, without unreasonable effort and 
+expense, its Form 10-Q Report for the quarter ended July 31, 2015 because the 
+Registrant's auditor has not completed their review<a name=_GoBack />. &nbsp;It 
+is anticipated that the Form 10-Q Report, along with the financial statements, 
+will be filed on or before the 5th calendar day following the prescribed due 
+date of the Registrant's Form 10-Q.</p> <p style="MARGIN-BOTTOM:4px; FONT-
+SIZE:11pt; MARGIN-TOP:10px" align=left><b>PART IV - OTHER INFORMATION</b></p> <p
+style=MARGIN:0px align=left><br></p></div></div> <table style="FONT-SIZE:10pt; 
+MARGIN-TOP:0px" cellpadding=0 cellspacing=0 align=center> <tr style=FONT-
+SIZE:0px> <td width=37> <td width=300> <td width=18> <td width=120> <td 
+width=18> <td width=96> <td width=102> <td width=4 /> <tr> <td width=37 
+style=MARGIN-TOP:0px valign=top> <p style=MARGIN:0px align=justify>(1)</p></td> 
+<td width=658 colspan=7 style=MARGIN-TOP:0px valign=top> <p style=MARGIN:0px 
+align=justify>Name and telephone number of person to contact in regard to this 
+notification</p></td></tr> <tr> <td width=37 style=MARGIN-TOP:0px valign=top> <p
+style="PADDING-BOTTOM:0px; PADDING-TOP:0px; PADDING-LEFT:0px; MARGIN:0px; 
+PADDING-RIGHT:0px">&nbsp;</p></td> <td width=300 style="BORDER-BOTTOM:#000000 
+1px solid; MARGIN-TOP:0px" valign=bottom> <p style="FONT-SIZE:11pt; MARGIN:0px" 
+align=center><b>Daniel Martinez</b></p></td> <td width=18 style=MARGIN-TOP:0px 
+valign=bottom> <p style="PADDING-BOTTOM:0px; PADDING-TOP:0px; PADDING-LEFT:0px; 
+MARGIN:0px; PADDING-RIGHT:0px">&nbsp;</p></td> <td width=120 style="BORDER-
+BOTTOM:#000000 1px solid; MARGIN-TOP:0px" valign=bottom> <p style="FONT-
+SIZE:11pt; MARGIN:0px" align=center><b>855</b></p></td> <td width=18 
+style=MARGIN-TOP:0px valign=bottom> <p style="FONT-SIZE:11pt; PADDING-
+BOTTOM:0px; PADDING-TOP:0px; PADDING-LEFT:0px; MARGIN:0px; PADDING-
+RIGHT:0px">&nbsp;</p></td> <td width=202 colspan=3 style="BORDER-BOTTOM:#000000 
+1px solid; MARGIN-TOP:0px" valign=bottom> <p style="FONT-SIZE:11pt; MARGIN:0px" 
+align=center><b>200-6964</b></p></td></tr> <tr> <td width=37 style=MARGIN-
+TOP:0px valign=top> <p style="PADDING-BOTTOM:0px; PADDING-TOP:0px; PADDING-
+LEFT:0px; MARGIN:0px; PADDING-RIGHT:0px">&nbsp;</p></td> <td width=300 
+style=MARGIN-TOP:0px valign=top> <p style=MARGIN:0px 
+align=center>(Name)</p></td> <td width=18 style=MARGIN-TOP:0px valign=top> <p 
+style="PADDING-BOTTOM:0px; PADDING-TOP:0px; PADDING-LEFT:0px; MARGIN:0px; 
+PADDING-RIGHT:0px">&nbsp;</p></td> <td width=120 style=MARGIN-TOP:0px 
+valign=top> <p style=MARGIN:0px align=center>(Area Code)</p></td> <td width=18 
+style=MARGIN-TOP:0px valign=top> <p style="PADDING-BOTTOM:0px; PADDING-TOP:0px; 
+PADDING-LEFT:0px; MARGIN:0px; PADDING-RIGHT:0px">&nbsp;</p></td> <td width=202 
+colspan=3 style=MARGIN-TOP:0px valign=top> <p style=MARGIN:0px 
+align=center>(Telephone Number)</p></td></tr> <tr> <td width=37 style=MARGIN-
+TOP:0px valign=top> <p style="MARGIN-BOTTOM:0px; MARGIN-TOP:13px" 
+align=justify>(2)</p></td> <td width=552 colspan=5 style=MARGIN-TOP:0px 
+valign=top> <p style="MARGIN-BOTTOM:0px; MARGIN-TOP:13px" align=justify>Have all
+other periodic reports required under Section 13 or 15(d) of the Securities 
+Exchange Act of 1934 or Section 30 of the Investment Company Act of 1940 during 
+the preceding 12 months or for such shorter period that the registrant was 
+required to file such report(s) been filed? &nbsp;If answer is no, identify 
+report(s).</p></td> <td width=106 colspan=2 style=MARGIN-TOP:0px valign=bottom> 
+<p style="MARGIN-BOTTOM:0px; MARGIN-TOP:13px" align=center>[X] Yes &nbsp;
+[ &nbsp;] No</p></td></tr> <tr> <td width=37 style=MARGIN-TOP:0px valign=top> <p
+style="PADDING-BOTTOM:0px; PADDING-TOP:0px; PADDING-LEFT:0px; MARGIN:0px; 
+PADDING-RIGHT:0px">&nbsp;</p></td> <td width=658 colspan=7 style="BORDER-
+BOTTOM:#000000 1px solid; MARGIN-TOP:0px" valign=top> <p style="PADDING-
+BOTTOM:0px; PADDING-TOP:0px; PADDING-LEFT:0px; MARGIN:0px; PADDING-
+RIGHT:0px">&nbsp;</p></td></tr> <tr> <td width=37 style=MARGIN-TOP:0px 
+valign=top> <p style="MARGIN-BOTTOM:0px; MARGIN-TOP:13px" 
+align=justify>(3)</p></td> <td width=552 colspan=5 style=MARGIN-TOP:0px 
+valign=top> <p style="MARGIN-BOTTOM:0px; MARGIN-TOP:13px" align=justify>Is it 
+anticipated that any significant change in results of operations from the 
+corresponding period for the last fiscal year will be reflected by the earnings 
+statements to be included in the subject report or portion thereof?</p></td> <td
+width=106 colspan=2 style=MARGIN-TOP:0px valign=bottom> <p style="MARGIN-
+BOTTOM:0px; MARGIN-TOP:13px" align=center>[ &nbsp;] Yes &nbsp;[X] 
+No</p></td></tr> <tr> <td width=37 style=MARGIN-TOP:0px valign=top> <p 
+style="PADDING-BOTTOM:0px; PADDING-TOP:0px; PADDING-LEFT:0px; MARGIN:0px; 
+PADDING-RIGHT:0px">&nbsp;</p></td> <td width=552 colspan=5 style="BORDER-
+BOTTOM:#000000 3px solid; MARGIN-TOP:0px" valign=top> <p style="MARGIN-
+BOTTOM:6px; MARGIN-TOP:13px" align=justify>If so, attach an explanation of the 
+anticipated change, both narratively and quantitatively, and, if appropriate, 
+state the reasons why a reasonable estimate of the results cannot be 
+made</p></td> <td width=106 colspan=2 style="BORDER-BOTTOM:#000000 3px solid; 
+MARGIN-TOP:0px" valign=top> <p style="PADDING-BOTTOM:0px; PADDING-TOP:0px; 
+PADDING-LEFT:0px; MARGIN:0px; PADDING-RIGHT:0px">&nbsp;</p></td></tr></table> 
+<div align=center> <div style=WIDTH:681px> <p style="MARGIN-BOTTOM:0px; MARGIN-
+TOP:14px" align=center><br></p> <p style="MARGIN-BOTTOM:0px; FONT-SIZE:11pt; 
+MARGIN-TOP:14px" align=center><b><u>MIDWEST OIL &amp; GAS INC.<br></u></b>(Name 
+of Registrant as Specified in Charter)</p> <p style=MARGIN:0px 
+align=center><br></p> <p style=MARGIN:0px align=left>has caused this 
+notification to be signed on its behalf by the undersigned hereunto duly 
+authorized.</p> <p style=MARGIN:0px align=left><br></p> <p style=MARGIN:0px 
+align=left><br></p></div></div> <table style="FONT-SIZE:10pt; MARGIN-TOP:0px" 
+cellpadding=0 cellspacing=0 align=center> <tr style=FONT-SIZE:0px> <td width=46>
+<td width=15> <td width=311> <td width=42> <td width=282 /> <tr> <td width=46 
+style=MARGIN-TOP:0px valign=top> <p style="FONT-SIZE:11pt; 
+MARGIN:0px">Date</p></td> <td width=15 style=MARGIN-TOP:0px valign=top> <p 
+style="FONT-SIZE:11pt; PADDING-BOTTOM:0px; PADDING-TOP:0px; PADDING-LEFT:0px; 
+MARGIN:0px; PADDING-RIGHT:0px">&nbsp;</p></td> <td width=311 style="BORDER-
+BOTTOM:#000000 1px solid; MARGIN-TOP:0px" valign=top> <p style="FONT-SIZE:11pt; 
+MARGIN:0px">September 15, 2015</p></td> <td width=42 style=MARGIN-TOP:0px
+valign=top> <p style="FONT-SIZE:11pt; MARGIN:0px">By</p></td> <td width=282 
+style="BORDER-BOTTOM:#000000 1px solid; MARGIN-TOP:0px" valign=top> <p 
+style="FONT-SIZE:11pt; MARGIN:0px"><i>/s/ Daniel Martinez</i></p></td></tr>
+ <tr> <td width=46 style=MARGIN-TOP:0px valign=top> <p style="FONT-SIZE:11pt; 
+PADDING-BOTTOM:0px; PADDING-TOP:0px; PADDING-LEFT:0px; MARGIN:0px; PADDING-
+RIGHT:0px">&nbsp;</p></td> <td width=15 style=MARGIN-TOP:0px valign=top> <p 
+style="FONT-SIZE:11pt; PADDING-BOTTOM:0px; PADDING-TOP:0px; PADDING-LEFT:0px; 
+MARGIN:0px; PADDING-RIGHT:0px">&nbsp;</p></td> <td width=311 style=MARGIN-
+TOP:0px valign=top> <p style="FONT-SIZE:11pt; PADDING-BOTTOM:0px; PADDING-
+TOP:0px; PADDING-LEFT:0px; MARGIN:0px; PADDING-RIGHT:0px">&nbsp;</p></td> <td 
+width=42 style=MARGIN-TOP:0px valign=top> <p style="FONT-SIZE:11pt; PADDING-
+BOTTOM:0px; PADDING-TOP:0px; PADDING-LEFT:0px; MARGIN:0px; PADDING-
+RIGHT:0px">&nbsp;</p></td> <td width=282 style=MARGIN-TOP:0px valign=top> <p 
+style="FONT-SIZE:11pt; MARGIN:0px">Daniel Martinez<br>President, Chief Executive
+Officer and Director</p></td></tr></table> <div align=center> <div 
+style=WIDTH:681px> <p style=MARGIN:0px align=left><br></p> <p style=MARGIN:0px 
+align=left><br></p> <p style=MARGIN:0px align=left><br></p> <p style=MARGIN:0px 
+align=justify>INSTRUCTION: &nbsp;The form may be signed by an executive officer 
+of the registrant or by any other duly authorized representative. &nbsp;The name
+and title of the person signing the form shall be typed or printed beneath the 
+signature. &nbsp;If the statement is signed on behalf of the registrant by an 
+authorized representative (other than an executive officer), evidence of the 
+representative&#146;s authority to sign on behalf of the registrant shall be 
+filed with the form.</p> <p style=MARGIN:0px 
+align=justify><br><br></p></div></div></body>
+<!-- EDGAR Validation Code: 7EBD704F -->
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

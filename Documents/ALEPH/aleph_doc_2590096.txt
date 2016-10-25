@@ -1,0 +1,849 @@
+
+<SEC-DOCUMENT>0001415889-16-006691.txt : 20160804
+<SEC-HEADER>0001415889-16-006691.hdr.sgml : 20160804
+<ACCEPTANCE-DATETIME>20160804170242
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+ITEM INFORMATION:
+ITEM INFORMATION:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+Other Events
+Financial Statements and Exhibits
+20160804
+8-K
+3
+20160804
+0001415889-16-006691
+20160804
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: CRUDE PETROLEUM & NATURAL GAS
+Petro River Oil Corp.
+0001172298
+[1311]
+IRS NUMBER:
+FISCAL YEAR END:
+980611188
+0430
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 000-49760
+FILM NUMBER:
+8-K
+1934 Act
+161808274
+BUSINESS ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+55 5TH AVENUE
+SUITE 1702
+NEW YORK
+NY
+10003
+469-828-3900
+MAIL ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+FORMER COMPANY:
+55 5TH AVENUE
+SUITE 1702
+NEW YORK
+NY
+10003
+FORMER CONFORMED NAME: GRAVIS OIL Corp
+DATE OF NAME CHANGE:
+20110627
+FORMER COMPANY:
+FORMER CONFORMED NAME: MEGAWEST ENERGY CORP.
+DATE OF NAME CHANGE:
+20070328
+FORMER COMPANY:
+FORMER CONFORMED NAME: BROCKTON CAPITAL CORP
+DATE OF NAME CHANGE:
+20020426
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8k-08042016_020833.htm
+<TEXT>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" 
+"http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><div style="margin-top:0;font-family:Times New Roman; font-
+size:10pt; color:#000000">
+<p style="margin:0px"><br></p>
+<p style="line-height:1pt; margin-top:0.467px; margin-bottom:0px; font-size:4pt"
+align="center">&nbsp;</p>
+<p style="margin:0px; font-size:13.5pt" align="center"><b>UNITED STATES</b></p>
+<p style="margin:0px; font-size:13.5pt" align="center"><b>SECURITIES AND 
+EXCHANGE COMMISSION </b></p>
+<p style="margin:0px; font-size:12pt" align="center"><b>Washington, DC 20549 
+</b></p>
+<p style="line-height:4pt; margin-top:6px; margin-bottom:0px; padding-
+left:288px; padding-right:288px; padding-bottom:1.333px; font-size:6pt; border-
+bottom:1.333px solid #000000" align="center">&nbsp;</p>
+<p style="margin-top:9px; margin-bottom:0px; font-size:18pt" 
+align="center"><b>FORM 8-K</b></p>
+<p style="line-height:4pt; margin-top:6px; margin-bottom:0px; padding-
+left:288px; padding-right:288px; padding-bottom:1.333px; font-size:6pt; border-
+bottom:1.333px solid #000000" align="center">&nbsp;</p>
+<p style="margin-top:6px; margin-bottom:0px; font-size:12pt" 
+align="center"><b>CURRENT REPORT </b></p>
+<p style="margin-top:12px; margin-bottom:0px; font-size:12pt" 
+align="center"><b>Pursuant to Section&nbsp;13 or 15(d) of the </b></p>
+<p style="margin:0px; font-size:12pt" align="center"><b>Securities Exchange Act 
+of 1934 </b></p>
+<p style="margin-top:10px; margin-bottom:0px" align="center">Date of Report 
+(Date of earliest event reported): <u>August 4, 2016</u> </p>
+<p style="line-height:4pt; margin-top:12px; margin-bottom:0px; padding-
+left:288px; padding-right:288px; padding-bottom:1.333px; font-size:6pt; border-
+bottom:1.333px solid #000000" align="center">&nbsp;</p>
+<p style="margin-top:11px; margin-bottom:0px; font-size:22pt" 
+align="center"><b>PETRO RIVER OIL CORP. </b></p>
+<p style="margin:0px" align="center"><b>(Exact name of Registrant as specified 
+in its Charter) </b></p>
+<p style="line-height:4pt; margin-top:6px; margin-bottom:0px; padding-
+left:288px; padding-right:288px; padding-bottom:1.333px; font-size:6pt; border-
+bottom:1.333px solid #000000" align="center">&nbsp;</p>
+<p style="margin:0px; font-size:9pt">&nbsp;</p>
+<table style="margin-top:0px; font-size:10pt" cellpadding="0" cellspacing="0" 
+align="center"><tr style="font-size:0"><td width="208.533"></td>
+<td width="31.467"></td>
+<td width="176.267"></td>
+<td width="63.733"></td>
+<td width="144"></td>
+<td width="96"></td>
+</tr><tr><td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-
+right:4px; padding-bottom:0px" width="240" colspan="2">
+<p style="margin:0px"><br></p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" width="240" colspan="2">
+<p style="margin:0px"><br></p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" width="240" colspan="2">
+<p style="margin:0px"><br></p>
+</td>
+</tr><tr><td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-
+right:4px; padding-bottom:0px" valign="top" width="208.533" height="22.8">
+<p style="margin:0px" align="center"><u>Delaware</u></p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="top" width="207.733" height="22.8" colspan="2">
+<p style="margin:0px" align="center"><u>000-49760</u></p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="top" width="207.733" height="22.8" colspan="2">
+<p style="margin:0px" align="center"><u>9800611188</u></p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="top" width="95.933" height="22.8" colspan="2"><p 
+style="margin:0px; padding-left:4px; padding-right:4px">&nbsp;</p></td>
+</tr><tr><td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-
+right:4px; padding-bottom:0px" valign="top" width="208.533">
+<p style="margin:0px" align="center">(State or other jurisdiction </p>
+<p style="margin:0px" align="center">of incorporation)</p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="top" width="207.733" colspan="2">
+<p style="margin:0px" align="center">(Commission File No.)</p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="top" width="207.733" colspan="2">
+<p style="margin:0px" align="center">(IRS Employer</p>
+<p style="margin-top:0px; margin-bottom:0.867px" align="center">Identification 
+No.)</p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="top" width="95.933" colspan="2"><p 
+style="margin:0px; padding-left:4px; padding-right:4px">&nbsp;</p></td>
+</tr></table><p style="margin:0px">&nbsp;</p>
+<table style="margin-top:0px; font-size:10pt" cellpadding="0" cellspacing="0" 
+align="center"><tr style="font-size:0"><td width="630.8"></td>
+<td width="1.333"></td>
+</tr><tr><td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-
+right:4px; padding-bottom:0px" width="630.8">
+<p style="margin:0px"><br></p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" width="1.333">
+<p style="margin:0px"><br></p>
+</td>
+</tr><tr><td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-
+right:4px; padding-bottom:0px" valign="top" width="630.8">
+<p style="margin:0px" align="center">55 5<sup>th</sup> Avenue, Suite 1702</p>
+<p style="margin:0px" align="center"><u>New York, NY 10003</u></p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="top" width="1.333"><p style="margin:0px; padding-
+left:4px; padding-right:4px">&nbsp;</p></td>
+</tr><tr><td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-
+right:4px; padding-bottom:0px" valign="bottom" width="630.8" height="16.2">
+<p style="margin:0px" align="center">(Address of principal executive 
+offices)</p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="bottom" width="1.333" height="16.2"><p 
+style="margin:0px; padding-left:4px; padding-right:4px">&nbsp;</p></td>
+</tr><tr><td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-
+right:4px; padding-bottom:0px" valign="bottom" width="630.8">
+<p style="margin:0px" align="center"><br></p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="bottom" width="1.333"><p 
+style="margin:0px">&nbsp;</p></td>
+</tr><tr><td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-
+right:4px; padding-bottom:0px" valign="bottom" width="630.8">
+<p style="margin:0px" align="center"><u>(469) 828-3900</u></p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="bottom" width="1.333"><p style="margin:0px; padding-
+left:4px; padding-right:4px">&nbsp;</p></td>
+</tr><tr><td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-
+right:4px; padding-bottom:0px" valign="bottom" width="630.8" height="14.4">
+<p style="margin:0px" align="center">(Registrant<font style="font-family:Arial 
+Unicode MS,Times New Roman">&rsquo;</font>s Telephone Number)</p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="bottom" width="1.333" height="14.4"><p 
+style="margin:0px; padding-left:4px; padding-right:4px">&nbsp;</p></td>
+</tr><tr><td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-
+right:4px; padding-bottom:0px" valign="bottom" width="630.8">
+<p style="margin:0px" align="center"><br></p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="bottom" width="1.333"><p 
+style="margin:0px">&nbsp;</p></td>
+</tr><tr><td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-
+right:4px; padding-bottom:0px" valign="bottom" width="630.8">
+<p style="margin:0px" align="center"><u>Not Applicable</u></p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="bottom" width="1.333"><p style="margin:0px; padding-
+left:4px; padding-right:4px">&nbsp;</p></td>
+</tr><tr><td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-
+right:4px; padding-bottom:0px" valign="bottom" width="630.8" height="15.6">
+<p style="margin:0px" align="center">(Former name or address, if changed since 
+last report)</p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="bottom" width="1.333" height="15.6"><p 
+style="margin:0px; padding-left:4px; padding-right:4px">&nbsp;</p></td>
+</tr></table><p style="line-height:4pt; margin-top:6px; margin-bottom:0px; 
+padding-left:288px; padding-right:288px; padding-bottom:1.333px; font-size:6pt; 
+border-bottom:1.333px solid #000000" align="center">&nbsp;</p>
+<p style="margin-top:10px; margin-bottom:0px">Check the appropriate box below if
+the Form 8-K filing is intended to simultaneously satisfy the filing obligation 
+of the registrant under any of the following provisions (see General Instruction
+A.2. below): </p>
+<p style="margin-top:10px;margin-bottom:-1pt;font-size:1pt"></p>
+<p style="margin-top:0px; margin-bottom:-2px; text-indent:-0.067px; 
+width:32.6px; font-family:Wingdings; float:left">&uml;</p>
+<p style="margin:0px; padding-left:32.6px; text-indent:-2px">Written 
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+</p>
+<p style="margin-top:10px;margin-bottom:-1pt;font-size:1pt"></p>
+<p style="margin-top:0px; margin-bottom:-2px; text-indent:-0.067px; 
+width:32.6px; font-family:Wingdings; clear:left; float:left">&uml;</p>
+<p style="margin:0px; padding-left:32.6px; text-indent:-2px">Soliciting material
+pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </p>
+<p style="margin-top:10px;margin-bottom:-1pt;font-size:1pt"></p>
+<p style="margin-top:0px; margin-bottom:-2px; text-indent:-0.067px; 
+width:32.6px; font-family:Wingdings; clear:left; float:left">&uml;</p>
+<p style="margin:0px; padding-left:32.6px; text-indent:-2px">Pre-commencement 
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-
+2(b)) </p>
+<p style="margin-top:10px;margin-bottom:-1pt;font-size:1pt"></p>
+<p style="margin-top:0px; margin-bottom:-2px; text-indent:-0.067px; 
+width:32.6px; font-family:Wingdings; clear:left; float:left">&uml;</p>
+<p style="margin:0px; padding-left:32.6px; text-indent:-2px">Pre-commencement 
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-
+4(c)) </p>
+<p style="line-height:1pt; margin-top:24px; margin-bottom:0px; font-size:4pt; 
+border-top:1px solid #000000; clear:left" align="center">&nbsp;</p>
+<p style="margin:0px"><br></p>
+<p style="margin:0px"><br></p>
+<p style="margin:0px"><br><br></p>
+<p style="margin:0px"><br></p>
+<hr style="margin-bottom: 9.6px; padding-top: 9.6px;" noshade size="1"><p 
+style="margin:0px; page-break-before:always"><br></p>
+<p style="margin:0px"><b>Item 8.01 Other Events.</b></p>
+<p style="margin:0px"><b style="background-color:#FFFFFF;font-
+weight:normal;">&nbsp;</b></p>
+<p style="margin:0px; text-indent:48px" align="justify"><b style="background-
+color:#FFFFFF;font-weight:normal;">Petro River Oil Corp. (the <font style="font-
+family:Arial Unicode MS,Times New Roman">&ldquo;</font></b><b style="background-
+color:#FFFFFF;font-weight:normal;"><i>Company</i></b><b style="background-
+color:#FFFFFF;font-weight:normal;"><font style="font-family:Arial Unicode 
+MS,Times New Roman">&rdquo;</font>) today announced </b><b style="background-
+color:#FFFFFF;font-weight:normal;">that the analysis of its first exploratory 
+well <font style="font-family:Arial Unicode MS,Times New Roman">&ndash;</font> 
+Woodburn Forest #1 <font style="font-family:Arial Unicode MS,Times New 
+Roman">&ndash;</font> located in Larne Basin, Northern Ireland, confirmed the 
+presence of an active petroleum system in the Larne Basin.</b><b 
+style="background-color:#FFFFFF;font-weight:normal;"> A copy of the press 
+release is attached hereto as Exhibit 99.1, and is incorporated by reference 
+herein.</b></p>
+<p style="margin:0px"><br></p>
+<p style="margin:0px"><b style="background-color:#FFFFFF;font-
+weight:normal;"><b>Item 9.01&nbsp;Financial Statements and Exhibits.</b></b></p>
+<p style="margin:0px" align="justify"><br></p>
+<p style="margin:0px; text-indent:48px">See Exhibit Index.</p>
+<p style="margin:0px"><br></p>
+<p style="margin:0px" align="justify"><br></p>
+<p style="margin:0px"><br></p>
+<p style="margin:0px"><br></p>
+<p style="margin:0px"><br></p>
+<table style="margin-top:0px; font-size:10pt" cellpadding="0" cellspacing="0" 
+align="center"><tr style="font-size:0"><td width="103.2"></td>
+<td width="535.2"></td>
+</tr><tr><td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-
+right:4px; padding-bottom:0px" valign="bottom" width="103.2">
+<p style="margin:0px" align="center"><br></p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="bottom" width="535.2">
+<p style="margin:0px"><br></p>
+</td>
+</tr><tr><td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-
+right:4px; padding-bottom:0px" valign="top" width="103.2">
+<p style="margin-top:0px; margin-bottom:16px" align="center"><br></p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="top" width="535.2">
+<p style="margin-top:0px; margin-bottom:16px"><br></p>
+</td>
+</tr></table><p style="margin:0px" align="center"><br><br></p>
+<p style="margin:0px"><br></p>
+<hr style="margin-bottom: 9.6px; padding-top: 9.6px;" noshade size="1"><p 
+style="margin:0px; page-break-before:always"><br></p>
+<p style="margin:0px" align="center"><b>SIGNATURES</b></p>
+<p style="margin-top:10px; margin-bottom:0px; text-indent:32.667px">Pursuant to 
+the requirements of the Securities Exchange Act of 1934, the registrant has duly
+caused this report to be signed on its behalf by the undersigned hereunto duly 
+authorized. </p>
+<p style="margin:0px">&nbsp;</p>
+<p style="margin:0px"><br></p>
+<table style="margin-top:0px; font-size:10pt" cellpadding="0" cellspacing="0" 
+align="center"><tr style="font-size:0"><td width="281.333"></td>
+<td width="28.8"></td>
+<td width="22.667"></td>
+<td width="291.2"></td>
+</tr><tr><td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-
+right:4px; padding-bottom:0px" width="281.333">
+<p style="margin:0px"><br></p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" width="28.8">
+<p style="margin:0px"><br></p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" width="22.667">
+<p style="margin:0px"><br></p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" width="291.2">
+<p style="margin:0px"><br></p>
+</td>
+</tr><tr><td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-
+right:4px; padding-bottom:0px" valign="top" width="281.333">
+<p style="line-height:2pt; margin:0px">&nbsp;</p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="top" width="28.8">
+<p style="line-height:2pt; margin:0px">&nbsp;</p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="top" width="313.867" colspan="2">
+<p style="margin:0px"><b>PETRO RIVER OIL CORP.</b></p>
+</td>
+</tr><tr><td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-
+right:4px; padding-bottom:0px" width="281.333" height="16">
+<p style="margin:0px"><br></p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" width="28.8" height="16">
+<p style="margin:0px"><br></p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" width="22.667" height="16">
+<p style="margin:0px"><br></p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" width="291.2" height="16">
+<p style="margin:0px"><br></p>
+</td>
+</tr><tr><td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-
+right:4px; padding-bottom:0px" valign="top" width="281.333">
+<p style="margin:0px">Date: August 4, 2016</p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="top" width="28.8">
+<p style="line-height:2pt; margin:0px">&nbsp;</p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="top" width="22.667">
+<p style="margin-top:5.533px; margin-bottom:5.533px">By:</p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px; border-bottom:1px solid #000000" width="291.2">
+<p style="margin:0px">&nbsp;/s/ Scot Cohen</p>
+</td>
+</tr><tr><td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-
+right:4px; padding-bottom:0px" valign="top" width="281.333">
+<p style="line-height:2pt; margin:0px">&nbsp;</p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="top" width="28.8">
+<p style="line-height:2pt; margin:0px">&nbsp;</p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="top" width="22.667">
+<p style="line-height:2pt; margin:0px">&nbsp;</p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="top" width="291.2">
+<p style="margin:0px">Scot Cohen</p>
+</td>
+</tr><tr><td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-
+right:4px; padding-bottom:0px" valign="top" width="281.333">
+<p style="line-height:2pt; margin:0px">&nbsp;</p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="bottom" width="28.8">
+<p style="line-height:2pt; margin:0px">&nbsp;</p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="top" width="22.667">
+<p style="line-height:2pt; margin:0px">&nbsp;</p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="bottom" width="291.2">
+<p style="margin:0px">Executive Chairman</p>
+</td>
+</tr><tr><td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-
+right:4px; padding-bottom:0px" valign="top" width="281.333">
+<p style="line-height:2pt; margin:0px">&nbsp;</p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="bottom" width="28.8">
+<p style="line-height:2pt; margin:0px">&nbsp;</p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="top" width="22.667">
+<p style="line-height:2pt; margin:0px">&nbsp;</p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="bottom" width="291.2">
+<p style="margin:0px"><br></p>
+</td>
+</tr></table><p style="margin:0px"><br></p>
+<p style="margin:0px"><br></p>
+<p style="margin:0px"><br></p>
+<p style="margin:0px" align="center"><br><br></p>
+<p style="margin:0px"><br></p>
+<hr style="margin-bottom: 9.6px; padding-top: 9.6px;" noshade size="1"><p 
+style="margin:0px; page-break-before:always"><br></p>
+<p style="margin:0px" align="center"><b style="background-color:#FFFFFF;font-
+weight:normal;"><b>Exhibit Index</b></b></p>
+<p style="margin:0px; font-family:Times,Times New Roman"><b style="background-
+color:#FFFFFF;font-weight:normal;">&nbsp;</b></p>
+<table style="margin-top:0px; font-size:10pt" cellpadding="0" cellspacing="0" 
+align="center"><tr style="font-size:0"><td width="65.2"></td>
+<td width="18.267"></td>
+<td width="540.533"></td>
+</tr><tr><td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-
+right:4px; padding-bottom:0px" valign="top" width="65.2">
+<p style="margin:0px"><b>Exhibit&nbsp;No.</b></p>
+<p style="margin:0px"><br></p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="top" width="18.267">
+<p style="margin:0px; font-family:Times,Times New Roman">&nbsp;&nbsp;</p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="top" width="540.533">
+<p style="margin:0px"><b>Description</b></p>
+<p style="margin:0px"><br></p>
+</td>
+</tr><tr><td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-
+right:4px; padding-bottom:0px" valign="top" width="65.2">
+<p style="margin:0px">99.1</p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="top" width="18.267">
+<p style="margin:0px; font-family:Times,Times New Roman">&nbsp;&nbsp;</p>
+</td>
+<td style="margin-top:0px; padding-left:4px; padding-top:0px; padding-right:4px;
+padding-bottom:0px" valign="top" width="540.533">
+<p style="margin:0px" align="justify">Press Release, dated August 4, 2016</p>
+</td>
+</tr></table><p style="margin:0px" align="center"><br></p>
+<p style="margin:0px" align="center"><br><br></p>
+<p style="margin:0px"><br></p>
+</div></body></html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>ex99-08042016_020835.htm
+<TEXT>
+<!DOCTYPE html PUBLIC "-//IETF//DTD HTML//EN">
+<html><head><title>Secconnect.com</title></head><body style="margin-top:0;font-
+family:Times New Roman; font-size:10pt; color:#000000">
+<p style="margin-top:8px; margin-bottom:8px" align="justify"><img src="graphic-
+08042016_020849.jpg"></p>
+<p style="margin:8px" align="justify"><br></p>
+<p style="margin:8px" align="justify"><br></p>
+<p style="margin-top:8px; margin-bottom:8px; font-family:Arial; font-size:12pt" 
+align="justify"><b>FOR IMMEDIATE RELEASE</b></p>
+<p style="margin-top:8px; margin-bottom:8px; font-family:Arial; font-size:12pt" 
+align="justify">&nbsp;</p>
+<p style="margin:0px; font-family:Arial; font-size:14pt" 
+align="justify"><b>PetroRiver De-Risks Larne Basin with Discovery of Thermogenic
+Gas in Woodburn Forest #1-Well</b></p>
+<p style="margin-top:8px; margin-bottom:8px; font-family:Arial; font-size:12pt" 
+align="justify"><b><i>Partners To Commence Phase II of Exploration 
+Program</i></b></p>
+<p style="margin-top:8px; margin-bottom:8px; font-family:Arial; font-size:12pt" 
+align="justify">NEW YORK, NY <font style="font-family:Arial Unicode 
+MS,Arial">&ndash;</font> August 4, 2016 <font style="font-family:Arial Unicode 
+MS,Arial">&ndash;</font> Petro River Oil Corp. (OTCBB: PTRC) (<font style="font-
+family:Arial Unicode MS,Arial">&ldquo;</font>Petro River<font style="font-
+family:Arial Unicode MS,Arial">&rdquo;</font> or the <font style="font-
+family:Arial Unicode MS,Arial">&ldquo;</font>Company<font style="font-
+family:Arial Unicode MS,Arial">&rdquo;</font>) today announced that the analysis
+of its first exploratory well <font style="font-family:Arial Unicode 
+MS,Arial">&ndash;</font> Woodburn Forest #1 <font style="font-family:Arial 
+Unicode MS,Arial">&ndash;</font> located in Larne Basin, Northern Ireland, 
+confirmed the presence of an active petroleum system in the Larne Basin. The
+drilling of the well detected background gas in the drilling fluid, and samples 
+were sent to Applied Petroleum Technology<u> UK Ltd</u> (<font style="font-
+family:Arial Unicode MS,Arial">&ldquo;</font>APT<font style="font-family:Arial 
+Unicode MS,Arial">&rdquo;</font>), an internationally-recognized consultancy 
+with an independent geochemical laboratory in Oslo, Norway.</p>
+<p style="margin-top:8px; margin-bottom:8px; font-family:Arial; font-size:12pt" 
+align="justify">APT<font style="font-family:Arial Unicode 
+MS,Arial">&rsquo;</font>s report<b style="color:#FF0000;font-weight:normal;"> 
+</b>determined that the gas was thermogenic, likely originating from deeper 
+Carboniferous shales. The samples were similar to a gas sample from a producing 
+gas field in Lancashire, England, just across the North Channel.</p>
+<p style="margin-top:8px; margin-bottom:8px; font-family:Arial; font-size:12pt" 
+align="justify">The discovery of thermogenic gas limits the risks associated 
+with Petro River<font style="font-family:Arial Unicode MS,Arial">&rsquo;</font>s
+Larne Basin exploration program by providing further evidence of a mature source
+rock within the basin, and supports Petro River<font style="font-family:Arial 
+Unicode MS,Arial">&rsquo;</font>s prior estimates of prospective resources of 
+more than 1 billion barrels of potential oil and gas equivalents across the 
+license. Carboniferous-sourced basins throughout Europe have historically been 
+very prolific. By fulfilling the current work program, the onshore license has 
+been extended for a five-year period, which affords ample time for the Company 
+to work with Horizon Energy Partners, LLC (<font style="font-family:Arial 
+Unicode MS,Arial">&ldquo;</font>Horizon Energy<font style="font-family:Arial 
+Unicode MS,Arial">&rdquo;</font>) and other partners to develop Phase II of the 
+exploration program, which includes the following: &nbsp;&nbsp;</p>
+<p style="margin-top:8px; margin-bottom:8px; font-family:Arial; font-size:12pt" 
+align="justify"><b><i>Reprocess 2-D seismic data</i></b><i>.</i> The joint 
+venture partners are currently reprocessing a closely-spaced 2-D grid of 1,100 
+line kilometers of offshore seismic data acquired in 2009. &nbsp;When finalized,
+the reprocessing should provide clearer structural imaging within the 
+Carboniferous, better trap definition in the Triassic and Permian and possibly 
+show hydrocarbon indicators in the shallower formations. We intend to <font 
+style="font-family:Arial Unicode MS,Arial">&ldquo;</font>shoot<font style="font-
+family:Arial Unicode MS,Arial">&rdquo;</font> several 2D tie lines which will 
+tie the offshore and onshore data sets. Management estimates completion of 2-D 
+seismic reprocessing by the end of October, 2016.</p>
+<p style="margin-top:8px; margin-bottom:8px; font-family:Arial; font-size:12pt" 
+align="justify"><b><i>Reprocess 3-D seismic</i></b><i>.</i> A small 3-D survey 
+in the area, originally acquired from a nearby salt storage project, may also be
+reprocessed during the next several months. </p>
+<p style="margin-top:8px; margin-bottom:8px; font-family:Arial; font-size:12pt" 
+align="justify"><b><i>Evaluation of Offshore Drilling Program</i></b><i>.</i> 
+The offshore portion of the basin does not contain surface basalts. As such, the
+seismic data quality is markedly better. &nbsp;The next steps in the exploration
+effort may be acquisition of a new 3-D seismic or further exploratory drilling 
+<font style="font-family:Arial Unicode MS,Arial">&ndash;</font> funded either 
+internally or through a farm-out transaction. </p>
+<p style="margin-top:8px; margin-bottom:8px; font-family:Arial; font-size:12pt" 
+align="justify"><b><u>Background:</u></b></p>
+<p style="margin:8px" align="justify"><br></p>
+<p style="margin-top:8px; margin-bottom:8px; font-family:Arial; font-size:12pt" 
+align="center">-1 of 3-</p>
+<p style="margin:8px" align="justify"><br></p>
+<hr style="margin-bottom: 9.6px; padding-top: 9.6px;" noshade size="1"><p 
+style="margin-top:8px; margin-bottom:8px; font-family:Arial,Times New Roman; 
+font-size:12pt; page-break-before:always" align="justify">Petro River owns a 9% 
+direct working interest and a 3.2% indirect interest through its investment in 
+Horizon Energy in both an onshore license (PL1/10) and offshore license (P2123),
+which together comprise about 130,000 acres and encompass the heart of the Larne
+Basin. Good reservoir quality had been confirmed from prior drilling and the 
+existence of hydrocarbon traps was evident from recently acquired 2-D seismic 
+data. </p>
+<p style="margin-top:8px; margin-bottom:8px; font-family:Arial; font-size:12pt" 
+align="justify">In May, 2016, the Woodburn Forest #1 well commenced drilling.
+&nbsp;The primary objective of the well for Petro River was to confirm the 
+existence and maturity of the Carboniferous source rock for the conventional 
+reservoirs, and the secondary objective was to test three potential hydrocarbon-
+bearing objective zones. The well reached total depth in mid-June 2016. The 
+Carboniferous-aged shales were expected to be encountered at approximately 1,550
+meters. Unexpectedly, the overlying Permian section thickened considerably and 
+at 2,000 meters the well was still drilling in the basal Permian. &nbsp;After 
+stopping at 2,000 meters and conducting basic evaluation tests (electric logs, a
+check-shot survey, imaging tool, etc.) and assessing the information gained from
+these tests, the consensus decision was made not to drill deeper. As a result, 
+the Carboniferous section was not directly evaluated. </p>
+<p style="margin-top:8px; margin-bottom:8px; font-family:Arial; font-size:12pt" 
+align="justify">During the drilling of the Woodburn Forest #1 well through the 
+Permian section background gas shows were present in the drilling fluids. 
+Samples were collected and analyzed by APT, who determined that the gas was 
+thermogenic and originated from the Carboniferous. &nbsp;The gas sample 
+contained carbon isotopes from C-1 to C-6 and the maturity indicated it to be at
+the top of the gas window, implying a burial at the time of generation of 
+approximately 4,000 meters and a temperature of approximately 150 degrees 
+Centigrade. These results evidenced a mature source rock from which hydrocarbons
+have migrated, and therefore supports the existence of an active petroleum 
+system in the Larne Basin. </p>
+<p style="margin-top:8px; margin-bottom:8px; font-family:Arial; font-size:12pt" 
+align="justify">Based on the new Woodburn Forest #1 well data, which furthers 
+our understanding of the petroleum system, reservoir deposition, and trapping 
+mechanisms, the Company believes that substantial progress has been made in 
+moving the Larne Basin project toward eventual commerciality. This was the first
+exploration drilled in the Larne Basin in 45 years.</p>
+<p style="margin-top:8px; margin-bottom:8px; font-family:Arial; font-size:12pt" 
+align="justify">Historically, large basinal discoveries are found and developed 
+only after thorough analysis of technical data derived from both seismic 
+acquisition and drilling of wells. The Larne Basin continues to be a very 
+attractive exploration opportunity based on technical merit, modest exploration 
+costs, low political risk and excellent fiscal terms.</p>
+<p style="margin-top:8px; margin-bottom:8px; font-family:Arial; font-size:12pt" 
+align="justify"><b>About: Petro River Oil Corp.</b></p>
+<p style="margin-top:8px; margin-bottom:8px; font-family:Arial; font-size:12pt" 
+align="justify">Petro River Oil Corp. (OTC Pink: PTRC) is an independent energy 
+company with its core holdings in Northeast Oklahoma, the Larne Basin in 
+Northern Ireland, and Kern County, California. Petro River<font style="font-
+family:Arial Unicode MS,Arial">&rsquo;</font>s strategy is to apply modern 
+technology, such as 3D Seismic analysis to exploit hydrocarbon-prone resources 
+in historically prolific plays and underexplored prospective basins to build 
+reserves and to create value for the Company and its shareholders. For more 
+information, please visit our website at www.petroriveroil.com.</p>
+<p style="margin:8px" align="justify"><br></p>
+<p style="margin-top:8px; margin-bottom:8px; font-family:Arial; font-size:12pt" 
+align="center">-2 of 3-</p>
+<p style="margin:8px" align="justify"><br></p>
+<hr style="margin-bottom: 9.6px; padding-top: 9.6px;" noshade size="1"><p 
+style="margin-top:8px; margin-bottom:8px; font-family:Arial,Times New Roman; 
+font-size:12pt; page-break-before:always" align="justify"><b>About: Horizon 
+Energy Partners, LLC.</b></p>
+<p style="margin-top:8px; margin-bottom:8px; font-family:Arial; font-size:12pt" 
+align="justify">Horizon Energy is an oil and gas exploration and development 
+company with a portfolio of domestic and international assets. The majority of 
+the funding for Horizon Energy has come from seasoned oil and gas industry 
+professionals, including several former senior oil industry executives who have 
+run both major and large independent oil and gas companies, and have advised 
+large energy focused private equity funds and hedge funds. Horizon Energy is 
+managed by Jonathan Rudney; Mr. Rudney has over 30 years of senior executive 
+experience in the upstream oil and gas industry, and, throughout his career, has
+been instrumental in the growth and success of several private E&amp;P 
+companies. Horizon Energy was formed to take advantage of the current depressed
+oil market and has identified and acquired a portfolio of highly attractive oil 
+and gas assets. A common theme underlying each project is the application of 
+modern technology, such as the use of 3-D seismic data. </p>
+<p style="margin-top:8px; margin-bottom:8px; font-family:Arial; font-size:12pt" 
+align="justify"><b>Forward-Looking Statements.</b></p>
+<p style="margin-top:8px; margin-bottom:8px; font-family:Arial; font-size:12pt" 
+align="justify">This news release contains forward-looking and other statements 
+that are not historical facts. Readers are cautioned not to place undue reliance
+on forward-looking statements, as there can be no assurance that the plans, 
+intentions or expectations upon which they are based will occur. By their 
+nature, forward-looking statements involve numerous assumptions, known and 
+unknown risks and uncertainties, both general and specific, that contribute to 
+the possibility that the predictions, forecasts, projections and other forward 
+looking statements will not occur, which may cause actual performance and 
+results in future periods to differ materially from any estimates or projections
+of future performance or results expressed or implied by such forward looking 
+statements. These forward looking statements, projections and statements are 
+subject to change and could differ materially from final reported results. 
+Readers are cautioned not to place undue reliance on these forward-looking 
+statements, which speak only as of the dates on which they are made. Petro River
+assumes no obligation to update or revise any forward-looking statements, 
+whether as a result of new information, future events or otherwise, except as 
+required by applicable securities law. Additionally, Petro River undertakes no 
+obligation to comment on the expectations of, or statements made by, third 
+parties in respect to the matters discussed above. Readers should also carefully
+review the <font style="font-family:Arial Unicode MS,Arial">&ldquo;</font>Risk 
+Factors<font style="font-family:Arial Unicode MS,Arial">&rdquo;</font> in Petro 
+River<font style="font-family:Arial Unicode MS,Arial">&rsquo;</font>s annual 
+report on Form 10-K, its quarterly reports on Form 10-Q, and other reports filed
+with the SEC under the Securities Exchange Act of 1934, as amended.</p>
+<p style="margin-top:8px; margin-bottom:8px; font-family:Arial; font-size:12pt" 
+align="justify">For additional information about Petro River Oil, please visit 
+http://petroriveroil.com/ or contact:</p>
+<p style="margin:0px; font-family:Arial; font-size:12pt" align="justify">Mike 
+Straka</p>
+<p style="margin:0px; font-family:Arial; font-size:12pt" 
+align="justify">Investor Relations</p>
+<p style="margin:0px; font-family:Arial; font-size:12pt" 
+align="justify">ir@petroriveroil.com</p>
+<p style="margin:0px; font-family:Arial; font-size:12pt" 
+align="justify">telephone: (469) 828-3900</p>
+<p style="margin-top:8px; margin-bottom:8px; font-family:Arial; font-size:12pt" 
+align="center">&nbsp;</p>
+<p style="margin-top:8px; margin-bottom:8px; font-family:Arial; font-size:12pt" 
+align="justify"><b>&nbsp;</b></p>
+<p style="margin:9.333px" align="justify"><br></p>
+<p style="margin:9.333px" align="justify"><br></p>
+<p style="margin-top:8px; margin-bottom:8px; font-family:Arial; font-size:12pt" 
+align="center">-3 of 3-</p>
+<p style="margin:8px" align="justify"><br></p>
+</body></html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>graphic-08042016_020849.jpg
+<TEXT>
+begin 644 graphic-08042016_020849.jpg
+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
+M4?V5XJ_Z&:'_ ,$UM7844".-_L?Q/G/_  D=OGU_L2US^>*?_9?BO_H9H?\
+MP36]=?10-MO=M^IR']E^*QT\30C_ +@UO7$_$3PMXXUSP/K^DZ5KBWNJW']F
+MO;0K'!I1N8+75+:XU"Q^TVP)MQJVEP7%F3T!N2/8>RT4"/D_3_AS\0HOAA)H
+MD<<NG:E<_%#2/%%CH[ZW]JET/PI;^,=.UFXTHZE_R\@:7;W'^A^_]G]:]&T[
+M3/&&D_&/Q5J\FEW6H>$_%&A>$;"SO(]1@6VTN\T:+6CJ,T^GSD'_ $K[3;KF
+MSR3CD$L2?:J*IRD]VWHU\G:]NVR ****D!BG<#V8=\>^?\BO%/BA\$_A[\5X
+M5B\7?#3X5^.(RN/+^(7@K2O$J DGI]MM+K [\ 8.<"BBLJD8R2ND]5OY7:^?
+MGN;8>O6PU53P]6I1FTTY4Y.#M>*M=-:>0WP7\.;SP9H6C>$=!\/?"[P_X/T&
+M,6V@^'O#WAR?3]+TFT,QG$%CIP/V2T7D\6X10QSCH1[+;B1+>(2^7YFS!\E-
+MD?49PIZ>W [T45MS2:2;;2V5W9>BV1E4DY5FY.[M>_6[W^\MX'3''I1112$%
+:%%% !1110 4444 %%%% !1110 4444 ?_]D!
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

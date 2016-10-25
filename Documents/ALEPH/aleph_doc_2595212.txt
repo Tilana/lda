@@ -1,0 +1,2817 @@
+
+<SEC-DOCUMENT>0001078782-16-003275.txt : 20160816
+<SEC-HEADER>0001078782-16-003275.hdr.sgml : 20160816
+<ACCEPTANCE-DATETIME>20160815200700
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+EFFECTIVENESS DATE:
+0001078782-16-003275
+20160815
+20160816
+20160816
+S-8
+6
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: GOLD & SILVER ORES [1040]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+Mexus Gold US
+0001355677
+204092640
+0331
+NV
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 333-213151
+FILM NUMBER:
+S-8
+1933 Act
+161834502
+BUSINESS ADDRESS:
+STREET 1:
+STREET 2:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+1805 N. CARSON STREET
+SUITE 150
+CARSON CITY
+NV
+89701
+(916) 776 2166
+MAIL ADDRESS:
+STREET 1:
+CITY:
+STATE:
+ZIP:
+1805 N. CARSON STREET, #150
+CARSON CITY
+NV
+89701
+FORMER COMPANY:
+FORMER CONFORMED NAME: Action Fashions, Ltd.
+DATE OF NAME CHANGE:
+20060309
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>S-8
+<SEQUENCE>1
+<FILENAME>s8081216_s8.htm
+<DESCRIPTION>FORM S-8 REGISTRATION STATEMENT
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Form S-8 Registration Statement</TITLE>
+<META NAME="author" CONTENT="Cleary, John P.">
+<META NAME="date" CONTENT="08/12/2016">
+</HEAD>
+<BODY style="margin-top:0;font-family:Times New Roman; font-size:10pt; 
+color:#000000">
+<DIV style="width:720px"><P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><B>UNITED STATES</B></P>
+<P style="margin:0px" align=center><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+<P style="margin:0px" align=center><B>Washington, D.C. 20549</B></P>
+<P style="margin:0px" align=center>&nbsp;</P>
+<P style="margin:0px; font-size:12pt" align=center><B>FORM S-8</B></P>
+<P style="margin:0px" align=center>&nbsp;</P>
+<P style="margin:0px" align=center><B>REGISTRATION STATEMENT UNDER THE 
+SECURITIES ACT OF 1933</B></P>
+<P style="margin:0px" align=center>&nbsp;</P>
+<P style="margin:0px; font-size:14pt" align=center><B><U>MEXUS GOLD 
+US</U></B></P>
+<P style="margin:0px" align=center>(Exact name of registrant as specified in its
+charter)</P>
+<P style="margin:0px" align=center>&nbsp;</P>
+<P style="margin:0px" align=center>&nbsp;</P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+align=center><TR height=0 style="font-size:0"><TD width=284 /><TD width=8 /><TD 
+width=207.2 /></TR>
+<TR><TD style="margin-top:0px" valign=top width=284><P style="margin:0px" 
+align=center><B><U>Nevada</U></B></P>
+</TD><TD style="margin-top:0px" width=8><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=207.2><P style="margin:0px" 
+align=center><B>20-4092640</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=284><P style="margin:0px" 
+align=center>(State or other jurisdiction of incorporation or organization)</P>
+</TD><TD style="margin-top:0px" width=8><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=207.2><P style="margin:0px" 
+align=center>(I.R.S. Employer Identification No.)</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=center>&nbsp;</P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+align=center><TR height=0 style="font-size:0"><TD width=284 /><TD width=8 /><TD 
+width=207.2 /></TR>
+<TR><TD style="margin-top:0px" valign=top width=284><P style="margin:0px" 
+align=center><B>1805 N. Carson Street, Suite 150,</B></P>
+<P style="margin:0px" align=center><B>Carson City, NV</B></P>
+</TD><TD style="margin-top:0px" width=8><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=207.2><P style="margin:0px" 
+align=center><BR></P>
+<P style="margin:0px" align=center><B><U>89701</U></B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=284><P style="margin:0px" 
+align=center>(Address of Principal Executive Offices)</P>
+</TD><TD style="margin-top:0px" width=8><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=207.2><P style="margin:0px" 
+align=center>(Zip Code)</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=center>&nbsp;</P>
+<P style="margin:0px" align=center>&nbsp;</P>
+<P style="margin:0px" align=center><B><U>2016 Stock Incentive Plan</U></B></P>
+<P style="margin:0px" align=center>(Full title of the plan)</P>
+<P style="margin:0px" align=center>&nbsp;</P>
+<P style="margin:0px" align=center><B>Paul Thompson, Sr.</B></P>
+<P style="margin:0px" align=center><B>Chief Executive Officer</B></P>
+<P style="margin:0px" align=center><B>Mexus Gold US</B></P>
+<P style="margin:0px" align=center><B>1805 N. Carson Street, Suite 150</B></P>
+<P style="margin:0px" align=center><B><U>Carson City, NV 89701</U></B></P>
+<P style="margin:0px" align=center>&nbsp;(Name and address of agent for 
+service)</P>
+<P style="margin:0px" align=center>&nbsp;</P>
+<P style="margin:0px" align=center><U>(</U><B><U>916) 776-2166</U></B><U> 
+</U></P>
+<P style="margin:0px" align=center>(Telephone number, including area code, of 
+agent for service)</P>
+<P style="margin:0px" align=center>&nbsp;</P>
+<P style="margin:0px" align=center>_______________________________</P>
+<P style="margin:0px" align=center>&nbsp;</P>
+<P style="margin:0px" align=justify>Indicate by check mark whether the 
+registrant is a large accelerated filed, an accelerated filer, a non-accelerated
+filer, or a smaller reporting company. See the definitions of &#147;large 
+accelerated filer,&#148; &#147;accelerated filer&#148; and &#147;smaller 
+reporting company in Rule 12b-2 of the Exchange Act.</P>
+<P style="margin:0px">&nbsp;</P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+align=center><TR height=0 style="font-size:0"><TD width=405.6 /><TD width=204 
+/></TR>
+<TR><TD style="margin-top:0px" valign=top width=405.6><P 
+style="margin:0px">Large Accelerated filer<FONT style="font-size:12pt"> 
+</FONT><FONT style="margin-bottom:1.333px; padding-top:1.333px; padding-
+bottom:0px; font-size:6pt; border:1px solid 
+#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="font-size:6pt; 
+color:#FFFFFF">.</FONT></P>
+</TD><TD style="margin-top:0px" valign=top width=204><P 
+style="margin:0px">Accelerated filer<FONT style="font-size:12pt"> </FONT><FONT 
+style="margin-bottom:1.333px; padding-top:1.333px; padding-bottom:0px; font-
+size:6pt; border:1px solid #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT 
+style="font-size:6pt; color:#FFFFFF">.</FONT> &nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=405.6><P style="margin:0px">Non-
+accelerated filer<FONT style="font-size:12pt"> </FONT><FONT style="margin-
+bottom:1.333px; padding-top:1.333px; padding-bottom:0px; font-size:6pt; 
+border:1px solid #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT 
+style="font-size:6pt; color:#FFFFFF">.</FONT>&nbsp;(Do not check if a smaller 
+reporting company)</P>
+</TD><TD style="margin-top:0px" valign=top width=204><P 
+style="margin:0px">Smaller reporting company<FONT style="font-size:12pt"> 
+</FONT><FONT style="margin-bottom:1.333px; padding-top:1.333px; padding-
+bottom:0px; font-size:6pt; border:1px solid #000000">&nbsp;X </FONT><FONT 
+style="font-size:6pt; color:#FFFFFF">.</FONT></P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px">&nbsp;</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always" align=center><BR></P>
+<P style="margin:0px" align=center><B>CALCULATION OF REGISTRATION FEE</B></P>
+<P style="margin:0px" align=center>&nbsp;</P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+align=center><TR height=0 style="font-size:0"><TD width=298.067 /><TD 
+width=82.533 /><TD width=86.333 /><TD width=90.8 /><TD width=92.6 /></TR>
+<TR><TD style="margin-top:0px; border-bottom:1.333px solid #000000" 
+valign=bottom width=298.067><P style="margin:0px" align=center>Title of 
+securities to be<BR>
+registered</P>
+</TD><TD style="margin-top:0px; border-bottom:1.333px solid #000000" 
+valign=bottom width=82.533><P style="margin:0px" align=center>Amount to be<BR>
+registered <SUP>(1)</SUP></P>
+</TD><TD style="margin-top:0px; border-bottom:1.333px solid #000000" 
+valign=bottom width=86.333><P style="margin:0px; padding-right:4.667px" 
+align=center>Proposed<BR>
+maximum offering<BR>
+price per </P>
+<P style="margin:0px; padding-right:4.667px" 
+align=center>share&nbsp;<SUP>(2)</SUP></P>
+</TD><TD style="margin-top:0px; border-bottom:1.333px solid #000000" 
+valign=bottom width=90.8><P style="margin:0px" align=center>Proposed<BR>
+maximum<BR>
+aggregate offering<BR>
+price&nbsp;<SUP>(2)</SUP></P>
+</TD><TD style="margin-top:0px; border-bottom:1.333px solid #000000" 
+valign=bottom width=92.6><P style="margin:0px" align=center>Amount of<BR>
+registration<BR>
+fee&nbsp;<SUP>(3)</SUP></P>
+</TD></TR>
+<TR><TD style="margin-top:0px; background-color:#EAF9E8" width=298.067><P 
+style="margin:0px; padding-left:7px">Common stock, par value<BR>
+$0.001 per share (Reserved for issuance under the Mexus Gold US 2016 Stock 
+Incentive Plan)</P>
+</TD><TD style="margin-top:0px; background-color:#EAF9E8" width=82.533><P 
+style="margin:0px" align=center>30,000,000</P>
+</TD><TD style="margin-top:0px; background-color:#EAF9E8" width=86.333><P 
+style="margin:0px; padding-right:4.667px" align=center>$0.06</P>
+</TD><TD style="margin-top:0px; background-color:#EAF9E8" width=90.8><P 
+style="margin:0px" align=center>$1,800,000</P>
+</TD><TD style="margin-top:0px; background-color:#EAF9E8" width=92.6><P 
+style="margin:0px" align=center>$181.26</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=center>&nbsp;</P>
+<P style="margin:0px" align=center>&nbsp;</P>
+<P style="margin:0px" align=justify><SUP>(1)</SUP> Represents the maximum number
+of shares of common stock issuable pursuant to awards under the Mexus Gold US 
+2016 Stock Incentive Plan (the &#147;Plan&#148;). This Registration Statement 
+shall also cover any additional shares of common stock that become issuable by 
+reason of any stock dividend, stock split, recapitalization or other similar 
+transaction of or by the registrant that results in an increase in the number of
+the registrant&#146;s outstanding shares of common stock or shares issuable 
+pursuant to awards granted under the Plan. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><SUP>(2) </SUP>Estimated solely for purposes
+of calculating the registration fee pursuant to Rule 457(c) and 457(h) of the 
+Securities Act of 1933, as amended. The above calculation is based on the 
+closing price of the common stock reported on OTCMarkets.com on August 11, 2016.
+</P>
+<P style="margin:0px" align=justify>&nbsp;</P>
+<P style="margin:0px" align=justify><SUP>(3)</SUP>&nbsp;Represents the Proposed 
+Maximum Aggregate Offering Price multiplied by $0.0001162.</P>
+<P style="margin:0px">&nbsp;</P>
+<A NAME="PAGENUM"></A><P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><BR>
+<BR></P>
+<P style="margin:0px" align=center>2</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always" align=center><BR></P>
+<P style="margin:0px; padding-left:48px" align=center><B>PART I</B></P>
+<P style="margin:0px; padding-left:48px" align=center><B>INFORMATION REQUIRED IN
+THE SECTION 10(a) PROSPECTUS</B></P>
+<P style="margin:0px">&nbsp;</P>
+<P style="margin:0px" align=justify>Mexus Gold US (the &#147;Company&#148;) 
+prepared this Registration Statement in accordance with the requirements of Form
+S-8 under the Securities Act of 1933, as amended (the &#147;Securities 
+Act&#148;), to register an aggregate of 30,000,000 shares of the Company&#146;s 
+common stock that may be issued pursuant to the Mexus Gold US 2016 Stock 
+Incentive Plan (the &#147;Plan&#148;). The documents containing the information 
+specified in Part I of this Registration Statement will be sent or given to 
+participants in the Plan, as specified by Rule 428(b)(1) promulgated under the 
+Securities Act. Such documents need not be filed with the Securities and 
+Exchange Commission (the &#147;Commission&#148;) either as part of this 
+Registration Statement or as prospectuses or prospectus supplements pursuant to
+Rule 424 promulgated under the Securities Act. These documents and the documents
+incorporated by reference in this Registration Statement pursuant to Item 3, 
+Part II of this Registration Statement, taken together, constitute a prospectus 
+that meets the requirement of Section 10(a) of the Securities Act.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=center><B>PART II</B></P>
+<P style="margin:0px" align=center><B>INFORMATION REQUIRED IN THE REGISTRATION 
+STATEMENT</B></P>
+<P style="margin:0px" align=center>&nbsp;</P>
+<P style="margin:0px"><B>Item 3. Incorporation of Documents by 
+Reference.</B></P>
+<P style="margin:0px">&nbsp;</P>
+<P style="margin:0px" align=justify>The following documents filed by the 
+registrant with the Securities and Exchange Commission (the &#147;SEC&#148;) are
+incorporated in and made a part of this Registration Statement by reference as 
+of their respective dates: </P>
+<P style="margin:0px; text-indent:48px" align=justify>&nbsp;</P>
+<P style="margin:0px; text-indent:48px" align=justify>(a) The Company&#146;s 
+Annual Report on Form 10-K for the fiscal year ended March 31, 2016, filed with 
+the Commission on July 27, 2016.</P>
+<P style="margin:0px; text-indent:48px" align=justify>&nbsp;</P>
+<P style="margin:0px; text-indent:48px" align=justify>(b) All other reports 
+filed pursuant to Section 13(a) or 15(d) of the Exchange Act since the end of 
+the fiscal year covered by the Company's latest annual report referred to in (a)
+above. </P>
+<P style="margin:0px; text-indent:48px" align=justify>&nbsp;</P>
+<P style="margin:0px; text-indent:48px" align=justify>(c) The description of the
+Company&#146;s Common Stock contained in the Company&#146;s Registration 
+Statement on Form 10-SB, as filed with the Commission on January 24, 2007, 
+including amendments or reports filed for the purpose of updating such 
+description.</P>
+<P style="margin:0px" align=justify>&nbsp;</P>
+<P style="margin:0px" align=justify>All documents filed by the registrant after 
+the date of this Registration Statement pursuant to Sections 13(a), 13(c), 14 
+and 15(d) of the Securities Exchange Act of 1934, prior to the filing of a post-
+effective amendment which indicates that all securities offered have been sold 
+or which deregisters all securities then remaining unsold, will be deemed to be 
+incorporated by reference in this Registration Statement and to be a part hereof
+from the date of filing of such documents.</P>
+<P style="margin:0px" align=justify>&nbsp;</P>
+<P style="margin:0px" align=justify>Any statement contained in this Registration
+Statement, or in a document incorporated by reference herein, shall be deemed to
+be modified or superseded for purposes of this Registration Statement to the 
+extent that a statement contained herein, or in any other subsequently filed 
+document which also is or is deemed to be incorporated by reference herein, 
+modifies or supersedes such statement. Any such statement so modified or 
+superseded shall not be deemed, except as so modified or superseded, to 
+constitute a part of this Registration Statement.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>Item 4. Description of 
+Securities.</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>Not applicable.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>Item 5. Interests of Named Experts and 
+Counsel.</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>Not applicable.</P>
+<P style="margin:0px" align=justify><BR>
+<BR></P>
+<P style="margin:0px" align=center>3</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>Item 6. Indemnification of Officers and 
+Directors.</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>Subsection 1 of Section 78.037 of the Nevada
+Revised Statutes (the &#147;Nevada Law&#148;) empowers a corporation to 
+eliminate or limit the personal liability of a director or officer to the 
+corporation or its stockholders for damages for breach of fiduciary duty as a 
+director or officer, but such a provision must not eliminate or limit the 
+liability of a director or officer for (a) acts or omissions which involve 
+intentional misconduct, fraud or a knowing violation of law or (b) the payment 
+of distributions in violation of Section 78.300 of the Nevada Law. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>Subsection 1 of Section 78.7502 of the 
+Nevada Law empowers a corporation to indemnify any person who was or is a party 
+or is threatened to be made a party to any threatened, pending or completed 
+action, suit or proceeding, whether civil, criminal, administrative or 
+investigative (other than an action by or in the right of the corporation) by 
+reason of the fact that he or she is or was a director, officer, employee or 
+agent of the corporation or is or was serving at the request of the corporation 
+as a director, officer, employee or agent of another corporation, partnership, 
+joint venture, trust or other enterprise (an &#147;Indemnified Party&#148;), 
+against expenses (including attorneys&#146; fees), judgments, fines and amounts 
+paid in settlement actually and reasonably incurred by the Indemnified Party in 
+connection with such action, suit or proceeding if the Indemnified Party acted 
+in good faith and in a manner the Indemnified Party reasonably believed to be in
+or not opposed to the best interests of the corporation, and, with respect to 
+any criminal action or proceedings, had no reasonable cause to believe the 
+Indemnified Party&#146;s conduct was unlawful. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>Subsection 2 of Section 78.7502 of the 
+Nevada Law empowers a corporation to indemnify any Indemnified Party who was or 
+is a party or is threatened to be made a party to any threatened, pending or 
+completed action or suit by or in the right of the corporation to procure a 
+judgment in its favor by reason of the fact that such person acted in the 
+capacity of an Indemnified Party against expenses, including amounts paid in 
+settlement and attorneys&#146; fees actually and reasonably incurred by the 
+Indemnified Party in connection with the defense or settlement of such action or
+suit if the Indemnified Party acted under standards similar to those set forth 
+above, except that no indemnification may be made in respect of any claim, issue
+or matter as to which the Indemnified Party shall have been adjudged to be 
+liable to the corporation or for amounts paid in settlement to the corporation 
+unless and only to the extent that the court in which such action or suit was 
+brought determines upon application that in view of all the circumstances the 
+Indemnified Party is fairly and reasonably entitled to indemnity for such 
+expenses as the court deems proper. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>Section 78.7502 of the Nevada Law further 
+provides that to the extent an Indemnified Party has been successful on the 
+merits or otherwise in the defense of any action, suit or proceeding referred to
+in subsection (1) or (2) described above or in the defense of any claim, issue 
+or matter therein, the corporation shall indemnify the Indemnified Party against
+expenses (including attorneys&#146; fees) actually and reasonably incurred by 
+the Indemnified Party in connection therewith. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>Subsection 1 of Section 78.751 of the Nevada
+Law provides that any discretionary indemnification under Section 78.7502 of the
+Nevada Law, unless ordered by a court or advanced pursuant to Subsection 2 of 
+Section 78.751, may be made by a corporation only as authorized in the specific 
+case upon a determination that indemnification of the Indemnified Person is 
+proper in the circumstances. Such determination must be made (a) by the 
+stockholders, (b) by the board of directors of the corporation by majority vote 
+of a quorum consisting of directors who were not parties to the action, suit or 
+proceeding, (c) if a majority vote of a quorum of such disinterested directors 
+so orders, by independent legal counsel in a written opinion, or (d) by
+independent legal counsel in a written opinion if a quorum of such disinterested
+directors cannot be obtained. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>Subsection 2 of Section 78.751 of the Nevada
+Law provides that a corporation&#146;s articles of incorporation or bylaws or an
+agreement made by the corporation may require the corporation to pay as incurred
+and in advance of the final disposition of a criminal or civil action, suit or 
+proceeding, the expenses of officers and directors in defending such action, 
+suit or proceeding upon receipt by the corporation of an undertaking by or on 
+behalf of the officer or director to repay the amount if it is ultimately 
+determined by a court that he is not entitled to be indemnified by the 
+corporation. Said Subsection 2 further provides that the provisions of that 
+Subsection 2 do not affect any rights to advancement of expenses to which 
+corporate personnel other than officers and directors may be entitled under 
+contract or otherwise by law. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>Subsection 3 of Section 78.751 of the Nevada
+Law provides that indemnification and advancement of expenses authorized in or 
+ordered by a court pursuant to said Section 78.751 does not exclude any other 
+rights to which the Indemnified Party may be entitled under the articles of 
+incorporation or any by-law, agreement, vote of stockholders or disinterested 
+directors or otherwise, for either an action in his official capacity or in 
+another capacity while holding his office. However, indemnification, unless 
+ordered by a court pursuant to Section 78.7502 or for the advancement of 
+expenses under Subsection 2 of Section 78.751 of the Nevada Law, may not be made
+to or on behalf of any director or officer of the corporation if a final 
+adjudication establishes that his or her acts or omissions involved intentional 
+misconduct, fraud or a knowing violation of the law and was material to the 
+cause of action. Additionally, the scope of such indemnification and advancement
+of expenses shall continue as to an Indemnified Party who has ceased to hold one
+of the positions specified above, and shall inure to the benefit of his or her 
+heirs, executors and administrators. </P>
+<P style="margin:0px" align=justify><BR>
+<BR></P>
+<P style="margin:0px" align=center>4</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always" align=justify><BR></P>
+<P style="margin:0px" align=justify>Section 78.752 of the Nevada Law empowers a 
+corporation to purchase and maintain insurance or make other financial 
+arrangements on behalf of an Indemnified Party for any liability asserted 
+against such person and liabilities and expenses incurred by such person in his 
+or her capacity as an Indemnified Party or arising out of such person&#146;s 
+status as an Indemnified Party whether or not the corporation has the authority 
+to indemnify such person against such liability and expenses. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>The Bylaws of the Company provide for 
+indemnification of Indemnified Parties substantially identical in scope to that 
+permitted under the Nevada Law. Such Bylaws provide that the expenses of 
+directors and officers of the Company incurred in defending any action, suit or 
+proceeding, whether civil, criminal, administrative or investigative, must be 
+paid by the Company as they are incurred and in advance of the final disposition
+of the action, suit or proceeding, upon receipt of an undertaking by or on 
+behalf of such director or officer to repay all amounts so advanced if it is 
+ultimately determined by a court of competent jurisdiction that the director or 
+officer is not entitled to be indemnified by the Company. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; padding-right:-1.067px" align=justify><B>Item 7. Exemption
+from Registration Claimed.</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>Not applicable.</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><B>Item 8. Exhibits</B></P>
+<P style="margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+align=center><TR height=0 style="font-size:0"><TD width=63.867 /><TD width=319.2
+/></TR>
+<TR><TD style="margin-top:0px; border-bottom:3px double #000000" valign=top 
+width=63.867><P style="margin:0px" align=center><B>Exhibit</B></P>
+<P style="margin:0px" align=center><B>No.</B></P>
+</TD><TD style="margin-top:0px; border-bottom:3px double #000000" valign=top 
+width=319.2><P style="margin:0px"><BR></P>
+<P style="margin:0px"><B>Description</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=63.867><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=319.2><P
+style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=63.867><P style="margin:0px" 
+align=center><B>4.1</B></P>
+</TD><TD style="margin-top:0px" valign=top width=319.2><P 
+style="margin:0px">Mexus Gold US 2016 Stock Incentive Plan</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=63.867><P style="margin:0px" 
+align=center><B>4.2</B></P>
+</TD><TD style="margin-top:0px" valign=top width=319.2><P 
+style="margin:0px">Form of Stock Award Agreement</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=63.867><P style="margin:0px" 
+align=center><B>4.3</B></P>
+</TD><TD style="margin-top:0px" valign=top width=319.2><P 
+style="margin:0px">Form of Stock Option Grant Notice</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=63.867><P style="margin:0px" 
+align=center><B>5.1</B></P>
+</TD><TD style="margin-top:0px" valign=top width=319.2><P 
+style="margin:0px">Opinion of Phillip E. Koehnke, APC</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=63.867><P style="margin:0px" 
+align=center><B>23.1</B></P>
+</TD><TD style="margin-top:0px" valign=top width=319.2><P 
+style="margin:0px">Consent of RBSM LLC</P>
+</TD></TR>
+<TR><TD style="margin-top:0px; border-bottom:3px double #000000" valign=top 
+width=63.867><P style="margin:0px" align=center><B>24</B></P>
+</TD><TD style="margin-top:0px; border-bottom:3px double #000000" valign=top 
+width=319.2><P style="margin:0px">Power of Attorney (included on signature 
+page)</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><B>Item 9. Undertakings</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=justify>The Company hereby undertakes to file, 
+during the period in which any offers or sales are being made, a post-effective 
+amendment to this registration statement to include any prospectus required by 
+section 10(a)(3) of the Securities Act, and to reflect in such prospectus any 
+material change in the information contained in this registration statement and 
+to remove from registration by means of a post-effective amendment any of the 
+securities being registered which remain unsold at the termination of the 
+offering. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>The Company hereby undertakes to deliver or 
+cause to be delivered with the prospectus, to each person to whom the prospectus
+is sent or given, the latest annual report to security holders that is 
+incorporated by reference to the prospectus and furnish pursuant to any meeting 
+the requirements of Rule 14a-3 or Rule 14c-3 under the Exchange Act; and, to 
+deliver or cause to be delivered to each person to whom the prospectus is sent 
+or given, the latest quarterly report that is specifically incorporated by
+reference in the prospectus. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>The undersigned hereby undertakes that, for 
+purposes of determining any liability under the Securities Act, each filing of 
+the Company&#146;s annual report pursuant to section 13(a) or section 15(d) of 
+the Exchange Act (and, where applicable, each filing of an employee benefit 
+plan's annual report pursuant to section 15(d) of the Exchange Act) that is 
+incorporated by reference in the registration statement shall be deemed to be a 
+new registration statement relating to the securities offered therein, and the 
+offering of such securities at that time shall be deemed to be the initial bona 
+fide offering thereof. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>Insofar as indemnification for liabilities 
+arising under the Securities Act may be permitted to directors, officers and 
+controlling persons of the Company pursuant to the foregoing provisions, or 
+otherwise, the Company has been advised that in the opinion of the Commission 
+such indemnification is against public policy as expressed in the Exchange Act 
+and is, therefore, unenforceable. In the event that a claim for indemnification 
+against such liabilities (other than the payment by the Company of expenses 
+incurred or paid by a director, officer or controlling person of the Company in 
+the successful defense of any action, suit or proceeding) is asserted by such 
+director, officer or controlling person in connection with the securities being 
+registered, the Company will, unless in the opinion of its counsel the matter 
+has been settled by controlling precedent, submit to a court of appropriate 
+jurisdiction the question whether such indemnification by it is against public 
+policy as expressed in the Exchange Act and will be governed by the final 
+adjudication of such issue.</P>
+<P style="margin:0px" align=justify><BR>
+<BR></P>
+<P style="margin:0px" align=center>5</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always" align=justify><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><B>SIGNATURES</B></P>
+<P style="margin:0px" align=justify>&nbsp;</P>
+<P style="margin:0px; text-indent:48px" align=justify>Pursuant to the 
+requirements of the Securities Act, the Company certifies that it has reasonable
+grounds to believe that it meets all of the requirements for filing on Form S-8 
+and has duly caused this registration statement to be signed on its behalf by 
+the undersigned, thereunder duly authorized in Walnut Grove, California. </P>
+<P style="margin:0px" align=justify>&nbsp;</P>
+<P style="margin:0px; padding-left:336px; text-indent:-66px" 
+align=justify><B>MEXUS GOLD US</B></P>
+<P style="margin:0px; padding-left:336px" align=justify>&nbsp;</P>
+<P style="margin:0px; padding-left:240px; text-indent:30px" 
+align=justify><I><U>/s/ Paul Thompson, Sr.</U></I></P>
+<P style="margin:0px; text-indent:268.8px">By: Paul Thompson, Sr., Chief 
+Executive Officer</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR>
+<BR></P>
+<P style="margin:0px" align=center>6</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; padding-left:336px; page-break-before:always">&nbsp;</P>
+<P style="margin:0px" align=center><B>POWER OF ATTORNEY</B></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>The undersigned sole 
+director and officer of Mexus Gold US does hereby constitute and appoint Paul 
+Thompson, Sr., his true and lawful attorney-in-fact and agent, with full power 
+of substitution, for him, and in his name, place and stead, in any and all 
+capacities, to sign the Registration Statement filed herewith and any and all 
+amendments (including post-effective amendments) to the Registration Statement,
+with all exhibits thereto and all documents in connection therewith, with the 
+Commission, granting unto said attorney-in-fact and agent, and each of them, 
+full power and authority to do and perform each and every act and thing 
+requisite and necessary to be done in and about the premises, as fully to all 
+intents and purposes as he might or could do in person, hereby ratifying and 
+confirming all that said attorney-in-fact and agents, or any of them, or his or 
+their substitute or substitutes, may lawfully do or cause to be done by virtue 
+hereof. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>Pursuant to the 
+requirements of the Securities Act, this Registration Statement has been signed 
+by the following persons in the listed capacities on August 15, 2016.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+align=center><TR height=0 style="font-size:0"><TD width=175.867 /><TD 
+width=65.533 /></TR>
+<TR><TD style="margin-top:0px" valign=top width=175.867><P style="margin:0px" 
+align=justify><B>Name</B></P>
+</TD><TD style="margin-top:0px" valign=top width=65.533><P style="margin:0px" 
+align=justify><B>Title</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=175.867><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=65.533><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=175.867><P style="margin:0px" 
+align=justify><I><U>/s/ Paul Thompson, Sr.</U></I></P>
+</TD><TD style="margin-top:0px" valign=top width=65.533><P style="margin:0px" 
+align=justify>Director</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=175.867><P style="margin:0px" 
+align=justify>Paul Thompson, Sr.</P>
+</TD><TD style="margin-top:0px" valign=top width=65.533><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+</TABLE>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR>
+<BR></P>
+<P style="margin:0px" align=center>7</P>
+<P style="margin:0px"><BR></P>
+</DIV></BODY>
+<!-- EDGAR Validation Code: 46EB65CE -->
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-4.1
+<SEQUENCE>2
+<FILENAME>s8081216_ex4z1.htm
+<DESCRIPTION>EXHIBIT 4.1 STOCK INCENTIVE PLAN
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Exhibit 4.1 Stock Incentive Plan</TITLE>
+<META NAME="author" CONTENT="sales">
+<META NAME="date" CONTENT="08/12/2016">
+</HEAD>
+<BODY style="margin-top:0;font-family:Times New Roman; font-size:10pt; 
+color:#000000">
+<DIV style="width:720px"><P style="margin:0px"><BR></P>
+<P style="margin:0px">EXHIBIT 4.1</P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><B>MEXUS GOLD US 2016 STOCK INCENTIVE 
+PLAN</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=center><B>Adopted August 11, 2016</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; font-family:Times New Roman Bold,Times New Roman" 
+align=justify><B>THIS MEXUS GOLD US 2016 STOCK INCENTIVE PLAN</B><FONT 
+style="font-family:Times New Roman; font-size:6pt"><B> </B></FONT><FONT 
+style="font-family:Times New Roman">(the &#147;</FONT><FONT style="font-
+family:Times New Roman"><B>Plan</B></FONT><FONT style="font-family:Times New 
+Roman">&#148;) is designed to retain directors, executives and selected 
+employees and consultants and reward them for making contributions to the 
+success of the Company. These objectives are accomplished by making long-term 
+incentive awards under the Plan thereby providing Participants with a 
+proprietary interest in the growth and performance of the Company. </FONT></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>1. <U>Definitions</U></B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(a) 
+&#147;<B>Board</B>&#148; &#150; The Board of Directors of the Company.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(b) &#147;<B>Change in 
+Control</B>&#148; &#150; Means, and shall be deemed to have occurred upon the 
+occurrence of, any one of the following events:</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:96px" align=justify>i. The acquisition in one 
+transaction by any individual, entity or group (within the meaning of Section 
+13(d)(3) or 14(d)(2) of the Exchange Act) (a &#147; <B>Person </B>&#148;) of 
+beneficial ownership (within the meaning of Rule l3d-3 promulgated under the 
+Exchange Act) of shares or other securities (as defined in Section 3(a)(10) of 
+the Exchange Act) representing 51% or more of outstanding Stock of the Company; 
+provided, however, that a Change in Control as defined in this clause (1) shall 
+not be deemed to occur in connection with any acquisition by the Company, an 
+employee benefit plan of the Company or any Person who immediately prior to the 
+effective date of this Plan is a holder of Stock (a &#147;<B>Current Stockholder
+</B>&#148;) so long as such acquisition does not result in any Person other than
+the Company, such employee benefit plan or such Current Stockholder beneficially
+owning shares or securities representing 51% or more of the outstanding; or</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:96px" align=justify>ii. Any election has 
+occurred of persons as directors of the Company that causes two-thirds or more 
+of the Board to consist of persons other than (i) persons who were members of 
+the Board on the effective date of this Plan and (ii) persons who were nominated
+by the Board for election as members of the Board at a time when at least two-
+thirds of the Board consisted of persons who were members of the Board on the 
+effective date of this Plan; provided, however, that any person nominated for 
+election by the Board when at least two-thirds of the members of the Board are 
+persons described in sub clause (i) or (ii) and persons who were themselves 
+previously nominated in accordance with this clause (2) shall, for this purpose,
+be deemed to have been nominated by a Board composed of persons described in sub
+clause (ii); or</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:96px" align=justify>iii. Approval by the 
+stockholders of the Company of a reorganization, merger, consolidation or 
+similar transaction (a &#147;<B>Reorganization Transaction </B>&#148;), in each 
+case, unless, immediately following such Reorganization Transaction, more than 
+50% of, respectively, the outstanding shares of common stock (or similar equity 
+security) of the corporation or other entity resulting from or surviving such 
+Reorganization Transaction and the combined voting power of the securities of 
+such corporation or other entity entitled to vote generally in the election of 
+directors, is then beneficially owned, directly or indirectly, by the
+individuals and entities who were the respective beneficial owners of the 
+outstanding Stock immediately prior to such Reorganization Transaction in 
+substantially the same proportions as their ownership of the outstanding Stock 
+immediately prior to such Reorganization Transaction; or</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:96px" align=justify>iv. Approval by the 
+stockholders of the Company of (i) a complete liquidation or dissolution of the 
+Company or (ii) the sale or other disposition of all or substantially all of the
+assets of the Company to a corporation or other entity, unless, with respect to 
+such corporation or other entity, immediately following such sale or other 
+disposition, more than 50% of, respectively, the outstanding shares of common 
+stock (or similar equity security) of such corporation or other entity and the 
+combined voting power of the securities of such corporation or other entity 
+entitled to vote generally in the election of directors, is then beneficially 
+owned, directly or indirectly, by the individuals and entities who were the 
+respective beneficial owners of the outstanding Stock immediately prior to such 
+sale or disposition in substantially the same proportions as their ownership of 
+the outstanding Stock immediately prior to such sale or disposition.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(c) 
+&#147;<B>Code</B>&#148; &#150; The Internal Revenue Code of 1986, as amended 
+from time to time.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(d) 
+&#147;<B>Committee</B>&#148; &#150; The Compensation Committee of the Company's 
+Board, or such other committee of the Board that is designated by the Board to 
+administer the Plan, composed of not less than two members of the Board who are 
+disinterested persons, as contemplated by Rule 16b-3 (&#147; Rule 16b-3 &#148;) 
+promulgated under the Securities Exchange Act of 1934, as amended (the &#147; 
+Exchange Act &#148;).</P>
+<A NAME="eolPage8"></A><P style="margin:0px" align=justify><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(e) 
+&#147;<B>Company</B>&#148; &#150; Mexus Gold US and its subsidiaries, including 
+subsidiaries of subsidiaries.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(f) &#147;<B>Exchange 
+Act</B>&#148; &#150; The Securities Exchange Act of 1934, as amended from time 
+to time.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(g) &#147;<B>Fair Market 
+Value</B>&#148; &#150; The fair market value of the Company's issued and 
+outstanding Stock as determined in good faith by the Board or the Committee.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(h) &#147;<B>Grant 
+</B>&#148; &#150; The grant of any form of stock option, stock award, or stock 
+purchase offer, whether granted singly, in combination, or in tandem, to a 
+Participant pursuant to such terms, conditions and limitations as the Committee 
+may establish in order to fulfill the objectives of the Plan.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(i) &#147;<B>Grant 
+Agreement</B>&#148; &#150; An agreement between the Company and a Participant 
+that sets forth the terms, conditions and limitations applicable to a Grant.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(j) 
+&#147;<B>Option</B>&#148; &#150; Either an Incentive Stock Option, in accordance
+with Section 422 of Code, or a Nonstatutory Option, to purchase the Company's 
+Stock that may be awarded to a Participant under the Plan. A Participant who 
+receives an award of an Option shall be referred to as an 
+&#147;<B>Optionee&#148;</B>.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(k)
+&#147;<B>Participant</B>&#148; &#150; A director, officer, employee or 
+consultant of the Company to whom an Award has been made under the Plan.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(l) <B>Restricted Stock 
+Purchase Offer</B>&#148; &#150; A Grant of the right to purchase a specified 
+number of shares of Stock pursuant to a written agreement issued under the 
+Plan.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(m) &#147;<B>Securities 
+Act</B>&#148; &#150; The Securities Act of 1933, as amended from time to 
+time.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(n) 
+&#147;<B>Stock</B>&#148; &#150; Authorized and issued or unissued shares of 
+common stock of the Company.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(o) &#147;<B>Stock 
+Award</B>&#148; &#150; A Grant made under the Plan in stock or denominated in 
+units of stock for which the Participant is not obligated to pay additional 
+consideration.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>2. <U>Administration</U></B>. The Plan 
+shall be administered by the Board, provided however, that the Board may 
+delegate such administration to the Committee. Subject to the provisions of the 
+Plan, the Board and/or the Committee shall have authority to (a) grant, in its 
+discretion, Incentive Stock Options in accordance with Section 422 of the Code, 
+or Nonstatutory Options, Stock Awards or Restricted Stock Purchase Offers; (b) 
+determine in good faith the Fair Market Value of the Stock covered by any Grant;
+(c) determine which eligible persons shall receive Grants and the number of 
+shares, restrictions, terms and conditions to be included in such Grants; (d) 
+construe and interpret the Plan; (e) promulgate, amend and rescind rules and 
+regulations relating to its administration, and correct defects, omissions and 
+inconsistencies in the Plan or any Grant; (f) consistent with the Plan and with 
+the consent of the Participant, as appropriate, amend any outstanding Grant or 
+amend the exercise date or dates thereof; (g) determine the duration and purpose
+of leaves of absence which may be granted to Participants without constituting 
+termination of their employment for the purpose of the Plan or any Grant; and 
+(h) make all other determinations necessary or advisable for the Plan's 
+administration. The interpretation and construction by the Board of any 
+provisions of the Plan or selection of Participants shall be conclusive and 
+final. No member of the Board or the Committee shall be liable for any action or
+determination made in good faith with respect to the Plan or any Grant made 
+thereunder.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>3. <U>Eligibility</U></B>.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(a) <U>General: </U>The 
+persons who shall be eligible to receive Grants shall be directors, officers, 
+employees or consultants to the Company. The term consultant shall mean any 
+person, other than an employee, who is engaged by the Company to render services
+and is compensated for such services. An Optionee may hold more than one Option.
+Any issuance of a Grant to an officer or director of the Company subsequent to 
+the first registration of any of the securities of the Company under the 
+Exchange Act shall comply with the requirements of Rule 16b-3.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(b) <U>Incentive Stock 
+Options: </U>Incentive Stock Options may only be issued to employees of the 
+Company. Incentive Stock Options may be granted to officers or directors, 
+provided they are also employees of the Company. Payment of a director's fee 
+shall not be sufficient to constitute employment by the Company.</P>
+<P style="margin:0px" align=justify><BR>
+<BR></P>
+<P style="margin:0px" align=center>2</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(c) The Company shall not 
+grant an Incentive Stock Option under the Plan to any employee if such Grant 
+would result in such employee holding the right to exercise for the first time 
+in any one calendar year, under all Incentive Stock Options granted under the 
+Plan or any other plan maintained by the Company, with respect to shares of 
+Stock having an aggregate fair market value, determined as of the date the 
+Option is granted, in excess of $100,000. Should it be determined that an 
+Incentive Stock Option granted under the Plan exceeds such maximum for any 
+reason other than a failure in good faith to value the Stock subject to such 
+option, the excess portion of such option shall be considered a Nonstatutory 
+Option. To the extent the employee holds two (2) or more such Options which 
+become exercisable for the first time in the same calendar year, the foregoing 
+limitation on the exercisability of such Option as Incentive Stock Options under
+the Federal tax laws shall be applied on the basis of the order in which such 
+Options are granted. If, for any reason, an entire Option does not qualify as an
+Incentive Stock Option by reason of exceeding such maximum, such Option shall be
+considered a Nonstatutory Option.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(d) <U>Nonstatutory 
+Option</U>: The provisions of the foregoing Section 3(b) shall not apply to any 
+Option designated as a &#147;<B>Nonstatutory Option</B>&#148; or which sets 
+forth the intention of the parties that the Option be a Nonstatutory Option.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(e) <U>Stock Awards and 
+Restricted Stock Purchase Offers: </U>The provisions of this Section 3 shall not
+apply to any Stock Award or Restricted Stock Purchase Offer under the Plan.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>4. <U>Stock</U></B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(a)<U> Authorized Stock: 
+</U>Stock subject to Grants may be either unissued or reacquired Stock</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(b) <U>Number of Shares: 
+</U>Subject to adjustment as provided in Section 5(i) of the Plan, the total 
+number of shares of Stock which may be purchased or granted directly by Options,
+Stock Awards or Restricted Stock Purchase Offers, or purchased indirectly 
+through exercise of Options granted under the Plan shall not exceed thirty 
+million (30,000,000). If any Grant shall for any reason terminate or expire, any
+shares allocated thereto but remaining unpurchased upon such expiration or 
+termination shall again be available for Grants with respect thereto under the 
+Plan as though no Grant had previously occurred with respect to such shares. Any
+shares of Stock issued pursuant to a Grant and repurchased pursuant to the terms
+thereof shall be available for future Grants as though not previously covered by
+a Grant.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(c) <U>Reservation of 
+Shares: </U>The Company shall reserve and keep available at all times during the
+term of the Plan such number of shares as shall be sufficient to satisfy the 
+requirements of the Plan. If, after reasonable efforts, which efforts shall not 
+include the registration of the Plan or Grants under the Securities Act, the 
+Company is unable to obtain authority from any applicable regulatory body, which
+authorization is deemed necessary by legal counsel for the Company for the 
+lawful issuance of shares hereunder, the Company shall be relieved of any 
+liability with respect to its failure to issue and sell the shares for which 
+such requisite authority was so deemed necessary unless and until such authority
+is obtained.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(d) <U>Application of 
+Funds</U>: The proceeds received by the Company from the sale of Stock pursuant 
+to the exercise of Options or rights will be used for general corporate 
+purposes.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(e) <U>No Obligation to 
+Exercise</U>: The issuance of a Grant shall impose no obligation upon the 
+Participant to exercise any rights under such Grant.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>5. <U>Terms and Conditions of 
+Options</U></B>. Options granted hereunder shall be evidenced by agreements 
+between the Company and the respective Optionees, in such form and substance as 
+the Board or Committee shall from time to time approve. Option agreements need 
+not be identical, and in each case may include such provisions as the Board or 
+Committee may determine, but all such agreements shall be subject to and limited
+by the following terms and conditions:</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(a) <U>Number of Shares: 
+</U>Each Option shall state the number of shares to which it pertains.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(b) <U>Exercise Price: 
+</U>Each Incentive Stock Option shall state the exercise price, which shall be 
+determined as follows:</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:96px" align=justify>(i) Any Incentive Stock 
+Option granted to a person who at the time the Option is granted owns (or is 
+deemed to own pursuant to Section 424(d) of the Code) stock possessing more than
+ten percent (10%) of the total combined voting power or value of all classes of 
+stock of the Company (&#147;<B>Ten Percent Holder</B>&#148;) shall have an 
+exercise price of no less than 110% of the Fair Market Value of the Stock as of 
+the date of grant; and</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:96px" align=justify>(ii) Incentive Stock 
+Options granted to a person who at the time the Option is granted is not a Ten 
+Percent Holder shall have an exercise price of no less than 100% of the Fair 
+Market Value of the Stock as of the date of grant.</P>
+<P style="margin:0px" align=justify><BR>
+<BR></P>
+<P style="margin:0px" align=center>3</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>For the purposes of this 
+Section 5(b), the Fair Market Value shall be as determined by the Board in good 
+faith, which determination shall be conclusive and binding; provided however, 
+that if there is an active public market for such Stock, the Fair Market Value 
+per share shall be the average of the &nbsp;&nbsp;bid and asked prices (or the 
+closing price if such stock is listed on the NASDAQ Global Market or NASDAQ 
+Capital Market) on the date of grant of the Option, or if listed on a stock 
+exchange, the closing price on such exchange on such date of grant. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>The exercise price of each
+Nonstatutory Stock Option shall be determined at the discretion of the Board of 
+Directors of the Corporation. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(c) <U>Medium and Time of 
+Payment: </U>The exercise price shall become immediately due upon exercise of 
+the Option and shall be paid in cash or check made payable to the Company. 
+Should the Company's outstanding Stock be registered under Section 12(g) of the 
+Exchange Act at the time the Option is exercised, then the exercise price may 
+also be paid as follows:</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:96px" align=justify>(i) in shares of Stock 
+held by the Optionee for the requisite period necessary to avoid a charge to the
+Company's earnings for financial reporting purposes and valued at Fair Market 
+Value on the exercise date, or</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:96px" align=justify>(ii) through a special 
+sale and remittance procedure pursuant to which the Optionee shall concurrently
+provide irrevocable written instructions (a) to a Company designated brokerage 
+firm to effect the immediate sale of the purchased shares and remit to the 
+Company, out of the sale proceeds available on the settlement date, sufficient 
+funds to cover the aggregate exercise price payable for the purchased shares 
+plus all applicable Federal, state and local income and employment taxes 
+required to be withheld by the Company by reason of such purchase and (b) to the
+Company to deliver the certificates for the purchased shares directly to such 
+brokerage firm in order to complete the sale transaction.</P>
+<P style="margin:0px" align=justify><BR></P>
+<A NAME="eolPage11"></A><P style="margin:0px; text-indent:96px" 
+align=justify>(iii) At the discretion of the Board, exercisable either at the 
+time of Option grant or of Option exercise, the exercise price may also be paid 
+(i) by Optionee's delivery of a promissory note in form and substance 
+satisfactory to the Company and permissible under applicable securities rules 
+and bearing interest at a rate determined by the Board in its sole discretion, 
+but in no event less than the minimum rate of interest required to avoid the 
+imputation of compensation income to the Optionee under the Federal tax laws, or
+(ii) in such other form of consideration permitted by the Nevada Revised 
+Statutes as may be acceptable to the Board.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(d) <U>Term and Exercise 
+of Options: </U>Any Option granted to an employee of the Company shall become 
+exercisable over a period of no longer than ten (10) years. In no event shall 
+any Option be exercisable after the expiration of ten (10) years from the date 
+it is granted, and no Incentive Stock Option granted to a Ten Percent Holder 
+shall, by its terms, be exercisable after the expiration of ten (10) years from 
+the date of the Option. Unless otherwise specified by the Board or the Committee
+in the resolution authorizing such Option, the date of grant of an Option shall 
+be deemed to be the date upon which the Board or the Committee authorizes the 
+granting of such Option. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>Each Option shall be 
+exercisable to the nearest whole share, in installments or otherwise, as the 
+respective Option agreements may provide. During the lifetime of an Optionee, 
+the Option shall be exercisable only by the Optionee and shall not be assignable
+or transferable by the Optionee, and &nbsp;&nbsp;no other person shall acquire 
+any rights therein. To the extent not exercised, installments (if more than one)
+shall accumulate, but shall be exercisable, in whole or in part, only during the
+period for exercise as stated in the Option agreement, whether or not other 
+installments are then exercisable. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(e) <U>Termination of 
+Status as Employee, Consultant or Director: </U>If Optionee's status as an 
+employee shall terminate for any reason other than Optionee's disability or 
+death, then Optionee (or if the Optionee shall die after such termination, but 
+prior to exercise, Optionee's personal representative or the person entitled to 
+succeed to the Option) shall have the right to exercise the portions of any of 
+Optionee's Incentive Stock Options which were exercisable as of the date of such
+termination, in whole or in part, within 90 days after such termination (or, in 
+the event of &#147; <I>termination for good cause </I>&#148; as that term is 
+defined in Nevada case law related thereto, or by the terms of the Plan or the 
+Option Agreement or an employment agreement, the Option shall automatically 
+terminate as of the termination of employment as to all shares covered by the 
+Option).</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>With respect to 
+Nonstatutory Options granted to employees, directors or consultants, the Board 
+may specify such period for exercise, not less than 90 days (except that in the 
+case of &#147;<I>termination for cause</I>&#148; or removal of a director), the 
+Option shall automatically terminate as of the termination of employment or 
+services as to shares covered by the Option, following termination of employment
+or services as the Board deems reasonable and appropriate. The Option may be 
+exercised only with respect to installments that the Optionee could have 
+exercised at the date of termination of employment or services. Nothing
+contained herein or in any Option granted pursuant hereto shall be construed to 
+affect or restrict in any way the right of the Company to terminate the 
+employment or services of an Optionee with or without cause.</P>
+<P style="margin:0px" align=justify><BR>
+<BR></P>
+<P style="margin:0px" align=center>4</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(f) <U>Disability of 
+Optionee: </U>If an Optionee is disabled (within the meaning of Section 22(e)(3)
+of the Code) at the time of termination, the ninety (90) day period set forth in
+Section 5(e) shall be a period, as determined by the Board and set forth in the 
+Option, of not less than six months nor more than one year after such 
+termination.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(g) <U>Death of Optionee: 
+</U>If an Optionee dies while employed by, engaged as a consultant to, or 
+serving as a Director of the Company, the portion of such Optionee's Option 
+which was exercisable at the date of death may be exercised, in whole or in 
+part, by the estate of the decedent or by a person succeeding to the right to 
+exercise such Option at any time within (i) a period, as determined by the Board
+and set forth in the Option, of not less than six (6) months nor more than one 
+(1) year after Optionee's death, which period shall not be more, in the case of 
+a Nonstatutory Option, than the period for exercise following termination of 
+employment or services, or (ii) during the remaining term of the Option, 
+whichever is the lesser. The Option may be so exercised only with respect to 
+installments exercisable at the time of Optionee's death and not previously 
+exercised by the Optionee.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(h) <U>Nontransferability 
+of Option: </U>No Option shall be transferable by the Optionee, except by will 
+or by the laws of descent and distribution.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(i) <U>Recapitalization: 
+</U>Subject to any required action of shareholders, the number of shares of 
+Stock covered by each outstanding Option, and the exercise price per share 
+thereof set forth in each such Option, shall be proportionately adjusted for any
+increase or decrease in the number of issued shares of Stock of the Company 
+resulting from a stock split, stock dividend, combination, subdivision or 
+reclassification of shares, or the payment of a stock dividend, or any other 
+increase or decrease in the number of such shares affected without receipt of 
+consideration by the Company; provided, however, the conversion of any 
+convertible securities of the Company shall not be deemed to have been &#147; 
+<I>effected without receipt of consideration </I>&#148; by the Company.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>In the event of a proposed
+dissolution or liquidation of the Company, a merger or consolidation in which 
+the Company is not the surviving entity, or a sale of all or substantially all 
+of the assets or capital stock of the Company (collectively, a 
+&#147;<B>Reorganization</B>&#148;), unless otherwise provided by the Board, this
+Option shall terminate immediately prior to such date as is determined by the 
+Board, which date shall be no later than the consummation of such 
+Reorganization. In such event, if the entity which shall be the surviving entity
+does not tender to Optionee an offer, for which it has no obligation to do so, 
+to substitute for any unexercised Option a stock option or capital stock of such
+surviving entity, as applicable, which on an equitable basis shall provide the 
+Optionee with substantially the same economic benefit as such unexercised 
+Option, then the Board may grant to such Optionee, in its sole and absolute 
+discretion and without obligation, the right for a period commencing thirty (30)
+days prior to and ending immediately prior to the date determined by the Board 
+pursuant hereto for termination of the Option or during the remaining term of 
+the Option, whichever is the lesser, to exercise any unexpired Option or Options
+without regard to the installment provisions of Paragraph 6(d) of the Plan;
+provided, that any such right granted shall be granted to all Optionees not 
+receiving an offer to receive substitute options on a consistent basis, and 
+provided further, that any such exercise shall be subject to the consummation of
+such Reorganization. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>Subject to any required 
+action of shareholders, if the Company shall be the surviving entity in any 
+merger or consolidation, each outstanding Option thereafter shall pertain to and
+apply to the securities to which a holder of shares of Stock equal to the shares
+subject to the Option would have been entitled by reason of such merger or 
+consolidation. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>In the event of a change 
+in the Stock of the Company as presently constituted, which is limited to a 
+change of all of its authorized shares without par value into the same number of
+shares with a par value, the shares resulting from any such change shall be 
+deemed to be the Stock within the meaning of the Plan. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>To the extent that the 
+foregoing adjustments relate to stock or securities of the Company, such 
+adjustments shall be made by the Board, whose determination in that respect 
+shall be final, binding and conclusive. Except as expressly provided in this 
+Section 5(i), the Optionee shall have no rights by reason of any subdivision or 
+consolidation of shares of stock of any class or the payment of any stock 
+dividend or any other increase or decrease in the number of shares of stock of 
+any class, and the number or price of shares of Stock subject to any Option 
+shall not be affected by, and no adjustment shall be made by reason of, any 
+dissolution, liquidation, merger, consolidation or sale of assets or capital 
+stock, or any issue by the Company of shares of stock of any class or securities
+convertible into shares of stock of any class. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>The Grant of an Option 
+pursuant to the Plan shall not affect in any way the right or power of the 
+Company to make any adjustments, reclassifications, reorganizations or changes 
+in its capital or business structure or to merge, consolidate, dissolve, or 
+liquidate or to sell or transfer all or any part of its business or assets.</P>
+<P style="margin:0px" align=justify><BR>
+<BR></P>
+<P style="margin:0px" align=center>5</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(j) <U>Rights as a 
+Shareholder: </U>An Optionee shall have no rights as a shareholder with respect 
+to any shares covered by an Option until the effective date of the issuance of 
+the shares following exercise of such Option by Optionee. No adjustment shall be
+made for dividends (ordinary or extraordinary, whether in cash, securities or 
+other property) or distributions or other rights for which the record date is 
+prior to the date such stock certificate is issued, except as expressly provided
+in Section 5(i) hereof.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(k) <U>Modification, 
+Acceleration, Extension, and Renewal of Options: </U>Subject to the terms and 
+conditions and within the limitations of the Plan, the Board may modify an 
+Option, or, once an Option is exercisable, accelerate the rate at which it may 
+be exercised, and may extend or renew outstanding Options granted under the Plan
+or accept the surrender of outstanding Options (to the extent not theretofore 
+exercised) and authorize the granting of new Options in substitution for such 
+Options, provided such action is permissible under Section 422 of the Code and 
+applicable state securities laws. Notwithstanding the provisions of this Section
+5(k), however, no modification of an Option shall, without the consent of the 
+Optionee, alter to the Optionee's detriment or impair any rights or obligations 
+under any Option theretofore granted under the Plan</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(l) <U>Exercise Before 
+Exercise Date: </U>At the discretion of the Board, the Option may, but need not,
+include a provision whereby the Optionee may elect to exercise all or any 
+portion of the Option prior to the stated exercise date of the Option or any 
+installment thereof. Any shares so purchased prior to the stated exercise date 
+shall be subject to repurchase by the Company upon termination of Optionee's 
+employment as contemplated by Section 5(n) hereof prior to the exercise date 
+stated in the Option and such other restrictions and conditions as the Board or 
+Committee may deem advisable.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(m) <U>Other Provisions: 
+</U>The Option agreements authorized under the Plan shall contain such other 
+provisions, including, without limitation, restrictions upon the exercise of the
+Options, as the Board or the Committee shall deem advisable. Shares shall not be
+issued pursuant to the exercise of an Option, if the exercise of such Option or 
+the issuance of shares thereunder would violate, in the opinion of legal counsel
+for the Company, the provisions of any applicable law or the rules or 
+regulations of any applicable governmental or administrative agency or body, 
+such as the Code, the Securities Act, the Exchange Act, applicable state 
+securities laws, the corporate law of the state of Nevada, and the rules 
+promulgated under the foregoing or the rules and regulations of any exchange 
+upon which the shares of the Company are listed. Without limiting the generality
+of the foregoing, the exercise of each Option shall be subject to the condition 
+that if at any time the Company shall determine that (i) the satisfaction of 
+withholding tax or other similar liabilities, or (ii) the listing, registration 
+or qualification of any shares covered by such exercise upon any securities 
+exchange or under any state or federal law, or (iii) the consent or approval of 
+any regulatory body, or (iv) the perfection of any exemption from any such 
+withholding, listing, registration, qualification, consent or approval is 
+necessary or desirable in connection with such exercise or the issuance of 
+shares thereunder, then in any such event, such exercise shall not be effective 
+unless such withholding, listing registration, qualification, consent, approval 
+or exemption shall have been effected, obtained or perfected free of any 
+conditions not acceptable to the Company.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(n) <U>Repurchase 
+Agreement: </U>The Board may, in its discretion, require as a condition to the 
+Grant of an Option hereunder, that an Optionee execute an agreement with the 
+Company, in form and substance satisfactory to the Board in its discretion 
+(&#147;<B>Repurchase Agreement </B>&#148;), (i) restricting the Optionee's right
+to transfer shares purchased under such Option without first offering such 
+shares to the Company or another shareholder of the Company upon the same terms 
+and conditions as provided therein; and (ii) providing that upon termination of 
+Optionee's employment with the Company, for any reason, the Company (or another 
+shareholder of the Company, as provided in the Repurchase Agreement) shall have 
+the right at its discretion (or the discretion of such other shareholders) to 
+purchase and/or redeem all such shares owned by the Optionee on the date of 
+termination of his or her employment at a price equal to: (A) the fair value of 
+such shares as of such date of termination; or (B) if such repurchase right 
+lapses at 20% of the number of shares per year, the original purchase price of 
+such shares, and upon terms of payment permissible under the applicable state 
+securities laws; provided that in the case of Options or Stock Awards granted to
+officers, directors, consultants or affiliates of the Company, such repurchase 
+provisions may be subject to additional or greater restrictions as determined by
+the Board or Committee.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>6. <U>Stock Awards and Restricted Stock 
+Purchase Offers</U>.</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(a) <U>Types of 
+Grants.</U></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:96px" align=justify>(i) <U>Stock Award. 
+</U>All or part of any Stock Award under the Plan may be subject to conditions
+established by the Board or the Committee, and set forth in the Stock Award 
+Agreement, which may include, but are not limited to, continuous service with 
+the Company, achievement of specific business objectives, increases in specified
+indices, attaining growth rates and other comparable measurements of Company 
+performance. Such Awards may be based on Fair Market Value or other specified 
+valuation.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:96px" align=justify>(ii) <U>Restricted Stock 
+Purchase Offer. </U>A Grant of a Restricted Stock Purchase Offer under the Plan 
+shall be subject to such (i) vesting contingencies related to the Participant's 
+continued association with the Company for a specified time and (ii) other 
+specified conditions as the Board or Committee shall determine, in their sole 
+discretion, consistent with the provisions of the Plan.</P>
+<P style="margin:0px" align=justify><BR>
+<BR></P>
+<P style="margin:0px" align=center>6</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(b) <U>Conditions and 
+Restrictions. </U>Shares of Stock which Participants may receive as a Stock 
+Award under a Stock Award Agreement or Restricted Stock Purchase Offer under a 
+Restricted Stock Purchase Offer may include such restrictions as the Board or 
+Committee, as applicable, shall determine, including restrictions on transfer, 
+repurchase rights, right of first refusal, and forfeiture provisions. When 
+transfer of Stock is so restricted or subject to forfeiture provisions it is 
+referred to as &#147;<B>Restricted Stock</B>.&#148; Further, with Board or 
+Committee approval, Stock Awards or Restricted Stock Purchase Offers may be 
+deferred, either in the form of installments or a future lump sum distribution. 
+The Board or Committee may permit selected Participants to elect to defer 
+distributions of Stock Awards or Restricted Stock Purchase Offers in accordance 
+with procedures established by the Board or Committee to assure that such 
+deferrals comply with applicable requirements of the Code including, at the 
+choice of Participants, the capability to make further deferrals for 
+distribution after retirement. Any deferred distribution, whether elected by the
+Participant or specified by the Stock Award Agreement, Restricted Stock Purchase
+Offers or by the Board or Committee, may require the payment be forfeited in 
+accordance with the provisions of Section 6(c). Dividends or dividend equivalent
+rights may be extended to and made part of any Stock Award or Restricted Stock 
+Purchase Offers denominated in Stock or units of Stock, subject to such terms, 
+conditions and restrictions as the Board or Committee may establish.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(c) <U>Cancellation and 
+Rescission of Grants. </U>Unless the Stock Award Agreement or Restricted Stock 
+Purchase Offer specifies otherwise, the Board or Committee, as applicable, may 
+cancel any unexpired, unpaid, or deferred Grants at any time if the Participant 
+is not in compliance with all other applicable provisions of the Stock Award 
+Agreement or Restricted Stock Purchase Offer, the Plan and with the following 
+conditions:</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:96px" align=justify>(i) A Participant shall 
+not render services for any organization or engage directly or indirectly in any
+business which, in the judgment of the chief executive officer of the Company or
+other senior officer designated by the Board or Committee, is or becomes 
+competitive with the Company, or which organization or business, or the 
+rendering of services to such organization or business, is or becomes otherwise 
+prejudicial to or in conflict with the interests of the Company. For 
+Participants whose employment has terminated, the judgment of the chief 
+executive officer shall be based on the Participant's position and 
+responsibilities while employed by the Company, the Participant's post-
+employment responsibilities and position with the other organization or 
+business, the extent of past, current and potential competition or conflict 
+between the Company and the other organization or business, the effect on the 
+Company's customers, suppliers and competitors and such other considerations as
+are deemed relevant given the applicable facts and circumstances. A Participant 
+who has retired shall be free, however, to purchase as an investment or 
+otherwise, stock or other securities of such organization or business so long as
+they are listed upon a recognized securities exchange or traded over-the-
+counter, and such investment does not represent a substantial investment to the 
+Participant or a greater than ten percent (10%) equity interest in the 
+organization or business.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:96px" align=justify>(ii) A Participant shall 
+not, without prior written authorization from the Company, disclose to anyone 
+outside the Company, or use in other than the Company's business, any 
+confidential information or material, as defined in the Company's Proprietary 
+Information and Invention Agreement or similar agreement regarding confidential 
+information and intellectual property, relating to the business of the Company, 
+acquired by the Participant either during or after employment with the 
+Company.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:96px" align=justify>(iii) A Participant shall 
+disclose promptly and assign to the Company all right, title and interest in any
+invention or idea, patentable or not, made or conceived by the Participant 
+during employment by the Company, relating in any manner to the actual or 
+anticipated business, research or development work of the Company and shall do 
+anything reasonably necessary to enable the Company to secure a patent where 
+appropriate in the United States and in foreign countries.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:96px" align=justify>(iv) Upon exercise, 
+payment or delivery pursuant to a Grant, the Participant shall certify on a form
+acceptable to the Committee that he or she is in compliance with the terms and 
+conditions of the Plan. Failure to comply with all of the provisions of this 
+Section 6(c) prior to, or during the six months after, any exercise, payment or 
+delivery pursuant to a Grant shall cause such exercise, payment or delivery to 
+be rescinded. The Company shall notify the Participant in writing of any such 
+rescission within two years after such exercise, payment or delivery. Within ten
+days after receiving such a notice from the Company, the Participant shall pay 
+to the Company the amount of any gain realized or payment received as a result 
+of the rescinded exercise, payment or delivery pursuant to a Grant. Such payment
+shall be made either in cash or by returning to the Company the number of shares
+of Stock that the Participant received in connection with the rescinded 
+exercise, payment or delivery.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(d) 
+<U>Nonassignability.</U></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:96px" align=justify>(i) Except pursuant to 
+Section 6(e)(iii) and except as set forth in Section 6(d)(ii), no Grant or any 
+other benefit under the Plan shall be assignable or transferable, or payable to 
+or exercisable by, anyone other than the Participant to whom it was granted.</P>
+<P style="margin:0px" align=justify><BR>
+<BR></P>
+<P style="margin:0px" align=center>7</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always" align=justify><BR></P>
+<P style="margin:0px; text-indent:96px" align=justify>(ii) Where a Participant 
+terminates employment and retains a Grant pursuant to Section 6(e)(ii) in order 
+to assume a position with a governmental, charitable or educational institution,
+the Board or Committee, in its discretion and to the extent permitted by law, 
+may authorize a third party (including but not limited to the trustee of a 
+&#147;blind&#148; trust), acceptable to the applicable governmental or 
+institutional authorities, the Participant and the Board or Committee, to act on
+behalf of the Participant with regard to such Awards.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>(e) <U>Termination of 
+Employment. </U>If the employment or service to the Company of a Participant
+terminates, other than pursuant to any of the following provisions under this 
+Section 6(e), all unexercised, deferred and unpaid Stock Awards or Restricted 
+Stock Purchase Offers shall be cancelled immediately, unless the Stock Award 
+Agreement or Restricted Stock Purchase Offer provides otherwise:</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:96px" align=justify>(i) <U>Retirement Under a 
+Company Retirement Plan. </U>When a Participant's employment terminates as a 
+result of retirement in accordance with the terms of a Company retirement plan, 
+the Board or Committee may permit Stock Awards or Restricted Stock Purchase 
+Offers to continue in effect beyond the date of retirement in accordance with 
+the applicable Grant Agreement and the exercisability and vesting of any such 
+Grants may be accelerated.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:96px" align=justify>(ii) <U>Rights in the Best
+Interests of the Company. </U>When a Participant resigns from the Company and, 
+in the judgment of the Board or Committee, the acceleration and/or continuation 
+of outstanding Stock Awards or Restricted Stock Purchase Offers would be in the 
+best interests of the Company, the Board or Committee may (i) authorize, where 
+appropriate, the acceleration and/or continuation of all or any part of Grants 
+issued prior to such termination and (ii) permit the exercise, vesting and 
+payment of such Grants for such period as may be set forth in the applicable 
+Grant Agreement, subject to earlier cancellation pursuant to Section 9 or at 
+such time as the Board or Committee shall deem the continuation of all or any 
+part of the Participant's Grants are not in the Company's best interest.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:96px" align=justify>(iii) <U>Death or 
+Disability of a Participant.</U></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:144px" align=justify>1. In the event of a 
+Participant's death, the Participant's estate or beneficiaries shall have a 
+period up to the expiration date specified in the Grant Agreement within which 
+to receive or exercise any outstanding Grant held by the Participant under such 
+terms as may be specified in the applicable Grant Agreement. Rights to any such 
+outstanding Grants shall pass by will or the laws of descent and distribution in
+the following order: (a) to beneficiaries so designated by the Participant; if 
+none, then (b) to a legal representative of the Participant; if none, then (c) 
+to the persons entitled thereto as determined by a court of competent 
+jurisdiction. Grants so passing shall be made at such times and in such manner 
+as if the Participant were living.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:144px" align=justify>2. In the event a 
+Participant is deemed by the Board or Committee to be unable to perform his or 
+her usual duties by reason of mental disorder or medical condition which does 
+not result from facts which would be grounds for termination for cause, Grants 
+and rights to any such Grants may be paid to or exercised by the Participant, if
+legally competent, or a committee or other legally designated guardian or 
+representative if the Participant is legally incompetent by virtue of such 
+disability.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:144px" align=justify>3. After the death or 
+disability of a Participant, the Board or Committee may in its sole discretion 
+at any time (1) terminate restrictions in Grant Agreements; (2) accelerate any 
+or all installments and rights; and (3) instruct the Company to pay the total of
+any accelerated payments in a lump sum to the Participant, the Participant's 
+estate, beneficiaries or representative; notwithstanding that, in the absence of
+such termination of restrictions or acceleration of payments, any or all of the 
+payments due under the Grant might ultimately have become payable to other 
+beneficiaries.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:144px" align=justify>4. In the event of 
+uncertainty as to interpretation of or controversies concerning this Section 6, 
+the determinations of the Board or Committee, as applicable, shall be binding 
+and conclusive.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>7. <U>Change in Control</U>.<I> 
+</I></B>Unless otherwise provided in the applicable Grant Agreement, in the 
+event of a Change in Control, 50% of the vesting restrictions applicable to each
+Participant&#146;s Grant(s) shall terminate fully and the Participant shall 
+immediately have the right to the delivery of share certificates or exercise of 
+Options, i.e. to the extent that a Participant&#146;s Option(s) are unvested, 
+50% of such unvested portion shall vest.</P>
+<P style="margin:0px" align=justify><BR>
+<BR></P>
+<P style="margin:0px" align=center>8</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>8. <U>Investment Intent</U></B>. All 
+Grants under the Plan are intended to be exempt from registration under the 
+Securities Act provided by Rule 701 thereunder. Unless and until the granting of
+Options or sale and issuance of Stock subject to the Plan are registered under 
+the Securities Act or shall be exempt pursuant to the rules promulgated 
+thereunder, each Grant under the Plan shall provide that the purchases or other 
+acquisitions of Stock thereunder shall be for investment purposes and not with a
+view to, or for resale in connection with, any distribution thereof. Further, 
+unless the issuance and sale of the Stock have been registered under the 
+Securities Act, each Grant shall provide that no shares shall be purchased upon 
+the exercise of the rights under such Grant unless and until (i) all then 
+applicable requirements of state and federal laws and regulatory agencies shall 
+have been fully complied with to the satisfaction of the Company and its 
+counsel, and (ii) if requested to do so by the Company, the person exercising 
+the rights under the Grant shall (A) give written assurances as to knowledge and
+experience of such person (or a representative employed by such person) in 
+financial and business matters and the ability of such person (or 
+representative) to evaluate the merits and risks of exercising the Option, and 
+(B) execute and deliver to the Company a letter of investment intent and/or such
+other form related to applicable exemptions from registration, all in such form 
+and substance as the Company may require. If shares are issued upon exercise of 
+any rights under a Grant without registration under the Securities Act, 
+subsequent registration of such shares shall relieve the purchaser thereof of 
+any investment restrictions or representations made upon the exercise of such 
+rights.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>9. <U>Amendment, Modification, Suspension
+or Discontinuance of the Plan</U></B>. The Board may, insofar as permitted by 
+law, from time to time, with respect to any shares at the time not subject to 
+outstanding Grants, suspend or terminate the Plan or revise or amend it in any 
+respect whatsoever, except that without the approval of the shareholders of the 
+Company, no such revision or amendment shall (i) increase the number of shares 
+subject to the Plan, (ii) decrease the price at which Grants may be granted, 
+(iii) materially increase the benefits to Participants, or (iv) change the class
+of persons eligible to receive Grants under the Plan; provided, however, no such
+action shall alter or impair the rights and obligations under any Option, or 
+Stock Award, or Restricted Stock Purchase Offer outstanding as of the date 
+thereof without the written consent of the Participant thereunder. No Grant may 
+be issued while the Plan is suspended or after it is terminated, but the rights 
+and obligations under any Grant issued while the Plan is in effect shall not be 
+impaired by suspension or termination of the Plan.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>In the event of any change in the 
+outstanding Stock by reason of a stock split, stock dividend, combination or 
+reclassification of shares, recapitalization, merger, or similar event, the 
+Board or the Committee may adjust proportionally (a) the number of shares of 
+Stock (i) reserved under the Plan, (ii) available for Incentive Stock Options 
+and Nonstatutory Options and (iii) covered by outstanding Stock Awards or 
+Restricted Stock Purchase Offers; (b) the Stock prices related to outstanding 
+Grants; and (c) the appropriate Fair Market Value and other price determinations
+for such Grants. In the event of any other change affecting the Stock or any
+distribution (other than normal cash dividends) to holders of Stock, such 
+adjustments as may be deemed equitable by the Board or the Committee, including 
+adjustments to avoid fractional shares, shall be made to give proper effect to 
+such event. In the event of a corporate merger, consolidation, acquisition of 
+property or stock, separation, reorganization or liquidation, the Board or the 
+Committee shall be authorized to issue or assume stock options, whether or not 
+in a transaction to which Section 424(a) of the Code applies, and other Grants 
+by means of substitution of new Grant Agreements for previously issued Grants or
+an assumption of previously issued Grants. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>10. <U>Tax Withholding</U></B>. The 
+Company shall have the right to deduct applicable taxes from any Grant payment 
+and withhold, at the time of delivery or exercise of Options, Stock Awards or 
+Restricted Stock Purchase Offers or vesting of shares under such Grants, an 
+appropriate number of shares for payment of taxes required by law or to take 
+such other action as may be necessary in the opinion of the Company to satisfy 
+all obligations for withholding of such taxes. If Stock is used to satisfy tax 
+withholding, such stock shall be valued based on the Fair Market Value when the 
+tax withholding is required to be made.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>11. <U>Availability of 
+Information</U></B>. During the term of the Plan and any additional period 
+during which a Grant granted pursuant to the Plan shall be exercisable, the 
+Company shall make available, not later than one hundred and twenty (120) days 
+following the close of each of its fiscal years, such financial and other 
+information regarding the Company as is required by the bylaws of the Company 
+and applicable law to be furnished in an annual report to the shareholders of 
+the Company.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>12. <U>Notice</U></B>. Any written notice
+to the Company required by any of the provisions of the Plan shall be addressed 
+to the chief personnel officer or to the chief executive officer of the Company,
+and shall become effective when it is received by the office of the chief 
+personnel officer or the chief executive officer.</P>
+<P style="margin:0px" align=justify><BR>
+<BR></P>
+<P style="margin:0px" align=center>9</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>13. <U>Indemnification of Board</U></B>. 
+In addition to such other rights or indemnifications as they may have as 
+directors or otherwise, and to the extent allowed by applicable law, the members
+of the Board and the Committee shall be indemnified by the Company against the 
+reasonable expenses, including attorneys' fees, actually and necessarily 
+incurred in connection with the defense of any claim, action, suit or 
+proceeding, or in connection with any appeal thereof, to which they or any of 
+them may be a party by reason of any action taken, or failure to act, under or 
+in connection with the Plan or any Grant granted thereunder, and against all 
+amounts paid by them in settlement thereof (provided such settlement is approved
+by independent legal counsel selected by the Company) or paid by them in 
+satisfaction of a judgment in any such claim, action, suit or proceeding, except
+in any case in relation to matters as to which it shall be adjudged in such 
+claim, action, suit or proceeding that such Board or Committee member is liable 
+for negligence or misconduct in the performance of his or her duties; provided 
+that within sixty (60) days after institution of any such action, suit or Board 
+proceeding the member involved shall offer the Company, in writing, the 
+opportunity, at its own expense, to handle and defend the same.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>14. <U>Governing Law</U></B>. The Plan 
+and all determinations made and actions taken pursuant hereto, to the extent not
+otherwise governed by the Code or the securities laws of the United States, 
+shall be governed by the law of the State of California and construed 
+accordingly.</P>
+<P style="margin:0px" align=justify>&nbsp;</P>
+<P style="margin:0px" align=justify><B>15. <U>Termination Dates</U></B>. The 
+Plan shall terminate ten years later, subject to earlier termination by the 
+Board pursuant to Section 9.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>The foregoing 2016 Stock 
+Incentive Plan was duly adopted and approved by the Board of Directors as of 
+Mexus Gold US on August 11, 2016. </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+align=center><TR height=0 style="font-size:0"><TD width=24.467 /><TD 
+width=251 /></TR>
+<TR><TD style="margin-top:0px" valign=top width=275.467 colspan=2><P 
+style="margin:0px" align=justify><B>MEXUS GOLD US </B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=24.467><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=251><P 
+style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px; border-bottom:4px solid #FFFFFF" valign=top 
+width=24.467><P style="margin:0px" align=justify>By: </P>
+</TD><TD style="margin-top:0px; border-bottom:2px solid #000000" valign=top 
+width=251><P style="margin:0px" align=justify>/s/ <I>Paul Thompson Sr.</I></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=24.467><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom 
+width=251><P style="margin:0px" align=justify>Name: Paul Thompson, Sr. </P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=24.467><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=251><P 
+style="margin:0px" align=justify>Title: Chief Executive Officer </P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><BR>
+<BR></P>
+<P style="margin:0px" align=center>10</P>
+<P style="margin:0px"><BR></P>
+</DIV></BODY>
+<!-- EDGAR Validation Code: CE4BDE78 -->
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-4.2
+<SEQUENCE>3
+<FILENAME>s8081216_ex4z2.htm
+<DESCRIPTION>EXHIBIT 4.2 STOCK AWARD AGREEMENT
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Exhibit 4.2 Stock Award Agreement</TITLE>
+<META NAME="author" CONTENT="Phillip E. Koehnke">
+<META NAME="date" CONTENT="08/12/2016">
+</HEAD>
+<BODY style="margin-top:0;font-family:Times New Roman; font-size:10pt; 
+color:#000000">
+<DIV style="width:720px"><P style="margin:0px"><BR></P>
+<P style="margin:0px"><B>EXHIBIT 4.2</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><B>MEXUS GOLD US</B></P>
+<P style="margin:0px" align=center><B>STOCK AWARD AGREEMENT</B></P>
+<P style="margin:0px" align=center><B>UNDER</B></P>
+<P style="margin:0px" align=center><B>MEXUS GOLD US 2016 STOCK INCENTIVE PLAN 
+</B></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>THIS STOCK AWARD AGREEMENT
+(the &#147;<U>Agreement</U>&#148;) is entered into as of _________________, 20__
+by and between _________________________ (hereinafter referred to as 
+&#147;<U>Grantee</U>&#148;) and Mexus Gold US, a Nevada corporation (hereinafter
+referred to as the &#147;<U>Company</U>&#148;), pursuant to the Company&#146;s 
+2016 Stock Incentive Plan (the &#147;<U>Plan</U>&#148;). Any capitalized term 
+not defined herein shall have the same meaning ascribed to it in the Plan.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=center><B>R E C I T A L S:</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>A. Grantee is an employee,
+director or consultant of the Company, and in connection therewith has rendered 
+services for and on behalf of the Company or an Affiliate.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>B. The Company desires to 
+issue shares of the Company&#146;s Common Stock to Grantee for the consideration
+set forth herein to compensate Grantee for past services to the Company and/or 
+to provide an incentive for Grantee to remain a service provider of the Company 
+and to exert added effort towards its growth and success.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>NOW, THEREFORE, in 
+consideration of the mutual covenants hereinafter set forth, and for other good 
+and valuable consideration, the parties agree as follows:</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>1. <B><U>Issuance of 
+Shares</U></B>. The Company hereby offers to issue to Grantee an aggregate of 
+___________) shares of Common Stock of the Company (the 
+&#147;<U>Shares</U>&#148;) on the terms and conditions herein set forth. Unless 
+this offer is earlier revoked in writing by the Company, Grantee shall have ten 
+(10) days from the date of the delivery of this Agreement to Grantee to accept 
+the offer of the Company by executing and delivering to the Company two copies 
+of this Agreement, without condition or reservation of any kind whatsoever, 
+together with the consideration to be delivered by Grantee pursuant to Section 2
+below, if applicable. If the Grantee does not accept the offer represented by 
+this Agreement as set forth above within ten (10) days, such offer shall be null
+and void.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>2. 
+<B><U>Consideration</U></B>. The consideration for the grant of the Shares shall
+be the services already rendered to the Company by the Grantee. The total value 
+of the services provided shall be reported to tax authorities as being 
+$___________, which is equal to the aggregate Fair Market Value of the Shares 
+granted.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>3. <B><U>Vesting of 
+Shares</U></B>. The Shares shall be fully vested as of the date of this 
+Agreement.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>4. <B><U>No Right to 
+Continued Service</U>.</B> The issuance of the Shares does not confer upon 
+Grantee any right to continue as an Employee or Director of, or Consultant to, 
+the Company or an Affiliate, nor does it limit in any way the right of the 
+Company or an Affiliate to terminate Grantee&#146;s employment or other 
+relationship with the Company or an Affiliate, at any time, with or without 
+cause.</P>
+<P style="margin:0px; text-indent:48px" align=justify>&nbsp;</P>
+<P style="margin:0px; text-indent:48px" align=justify>5. <B><U>Tax 
+Consequences</U></B>. Grantee understands that Grantee (and not the Company) 
+shall be responsible for the Grantee&#146;s own tax liability that may arise as 
+a result of the grant of the Shares. Grantee represents that Grantee has 
+consulted any tax consultants Grantee deems advisable in connection with the
+receipt of the Shares and that Grantee is not relying on the Company or the 
+Company&#146;s counsel for any tax advice. The Company intends to report the 
+value of the Shares granted, at the value describe in Section 2, to appropriate 
+tax authorities. The Company has the authority to require Grantee to remit to 
+the Company an amount sufficient to satisfy all federal, state, and local taxes 
+required by law to be withheld with respect to any taxable event arising as a 
+result of the receipt of the Shares.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>6. 
+<B><U>Miscellaneous</U>.</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:96px" align=justify>(a) This Agreement shall 
+bind and inure to the benefit of the parties&#146; heirs, legal representatives,
+successors and permitted assigns.</P>
+<P style="margin:0px" align=justify><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always" align=justify><BR></P>
+<P style="margin:0px; text-indent:96px" align=justify>(b) This Agreement and the
+Plan constitute the entire agreement between the parties pertaining to the 
+subject matter contained herein and they supersede all prior and contemporaneous
+agreements, representations and understandings of the parties. A copy of the 
+Plan has been delivered to Grantee and also may be inspected by Grantee at the 
+principal office of the Company, and Grantee hereby consents to receive any 
+updates to the Plan or Plan prospectus electronically. The parties agree that 
+the entire text of the Plan is incorporated by reference as if copied herein. No
+supplement, modification or amendment of this Agreement shall be binding unless 
+executed in writing by all of the parties. No waiver of any of the provisions of
+this Agreement shall be deemed or shall constitute a waiver of any other 
+provisions, whether or not similar, nor shall any waiver constitute a continuing
+waiver. No waiver shall be binding unless executed in writing by the party 
+making the waiver. In the event there exists any conflict or discrepancy between
+any of the terms in the Plan and this Agreement, the terms of the Plan shall be 
+controlling. A copy of the Plan has been delivered to Grantee and also may be 
+inspected by Grantee at the principal office of the Company.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:96px" align=justify>(c) By execution of this 
+Agreement, Grantee consents to the delivery of any notice to the stockholders 
+given by the Company in the form of an electronic transmission.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:96px" align=justify>(d) Should any portion of 
+the Plan or this Agreement be declared invalid and unenforceable, then such 
+portion shall be deemed to be severable from this Agreement and shall not affect
+the remainder hereof.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:96px" align=justify>(e) All notices required 
+or permitted hereunder shall be in writing and shall be deemed effectively 
+given: (i) upon personal delivery to the party to be notified; (ii) three (3) 
+days after having been sent by registered or certified mail, return receipt 
+requested, postage prepaid; or (iii) one (1) day after deposit with a nationally
+recognized overnight courier, specifying next day delivery, with written 
+verification of receipt. All communications shall be sent to the Company at its 
+principal executive office, and to Grantee at the address set forth on the 
+signature page to this Agreement, or at such other address as the Company or 
+Grantee may designate by ten (10) days advance written notice to the other party
+hereto.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:96px" align=justify>(f) By executing the 
+Agreement, the Company and Grantee waive their respective rights hereunder to 
+have any such disputes or claims tried by a judge or jury.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:96px" align=justify>(g) This Agreement may be 
+executed in any number of counterparts, each of which when so executed and 
+delivered will be deemed an original, and all such counterparts together will
+constitute one and the same instrument.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:96px" align=justify>(h) This Agreement shall 
+be construed according to the laws of the State of New York.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=center><I>[Signature Page Follows]</I></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR>
+<BR></P>
+<P style="margin:0px" align=center>2</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always" align=center><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>IN WITNESS WHEREOF, the 
+parties hereto have executed this Agreement as of the date first above 
+written.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+width=100%><TR height=0 style="font-size:0"><TD width=42.133 /><TD /><TD 
+width=42.133 /><TD width=47.467 /><TD width=294.133 /></TR>
+<TR><TD style="margin-top:0px" valign=top width=336.267 colspan=2><P 
+style="margin:0px"><B>THE COMPANY: </B></P>
+</TD><TD style="margin-top:0px" valign=top width=42.133><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=341.6 
+colspan=2><P style="margin:0px"><B>GRANTEE</B>:</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=336.267 colspan=2><P 
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" 
+valign=top width=42.133><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=top width=341.6 colspan=2><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=336.267 colspan=2><P 
+style="margin:0px"><B>MEXUS GOLD US</B></P>
+</TD><TD style="margin-top:0px" valign=top width=42.133><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=341.6 
+colspan=2><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=42.133><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top><P 
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" 
+valign=top width=42.133><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=top width=47.467><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=294.133><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=42.133><P 
+style="margin:0px">By:</P>
+</TD><TD style="margin-top:0px; border-bottom:1.333px solid #000000" 
+valign=top><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=top width=42.133><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1.333px 
+solid #000000" valign=top width=47.467><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1.333px 
+solid #000000" valign=top width=294.133><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=42.133><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top><P 
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" 
+valign=top width=42.133><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=top width=341.6 colspan=2><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=42.133><P 
+style="margin:0px">Name:</P>
+</TD><TD style="margin-top:0px; border-bottom:1.333px solid #000000" 
+valign=top><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=top width=42.133><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1.333px 
+solid #000000" valign=top width=47.467><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1.333px 
+solid #000000" valign=top width=294.133><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=42.133><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top><P 
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" 
+valign=top width=42.133><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=top width=341.6 colspan=2><P style="margin:0px" 
+align=center>(Print Name)</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=42.133><P 
+style="margin:0px">Title</P>
+</TD><TD style="margin-top:0px; border-bottom:1.333px solid #000000" 
+valign=top><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=top width=42.133><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=47.467><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=top width=294.133><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=42.133><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top><P 
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" 
+valign=top width=42.133><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=top width=47.467><P 
+style="margin:0px">Address:</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=top 
+width=294.133><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=42.133><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top><P 
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" 
+valign=top width=42.133><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=top width=47.467><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=294.133><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=42.133><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top><P 
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" 
+valign=top width=42.133><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px; border-bottom:1.333px solid #000000" valign=top 
+width=47.467><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px; border-bottom:1.333px solid #000000" valign=top 
+width=294.133><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=42.133><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top><P 
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" 
+valign=top width=42.133><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px; border-bottom:1.333px solid #000000" valign=top 
+width=47.467><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px; border-bottom:1.333px solid #000000" valign=top 
+width=294.133><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+</TABLE>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR>
+<BR></P>
+<P style="margin:0px" align=center>3</P>
+<P style="margin:0px"><BR></P>
+</DIV></BODY>
+<!-- EDGAR Validation Code: 90831598 -->
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-4.3
+<SEQUENCE>4
+<FILENAME>s8081216_ex4z3.htm
+<DESCRIPTION>EXHIBIT 4.3 STOCK OPTION AGREEMENT
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Exhibit 4.3 Stock Option Agreement</TITLE>
+<META NAME="author" CONTENT="Phillip E. Koehnke">
+<META NAME="date" CONTENT="08/12/2016">
+</HEAD>
+<BODY style="margin-top:0;font-family:Times New Roman; font-size:10pt; 
+color:#000000">
+<DIV style="width:720px"><P style="margin:0px"><BR></P>
+<P style="margin:0px; font-family:Times New Roman Bold,Times New 
+Roman"><B>EXHIBIT 4.3</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; font-family:Times New Roman Bold,Times New Roman" 
+align=center><B>MEXUS GOLD US</B></P>
+<P style="margin:0px; font-family:Times New Roman Bold,Times New Roman" 
+align=center><B>STOCK OPTION GRANT NOTICE</B></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px; font-family:Times New Roman Bold,Times New Roman" 
+align=center><B>MEXUS GOLD US 2016 STOCK INCENTIVE PLAN </B></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify><B>FOR GOOD AND VALUABLE 
+CONSIDERATION</B>, Mexus Gold US (the &#147;<B><U>Company</U></B>&#148;), hereby
+grants to the Optionee named below, a stock option (the 
+&#147;<B><U>Option</U></B>&#148;) to purchase any part or all of the specified 
+number of shares of its Common Stock (&#147;<B><U>Option Shares</U></B>&#148;), 
+upon the terms and subject to the conditions set forth in this Stock Option 
+Grant Notice (the &#147;<B><U>Grant Notice</U></B>&#148;), at the specified 
+purchase price per share without commission or other charge. The Option is 
+granted pursuant to the Company&#146;s 2016 Stock Incentive Plan (the 
+&#147;<B><U>Plan</U></B>&#148;) and the Stock Option Agreement (the 
+&#147;<B><U>Option Agreement</U></B>&#148;), promulgated under the Plan and in 
+effect as of the date of this Grant Notice.</P>
+<P style="margin:0px" align=justify><BR></P>
+</DIV><TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 
+cellspacing=0><TR height=0 style="font-size:0"><TD width=220.133 /><TD 
+width=503.067 /></TR>
+<TR><TD style="margin-top:0px" valign=top width=220.133><P 
+style="margin:0px"><B>Optionee:</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1.333px solid #000000" valign=top 
+width=503.067><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=220.133><P 
+style="margin:0px"><B>Date of Grant:</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1.333px solid #000000" valign=top 
+width=503.067><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=220.133><P 
+style="margin:0px"><B>Vesting Commencement Date:</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1.333px solid #000000" valign=top 
+width=503.067><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=220.133><P 
+style="margin:0px"><B>Number of Option Shares :</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1.333px solid #000000" valign=top 
+width=503.067><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=220.133><P 
+style="margin:0px"><B>Exercise Price (Per Share):</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1.333px solid #000000" valign=top 
+width=503.067><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=220.133><P
+style="margin:0px"><B>Total Exercise Price:</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1.333px solid #000000" valign=top 
+width=503.067><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=220.133><P 
+style="margin:0px"><B>Expiration Date:</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1.333px solid #000000" valign=top 
+width=503.067><P style="margin:0px" align=center>Ten years after Date of 
+Grant</P>
+</TD></TR>
+</TABLE>
+<DIV style="width:720px"><P style="margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+width=100%><TR height=0 style="font-size:0"><TD width=158.4 /><TD /><TD 
+width=280.8 /></TR>
+<TR><TD style="margin-top:0px" valign=top width=158.4><P 
+style="margin:0px"><B>Type of Grant:</B></P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px; font-
+size:11pt">&nbsp;<FONT style="margin-bottom:1.333px; padding-top:1.333px; 
+padding-bottom:0px; font-size:6pt; border:1px solid 
+#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="font-size:6pt; 
+color:#FFFFFF">.</FONT><FONT style="font-size:10pt"> Incentive Stock 
+Option</FONT><FONT style="font-size:10pt"><SUP>1</SUP></FONT><FONT style="font-
+size:10pt"> </FONT></P>
+</TD><TD style="margin-top:0px" valign=top width=280.8><P style="margin:0px; 
+font-size:11pt">&nbsp;<FONT style="margin-bottom:1.333px; padding-top:1.333px; 
+padding-bottom:0px; font-size:6pt; border:1px solid 
+#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="font-size:6pt; 
+color:#FFFFFF">.</FONT><FONT style="font-size:10pt"> Nonstatutory Stock 
+Option</FONT></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=158.4><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top><P 
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" 
+valign=top width=280.8><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=158.4><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top><P 
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" 
+valign=top width=280.8><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=158.4><P 
+style="margin:0px"><B>Exercise Schedule</B>:</P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px; font-
+size:11pt">&nbsp;<FONT style="margin-bottom:1.333px; padding-top:1.333px; 
+padding-bottom:0px; font-size:6pt; border:1px solid 
+#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="font-size:6pt; 
+color:#FFFFFF">.</FONT><FONT style="font-size:10pt"> Same as Vesting 
+Schedule</FONT></P>
+</TD><TD style="margin-top:0px" valign=top width=280.8><P style="margin:0px; 
+font-size:11pt">&nbsp;<FONT style="margin-bottom:1.333px; padding-top:1.333px; 
+padding-bottom:0px; font-size:6pt; border:1px solid 
+#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="font-size:6pt; 
+color:#FFFFFF">.</FONT><FONT style="font-size:10pt"> Early Exercise 
+Permitted</FONT></P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>Vesting Schedule</B>: Except as otherwise
+provided in the Option Agreement, the number of Option Shares that are vested 
+(disregarding any resulting fractional share) as of any date shall be determined
+as follows: (i) no Option Shares will be vested prior to the Vesting 
+Commencement Date; (ii) twenty-five percent (25%) of the Option Shares will be 
+vested upon the one (1) year anniversary of the Vesting Commencement Date, 
+<I>provided, however</I>, that there has not been a Termination of Service as of
+such date; and (iii) the balance of the Option Shares will be vested in a series
+of thirty-six (36) successive equal monthly installments measured from the first
+anniversary of the Vesting Commencement Date,<I> provided, however</I>, that 
+there has not been a Termination of Service as of each such date. In no event 
+will the Option become exercisable for any additional Option Shares after a 
+Termination of Service.</P>
+<P style="margin:0px" align=justify><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+width=100%><TR height=0 style="font-size:0"><TD width=76.2 /><TD width=62.333 
+/><TD /></TR>
+<TR><TD style="margin-top:0px" valign=top width=76.2><P 
+style="margin:0px"><B>Payment:</B> </P>
+</TD><TD style="margin-top:0px" valign=top width=643.8 colspan=2><P 
+style="margin:0px">By one or a combination of the following items (described in 
+the Plan):</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=76.2><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=62.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=top><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=76.2><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=62.333><P style="margin:0px; font-size:11pt" align=center>&nbsp;<FONT 
+style="margin-bottom:1.333px; padding-top:1.333px; padding-bottom:0px; font-
+size:6pt; border:1px solid #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT 
+style="font-size:6pt; color:#FFFFFF">.</FONT></P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" 
+align=justify>By cash or check</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=76.2><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=62.333><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=top><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=76.2><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=62.333><P style="margin:0px; font-size:11pt" align=center>&nbsp;<FONT 
+style="margin-bottom:1.333px; padding-top:1.333px; padding-bottom:0px; font-
+size:6pt; border:1px solid #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT 
+style="font-size:6pt; color:#FFFFFF">.</FONT></P>
+</TD><TD style="margin-top:0px" valign=top><P style="margin:0px" 
+align=justify>By net exercise, if the Company has established procedures for net
+exercise</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>Additional Terms/Acknowledgements:</B> 
+The undersigned Optionee acknowledges receipt of, and understands and agrees to,
+this Stock Option Grant Notice, the Option Agreement, and the Plan. Further, by 
+their signatures below, the Company and the Optionee agree that the Option is 
+governed by this Grant Notice and by the provisions of the Plan and Option 
+Agreement, both of which are attached to and made a part of this Grant Notice. 
+Optionee acknowledges receipt of copies of the Plan and the Option Agreement, 
+represents that the Optionee has read and is familiar with their provisions, and
+hereby accepts the Option subject to all of their terms and conditions. Optionee
+further acknowledges that, as of the Date of Grant, this Grant Notice, the 
+Option Agreement and the Plan set forth the entire understanding between 
+Optionee and the Company regarding the acquisition of stock in the Company and 
+supersede all prior oral and written agreements on that subject, with the 
+exception of options previously granted under the Plan.</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=justify><SUP>1 </SUP>If this is an Incentive Stock 
+Option, it (plus other outstanding Incentive Stock Options) cannot be first 
+<I>exercisable </I>for more than $100,000 in value (measured by exercise price) 
+in any calendar year. Any excess over $100,000 is a Nonstatutory Stock
+Option.</P>
+<P style="margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+width=100%><TR height=0 style="font-size:0"><TD width=43.2 /><TD /><TD 
+width=43.2 /><TD width=43.2 /><TD width=295.2 /></TR>
+<TR><TD style="margin-top:0px" valign=top width=338.4 colspan=2><P 
+style="margin:0px; font-family:Times New Roman Bold,Times New Roman"><B>MEXUS 
+GOLD US</B></P>
+</TD><TD style="margin-top:0px" valign=top width=43.2><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=338.4 
+colspan=2><P style="margin:0px; font-family:Times New Roman Bold,Times New 
+Roman"><B>OPTIONEE: [NAME]</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=43.2><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top><P 
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" 
+valign=top width=43.2><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=top width=43.2><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=295.2><P
+style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=43.2><P 
+style="margin:0px">By:</P>
+</TD><TD style="margin-top:0px; border-bottom:1.333px solid #000000" 
+valign=top><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=top width=43.2><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1.333px 
+solid #000000" valign=top width=43.2><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1.333px 
+solid #000000" valign=top width=295.2><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=43.2><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top><P 
+style="margin:0px">[Name, Title]</P>
+</TD><TD style="margin-top:0px" valign=top width=43.2><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=338.4 
+colspan=2><P style="margin:0px" align=center>Signature</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=43.2><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top><P 
+style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" 
+valign=top width=43.2><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=top width=43.2><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=295.2><P
+style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=43.2><P 
+style="margin:0px">Date:</P>
+</TD><TD style="margin-top:0px; border-bottom:1.333px solid #000000" 
+valign=top><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-
+top:0px" valign=top width=43.2><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=43.2><P 
+style="margin:0px">Date:</P>
+</TD><TD style="margin-top:0px; border-bottom:1.333px solid #000000" valign=top 
+width=295.2><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+</TABLE>
+<P style="margin:0px"><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always"><BR></P>
+<P style="margin:0px; padding-left:96px; text-indent:-96px"><B>Attachments</B>: 
+</P>
+<P style="margin:0px; padding-left:96px">(I) Stock Option Agreement; </P>
+<P style="margin:0px; padding-left:96px">(II) 2016 Stock Incentive Plan </P>
+<P style="margin:0px; padding-left:96px">(III) Notice of Exercise</P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR>
+<BR></P>
+<P style="margin:0px" align=center>2</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always" align=center><BR></P>
+<P style="margin:0px; font-family:Times New Roman Bold,Times New Roman" 
+align=center><B>ATTACHMENT I</B></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px; font-family:Times New Roman Bold,Times New Roman" 
+align=center><B>STOCK OPTION AGREEMENT</B></P>
+<P style="margin:0px; font-family:Times New Roman Bold,Times New Roman" 
+align=center><B>(INCENTIVE STOCK OPTION OR NONSTATUTORY STOCK OPTION)</B></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px; font-family:Times New Roman Bold,Times New Roman" 
+align=center><B>MEXUS GOLD US 2016 STOCK INCENTIVE PLAN </B></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center>Effective as of _____________, 2016</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>Pursuant to the Stock 
+Option Grant Notice (&#147;<B>Grant Notice</B>&#148;) and this Option Agreement 
+(&#147;<B>Option Agreement</B>&#148;), Mexus Gold US, a Nevada corporation (the 
+&#147;<B>Company</B>&#148;) has granted to Optionee an option under the 
+Company&#146;s 2016 Stock Incentive Plan (the &#147;<B>Plan</B>&#148;), to 
+purchase the number of shares of the Company&#146;s Common Stock indicated in 
+Optionee&#146;s Grant Notice, at the exercise price indicated in such Grant 
+Notice. This Option Agreement is incorporated by reference into and made a part 
+of the Grant Notice. Whenever capitalized terms are used in this Option 
+Agreement, they shall have the meaning specified (i) in the Plan, (ii) in the 
+relevant Grant Notice, or (iii) below, unless the context clearly indicates to 
+the contrary.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>The details of the Option 
+granted to Optionee are as follows:</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify><B>1. <U>Term of 
+Option</U>.</B> Subject to the maximum time limitations in Sections 5(b) and 
+6(a) of the Plan, the term of the Option shall be the period commencing on the 
+Date of Grant and ending on the Expiration Date (as defined in the Grant 
+Notice), unless terminated earlier as provided herein or in the Plan.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify><B>2. <U>Exercise 
+Price</U>.</B> The Exercise Price of the Option granted hereby shall be as 
+provided in the Grant Notice.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify><B>3. <U>Exercise of 
+Option</U>.</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; padding-left:8px; text-indent:88px" align=justify>(a) The 
+Grant Notice sets forth the rate at which the Option Shares shall become subject
+to purchase (&#147;<B>vest</B>&#148;) by Optionee.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; padding-left:8px; text-indent:88px" align=justify>(b) In 
+the event of a Change in Control of the Company, except as otherwise may be 
+provided in the Plan or Grant Notice, the vesting of the Option <U>shall not</U>
+accelerate, and the Option shall terminate if not exercised (to the extent then 
+vested and exercisable) at or prior to such Change in Control.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; padding-left:8px; text-indent:88px" align=justify>(c) 
+Optionee shall exercise the Option, to the extent exercisable, in whole or in 
+part, by sending written notice to the Company on a Notice of Exercise in the 
+form attached to the Grant Notice of his or her intention to purchase Option 
+Shares hereunder, together with a check in the amount of the full purchase price
+of the Option Shares to be purchased, or such other form of payment as permitted
+by the Grant Notice. Except as otherwise consented to by the Company, Optionee 
+shall not exercise the Option at any one time with respect to less than five 
+percent (5%) of the total Option Shares set forth in the Grant Notice unless 
+Optionee exercises all of the Option then vested and exercisable.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; padding-left:8px; text-indent:88px" align=justify>(d) If 
+the Option is an Incentive Stock Option, by Optionee&#146;s exercise of the 
+Option, Optionee agrees that he or she will notify the Company in writing within
+fifteen (15) days after the date of any disposition of any of the shares of the 
+Common Stock issued upon exercise of the Option that occurs within two (2) years
+after the date of the Date of Grant or within one (1) year after such shares of 
+Common Stock are transferred upon exercise of the Option.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; padding-left:8px; text-indent:88px" align=justify>(e) 
+Optionee agrees to complete and execute any additional documents which the 
+Company reasonably requests that Optionee complete in order to comply with 
+applicable federal, state and local securities laws, rules and regulations.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; padding-left:8px; text-indent:88px" align=justify>(f) 
+Subject to the Company&#146;s compliance with all applicable laws, rules and 
+regulations relating to the issuance of such Option Shares and Optionee&#146;s 
+compliance with all the terms and conditions of the Grant Notice, this Option 
+Agreement, and the Plan, the Company shall promptly deliver the Option Shares to
+Optionee.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; padding-left:8px; text-indent:88px" align=justify>(g) 
+Except as otherwise provided herein or in the Plan, the Option may be exercised 
+during the lifetime of Optionee only by Optionee.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; padding-left:8px; text-indent:88px" align=justify>(h) In 
+the event that Optionee is an Employee eligible for overtime compensation under 
+the Fair Labor Standards Act of 1938, as amended (<I>i.e.</I>, a &#147;<B>Non-
+Exempt Employee</B>&#148;), Optionee may not exercise his or her Option until 
+the later of (i) the date that he or she shall have completed at least six (6) 
+months of service to the Company measured from the Date of Grant specified in 
+Optionee&#146;s Grant Notice, or (ii) the date set forth in the Grant Notice for
+when the Option is first exercisable.</P>
+<P style="margin:0px" align=justify><BR>
+<BR></P>
+<P style="margin:0px" align=center>3</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify><B>4. <U>Exercise Prior to
+Vesting (&#147;Early Exercise&#148;)</U>.</B> </P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>If expressly permitted by 
+the Grant Notice and subject to the provisions of this Option Agreement, 
+Optionee may, at any time that is both (i) prior to a Termination of Service; 
+and (ii) prior to the Expiration Date, elect to exercise all or part of the 
+Option, including the nonvested portion of the Option; <I>provided, however</I>,
+that:</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; padding-left:8px; text-indent:88px" align=justify>(a) a 
+partial exercise of the Option shall be deemed to cover first any vested Option 
+Shares and then the earliest vesting installment(s) of unvested Option 
+Shares;</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; padding-left:8px; text-indent:88px" align=justify>(b) any 
+Option Shares so purchased from installments which have not vested as of the 
+date of exercise shall be subject to a purchase option in favor of the Company, 
+pursuant to an Early Exercise Stock Purchase Agreement in form satisfactory to 
+the Company;</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; padding-left:8px; text-indent:88px" align=justify>(c) 
+Optionee shall enter into the Early Exercise Stock Purchase Agreement with a 
+vesting schedule that will result in the same vesting as if no early exercise 
+had occurred; and</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; padding-left:8px; text-indent:88px" align=justify>(d) as 
+provided in the Plan, if the Option is an Incentive Stock Option, to the extent 
+that the aggregate Fair Market Value (determined at the time of grant) of Common
+Stock with respect to which the Option plus all other Incentive Stock Options 
+held by Optionee are exercisable for the first time during any calendar year 
+(under all plans of the Company and its Affiliates) exceeds One Hundred Thousand
+Dollars ($100,000), the Options or portions thereof that exceed such limit 
+(according to the order in which they were granted) shall be treated as 
+Nonstatutory Stock Options.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify><B>5. <U>Option Not 
+Transferable</U>.</B> The Option granted hereunder shall not be transferable in 
+any manner other than as provided in Section 6(d) of the Plan. More particularly
+(but without limiting the foregoing), the Option may not be assigned, 
+transferred (except as expressly provided in the Plan), pledged or hypothecated 
+in any way, shall not be assignable by operation of law and shall not be subject
+to execution, attachment or similar process. Any attempted assignment, transfer,
+pledge, hypothecation or other disposition of the Option contrary to the 
+provisions hereof, or the levy of any execution, attachment or similar process 
+upon the Option, shall be null and void and without effect.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify><B>6. <U>Termination of 
+Option</U>.</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; padding-left:8px; text-indent:88px" align=justify>(a) To 
+the extent not previously exercised, the Option shall terminate on the 
+Expiration Date; <I>provided, however</I>, that except as otherwise provided in 
+this Section 6, <U>the Option may not be exercised more than sixty (60) days 
+after the Termination of Service of Optionee for any reason (other than for 
+Cause, as defined below, or upon Optionee&#146;s death or Disability)</U>. 
+Within such sixty (60)<B>-</B>day period, except as may otherwise be 
+specifically provided in this Option Agreement or any other agreement between 
+Optionee and the Company which has been approved by the Board, Optionee may 
+exercise the Option only to the extent the same was exercisable on the date of 
+such termination and said right to exercise shall terminate at the end of such 
+period.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; padding-left:8px; text-indent:88px" align=justify>(b) In 
+the event of the Termination of Service of Optionee as a result of 
+Optionee&#146;s Disability, the Option shall be exercisable for a period of six 
+(6) months from the date of such termination, but in no event later than the 
+Expiration Date and only to the extent that the Option was exercisable on the 
+date of such termination.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; padding-left:8px; text-indent:88px" align=justify>(c) In 
+the event of the Termination of Service of Optionee as a result of 
+Optionee&#146;s death, the Option shall be exercisable by Optionee&#146;s estate
+(or by the person who acquires the right to exercise the Option by will or by 
+the laws of descent and distribution) for a period of twelve (12) months from 
+the date of such termination, but in no event later than the Expiration Date and
+only to the extent that Optionee was entitled to exercise the Option on the date
+of death.</P>
+<P style="margin:0px" align=justify><BR>
+<BR></P>
+<P style="margin:0px" align=center>4</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always" align=justify><BR></P>
+<P style="margin:0px; padding-left:8px; text-indent:88px" align=justify>(d) In
+the event of the Termination of Service of Optionee for Cause (as defined 
+below), unless otherwise determined by the Board, (A) the Option shall expire as
+of the date of the first occurrence giving rise to such termination or upon the 
+Expiration Date, whichever is earlier; (B) Optionee shall have no rights with 
+respect to any unexercised portion of the Option; and (C) any Option Shares 
+issued in respect of the exercise of the Option on or after the date of the 
+first act and/or event constituting Cause shall have occurred shall be deemed to
+have been issued in respect of an expired option, and shall thereupon be deemed 
+null and <I>void ab initio</I>, and Optionee shall have no claims to, or rights 
+in, any such Option Shares. &#147;Cause&#148; means with respect to Optionee, 
+the occurrence of any of the following events, as reasonably determined by the 
+Board in each case: (i) Optionee&#146;s commission of any felony or any crime 
+involving fraud, dishonesty or moral turpitude under the laws of the United 
+States or any state thereof; (ii) Optionee&#146;s commission, or attempted 
+commission, of, or participation in, a fraud or act of dishonesty against the 
+Company or any Affiliate, or any of their respective employees, officers or 
+directors; (iii) Optionee&#146;s intentional, material violation of any contract
+or agreement between the Optionee and the Company or any Affiliate or of any 
+statutory duty owed to the Company or any Affiliate; (iv) Optionee&#146;s 
+unauthorized use or disclosure of the Company&#146;s or an Affiliate&#146;s 
+material confidential information or trade secrets; (v) Optionee&#146;s gross 
+misconduct in connection with Optionee&#146;s service to the Company or an 
+Affiliate; or (vi) Optionee&#146;s failure to promptly return all documents and 
+other tangible items belonging to the Company or its Affiliates in the 
+Participant&#146;s possession or control, including all complete or partial 
+copies, recordings, abstracts, notes or reproductions of any kind made from or 
+about such documents or information contained therein, upon a Termination of 
+Service for any reason. &#147;Cause&#148; shall not require that a civil 
+judgment or criminal conviction have been entered against, or guilty plea shall 
+have been made by, Optionee regarding any of the matters referred to in clauses 
+(i) through (vi). Accordingly, the Board shall be entitled to determine 
+&#147;Cause&#148; based on its good faith belief. If the Optionee is criminally 
+charged with a felony or similar offense, that shall be a sufficient, but not a 
+necessary, basis for such a belief. Unless otherwise specifically provided in 
+the Grant Notice, the foregoing definition of &#147;Cause&#148; shall apply for 
+all purposes relating to the Option, notwithstanding any employment or other 
+agreement by and between Optionee and the Company or any Affiliate thereof that 
+defines a termination on account of &#147;Cause&#148; (or a term having similar 
+meaning).</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; padding-left:8px; text-indent:88px" align=justify>(e) 
+Notwithstanding the foregoing, the Option is subject to earlier termination upon
+a Change in Control, as provided in Section 3(b) above and in Section 11 of the 
+Plan, or upon the dissolution of the Company. If the Option will terminate in 
+connection with a Change in Control, the Company shall provide written notice to
+Optionee of a proposed transaction constituting a Change in Control, not less 
+than ten (10) days prior to the anticipated effective date of the proposed 
+transaction.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; padding-left:8px; text-indent:88px" align=justify>(f) 
+Notwithstanding anything herein to the contrary, no portion of any Option which 
+is not exercisable by Optionee upon the Termination of Service of such Optionee 
+shall thereafter become exercisable, regardless of the reason for such 
+termination, except as may otherwise be specifically provided in this Option 
+Agreement or any other agreement between Optionee and the Company which has been
+approved by the Board.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify><B>7. <U>No Right to 
+Continued Service</U>.</B> The Option does not confer upon Optionee any right to
+continue as an Employee or Director of, or Consultant to, the Company or an 
+Affiliate, nor does it limit in any way the right of the Company or an Affiliate
+to terminate Optionee&#146;s employment or other relationship with the Company 
+or an Affiliate, at any time, with or without Cause.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify><B>8. <U>Notice of Tax 
+Election</U>.</B> If Optionee makes any tax election relating to the treatment 
+of the Option Shares under the Internal Revenue Code of 1986, as amended, 
+Optionee shall promptly notify the Company of such election.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify><B>9. <U>Acknowledgments 
+of Optionee</U>.</B> Optionee acknowledges and agrees that:</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; padding-left:8px; text-indent:88px" align=justify>(a) 
+Although the Company has made a good faith attempt to qualify the Option as an 
+incentive stock option within the meaning of Sections 421, 422 and 424 of the 
+Code (if the Grant Notice provides that the Option is an Incentive Stock 
+Option), the Company does not warrant that the Option granted herein constitutes
+an &#147;incentive stock option&#148; within the meaning of such sections, or 
+that the transfer of Option Shares will be treated for federal income tax 
+purposes as specified in Section 421 of the Code.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; padding-left:8px; text-indent:88px" align=justify>(b) 
+Optionee shall notify the Company in writing within fifteen (15) days of each 
+disposition (including a sale, exchange, gift or a transfer of legal title) of 
+the Option Shares made within two years after the issuance of such Option 
+Shares.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; padding-left:8px; text-indent:88px" align=justify>(c) If 
+the Grant Notice provides that the Option is an Incentive Stock Option, Optionee
+understands that if, among other things, he or she disposes of any Option Shares
+granted within two years of the granting of the Option to him or her or within 
+one year of the issuance of such shares to him or her, then such Option Shares 
+will not qualify for the beneficial treatment which Optionee might otherwise 
+receive under Sections 421 and 422 of the Code.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; padding-left:8px; text-indent:88px" align=justify>(d) 
+Optionee and his or her transferees shall have no rights as a shareholder with 
+respect to any Option Shares until the date of the issuance of a stock 
+certificate evidencing such Option Shares. No adjustment shall be made for 
+dividends (ordinary or extraordinary, whether in cash, securities or other 
+property) or distributions or other rights for which the record date is prior to
+the date such stock certificate is issued, except as provided in Section 10 of 
+the Plan.</P>
+<P style="margin:0px" align=justify><BR>
+<BR></P>
+<P style="margin:0px" align=center>5</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always" align=justify><BR></P>
+<P style="margin:0px; padding-left:8px; text-indent:88px" align=justify>(e) 
+Certificates representing Option Shares acquired pursuant to the exercise of 
+Incentive Stock Options shall be imprinted with the following legend:</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; padding-left:96px; padding-right:96px" align=justify>THE 
+SHARES EVIDENCED BY THIS CERTIFICATE WERE ISSUED BY THE CORPORATION TO THE 
+REGISTERED HOLDER UPON EXERCISE OF AN INCENTIVE STOCK OPTION AS DEFINED IN 
+SECTION 422 OF THE INTERNAL REVENUE CODE OF 1986, AS AMENDED (&#147;ISO&#148;). 
+IN ORDER TO OBTAIN THE PREFERENTIAL TAX TREATMENT AFFORDED TO ISOs, THE SHARES 
+SHOULD NOT BE TRANSFERRED PRIOR TO THE LATER OF (A) TWO YEARS AFTER THE DATE OF 
+GRANT OF SUCH ISO, OR (B) ONE YEAR AFTER THE DATE OF EXERCISE OF SUCH ISO. 
+SHOULD THE REGISTERED HOLDER ELECT TO TRANSFER ANY OF THE SHARES PRIOR TO SUCH 
+DATE AND FOREGO ISO TAX TREATMENT, THE TRANSFER AGENT FOR THE SHARES SHALL 
+NOTIFY THE CORPORATION IMMEDIATELY. THE REGISTERED HOLDER SHALL HOLD ALL SHARES 
+PURCHASED UNDER THE INCENTIVE STOCK OPTION IN THE REGISTERED HOLDER'S NAME (AND 
+NOT IN THE NAME OF ANY NOMINEE) PRIOR TO THIS DATE OR UNTIL TRANSFERRED AS 
+DESCRIBED ABOVE.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify><B>10. <U>Withholding
+Obligations</U>. </B>Whenever Option Shares are to be issued under the Option 
+Agreement, the Company shall have the right to require Optionee to remit to the 
+Company an amount sufficient to satisfy federal, state and local withholding tax
+requirements prior to issuance and/or delivery of any certificate or 
+certificates for such Option Shares.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify><B>11. <U>No Obligation to
+Notify</U></B>. The Company shall have no duty or obligation to Optionee to 
+advise Optionee as to the time or manner of exercising the Option. Furthermore, 
+except as specifically set forth herein or in the Plan, the Company shall have 
+no duty or obligation to warn or otherwise advise Optionee of a pending 
+termination or expiration of the Option or a possible period in which the Option
+may not be exercised. The Company has no duty or obligation to minimize the tax 
+consequences of the Option granted to Optionee.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify><B>12. 
+<U>Miscellaneous</U>.</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; padding-left:8px; text-indent:88px" align=justify>(a) This
+Option Agreement shall bind and inure to the benefit of the parties&#146; heirs,
+legal representatives, successors and permitted assigns.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; padding-left:8px; text-indent:88px" align=justify>(b) This
+Option Agreement, the Grant Notice and the Plan, constitute the entire agreement
+between the parties pertaining to the subject matter contained herein and they 
+supersede all prior and contemporaneous agreements, representations and 
+understandings of the parties. No supplement, modification or amendment of this 
+Option Agreement shall be binding unless executed in writing by all of the 
+parties. No waiver of any of the provisions of this Option Agreement shall be 
+deemed or shall constitute a waiver of any other provisions, whether or not 
+similar, nor shall any waiver constitute a continuing waiver. No waiver shall be
+binding unless executed in writing by the party making the waiver. In the event 
+there exists any conflict or discrepancy between any of the terms in the Plan 
+and this Option Agreement, the terms of the Plan shall be controlling. A copy of
+the Plan has been delivered to Optionee and also may be inspected by Optionee at
+the principal office of the Company.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; padding-left:8px; text-indent:88px" align=justify>(c) 
+Should any portion of the Plan, the Grant Notice or this Option Agreement be 
+declared invalid and unenforceable, then such portion shall be deemed to be 
+severable from this Option Agreement and shall not affect the remainder 
+hereof.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; padding-left:8px; text-indent:88px" align=justify>(d) All 
+notices required or permitted hereunder shall be in writing and shall be deemed 
+effectively given: (i) upon personal delivery to the party to be notified; (ii) 
+three (3) days after having been sent by registered or certified mail, return 
+receipt requested, postage prepaid; or (iii) one (1) day after deposit with a 
+nationally recognized overnight courier, specifying next day delivery, with 
+written verification of receipt. All communications shall be sent to the Company
+at its principal executive office, and to Optionee at the address set forth in 
+the Company&#146;s records, or at such other address as the Company or Optionee 
+may designate by ten (10) days advance written notice to the other party 
+hereto.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; padding-left:8px; text-indent:88px" align=justify>(e) This
+Option Agreement shall be construed according to the laws of the State of 
+California.</P>
+<P style="margin:0px" align=justify><BR>
+<BR></P>
+<P style="margin:0px" align=center>6</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always" align=justify><BR></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px; font-family:Times New Roman Bold,Times New Roman" 
+align=center><B>ATTACHMENT II</B></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px; font-family:Times New Roman Bold,Times New Roman" 
+align=center><B>MEXUS GOLD US 2016 STOCK INCENTIVE PLAN</B></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR>
+<BR></P>
+<P style="margin:0px" align=center>7</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; font-family:Times New Roman Bold,Times New Roman; page-
+break-before:always" align=center><B>ATTACHMENT III</B></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px; font-family:Times New Roman Bold,Times New Roman" 
+align=center><B>NOTICE OF EXERCISE</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px">Mexus Gold US</P>
+<P style="margin:0px">1805 N. Carson Street, Suite 150,</P>
+<P style="margin:0px">Carson City, NV 89701</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center>Date of Exercise: _______________</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px">Ladies and Gentlemen:</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; text-indent:48px">This constitutes notice under my stock 
+option that I elect to purchase the number of shares for the price set forth 
+below.</P>
+<P style="margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0><TR 
+height=0 style="font-size:0"><TD width=366.8 /><TD width=138.533 /><TD 
+width=13.667 /><TD width=138.667 /></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=366.8><P 
+style="margin:0px">Type of option (check one):</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom 
+width=138.533><P style="margin:0px">Incentive<FONT style="font-size:11pt"> 
+</FONT><FONT style="margin-bottom:1.333px; padding-top:1.333px; padding-
+bottom:0px; font-size:6pt; border:1px solid 
+#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="font-size:6pt; 
+color:#FFFFFF">.</FONT></P>
+</TD><TD style="margin-top:0px" valign=top width=13.667><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=138.667><P style="margin:0px">Nonstatutory<FONT 
+style="font-size:11pt"> </FONT><FONT style="margin-bottom:1.333px; padding-
+top:1.333px; padding-bottom:0px; font-size:6pt; border:1px solid 
+#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="font-size:6pt; 
+color:#FFFFFF">.</FONT></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=366.8><P 
+style="margin:0px">Stock option dated:</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom 
+width=138.533><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=13.667><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=138.667><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=366.8><P 
+style="margin:0px">Number of shares as to which option is exercised:</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom 
+width=138.533><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD
+style="margin-top:0px" valign=bottom width=13.667><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=138.667><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=366.8><P 
+style="margin:0px">Certificates to be issued in name of:</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom 
+width=138.533><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD 
+style="margin-top:0px" valign=bottom width=13.667><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=138.667><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=366.8><P 
+style="margin:0px">Total exercise price:</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom 
+width=138.533><P style="margin:0px">$</P>
+</TD><TD style="margin-top:0px" valign=bottom width=13.667><P style="margin:0px;
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=138.667><P style="margin:0px">$</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=366.8><P 
+style="margin:0px">Cash or check payment delivered herewith:</P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom 
+width=138.533><P style="margin:0px">$</P>
+</TD><TD style="margin-top:0px" valign=bottom width=13.667><P style="margin:0px;
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid 
+#000000" valign=bottom width=138.667><P style="margin:0px">$</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>By this exercise, I agree 
+(i) to provide such additional documents as you may require pursuant to the 
+terms of the Mexus Gold US 2016 Stock Incentive Plan, (ii) to provide for the 
+payment by me to you (in the manner designated by you) of your withholding 
+obligation, if any, relating to the exercise of this option, and (iii) if this 
+exercise relates to an incentive stock option, to notify you in writing within 
+fifteen (15) days after the date of any disposition of any of the shares of 
+Common Stock (the &#147;Shares&#148;) issued upon exercise of this option that 
+occurs within two (2) years after the date of grant of this option or within one
+(1) year after such shares of Common Stock are issued upon exercise of this 
+option.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>I acknowledge that all 
+certificates representing any of the Shares subject to the provisions of the 
+Option shall have endorsed thereon appropriate legends reflecting restrictions 
+pursuant to the Option Agreement, the Company&#146;s Certificate of 
+Incorporation, Bylaws and/or applicable securities laws.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; padding-left:336px">Very truly yours,</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; padding-
+left:336px">_______________________________________</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR>
+<BR></P>
+<P style="margin:0px" align=center>8</P>
+<P style="margin:0px"><BR></P>
+</DIV></BODY>
+<!-- EDGAR Validation Code: D5B386B6 -->
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-5.1
+<SEQUENCE>5
+<FILENAME>s8081216_ex5z1.htm
+<DESCRIPTION>EXHIBIT 5.1 LEGAL OPINION AND CONSENT
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Exhibit 5.1 Legal Opinion and Consent</TITLE>
+<META NAME="author" CONTENT="Phillip E. Koehnke">
+<META NAME="date" CONTENT="08/12/2016">
+</HEAD>
+<BODY style="margin-top:0;font-family:Times New Roman; font-size:10pt; 
+color:#000000">
+<DIV style="width:720px"><P style="margin:0px" align=center><BR></P>
+<P style="margin:0px; font-family:GoudyHandtooled BT,Times New Roman; font-
+size:14pt" align=center>PHILLIP E. KOEHNKE, APC</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; font-family:GoudyHandtooled BT,Times New Roman; font-
+size:4.8pt" align=right>.</P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=justify>Exhibit 5.1</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>August 15, 2016</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>Securities and Exchange Commission</P>
+<P style="margin:0px">450 Fifth Street, N.W.</P>
+<P style="margin:0px">Washington, D.C. 20549 </P>
+<P style="margin:0px"><BR></P>
+<P style="margin-top:0px; margin-bottom:-2px; text-indent:48px; width:96px; 
+float:left"><B>Re:</B></P>
+<P style="margin:0px; text-indent:-2px"><B><U>Mexus Gold US </U></B></P>
+<P style="margin:0px; text-indent:96px; clear:left"><B>Registration Statement on
+Form S-8</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px">Gentlemen:</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>We have acted as special 
+counsel to Mexus Gold US, a Nevada corporation (the &quot;Company&quot;), in 
+connection with the preparation for filing with the U. S. Securities and 
+Exchange Commission of a Registration Statement on Form S-8 (&quot;Registration 
+Statement&quot;) under the Securities Act of 1933, as amended. The Registration 
+Statement relates to the registration of 30,000,000 shares (&quot;Shares&quot;) 
+of the Company's common stock, par value $0.001 per share (&quot;Common 
+Stock&quot;), issuable pursuant to the Company&#146;s 2016 Stock Incentive Plan 
+(the &#147;2016 Plan&#148;).</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>We have examined the 2016 
+Plan and such corporate records, documents, instruments and certificates of the 
+Company, and have reviewed such other documents as we have deemed relevant under
+the circumstances. In such examination, we have assumed without independent 
+investigation the authenticity of all documents submitted to us as originals, 
+the genuineness of all signatures, the legal capacity of all natural persons, 
+and the conformity of any documents submitted to us as copies to their 
+respective originals. &nbsp;As to certain questions of fact material to this 
+opinion, we have relied without independent investigation upon statements or 
+certificates of public officials and officers of the Company.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>Based upon, subject to the
+foregoing and assuming that (i) the Company reserves for issuance under the 2016
+Plan an adequate number of authorized and unissued shares of Common Stock and 
+(ii) the consideration required to be paid in connection with the issuance and
+sale of shares of Common Stock under the 2016 Plan is actually received by the 
+Company as provided in the Plan, we are of the opinion that the Shares, when 
+issued in accordance with the 2016 Plan, will be legally issued, fully paid and 
+non-assessable.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; text-indent:48px" align=justify>In connection with this 
+opinion, we have examined the Registration Statement, the Company's Certificate 
+of Incorporation, as amended, and Bylaws, and such other documents as we have 
+deemed necessary to enable us to render the opinion hereinafter expressed.</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; text-indent:48px">We hereby consent to the use of this 
+opinion as an exhibit to the Registration Statement.</P>
+<P style="margin:0px" align=justify><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 
+align=center><TR height=0 style="font-size:0"><TD width=396.067 /><TD 
+width=287.933 /></TR>
+<TR><TD style="margin-top:0px" valign=top width=396.067><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=287.933><P style="margin:0px" align=justify>Very truly yours,</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=396.067><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=287.933><P style="margin:0px" align=justify>&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=396.067><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><A NAME="LineIP"></A><TD style="margin-top:0px" 
+valign=top width=287.933><P style="margin:0px" align=justify>/s/ <I><U>Phillip 
+E. Koehnke, APC</U></I></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=396.067><P style="margin:0px; 
+padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top 
+width=287.933><P style="margin:0px" align=justify>Phillip E. Koehnke, APC</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><BR>
+<BR></P>
+<P style="margin:0px; font-size:4.8pt" 
+align=center>___________________________________________________________________
+__________________________________________________</P>
+<P style="margin:0px; font-family:GoudyHandtooled BT,Times New Roman; font-
+size:9pt" align=center>P.O. BOX 235472 &#183; ENCINITAS, CALIFORNIA &nbsp;92024 
+&#183; TEL (858) 229-8116 E-FAX (501) 634-0070</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+</DIV></BODY>
+<!-- EDGAR Validation Code: A4105AF1 -->
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.1
+<SEQUENCE>6
+<FILENAME>s8081216_ex23z1.htm
+<DESCRIPTION>EXHIBIT 23.1 AUDITOR CONSENT
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Exhibit 23.1 Auditor Consent</TITLE>
+<META NAME="author" CONTENT="rsharma">
+<META NAME="date" CONTENT="08/12/2016">
+</HEAD>
+<BODY style="margin-top:0;font-family:Times New Roman; font-size:10pt; 
+color:#000000">
+<DIV style="width:720px"><P style="margin:0px" align=right><FONT 
+style="background-color:#FFFFFF">Exhibit 23.1</FONT></P>
+<P style="margin:0px; font-size:13.5pt"><FONT style="background-
+color:#FFFFFF">&nbsp;</FONT></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><FONT style="background-color:#FFFFFF">&nbsp;</FONT></P>
+<P style="margin:0px" align=center><FONT style="background-
+color:#FFFFFF"><B>CONSENT OF INDEPENDENT REGISTERED PUBLIC 
+ACCOUNTANTS</B></FONT></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><FONT style="background-color:#FFFFFF">Board of 
+Directors</FONT></P>
+<P style="margin:0px"><FONT style="background-color:#FFFFFF">Mexus Gold 
+US</FONT></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=justify><FONT style="background-color:#FFFFFF">As 
+independent registered certified public accountants, we hereby consent to the 
+incorporation by reference in this Registration Statement on Form S-8, of our 
+report, which includes an explanatory paragraph regarding the substantial doubt 
+about the Company's ability to continue as a going concern, dated July 26, 2016,
+included in Mexus Gold US&#146;s Annual Report on Form 10-K for the year ended 
+March 31, 2016, and to all references to our Firm under the caption 
+&#147;Experts&#148; appearing in the Registration Statement.</FONT></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><FONT style="background-
+color:#FFFFFF"><I>/s/ RBSM LLP</I></FONT></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><FONT style="background-color:#FFFFFF">/s/ 
+RBSM LLP</FONT></P>
+<P style="margin:0px" align=justify><FONT style="background-
+color:#FFFFFF">August 15, 2016</FONT></P>
+<P style="margin:0px" align=justify><BR>
+<BR></P>
+</DIV></BODY>
+<!-- EDGAR Validation Code: 03C1A7F9 -->
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

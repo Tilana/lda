@@ -1,0 +1,406 @@
+
+<SEC-DOCUMENT>0001102624-16-003244.txt : 20160810
+<SEC-HEADER>0001102624-16-003244.hdr.sgml : 20160810
+<ACCEPTANCE-DATETIME>20160810125145
+ACCESSION NUMBER:
+CONFORMED SUBMISSION TYPE:
+PUBLIC DOCUMENT COUNT:
+CONFORMED PERIOD OF REPORT:
+FILED AS OF DATE:
+DATE AS OF CHANGE:
+6-K
+2
+20160809
+0001102624-16-003244
+20160810
+20160810
+FILER:
+COMPANY DATA:
+COMPANY CONFORMED NAME:
+CENTRAL INDEX KEY:
+STANDARD INDUSTRIAL CLASSIFICATION: GOLD & SILVER ORES [1040]
+IRS NUMBER:
+STATE OF INCORPORATION:
+FISCAL YEAR END:
+REPLICEL LIFE SCIENCES INC.
+0001205059
+000000000
+1231
+A1
+FILING VALUES:
+FORM TYPE:
+SEC ACT:
+SEC FILE NUMBER: 000-50112
+FILM NUMBER:
+6-K
+1934 Act
+161820755
+BUSINESS ADDRESS:
+STREET 1:
+CITY:
+STATE:
+ZIP:
+BUSINESS PHONE:
+MAIL ADDRESS:
+STREET 1:
+CITY:
+STATE:
+ZIP:
+FORMER COMPANY:
+SUITE 900 - 570 GRANVILLE STREET
+VANCOUVER BC
+A1
+V6C 3P1
+604-248-8693
+SUITE 900 - 570 GRANVILLE STREET
+VANCOUVER BC
+A1
+V6C 3P1
+FORMER CONFORMED NAME: NEWCASTLE RESOURCES LTD.
+DATE OF NAME CHANGE:
+20081128
+FORMER COMPANY:
+FORMER CONFORMED NAME: PAN AMERICAN GOLD CORP
+DATE OF NAME CHANGE:
+20040521
+FORMER COMPANY:
+FORMER CONFORMED NAME: TRI LATERAL VENTURE CORP
+DATE OF NAME CHANGE:
+20021109
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>replicel6k.htm
+<DESCRIPTION>REPLICEL LIFE SCIENCES INC. 6-K
+<TEXT>
+<html>
+<head>
+<title></title>
+<!--Licensed to: Marketwired
+    Document created using EDGARfilings PROfile 4.1.0.0
+    Copyright 1995 - 2016 Summit Financial Printing, LLC.  All rights 
+reserved.-->
+</head>
+<body style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" 
+bgcolor="#ffffff" text="#000000">
+<div>
+<hr style="BORDER-BOTTOM: black 1px solid; TEXT-ALIGN: center; BACKGROUND-COLOR:
+#ffffff; HEIGHT: 10px; COLOR: #ffffff; MARGIN-LEFT: auto; BORDER-TOP: black 4px 
+solid; MARGIN-RIGHT: auto">
+</div>
+<div>&#160;</div>
+<div><font style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10pt">&#160; 
+</font>
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt; MARGIN-TOP: 12pt; FONT-
+FAMILY: 'Times New Roman'; FONT-SIZE: 10pt; FONT-WEIGHT: bold">UNITED 
+STATES</div>
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt; FONT-FAMILY: 'Times New 
+Roman'; FONT-SIZE: 10pt; FONT-WEIGHT: bold">SECURITIES AND EXCHANGE 
+COMMISSION</div>
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt; FONT-FAMILY: 'Times New 
+Roman'; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Washington, D.C.&#160; 20549</div>
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt; MARGIN-TOP: 12pt; FONT-
+FAMILY: 'Times New Roman'; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Form 6-K</div>
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt; MARGIN-TOP: 12pt; FONT-
+FAMILY: 'Times New Roman'; FONT-SIZE: 10pt; FONT-WEIGHT: bold">REPORT OF FOREIGN
+PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE 
+ACT OF 1934</div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 13.7pt; MARGIN-TOP: 12pt; FONT-
+FAMILY: 'Times New Roman'; FONT-SIZE: 10pt">For the month of&#160;<font 
+style="FONT-VARIANT: normal; FONT-STYLE: normal; FONT-FAMILY: 'Times New Roman';
+FONT-SIZE: 10pt; FONT-WEIGHT: normal"><u>August 2016</u></font></div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 12.55pt; MARGIN-TOP: 12pt; FONT-
+FAMILY: 'Times New Roman'; FONT-SIZE: 10pt">Commission File Number <u>000-
+</u><u>50112</u></div>
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt; MARGIN-TOP: 12pt; FONT-
+FAMILY: 'Times New Roman'; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><u>RepliCel Life 
+Sciences Inc.</u></div>
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt; FONT-FAMILY: 'Times New 
+Roman'; FONT-SIZE: 10pt">(Translation of registrant&#8217;s name into 
+English)</div>
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt; MARGIN-TOP: 12pt; FONT-
+FAMILY: 'Times New Roman'; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><u>Suite 2020 
+&#8211; 401 West Georgia Street, Vancouver, British Columbia&#160; V6B 
+5A1</u></div>
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt; FONT-FAMILY: 'Times New 
+Roman'; FONT-SIZE: 10pt">(Address of principal executive office)</div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 13.7pt; MARGIN-TOP: 12pt; FONT-
+FAMILY: 'Times New Roman'; FONT-SIZE: 10pt">Indicate by check mark whether the 
+registrant files or will file annual reports under cover of Form 20-F or Form 
+40-F.&#160; &#160;&#160; Form 20-F&#160;&#160;[X]&#160; Form 40-F&#160;&#160;
+[&#160; ]</div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 13.7pt; MARGIN-TOP: 12pt; FONT-
+FAMILY: 'Times New Roman'; FONT-SIZE: 10pt">Indicate by check mark if the 
+registrant is submitting the Form 6-K in paper as permitted by Regulation S-T 
+Rule 101(b)(1) &#160;[&#160; ]</div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 13.7pt; MARGIN-TOP: 12pt; FONT-
+FAMILY: 'Times New Roman'; FONT-SIZE: 10pt"><font style="FONT-WEIGHT: 
+bold">Note:&#160; </font>Regulation S-T Rule 101(b)(1) only permits the 
+submission in paper of a Form 6-K if submitted solely to provide an attached 
+annual report to security holders.</div>
+</div>
+<div style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10pt">&#160;</div>
+<div style="MARGIN-TOP: 10pt; FONT-FAMILY: 'Times New Roman'; MARGIN-BOTTOM: 
+10pt; CLEAR: both; FONT-SIZE: 10pt" id="DSPFPageBreakArea">
+<div style="PAGE-BREAK-AFTER: always" id="DSPFPageBreak">
+<hr style="BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: #000000; MARGIN: 4px 0px; 
+WIDTH: 100%; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 2px; 
+COLOR: #000000; CLEAR: both; BORDER-LEFT-WIDTH: 0px" noshade="noshade">
+</div>
+</div>
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 12.55pt; MARGIN-TOP: 12pt; FONT-
+FAMILY: Calibri, sans-serif; FONT-SIZE: 11pt; FONT-WEIGHT: bold"><u><br>
+<font style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10pt">SUBMITTED 
+HEREWITH</font></u><br style="LINE-HEIGHT: 12.55pt">
+</div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 12.55pt; MARGIN-TOP: 12pt"><a 
+href="exh99_1.htm#Exhibit99.1">99.1</a><font style="WIDTH: 36pt; DISPLAY: 
+inline-block; FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 10pt" 
+id="TRGRRTFtoHTMLTab">&#160;</font>REPLICEL LIFE SCIENCES SHARE CONSOLIDATION 
+APPROVED
+<div id="DSPFPageFooter"></div>
+<div style="LINE-HEIGHT: 12.55pt">&#160;</div>
+</div>
+<div style="MARGIN-TOP: 10pt; FONT-FAMILY: 'Times New Roman'; MARGIN-BOTTOM: 
+10pt; CLEAR: both; FONT-SIZE: 10pt" id="DSPFPageBreakArea">
+<div style="PAGE-BREAK-AFTER: always" id="DSPFPageBreak">
+<hr style="BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: #000000; MARGIN: 4px 0px; 
+WIDTH: 100%; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 2px; 
+COLOR: #000000; CLEAR: both; BORDER-LEFT-WIDTH: 0px" noshade="noshade">
+</div>
+</div>
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 12.55pt; MARGIN-TOP: 12pt; FONT-
+FAMILY: 'Times New Roman'; FONT-SIZE: 10pt; FONT-WEIGHT: bold">SIGNATURES</div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 12.55pt; MARGIN-TOP: 12pt; FONT-
+FAMILY: 'Times New Roman'; FONT-SIZE: 10pt">Pursuant to the requirements of the 
+Securities Exchange Act of 1934, the registrant has duly caused this report to 
+be signed on its behalf by the undersigned, thereunto duly authorized.</div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 12.55pt; MARGIN-TOP: 12pt; FONT-
+FAMILY: 'Times New Roman'; FONT-SIZE: 10pt; FONT-WEIGHT: bold">RepliCel Life 
+Sciences Inc.<br style="LINE-HEIGHT: 12.55pt">
+</div>
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 12.55pt; FONT-FAMILY: 'Times New 
+Roman'; FONT-SIZE: 10pt"><u>/s/ Lee
+Buckler&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&
+#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#1
+60;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160
+;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </u></div>
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 12.55pt; FONT-FAMILY: 'Times New 
+Roman'; FONT-SIZE: 10pt">Lee Buckler, President &amp; CEO</div>
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 12.55pt; FONT-FAMILY: 'Times New 
+Roman'; FONT-SIZE: 10pt">Date:&#160; August 9, 2016</div>
+<div style="LINE-HEIGHT: 12.55pt; MARGIN-TOP: 12pt"><br style="LINE-HEIGHT: 
+12.55pt">
+<hr style="BORDER-BOTTOM: black 4px solid; TEXT-ALIGN: center; BACKGROUND-COLOR:
+#ffffff; HEIGHT: 10px; COLOR: #ffffff; MARGIN-LEFT: auto; BORDER-TOP: black 1px 
+solid; MARGIN-RIGHT: auto">
+</div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>exh99_1.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<html>
+<head>
+<title></title>
+<!--Licensed to: Marketwired
+    Document created using EDGARfilings PROfile 4.1.0.0
+    Copyright 1995 - 2016 Summit Financial Printing, LLC.  All rights 
+reserved.-->
+</head>
+<body style="TEXT-ALIGN: right; FONT-FAMILY: 'Times New Roman', Times, serif; 
+FONT-SIZE: 10pt" bgcolor="#ffffff" text="#000000">
+<div style="TEXT-ALIGN: left">
+<div style="TEXT-ALIGN: right; LINE-HEIGHT: 12.55pt">&#160;</div>
+<div style="TEXT-ALIGN: right; LINE-HEIGHT: 12.55pt">
+<hr style="BACKGROUND-COLOR: #ffffff; BORDER-BOTTOM: black 1px solid; BORDER-
+TOP: black 4px solid; COLOR: #ffffff; HEIGHT: 10px; MARGIN-LEFT: auto; MARGIN-
+RIGHT: auto; text-align: center; TEXT-ALIGN: center">
+<font style="FONT-WEIGHT: bold"><a name="Exhibit99.1"><!--Anchor--></a>Exhibit 
+99.1</font><br style="LINE-HEIGHT: 12.55pt">
+</div>
+<div style="LINE-HEIGHT: 13.7pt"><br style="LINE-HEIGHT: 13.7pt">
+</div>
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 13.7pt; FONT-FAMILY: 'Times New 
+Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">REPLICEL LIFE SCIENCES
+SHARE CONSOLIDATION APPROVED</div>
+<div style="LINE-HEIGHT: 12.55pt"><br style="LINE-HEIGHT: 12.55pt">
+</div>
+<div style="TEXT-ALIGN: center; LINE-HEIGHT: 12.55pt; FONT-FAMILY: 'Times New 
+Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Capital Structure 
+Restructuring Expected to Lead to Financing and Milestones</div>
+<div style="LINE-HEIGHT: 12.55pt"><br style="LINE-HEIGHT: 12.55pt">
+</div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 12.55pt; FONT-FAMILY: 'Times New 
+Roman', Times, serif; FONT-SIZE: 10pt"><font style="FONT-FAMILY: 'Times New 
+Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">VANCOUVER, BC &#8211; 
+August 9, 2016 &#8211; RepliCel Life Sciences Inc. </font>("<font style="FONT-
+FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: 
+bold">RepliCel</font>" or the "<font style="FONT-FAMILY: 'Times New Roman', 
+Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Company</font>") <font 
+style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-
+WEIGHT: bold">(OTCQB: REPCF) (TSXV: RP) (Frankfurt: P6P1)</font><font 
+style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 
+10pt">,</font><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-
+SIZE: 10pt; FONT-WEIGHT: bold">&#160;</font>a clinical stage regenerative 
+medicine company focused on the development of autologous cell therapies, 
+announced today that, further to its News Release of July 22, 2016, the TSX 
+Venture Exchange has approved the consolidation of the common shares of the 
+Company (each, a "<font style="FONT-FAMILY: 'Times New Roman', Times, serif; 
+FONT-SIZE: 10pt; FONT-WEIGHT: bold">Share</font>")<font style="FONT-FAMILY: 
+'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: 
+bold">&#160;</font>on the basis of ten (10) pre-consolidation Shares for one (1)
+post-consolidation Share (the&#160;"<font style="FONT-FAMILY: 'Times New Roman',
+Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Consolidation</font>").&#160; 
+The Consolidation will become effective at the opening of the market on 
+Wednesday, August 10, 2016.&#160; The Company's symbol shall remain as 
+"RP".&#160;</div>
+<div style="LINE-HEIGHT: 12.55pt"><br style="LINE-HEIGHT: 12.55pt">
+</div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 12.55pt; FONT-FAMILY: 'Times New 
+Roman', Times, serif; FONT-SIZE: 10pt">Currently, a total of 67,261,629 Shares 
+are issued and outstanding. Accordingly, upon the Consolidation becoming 
+effective, a total of 6,726,162 <font style="FONT-FAMILY: 'Times New Roman', 
+Times, serif; FONT-SIZE: 10pt">&#160;</font>Shares, subject to adjustments for 
+rounding, will be issued and outstanding. There is no maximum number of 
+authorized Shares. Computershare Investor Services Inc. ("<font style="FONT-
+FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: 
+bold">Computershare</font>") will mail letters of transmittal to the 
+shareholders providing instructions on exchanging pre-Consolidation share 
+certificates for post-Consolidation share certificates.&#160; Shareholders are 
+encouraged to send their share certificates, together with their letter of 
+transmittal, to Computershare in accordance with the instructions in the letter 
+of transmittal.</div>
+<div style="LINE-HEIGHT: 12.55pt"><br style="LINE-HEIGHT: 12.55pt">
+</div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 12.55pt; FONT-FAMILY: 'Times New 
+Roman', Times, serif; FONT-SIZE: 10pt">"As stated in our July 22nd news 
+release," stated RepliCel's President and CEO, R. Lee Buckler, "this 
+Consolidation is a continuation of the restructuring initiated by the Company in
+April and to be finalized with a financing that is expected to be announced 
+shortly. We have worked hard to ensure we match our programs, expenses, and 
+expected financing to ensure we have sufficient capital to move the Company 
+through several significant milestones in the months ahead."</div>
+<div style="LINE-HEIGHT: 12.55pt"><br style="LINE-HEIGHT: 12.55pt">
+</div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 12.55pt; FONT-FAMILY: 'Times New 
+Roman', Times, serif; FONT-SIZE: 10pt">The Company recently announced the launch
+of the next phase clinical testing of its RCH-01 product in Japan sponsored by 
+its licensee, Shiseido Company, and expects two clinical data milestones within
+the next six months, namely data from its phase 1/2 clinical trial of RCT-01 for
+the treatment of chronic Achilles tendinopathy and data from its phase 1 
+clinical trial of RCS-01 for the treatment of aging and sun-damaged skin. The 
+Company also has the opportunity to complete the building and validation testing
+of the commercial-grade prototypes of its next-generation dermal injector 
+devices which could be market-ready and the subject of a licensing deal by late 
+2017.</div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 12.55pt; FONT-FAMILY: 'Times New 
+Roman', Times, serif; FONT-SIZE: 10pt">&#160;</div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 12.55pt; FONT-FAMILY: 'Times New 
+Roman', Times, serif; FONT-SIZE: 10pt"><u style="FONT-WEIGHT: bold">About 
+RepliCel Life Sciences</u></div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 12.55pt; FONT-FAMILY: 'Times New 
+Roman', Times, serif; FONT-SIZE: 10pt">RepliCel is a regenerative medicine 
+company focused on developing autologous cell therapies that address conditions 
+caused by a deficit of healthy cells required for normal healing and function. 
+The Company's product pipeline is comprised of two ongoing clinical trials (RCT-
+01: tendon repair and RCS-01: skin rejuvenation) as well as its RCH-01: hair 
+restoration product under exclusive license by Shiseido Company for certain 
+Asian countries. All product candidates are based on RepliCel's innovative 
+technology utilizing cell populations isolated from a patient's healthy hair 
+follicles. The Company has also developed a propriety injection device (RCI-02) 
+optimized for the administration of its products and licensable for use with 
+other dermatology applications.</div>
+<div style="LINE-HEIGHT: 12.55pt"><br style="LINE-HEIGHT: 12.55pt">
+</div>
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 12.55pt; FONT-FAMILY: 'Times New 
+Roman', Times, serif; FONT-SIZE: 10pt">Please visit www.replicel.com for 
+additional information.</div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 12.55pt; FONT-FAMILY: 'Times New 
+Roman', Times, serif; FONT-SIZE: 10pt">&#160;</div>
+<div style="MARGIN-TOP: 10pt; MARGIN-BOTTOM: 10pt; CLEAR: both" 
+id="DSPFPageBreakArea">
+<div style="PAGE-BREAK-AFTER: always" id="DSPFPageBreak">
+<hr style="BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: #000000; MARGIN: 4px 0px; 
+WIDTH: 100%; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 2px; 
+COLOR: #000000; CLEAR: both; BORDER-LEFT-WIDTH: 0px" noshade="noshade">
+</div>
+</div>
+<div style="LINE-HEIGHT: 12.55pt"><br style="LINE-HEIGHT: 12.55pt">
+</div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 12.55pt; FONT-FAMILY: 'Times New 
+Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">For more information, 
+please contact:</div>
+<div style="LINE-HEIGHT: 12.55pt"><br style="LINE-HEIGHT: 12.55pt">
+</div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 12.55pt; FONT-FAMILY: 'Times New 
+Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">CORPORATE/INVESTOR 
+RELATIONS:</div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 12.55pt; FONT-FAMILY: 'Times New 
+Roman', Times, serif; FONT-SIZE: 10pt">R. Lee Buckler, President &amp; CEO</div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 12.55pt; FONT-FAMILY: 'Times New 
+Roman', Times, serif; FONT-SIZE: 10pt">Telephone: 604-248-8693</div>
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 12.55pt; FONT-FAMILY: 'Times New 
+Roman', Times, serif; FONT-SIZE: 10pt">Email: lee@replicel.com</div>
+<div style="LINE-HEIGHT: 12.55pt"><br style="LINE-HEIGHT: 12.55pt">
+</div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 12.55pt; FONT-STYLE: italic; FONT-
+FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Neither the TSX 
+Venture Exchange nor its Regulation Services Provider (as that term is defined 
+in policies of the TSX Venture Exchange) accepts responsibility for the adequacy
+or accuracy of this release.</div>
+<div style="LINE-HEIGHT: 12.55pt"><br style="LINE-HEIGHT: 12.55pt">
+</div>
+<div style="TEXT-ALIGN: justify; LINE-HEIGHT: 12.55pt; FONT-STYLE: italic; FONT-
+FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; MARGIN-RIGHT: 
+9.35pt">This press release contains forward-looking information that involve 
+various risks and uncertainties regarding future events. Such forward-looking 
+information can include without limitation statements based on current 
+expectations involving a number of risks and uncertainties and are not 
+guarantees of future performance of RepliCel, such as statements regarding the 
+Company's<font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 
+10pt">&#160;</font>ability to complete a financing and the two clinical data 
+milestones within the next six months and its ability to complete the building 
+and validation testing of the commercial-grade prototypes of its next-generation
+dermal injector devices which could be market-ready and the subject of a 
+licensing deal by late 2017. Such forward-looking statements and information are
+based on current expectations involving a number of risks and uncertainties and 
+are not guarantees of future performance of RepliCel. There are numerous risks 
+and uncertainties that could cause actual results and RepliCel's plans and 
+objectives to differ materially from those expressed in the forward-looking 
+information, including: failure to obtain CE mark clearance or necessary 
+regulatory approvals; delays enrolling clinical trial participants; negative 
+results from the Company's trials; the effects of government regulation on the 
+Company's business; risks associated with the Company's ability to obtain and 
+protect rights to its intellectual property; risks and uncertainties associated 
+with the Company's ability to raise additional capital; and other factors beyond
+the Company's control. Actual results and future events could differ materially 
+from those anticipated in such information. These and all subsequent written and
+oral forward-looking information are based on estimates and opinions of 
+management on the dates they are made and are expressly qualified in their 
+entirety by this notice. Except as required by law, RepliCel does not intend to 
+update these forward-looking statements.</div>
+<div style="LINE-HEIGHT: 12.55pt"><br style="LINE-HEIGHT: 12.55pt">
+</div>
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 12.55pt"><br style="LINE-HEIGHT: 
+12.55pt">
+</div>
+<div id="DSPFPageFooter">
+<div style="LINE-HEIGHT: 13.7pt">
+<hr style="BACKGROUND-COLOR: #ffffff; BORDER-BOTTOM: black 4px solid; BORDER-
+TOP: black 1px solid; COLOR: #ffffff; HEIGHT: 10px; MARGIN-LEFT: auto; MARGIN-
+RIGHT: auto; text-align: center; TEXT-ALIGN: center">
+</div>
+</div>
+</div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
