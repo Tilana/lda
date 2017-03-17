@@ -201,7 +201,7 @@ class Viewer:
                 f.write("""<col style="width:20%"> <col style="width:50%"> <col style = "width:30%"> """)
                 for coverage in doc.LDACoverage[0:5]:
                     topicNr = coverage[0]
-                    f.write("""<tr><td><a href='../Topics/LDAtopic%d.html'>Topic %d</a</td> <td> %s</td> <td> Coverage %.2f</td></tr>""" % (topicNr, topicNr, lda.topics[topicNr].keywords[0:2], coverage[1]))
+                    f.write("""<tr><td><a href='../Topics/LDAtopic%d.html'>Topic %d</a</td> <td> Coverage %.2f</td></tr>""" % (topicNr, topicNr, coverage[1]))
                 f.write("</table>")
 
             if 'LSICoverage' in attributes:

@@ -12,16 +12,18 @@ def classification_ICAAD():
     dataFeatures = dataFeatures.rename(columns={'Unnamed: 0': 'id'})
 
     features = [feature for feature in dataFeatures.columns.tolist() if dataFeatures[feature].dtypes==bool]
-    features = ['Domestic.Violence.Manual']
+    features = ['Domestic.Violence.Manual', 'Sexual.Assault.Manual']
 
     info = Info()
     info.data = 'ICAAD'
-    info.topicNr = 60 
-    info.identifier = 'LDA_T%dP10I70_tfidf_word2vec' % info.topicNr
+    info.topicNr = 55 
+    info.identifier = 'LDA_T%dP12I100_tfidf_word2vec' % info.topicNr
+    info.classifierType = 'NeuralNet'
     info.classifierType = 'DecisionTree'
 
-    selectedTopics = [1,9,12,34,47,51,59] # set to None selects all topics
-    selectedTopics = None
+    selectedTopics = [0,2,3,6,7,8,9,12,19,24,25,34,35,36,38,42,47] # set to None selects all topics
+    #selectedTopics = [0,3,6,7,8,12,24,25,34,35,36,38,42,47] # set to None selects all topics
+    #selectedTopics = None
     
     ### LOAD DATA ###
     for feature in features:
@@ -42,6 +44,16 @@ def classification_ICAAD():
         model.targetFeature = feature
 
         ### PREPROCESSING ###
+        categories = 'Documents/ICAAD/CategoryLists.csv'
+        categories = pd.read_csv(categories).astype(str)
+        categories = pd.unique(categories.values.ravel())
+
+        for elem in categories:
+            try:
+                model.data[elem] = model.data[elem].divide(sum(model.data[elem]))
+            except KeyError:
+                pass
+
         column = dataFeatures[['id', model.targetFeature]]
         model.mergeDataset(column)
         model.data = model.data.set_index('Unnamed: 0')

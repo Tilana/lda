@@ -17,7 +17,7 @@ def topicModeling():
     info.data = 'Aleph'     # 'ICAAD' 'NIPS' 'scifibooks' 'HRC'
    
     # Preprocessing #
-    info.preprocess = 1
+    info.preprocess = 0
     info.startDoc = 0 
     info.numberDoc= None 
     info.specialChars = set(u'''[,\.\'\`=\":\\\/_+]''')
@@ -35,20 +35,20 @@ def topicModeling():
     info.analyseDictionary = 0
 
     info.lowerFilter = 1     # in number of documents
-    info.upperFilter = 1  # in percent
+    info.upperFilter = 95  # in percent
 
     # LDA Model #
     info.modelType = 'LDA'  # 'LDA' 'LSI'
-    info.numberTopics = 18 
+    info.numberTopics = 20 
     info.tfidf = 0
-    info.passes = 10 
-    info.iterations = 62 
+    info.passes = 5 
+    info.iterations = 60 
     info.online = 0 
     info.chunksize = 4100 
     info.multicore = 1
 
     # Evaluation #
-    info.categories = loadCategories('Documents/categories.txt')[0]     #0 -human rights categories   1 - Scientific Paper categories
+    info.categories = loadCategories('Documents/categories.txt')[2]     #0 -human rights categories   1 - Scientific Paper categories
     
     info.setup()
 
@@ -87,9 +87,16 @@ def topicModeling():
         print 'Load Processed Document Collection'
         collection.loadPreprocessedCollection(info.collectionName)
 
+        for document in collection.documents:
+            print document.nr 
+            document.tokens = [word for word in document.tokens if len(word)>3]
+
     print 'Create Dictionary'
     dictionary = Dictionary(info.stoplist)
-    dictionary.addCollection(collection.documents)
+    for doc in collection.documents:
+        print doc.nr
+        dictionary.addDocument(doc)
+    #dictionary.addCollection(collection.documents)
 
     if info.analyseDictionary:
         'Analyse Word Frequency'
@@ -140,9 +147,8 @@ def topicModeling():
     html.printDocsRelatedTopics(lda, collection.documents, openHtml=False)
     html.documentOverview(collection.documents)
 
-    info.selectedTopics = input('Select Topics: ')
-    collection.writeDocumentFeatureFile(info, info.selectedTopics)
-
+    #info.selectedTopics = input('Select Topics: ')
+    #collection.writeDocumentFeatureFile(info, info.selectedTopics)
     info.saveToFile()
 
    

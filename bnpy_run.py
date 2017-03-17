@@ -13,8 +13,6 @@ sys.path.append(os.environ['BNPYROOT'] + '/third-party/spectral/')
 import bnpy
 import logging
 
-CONVERGENCE_THRESHOLD = 1e-3
-MAX_ITERATIONS = 50
 
 def preprocess(corpus):
     """
@@ -27,13 +25,13 @@ def preprocess(corpus):
     :return: the bnpy data object and a learned vocabulary
     """
     stopwords = set([x.strip() for x in open(os.path.join(ROOT_DIR, "stopwords", "english.txt"))])
-    MIN_DOCUMENT_FREQUENCY = 20
-    MAX_DOCUMENT_FREQUENCY = 1000
+    MIN_DOCUMENT_FREQUENCY = 8 
+    MAX_DOCUMENT_FREQUENCY = 1200 
 
     nDocs = len(corpus['text'])
     text = corpus['text'].get_values()
 
-    MAX_FEATURES = 15000
+    MAX_FEATURES = 8000
     print "Vectorizing corpus with maximum features set to " + str(MAX_FEATURES)
     vectorizer = CountVectorizer(analyzer='word',
                                       ngram_range=(1,2),
@@ -44,37 +42,39 @@ def preprocess(corpus):
                                       max_features=MAX_FEATURES,
                                       binary=True)\
 
-    vectorizer.fit_transform(text)
-    word_counts = vectorizer.fit_transform(text).tocsr()
+    #vectorizer.fit_transform(text)
+    word_counts = vectorizer.fit_transform(text)
+    #t = word_counts.tocsr()
     vocabulary = vectorizer.get_feature_names()
+    tokens = [[vocabulary[index] for index in doc.indices] for doc in word_counts]
 
     # Begin the process of converting this into a wordsData item
-    docrange = []
-    word_id = []
-    word_count = []
-    start = 0
-    total_docs = 0
-    skipped_docs = 0
-    for ii in xrange(nDocs):
-        if len(word_counts.getrow(ii).indices) > 20:
-            # we want the document to have at least 20 tokens
-            word_id.extend(word_counts.getrow(ii).indices)
-            word_count.extend(word_counts.getrow(ii).data)
-            end = start + len(word_counts.getrow(ii).indices)
-            docrange.append([start, end])
-            start = end
-            total_docs += 1
-        else:
-            skipped_docs += 1
+    #docrange = []
+    #word_id = []
+    #word_count = []
+    #start = 0
+    #total_docs = 0
+    #skipped_docs = 0
+    #for ii in xrange(nDocs):
+    #    #if len(word_counts.getrow(ii).indices) > 20:
+    #    # we want the document to have at least 20 tokens
+    #    word_id.extend(word_counts.getrow(ii).indices)
+    #    word_count.extend(word_counts.getrow(ii).data)
+    #    end = start + len(word_counts.getrow(ii).indices)
+    #    docrange.append([start, end])
+    #    start = end
+    #    total_docs += 1
+    #    #else:
+    #    #    skipped_docs += 1
 
-    print "Building BNPy Data Object"
-    bnpy_data = bnpy.data.WordsData(word_id, word_count, docrange, len(vocabulary), vocabulary, len(docrange))
-    bnpy_data.name = "readerscope"
-    print "Number of Documents Skipped: " + str(skipped_docs)
+    #print "Building BNPy Data Object"
+    #bnpy_data = bnpy.data.WordsData(word_id, word_count, docrange, len(vocabulary), vocabulary, len(docrange))
+    #bnpy_data.name = "readerscope"
+    #print "Number of Documents Skipped: " + str(skipped_docs)
 
-    return bnpy_data, vocabulary
+    return vocabulary, tokens 
 
-def learn(bnpy_data, nTask=1, numK=100, gamma=10, alpha=0.5, lam=0.1, nlap=100, nbatch=2, savefid='readerscope', taskid=1):
+def learn(bnpy_data, nTask=2, numK=20, gamma=10, alpha=0.5, lam=0.1, nlap=20, nbatch=2, savefid='newTest', taskid=1):
     '''
     This runs the actual topic model
     :param bnpy_data:
@@ -89,8 +89,9 @@ def learn(bnpy_data, nTask=1, numK=100, gamma=10, alpha=0.5, lam=0.1, nlap=100, 
     :param taskid:
     :return:
     '''
-
-    model = bnpy.Run.run(bnpy_data, 'HDPTopicModel', 'Mult', 'moVB', #'memoVB'
+    #model = bnpy.Run.run(bnpy_data, 'HDPTopicModel', 'Mult', 'moVB', #'memoVB'
+    model = bnpy.Run.run(bnpy_data, 'HDPTopicModel', 'Mult', 'VB', #'moVB', #'memoVB'
+                          doSaveToDisk=False,
                           jobname=savefid, taskid=taskid,
                           K=numK, nLap=nlap, nBatch=nbatch,
                           moves='merge,delete', mergePairSelection='corr',
@@ -99,11 +100,13 @@ def learn(bnpy_data, nTask=1, numK=100, gamma=10, alpha=0.5, lam=0.1, nlap=100, 
                           restartNumTrialsLP=50, restartNumItersLP=2,
                           m_startLap=10, d_startLap=10, nTask=nTask,
                           nCoordAscentItersLP=100, convThrLP=0.001, doFullPassBeforeMstep=1,
-                          initname="anchorwordtopics")
+                          initname='randomfromprior')
+                          #initname='randexamples')
+                          #initname="anchorwordtopics")
 
     beta = model[0].obsModel.Post.lam
     model_score = model[1]['evBound']
-    return beta, model_score
+    return beta, model_score, model
 
 def generate_theta(beta, vocabulary, text):
     """

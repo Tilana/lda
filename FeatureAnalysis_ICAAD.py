@@ -28,7 +28,7 @@ def FeatureAnalysis_ICAAD():
     #plt.hist(subData['domestic'], log=True)
 
     groupedData = subData.groupby('Sexual.Assault.Manual')
-    .hist(log=True)
+    groupedData.hist(log=True)
 
     scatter_matrix(subData, alpha=0.2, diagonal='kde')
 

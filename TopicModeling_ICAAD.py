@@ -9,6 +9,7 @@ import os.path
 from lda import dataframeUtils as df
 import csv
 import pandas as pd
+import pdb
 
 def TopicModeling_ICAAD():
     
@@ -26,7 +27,7 @@ def TopicModeling_ICAAD():
     # Preprocessing # 
     info.preprocess = 0
     info.startDoc = 0 
-    info.numberDoc= 7 
+    info.numberDoc= None 
     info.specialChars = set(u'''[,\.\'\`=\":\\\/_+]''')
     info.includeEntities = 0
     info.bigrams = 1
@@ -34,21 +35,21 @@ def TopicModeling_ICAAD():
     numbers = [str(nr) for nr in range(0,500)]
     info.whiteList= word2vec.net.vocab.keys() + numbers + keywords
     info.stoplist = list(STOPWORDS) + utils.lowerList(names.words())
+    info.stoplist = [x.strip() for x in open('stopwords/english.txt')]
 
     info.removeNames = 1
 
     # Dictionary #
     info.analyseDictionary = 0
-                                                              
-    info.lowerFilter = 2      # in number of documents
-    info.upperFilter = 0.95   # in percent
+    info.lowerFilter = 8   # in Documents                                                          
+    info.upperFilter = 0.25   # in percent
 
     # LDA #
     info.modelType = 'LDA'  # 'LDA' 'LSI'
-    info.numberTopics = 4 
+    info.numberTopics = 20 
     info.tfidf = 0
-    info.passes = 3 
-    info.iterations = 30 
+    info.passes = 20 
+    info.iterations = 70 
     info.online = 0 
     info.chunksize = 4100                                        
     info.multicore = 0
@@ -66,6 +67,7 @@ def TopicModeling_ICAAD():
     #### MODEL ####
     collection = Collection()
     html = Viewer(info) 
+    #pdb.set_trace()
 
     if not os.path.exists(info.collectionName) or info.preprocess:
         print 'Load and preprocess Document Collection'
@@ -80,12 +82,15 @@ def TopicModeling_ICAAD():
             doc.extractYear()
             doc.extractCourt()
             
-        collection.prepareDocumentCollection(lemmatize=True, includeEntities=info.includeEntities, stopwords=info.stoplist, removeShortTokens=True, threshold=1, specialChars=info.specialChars, whiteList=info.whiteList, bigrams=info.bigrams)
+        collection.prepareDocumentCollection(lemmatize=True, includeEntities=info.includeEntities, stopwords=info.stoplist, removeShortTokens=True, threshold=2, specialChars=info.specialChars, whiteList=info.whiteList, bigrams=info.bigrams)
         collection.saveDocumentCollection(info.collectionName)
 
     else:
         print 'Load Processed Document Collection'
         collection.loadPreprocessedCollection(info.collectionName)
+
+    #pdb.set_trace()
+    collection.documents = collection.documents[20:1000]
 
     print 'Create Dictionary'
     dictionary = Dictionary(info.stoplist)
@@ -120,7 +125,7 @@ def TopicModeling_ICAAD():
     
     print 'Get Documents related to Topics'
     lda.getTopicRelatedDocuments(topicCoverage, info)
-    
+
     print 'Similarity Analysis'
     lda.computeSimilarityMatrix(corpus, numFeatures=info.numberTopics, num_best = 7)
 
@@ -137,6 +142,9 @@ def TopicModeling_ICAAD():
             keywordFrequency = document.countOccurance(wordsInCategory)
             document.entities.addEntities(category, utils.sortTupleList(keywordFrequency))
         document.mostFrequentEntities = document.entities.getMostFrequent(5)
+
+    #pdb.set_trace()
+
 
     ImagePlotter.plotHistogram(maxTopicCoverage, 'Maximal Topic Coverage', 'html/' + info.data+'_'+info.identifier+'/Images/maxTopicCoverage.jpg', 'Maximal LDA Coverage', 'Number of Docs', log=1)
 
@@ -168,7 +176,7 @@ def TopicModeling_ICAAD():
     html.documentOverview(collection.documents)
 
     print('Write Feature File')
-    collection.writeDocumentFeatureFile(info, selectedTopics, keywords)
+    #collection.writeDocumentFeatureFile(info, selectedTopics, keywords)
                                                                    
     info.saveToFile()
    
