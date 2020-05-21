@@ -1,11 +1,13 @@
-#lda
+# lda
 
-lda provides a framework to analyse collections of documents:
+lda originally stands for *Latent Dirichlet Allocation* which is a statistical approach for the unsupervised extraction of themes in a text, so called topic modeling.
+
+This repository developed further and now provides a the following methods to analyse collections of documents:
  * *topicModeling.py* - uses gensim to extract the most relevant topics
  * *frequencyAnalysis.py* - returns most frequent words based on the Stanford Named-Entity Recognizer
  * *classification.py* - analysis and classification of document features with scikit-learn
  
-##Dependencies
+## Dependencies
 
 * [gensim - Topic Modeling for Humans](https://radimrehurek.com/gensim/install.html) <br />
 Gensim is a free Python library designed to automatically extract semantic topics from documents by implementing Latent Semantic Analysis, Latent Dirichlet Allocation and Term-Frequency Inverse-Document Frequency models.
